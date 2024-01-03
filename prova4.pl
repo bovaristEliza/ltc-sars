@@ -48,7 +48,7 @@ race(5,white).
 mobcat(5,1.0).
 pa3mcat(5,1.0).
 numberdoses(5,2.0).
-frailty01(5).
+frailty(5).
 antis_0(5,4.81).
 antis_2(5,349.0).
 deltaantis02(5,344.19).
@@ -237,7 +237,6 @@ mobcat(19,5.0).
 pa3mcat(19,4.0).
 numberdoses(19,1.0).
 totndrugs(19,2.0).
-ckd01(19,0.0).
 cogdis(19).
 mmsumrev(19,0.0).
 antis_0(19,4.81).
@@ -251,8 +250,7 @@ mobcat(20,5.0).
 pa3mcat(20,4.0).
 numberdoses(20,1.0).
 totndrugs(20,12.0).
-frailty01(20).
-ckd01(20,0.0).
+frailty(20).
 oad(20).
 hta(20).
 cvd(20).
@@ -272,10 +270,9 @@ mobcat(21,5.0).
 pa3mcat(21,4.0).
 numberdoses(21,1.0).
 totndrugs(21,6.0).
-frailty01(21).
-ckd01(21,0.0).
-poornut01(21).
-cancer01(21).
+frailty(21).
+poornut(21).
+cancer(21).
 oad(21).
 hta(21).
 cvd(21).
@@ -295,8 +292,7 @@ mobcat(22,5.0).
 pa3mcat(22,4.0).
 numberdoses(22,1.0).
 totndrugs(22,0.0).
-ckd01(22,0.0).
-poornut01(22).
+poornut(22).
 ibd01(22).
 oad(22).
 hta(22).
@@ -315,7 +311,7 @@ mobcat(23,4.0).
 pa3mcat(23,4.0).
 numberdoses(23,1.0).
 totndrugs(23,11.0).
-ckd01(23,1.0).
+ckd01(23).
 oad(23).
 hta(23).
 cvd(23).
@@ -334,9 +330,8 @@ mobcat(24,2.0).
 pa3mcat(24,1.0).
 numberdoses(24,1.0).
 totndrugs(24,6.0).
-frailty01(24).
-ckd01(24,0.0).
-poornut01(24).
+frailty(24).
+poornut(24).
 oad(24).
 hta(24).
 cvd(24).
@@ -356,7 +351,6 @@ mobcat(25,4.0).
 pa3mcat(25,4.0).
 numberdoses(25,1.0).
 totndrugs(25,6.0).
-ckd01(25,0.0).
 hta(25).
 cvd(25).
 cogdis(25).
@@ -372,8 +366,7 @@ mobcat(26,5.0).
 pa3mcat(26,4.0).
 numberdoses(26,1.0).
 totndrugs(26,0.0).
-frailty01(26).
-ckd01(26,0.0).
+frailty(26).
 hta(26).
 chrrespdis(26).
 depress(26).
@@ -390,9 +383,8 @@ mobcat(27,1.0).
 pa3mcat(27,4.0).
 numberdoses(27,1.0).
 totndrugs(27,4.0).
-frailty01(27).
-ckd01(27,0.0).
-cancer01(27).
+frailty(27).
+cancer(27).
 hta(27).
 cvd(27).
 obesity(27).
@@ -411,9 +403,9 @@ gender(28,1.0).
 race(28,white).
 numberdoses(28,1.0).
 totndrugs(28,3.0).
-frailty01(28).
-ckd01(28,1.0).
-immunedis01(28).
+frailty(28).
+ckd01(28).
+immunedis(28).
 hta(28).
 cvd(28).
 pad(28).
@@ -433,8 +425,7 @@ mobcat(29,1.0).
 pa3mcat(29,4.0).
 numberdoses(29,1.0).
 totndrugs(29,4.0).
-frailty01(29).
-ckd01(29,0.0).
+frailty(29).
 cogdis(29).
 epilepsia(29).
 mmsumrev(29,2.0).
@@ -451,8 +442,7 @@ mobcat(30,3.0).
 pa3mcat(30,4.0).
 numberdoses(30,2.0).
 totndrugs(30,0.0).
-ckd01(30,0.0).
-poornut01(30).
+poornut(30).
 oad(30).
 hta(30).
 depress(30).
@@ -471,7 +461,7 @@ mobcat(31,4.0).
 pa3mcat(31,4.0).
 numberdoses(31,2.0).
 totndrugs(31,6.0).
-ckd01(31,1.0).
+ckd01(31).
 oad(31).
 hta(31).
 pad(31).
@@ -490,8 +480,7 @@ mobcat(32,1.0).
 pa3mcat(32,4.0).
 numberdoses(32,2.0).
 totndrugs(32,6.0).
-frailty01(32).
-ckd01(32,0.0).
+frailty(32).
 oad(32).
 hta(32).
 depress(32).
@@ -512,7 +501,6 @@ mobcat(33,1.0).
 pa3mcat(33,4.0).
 numberdoses(33,2.0).
 totndrugs(33,2.0).
-ckd01(33,0.0).
 cogdis(33).
 mmsumrev(33,0.0).
 antis_0(33,4.81).
@@ -529,9 +517,8 @@ mobcat(34,5.0).
 pa3mcat(34,4.0).
 numberdoses(34,2.0).
 totndrugs(34,0.0).
-frailty01(34).
-ckd01(34,0.0).
-poornut01(34).
+frailty(34).
+poornut(34).
 oad(34).
 cvd(34).
 depress(34).
@@ -549,8 +536,7 @@ mobcat(35,5.0).
 pa3mcat(35,4.0).
 numberdoses(35,2.0).
 totndrugs(35,0.0).
-frailty01(35).
-ckd01(35,0.0).
+frailty(35).
 oad(35).
 hta(35).
 depress(35).
@@ -570,9 +556,8 @@ mobcat(36,4.0).
 pa3mcat(36,4.0).
 numberdoses(36,2.0).
 totndrugs(36,0.0).
-frailty01(36).
-ckd01(36,0.0).
-poornut01(36).
+frailty(36).
+poornut(36).
 oad(36).
 hta(36).
 cvd(36).
@@ -593,8 +578,7 @@ mobcat(37,0.0).
 pa3mcat(37,1.0).
 numberdoses(37,2.0).
 totndrugs(37,5.0).
-frailty01(37).
-ckd01(37,0.0).
+frailty(37).
 hta(37).
 cvd(37).
 chrrespdis(37).
@@ -614,7 +598,6 @@ mobcat(38,5.0).
 pa3mcat(38,4.0).
 numberdoses(38,2.0).
 totndrugs(38,3.0).
-ckd01(38,0.0).
 hta(38).
 cvd(38).
 hd(38).
@@ -630,11 +613,11 @@ mobcat(39,1.0).
 pa3mcat(39,4.0).
 numberdoses(39,2.0).
 totndrugs(39,4.0).
-frailty01(39).
-ckd01(39,1.0).
-poornut01(39).
-cancer01(39).
-immunedis01(39).
+frailty(39).
+ckd01(39).
+poornut(39).
+cancer(39).
+immunedis(39).
 hta(39).
 cvd(39).
 cogdis(39).
@@ -653,9 +636,8 @@ mobcat(40,5.0).
 pa3mcat(40,4.0).
 numberdoses(40,2.0).
 totndrugs(40,12.0).
-frailty01(40).
-ckd01(40,0.0).
-liverdis01(40).
+frailty(40).
+liverdis(40).
 oad(40).
 hta(40).
 cvd(40).
@@ -678,8 +660,8 @@ mobcat(41,0.0).
 pa3mcat(41,0.0).
 numberdoses(41,2.0).
 totndrugs(41,8.0).
-ckd01(41,1.0).
-poornut01(41).
+ckd01(41).
+poornut(41).
 oad(41).
 hta(41).
 chrrespdis(41).
@@ -702,7 +684,6 @@ mobcat(42,1.0).
 pa3mcat(42,4.0).
 numberdoses(42,2.0).
 totndrugs(42,5.0).
-ckd01(42,0.0).
 cogdis(42).
 epilepsia(42).
 anxiety(42).
@@ -721,7 +702,6 @@ mobcat(43,3.0).
 pa3mcat(43,4.0).
 numberdoses(43,2.0).
 totndrugs(43,6.0).
-ckd01(43,0.0).
 oad(43).
 hta(43).
 depress(43).
@@ -741,7 +721,6 @@ mobcat(44,5.0).
 pa3mcat(44,4.0).
 numberdoses(44,2.0).
 totndrugs(44,4.0).
-ckd01(44,0.0).
 park(44).
 mmsumrev(44,2.0).
 antis_0(44,4.81).
@@ -759,7 +738,7 @@ mobcat(45,1.0).
 pa3mcat(45,1.0).
 numberdoses(45,2.0).
 totndrugs(45,7.0).
-ckd01(45,1.0).
+ckd01(45).
 oad(45).
 hta(45).
 cogdis(45).
@@ -779,7 +758,6 @@ mobcat(46,1.0).
 pa3mcat(46,4.0).
 numberdoses(46,2.0).
 totndrugs(46,5.0).
-ckd01(46,0.0).
 oad(46).
 cvd(46).
 chrrespdis(46).
@@ -802,7 +780,6 @@ mobcat(47,2.0).
 pa3mcat(47,4.0).
 numberdoses(47,2.0).
 totndrugs(47,0.0).
-ckd01(47,0.0).
 oad(47).
 cvd(47).
 af(47).
@@ -825,9 +802,8 @@ mobcat(48,4.0).
 pa3mcat(48,4.0).
 numberdoses(48,2.0).
 totndrugs(48,4.0).
-frailty01(48).
-ckd01(48,0.0).
-poornut01(48).
+frailty(48).
+poornut(48).
 oad(48).
 hta(48).
 cvd(48).
@@ -848,7 +824,6 @@ mobcat(49,5.0).
 pa3mcat(49,4.0).
 numberdoses(49,2.0).
 totndrugs(49,5.0).
-ckd01(49,0.0).
 hta(49).
 cvd(49).
 pad(49).
@@ -873,7 +848,6 @@ mobcat(50,1.0).
 pa3mcat(50,4.0).
 numberdoses(50,2.0).
 totndrugs(50,3.0).
-ckd01(50,0.0).
 hta(50).
 cvd(50).
 hd(50).
@@ -893,8 +867,8 @@ mobcat(51,1.0).
 pa3mcat(51,4.0).
 numberdoses(51,1.0).
 totndrugs(51,6.0).
-frailty01(51).
-ckd01(51,1.0).
+frailty(51).
+ckd01(51).
 hta(51).
 cvd(51).
 depress(51).
@@ -913,9 +887,8 @@ mobcat(52,1.0).
 pa3mcat(52,4.0).
 numberdoses(52,2.0).
 totndrugs(52,4.0).
-frailty01(52).
-ckd01(52,0.0).
-poornut01(52).
+frailty(52).
+poornut(52).
 hta(52).
 cvd(52).
 cogdis(52).
@@ -936,9 +909,8 @@ mobcat(53,3.0).
 pa3mcat(53,1.0).
 numberdoses(53,2.0).
 totndrugs(53,2.0).
-frailty01(53).
-ckd01(53,0.0).
-poornut01(53).
+frailty(53).
+poornut(53).
 oad(53).
 hta(53).
 cvd(53).
@@ -961,7 +933,6 @@ mobcat(54,3.0).
 pa3mcat(54,4.0).
 numberdoses(54,2.0).
 totndrugs(54,5.0).
-ckd01(54,0.0).
 oad(54).
 hta(54).
 depress(54).
@@ -983,7 +954,6 @@ mobcat(55,1.0).
 pa3mcat(55,4.0).
 numberdoses(55,2.0).
 totndrugs(55,7.0).
-ckd01(55,0.0).
 oad(55).
 hta(55).
 cvd(55).
@@ -1007,7 +977,6 @@ race(56,white).
 mobcat(56,3.0).
 pa3mcat(56,4.0).
 numberdoses(56,2.0).
-ckd01(56,0.0).
 oad(56).
 hta(56).
 cvd(56).
@@ -1029,7 +998,6 @@ mobcat(57,4.0).
 pa3mcat(57,2.0).
 numberdoses(57,2.0).
 totndrugs(57,5.0).
-ckd01(57,0.0).
 hta(57).
 cvd(57).
 hd(57).
@@ -1050,8 +1018,7 @@ mobcat(58,1.0).
 pa3mcat(58,4.0).
 numberdoses(58,2.0).
 totndrugs(58,1.0).
-frailty01(58).
-ckd01(58,0.0).
+frailty(58).
 oad(58).
 hta(58).
 obesity(58).
@@ -1074,9 +1041,8 @@ mobcat(59,4.0).
 pa3mcat(59,4.0).
 numberdoses(59,1.0).
 totndrugs(59,4.0).
-frailty01(59).
-ckd01(59,0.0).
-poornut01(59).
+frailty(59).
+poornut(59).
 hta(59).
 cvd(59).
 pad(59).
@@ -1095,7 +1061,6 @@ race(60,white).
 mobcat(60,5.0).
 pa3mcat(60,4.0).
 numberdoses(60,1.0).
-ckd01(60,0.0).
 oad(60).
 hta(60).
 cvd(60).
@@ -1117,7 +1082,6 @@ mobcat(61,2.0).
 pa3mcat(61,2.0).
 numberdoses(61,1.0).
 totndrugs(61,6.0).
-ckd01(61,0.0).
 oad(61).
 cvd(61).
 cogdis(61).
@@ -1136,8 +1100,7 @@ mobcat(62,1.0).
 pa3mcat(62,4.0).
 numberdoses(62,1.0).
 totndrugs(62,11.0).
-ckd01(62,0.0).
-immunedis01(62).
+immunedis(62).
 oad(62).
 cvd(62).
 cogdis(62).
@@ -1158,7 +1121,6 @@ mobcat(63,0.0).
 pa3mcat(63,0.0).
 numberdoses(63,1.0).
 totndrugs(63,5.0).
-ckd01(63,0.0).
 cvd(63).
 pad(63).
 cogdis(63).
@@ -1179,7 +1141,6 @@ mobcat(64,0.0).
 pa3mcat(64,1.0).
 numberdoses(64,1.0).
 totndrugs(64,6.0).
-ckd01(64,0.0).
 chrrespdis(64).
 cogdis(64).
 anxiety(64).
@@ -1199,7 +1160,6 @@ mobcat(65,0.0).
 pa3mcat(65,0.0).
 numberdoses(65,1.0).
 totndrugs(65,8.0).
-ckd01(65,0.0).
 oad(65).
 hta(65).
 cvd(65).
@@ -1223,7 +1183,6 @@ mobcat(66,5.0).
 pa3mcat(66,4.0).
 numberdoses(66,1.0).
 totndrugs(66,5.0).
-ckd01(66,0.0).
 hta(66).
 chrrespdis(66).
 obesity(66).
@@ -1243,8 +1202,7 @@ mobcat(67,4.0).
 pa3mcat(67,4.0).
 numberdoses(67,1.0).
 totndrugs(67,4.0).
-frailty01(67).
-ckd01(67,0.0).
+frailty(67).
 oad(67).
 cvd(67).
 af(67).
@@ -1264,8 +1222,7 @@ mobcat(68,4.0).
 pa3mcat(68,4.0).
 numberdoses(68,1.0).
 totndrugs(68,11.0).
-frailty01(68).
-ckd01(68,0.0).
+frailty(68).
 hta(68).
 cvd(68).
 cogdis(68).
@@ -1283,8 +1240,7 @@ mobcat(69,1.0).
 pa3mcat(69,4.0).
 numberdoses(69,1.0).
 totndrugs(69,10.0).
-frailty01(69).
-ckd01(69,0.0).
+frailty(69).
 hta(69).
 cogdis(69).
 anxiety(69).
@@ -1304,8 +1260,7 @@ mobcat(70,4.0).
 pa3mcat(70,4.0).
 numberdoses(70,2.0).
 totndrugs(70,3.0).
-ckd01(70,0.0).
-poornut01(70).
+poornut(70).
 oad(70).
 chrrespdis(70).
 cogdis(70).
@@ -1326,9 +1281,9 @@ mobcat(71,4.0).
 pa3mcat(71,4.0).
 numberdoses(71,2.0).
 totndrugs(71,1.0).
-frailty01(71).
-ckd01(71,1.0).
-cancer01(71).
+frailty(71).
+ckd01(71).
+cancer(71).
 oad(71).
 hta(71).
 cvd(71).
@@ -1356,8 +1311,7 @@ mobcat(72,3.0).
 pa3mcat(72,2.0).
 numberdoses(72,2.0).
 totndrugs(72,0.0).
-frailty01(72).
-ckd01(72,0.0).
+frailty(72).
 oad(72).
 mmsumrev(72,3.0).
 antis_2(72,1190.0).
@@ -1373,7 +1327,6 @@ mobcat(73,3.0).
 pa3mcat(73,2.0).
 numberdoses(73,2.0).
 totndrugs(73,0.0).
-ckd01(73,0.0).
 cogdis(73).
 mmsumrev(73,1.0).
 antis_2(73,362.0).
@@ -1389,9 +1342,8 @@ mobcat(74,3.0).
 pa3mcat(74,4.0).
 numberdoses(74,2.0).
 totndrugs(74,13.0).
-ckd01(74,0.0).
-immunedis01(74).
-liverdis01(74).
+immunedis(74).
+liverdis(74).
 oad(74).
 hta(74).
 cvd(74).
@@ -1420,8 +1372,7 @@ mobcat(75,1.0).
 pa3mcat(75,4.0).
 numberdoses(75,1.0).
 totndrugs(75,2.0).
-frailty01(75).
-ckd01(75,0.0).
+frailty(75).
 oad(75).
 hta(75).
 cogdis(75).
@@ -1442,7 +1393,6 @@ mobcat(76,5.0).
 pa3mcat(76,4.0).
 numberdoses(76,2.0).
 totndrugs(76,0.0).
-ckd01(76,0.0).
 oad(76).
 hta(76).
 depress(76).
@@ -1464,7 +1414,6 @@ mobcat(77,5.0).
 pa3mcat(77,4.0).
 numberdoses(77,2.0).
 totndrugs(77,4.0).
-ckd01(77,0.0).
 chrrespdis(77).
 cogdis(77).
 urol(77).
@@ -1484,7 +1433,6 @@ mobcat(78,5.0).
 pa3mcat(78,4.0).
 numberdoses(78,2.0).
 totndrugs(78,5.0).
-ckd01(78,0.0).
 oad(78).
 hta(78).
 cvd(78).
@@ -1509,9 +1457,8 @@ mobcat(79,1.0).
 pa3mcat(79,4.0).
 numberdoses(79,2.0).
 totndrugs(79,6.0).
-ckd01(79,0.0).
-cancer01(79).
-liverdis01(79).
+cancer(79).
+liverdis(79).
 oad(79).
 hta(79).
 cvd(79).
@@ -1534,8 +1481,7 @@ mobcat(80,1.0).
 pa3mcat(80,4.0).
 numberdoses(80,2.0).
 totndrugs(80,17.0).
-frailty01(80).
-ckd01(80,0.0).
+frailty(80).
 hta(80).
 cvd(80).
 depress(80).
@@ -1559,8 +1505,7 @@ mobcat(81,1.0).
 pa3mcat(81,4.0).
 numberdoses(81,2.0).
 totndrugs(81,6.0).
-frailty01(81).
-ckd01(81,0.0).
+frailty(81).
 depress(81).
 epilepsia(81).
 mmsumrev(81,3.0).
@@ -1580,10 +1525,9 @@ mobcat(82,1.0).
 pa3mcat(82,4.0).
 numberdoses(82,1.0).
 totndrugs(82,11.0).
-frailty01(82).
-ckd01(82,0.0).
-poornut01(82).
-cancer01(82).
+frailty(82).
+poornut(82).
+cancer(82).
 oad(82).
 hta(82).
 cvd(82).
@@ -1609,7 +1553,6 @@ mobcat(83,3.0).
 pa3mcat(83,4.0).
 numberdoses(83,1.0).
 totndrugs(83,4.0).
-ckd01(83,0.0).
 oad(83).
 hta(83).
 cvd(83).
@@ -1638,8 +1581,7 @@ mobcat(84,1.0).
 pa3mcat(84,4.0).
 numberdoses(84,1.0).
 totndrugs(84,6.0).
-frailty01(84).
-ckd01(84,0.0).
+frailty(84).
 oad(84).
 cvd(84).
 depress(84).
@@ -1664,7 +1606,7 @@ mobcat(85,1.0).
 pa3mcat(85,4.0).
 numberdoses(85,2.0).
 totndrugs(85,1.0).
-ckd01(85,1.0).
+ckd01(85).
 oad(85).
 cvd(85).
 chrrespdis(85).
@@ -1684,7 +1626,6 @@ race(86,white).
 mobcat(86,1.0).
 pa3mcat(86,4.0).
 numberdoses(86,2.0).
-ckd01(86,0.0).
 oad(86).
 cvd(86).
 cogdis(86).
@@ -1708,8 +1649,7 @@ mobcat(87,3.0).
 pa3mcat(87,4.0).
 numberdoses(87,2.0).
 totndrugs(87,7.0).
-ckd01(87,0.0).
-poornut01(87).
+poornut(87).
 hta(87).
 cvd(87).
 af(87).
@@ -1737,8 +1677,7 @@ mobcat(88,5.0).
 pa3mcat(88,4.0).
 numberdoses(88,2.0).
 totndrugs(88,6.0).
-ckd01(88,0.0).
-poornut01(88).
+poornut(88).
 oad(88).
 hta(88).
 cvd(88).
@@ -1764,9 +1703,8 @@ mobcat(89,5.0).
 pa3mcat(89,4.0).
 numberdoses(89,2.0).
 totndrugs(89,0.0).
-ckd01(89,0.0).
-poornut01(89).
-cancer01(89).
+poornut(89).
+cancer(89).
 oad(89).
 cogdis(89).
 mmsumrev(89,2.0).
@@ -1788,7 +1726,6 @@ mobcat(90,3.0).
 pa3mcat(90,4.0).
 numberdoses(90,2.0).
 totndrugs(90,0.0).
-ckd01(90,0.0).
 oad(90).
 hta(90).
 obesity(90).
@@ -1812,7 +1749,6 @@ mobcat(91,3.0).
 pa3mcat(91,4.0).
 numberdoses(91,2.0).
 totndrugs(91,0.0).
-ckd01(91,0.0).
 oad(91).
 hta(91).
 cvd(91).
@@ -1838,8 +1774,7 @@ mobcat(92,1.0).
 pa3mcat(92,4.0).
 numberdoses(92,2.0).
 totndrugs(92,6.0).
-frailty01(92).
-ckd01(92,0.0).
+frailty(92).
 cogdis(92).
 epilepsia(92).
 urol(92).
@@ -1862,7 +1797,6 @@ mobcat(93,5.0).
 pa3mcat(93,4.0).
 numberdoses(93,2.0).
 totndrugs(93,5.0).
-ckd01(93,0.0).
 hta(93).
 depress(93).
 cogdis(93).
@@ -1885,7 +1819,6 @@ mobcat(94,5.0).
 pa3mcat(94,4.0).
 numberdoses(94,2.0).
 totndrugs(94,4.0).
-ckd01(94,0.0).
 hta(94).
 cvd(94).
 chrrespdis(94).
@@ -1909,7 +1842,6 @@ mobcat(95,1.0).
 pa3mcat(95,4.0).
 numberdoses(95,2.0).
 totndrugs(95,8.0).
-ckd01(95,0.0).
 hta(95).
 depress(95).
 cogdis(95).
@@ -1935,7 +1867,6 @@ mobcat(96,0.0).
 pa3mcat(96,0.0).
 numberdoses(96,2.0).
 totndrugs(96,7.0).
-ckd01(96,0.0).
 hta(96).
 cogdis(96).
 park(96).
@@ -1958,7 +1889,6 @@ mobcat(97,1.0).
 pa3mcat(97,4.0).
 numberdoses(97,2.0).
 totndrugs(97,7.0).
-ckd01(97,0.0).
 oad(97).
 hta(97).
 cvd(97).
@@ -1985,8 +1915,7 @@ mobcat(98,1.0).
 pa3mcat(98,4.0).
 numberdoses(98,1.0).
 totndrugs(98,4.0).
-frailty01(98).
-ckd01(98,0.0).
+frailty(98).
 cogdis(98).
 mmsumrev(98,0.0).
 excovidtot(98).
@@ -2004,8 +1933,7 @@ mobcat(99,2.0).
 pa3mcat(99,1.0).
 numberdoses(99,1.0).
 totndrugs(99,8.0).
-frailty01(99).
-ckd01(99,0.0).
+frailty(99).
 oad(99).
 hta(99).
 cvd(99).
@@ -2029,7 +1957,7 @@ mobcat(100,1.0).
 pa3mcat(100,0.0).
 numberdoses(100,2.0).
 totndrugs(100,0.0).
-ckd01(100,1.0).
+ckd01(100).
 hta(100).
 chrrespdis(100).
 cogdis(100).
@@ -2050,7 +1978,6 @@ mobcat(101,0.0).
 pa3mcat(101,0.0).
 numberdoses(101,2.0).
 totndrugs(101,1.0).
-ckd01(101,0.0).
 cogdis(101).
 mmsumrev(101,0.0).
 excovidtot(101).
@@ -2072,8 +1999,7 @@ mobcat(102,1.0).
 pa3mcat(102,4.0).
 numberdoses(102,2.0).
 totndrugs(102,7.0).
-frailty01(102).
-ckd01(102,0.0).
+frailty(102).
 hta(102).
 cvd(102).
 pad(102).
@@ -2100,7 +2026,6 @@ mobcat(103,2.0).
 pa3mcat(103,1.0).
 numberdoses(103,2.0).
 totndrugs(103,7.0).
-ckd01(103,0.0).
 oad(103).
 hta(103).
 chrrespdis(103).
@@ -2123,8 +2048,7 @@ race(104,not available).
 mobcat(104,3.0).
 pa3mcat(104,4.0).
 numberdoses(104,2.0).
-ckd01(104,0.0).
-cancer01(104).
+cancer(104).
 oad(104).
 hta(104).
 cogdis(104).
@@ -2152,9 +2076,8 @@ mobcat(105,1.0).
 pa3mcat(105,4.0).
 numberdoses(105,2.0).
 totndrugs(105,5.0).
-frailty01(105).
-ckd01(105,0.0).
-cancer01(105).
+frailty(105).
+cancer(105).
 hta(105).
 cvd(105).
 depress(105).
@@ -2177,7 +2100,6 @@ gender(106,2.0).
 race(106,white).
 numberdoses(106,3.0).
 totndrugs(106,7.0).
-ckd01(106,0.0).
 hta(106).
 cvd(106).
 depress(106).
@@ -2201,7 +2123,6 @@ mobcat(107,2.0).
 pa3mcat(107,2.0).
 numberdoses(107,3.0).
 totndrugs(107,0.0).
-ckd01(107,0.0).
 oad(107).
 hta(107).
 cvd(107).
@@ -2226,8 +2147,7 @@ mobcat(108,5.0).
 pa3mcat(108,4.0).
 numberdoses(108,3.0).
 totndrugs(108,8.0).
-ckd01(108,0.0).
-liverdis01(108).
+liverdis(108).
 hta(108).
 cvd(108).
 chrrespdis(108).
@@ -2253,8 +2173,7 @@ mobcat(109,3.0).
 pa3mcat(109,4.0).
 numberdoses(109,3.0).
 totndrugs(109,7.0).
-ckd01(109,0.0).
-cancer01(109).
+cancer(109).
 oad(109).
 hta(109).
 cvd(109).
@@ -2279,7 +2198,6 @@ mobcat(110,2.0).
 pa3mcat(110,4.0).
 numberdoses(110,3.0).
 totndrugs(110,5.0).
-ckd01(110,0.0).
 hta(110).
 cvd(110).
 depress(110).
@@ -2306,7 +2224,6 @@ mobcat(111,3.0).
 pa3mcat(111,4.0).
 numberdoses(111,3.0).
 totndrugs(111,2.0).
-ckd01(111,0.0).
 cvd(111).
 cogdis(111).
 mmsumrev(111,1.0).
@@ -2328,7 +2245,6 @@ mobcat(112,1.0).
 pa3mcat(112,4.0).
 numberdoses(112,3.0).
 totndrugs(112,1.0).
-ckd01(112,0.0).
 oad(112).
 hta(112).
 obesity(112).
@@ -2353,7 +2269,6 @@ mobcat(113,4.0).
 pa3mcat(113,4.0).
 numberdoses(113,3.0).
 totndrugs(113,3.0).
-ckd01(113,0.0).
 oad(113).
 cvd(113).
 chrrespdis(113).
@@ -2380,7 +2295,6 @@ mobcat(114,1.0).
 pa3mcat(114,4.0).
 numberdoses(114,3.0).
 totndrugs(114,5.0).
-ckd01(114,0.0).
 hta(114).
 cogdis(114).
 anxiety(114).
@@ -2403,9 +2317,8 @@ mobcat(115,0.0).
 pa3mcat(115,0.0).
 numberdoses(115,1.0).
 totndrugs(115,3.0).
-ckd01(115,0.0).
-cancer01(115).
-liverdis01(115).
+cancer(115).
+liverdis(115).
 oad(115).
 cvd(115).
 af(115).
@@ -2432,7 +2345,6 @@ mobcat(116,1.0).
 pa3mcat(116,4.0).
 numberdoses(116,3.0).
 totndrugs(116,13.0).
-ckd01(116,0.0).
 oad(116).
 hta(116).
 cvd(116).
@@ -2458,7 +2370,6 @@ mobcat(117,1.0).
 pa3mcat(117,4.0).
 numberdoses(117,1.0).
 totndrugs(117,10.0).
-ckd01(117,0.0).
 oad(117).
 hta(117).
 cvd(117).
@@ -2485,9 +2396,8 @@ mobcat(118,3.0).
 pa3mcat(118,4.0).
 numberdoses(118,3.0).
 totndrugs(118,8.0).
-ckd01(118,0.0).
-immunedis01(118).
-liverdis01(118).
+immunedis(118).
+liverdis(118).
 oad(118).
 hta(118).
 cvd(118).
@@ -2514,7 +2424,7 @@ mobcat(119,3.0).
 pa3mcat(119,4.0).
 numberdoses(119,3.0).
 totndrugs(119,13.0).
-ckd01(119,1.0).
+ckd01(119).
 hta(119).
 cvd(119).
 cogdis(119).
@@ -2542,8 +2452,8 @@ mobcat(120,1.0).
 pa3mcat(120,4.0).
 numberdoses(120,3.0).
 totndrugs(120,8.0).
-ckd01(120,1.0).
-poornut01(120).
+ckd01(120).
+poornut(120).
 oad(120).
 hta(120).
 cvd(120).
@@ -2569,8 +2479,8 @@ mobcat(121,3.0).
 pa3mcat(121,4.0).
 numberdoses(121,3.0).
 totndrugs(121,4.0).
-ckd01(121,1.0).
-poornut01(121).
+ckd01(121).
+poornut(121).
 oad(121).
 hta(121).
 cvd(121).
@@ -2598,8 +2508,7 @@ mobcat(122,4.0).
 pa3mcat(122,4.0).
 numberdoses(122,3.0).
 totndrugs(122,3.0).
-ckd01(122,0.0).
-poornut01(122).
+poornut(122).
 hta(122).
 cogdis(122).
 mmsumrev(122,2.0).
@@ -2622,7 +2531,6 @@ mobcat(123,2.0).
 pa3mcat(123,0.0).
 numberdoses(123,3.0).
 totndrugs(123,7.0).
-ckd01(123,0.0).
 oad(123).
 hta(123).
 cvd(123).
@@ -2650,8 +2558,8 @@ mobcat(124,3.0).
 pa3mcat(124,4.0).
 numberdoses(124,3.0).
 totndrugs(124,7.0).
-ckd01(124,1.0).
-poornut01(124).
+ckd01(124).
+poornut(124).
 hta(124).
 cvd(124).
 af(124).
@@ -2678,8 +2586,8 @@ mobcat(125,2.0).
 pa3mcat(125,2.0).
 numberdoses(125,3.0).
 totndrugs(125,5.0).
-ckd01(125,1.0).
-poornut01(125).
+ckd01(125).
+poornut(125).
 oad(125).
 hta(125).
 cvd(125).
@@ -2706,7 +2614,6 @@ mobcat(126,0.0).
 pa3mcat(126,0.0).
 numberdoses(126,2.0).
 totndrugs(126,7.0).
-ckd01(126,0.0).
 hta(126).
 cvd(126).
 cogdis(126).
@@ -2733,7 +2640,6 @@ mobcat(127,3.0).
 pa3mcat(127,4.0).
 numberdoses(127,2.0).
 totndrugs(127,11.0).
-ckd01(127,0.0).
 oad(127).
 hta(127).
 pad(127).
@@ -2759,7 +2665,6 @@ gender(128,2.0).
 race(128,white).
 numberdoses(128,2.0).
 totndrugs(128,2.0).
-ckd01(128,0.0).
 hta(128).
 cvd(128).
 cogdis(128).
@@ -2784,8 +2689,7 @@ mobcat(129,5.0).
 pa3mcat(129,4.0).
 numberdoses(129,3.0).
 totndrugs(129,3.0).
-ckd01(129,0.0).
-poornut01(129).
+poornut(129).
 oad(129).
 hta(129).
 chrrespdis(129).
@@ -2810,10 +2714,9 @@ mobcat(130,1.0).
 pa3mcat(130,2.0).
 numberdoses(130,2.0).
 totndrugs(130,4.0).
-frailty01(130).
-ckd01(130,0.0).
-poornut01(130).
-cancer01(130).
+frailty(130).
+poornut(130).
+cancer(130).
 depress(130).
 cogdis(130).
 anxiety(130).
@@ -3458,7 +3361,6 @@ mobcat(166,0.0).
 pa3mcat(166,0.0).
 numberdoses(166,1.0).
 totndrugs(166,4.0).
-ckd01(166,0.0).
 cogdis(166).
 thyrdis(166).
 epilepsia(166).
@@ -3482,7 +3384,6 @@ mobcat(167,0.0).
 pa3mcat(167,0.0).
 numberdoses(167,2.0).
 totndrugs(167,8.0).
-ckd01(167,0.0).
 oad(167).
 cvd(167).
 chrrespdis(167).
@@ -3510,8 +3411,7 @@ mobcat(168,4.0).
 pa3mcat(168,4.0).
 numberdoses(168,2.0).
 totndrugs(168,7.0).
-frailty01(168).
-ckd01(168,0.0).
+frailty(168).
 oad(168).
 hta(168).
 cvd(168).
@@ -3538,7 +3438,6 @@ mobcat(169,1.0).
 pa3mcat(169,4.0).
 numberdoses(169,2.0).
 totndrugs(169,5.0).
-ckd01(169,0.0).
 oad(169).
 hta(169).
 depress(169).
@@ -3561,8 +3460,7 @@ race(170,white).
 mobcat(170,0.0).
 pa3mcat(170,0.0).
 numberdoses(170,2.0).
-frailty01(170).
-ckd01(170,0.0).
+frailty(170).
 hta(170).
 pad(170).
 chrrespdis(170).
@@ -3589,7 +3487,6 @@ mobcat(171,0.0).
 pa3mcat(171,2.0).
 numberdoses(171,3.0).
 totndrugs(171,0.0).
-ckd01(171,0.0).
 hta(171).
 depress(171).
 mmsumrev(171,2.0).
@@ -3613,7 +3510,6 @@ mobcat(172,0.0).
 pa3mcat(172,4.0).
 numberdoses(172,3.0).
 totndrugs(172,1.0).
-ckd01(172,0.0).
 oad(172).
 hta(172).
 cvd(172).
@@ -3637,8 +3533,7 @@ race(173,white).
 mobcat(173,2.0).
 pa3mcat(173,2.0).
 numberdoses(173,2.0).
-ckd01(173,0.0).
-cancer01(173).
+cancer(173).
 hta(173).
 pad(173).
 mmsumrev(173,5.0).
@@ -3660,7 +3555,6 @@ gender(174,1.0).
 race(174,white).
 numberdoses(174,2.0).
 totndrugs(174,3.0).
-ckd01(174,0.0).
 hta(174).
 depress(174).
 mmsumrev(174,2.0).
@@ -3681,7 +3575,6 @@ patient(174,neg).
 gender(175,2.0).
 race(175,white).
 numberdoses(175,2.0).
-ckd01(175,0.0).
 hta(175).
 cvd(175).
 depress(175).
@@ -3705,7 +3598,7 @@ gender(176,1.0).
 race(176,white).
 numberdoses(176,1.0).
 totndrugs(176,3.0).
-ckd01(176,1.0).
+ckd01(176).
 cogdis(176).
 anxiety(176).
 mmsumrev(176,2.0).
@@ -3725,7 +3618,6 @@ gender(177,2.0).
 race(177,white).
 numberdoses(177,1.0).
 totndrugs(177,5.0).
-ckd01(177,0.0).
 oad(177).
 hta(177).
 mmsumrev(177,3.0).
@@ -3745,7 +3637,7 @@ gender(178,1.0).
 race(178,other or unknown).
 numberdoses(178,2.0).
 totndrugs(178,12.0).
-ckd01(178,1.0).
+ckd01(178).
 hta(178).
 cvd(178).
 anxiety(178).
@@ -3769,7 +3661,6 @@ gender(179,2.0).
 race(179,white).
 numberdoses(179,2.0).
 totndrugs(179,2.0).
-ckd01(179,0.0).
 oad(179).
 hta(179).
 cogdis(179).
@@ -3794,7 +3685,6 @@ mobcat(180,4.0).
 pa3mcat(180,4.0).
 numberdoses(180,3.0).
 totndrugs(180,2.0).
-ckd01(180,0.0).
 oad(180).
 hta(180).
 cogdis(180).
@@ -3820,8 +3710,7 @@ mobcat(181,1.0).
 pa3mcat(181,4.0).
 numberdoses(181,2.0).
 totndrugs(181,13.0).
-frailty01(181).
-ckd01(181,0.0).
+frailty(181).
 hta(181).
 cvd(181).
 depress(181).
@@ -3850,7 +3739,6 @@ mobcat(182,3.0).
 pa3mcat(182,4.0).
 numberdoses(182,2.0).
 totndrugs(182,11.0).
-ckd01(182,0.0).
 cvd(182).
 depress(182).
 cogdis(182).
@@ -3878,8 +3766,7 @@ mobcat(183,2.0).
 pa3mcat(183,2.0).
 numberdoses(183,2.0).
 totndrugs(183,4.0).
-frailty01(183).
-ckd01(183,0.0).
+frailty(183).
 hta(183).
 depress(183).
 cogdis(183).
@@ -3905,8 +3792,7 @@ mobcat(184,1.0).
 pa3mcat(184,4.0).
 numberdoses(184,3.0).
 totndrugs(184,13.0).
-frailty01(184).
-ckd01(184,0.0).
+frailty(184).
 oad(184).
 hta(184).
 cvd(184).
@@ -3936,8 +3822,7 @@ mobcat(185,1.0).
 pa3mcat(185,4.0).
 numberdoses(185,3.0).
 totndrugs(185,8.0).
-frailty01(185).
-ckd01(185,0.0).
+frailty(185).
 oad(185).
 hta(185).
 cvd(185).
@@ -3965,8 +3850,7 @@ mobcat(186,0.0).
 pa3mcat(186,2.0).
 numberdoses(186,2.0).
 totndrugs(186,6.0).
-frailty01(186).
-ckd01(186,0.0).
+frailty(186).
 hta(186).
 cvd(186).
 chrrespdis(186).
@@ -3995,8 +3879,7 @@ mobcat(187,2.0).
 pa3mcat(187,2.0).
 numberdoses(187,2.0).
 totndrugs(187,10.0).
-frailty01(187).
-ckd01(187,0.0).
+frailty(187).
 hta(187).
 cvd(187).
 af(187).
@@ -4025,7 +3908,7 @@ mobcat(188,1.0).
 pa3mcat(188,4.0).
 numberdoses(188,3.0).
 totndrugs(188,4.0).
-ckd01(188,1.0).
+ckd01(188).
 hta(188).
 cvd(188).
 chrrespdis(188).
@@ -4054,8 +3937,7 @@ mobcat(189,5.0).
 pa3mcat(189,4.0).
 numberdoses(189,3.0).
 totndrugs(189,5.0).
-frailty01(189).
-ckd01(189,0.0).
+frailty(189).
 oad(189).
 hta(189).
 cvd(189).
@@ -4087,8 +3969,7 @@ mobcat(190,1.0).
 pa3mcat(190,2.0).
 numberdoses(190,2.0).
 totndrugs(190,7.0).
-frailty01(190).
-ckd01(190,0.0).
+frailty(190).
 oad(190).
 hta(190).
 cvd(190).
@@ -4115,8 +3996,8 @@ mobcat(191,1.0).
 pa3mcat(191,4.0).
 numberdoses(191,2.0).
 totndrugs(191,7.0).
-frailty01(191).
-ckd01(191,1.0).
+frailty(191).
+ckd01(191).
 oad(191).
 hta(191).
 cogdis(191).
@@ -4141,7 +4022,6 @@ mobcat(192,5.0).
 pa3mcat(192,4.0).
 numberdoses(192,3.0).
 totndrugs(192,8.0).
-ckd01(192,0.0).
 hta(192).
 depress(192).
 cogdis(192).
@@ -4171,7 +4051,6 @@ mobcat(193,0.0).
 pa3mcat(193,0.0).
 numberdoses(193,3.0).
 totndrugs(193,7.0).
-ckd01(193,0.0).
 oad(193).
 hta(193).
 cvd(193).
@@ -4200,9 +4079,9 @@ mobcat(194,0.0).
 pa3mcat(194,1.0).
 numberdoses(194,3.0).
 totndrugs(194,7.0).
-frailty01(194).
-ckd01(194,1.0).
-poornut01(194).
+frailty(194).
+ckd01(194).
+poornut(194).
 hta(194).
 depress(194).
 cogdis(194).
@@ -4229,8 +4108,7 @@ mobcat(195,2.0).
 pa3mcat(195,1.0).
 numberdoses(195,3.0).
 totndrugs(195,4.0).
-ckd01(195,0.0).
-poornut01(195).
+poornut(195).
 oad(195).
 hta(195).
 cvd(195).
@@ -4256,7 +4134,6 @@ mobcat(196,3.0).
 pa3mcat(196,4.0).
 numberdoses(196,3.0).
 totndrugs(196,8.0).
-ckd01(196,0.0).
 oad(196).
 hta(196).
 cvd(196).
@@ -4285,7 +4162,6 @@ mobcat(197,0.0).
 pa3mcat(197,1.0).
 numberdoses(197,3.0).
 totndrugs(197,7.0).
-ckd01(197,0.0).
 oad(197).
 cvd(197).
 chrrespdis(197).
@@ -4313,7 +4189,6 @@ mobcat(198,3.0).
 pa3mcat(198,4.0).
 numberdoses(198,3.0).
 totndrugs(198,7.0).
-ckd01(198,0.0).
 oad(198).
 hta(198).
 cvd(198).
@@ -4339,8 +4214,8 @@ mobcat(199,2.0).
 pa3mcat(199,2.0).
 numberdoses(199,3.0).
 totndrugs(199,7.0).
-frailty01(199).
-ckd01(199,1.0).
+frailty(199).
+ckd01(199).
 oad(199).
 cvd(199).
 depress(199).
@@ -4368,8 +4243,8 @@ mobcat(200,3.0).
 pa3mcat(200,4.0).
 numberdoses(200,3.0).
 totndrugs(200,0.0).
-ckd01(200,1.0).
-poornut01(200).
+ckd01(200).
+poornut(200).
 oad(200).
 hta(200).
 cvd(200).
@@ -4397,8 +4272,8 @@ mobcat(201,2.0).
 pa3mcat(201,2.0).
 numberdoses(201,3.0).
 totndrugs(201,4.0).
-ckd01(201,1.0).
-poornut01(201).
+ckd01(201).
+poornut(201).
 hta(201).
 cogdis(201).
 thyrdis(201).
@@ -4424,7 +4299,6 @@ mobcat(202,1.0).
 pa3mcat(202,0.0).
 numberdoses(202,3.0).
 totndrugs(202,1.0).
-ckd01(202,0.0).
 chrrespdis(202).
 mmsumrev(202,2.0).
 antis_0(202,4.81).
@@ -4441,8 +4315,7 @@ race(203,white).
 mobcat(203,3.0).
 pa3mcat(203,4.0).
 numberdoses(203,3.0).
-ckd01(203,0.0).
-poornut01(203).
+poornut(203).
 hta(203).
 cvd(203).
 cogdis(203).
@@ -4469,7 +4342,6 @@ mobcat(204,0.0).
 pa3mcat(204,1.0).
 numberdoses(204,3.0).
 totndrugs(204,7.0).
-ckd01(204,0.0).
 hta(204).
 cvd(204).
 cogdis(204).
@@ -4496,8 +4368,8 @@ mobcat(205,3.0).
 pa3mcat(205,2.0).
 numberdoses(205,3.0).
 totndrugs(205,4.0).
-ckd01(205,1.0).
-poornut01(205).
+ckd01(205).
+poornut(205).
 cogdis(205).
 anxiety(205).
 mmsumrev(205,2.0).
@@ -4521,8 +4393,8 @@ mobcat(206,3.0).
 pa3mcat(206,4.0).
 numberdoses(206,3.0).
 totndrugs(206,6.0).
-ckd01(206,1.0).
-poornut01(206).
+ckd01(206).
+poornut(206).
 hta(206).
 cvd(206).
 depress(206).
@@ -4551,8 +4423,8 @@ mobcat(207,0.0).
 pa3mcat(207,1.0).
 numberdoses(207,3.0).
 totndrugs(207,8.0).
-ckd01(207,1.0).
-poornut01(207).
+ckd01(207).
+poornut(207).
 hta(207).
 cvd(207).
 cogdis(207).
@@ -4580,8 +4452,8 @@ mobcat(208,0.0).
 pa3mcat(208,2.0).
 numberdoses(208,3.0).
 totndrugs(208,10.0).
-ckd01(208,1.0).
-poornut01(208).
+ckd01(208).
+poornut(208).
 hta(208).
 cvd(208).
 af(208).
@@ -4610,8 +4482,8 @@ race(209,white).
 mobcat(209,1.0).
 pa3mcat(209,2.0).
 numberdoses(209,3.0).
-frailty01(209).
-ckd01(209,1.0).
+frailty(209).
+ckd01(209).
 hta(209).
 depress(209).
 cogdis(209).
@@ -4638,8 +4510,8 @@ mobcat(210,3.0).
 pa3mcat(210,4.0).
 numberdoses(210,3.0).
 totndrugs(210,10.0).
-ckd01(210,1.0).
-liverdis01(210).
+ckd01(210).
+liverdis(210).
 oad(210).
 hta(210).
 cvd(210).
@@ -4662,8 +4534,7 @@ mobcat(211,1.0).
 pa3mcat(211,4.0).
 numberdoses(211,3.0).
 totndrugs(211,11.0).
-ckd01(211,0.0).
-poornut01(211).
+poornut(211).
 oad(211).
 hta(211).
 cvd(211).
@@ -4690,7 +4561,7 @@ mobcat(212,1.0).
 pa3mcat(212,4.0).
 numberdoses(212,3.0).
 totndrugs(212,6.0).
-ckd01(212,1.0).
+ckd01(212).
 oad(212).
 cogdis(212).
 epilepsia(212).
@@ -4714,7 +4585,7 @@ race(213,white).
 mobcat(213,1.0).
 pa3mcat(213,4.0).
 numberdoses(213,3.0).
-ckd01(213,1.0).
+ckd01(213).
 oad(213).
 hta(213).
 cvd(213).
@@ -4742,8 +4613,7 @@ mobcat(214,3.0).
 pa3mcat(214,4.0).
 numberdoses(214,3.0).
 totndrugs(214,8.0).
-ckd01(214,0.0).
-cancer01(214).
+cancer(214).
 oad(214).
 hta(214).
 cvd(214).
@@ -4771,7 +4641,6 @@ race(215,white).
 mobcat(215,0.0).
 pa3mcat(215,1.0).
 numberdoses(215,3.0).
-ckd01(215,0.0).
 oad(215).
 hta(215).
 chrrespdis(215).
@@ -4799,7 +4668,6 @@ mobcat(216,3.0).
 pa3mcat(216,4.0).
 numberdoses(216,3.0).
 totndrugs(216,6.0).
-ckd01(216,0.0).
 hta(216).
 cvd(216).
 chrrespdis(216).
@@ -4824,8 +4692,8 @@ mobcat(217,3.0).
 pa3mcat(217,4.0).
 numberdoses(217,3.0).
 totndrugs(217,11.0).
-frailty01(217).
-ckd01(217,1.0).
+frailty(217).
+ckd01(217).
 oad(217).
 hta(217).
 cvd(217).
@@ -4857,9 +4725,8 @@ mobcat(218,4.0).
 pa3mcat(218,4.0).
 numberdoses(218,3.0).
 totndrugs(218,6.0).
-frailty01(218).
-ckd01(218,0.0).
-immunedis01(218).
+frailty(218).
+immunedis(218).
 oad(218).
 hta(218).
 cvd(218).
@@ -4888,9 +4755,9 @@ mobcat(219,4.0).
 pa3mcat(219,4.0).
 numberdoses(219,3.0).
 totndrugs(219,6.0).
-frailty01(219).
-ckd01(219,1.0).
-liverdis01(219).
+frailty(219).
+ckd01(219).
+liverdis(219).
 oad(219).
 hta(219).
 cvd(219).
@@ -4917,7 +4784,6 @@ mobcat(220,1.0).
 pa3mcat(220,4.0).
 numberdoses(220,2.0).
 totndrugs(220,8.0).
-ckd01(220,0.0).
 oad(220).
 hta(220).
 cvd(220).
@@ -4948,8 +4814,7 @@ mobcat(221,4.0).
 pa3mcat(221,4.0).
 numberdoses(221,2.0).
 totndrugs(221,5.0).
-ckd01(221,0.0).
-poornut01(221).
+poornut(221).
 oad(221).
 hta(221).
 cvd(221).
@@ -4977,7 +4842,6 @@ mobcat(222,3.0).
 pa3mcat(222,4.0).
 numberdoses(222,3.0).
 totndrugs(222,6.0).
-ckd01(222,0.0).
 oad(222).
 hta(222).
 obesity(222).
@@ -5006,7 +4870,6 @@ mobcat(223,2.0).
 pa3mcat(223,1.0).
 numberdoses(223,2.0).
 totndrugs(223,6.0).
-ckd01(223,0.0).
 oad(223).
 hta(223).
 cvd(223).
@@ -5038,7 +4901,6 @@ mobcat(224,0.0).
 pa3mcat(224,2.0).
 numberdoses(224,3.0).
 totndrugs(224,0.0).
-ckd01(224,0.0).
 cvd(224).
 chrrespdis(224).
 depress(224).
@@ -5066,7 +4928,6 @@ mobcat(225,5.0).
 pa3mcat(225,4.0).
 numberdoses(225,2.0).
 totndrugs(225,4.0).
-ckd01(225,0.0).
 oad(225).
 hta(225).
 obesity(225).
@@ -5093,7 +4954,6 @@ mobcat(226,3.0).
 pa3mcat(226,2.0).
 numberdoses(226,2.0).
 totndrugs(226,3.0).
-ckd01(226,0.0).
 hta(226).
 cogdis(226).
 anxiety(226).
@@ -5119,8 +4979,7 @@ mobcat(227,2.0).
 pa3mcat(227,1.0).
 numberdoses(227,2.0).
 totndrugs(227,8.0).
-frailty01(227).
-ckd01(227,0.0).
+frailty(227).
 oad(227).
 depress(227).
 cogdis(227).
@@ -5147,8 +5006,7 @@ mobcat(228,4.0).
 pa3mcat(228,4.0).
 numberdoses(228,2.0).
 totndrugs(228,8.0).
-frailty01(228).
-ckd01(228,0.0).
+frailty(228).
 oad(228).
 hta(228).
 chrrespdis(228).
@@ -5177,9 +5035,9 @@ mobcat(229,5.0).
 pa3mcat(229,4.0).
 numberdoses(229,2.0).
 totndrugs(229,11.0).
-frailty01(229).
-ckd01(229,1.0).
-poornut01(229).
+frailty(229).
+ckd01(229).
+poornut(229).
 oad(229).
 hta(229).
 cvd(229).
@@ -5207,8 +5065,7 @@ mobcat(230,5.0).
 pa3mcat(230,4.0).
 numberdoses(230,2.0).
 totndrugs(230,4.0).
-frailty01(230).
-ckd01(230,0.0).
+frailty(230).
 hta(230).
 cogdis(230).
 park(230).
@@ -5234,8 +5091,7 @@ mobcat(231,0.0).
 pa3mcat(231,0.0).
 numberdoses(231,2.0).
 totndrugs(231,10.0).
-frailty01(231).
-ckd01(231,0.0).
+frailty(231).
 hta(231).
 cvd(231).
 depress(231).
@@ -5263,7 +5119,6 @@ mobcat(232,0.0).
 pa3mcat(232,0.0).
 numberdoses(232,2.0).
 totndrugs(232,11.0).
-ckd01(232,0.0).
 hta(232).
 cogdis(232).
 thyrdis(232).
@@ -5288,7 +5143,6 @@ mobcat(233,0.0).
 pa3mcat(233,0.0).
 numberdoses(233,2.0).
 totndrugs(233,2.0).
-ckd01(233,0.0).
 hta(233).
 chrrespdis(233).
 cogdis(233).
@@ -5313,7 +5167,6 @@ mobcat(234,0.0).
 pa3mcat(234,0.0).
 numberdoses(234,2.0).
 totndrugs(234,3.0).
-ckd01(234,0.0).
 depress(234).
 cogdis(234).
 mmsumrev(234,1.0).
@@ -5336,7 +5189,6 @@ mobcat(235,0.0).
 pa3mcat(235,0.0).
 numberdoses(235,2.0).
 totndrugs(235,5.0).
-ckd01(235,0.0).
 oad(235).
 cvd(235).
 depress(235).
@@ -5364,7 +5216,6 @@ mobcat(236,3.0).
 pa3mcat(236,4.0).
 numberdoses(236,3.0).
 totndrugs(236,2.0).
-ckd01(236,0.0).
 depress(236).
 cogdis(236).
 mmsumrev(236,1.0).
@@ -5389,7 +5240,6 @@ mobcat(237,3.0).
 pa3mcat(237,4.0).
 numberdoses(237,3.0).
 totndrugs(237,2.0).
-ckd01(237,0.0).
 mmsumrev(237,1.0).
 antis_0(237,4.81).
 antis_2(237,326.0).
@@ -5412,7 +5262,6 @@ mobcat(238,2.0).
 pa3mcat(238,1.0).
 numberdoses(238,3.0).
 totndrugs(238,2.0).
-ckd01(238,0.0).
 depress(238).
 park(238).
 mmsumrev(238,2.0).
@@ -5437,7 +5286,6 @@ mobcat(239,4.0).
 pa3mcat(239,4.0).
 numberdoses(239,3.0).
 totndrugs(239,8.0).
-ckd01(239,0.0).
 hta(239).
 cvd(239).
 cogdis(239).
@@ -5464,7 +5312,6 @@ mobcat(240,0.0).
 pa3mcat(240,0.0).
 numberdoses(240,3.0).
 totndrugs(240,2.0).
-ckd01(240,0.0).
 pad(240).
 mmsumrev(240,1.0).
 antis_0(240,4.81).
@@ -5486,8 +5333,7 @@ mobcat(241,0.0).
 pa3mcat(241,0.0).
 numberdoses(241,2.0).
 totndrugs(241,2.0).
-ckd01(241,0.0).
-liverdis01(241).
+liverdis(241).
 hta(241).
 chrrespdis(241).
 cogdis(241).
@@ -5514,7 +5360,6 @@ mobcat(242,0.0).
 pa3mcat(242,0.0).
 numberdoses(242,2.0).
 totndrugs(242,6.0).
-ckd01(242,0.0).
 epilepsia(242).
 mmsumrev(242,1.0).
 excovidtot(242).
@@ -5537,7 +5382,6 @@ mobcat(243,0.0).
 pa3mcat(243,0.0).
 numberdoses(243,2.0).
 totndrugs(243,4.0).
-ckd01(243,0.0).
 anxiety(243).
 mmsumrev(243,1.0).
 excovidtot(243).
@@ -5561,7 +5405,6 @@ mobcat(244,0.0).
 pa3mcat(244,0.0).
 numberdoses(244,2.0).
 totndrugs(244,4.0).
-ckd01(244,0.0).
 cogdis(244).
 epilepsia(244).
 anxiety(244).
@@ -5587,7 +5430,6 @@ mobcat(245,0.0).
 pa3mcat(245,0.0).
 numberdoses(245,2.0).
 totndrugs(245,3.0).
-ckd01(245,0.0).
 cogdis(245).
 mmsumrev(245,0.0).
 excovidtot(245).
@@ -5611,7 +5453,6 @@ mobcat(246,0.0).
 pa3mcat(246,0.0).
 numberdoses(246,2.0).
 totndrugs(246,2.0).
-ckd01(246,0.0).
 mmsumrev(246,1.0).
 excovidtot(246).
 antis_0(246,1400.0).
@@ -5634,7 +5475,6 @@ mobcat(247,0.0).
 pa3mcat(247,1.0).
 numberdoses(247,2.0).
 totndrugs(247,3.0).
-ckd01(247,0.0).
 cvd(247).
 cogdis(247).
 mmsumrev(247,0.0).
@@ -5659,7 +5499,6 @@ mobcat(248,0.0).
 pa3mcat(248,0.0).
 numberdoses(248,2.0).
 totndrugs(248,3.0).
-ckd01(248,0.0).
 hta(248).
 obesity(248).
 epilepsia(248).
@@ -5685,7 +5524,6 @@ mobcat(249,0.0).
 pa3mcat(249,0.0).
 numberdoses(249,2.0).
 totndrugs(249,4.0).
-ckd01(249,0.0).
 chrrespdis(249).
 cogdis(249).
 epilepsia(249).
@@ -5711,7 +5549,6 @@ mobcat(250,4.0).
 pa3mcat(250,4.0).
 numberdoses(250,2.0).
 totndrugs(250,7.0).
-ckd01(250,0.0).
 hta(250).
 cvd(250).
 depress(250).
@@ -5738,7 +5575,6 @@ mobcat(251,1.0).
 pa3mcat(251,4.0).
 numberdoses(251,2.0).
 totndrugs(251,4.0).
-ckd01(251,0.0).
 hta(251).
 urol(251).
 mmsumrev(251,2.0).
@@ -5763,7 +5599,6 @@ mobcat(252,0.0).
 pa3mcat(252,0.0).
 numberdoses(252,2.0).
 totndrugs(252,6.0).
-ckd01(252,0.0).
 oad(252).
 hta(252).
 cvd(252).
@@ -5793,7 +5628,6 @@ mobcat(253,0.0).
 pa3mcat(253,0.0).
 numberdoses(253,2.0).
 totndrugs(253,3.0).
-ckd01(253,0.0).
 mmsumrev(253,0.0).
 excovidtot(253).
 antis_0(253,846.0).
@@ -5816,7 +5650,6 @@ mobcat(254,0.0).
 pa3mcat(254,0.0).
 numberdoses(254,2.0).
 totndrugs(254,0.0).
-ckd01(254,0.0).
 cogdis(254).
 mmsumrev(254,0.0).
 excovidtot(254).
@@ -5840,7 +5673,6 @@ mobcat(255,0.0).
 pa3mcat(255,0.0).
 numberdoses(255,2.0).
 totndrugs(255,5.0).
-ckd01(255,0.0).
 cogdis(255).
 epilepsia(255).
 mmsumrev(255,1.0).
@@ -5865,7 +5697,6 @@ mobcat(256,3.0).
 pa3mcat(256,4.0).
 numberdoses(256,2.0).
 totndrugs(256,4.0).
-ckd01(256,0.0).
 cogdis(256).
 epilepsia(256).
 urol(256).
@@ -5891,7 +5722,6 @@ mobcat(257,0.0).
 pa3mcat(257,0.0).
 numberdoses(257,2.0).
 totndrugs(257,6.0).
-ckd01(257,0.0).
 cogdis(257).
 epilepsia(257).
 anxiety(257).
@@ -5917,7 +5747,6 @@ mobcat(258,0.0).
 pa3mcat(258,0.0).
 numberdoses(258,2.0).
 totndrugs(258,7.0).
-ckd01(258,0.0).
 hta(258).
 pad(258).
 epilepsia(258).
@@ -5943,7 +5772,6 @@ mobcat(259,4.0).
 pa3mcat(259,4.0).
 numberdoses(259,2.0).
 totndrugs(259,2.0).
-ckd01(259,0.0).
 cogdis(259).
 epilepsia(259).
 mmsumrev(259,1.0).
@@ -5968,7 +5796,6 @@ mobcat(260,0.0).
 pa3mcat(260,0.0).
 numberdoses(260,2.0).
 totndrugs(260,5.0).
-ckd01(260,0.0).
 epilepsia(260).
 mmsumrev(260,1.0).
 excovidtot(260).
@@ -5992,7 +5819,6 @@ mobcat(261,0.0).
 pa3mcat(261,2.0).
 numberdoses(261,2.0).
 totndrugs(261,5.0).
-ckd01(261,0.0).
 obesity(261).
 cogdis(261).
 epilepsia(261).
@@ -6019,7 +5845,6 @@ mobcat(262,0.0).
 pa3mcat(262,0.0).
 numberdoses(262,2.0).
 totndrugs(262,5.0).
-ckd01(262,0.0).
 epilepsia(262).
 anxiety(262).
 mmsumrev(262,2.0).
@@ -6044,7 +5869,6 @@ mobcat(263,3.0).
 pa3mcat(263,4.0).
 numberdoses(263,2.0).
 totndrugs(263,11.0).
-ckd01(263,0.0).
 hta(263).
 cvd(263).
 cogdis(263).
@@ -6073,7 +5897,6 @@ mobcat(264,3.0).
 pa3mcat(264,4.0).
 numberdoses(264,2.0).
 totndrugs(264,6.0).
-ckd01(264,0.0).
 depress(264).
 cogdis(264).
 epilepsia(264).
@@ -6099,7 +5922,6 @@ mobcat(265,0.0).
 pa3mcat(265,0.0).
 numberdoses(265,2.0).
 totndrugs(265,7.0).
-ckd01(265,0.0).
 pad(265).
 chrrespdis(265).
 cogdis(265).
@@ -6127,7 +5949,6 @@ mobcat(266,0.0).
 pa3mcat(266,0.0).
 numberdoses(266,2.0).
 totndrugs(266,5.0).
-ckd01(266,0.0).
 epilepsia(266).
 anxiety(266).
 mmsumrev(266,2.0).
@@ -6150,7 +5971,6 @@ mobcat(267,3.0).
 pa3mcat(267,2.0).
 numberdoses(267,2.0).
 totndrugs(267,4.0).
-ckd01(267,0.0).
 oad(267).
 cogdis(267).
 epilepsia(267).
@@ -6176,7 +5996,6 @@ mobcat(268,5.0).
 pa3mcat(268,4.0).
 numberdoses(268,2.0).
 totndrugs(268,6.0).
-ckd01(268,0.0).
 hta(268).
 chrrespdis(268).
 depress(268).
@@ -6204,8 +6023,7 @@ mobcat(269,5.0).
 pa3mcat(269,4.0).
 numberdoses(269,2.0).
 totndrugs(269,5.0).
-ckd01(269,0.0).
-poornut01(269).
+poornut(269).
 hta(269).
 cvd(269).
 chrrespdis(269).
@@ -6233,7 +6051,6 @@ mobcat(270,5.0).
 pa3mcat(270,4.0).
 numberdoses(270,2.0).
 totndrugs(270,4.0).
-ckd01(270,0.0).
 hta(270).
 mmsumrev(270,3.0).
 antis_0(270,4.81).
@@ -6255,7 +6072,6 @@ mobcat(271,0.0).
 pa3mcat(271,0.0).
 numberdoses(271,2.0).
 totndrugs(271,10.0).
-ckd01(271,0.0).
 hta(271).
 cvd(271).
 depress(271).
@@ -6284,8 +6100,7 @@ mobcat(272,2.0).
 pa3mcat(272,2.0).
 numberdoses(272,2.0).
 totndrugs(272,13.0).
-frailty01(272).
-ckd01(272,0.0).
+frailty(272).
 oad(272).
 hta(272).
 cvd(272).
@@ -6313,7 +6128,6 @@ race(273,white).
 mobcat(273,2.0).
 pa3mcat(273,0.0).
 numberdoses(273,2.0).
-ckd01(273,0.0).
 oad(273).
 hta(273).
 cvd(273).
@@ -6344,8 +6158,8 @@ mobcat(274,3.0).
 pa3mcat(274,4.0).
 numberdoses(274,2.0).
 totndrugs(274,6.0).
-ckd01(274,1.0).
-liverdis01(274).
+ckd01(274).
+liverdis(274).
 oad(274).
 hta(274).
 cvd(274).
@@ -6372,8 +6186,7 @@ mobcat(275,2.0).
 pa3mcat(275,0.0).
 numberdoses(275,2.0).
 totndrugs(275,13.0).
-ckd01(275,0.0).
-immunedis01(275).
+immunedis(275).
 oad(275).
 hta(275).
 pad(275).
@@ -6403,8 +6216,7 @@ race(276,white).
 mobcat(276,3.0).
 pa3mcat(276,4.0).
 numberdoses(276,3.0).
-ckd01(276,0.0).
-cancer01(276).
+cancer(276).
 oad(276).
 hta(276).
 cvd(276).
@@ -6431,7 +6243,6 @@ mobcat(277,1.0).
 pa3mcat(277,4.0).
 numberdoses(277,2.0).
 totndrugs(277,10.0).
-ckd01(277,0.0).
 oad(277).
 hta(277).
 cvd(277).
@@ -6461,10 +6272,9 @@ mobcat(278,0.0).
 pa3mcat(278,0.0).
 numberdoses(278,2.0).
 totndrugs(278,15.0).
-ckd01(278,0.0).
-cancer01(278).
-immunedis01(278).
-liverdis01(278).
+cancer(278).
+immunedis(278).
+liverdis(278).
 oad(278).
 hta(278).
 pad(278).
@@ -6493,8 +6303,7 @@ mobcat(279,1.0).
 pa3mcat(279,4.0).
 numberdoses(279,2.0).
 totndrugs(279,11.0).
-ckd01(279,0.0).
-immunedis01(279).
+immunedis(279).
 ibd01(279).
 oad(279).
 hta(279).
@@ -6526,7 +6335,6 @@ race(280,white).
 mobcat(280,3.0).
 pa3mcat(280,4.0).
 numberdoses(280,2.0).
-ckd01(280,0.0).
 oad(280).
 hta(280).
 cvd(280).
@@ -6556,8 +6364,7 @@ mobcat(281,3.0).
 pa3mcat(281,4.0).
 numberdoses(281,2.0).
 totndrugs(281,5.0).
-ckd01(281,0.0).
-cancer01(281).
+cancer(281).
 hta(281).
 cogdis(281).
 mmsumrev(281,2.0).
@@ -6582,8 +6389,7 @@ mobcat(282,3.0).
 pa3mcat(282,4.0).
 numberdoses(282,3.0).
 totndrugs(282,8.0).
-ckd01(282,0.0).
-liverdis01(282).
+liverdis(282).
 hta(282).
 cvd(282).
 af(282).
@@ -6613,10 +6419,10 @@ mobcat(283,1.0).
 pa3mcat(283,4.0).
 numberdoses(283,3.0).
 totndrugs(283,11.0).
-ckd01(283,1.0).
-cancer01(283).
-immunedis01(283).
-liverdis01(283).
+ckd01(283).
+cancer(283).
+immunedis(283).
+liverdis(283).
 oad(283).
 hta(283).
 cvd(283).
@@ -6647,8 +6453,7 @@ mobcat(284,3.0).
 pa3mcat(284,4.0).
 numberdoses(284,3.0).
 totndrugs(284,10.0).
-ckd01(284,0.0).
-immunedis01(284).
+immunedis(284).
 oad(284).
 hta(284).
 cvd(284).
@@ -6679,8 +6484,7 @@ mobcat(285,1.0).
 pa3mcat(285,4.0).
 numberdoses(285,2.0).
 totndrugs(285,14.0).
-ckd01(285,0.0).
-cancer01(285).
+cancer(285).
 oad(285).
 hta(285).
 cvd(285).
@@ -6709,8 +6513,7 @@ mobcat(286,2.0).
 pa3mcat(286,2.0).
 numberdoses(286,2.0).
 totndrugs(286,6.0).
-frailty01(286).
-ckd01(286,0.0).
+frailty(286).
 park(286).
 anxiety(286).
 mmsumrev(286,2.0).
@@ -6729,8 +6532,7 @@ mobcat(287,2.0).
 pa3mcat(287,2.0).
 numberdoses(287,2.0).
 totndrugs(287,2.0).
-frailty01(287).
-ckd01(287,0.0).
+frailty(287).
 hta(287).
 cvd(287).
 mmsumrev(287,1.0).
@@ -6754,8 +6556,7 @@ race(288,white).
 mobcat(288,2.0).
 pa3mcat(288,2.0).
 numberdoses(288,2.0).
-frailty01(288).
-ckd01(288,0.0).
+frailty(288).
 ibd01(288).
 depress(288).
 cogdis(288).
@@ -6784,8 +6585,7 @@ mobcat(289,2.0).
 pa3mcat(289,1.0).
 numberdoses(289,2.0).
 totndrugs(289,7.0).
-frailty01(289).
-ckd01(289,0.0).
+frailty(289).
 ibd01(289).
 oad(289).
 hta(289).
@@ -6814,8 +6614,7 @@ mobcat(290,1.0).
 pa3mcat(290,4.0).
 numberdoses(290,2.0).
 totndrugs(290,8.0).
-ckd01(290,0.0).
-liverdis01(290).
+liverdis(290).
 oad(290).
 pad(290).
 depress(290).
@@ -6844,8 +6643,7 @@ mobcat(291,1.0).
 pa3mcat(291,4.0).
 numberdoses(291,2.0).
 totndrugs(291,7.0).
-ckd01(291,0.0).
-cancer01(291).
+cancer(291).
 oad(291).
 hta(291).
 cvd(291).
@@ -6877,8 +6675,7 @@ mobcat(292,1.0).
 pa3mcat(292,4.0).
 numberdoses(292,2.0).
 totndrugs(292,7.0).
-ckd01(292,0.0).
-liverdis01(292).
+liverdis(292).
 oad(292).
 hta(292).
 cogdis(292).
@@ -6904,7 +6701,6 @@ mobcat(293,1.0).
 pa3mcat(293,1.0).
 numberdoses(293,2.0).
 totndrugs(293,0.0).
-ckd01(293,0.0).
 hta(293).
 chrrespdis(293).
 cogdis(293).
@@ -6930,7 +6726,7 @@ mobcat(294,2.0).
 pa3mcat(294,1.0).
 numberdoses(294,2.0).
 totndrugs(294,0.0).
-ckd01(294,1.0).
+ckd01(294).
 oad(294).
 hta(294).
 cvd(294).
@@ -6960,8 +6756,7 @@ mobcat(295,0.0).
 pa3mcat(295,1.0).
 numberdoses(295,2.0).
 totndrugs(295,5.0).
-frailty01(295).
-ckd01(295,0.0).
+frailty(295).
 depress(295).
 cogdis(295).
 epilepsia(295).
@@ -6987,7 +6782,6 @@ mobcat(296,1.0).
 pa3mcat(296,4.0).
 numberdoses(296,3.0).
 totndrugs(296,8.0).
-ckd01(296,0.0).
 oad(296).
 hta(296).
 chrrespdis(296).
@@ -7015,8 +6809,7 @@ mobcat(297,1.0).
 pa3mcat(297,4.0).
 numberdoses(297,3.0).
 totndrugs(297,5.0).
-frailty01(297).
-ckd01(297,0.0).
+frailty(297).
 oad(297).
 hta(297).
 cvd(297).
@@ -7046,7 +6839,6 @@ mobcat(298,0.0).
 pa3mcat(298,0.0).
 numberdoses(298,3.0).
 totndrugs(298,1.0).
-ckd01(298,0.0).
 cogdis(298).
 mmsumrev(298,0.0).
 excovidtot(298).
@@ -7066,7 +6858,6 @@ mobcat(299,3.0).
 pa3mcat(299,4.0).
 numberdoses(299,3.0).
 totndrugs(299,1.0).
-ckd01(299,0.0).
 cogdis(299).
 anxiety(299).
 mmsumrev(299,1.0).
@@ -7091,7 +6882,6 @@ mobcat(300,1.0).
 pa3mcat(300,4.0).
 numberdoses(300,3.0).
 totndrugs(300,2.0).
-ckd01(300,0.0).
 oad(300).
 cogdis(300).
 epilepsia(300).
@@ -7115,7 +6905,6 @@ mobcat(301,1.0).
 pa3mcat(301,4.0).
 numberdoses(301,3.0).
 totndrugs(301,2.0).
-ckd01(301,0.0).
 epilepsia(301).
 mmsumrev(301,1.0).
 antis_0(301,8.93).
@@ -7139,8 +6928,7 @@ mobcat(302,1.0).
 pa3mcat(302,4.0).
 numberdoses(302,3.0).
 totndrugs(302,2.0).
-ckd01(302,0.0).
-immunedis01(302).
+immunedis(302).
 cogdis(302).
 park(302).
 epilepsia(302).
@@ -7166,7 +6954,6 @@ mobcat(303,3.0).
 pa3mcat(303,4.0).
 numberdoses(303,3.0).
 totndrugs(303,2.0).
-ckd01(303,0.0).
 cvd(303).
 obesity(303).
 cogdis(303).
@@ -7193,8 +6980,7 @@ mobcat(304,0.0).
 pa3mcat(304,0.0).
 numberdoses(304,3.0).
 totndrugs(304,1.0).
-frailty01(304).
-ckd01(304,0.0).
+frailty(304).
 depress(304).
 cogdis(304).
 mmsumrev(304,2.0).
@@ -7220,8 +7006,7 @@ mobcat(305,1.0).
 pa3mcat(305,4.0).
 numberdoses(305,3.0).
 totndrugs(305,3.0).
-frailty01(305).
-ckd01(305,0.0).
+frailty(305).
 depress(305).
 cogdis(305).
 anxiety(305).
@@ -7247,9 +7032,8 @@ mobcat(306,1.0).
 pa3mcat(306,4.0).
 numberdoses(306,3.0).
 totndrugs(306,1.0).
-frailty01(306).
-ckd01(306,0.0).
-poornut01(306).
+frailty(306).
+poornut(306).
 cogdis(306).
 epilepsia(306).
 mmsumrev(306,1.0).
@@ -7274,8 +7058,7 @@ mobcat(307,4.0).
 pa3mcat(307,4.0).
 numberdoses(307,3.0).
 totndrugs(307,6.0).
-frailty01(307).
-ckd01(307,0.0).
+frailty(307).
 oad(307).
 depress(307).
 cogdis(307).
@@ -7299,7 +7082,7 @@ mobcat(308,4.0).
 pa3mcat(308,4.0).
 numberdoses(308,3.0).
 totndrugs(308,3.0).
-ckd01(308,1.0).
+ckd01(308).
 oad(308).
 hta(308).
 cvd(308).
@@ -7325,7 +7108,6 @@ mobcat(309,4.0).
 pa3mcat(309,4.0).
 numberdoses(309,3.0).
 totndrugs(309,1.0).
-ckd01(309,0.0).
 oad(309).
 hta(309).
 cvd(309).
@@ -7353,7 +7135,6 @@ mobcat(310,5.0).
 pa3mcat(310,4.0).
 numberdoses(310,3.0).
 totndrugs(310,2.0).
-ckd01(310,0.0).
 oad(310).
 depress(310).
 cogdis(310).
@@ -7379,7 +7160,6 @@ race(311,white).
 mobcat(311,3.0).
 numberdoses(311,3.0).
 totndrugs(311,2.0).
-ckd01(311,0.0).
 oad(311).
 hta(311).
 cvd(311).
@@ -7408,7 +7188,6 @@ mobcat(312,3.0).
 pa3mcat(312,4.0).
 numberdoses(312,3.0).
 totndrugs(312,4.0).
-ckd01(312,0.0).
 hta(312).
 cvd(312).
 depress(312).
@@ -7437,8 +7216,7 @@ mobcat(313,1.0).
 pa3mcat(313,4.0).
 numberdoses(313,3.0).
 totndrugs(313,2.0).
-frailty01(313).
-ckd01(313,0.0).
+frailty(313).
 hta(313).
 depress(313).
 park(313).
@@ -7464,8 +7242,7 @@ mobcat(314,0.0).
 pa3mcat(314,2.0).
 numberdoses(314,3.0).
 totndrugs(314,6.0).
-ckd01(314,0.0).
-cancer01(314).
+cancer(314).
 depress(314).
 cogdis(314).
 mmsumrev(314,2.0).
@@ -7490,7 +7267,6 @@ mobcat(315,2.0).
 pa3mcat(315,1.0).
 numberdoses(315,3.0).
 totndrugs(315,1.0).
-ckd01(315,0.0).
 hta(315).
 cogdis(315).
 mmsumrev(315,1.0).
@@ -7515,7 +7291,6 @@ mobcat(316,2.0).
 pa3mcat(316,4.0).
 numberdoses(316,3.0).
 totndrugs(316,1.0).
-ckd01(316,0.0).
 depress(316).
 cogdis(316).
 mmsumrev(316,1.0).
@@ -7540,7 +7315,6 @@ mobcat(317,1.0).
 pa3mcat(317,1.0).
 numberdoses(317,3.0).
 totndrugs(317,4.0).
-ckd01(317,0.0).
 hta(317).
 cvd(317).
 chrrespdis(317).
@@ -7567,7 +7341,6 @@ mobcat(318,2.0).
 pa3mcat(318,1.0).
 numberdoses(318,2.0).
 totndrugs(318,2.0).
-ckd01(318,0.0).
 hta(318).
 cvd(318).
 cogdis(318).
@@ -7593,8 +7366,7 @@ gender(319,2.0).
 race(319,white).
 numberdoses(319,3.0).
 totndrugs(319,4.0).
-frailty01(319).
-ckd01(319,0.0).
+frailty(319).
 hta(319).
 cvd(319).
 depress(319).
@@ -7618,8 +7390,7 @@ mobcat(320,1.0).
 pa3mcat(320,4.0).
 numberdoses(320,3.0).
 totndrugs(320,2.0).
-frailty01(320).
-ckd01(320,0.0).
+frailty(320).
 hta(320).
 cvd(320).
 cogdis(320).
@@ -7647,8 +7418,7 @@ mobcat(321,3.0).
 pa3mcat(321,4.0).
 numberdoses(321,3.0).
 totndrugs(321,4.0).
-ckd01(321,0.0).
-poornut01(321).
+poornut(321).
 cogdis(321).
 thyrdis(321).
 mmsumrev(321,2.0).
@@ -7673,7 +7443,6 @@ mobcat(322,3.0).
 pa3mcat(322,1.0).
 numberdoses(322,3.0).
 totndrugs(322,6.0).
-ckd01(322,0.0).
 cvd(322).
 depress(322).
 cogdis(322).
@@ -7699,7 +7468,7 @@ mobcat(323,3.0).
 pa3mcat(323,4.0).
 numberdoses(323,3.0).
 totndrugs(323,5.0).
-ckd01(323,1.0).
+ckd01(323).
 hta(323).
 cvd(323).
 cogdis(323).
@@ -7727,7 +7496,6 @@ mobcat(324,3.0).
 pa3mcat(324,4.0).
 numberdoses(324,3.0).
 totndrugs(324,5.0).
-ckd01(324,0.0).
 oad(324).
 hta(324).
 cvd(324).
@@ -7756,7 +7524,6 @@ race(325,white).
 mobcat(325,0.0).
 pa3mcat(325,2.0).
 numberdoses(325,3.0).
-ckd01(325,0.0).
 oad(325).
 cvd(325).
 obesity(325).
@@ -7788,7 +7555,6 @@ mobcat(326,4.0).
 pa3mcat(326,4.0).
 numberdoses(326,3.0).
 totndrugs(326,12.0).
-ckd01(326,0.0).
 ibd01(326).
 oad(326).
 cvd(326).
@@ -7818,8 +7584,8 @@ race(327,white).
 mobcat(327,0.0).
 pa3mcat(327,1.0).
 numberdoses(327,3.0).
-ckd01(327,1.0).
-cancer01(327).
+ckd01(327).
+cancer(327).
 oad(327).
 hta(327).
 cvd(327).
@@ -7850,7 +7616,6 @@ mobcat(328,1.0).
 pa3mcat(328,4.0).
 numberdoses(328,3.0).
 totndrugs(328,2.0).
-ckd01(328,0.0).
 depress(328).
 cogdis(328).
 mmsumrev(328,1.0).
@@ -7876,8 +7641,7 @@ mobcat(329,5.0).
 pa3mcat(329,4.0).
 numberdoses(329,3.0).
 totndrugs(329,4.0).
-ckd01(329,0.0).
-poornut01(329).
+poornut(329).
 hta(329).
 cvd(329).
 mmsumrev(329,1.0).
@@ -7899,7 +7663,6 @@ mobcat(330,0.0).
 pa3mcat(330,0.0).
 numberdoses(330,2.0).
 totndrugs(330,5.0).
-ckd01(330,0.0).
 hta(330).
 depress(330).
 cogdis(330).
@@ -7926,7 +7689,6 @@ mobcat(331,0.0).
 pa3mcat(331,2.0).
 numberdoses(331,3.0).
 totndrugs(331,3.0).
-ckd01(331,0.0).
 cogdis(331).
 park(331).
 mmsumrev(331,1.0).
@@ -7945,11 +7707,11 @@ mobcat(332,1.0).
 pa3mcat(332,4.0).
 numberdoses(332,3.0).
 totndrugs(332,12.0).
-frailty01(332).
-ckd01(332,1.0).
-poornut01(332).
+frailty(332).
+ckd01(332).
+poornut(332).
 ibd01(332).
-liverdis01(332).
+liverdis(332).
 oad(332).
 hta(332).
 cvd(332).
@@ -7978,7 +7740,6 @@ mobcat(333,2.0).
 pa3mcat(333,1.0).
 numberdoses(333,2.0).
 totndrugs(333,3.0).
-ckd01(333,0.0).
 oad(333).
 hta(333).
 cvd(333).
@@ -8003,7 +7764,6 @@ mobcat(334,2.0).
 pa3mcat(334,0.0).
 numberdoses(334,2.0).
 totndrugs(334,3.0).
-ckd01(334,0.0).
 oad(334).
 hta(334).
 cvd(334).
@@ -8032,7 +7792,6 @@ mobcat(335,0.0).
 pa3mcat(335,1.0).
 numberdoses(335,3.0).
 totndrugs(335,6.0).
-ckd01(335,0.0).
 oad(335).
 depress(335).
 park(335).
@@ -8057,7 +7816,6 @@ gender(336,2.0).
 race(336,white).
 numberdoses(336,3.0).
 totndrugs(336,5.0).
-ckd01(336,0.0).
 oad(336).
 hta(336).
 cvd(336).
@@ -8085,8 +7843,7 @@ mobcat(337,0.0).
 pa3mcat(337,2.0).
 numberdoses(337,3.0).
 totndrugs(337,0.0).
-ckd01(337,0.0).
-poornut01(337).
+poornut(337).
 depress(337).
 mmsumrev(337,2.0).
 antis_0(337,4.81).
@@ -8110,7 +7867,6 @@ mobcat(338,0.0).
 pa3mcat(338,2.0).
 numberdoses(338,3.0).
 totndrugs(338,0.0).
-ckd01(338,0.0).
 chrrespdis(338).
 depress(338).
 cogdis(338).
@@ -8131,9 +7887,8 @@ mobcat(339,0.0).
 pa3mcat(339,2.0).
 numberdoses(339,3.0).
 totndrugs(339,0.0).
-ckd01(339,0.0).
-poornut01(339).
-liverdis01(339).
+poornut(339).
+liverdis(339).
 hta(339).
 mmsumrev(339,3.0).
 antis_0(339,4.81).
@@ -8157,7 +7912,6 @@ mobcat(340,0.0).
 pa3mcat(340,2.0).
 numberdoses(340,3.0).
 totndrugs(340,0.0).
-ckd01(340,0.0).
 mmsumrev(340,1.0).
 antis_0(340,4.81).
 antis_2(340,1190.0).
@@ -8180,8 +7934,7 @@ mobcat(341,0.0).
 pa3mcat(341,2.0).
 numberdoses(341,3.0).
 totndrugs(341,0.0).
-ckd01(341,0.0).
-liverdis01(341).
+liverdis(341).
 hta(341).
 obesity(341).
 mmsumrev(341,3.0).
@@ -8206,7 +7959,6 @@ mobcat(342,3.0).
 pa3mcat(342,4.0).
 numberdoses(342,3.0).
 totndrugs(342,0.0).
-ckd01(342,0.0).
 hta(342).
 cogdis(342).
 mmsumrev(342,1.0).
@@ -8231,7 +7983,6 @@ mobcat(343,2.0).
 pa3mcat(343,4.0).
 numberdoses(343,3.0).
 totndrugs(343,0.0).
-ckd01(343,0.0).
 hta(343).
 cogdis(343).
 thyrdis(343).
@@ -8257,7 +8008,6 @@ mobcat(344,0.0).
 pa3mcat(344,4.0).
 numberdoses(344,3.0).
 totndrugs(344,0.0).
-ckd01(344,0.0).
 oad(344).
 hta(344).
 depress(344).
@@ -8281,7 +8031,6 @@ mobcat(345,0.0).
 pa3mcat(345,2.0).
 numberdoses(345,3.0).
 totndrugs(345,0.0).
-ckd01(345,0.0).
 hta(345).
 cvd(345).
 hd(345).
@@ -8307,7 +8056,6 @@ mobcat(346,3.0).
 pa3mcat(346,4.0).
 numberdoses(346,3.0).
 totndrugs(346,0.0).
-ckd01(346,0.0).
 hta(346).
 cogdis(346).
 mmsumrev(346,1.0).
@@ -8332,7 +8080,6 @@ mobcat(347,3.0).
 pa3mcat(347,4.0).
 numberdoses(347,3.0).
 totndrugs(347,0.0).
-ckd01(347,0.0).
 cogdis(347).
 mmsumrev(347,0.0).
 antis_0(347,4.81).
@@ -8356,7 +8103,6 @@ mobcat(348,3.0).
 pa3mcat(348,4.0).
 numberdoses(348,3.0).
 totndrugs(348,0.0).
-ckd01(348,0.0).
 oad(348).
 chrrespdis(348).
 cogdis(348).
@@ -8380,7 +8126,6 @@ mobcat(349,3.0).
 pa3mcat(349,4.0).
 numberdoses(349,3.0).
 totndrugs(349,0.0).
-ckd01(349,0.0).
 oad(349).
 hta(349).
 cvd(349).
@@ -8409,7 +8154,6 @@ mobcat(350,0.0).
 pa3mcat(350,2.0).
 numberdoses(350,3.0).
 totndrugs(350,0.0).
-ckd01(350,0.0).
 hta(350).
 cvd(350).
 hd(350).
@@ -8435,7 +8179,6 @@ mobcat(351,3.0).
 pa3mcat(351,4.0).
 numberdoses(351,3.0).
 totndrugs(351,0.0).
-ckd01(351,0.0).
 oad(351).
 cogdis(351).
 mmsumrev(351,1.0).
@@ -8460,7 +8203,6 @@ mobcat(352,3.0).
 pa3mcat(352,4.0).
 numberdoses(352,3.0).
 totndrugs(352,0.0).
-ckd01(352,0.0).
 oad(352).
 hta(352).
 cvd(352).
@@ -8490,8 +8232,7 @@ mobcat(353,2.0).
 pa3mcat(353,4.0).
 numberdoses(353,3.0).
 totndrugs(353,5.0).
-frailty01(353).
-ckd01(353,0.0).
+frailty(353).
 oad(353).
 hta(353).
 cvd(353).
@@ -8518,8 +8259,7 @@ mobcat(354,2.0).
 pa3mcat(354,0.0).
 numberdoses(354,3.0).
 totndrugs(354,0.0).
-ckd01(354,0.0).
-cancer01(354).
+cancer(354).
 oad(354).
 hta(354).
 chrrespdis(354).
@@ -8543,7 +8283,6 @@ mobcat(355,2.0).
 pa3mcat(355,2.0).
 numberdoses(355,3.0).
 totndrugs(355,0.0).
-ckd01(355,0.0).
 oad(355).
 hta(355).
 cvd(355).
@@ -8570,8 +8309,7 @@ mobcat(356,3.0).
 pa3mcat(356,4.0).
 numberdoses(356,3.0).
 totndrugs(356,0.0).
-ckd01(356,0.0).
-poornut01(356).
+poornut(356).
 oad(356).
 hta(356).
 cogdis(356).
@@ -8595,9 +8333,8 @@ mobcat(357,3.0).
 pa3mcat(357,4.0).
 numberdoses(357,3.0).
 totndrugs(357,7.0).
-ckd01(357,0.0).
-poornut01(357).
-liverdis01(357).
+poornut(357).
+liverdis(357).
 oad(357).
 hta(357).
 cvd(357).
@@ -8625,8 +8362,7 @@ mobcat(358,5.0).
 pa3mcat(358,4.0).
 numberdoses(358,3.0).
 totndrugs(358,0.0).
-ckd01(358,0.0).
-poornut01(358).
+poornut(358).
 oad(358).
 hta(358).
 cogdis(358).
@@ -8652,9 +8388,8 @@ mobcat(359,5.0).
 pa3mcat(359,4.0).
 numberdoses(359,3.0).
 totndrugs(359,5.0).
-ckd01(359,0.0).
-poornut01(359).
-liverdis01(359).
+poornut(359).
+liverdis(359).
 oad(359).
 hta(359).
 cvd(359).
@@ -8681,7 +8416,7 @@ mobcat(360,4.0).
 pa3mcat(360,4.0).
 numberdoses(360,3.0).
 totndrugs(360,8.0).
-ckd01(360,1.0).
+ckd01(360).
 oad(360).
 hta(360).
 cvd(360).
@@ -8710,8 +8445,7 @@ mobcat(361,3.0).
 pa3mcat(361,4.0).
 numberdoses(361,3.0).
 totndrugs(361,3.0).
-ckd01(361,0.0).
-poornut01(361).
+poornut(361).
 oad(361).
 hta(361).
 cogdis(361).
@@ -8736,7 +8470,6 @@ race(362,white).
 mobcat(362,4.0).
 pa3mcat(362,4.0).
 numberdoses(362,3.0).
-ckd01(362,0.0).
 oad(362).
 hta(362).
 cvd(362).
@@ -8765,7 +8498,6 @@ mobcat(363,3.0).
 pa3mcat(363,4.0).
 numberdoses(363,3.0).
 totndrugs(363,4.0).
-ckd01(363,0.0).
 depress(363).
 cogdis(363).
 thyrdis(363).
@@ -8791,7 +8523,6 @@ mobcat(364,1.0).
 pa3mcat(364,1.0).
 numberdoses(364,3.0).
 totndrugs(364,5.0).
-ckd01(364,0.0).
 oad(364).
 hta(364).
 cvd(364).
@@ -8820,8 +8551,7 @@ mobcat(365,1.0).
 pa3mcat(365,4.0).
 numberdoses(365,3.0).
 totndrugs(365,7.0).
-ckd01(365,0.0).
-liverdis01(365).
+liverdis(365).
 oad(365).
 hta(365).
 cvd(365).
@@ -8848,8 +8578,7 @@ race(366,white).
 mobcat(366,0.0).
 pa3mcat(366,0.0).
 numberdoses(366,3.0).
-frailty01(366).
-ckd01(366,0.0).
+frailty(366).
 cvd(366).
 depress(366).
 cogdis(366).
@@ -8876,7 +8605,6 @@ mobcat(367,2.0).
 pa3mcat(367,4.0).
 numberdoses(367,3.0).
 totndrugs(367,5.0).
-ckd01(367,0.0).
 oad(367).
 hta(367).
 depress(367).
@@ -8904,8 +8632,7 @@ mobcat(368,3.0).
 pa3mcat(368,4.0).
 numberdoses(368,3.0).
 totndrugs(368,11.0).
-ckd01(368,0.0).
-poornut01(368).
+poornut(368).
 oad(368).
 hta(368).
 chrrespdis(368).
@@ -8935,8 +8662,8 @@ mobcat(369,1.0).
 pa3mcat(369,4.0).
 numberdoses(369,3.0).
 totndrugs(369,3.0).
-ckd01(369,1.0).
-poornut01(369).
+ckd01(369).
+poornut(369).
 hta(369).
 cogdis(369).
 mmsumrev(369,2.0).
@@ -8955,7 +8682,6 @@ mobcat(370,2.0).
 pa3mcat(370,1.0).
 numberdoses(370,3.0).
 totndrugs(370,0.0).
-ckd01(370,0.0).
 hta(370).
 pad(370).
 cogdis(370).
@@ -8977,7 +8703,7 @@ mobcat(371,3.0).
 pa3mcat(371,1.0).
 numberdoses(371,3.0).
 totndrugs(371,1.0).
-ckd01(371,1.0).
+ckd01(371).
 oad(371).
 chrrespdis(371).
 depress(371).
@@ -8997,8 +8723,7 @@ mobcat(372,3.0).
 pa3mcat(372,4.0).
 numberdoses(372,3.0).
 totndrugs(372,0.0).
-ckd01(372,0.0).
-poornut01(372).
+poornut(372).
 oad(372).
 hta(372).
 cogdis(372).
@@ -9022,8 +8747,7 @@ mobcat(373,3.0).
 pa3mcat(373,4.0).
 numberdoses(373,3.0).
 totndrugs(373,0.0).
-frailty01(373).
-ckd01(373,0.0).
+frailty(373).
 oad(373).
 hta(373).
 depress(373).
@@ -9045,8 +8769,7 @@ mobcat(374,3.0).
 pa3mcat(374,2.0).
 numberdoses(374,3.0).
 totndrugs(374,0.0).
-frailty01(374).
-ckd01(374,0.0).
+frailty(374).
 oad(374).
 hta(374).
 obesity(374).
@@ -9069,7 +8792,6 @@ mobcat(375,3.0).
 pa3mcat(375,2.0).
 numberdoses(375,3.0).
 totndrugs(375,0.0).
-ckd01(375,0.0).
 ibd01(375).
 oad(375).
 hta(375).
@@ -9095,7 +8817,6 @@ mobcat(376,2.0).
 pa3mcat(376,1.0).
 numberdoses(376,3.0).
 totndrugs(376,1.0).
-ckd01(376,0.0).
 cogdis(376).
 mmsumrev(376,0.0).
 antis_2(376,718.0).
@@ -9115,7 +8836,6 @@ mobcat(377,3.0).
 pa3mcat(377,1.0).
 numberdoses(377,3.0).
 totndrugs(377,0.0).
-ckd01(377,0.0).
 ibd01(377).
 oad(377).
 hta(377).
@@ -9141,8 +8861,7 @@ mobcat(378,3.0).
 pa3mcat(378,1.0).
 numberdoses(378,3.0).
 totndrugs(378,0.0).
-frailty01(378).
-ckd01(378,0.0).
+frailty(378).
 hta(378).
 cvd(378).
 af(378).
@@ -9166,8 +8885,7 @@ mobcat(379,3.0).
 pa3mcat(379,4.0).
 numberdoses(379,3.0).
 totndrugs(379,0.0).
-frailty01(379).
-ckd01(379,0.0).
+frailty(379).
 hta(379).
 mmsumrev(379,2.0).
 antis_6(379,4.81).
@@ -9186,8 +8904,7 @@ mobcat(380,3.0).
 pa3mcat(380,4.0).
 numberdoses(380,3.0).
 totndrugs(380,0.0).
-frailty01(380).
-ckd01(380,0.0).
+frailty(380).
 oad(380).
 hta(380).
 mmsumrev(380,2.0).
@@ -9208,8 +8925,7 @@ mobcat(381,3.0).
 pa3mcat(381,2.0).
 numberdoses(381,3.0).
 totndrugs(381,0.0).
-frailty01(381).
-ckd01(381,0.0).
+frailty(381).
 hta(381).
 cvd(381).
 hd(381).
@@ -9231,7 +8947,7 @@ mobcat(382,3.0).
 pa3mcat(382,4.0).
 numberdoses(382,3.0).
 totndrugs(382,0.0).
-ckd01(382,1.0).
+ckd01(382).
 oad(382).
 hta(382).
 cvd(382).
@@ -9256,8 +8972,7 @@ mobcat(383,3.0).
 pa3mcat(383,2.0).
 numberdoses(383,3.0).
 totndrugs(383,0.0).
-frailty01(383).
-ckd01(383,0.0).
+frailty(383).
 hta(383).
 cvd(383).
 af(383).
@@ -9280,7 +8995,6 @@ mobcat(384,3.0).
 pa3mcat(384,2.0).
 numberdoses(384,3.0).
 totndrugs(384,0.0).
-ckd01(384,0.0).
 hta(384).
 cvd(384).
 pad(384).
@@ -9304,7 +9018,6 @@ mobcat(385,1.0).
 pa3mcat(385,1.0).
 numberdoses(385,3.0).
 totndrugs(385,1.0).
-ckd01(385,0.0).
 oad(385).
 chrrespdis(385).
 depress(385).
@@ -9327,7 +9040,6 @@ mobcat(386,3.0).
 pa3mcat(386,2.0).
 numberdoses(386,3.0).
 totndrugs(386,0.0).
-ckd01(386,0.0).
 hta(386).
 mmsumrev(386,2.0).
 antis_2(386,19.0).
@@ -9347,7 +9059,6 @@ mobcat(387,2.0).
 pa3mcat(387,1.0).
 numberdoses(387,3.0).
 totndrugs(387,0.0).
-ckd01(387,0.0).
 cvd(387).
 hd(387).
 mmsumrev(387,3.0).
@@ -9368,7 +9079,6 @@ mobcat(388,4.0).
 pa3mcat(388,4.0).
 numberdoses(388,3.0).
 totndrugs(388,1.0).
-ckd01(388,0.0).
 oad(388).
 cvd(388).
 depress(388).
@@ -9392,8 +9102,7 @@ mobcat(389,3.0).
 pa3mcat(389,1.0).
 numberdoses(389,3.0).
 totndrugs(389,0.0).
-frailty01(389).
-ckd01(389,0.0).
+frailty(389).
 ibd01(389).
 oad(389).
 hta(389).
@@ -9419,7 +9128,6 @@ mobcat(390,0.0).
 pa3mcat(390,2.0).
 numberdoses(390,2.0).
 totndrugs(390,8.0).
-ckd01(390,0.0).
 oad(390).
 hta(390).
 cvd(390).
@@ -9448,9 +9156,9 @@ mobcat(391,3.0).
 pa3mcat(391,4.0).
 numberdoses(391,2.0).
 totndrugs(391,11.0).
-frailty01(391).
-ckd01(391,1.0).
-cancer01(391).
+frailty(391).
+ckd01(391).
+cancer(391).
 oad(391).
 hta(391).
 cvd(391).
@@ -9480,9 +9188,9 @@ mobcat(392,1.0).
 pa3mcat(392,4.0).
 numberdoses(392,2.0).
 totndrugs(392,6.0).
-frailty01(392).
-ckd01(392,1.0).
-cancer01(392).
+frailty(392).
+ckd01(392).
+cancer(392).
 oad(392).
 hta(392).
 cvd(392).
@@ -9512,7 +9220,6 @@ mobcat(393,2.0).
 pa3mcat(393,2.0).
 numberdoses(393,2.0).
 totndrugs(393,5.0).
-ckd01(393,0.0).
 park(393).
 epilepsia(393).
 mmsumrev(393,2.0).
@@ -9537,8 +9244,7 @@ mobcat(394,3.0).
 pa3mcat(394,4.0).
 numberdoses(394,2.0).
 totndrugs(394,12.0).
-frailty01(394).
-ckd01(394,0.0).
+frailty(394).
 hta(394).
 chrrespdis(394).
 depress(394).
@@ -9563,8 +9269,7 @@ mobcat(395,2.0).
 pa3mcat(395,2.0).
 numberdoses(395,2.0).
 totndrugs(395,6.0).
-frailty01(395).
-ckd01(395,0.0).
+frailty(395).
 cogdis(395).
 mmsumrev(395,2.0).
 excovidtot(395).
@@ -9588,8 +9293,7 @@ mobcat(396,1.0).
 pa3mcat(396,4.0).
 numberdoses(396,2.0).
 totndrugs(396,8.0).
-frailty01(396).
-ckd01(396,0.0).
+frailty(396).
 depress(396).
 cogdis(396).
 park(396).
@@ -9616,8 +9320,7 @@ mobcat(397,1.0).
 pa3mcat(397,4.0).
 numberdoses(397,2.0).
 totndrugs(397,4.0).
-frailty01(397).
-ckd01(397,0.0).
+frailty(397).
 depress(397).
 cogdis(397).
 thyrdis(397).
@@ -9643,8 +9346,7 @@ mobcat(398,1.0).
 pa3mcat(398,4.0).
 numberdoses(398,2.0).
 totndrugs(398,5.0).
-frailty01(398).
-ckd01(398,0.0).
+frailty(398).
 ibd01(398).
 hta(398).
 park(398).
@@ -9670,8 +9372,7 @@ mobcat(399,1.0).
 pa3mcat(399,4.0).
 numberdoses(399,2.0).
 totndrugs(399,11.0).
-frailty01(399).
-ckd01(399,0.0).
+frailty(399).
 oad(399).
 hta(399).
 cvd(399).
@@ -9700,8 +9401,7 @@ mobcat(400,3.0).
 pa3mcat(400,4.0).
 numberdoses(400,2.0).
 totndrugs(400,8.0).
-frailty01(400).
-ckd01(400,0.0).
+frailty(400).
 ibd01(400).
 oad(400).
 depress(400).
@@ -9727,8 +9427,7 @@ mobcat(401,1.0).
 pa3mcat(401,4.0).
 numberdoses(401,2.0).
 totndrugs(401,5.0).
-frailty01(401).
-ckd01(401,0.0).
+frailty(401).
 hta(401).
 cvd(401).
 cogdis(401).
@@ -9754,9 +9453,9 @@ gender(402,1.0).
 race(402,white).
 numberdoses(402,2.0).
 totndrugs(402,2.0).
-frailty01(402).
-ckd01(402,1.0).
-immunedis01(402).
+frailty(402).
+ckd01(402).
+immunedis(402).
 cvd(402).
 chrrespdis(402).
 depress(402).
@@ -9785,8 +9484,7 @@ mobcat(403,5.0).
 pa3mcat(403,4.0).
 numberdoses(403,2.0).
 totndrugs(403,4.0).
-frailty01(403).
-ckd01(403,0.0).
+frailty(403).
 oad(403).
 hta(403).
 depress(403).
@@ -9813,7 +9511,6 @@ mobcat(404,1.0).
 pa3mcat(404,4.0).
 numberdoses(404,2.0).
 totndrugs(404,7.0).
-ckd01(404,0.0).
 oad(404).
 hta(404).
 obesity(404).
@@ -9842,9 +9539,8 @@ mobcat(405,1.0).
 pa3mcat(405,4.0).
 numberdoses(405,2.0).
 totndrugs(405,8.0).
-frailty01(405).
-ckd01(405,0.0).
-poornut01(405).
+frailty(405).
+poornut(405).
 hta(405).
 depress(405).
 cogdis(405).
@@ -9872,8 +9568,7 @@ mobcat(406,1.0).
 pa3mcat(406,4.0).
 numberdoses(406,2.0).
 totndrugs(406,4.0).
-frailty01(406).
-ckd01(406,0.0).
+frailty(406).
 hta(406).
 cogdis(406).
 mmsumrev(406,1.0).
@@ -9898,8 +9593,7 @@ mobcat(407,1.0).
 pa3mcat(407,4.0).
 numberdoses(407,2.0).
 totndrugs(407,4.0).
-frailty01(407).
-ckd01(407,0.0).
+frailty(407).
 oad(407).
 hta(407).
 depress(407).
@@ -9926,9 +9620,8 @@ mobcat(408,1.0).
 pa3mcat(408,4.0).
 numberdoses(408,2.0).
 totndrugs(408,8.0).
-frailty01(408).
-ckd01(408,0.0).
-cancer01(408).
+frailty(408).
+cancer(408).
 oad(408).
 hta(408).
 chrrespdis(408).
@@ -9957,8 +9650,7 @@ mobcat(409,0.0).
 pa3mcat(409,1.0).
 numberdoses(409,2.0).
 totndrugs(409,6.0).
-ckd01(409,0.0).
-liverdis01(409).
+liverdis(409).
 oad(409).
 hta(409).
 chrrespdis(409).
@@ -9988,9 +9680,9 @@ mobcat(410,1.0).
 pa3mcat(410,4.0).
 numberdoses(410,2.0).
 totndrugs(410,8.0).
-frailty01(410).
-ckd01(410,1.0).
-cancer01(410).
+frailty(410).
+ckd01(410).
+cancer(410).
 hta(410).
 obesity(410).
 depress(410).
@@ -10018,9 +9710,8 @@ mobcat(411,1.0).
 pa3mcat(411,4.0).
 numberdoses(411,2.0).
 totndrugs(411,11.0).
-frailty01(411).
-ckd01(411,0.0).
-cancer01(411).
+frailty(411).
+cancer(411).
 hta(411).
 cvd(411).
 af(411).
@@ -10050,7 +9741,7 @@ mobcat(412,2.0).
 pa3mcat(412,1.0).
 numberdoses(412,2.0).
 totndrugs(412,7.0).
-ckd01(412,1.0).
+ckd01(412).
 hta(412).
 cvd(412).
 depress(412).
@@ -10077,7 +9768,6 @@ mobcat(413,0.0).
 pa3mcat(413,1.0).
 numberdoses(413,2.0).
 totndrugs(413,6.0).
-ckd01(413,0.0).
 oad(413).
 hta(413).
 depress(413).
@@ -10103,8 +9793,7 @@ mobcat(414,3.0).
 pa3mcat(414,4.0).
 numberdoses(414,2.0).
 totndrugs(414,7.0).
-frailty01(414).
-ckd01(414,0.0).
+frailty(414).
 hta(414).
 depress(414).
 cogdis(414).
@@ -10130,8 +9819,7 @@ mobcat(415,1.0).
 pa3mcat(415,4.0).
 numberdoses(415,2.0).
 totndrugs(415,0.0).
-frailty01(415).
-ckd01(415,0.0).
+frailty(415).
 hta(415).
 depress(415).
 cogdis(415).
@@ -10157,8 +9845,7 @@ mobcat(416,1.0).
 pa3mcat(416,4.0).
 numberdoses(416,2.0).
 totndrugs(416,6.0).
-frailty01(416).
-ckd01(416,0.0).
+frailty(416).
 hta(416).
 depress(416).
 cogdis(416).
@@ -10183,8 +9870,7 @@ mobcat(417,0.0).
 pa3mcat(417,1.0).
 numberdoses(417,2.0).
 totndrugs(417,6.0).
-frailty01(417).
-ckd01(417,0.0).
+frailty(417).
 hta(417).
 depress(417).
 cogdis(417).
@@ -10209,8 +9895,7 @@ mobcat(418,2.0).
 pa3mcat(418,2.0).
 numberdoses(418,2.0).
 totndrugs(418,6.0).
-frailty01(418).
-ckd01(418,0.0).
+frailty(418).
 ibd01(418).
 hta(418).
 cvd(418).
@@ -10238,8 +9923,7 @@ mobcat(419,1.0).
 pa3mcat(419,4.0).
 numberdoses(419,2.0).
 totndrugs(419,8.0).
-frailty01(419).
-ckd01(419,0.0).
+frailty(419).
 hta(419).
 cvd(419).
 depress(419).
@@ -10267,8 +9951,7 @@ mobcat(420,1.0).
 pa3mcat(420,4.0).
 numberdoses(420,2.0).
 totndrugs(420,5.0).
-frailty01(420).
-ckd01(420,0.0).
+frailty(420).
 hta(420).
 cvd(420).
 depress(420).
@@ -10296,7 +9979,6 @@ mobcat(421,0.0).
 pa3mcat(421,1.0).
 numberdoses(421,2.0).
 totndrugs(421,2.0).
-ckd01(421,0.0).
 mmsumrev(421,0.0).
 excovidtot(421).
 antis_0(421,109.0).
@@ -10313,8 +9995,7 @@ mobcat(422,1.0).
 pa3mcat(422,4.0).
 numberdoses(422,2.0).
 totndrugs(422,6.0).
-frailty01(422).
-ckd01(422,0.0).
+frailty(422).
 cvd(422).
 cogdis(422).
 hd(422).
@@ -10340,8 +10021,7 @@ mobcat(423,2.0).
 pa3mcat(423,2.0).
 numberdoses(423,2.0).
 totndrugs(423,3.0).
-frailty01(423).
-ckd01(423,0.0).
+frailty(423).
 hta(423).
 depress(423).
 cogdis(423).
@@ -10361,8 +10041,7 @@ mobcat(424,2.0).
 pa3mcat(424,2.0).
 numberdoses(424,2.0).
 totndrugs(424,7.0).
-ckd01(424,0.0).
-immunedis01(424).
+immunedis(424).
 hta(424).
 depress(424).
 anxiety(424).
@@ -10388,8 +10067,7 @@ mobcat(425,1.0).
 pa3mcat(425,4.0).
 numberdoses(425,2.0).
 totndrugs(425,4.0).
-frailty01(425).
-ckd01(425,0.0).
+frailty(425).
 oad(425).
 hta(425).
 chrrespdis(425).
@@ -10417,7 +10095,6 @@ mobcat(426,0.0).
 pa3mcat(426,1.0).
 numberdoses(426,2.0).
 totndrugs(426,3.0).
-ckd01(426,0.0).
 hta(426).
 mmsumrev(426,2.0).
 excovidtot(426).
@@ -10439,7 +10116,6 @@ gender(427,2.0).
 race(427,white).
 numberdoses(427,2.0).
 totndrugs(427,4.0).
-ckd01(427,0.0).
 hta(427).
 depress(427).
 cogdis(427).
@@ -10463,8 +10139,7 @@ gender(428,1.0).
 race(428,white).
 numberdoses(428,3.0).
 totndrugs(428,7.0).
-ckd01(428,0.0).
-cancer01(428).
+cancer(428).
 hta(428).
 cvd(428).
 depress(428).
@@ -10493,9 +10168,8 @@ mobcat(429,3.0).
 pa3mcat(429,4.0).
 numberdoses(429,2.0).
 totndrugs(429,7.0).
-frailty01(429).
-ckd01(429,0.0).
-poornut01(429).
+frailty(429).
+poornut(429).
 oad(429).
 hta(429).
 cvd(429).
@@ -10525,8 +10199,7 @@ mobcat(430,1.0).
 pa3mcat(430,4.0).
 numberdoses(430,2.0).
 totndrugs(430,6.0).
-frailty01(430).
-ckd01(430,0.0).
+frailty(430).
 oad(430).
 hta(430).
 cvd(430).
@@ -10548,8 +10221,7 @@ mobcat(431,0.0).
 pa3mcat(431,0.0).
 numberdoses(431,1.0).
 totndrugs(431,10.0).
-ckd01(431,0.0).
-poornut01(431).
+poornut(431).
 hta(431).
 cvd(431).
 depress(431).
@@ -10577,7 +10249,6 @@ mobcat(432,1.0).
 pa3mcat(432,4.0).
 numberdoses(432,3.0).
 totndrugs(432,5.0).
-ckd01(432,0.0).
 oad(432).
 hta(432).
 cvd(432).
@@ -10605,7 +10276,7 @@ mobcat(433,3.0).
 pa3mcat(433,4.0).
 numberdoses(433,2.0).
 totndrugs(433,7.0).
-ckd01(433,1.0).
+ckd01(433).
 hta(433).
 chrrespdis(433).
 depress(433).
@@ -10631,7 +10302,6 @@ mobcat(434,0.0).
 pa3mcat(434,2.0).
 numberdoses(434,2.0).
 totndrugs(434,3.0).
-ckd01(434,0.0).
 thyrdis(434).
 mmsumrev(434,1.0).
 antis_0(434,4.81).
@@ -10653,8 +10323,8 @@ race(435,white).
 mobcat(435,2.0).
 pa3mcat(435,2.0).
 numberdoses(435,3.0).
-ckd01(435,1.0).
-poornut01(435).
+ckd01(435).
+poornut(435).
 oad(435).
 hta(435).
 cvd(435).
@@ -10681,7 +10351,6 @@ mobcat(436,4.0).
 pa3mcat(436,4.0).
 numberdoses(436,3.0).
 totndrugs(436,2.0).
-ckd01(436,0.0).
 oad(436).
 cvd(436).
 depress(436).
@@ -10710,7 +10379,6 @@ mobcat(437,0.0).
 pa3mcat(437,0.0).
 numberdoses(437,3.0).
 totndrugs(437,3.0).
-ckd01(437,0.0).
 hta(437).
 depress(437).
 cogdis(437).
@@ -10735,7 +10403,6 @@ mobcat(438,2.0).
 pa3mcat(438,1.0).
 numberdoses(438,3.0).
 totndrugs(438,4.0).
-ckd01(438,0.0).
 oad(438).
 hta(438).
 cvd(438).
@@ -10765,8 +10432,7 @@ mobcat(439,3.0).
 pa3mcat(439,4.0).
 numberdoses(439,3.0).
 totndrugs(439,3.0).
-ckd01(439,0.0).
-poornut01(439).
+poornut(439).
 hta(439).
 chrrespdis(439).
 cogdis(439).
@@ -10793,8 +10459,7 @@ mobcat(440,3.0).
 pa3mcat(440,4.0).
 numberdoses(440,3.0).
 totndrugs(440,5.0).
-ckd01(440,0.0).
-cancer01(440).
+cancer(440).
 hta(440).
 cvd(440).
 cogdis(440).
@@ -10821,7 +10486,6 @@ mobcat(441,1.0).
 pa3mcat(441,4.0).
 numberdoses(441,3.0).
 totndrugs(441,5.0).
-ckd01(441,0.0).
 depress(441).
 cogdis(441).
 thyrdis(441).
@@ -10850,7 +10514,7 @@ mobcat(442,1.0).
 pa3mcat(442,4.0).
 numberdoses(442,3.0).
 totndrugs(442,4.0).
-ckd01(442,1.0).
+ckd01(442).
 oad(442).
 hta(442).
 chrrespdis(442).
@@ -10880,8 +10544,8 @@ mobcat(443,4.0).
 pa3mcat(443,4.0).
 numberdoses(443,3.0).
 totndrugs(443,6.0).
-ckd01(443,1.0).
-poornut01(443).
+ckd01(443).
+poornut(443).
 oad(443).
 hta(443).
 cvd(443).
@@ -10911,7 +10575,6 @@ mobcat(444,0.0).
 pa3mcat(444,4.0).
 numberdoses(444,3.0).
 totndrugs(444,5.0).
-ckd01(444,0.0).
 oad(444).
 hta(444).
 pad(444).
@@ -10935,7 +10598,6 @@ gender(445,2.0).
 race(445,white).
 numberdoses(445,3.0).
 totndrugs(445,5.0).
-ckd01(445,0.0).
 oad(445).
 hta(445).
 cogdis(445).
@@ -10962,8 +10624,7 @@ mobcat(446,4.0).
 pa3mcat(446,2.0).
 numberdoses(446,3.0).
 totndrugs(446,10.0).
-frailty01(446).
-ckd01(446,0.0).
+frailty(446).
 oad(446).
 hta(446).
 cvd(446).
@@ -10995,7 +10656,6 @@ mobcat(447,1.0).
 pa3mcat(447,4.0).
 numberdoses(447,3.0).
 totndrugs(447,6.0).
-ckd01(447,0.0).
 oad(447).
 hta(447).
 cvd(447).
@@ -11023,8 +10683,7 @@ race(448,white).
 mobcat(448,3.0).
 pa3mcat(448,4.0).
 numberdoses(448,2.0).
-frailty01(448).
-ckd01(448,0.0).
+frailty(448).
 oad(448).
 hta(448).
 cvd(448).
@@ -11052,8 +10711,7 @@ mobcat(449,3.0).
 pa3mcat(449,4.0).
 numberdoses(449,3.0).
 totndrugs(449,6.0).
-frailty01(449).
-ckd01(449,0.0).
+frailty(449).
 cogdis(449).
 epilepsia(449).
 anxiety(449).
@@ -11081,7 +10739,6 @@ mobcat(450,0.0).
 pa3mcat(450,0.0).
 numberdoses(450,2.0).
 totndrugs(450,7.0).
-ckd01(450,0.0).
 oad(450).
 hta(450).
 cvd(450).
@@ -11107,7 +10764,6 @@ mobcat(451,1.0).
 pa3mcat(451,1.0).
 numberdoses(451,3.0).
 totndrugs(451,1.0).
-ckd01(451,0.0).
 oad(451).
 mmsumrev(451,1.0).
 antis_0(451,4.81).
@@ -11130,9 +10786,8 @@ mobcat(452,0.0).
 pa3mcat(452,2.0).
 numberdoses(452,3.0).
 totndrugs(452,7.0).
-ckd01(452,0.0).
-poornut01(452).
-cancer01(452).
+poornut(452).
+cancer(452).
 cvd(452).
 cogdis(452).
 park(452).
@@ -11158,7 +10813,6 @@ race(453,white).
 mobcat(453,3.0).
 pa3mcat(453,4.0).
 numberdoses(453,3.0).
-ckd01(453,0.0).
 hta(453).
 depress(453).
 anxiety(453).
@@ -11183,7 +10837,6 @@ mobcat(454,0.0).
 pa3mcat(454,1.0).
 numberdoses(454,3.0).
 totndrugs(454,3.0).
-ckd01(454,0.0).
 hta(454).
 depress(454).
 cogdis(454).
@@ -11210,7 +10863,6 @@ mobcat(455,0.0).
 pa3mcat(455,1.0).
 numberdoses(455,3.0).
 totndrugs(455,10.0).
-ckd01(455,0.0).
 hta(455).
 cvd(455).
 cogdis(455).
@@ -11237,9 +10889,8 @@ mobcat(456,0.0).
 pa3mcat(456,1.0).
 numberdoses(456,3.0).
 totndrugs(456,6.0).
-frailty01(456).
-ckd01(456,0.0).
-poornut01(456).
+frailty(456).
+poornut(456).
 oad(456).
 hta(456).
 chrrespdis(456).
@@ -11267,7 +10918,6 @@ mobcat(457,2.0).
 pa3mcat(457,1.0).
 numberdoses(457,3.0).
 totndrugs(457,6.0).
-ckd01(457,0.0).
 cogdis(457).
 park(457).
 anxiety(457).
@@ -11291,7 +10941,7 @@ mobcat(458,3.0).
 pa3mcat(458,4.0).
 numberdoses(458,3.0).
 totndrugs(458,6.0).
-ckd01(458,1.0).
+ckd01(458).
 oad(458).
 hta(458).
 cvd(458).
@@ -11319,8 +10969,7 @@ mobcat(459,3.0).
 pa3mcat(459,4.0).
 numberdoses(459,3.0).
 totndrugs(459,5.0).
-frailty01(459).
-ckd01(459,0.0).
+frailty(459).
 oad(459).
 hta(459).
 cvd(459).
@@ -11346,7 +10995,6 @@ mobcat(460,1.0).
 pa3mcat(460,4.0).
 numberdoses(460,3.0).
 totndrugs(460,7.0).
-ckd01(460,0.0).
 oad(460).
 hta(460).
 cvd(460).
@@ -11374,7 +11022,6 @@ race(461,white).
 mobcat(461,3.0).
 pa3mcat(461,4.0).
 numberdoses(461,3.0).
-ckd01(461,0.0).
 oad(461).
 hta(461).
 cvd(461).
@@ -11403,7 +11050,6 @@ mobcat(462,5.0).
 pa3mcat(462,4.0).
 numberdoses(462,3.0).
 totndrugs(462,11.0).
-ckd01(462,0.0).
 oad(462).
 hta(462).
 chrrespdis(462).
@@ -11432,9 +11078,8 @@ mobcat(463,0.0).
 pa3mcat(463,4.0).
 numberdoses(463,3.0).
 totndrugs(463,7.0).
-frailty01(463).
-ckd01(463,0.0).
-poornut01(463).
+frailty(463).
+poornut(463).
 oad(463).
 hta(463).
 cvd(463).
@@ -11459,8 +11104,8 @@ gender(464,2.0).
 race(464,white).
 numberdoses(464,3.0).
 totndrugs(464,10.0).
-ckd01(464,1.0).
-cancer01(464).
+ckd01(464).
+cancer(464).
 oad(464).
 hta(464).
 cvd(464).
@@ -11488,8 +11133,7 @@ mobcat(465,5.0).
 pa3mcat(465,4.0).
 numberdoses(465,3.0).
 totndrugs(465,12.0).
-ckd01(465,0.0).
-poornut01(465).
+poornut(465).
 oad(465).
 hta(465).
 cvd(465).
@@ -11518,8 +11162,7 @@ mobcat(466,2.0).
 pa3mcat(466,4.0).
 numberdoses(466,3.0).
 totndrugs(466,6.0).
-frailty01(466).
-ckd01(466,0.0).
+frailty(466).
 pad(466).
 depress(466).
 cogdis(466).
@@ -11546,9 +11189,8 @@ mobcat(467,1.0).
 pa3mcat(467,4.0).
 numberdoses(467,3.0).
 totndrugs(467,6.0).
-frailty01(467).
-ckd01(467,0.0).
-poornut01(467).
+frailty(467).
+poornut(467).
 oad(467).
 hta(467).
 cvd(467).
@@ -11572,7 +11214,6 @@ mobcat(468,4.0).
 pa3mcat(468,2.0).
 numberdoses(468,3.0).
 totndrugs(468,6.0).
-ckd01(468,0.0).
 hta(468).
 chrrespdis(468).
 obesity(468).
@@ -11600,8 +11241,8 @@ mobcat(469,4.0).
 pa3mcat(469,4.0).
 numberdoses(469,3.0).
 totndrugs(469,6.0).
-ckd01(469,1.0).
-liverdis01(469).
+ckd01(469).
+liverdis(469).
 oad(469).
 hta(469).
 cvd(469).
@@ -11631,7 +11272,6 @@ mobcat(470,0.0).
 pa3mcat(470,2.0).
 numberdoses(470,3.0).
 totndrugs(470,6.0).
-ckd01(470,0.0).
 oad(470).
 hta(470).
 cvd(470).
@@ -11661,7 +11301,6 @@ mobcat(471,4.0).
 pa3mcat(471,4.0).
 numberdoses(471,3.0).
 totndrugs(471,5.0).
-ckd01(471,0.0).
 oad(471).
 hta(471).
 obesity(471).
@@ -11691,7 +11330,6 @@ mobcat(472,4.0).
 pa3mcat(472,4.0).
 numberdoses(472,3.0).
 totndrugs(472,6.0).
-ckd01(472,0.0).
 oad(472).
 hta(472).
 depress(472).
@@ -11717,7 +11355,6 @@ mobcat(473,3.0).
 pa3mcat(473,4.0).
 numberdoses(473,3.0).
 totndrugs(473,5.0).
-ckd01(473,0.0).
 oad(473).
 hta(473).
 cvd(473).
@@ -11745,9 +11382,8 @@ mobcat(474,0.0).
 pa3mcat(474,1.0).
 numberdoses(474,3.0).
 totndrugs(474,5.0).
-frailty01(474).
-ckd01(474,0.0).
-cancer01(474).
+frailty(474).
+cancer(474).
 oad(474).
 hta(474).
 depress(474).
@@ -11775,9 +11411,8 @@ mobcat(475,4.0).
 pa3mcat(475,4.0).
 numberdoses(475,3.0).
 totndrugs(475,5.0).
-frailty01(475).
-ckd01(475,0.0).
-poornut01(475).
+frailty(475).
+poornut(475).
 oad(475).
 cogdis(475).
 epilepsia(475).
@@ -11802,7 +11437,6 @@ mobcat(476,2.0).
 pa3mcat(476,2.0).
 numberdoses(476,3.0).
 totndrugs(476,6.0).
-ckd01(476,0.0).
 hta(476).
 cvd(476).
 af(476).
@@ -11829,8 +11463,7 @@ mobcat(477,1.0).
 pa3mcat(477,4.0).
 numberdoses(477,1.0).
 totndrugs(477,6.0).
-frailty01(477).
-ckd01(477,0.0).
+frailty(477).
 hta(477).
 cvd(477).
 af(477).
@@ -11848,7 +11481,7 @@ gender(478,2.0).
 race(478,white).
 numberdoses(478,2.0).
 totndrugs(478,0.0).
-ckd01(478,1.0).
+ckd01(478).
 oad(478).
 hta(478).
 cvd(478).
@@ -11870,7 +11503,7 @@ mobcat(479,4.0).
 pa3mcat(479,4.0).
 numberdoses(479,1.0).
 totndrugs(479,5.0).
-ckd01(479,1.0).
+ckd01(479).
 oad(479).
 hta(479).
 cvd(479).
@@ -11891,7 +11524,6 @@ mobcat(480,5.0).
 pa3mcat(480,4.0).
 numberdoses(480,1.0).
 totndrugs(480,5.0).
-ckd01(480,0.0).
 hta(480).
 pad(480).
 mmsumrev(480,3.0).
@@ -11907,8 +11539,7 @@ mobcat(481,2.0).
 pa3mcat(481,1.0).
 numberdoses(481,2.0).
 totndrugs(481,6.0).
-frailty01(481).
-ckd01(481,0.0).
+frailty(481).
 oad(481).
 hta(481).
 cvd(481).
@@ -11929,7 +11560,6 @@ mobcat(482,2.0).
 pa3mcat(482,2.0).
 numberdoses(482,2.0).
 totndrugs(482,3.0).
-ckd01(482,0.0).
 oad(482).
 hta(482).
 cvd(482).
@@ -11948,7 +11578,7 @@ mobcat(483,2.0).
 pa3mcat(483,2.0).
 numberdoses(483,2.0).
 totndrugs(483,0.0).
-ckd01(483,1.0).
+ckd01(483).
 oad(483).
 hta(483).
 cvd(483).
@@ -11969,7 +11599,6 @@ mobcat(484,3.0).
 pa3mcat(484,4.0).
 numberdoses(484,2.0).
 totndrugs(484,0.0).
-ckd01(484,0.0).
 oad(484).
 cvd(484).
 pad(484).
@@ -11989,8 +11618,7 @@ mobcat(485,1.0).
 pa3mcat(485,4.0).
 numberdoses(485,2.0).
 totndrugs(485,7.0).
-ckd01(485,0.0).
-poornut01(485).
+poornut(485).
 hta(485).
 cvd(485).
 epilepsia(485).
@@ -12009,8 +11637,7 @@ mobcat(486,2.0).
 pa3mcat(486,0.0).
 numberdoses(486,2.0).
 totndrugs(486,4.0).
-frailty01(486).
-ckd01(486,0.0).
+frailty(486).
 oad(486).
 hta(486).
 cvd(486).
@@ -12031,8 +11658,7 @@ mobcat(487,2.0).
 pa3mcat(487,2.0).
 numberdoses(487,2.0).
 totndrugs(487,5.0).
-frailty01(487).
-ckd01(487,0.0).
+frailty(487).
 oad(487).
 hta(487).
 obesity(487).
@@ -12050,9 +11676,8 @@ mobcat(488,5.0).
 pa3mcat(488,4.0).
 numberdoses(488,2.0).
 totndrugs(488,3.0).
-frailty01(488).
-ckd01(488,0.0).
-cancer01(488).
+frailty(488).
+cancer(488).
 oad(488).
 hta(488).
 depress(488).
@@ -12073,7 +11698,6 @@ mobcat(489,1.0).
 pa3mcat(489,2.0).
 numberdoses(489,2.0).
 totndrugs(489,0.0).
-ckd01(489,0.0).
 oad(489).
 hta(489).
 cogdis(489).
@@ -12093,8 +11717,7 @@ mobcat(490,5.0).
 pa3mcat(490,4.0).
 numberdoses(490,2.0).
 totndrugs(490,5.0).
-frailty01(490).
-ckd01(490,0.0).
+frailty(490).
 hta(490).
 cvd(490).
 chrrespdis(490).
@@ -12120,8 +11743,7 @@ mobcat(491,0.0).
 pa3mcat(491,0.0).
 numberdoses(491,1.0).
 totndrugs(491,2.0).
-ckd01(491,0.0).
-liverdis01(491).
+liverdis(491).
 oad(491).
 hta(491).
 cvd(491).
@@ -12145,7 +11767,6 @@ mobcat(492,3.0).
 pa3mcat(492,4.0).
 numberdoses(492,1.0).
 totndrugs(492,10.0).
-ckd01(492,0.0).
 cvd(492).
 chrrespdis(492).
 depress(492).
@@ -12164,8 +11785,7 @@ mobcat(493,0.0).
 pa3mcat(493,2.0).
 numberdoses(493,2.0).
 totndrugs(493,3.0).
-frailty01(493).
-ckd01(493,0.0).
+frailty(493).
 hta(493).
 depress(493).
 mmsumrev(493,2.0).
@@ -12184,7 +11804,6 @@ mobcat(494,0.0).
 pa3mcat(494,0.0).
 numberdoses(494,1.0).
 totndrugs(494,5.0).
-ckd01(494,0.0).
 chrrespdis(494).
 cogdis(494).
 epilepsia(494).
@@ -12202,7 +11821,6 @@ mobcat(495,3.0).
 pa3mcat(495,2.0).
 numberdoses(495,1.0).
 totndrugs(495,5.0).
-ckd01(495,0.0).
 hta(495).
 depress(495).
 cogdis(495).
@@ -12224,9 +11842,8 @@ mobcat(496,1.0).
 pa3mcat(496,4.0).
 numberdoses(496,1.0).
 totndrugs(496,4.0).
-frailty01(496).
-ckd01(496,0.0).
-cancer01(496).
+frailty(496).
+cancer(496).
 oad(496).
 cvd(496).
 depress(496).
@@ -12246,7 +11863,6 @@ gender(497,2.0).
 race(497,white).
 numberdoses(497,1.0).
 totndrugs(497,6.0).
-ckd01(497,0.0).
 cvd(497).
 af(497).
 depress(497).
@@ -12271,8 +11887,7 @@ mobcat(498,1.0).
 pa3mcat(498,4.0).
 numberdoses(498,2.0).
 totndrugs(498,2.0).
-frailty01(498).
-ckd01(498,0.0).
+frailty(498).
 depress(498).
 cogdis(498).
 mmsumrev(498,1.0).
@@ -12294,10 +11909,9 @@ mobcat(499,0.0).
 pa3mcat(499,0.0).
 numberdoses(499,2.0).
 totndrugs(499,4.0).
-frailty01(499).
-ckd01(499,0.0).
-poornut01(499).
-liverdis01(499).
+frailty(499).
+poornut(499).
+liverdis(499).
 hta(499).
 cvd(499).
 pad(499).
@@ -12319,8 +11933,8 @@ mobcat(500,0.0).
 pa3mcat(500,0.0).
 numberdoses(500,2.0).
 totndrugs(500,0.0).
-ckd01(500,1.0).
-cancer01(500).
+ckd01(500).
+cancer(500).
 oad(500).
 cvd(500).
 af(500).
@@ -12344,7 +11958,6 @@ mobcat(501,3.0).
 pa3mcat(501,4.0).
 numberdoses(501,2.0).
 totndrugs(501,0.0).
-ckd01(501,0.0).
 oad(501).
 hta(501).
 cvd(501).
@@ -12366,7 +11979,6 @@ mobcat(502,5.0).
 pa3mcat(502,4.0).
 numberdoses(502,3.0).
 totndrugs(502,6.0).
-ckd01(502,0.0).
 hta(502).
 cvd(502).
 cogdis(502).
@@ -12392,7 +12004,6 @@ mobcat(503,0.0).
 pa3mcat(503,0.0).
 numberdoses(503,2.0).
 totndrugs(503,5.0).
-ckd01(503,0.0).
 hta(503).
 cvd(503).
 pad(503).
@@ -12412,8 +12023,7 @@ mobcat(504,2.0).
 pa3mcat(504,2.0).
 numberdoses(504,2.0).
 totndrugs(504,5.0).
-ckd01(504,0.0).
-cancer01(504).
+cancer(504).
 oad(504).
 hta(504).
 cogdis(504).
@@ -12432,7 +12042,6 @@ mobcat(505,0.0).
 pa3mcat(505,1.0).
 numberdoses(505,2.0).
 totndrugs(505,5.0).
-ckd01(505,0.0).
 hta(505).
 epilepsia(505).
 anxiety(505).
@@ -12454,7 +12063,6 @@ race(506,white).
 mobcat(506,4.0).
 pa3mcat(506,4.0).
 numberdoses(506,1.0).
-ckd01(506,0.0).
 oad(506).
 hta(506).
 cvd(506).
@@ -12480,7 +12088,6 @@ race(507,white).
 pa3mcat(507,0.0).
 numberdoses(507,2.0).
 totndrugs(507,5.0).
-ckd01(507,0.0).
 cvd(507).
 cogdis(507).
 mmsumrev(507,0.0).
@@ -12502,7 +12109,6 @@ mobcat(508,0.0).
 pa3mcat(508,0.0).
 numberdoses(508,2.0).
 totndrugs(508,3.0).
-ckd01(508,0.0).
 cogdis(508).
 thyrdis(508).
 mmsumrev(508,2.0).
@@ -12524,8 +12130,8 @@ mobcat(509,5.0).
 pa3mcat(509,4.0).
 numberdoses(509,2.0).
 totndrugs(509,0.0).
-frailty01(509).
-ckd01(509,1.0).
+frailty(509).
+ckd01(509).
 hta(509).
 depress(509).
 mmsumrev(509,3.0).
@@ -12547,7 +12153,6 @@ mobcat(510,2.0).
 pa3mcat(510,0.0).
 numberdoses(510,1.0).
 totndrugs(510,4.0).
-ckd01(510,0.0).
 depress(510).
 cogdis(510).
 mmsumrev(510,1.0).
@@ -12562,9 +12167,8 @@ race(511,white).
 mobcat(511,4.0).
 pa3mcat(511,4.0).
 numberdoses(511,2.0).
-frailty01(511).
-ckd01(511,0.0).
-poornut01(511).
+frailty(511).
+poornut(511).
 hta(511).
 cvd(511).
 af(511).
@@ -12591,7 +12195,6 @@ mobcat(512,3.0).
 pa3mcat(512,4.0).
 numberdoses(512,2.0).
 totndrugs(512,4.0).
-ckd01(512,0.0).
 oad(512).
 hta(512).
 cvd(512).
@@ -12616,7 +12219,7 @@ mobcat(513,2.0).
 pa3mcat(513,4.0).
 numberdoses(513,3.0).
 totndrugs(513,0.0).
-ckd01(513,1.0).
+ckd01(513).
 oad(513).
 hta(513).
 cvd(513).
@@ -12642,7 +12245,6 @@ mobcat(514,5.0).
 pa3mcat(514,4.0).
 numberdoses(514,3.0).
 totndrugs(514,8.0).
-ckd01(514,0.0).
 oad(514).
 hta(514).
 chrrespdis(514).
@@ -12666,7 +12268,7 @@ race(515,white).
 mobcat(515,3.0).
 numberdoses(515,3.0).
 totndrugs(515,0.0).
-ckd01(515,1.0).
+ckd01(515).
 oad(515).
 hta(515).
 cvd(515).
@@ -12693,9 +12295,8 @@ mobcat(516,4.0).
 pa3mcat(516,4.0).
 numberdoses(516,3.0).
 totndrugs(516,5.0).
-frailty01(516).
-ckd01(516,0.0).
-poornut01(516).
+frailty(516).
+poornut(516).
 cogdis(516).
 epilepsia(516).
 mmsumrev(516,1.0).
@@ -12718,7 +12319,6 @@ mobcat(517,5.0).
 pa3mcat(517,4.0).
 numberdoses(517,3.0).
 totndrugs(517,7.0).
-ckd01(517,0.0).
 oad(517).
 cvd(517).
 depress(517).
@@ -12760,7 +12360,6 @@ mobcat(519,3.0).
 pa3mcat(519,4.0).
 numberdoses(519,1.0).
 totndrugs(519,5.0).
-ckd01(519,0.0).
 oad(519).
 hta(519).
 cvd(519).
@@ -12780,7 +12379,6 @@ mobcat(520,1.0).
 pa3mcat(520,4.0).
 numberdoses(520,1.0).
 totndrugs(520,6.0).
-ckd01(520,0.0).
 oad(520).
 hta(520).
 cvd(520).
@@ -12802,7 +12400,6 @@ mobcat(521,4.0).
 pa3mcat(521,4.0).
 numberdoses(521,2.0).
 totndrugs(521,4.0).
-ckd01(521,0.0).
 oad(521).
 hta(521).
 cogdis(521).
@@ -12821,8 +12418,7 @@ mobcat(522,4.0).
 pa3mcat(522,4.0).
 numberdoses(522,2.0).
 totndrugs(522,6.0).
-frailty01(522).
-ckd01(522,0.0).
+frailty(522).
 oad(522).
 hta(522).
 cvd(522).
@@ -12845,8 +12441,7 @@ mobcat(523,4.0).
 pa3mcat(523,4.0).
 numberdoses(523,2.0).
 totndrugs(523,3.0).
-frailty01(523).
-ckd01(523,0.0).
+frailty(523).
 oad(523).
 hta(523).
 cvd(523).
@@ -12868,7 +12463,7 @@ mobcat(524,3.0).
 pa3mcat(524,4.0).
 numberdoses(524,2.0).
 totndrugs(524,3.0).
-ckd01(524,1.0).
+ckd01(524).
 oad(524).
 hta(524).
 mmsumrev(524,3.0).
@@ -12887,8 +12482,7 @@ mobcat(525,1.0).
 pa3mcat(525,4.0).
 numberdoses(525,2.0).
 totndrugs(525,8.0).
-frailty01(525).
-ckd01(525,0.0).
+frailty(525).
 oad(525).
 hta(525).
 cvd(525).
@@ -12912,9 +12506,8 @@ mobcat(526,5.0).
 pa3mcat(526,4.0).
 numberdoses(526,1.0).
 totndrugs(526,6.0).
-frailty01(526).
-ckd01(526,0.0).
-poornut01(526).
+frailty(526).
+poornut(526).
 oad(526).
 hta(526).
 cvd(526).
@@ -12936,7 +12529,6 @@ mobcat(527,5.0).
 pa3mcat(527,4.0).
 numberdoses(527,1.0).
 totndrugs(527,4.0).
-ckd01(527,0.0).
 hta(527).
 cvd(527).
 pad(527).
@@ -12957,7 +12549,6 @@ mobcat(528,3.0).
 pa3mcat(528,4.0).
 numberdoses(528,2.0).
 totndrugs(528,5.0).
-ckd01(528,0.0).
 oad(528).
 hta(528).
 depress(528).
@@ -12976,7 +12567,6 @@ mobcat(529,3.0).
 pa3mcat(529,4.0).
 numberdoses(529,2.0).
 totndrugs(529,2.0).
-ckd01(529,0.0).
 oad(529).
 hta(529).
 pad(529).
@@ -12998,7 +12588,6 @@ mobcat(530,1.0).
 pa3mcat(530,4.0).
 numberdoses(530,2.0).
 totndrugs(530,5.0).
-ckd01(530,0.0).
 oad(530).
 hta(530).
 cvd(530).
@@ -13018,7 +12607,6 @@ mobcat(531,0.0).
 pa3mcat(531,0.0).
 numberdoses(531,1.0).
 totndrugs(531,1.0).
-ckd01(531,0.0).
 obesity(531).
 depress(531).
 anxiety(531).
@@ -13041,7 +12629,6 @@ mobcat(532,4.0).
 pa3mcat(532,4.0).
 numberdoses(532,2.0).
 totndrugs(532,4.0).
-ckd01(532,0.0).
 oad(532).
 hta(532).
 cvd(532).
@@ -13063,7 +12650,6 @@ mobcat(533,0.0).
 pa3mcat(533,1.0).
 numberdoses(533,2.0).
 totndrugs(533,5.0).
-ckd01(533,0.0).
 hta(533).
 cvd(533).
 cogdis(533).
@@ -13087,7 +12673,6 @@ mobcat(534,0.0).
 pa3mcat(534,1.0).
 numberdoses(534,2.0).
 totndrugs(534,0.0).
-ckd01(534,0.0).
 oad(534).
 depress(534).
 mmsumrev(534,3.0).
@@ -13105,9 +12690,9 @@ mobcat(535,3.0).
 pa3mcat(535,4.0).
 numberdoses(535,2.0).
 totndrugs(535,5.0).
-ckd01(535,1.0).
+ckd01(535).
 ibd01(535).
-liverdis01(535).
+liverdis(535).
 depress(535).
 cogdis(535).
 anxiety(535).
@@ -13126,7 +12711,6 @@ mobcat(536,3.0).
 pa3mcat(536,4.0).
 numberdoses(536,2.0).
 totndrugs(536,7.0).
-ckd01(536,0.0).
 oad(536).
 hta(536).
 cvd(536).
@@ -13152,7 +12736,6 @@ mobcat(537,1.0).
 pa3mcat(537,4.0).
 numberdoses(537,2.0).
 totndrugs(537,8.0).
-ckd01(537,0.0).
 ibd01(537).
 oad(537).
 hta(537).
@@ -13174,7 +12757,6 @@ mobcat(538,3.0).
 pa3mcat(538,4.0).
 numberdoses(538,2.0).
 totndrugs(538,4.0).
-ckd01(538,0.0).
 oad(538).
 hta(538).
 chrrespdis(538).
@@ -13197,8 +12779,7 @@ mobcat(539,1.0).
 pa3mcat(539,0.0).
 numberdoses(539,3.0).
 totndrugs(539,6.0).
-ckd01(539,0.0).
-immunedis01(539).
+immunedis(539).
 hta(539).
 epilepsia(539).
 mmsumrev(539,5.0).
@@ -13222,7 +12803,6 @@ mobcat(540,1.0).
 pa3mcat(540,4.0).
 numberdoses(540,3.0).
 totndrugs(540,3.0).
-ckd01(540,0.0).
 depress(540).
 cogdis(540).
 thyrdis(540).
@@ -13245,7 +12825,6 @@ mobcat(541,0.0).
 pa3mcat(541,0.0).
 numberdoses(541,3.0).
 totndrugs(541,6.0).
-ckd01(541,0.0).
 hta(541).
 cvd(541).
 chrrespdis(541).
@@ -13272,7 +12851,6 @@ mobcat(542,2.0).
 pa3mcat(542,1.0).
 numberdoses(542,3.0).
 totndrugs(542,8.0).
-ckd01(542,0.0).
 oad(542).
 hta(542).
 depress(542).
@@ -13394,8 +12972,7 @@ mobcat(549,2.0).
 pa3mcat(549,2.0).
 numberdoses(549,1.0).
 totndrugs(549,8.0).
-ckd01(549,0.0).
-poornut01(549).
+poornut(549).
 oad(549).
 hta(549).
 cvd(549).
@@ -13416,10 +12993,9 @@ mobcat(550,3.0).
 pa3mcat(550,4.0).
 numberdoses(550,1.0).
 totndrugs(550,0.0).
-frailty01(550).
-ckd01(550,0.0).
-poornut01(550).
-cancer01(550).
+frailty(550).
+poornut(550).
+cancer(550).
 oad(550).
 hta(550).
 pad(550).
@@ -13441,7 +13017,6 @@ mobcat(551,0.0).
 pa3mcat(551,1.0).
 numberdoses(551,2.0).
 totndrugs(551,11.0).
-ckd01(551,0.0).
 oad(551).
 hta(551).
 chrrespdis(551).
@@ -13460,7 +13035,6 @@ mobcat(552,0.0).
 pa3mcat(552,0.0).
 numberdoses(552,2.0).
 totndrugs(552,10.0).
-ckd01(552,0.0).
 hta(552).
 cvd(552).
 pad(552).
@@ -13479,7 +13053,6 @@ mobcat(553,1.0).
 pa3mcat(553,2.0).
 numberdoses(553,2.0).
 totndrugs(553,8.0).
-ckd01(553,0.0).
 oad(553).
 hta(553).
 cvd(553).
@@ -13501,9 +13074,8 @@ mobcat(554,3.0).
 pa3mcat(554,4.0).
 numberdoses(554,2.0).
 totndrugs(554,8.0).
-ckd01(554,0.0).
-poornut01(554).
-immunedis01(554).
+poornut(554).
+immunedis(554).
 oad(554).
 hta(554).
 cvd(554).
@@ -13521,7 +13093,6 @@ mobcat(555,5.0).
 pa3mcat(555,4.0).
 numberdoses(555,1.0).
 totndrugs(555,2.0).
-ckd01(555,0.0).
 hta(555).
 depress(555).
 cogdis(555).
@@ -13537,8 +13108,7 @@ mobcat(556,4.0).
 pa3mcat(556,4.0).
 numberdoses(556,1.0).
 totndrugs(556,8.0).
-ckd01(556,0.0).
-poornut01(556).
+poornut(556).
 oad(556).
 hta(556).
 cogdis(556).
@@ -13557,7 +13127,7 @@ mobcat(557,2.0).
 pa3mcat(557,2.0).
 numberdoses(557,2.0).
 totndrugs(557,13.0).
-ckd01(557,1.0).
+ckd01(557).
 oad(557).
 hta(557).
 pad(557).
@@ -13581,8 +13151,7 @@ mobcat(558,5.0).
 pa3mcat(558,4.0).
 numberdoses(558,2.0).
 totndrugs(558,2.0).
-frailty01(558).
-ckd01(558,0.0).
+frailty(558).
 hta(558).
 cvd(558).
 cogdis(558).
@@ -13600,8 +13169,7 @@ mobcat(559,2.0).
 pa3mcat(559,1.0).
 numberdoses(559,2.0).
 totndrugs(559,3.0).
-frailty01(559).
-ckd01(559,0.0).
+frailty(559).
 hta(559).
 cvd(559).
 mmsumrev(559,2.0).
@@ -13617,7 +13185,6 @@ mobcat(560,3.0).
 pa3mcat(560,4.0).
 numberdoses(560,2.0).
 totndrugs(560,4.0).
-ckd01(560,0.0).
 oad(560).
 cvd(560).
 cogdis(560).
@@ -13638,7 +13205,6 @@ mobcat(561,2.0).
 pa3mcat(561,4.0).
 numberdoses(561,1.0).
 totndrugs(561,0.0).
-ckd01(561,0.0).
 oad(561).
 hta(561).
 depress(561).
@@ -13657,7 +13223,6 @@ mobcat(562,2.0).
 pa3mcat(562,1.0).
 numberdoses(562,2.0).
 totndrugs(562,5.0).
-ckd01(562,0.0).
 oad(562).
 hta(562).
 cvd(562).
@@ -13679,8 +13244,7 @@ mobcat(563,3.0).
 pa3mcat(563,2.0).
 numberdoses(563,2.0).
 totndrugs(563,3.0).
-frailty01(563).
-ckd01(563,0.0).
+frailty(563).
 hta(563).
 cvd(563).
 af(563).
@@ -13698,7 +13262,6 @@ mobcat(564,2.0).
 pa3mcat(564,2.0).
 numberdoses(564,2.0).
 totndrugs(564,3.0).
-ckd01(564,0.0).
 oad(564).
 hta(564).
 obesity(564).
@@ -13719,8 +13282,7 @@ mobcat(565,1.0).
 pa3mcat(565,4.0).
 numberdoses(565,2.0).
 totndrugs(565,8.0).
-ckd01(565,0.0).
-poornut01(565).
+poornut(565).
 oad(565).
 cogdis(565).
 park(565).
@@ -13740,7 +13302,7 @@ mobcat(566,3.0).
 pa3mcat(566,4.0).
 numberdoses(566,2.0).
 totndrugs(566,0.0).
-ckd01(566,1.0).
+ckd01(566).
 cogdis(566).
 urol(566).
 mmsumrev(566,2.0).
@@ -13761,7 +13323,6 @@ mobcat(567,0.0).
 pa3mcat(567,0.0).
 numberdoses(567,2.0).
 totndrugs(567,3.0).
-ckd01(567,0.0).
 oad(567).
 hta(567).
 cvd(567).
@@ -13783,7 +13344,6 @@ gender(568,2.0).
 race(568,white).
 numberdoses(568,2.0).
 totndrugs(568,3.0).
-ckd01(568,0.0).
 oad(568).
 hta(568).
 cvd(568).
@@ -13804,7 +13364,6 @@ mobcat(569,3.0).
 pa3mcat(569,1.0).
 numberdoses(569,2.0).
 totndrugs(569,2.0).
-ckd01(569,0.0).
 oad(569).
 hta(569).
 pad(569).
@@ -13825,8 +13384,7 @@ mobcat(570,2.0).
 pa3mcat(570,1.0).
 numberdoses(570,2.0).
 totndrugs(570,7.0).
-ckd01(570,0.0).
-liverdis01(570).
+liverdis(570).
 oad(570).
 hta(570).
 cvd(570).
@@ -13850,7 +13408,6 @@ mobcat(571,1.0).
 pa3mcat(571,4.0).
 numberdoses(571,2.0).
 totndrugs(571,0.0).
-ckd01(571,0.0).
 hta(571).
 cogdis(571).
 mmsumrev(571,1.0).
@@ -13869,7 +13426,6 @@ patient(571,unknown).
 gender(572,2.0).
 race(572,white).
 numberdoses(572,2.0).
-ckd01(572,0.0).
 hta(572).
 cvd(572).
 thyrdis(572).
@@ -13893,7 +13449,6 @@ mobcat(573,2.0).
 pa3mcat(573,1.0).
 numberdoses(573,2.0).
 totndrugs(573,2.0).
-ckd01(573,0.0).
 oad(573).
 mmsumrev(573,1.0).
 antis_0(573,4.81).
@@ -13910,7 +13465,6 @@ mobcat(574,1.0).
 pa3mcat(574,4.0).
 numberdoses(574,2.0).
 totndrugs(574,4.0).
-ckd01(574,0.0).
 ibd01(574).
 oad(574).
 hta(574).
@@ -13932,7 +13486,6 @@ mobcat(575,3.0).
 pa3mcat(575,2.0).
 numberdoses(575,3.0).
 totndrugs(575,1.0).
-ckd01(575,0.0).
 hta(575).
 cvd(575).
 cogdis(575).
@@ -13953,7 +13506,6 @@ mobcat(576,3.0).
 pa3mcat(576,1.0).
 numberdoses(576,3.0).
 totndrugs(576,2.0).
-ckd01(576,0.0).
 oad(576).
 hta(576).
 cvd(576).
@@ -13975,7 +13527,6 @@ mobcat(577,3.0).
 pa3mcat(577,1.0).
 numberdoses(577,3.0).
 totndrugs(577,3.0).
-ckd01(577,0.0).
 oad(577).
 hta(577).
 cvd(577).
@@ -13996,7 +13547,7 @@ race(578,white).
 mobcat(578,2.0).
 pa3mcat(578,1.0).
 numberdoses(578,3.0).
-ckd01(578,1.0).
+ckd01(578).
 oad(578).
 hta(578).
 cvd(578).
@@ -14020,7 +13571,6 @@ mobcat(579,0.0).
 pa3mcat(579,0.0).
 numberdoses(579,3.0).
 totndrugs(579,3.0).
-ckd01(579,0.0).
 mmsumrev(579,1.0).
 antis_0(579,4.81).
 antis_2(579,2070.0).
@@ -14038,8 +13588,8 @@ mobcat(580,1.0).
 pa3mcat(580,2.0).
 numberdoses(580,3.0).
 totndrugs(580,5.0).
-frailty01(580).
-ckd01(580,1.0).
+frailty(580).
+ckd01(580).
 hta(580).
 cvd(580).
 af(580).
@@ -14062,7 +13612,6 @@ mobcat(581,5.0).
 pa3mcat(581,4.0).
 numberdoses(581,3.0).
 totndrugs(581,3.0).
-ckd01(581,0.0).
 hta(581).
 cvd(581).
 chrrespdis(581).
@@ -14085,9 +13634,8 @@ mobcat(582,5.0).
 pa3mcat(582,4.0).
 numberdoses(582,3.0).
 totndrugs(582,3.0).
-frailty01(582).
-ckd01(582,0.0).
-cancer01(582).
+frailty(582).
+cancer(582).
 oad(582).
 hta(582).
 cvd(582).
@@ -14113,7 +13661,6 @@ mobcat(583,2.0).
 pa3mcat(583,1.0).
 numberdoses(583,3.0).
 totndrugs(583,2.0).
-ckd01(583,0.0).
 oad(583).
 hta(583).
 cogdis(583).
@@ -14135,7 +13682,6 @@ mobcat(584,2.0).
 pa3mcat(584,0.0).
 numberdoses(584,3.0).
 totndrugs(584,2.0).
-ckd01(584,0.0).
 oad(584).
 hta(584).
 cvd(584).
@@ -14157,9 +13703,9 @@ mobcat(585,5.0).
 pa3mcat(585,4.0).
 numberdoses(585,3.0).
 totndrugs(585,3.0).
-ckd01(585,1.0).
-poornut01(585).
-cancer01(585).
+ckd01(585).
+poornut(585).
+cancer(585).
 oad(585).
 hta(585).
 cvd(585).
@@ -14179,8 +13725,8 @@ mobcat(586,2.0).
 pa3mcat(586,2.0).
 numberdoses(586,3.0).
 totndrugs(586,7.0).
-frailty01(586).
-ckd01(586,1.0).
+frailty(586).
+ckd01(586).
 hta(586).
 cvd(586).
 depress(586).
@@ -14204,7 +13750,7 @@ gender(587,1.0).
 race(587,white).
 numberdoses(587,3.0).
 totndrugs(587,4.0).
-ckd01(587,1.0).
+ckd01(587).
 hta(587).
 cvd(587).
 af(587).
@@ -14231,7 +13777,6 @@ mobcat(588,0.0).
 pa3mcat(588,0.0).
 numberdoses(588,2.0).
 totndrugs(588,5.0).
-ckd01(588,0.0).
 hta(588).
 cvd(588).
 pad(588).
@@ -14256,8 +13801,7 @@ race(589,white).
 mobcat(589,0.0).
 pa3mcat(589,2.0).
 numberdoses(589,3.0).
-ckd01(589,0.0).
-liverdis01(589).
+liverdis(589).
 hta(589).
 depress(589).
 cogdis(589).
@@ -14283,7 +13827,6 @@ mobcat(590,3.0).
 pa3mcat(590,2.0).
 numberdoses(590,3.0).
 totndrugs(590,0.0).
-ckd01(590,0.0).
 cogdis(590).
 mmsumrev(590,0.0).
 antis_0(590,26.9).
@@ -14302,7 +13845,6 @@ mobcat(591,2.0).
 pa3mcat(591,0.0).
 numberdoses(591,3.0).
 totndrugs(591,7.0).
-ckd01(591,0.0).
 hta(591).
 cvd(591).
 af(591).
@@ -14326,8 +13868,7 @@ mobcat(592,3.0).
 pa3mcat(592,4.0).
 numberdoses(592,3.0).
 totndrugs(592,6.0).
-ckd01(592,0.0).
-cancer01(592).
+cancer(592).
 hta(592).
 cvd(592).
 pad(592).
@@ -14350,8 +13891,7 @@ mobcat(593,1.0).
 pa3mcat(593,0.0).
 numberdoses(593,3.0).
 totndrugs(593,4.0).
-ckd01(593,0.0).
-cancer01(593).
+cancer(593).
 hta(593).
 cvd(593).
 thyrdis(593).
@@ -14373,7 +13913,6 @@ mobcat(594,0.0).
 pa3mcat(594,0.0).
 numberdoses(594,3.0).
 totndrugs(594,0.0).
-ckd01(594,0.0).
 chrrespdis(594).
 mmsumrev(594,1.0).
 antis_0(594,4.81).
@@ -14392,7 +13931,6 @@ mobcat(595,5.0).
 pa3mcat(595,4.0).
 numberdoses(595,3.0).
 totndrugs(595,0.0).
-ckd01(595,0.0).
 cogdis(595).
 mmsumrev(595,0.0).
 antis_0(595,4.81).
@@ -14414,7 +13952,6 @@ mobcat(596,0.0).
 pa3mcat(596,4.0).
 numberdoses(596,3.0).
 totndrugs(596,5.0).
-ckd01(596,0.0).
 oad(596).
 depress(596).
 cogdis(596).
@@ -14437,7 +13974,6 @@ mobcat(597,2.0).
 pa3mcat(597,4.0).
 numberdoses(597,3.0).
 totndrugs(597,5.0).
-ckd01(597,0.0).
 oad(597).
 hta(597).
 cogdis(597).
@@ -14459,7 +13995,6 @@ mobcat(598,0.0).
 pa3mcat(598,4.0).
 numberdoses(598,3.0).
 totndrugs(598,8.0).
-ckd01(598,0.0).
 oad(598).
 hta(598).
 cvd(598).
@@ -14486,7 +14021,6 @@ mobcat(599,3.0).
 pa3mcat(599,4.0).
 numberdoses(599,3.0).
 totndrugs(599,3.0).
-ckd01(599,0.0).
 hta(599).
 pad(599).
 cogdis(599).
@@ -14509,7 +14043,6 @@ mobcat(600,1.0).
 pa3mcat(600,4.0).
 numberdoses(600,3.0).
 totndrugs(600,13.0).
-ckd01(600,0.0).
 oad(600).
 hta(600).
 cvd(600).
@@ -14538,7 +14071,6 @@ mobcat(601,0.0).
 pa3mcat(601,4.0).
 numberdoses(601,3.0).
 totndrugs(601,0.0).
-ckd01(601,0.0).
 hta(601).
 chrrespdis(601).
 depress(601).
@@ -14565,7 +14097,6 @@ mobcat(602,1.0).
 pa3mcat(602,4.0).
 numberdoses(602,3.0).
 totndrugs(602,16.0).
-ckd01(602,0.0).
 hta(602).
 cvd(602).
 cogdis(602).
@@ -14592,7 +14123,6 @@ mobcat(603,0.0).
 pa3mcat(603,2.0).
 numberdoses(603,3.0).
 totndrugs(603,8.0).
-ckd01(603,0.0).
 cvd(603).
 depress(603).
 hd(603).
@@ -14617,7 +14147,6 @@ mobcat(604,2.0).
 pa3mcat(604,1.0).
 numberdoses(604,3.0).
 totndrugs(604,10.0).
-ckd01(604,0.0).
 oad(604).
 hta(604).
 cvd(604).
@@ -14641,7 +14170,6 @@ race(605,white).
 mobcat(605,0.0).
 pa3mcat(605,4.0).
 numberdoses(605,3.0).
-ckd01(605,0.0).
 chrrespdis(605).
 cogdis(605).
 park(605).
@@ -14665,8 +14193,7 @@ race(606,white).
 mobcat(606,0.0).
 pa3mcat(606,4.0).
 numberdoses(606,3.0).
-ckd01(606,0.0).
-cancer01(606).
+cancer(606).
 oad(606).
 hta(606).
 urol(606).
@@ -14690,7 +14217,6 @@ mobcat(607,2.0).
 pa3mcat(607,2.0).
 numberdoses(607,3.0).
 totndrugs(607,5.0).
-ckd01(607,0.0).
 hta(607).
 cogdis(607).
 park(607).
@@ -14713,8 +14239,7 @@ mobcat(608,1.0).
 pa3mcat(608,0.0).
 numberdoses(608,3.0).
 totndrugs(608,5.0).
-ckd01(608,0.0).
-poornut01(608).
+poornut(608).
 oad(608).
 cvd(608).
 hd(608).
@@ -14740,7 +14265,6 @@ mobcat(609,0.0).
 pa3mcat(609,4.0).
 numberdoses(609,3.0).
 totndrugs(609,0.0).
-ckd01(609,0.0).
 obesity(609).
 cogdis(609).
 mmsumrev(609,2.0).
@@ -14765,7 +14289,6 @@ mobcat(610,1.0).
 pa3mcat(610,4.0).
 numberdoses(610,3.0).
 totndrugs(610,5.0).
-ckd01(610,0.0).
 cvd(610).
 cogdis(610).
 thyrdis(610).
