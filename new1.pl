@@ -1,255 +1,255 @@
-%patient: IT-0154-004787
-Gender(0,1.0).
+%patient: IT-0154-004787 index:0
+Gender(0,m).
 Race(0,White).
-numberdoses(0,2.0).
+numberdoses(0,2).
 antiS_0(0,4.81).
-TypeofOutcome_updated(0,9.0).
+TypeofOutcome_updated(0,9).
 patient(0,unknown).
 
-%patient: IT-0153-004773
-Gender(1,1.0).
+%patient: IT-0153-004773 index:1
+Gender(1,m).
 Race(1,White).
-numberdoses(1,2.0).
+numberdoses(1,2).
 antiS_0(1,4.81).
-WHO_f1(1,0.0).
-TypeofOutcome_updated(1,1.0).
+WHO_f1(1,0).
+TypeofOutcome_updated(1,1).
 patient(1,pos).
 
-%patient: IT-0153-004782
-Gender(2,2.0).
+%patient: IT-0153-004782 index:2
+Gender(2,f).
 Race(2,White).
-numberdoses(2,2.0).
+numberdoses(2,2).
 antiS_0(2,4.81).
-WHO_f1(2,0.0).
-TypeofOutcome_updated(2,1.0).
+WHO_f1(2,0).
+TypeofOutcome_updated(2,1).
 patient(2,pos).
 
-%patient: IT-0154-004816
-Gender(3,2.0).
+%patient: IT-0154-004816 index:3
+Gender(3,f).
 Race(3,White).
-numberdoses(3,2.0).
+numberdoses(3,2).
 antiS_0(3,4.81).
-WHO_f1(3,0.0).
-TypeofOutcome_updated(3,1.0).
+WHO_f1(3,0).
+TypeofOutcome_updated(3,1).
 patient(3,pos).
 
-%patient: IT-0154-004817
-Gender(4,2.0).
+%patient: IT-0154-004817 index:4
+Gender(4,f).
 Race(4,White).
-numberdoses(4,2.0).
+numberdoses(4,2).
 antiS_0(4,4.81).
-WHO_f1(4,0.0).
-TypeofOutcome_updated(4,1.0).
+WHO_f1(4,0).
+TypeofOutcome_updated(4,1).
 patient(4,pos).
 
-%patient: IT-0044-003650
-Gender(5,2.0).
+%patient: IT-0044-003650 index:5
+Gender(5,f).
 Race(5,White).
-mobcat(5,1.0).
-PA3mcat(5,1.0).
-numberdoses(5,2.0).
+mobcat(5,1).
+PA3mcat(5,1).
+numberdoses(5,2).
 frailty01(5).
 antiS_0(5,4.81).
 antiS_2(5,349.0).
 deltaantiS02(5,344.19).
-WHO_f1(5,0.0).
-TypeofOutcome_updated(5,1.0).
+WHO_f1(5,0).
+TypeofOutcome_updated(5,1).
 patient(5,pos).
 
-%patient: IT-0153-004775
-Gender(6,2.0).
+%patient: IT-0153-004775 index:6
+Gender(6,f).
 Race(6,White).
-numberdoses(6,2.0).
+numberdoses(6,2).
 antiS_0(6,4.81).
 antiS_2(6,207.0).
 deltaantiS02(6,202.19).
-WHO_f1(6,0.0).
-WHO_f2(6,0.0).
-TypeofOutcome_updated(6,1.0).
+WHO_f1(6,0).
+WHO_f2(6,0).
+TypeofOutcome_updated(6,1).
 patient(6,pos).
 
-%patient: IT-0154-004791
-Gender(7,2.0).
+%patient: IT-0154-004791 index:7
+Gender(7,f).
 Race(7,White).
-numberdoses(7,2.0).
+numberdoses(7,2).
 antiS_0(7,19.0).
 antiS_2(7,430.0).
 deltaantiS02(7,411.0).
-WHO_f1(7,0.0).
-WHO_f2(7,0.0).
-TypeofOutcome_updated(7,1.0).
+WHO_f1(7,0).
+WHO_f2(7,0).
+TypeofOutcome_updated(7,1).
 patient(7,pos).
 
-%patient: IT-0154-004804
-Gender(8,2.0).
-numberdoses(8,2.0).
+%patient: IT-0154-004804 index:8
+Gender(8,f).
+numberdoses(8,2).
 antiS_0(8,4.81).
-WHO_f1(8,0.0).
-WHO_f2(8,0.0).
-TypeofOutcome_updated(8,1.0).
+WHO_f1(8,0).
+WHO_f2(8,0).
+TypeofOutcome_updated(8,1).
 patient(8,pos).
 
-%patient: IT-0154-004815
-Gender(9,2.0).
+%patient: IT-0154-004815 index:9
+Gender(9,f).
 Race(9,White).
-numberdoses(9,2.0).
+numberdoses(9,2).
 antiS_0(9,4.81).
 antiS_2(9,18.0).
 deltaantiS02(9,13.19).
-WHO_f1(9,0.0).
-WHO_f2(9,0.0).
-TypeofOutcome_updated(9,1.0).
+WHO_f1(9,0).
+WHO_f2(9,0).
+TypeofOutcome_updated(9,1).
 patient(9,pos).
 
-%patient: IT-0003-003761
-Gender(10,2.0).
+%patient: IT-0003-003761 index:10
+Gender(10,f).
 Race(10,White).
-mobcat(10,4.0).
-PA3mcat(10,4.0).
-numberdoses(10,2.0).
+mobcat(10,4).
+PA3mcat(10,4).
+numberdoses(10,2).
 antiS_0(10,4.81).
 antiS_2(10,453.0).
 antiS_6(10,26.3).
 deltaantiS02(10,448.19).
 deltaantiS26(10,-426.7).
-WHO_f1(10,0.0).
-WHO_f2(10,0.0).
-WHO_f3(10,0.0).
-TypeofOutcome_updated(10,1.0).
+WHO_f1(10,0).
+WHO_f2(10,0).
+WHO_f3(10,0).
+TypeofOutcome_updated(10,1).
 patient(10,pos).
 
-%patient: IT-0153-004763
-Gender(11,1.0).
+%patient: IT-0153-004763 index:11
+Gender(11,m).
 Race(11,White).
-numberdoses(11,2.0).
+numberdoses(11,2).
 antiS_0(11,4.81).
 antiS_2(11,197.0).
 antiS_6(11,24.5).
 deltaantiS02(11,192.19).
 deltaantiS26(11,-172.5).
-WHO_f1(11,0.0).
-WHO_f2(11,0.0).
-WHO_f3(11,0.0).
-TypeofOutcome_updated(11,1.0).
+WHO_f1(11,0).
+WHO_f2(11,0).
+WHO_f3(11,0).
+TypeofOutcome_updated(11,1).
 patient(11,pos).
 
-%patient: IT-0153-004765
-Gender(12,2.0).
+%patient: IT-0153-004765 index:12
+Gender(12,f).
 Race(12,White).
-numberdoses(12,2.0).
+numberdoses(12,2).
 antiS_0(12,4.81).
-WHO_f1(12,0.0).
-WHO_f2(12,0.0).
-WHO_f3(12,0.0).
-TypeofOutcome_updated(12,1.0).
+WHO_f1(12,0).
+WHO_f2(12,0).
+WHO_f3(12,0).
+TypeofOutcome_updated(12,1).
 patient(12,pos).
 
-%patient: IT-0153-004766
-Gender(13,2.0).
+%patient: IT-0153-004766 index:13
+Gender(13,f).
 Race(13,White).
-numberdoses(13,2.0).
+numberdoses(13,2).
 antiS_0(13,4.81).
 antiS_2(13,440.0).
 deltaantiS02(13,435.19).
-WHO_f1(13,0.0).
-WHO_f2(13,0.0).
-WHO_f3(13,0.0).
-TypeofOutcome_updated(13,1.0).
+WHO_f1(13,0).
+WHO_f2(13,0).
+WHO_f3(13,0).
+TypeofOutcome_updated(13,1).
 patient(13,pos).
 
-%patient: IT-0153-004776
-Gender(14,2.0).
+%patient: IT-0153-004776 index:14
+Gender(14,f).
 Race(14,White).
-numberdoses(14,2.0).
+numberdoses(14,2).
 antiS_0(14,4.81).
 antiS_2(14,175.0).
 deltaantiS02(14,170.19).
-WHO_f1(14,0.0).
-WHO_f2(14,0.0).
-WHO_f3(14,0.0).
-TypeofOutcome_updated(14,1.0).
+WHO_f1(14,0).
+WHO_f2(14,0).
+WHO_f3(14,0).
+TypeofOutcome_updated(14,1).
 patient(14,pos).
 
-%patient: IT-0154-004789
-Gender(15,1.0).
+%patient: IT-0154-004789 index:15
+Gender(15,m).
 Race(15,White).
-numberdoses(15,2.0).
+numberdoses(15,2).
 antiS_0(15,4.81).
 antiS_2(15,151.0).
 antiS_6(15,17.1).
 deltaantiS02(15,146.19).
 deltaantiS26(15,-133.9).
-WHO_f1(15,0.0).
-WHO_f2(15,0.0).
-WHO_f3(15,0.0).
-TypeofOutcome_updated(15,1.0).
+WHO_f1(15,0).
+WHO_f2(15,0).
+WHO_f3(15,0).
+TypeofOutcome_updated(15,1).
 patient(15,pos).
 
-%patient: IT-0154-004809
-Gender(16,2.0).
+%patient: IT-0154-004809 index:16
+Gender(16,f).
 Race(16,White).
-numberdoses(16,2.0).
+numberdoses(16,2).
 antiS_0(16,4.81).
 antiS_2(16,264.0).
 antiS_6(16,42.5).
 deltaantiS02(16,259.19).
 deltaantiS26(16,-221.5).
-WHO_f1(16,0.0).
-WHO_f2(16,0.0).
-WHO_f3(16,0.0).
-TypeofOutcome_updated(16,1.0).
+WHO_f1(16,0).
+WHO_f2(16,0).
+WHO_f3(16,0).
+TypeofOutcome_updated(16,1).
 patient(16,pos).
 
-%patient: IT-0154-004810
-Gender(17,1.0).
+%patient: IT-0154-004810 index:17
+Gender(17,m).
 Race(17,White).
-numberdoses(17,2.0).
+numberdoses(17,2).
 antiS_0(17,4.81).
 antiS_2(17,1580.0).
 antiS_6(17,170.0).
 deltaantiS02(17,1575.19).
 deltaantiS26(17,-1410.0).
-WHO_f1(17,0.0).
-WHO_f2(17,0.0).
-WHO_f3(17,0.0).
-TypeofOutcome_updated(17,1.0).
+WHO_f1(17,0).
+WHO_f2(17,0).
+WHO_f3(17,0).
+TypeofOutcome_updated(17,1).
 patient(17,pos).
 
-%patient: IT-0154-004811
-Gender(18,1.0).
+%patient: IT-0154-004811 index:18
+Gender(18,m).
 Race(18,White).
-numberdoses(18,3.0).
+numberdoses(18,3).
 antiS_0(18,4.81).
 antiS_2(18,947.0).
 antiS_6(18,25.2).
 deltaantiS02(18,942.19).
 deltaantiS26(18,-921.8).
-WHO_f1(18,0.0).
-WHO_f2(18,0.0).
-WHO_f3(18,0.0).
-TypeofOutcome_updated(18,1.0).
+WHO_f1(18,0).
+WHO_f2(18,0).
+WHO_f3(18,0).
+TypeofOutcome_updated(18,1).
 patient(18,pos).
 
-%patient: IT-0045-005291
-Gender(19,2.0).
+%patient: IT-0045-005291 index:19
+Gender(19,f).
 Race(19,White).
-mobcat(19,5.0).
-PA3mcat(19,4.0).
-numberdoses(19,1.0).
-totndrugs(19,2.0).
+mobcat(19,5).
+PA3mcat(19,4).
+numberdoses(19,1).
+totndrugs(19,2).
 cogdis01_tot(19).
-Mmsumrev(19,0.0).
+Mmsumrev(19,0).
 antiS_0(19,4.81).
-TypeofOutcome_updated(19,1.0).
+TypeofOutcome_updated(19,1).
 patient(19,pos).
 
-%patient: IT-0143-004090
-Gender(20,2.0).
+%patient: IT-0143-004090 index:20
+Gender(20,f).
 Race(20,White).
-mobcat(20,5.0).
-PA3mcat(20,4.0).
-numberdoses(20,1.0).
-totndrugs(20,12.0).
+mobcat(20,5).
+PA3mcat(20,4).
+numberdoses(20,1).
+totndrugs(20,12).
 frailty01(20).
 OAD01_tot(20).
 HTA01_tot(20).
@@ -258,18 +258,18 @@ depress01_tot(20).
 cogdis01_tot(20).
 thyrdis01_tot(20).
 anxiety01_tot(20).
-Mmsumrev(20,5.0).
+Mmsumrev(20,5).
 antiS_0(20,4.81).
-TypeofOutcome_updated(20,1.0).
+TypeofOutcome_updated(20,1).
 patient(20,pos).
 
-%patient: IT-0017-003758
-Gender(21,1.0).
+%patient: IT-0017-003758 index:21
+Gender(21,m).
 Race(21,White).
-mobcat(21,5.0).
-PA3mcat(21,4.0).
-numberdoses(21,1.0).
-totndrugs(21,6.0).
+mobcat(21,5).
+PA3mcat(21,4).
+numberdoses(21,1).
+totndrugs(21,6).
 frailty01(21).
 poornut01(21).
 cancer01(21).
@@ -278,20 +278,20 @@ HTA01_tot(21).
 CVD01_tot(21).
 chrrespdis01_tot(21).
 depress01_tot(21).
-Mmsumrev(21,6.0).
+Mmsumrev(21,6).
 antiS_0(21,4.81).
 antiS_2(21,1220.0).
 deltaantiS02(21,1215.19).
-TypeofOutcome_updated(21,1.0).
+TypeofOutcome_updated(21,1).
 patient(21,pos).
 
-%patient: IT-0020-003778
-Gender(22,1.0).
+%patient: IT-0020-003778 index:22
+Gender(22,m).
 Race(22,White).
-mobcat(22,5.0).
-PA3mcat(22,4.0).
-numberdoses(22,1.0).
-totndrugs(22,0.0).
+mobcat(22,5).
+PA3mcat(22,4).
+numberdoses(22,1).
+totndrugs(22,0).
 poornut01(22).
 IBD01(22).
 OAD01_tot(22).
@@ -299,18 +299,18 @@ HTA01_tot(22).
 CVD01_tot(22).
 cogdis01_tot(22).
 HD01_tot(22).
-Mmsumrev(22,4.0).
+Mmsumrev(22,4).
 antiS_0(22,4.81).
-TypeofOutcome_updated(22,1.0).
+TypeofOutcome_updated(22,1).
 patient(22,pos).
 
-%patient: IT-0021-003839
-Gender(23,1.0).
+%patient: IT-0021-003839 index:23
+Gender(23,m).
 Race(23,White).
-mobcat(23,4.0).
-PA3mcat(23,4.0).
-numberdoses(23,1.0).
-totndrugs(23,11.0).
+mobcat(23,4).
+PA3mcat(23,4).
+numberdoses(23,1).
+totndrugs(23,11).
 CKD01(23).
 OAD01_tot(23).
 HTA01_tot(23).
@@ -318,18 +318,18 @@ CVD01_tot(23).
 cogdis01_tot(23).
 park01_tot(23).
 HD01_tot(23).
-Mmsumrev(23,6.0).
+Mmsumrev(23,6).
 antiS_0(23,4.81).
-TypeofOutcome_updated(23,1.0).
+TypeofOutcome_updated(23,1).
 patient(23,pos).
 
-%patient: IT-0043-005210
-Gender(24,2.0).
+%patient: IT-0043-005210 index:24
+Gender(24,f).
 Race(24,White).
-mobcat(24,2.0).
-PA3mcat(24,1.0).
-numberdoses(24,1.0).
-totndrugs(24,6.0).
+mobcat(24,2).
+PA3mcat(24,1).
+numberdoses(24,1).
+totndrugs(24,6).
 frailty01(24).
 poornut01(24).
 OAD01_tot(24).
@@ -339,50 +339,50 @@ depress01_tot(24).
 cogdis01_tot(24).
 thyrdis01_tot(24).
 HD01_tot(24).
-Mmsumrev(24,5.0).
+Mmsumrev(24,5).
 antiS_0(24,128.0).
-TypeofOutcome_updated(24,1.0).
+TypeofOutcome_updated(24,1).
 patient(24,pos).
 
-%patient: IT-0045-005747
-Gender(25,2.0).
+%patient: IT-0045-005747 index:25
+Gender(25,f).
 Race(25,White).
-mobcat(25,4.0).
-PA3mcat(25,4.0).
-numberdoses(25,1.0).
-totndrugs(25,6.0).
+mobcat(25,4).
+PA3mcat(25,4).
+numberdoses(25,1).
+totndrugs(25,6).
 HTA01_tot(25).
 CVD01_tot(25).
 cogdis01_tot(25).
-Mmsumrev(25,2.0).
+Mmsumrev(25,2).
 antiS_0(25,4.81).
-TypeofOutcome_updated(25,1.0).
+TypeofOutcome_updated(25,1).
 patient(25,pos).
 
-%patient: IT-0132-004283
-Gender(26,2.0).
+%patient: IT-0132-004283 index:26
+Gender(26,f).
 Race(26,White).
-mobcat(26,5.0).
-PA3mcat(26,4.0).
-numberdoses(26,1.0).
-totndrugs(26,0.0).
+mobcat(26,5).
+PA3mcat(26,4).
+numberdoses(26,1).
+totndrugs(26,0).
 frailty01(26).
 HTA01_tot(26).
 chrrespdis01_tot(26).
 depress01_tot(26).
 cogdis01_tot(26).
-Mmsumrev(26,4.0).
+Mmsumrev(26,4).
 antiS_0(26,4.81).
-TypeofOutcome_updated(26,1.0).
+TypeofOutcome_updated(26,1).
 patient(26,pos).
 
-%patient: IT-0166-004978
-Gender(27,2.0).
+%patient: IT-0166-004978 index:27
+Gender(27,f).
 Race(27,White).
-mobcat(27,1.0).
-PA3mcat(27,4.0).
-numberdoses(27,1.0).
-totndrugs(27,4.0).
+mobcat(27,1).
+PA3mcat(27,4).
+numberdoses(27,1).
+totndrugs(27,4).
 frailty01(27).
 cancer01(27).
 HTA01_tot(27).
@@ -392,17 +392,17 @@ depress01_tot(27).
 cogdis01_tot(27).
 epilepsia01_tot(27).
 HD01_tot(27).
-Mmsumrev(27,7.0).
+Mmsumrev(27,7).
 excovidtot(27).
 antiS_0(27,1280.0).
-TypeofOutcome_updated(27,1.0).
+TypeofOutcome_updated(27,1).
 patient(27,pos).
 
-%patient: IT-0143-004260
-Gender(28,1.0).
+%patient: IT-0143-004260 index:28
+Gender(28,m).
 Race(28,White).
-numberdoses(28,1.0).
-totndrugs(28,3.0).
+numberdoses(28,1).
+totndrugs(28,3).
 frailty01(28).
 CKD01(28).
 immunedis01(28).
@@ -412,55 +412,55 @@ PAD01_tot(28).
 chrrespdis01_tot(28).
 depress01_tot(28).
 HD01_tot(28).
-Mmsumrev(28,7.0).
+Mmsumrev(28,7).
 antiS_0(28,4.81).
-WHO_f2(28,4.0).
-TypeofOutcome_updated(28,1.0).
+WHO_f2(28,4).
+TypeofOutcome_updated(28,1).
 patient(28,pos).
 
-%patient: IT-0143-004053
-Gender(29,2.0).
+%patient: IT-0143-004053 index:29
+Gender(29,f).
 Race(29,White).
-mobcat(29,1.0).
-PA3mcat(29,4.0).
-numberdoses(29,1.0).
-totndrugs(29,4.0).
+mobcat(29,1).
+PA3mcat(29,4).
+numberdoses(29,1).
+totndrugs(29,4).
 frailty01(29).
 cogdis01_tot(29).
 epilepsia01_tot(29).
-Mmsumrev(29,2.0).
+Mmsumrev(29,2).
 excovidtot(29).
 antiS_0(29,175.0).
-WHO_f2(29,4.0).
-TypeofOutcome_updated(29,1.0).
+WHO_f2(29,4).
+TypeofOutcome_updated(29,1).
 patient(29,pos).
 
-%patient: IT-0003-000968
-Gender(30,2.0).
+%patient: IT-0003-000968 index:30
+Gender(30,f).
 Race(30,White).
-mobcat(30,3.0).
-PA3mcat(30,4.0).
-numberdoses(30,2.0).
-totndrugs(30,0.0).
+mobcat(30,3).
+PA3mcat(30,4).
+numberdoses(30,2).
+totndrugs(30,0).
 poornut01(30).
 OAD01_tot(30).
 HTA01_tot(30).
 depress01_tot(30).
 park01_tot(30).
 thyrdis01_tot(30).
-Mmsumrev(30,5.0).
+Mmsumrev(30,5).
 antiS_0(30,4.81).
-WHO_f1(30,0.0).
-TypeofOutcome_updated(30,1.0).
+WHO_f1(30,0).
+TypeofOutcome_updated(30,1).
 patient(30,pos).
 
-%patient: IT-0021-003838
-Gender(31,2.0).
+%patient: IT-0021-003838 index:31
+Gender(31,f).
 Race(31,White).
-mobcat(31,4.0).
-PA3mcat(31,4.0).
-numberdoses(31,2.0).
-totndrugs(31,6.0).
+mobcat(31,4).
+PA3mcat(31,4).
+numberdoses(31,2).
+totndrugs(31,6).
 CKD01(31).
 OAD01_tot(31).
 HTA01_tot(31).
@@ -468,55 +468,55 @@ PAD01_tot(31).
 cogdis01_tot(31).
 epilepsia01_tot(31).
 anxiety01_tot(31).
-Mmsumrev(31,7.0).
+Mmsumrev(31,7).
 antiS_0(31,4.81).
-TypeofOutcome_updated(31,1.0).
+TypeofOutcome_updated(31,1).
 patient(31,pos).
 
-%patient: IT-0043-005211
-Gender(32,2.0).
+%patient: IT-0043-005211 index:32
+Gender(32,f).
 Race(32,White).
-mobcat(32,1.0).
-PA3mcat(32,4.0).
-numberdoses(32,2.0).
-totndrugs(32,6.0).
+mobcat(32,1).
+PA3mcat(32,4).
+numberdoses(32,2).
+totndrugs(32,6).
 frailty01(32).
 OAD01_tot(32).
 HTA01_tot(32).
 depress01_tot(32).
 cogdis01_tot(32).
-Mmsumrev(32,3.0).
+Mmsumrev(32,3).
 excovidtot(32).
 antiS_0(32,4.81).
 antiS_2(32,8380.0).
 deltaantiS02(32,8375.19).
-WHO_f1(32,0.0).
-TypeofOutcome_updated(32,1.0).
+WHO_f1(32,0).
+TypeofOutcome_updated(32,1).
 patient(32,pos).
 
-%patient: IT-0045-005294
-Gender(33,1.0).
+%patient: IT-0045-005294 index:33
+Gender(33,m).
 Race(33,White).
-mobcat(33,1.0).
-PA3mcat(33,4.0).
-numberdoses(33,2.0).
-totndrugs(33,2.0).
+mobcat(33,1).
+PA3mcat(33,4).
+numberdoses(33,2).
+totndrugs(33,2).
 cogdis01_tot(33).
-Mmsumrev(33,0.0).
+Mmsumrev(33,0).
 antiS_0(33,4.81).
 antiS_2(33,14.0).
 deltaantiS02(33,9.19).
-WHO_f1(33,0.0).
-TypeofOutcome_updated(33,1.0).
+WHO_f1(33,0).
+TypeofOutcome_updated(33,1).
 patient(33,pos).
 
-%patient: IT-0043-003644
-Gender(34,2.0).
+%patient: IT-0043-003644 index:34
+Gender(34,f).
 Race(34,White).
-mobcat(34,5.0).
-PA3mcat(34,4.0).
-numberdoses(34,2.0).
-totndrugs(34,0.0).
+mobcat(34,5).
+PA3mcat(34,4).
+numberdoses(34,2).
+totndrugs(34,0).
 frailty01(34).
 poornut01(34).
 OAD01_tot(34).
@@ -524,38 +524,38 @@ CVD01_tot(34).
 depress01_tot(34).
 cogdis01_tot(34).
 HD01_tot(34).
-Mmsumrev(34,3.0).
+Mmsumrev(34,3).
 antiS_0(34,355.0).
-TypeofOutcome_updated(34,1.0).
+TypeofOutcome_updated(34,1).
 patient(34,pos).
 
-%patient: IT-0043-003648
-Gender(35,2.0).
+%patient: IT-0043-003648 index:35
+Gender(35,f).
 Race(35,White).
-mobcat(35,5.0).
-PA3mcat(35,4.0).
-numberdoses(35,2.0).
-totndrugs(35,0.0).
+mobcat(35,5).
+PA3mcat(35,4).
+numberdoses(35,2).
+totndrugs(35,0).
 frailty01(35).
 OAD01_tot(35).
 HTA01_tot(35).
 depress01_tot(35).
 cogdis01_tot(35).
-Mmsumrev(35,3.0).
+Mmsumrev(35,3).
 antiS_0(35,233.0).
 antiS_2(35,1640.0).
 deltaantiS02(35,1407.0).
-WHO_f1(35,0.0).
-TypeofOutcome_updated(35,1.0).
+WHO_f1(35,0).
+TypeofOutcome_updated(35,1).
 patient(35,pos).
 
-%patient: IT-0044-003649
-Gender(36,2.0).
+%patient: IT-0044-003649 index:36
+Gender(36,f).
 Race(36,White).
-mobcat(36,4.0).
-PA3mcat(36,4.0).
-numberdoses(36,2.0).
-totndrugs(36,0.0).
+mobcat(36,4).
+PA3mcat(36,4).
+numberdoses(36,2).
+totndrugs(36,0).
 frailty01(36).
 poornut01(36).
 OAD01_tot(36).
@@ -565,19 +565,19 @@ chrrespdis01_tot(36).
 obesity01_tot(36).
 cogdis01_tot(36).
 HD01_tot(36).
-Mmsumrev(36,5.0).
+Mmsumrev(36,5).
 antiS_0(36,4.81).
-WHO_f1(36,0.0).
-TypeofOutcome_updated(36,1.0).
+WHO_f1(36,0).
+TypeofOutcome_updated(36,1).
 patient(36,pos).
 
-%patient: IT-0044-003662
-Gender(37,1.0).
+%patient: IT-0044-003662 index:37
+Gender(37,m).
 Race(37,White).
-mobcat(37,0.0).
-PA3mcat(37,1.0).
-numberdoses(37,2.0).
-totndrugs(37,5.0).
+mobcat(37,0).
+PA3mcat(37,1).
+numberdoses(37,2).
+totndrugs(37,5).
 frailty01(37).
 HTA01_tot(37).
 CVD01_tot(37).
@@ -586,33 +586,33 @@ depress01_tot(37).
 cogdis01_tot(37).
 epilepsia01_tot(37).
 HD01_tot(37).
-Mmsumrev(37,6.0).
+Mmsumrev(37,6).
 antiS_0(37,4.81).
-TypeofOutcome_updated(37,1.0).
+TypeofOutcome_updated(37,1).
 patient(37,pos).
 
-%patient: IT-0052-003690
-Gender(38,2.0).
+%patient: IT-0052-003690 index:38
+Gender(38,f).
 Race(38,White).
-mobcat(38,5.0).
-PA3mcat(38,4.0).
-numberdoses(38,2.0).
-totndrugs(38,3.0).
+mobcat(38,5).
+PA3mcat(38,4).
+numberdoses(38,2).
+totndrugs(38,3).
 HTA01_tot(38).
 CVD01_tot(38).
 HD01_tot(38).
-Mmsumrev(38,2.0).
+Mmsumrev(38,2).
 antiS_0(38,4.81).
-TypeofOutcome_updated(38,1.0).
+TypeofOutcome_updated(38,1).
 patient(38,pos).
 
-%patient: IT-0166-004979
-Gender(39,1.0).
+%patient: IT-0166-004979 index:39
+Gender(39,m).
 Race(39,White).
-mobcat(39,1.0).
-PA3mcat(39,4.0).
-numberdoses(39,2.0).
-totndrugs(39,4.0).
+mobcat(39,1).
+PA3mcat(39,4).
+numberdoses(39,2).
+totndrugs(39,4).
 frailty01(39).
 CKD01(39).
 poornut01(39).
@@ -622,20 +622,20 @@ HTA01_tot(39).
 CVD01_tot(39).
 cogdis01_tot(39).
 HD01_tot(39).
-Mmsumrev(39,5.0).
+Mmsumrev(39,5).
 excovidtot(39).
 antiS_0(39,198.0).
-WHO_f1(39,0.0).
-TypeofOutcome_updated(39,1.0).
+WHO_f1(39,0).
+TypeofOutcome_updated(39,1).
 patient(39,pos).
 
-%patient: IT-0143-004264
-Gender(40,2.0).
+%patient: IT-0143-004264 index:40
+Gender(40,f).
 Race(40,White).
-mobcat(40,5.0).
-PA3mcat(40,4.0).
-numberdoses(40,2.0).
-totndrugs(40,12.0).
+mobcat(40,5).
+PA3mcat(40,4).
+numberdoses(40,2).
+totndrugs(40,12).
 frailty01(40).
 liverdis01(40).
 OAD01_tot(40).
@@ -648,18 +648,18 @@ thyrdis01_tot(40).
 anxiety01_tot(40).
 HD01_tot(40).
 antiS_0(40,4.81).
-WHO_f1(40,0.0).
-WHO_f2(40,4.0).
-TypeofOutcome_updated(40,1.0).
+WHO_f1(40,0).
+WHO_f2(40,4).
+TypeofOutcome_updated(40,1).
 patient(40,pos).
 
-%patient: IT-0003-000280
-Gender(41,1.0).
+%patient: IT-0003-000280 index:41
+Gender(41,m).
 Race(41,White).
-mobcat(41,0.0).
-PA3mcat(41,0.0).
-numberdoses(41,2.0).
-totndrugs(41,8.0).
+mobcat(41,0).
+PA3mcat(41,0).
+numberdoses(41,2).
+totndrugs(41,8).
 CKD01(41).
 poornut01(41).
 OAD01_tot(41).
@@ -668,140 +668,140 @@ chrrespdis01_tot(41).
 depress01_tot(41).
 cogdis01_tot(41).
 epilepsia01_tot(41).
-Mmsumrev(41,7.0).
+Mmsumrev(41,7).
 antiS_0(41,4.81).
 antiS_2(41,180.0).
 deltaantiS02(41,175.19).
-WHO_f1(41,0.0).
-WHO_f2(41,0.0).
-TypeofOutcome_updated(41,1.0).
+WHO_f1(41,0).
+WHO_f2(41,0).
+TypeofOutcome_updated(41,1).
 patient(41,pos).
 
-%patient: IT-0015-003925
-Gender(42,1.0).
+%patient: IT-0015-003925 index:42
+Gender(42,m).
 Race(42,White).
-mobcat(42,1.0).
-PA3mcat(42,4.0).
-numberdoses(42,2.0).
-totndrugs(42,5.0).
+mobcat(42,1).
+PA3mcat(42,4).
+numberdoses(42,2).
+totndrugs(42,5).
 cogdis01_tot(42).
 epilepsia01_tot(42).
 anxiety01_tot(42).
 urol01_tot(42).
-Mmsumrev(42,4.0).
+Mmsumrev(42,4).
 antiS_0(42,4.81).
 antiS_2(42,1220.0).
 deltaantiS02(42,1215.19).
-TypeofOutcome_updated(42,1.0).
+TypeofOutcome_updated(42,1).
 patient(42,pos).
 
-%patient: IT-0016-002497
-Gender(43,2.0).
+%patient: IT-0016-002497 index:43
+Gender(43,f).
 Race(43,White).
-mobcat(43,3.0).
-PA3mcat(43,4.0).
-numberdoses(43,2.0).
-totndrugs(43,6.0).
+mobcat(43,3).
+PA3mcat(43,4).
+numberdoses(43,2).
+totndrugs(43,6).
 OAD01_tot(43).
 HTA01_tot(43).
 depress01_tot(43).
 cogdis01_tot(43).
 epilepsia01_tot(43).
-Mmsumrev(43,4.0).
+Mmsumrev(43,4).
 antiS_0(43,4.81).
 antiS_2(43,5940.0).
 deltaantiS02(43,5935.19).
-TypeofOutcome_updated(43,1.0).
+TypeofOutcome_updated(43,1).
 patient(43,pos).
 
-%patient: IT-0017-002667
-Gender(44,2.0).
+%patient: IT-0017-002667 index:44
+Gender(44,f).
 Race(44,White).
-mobcat(44,5.0).
-PA3mcat(44,4.0).
-numberdoses(44,2.0).
-totndrugs(44,4.0).
+mobcat(44,5).
+PA3mcat(44,4).
+numberdoses(44,2).
+totndrugs(44,4).
 park01_tot(44).
-Mmsumrev(44,2.0).
+Mmsumrev(44,2).
 antiS_0(44,4.81).
 antiS_2(44,133.0).
 deltaantiS02(44,128.19).
-WHO_f1(44,3.0).
-WHO_f2(44,3.0).
-TypeofOutcome_updated(44,1.0).
+WHO_f1(44,3).
+WHO_f2(44,3).
+TypeofOutcome_updated(44,1).
 patient(44,pos).
 
-%patient: IT-0020-000969
-Gender(45,2.0).
+%patient: IT-0020-000969 index:45
+Gender(45,f).
 Race(45,White).
-mobcat(45,1.0).
-PA3mcat(45,1.0).
-numberdoses(45,2.0).
-totndrugs(45,7.0).
+mobcat(45,1).
+PA3mcat(45,1).
+numberdoses(45,2).
+totndrugs(45,7).
 CKD01(45).
 OAD01_tot(45).
 HTA01_tot(45).
 cogdis01_tot(45).
-Mmsumrev(45,4.0).
+Mmsumrev(45,4).
 antiS_0(45,4.81).
 antiS_2(45,1810.0).
 deltaantiS02(45,1805.19).
-WHO_f1(45,0.0).
-WHO_f2(45,0.0).
-TypeofOutcome_updated(45,1.0).
+WHO_f1(45,0).
+WHO_f2(45,0).
+TypeofOutcome_updated(45,1).
 patient(45,pos).
 
-%patient: IT-0020-003029
-Gender(46,2.0).
+%patient: IT-0020-003029 index:46
+Gender(46,f).
 Race(46,White).
-mobcat(46,1.0).
-PA3mcat(46,4.0).
-numberdoses(46,2.0).
-totndrugs(46,5.0).
+mobcat(46,1).
+PA3mcat(46,4).
+numberdoses(46,2).
+totndrugs(46,5).
 OAD01_tot(46).
 CVD01_tot(46).
 chrrespdis01_tot(46).
 cogdis01_tot(46).
 thyrdis01_tot(46).
 anxiety01_tot(46).
-Mmsumrev(46,4.0).
+Mmsumrev(46,4).
 antiS_0(46,4.81).
 antiS_2(46,1580.0).
 deltaantiS02(46,1575.19).
-WHO_f1(46,0.0).
-WHO_f2(46,0.0).
-TypeofOutcome_updated(46,1.0).
+WHO_f1(46,0).
+WHO_f2(46,0).
+TypeofOutcome_updated(46,1).
 patient(46,pos).
 
-%patient: IT-0020-003776
-Gender(47,1.0).
+%patient: IT-0020-003776 index:47
+Gender(47,m).
 Race(47,White).
-mobcat(47,2.0).
-PA3mcat(47,4.0).
-numberdoses(47,2.0).
-totndrugs(47,0.0).
+mobcat(47,2).
+PA3mcat(47,4).
+numberdoses(47,2).
+totndrugs(47,0).
 OAD01_tot(47).
 CVD01_tot(47).
 AF01_tot(47).
 PAD01_tot(47).
 cogdis01_tot(47).
 HD01_tot(47).
-Mmsumrev(47,4.0).
+Mmsumrev(47,4).
 antiS_0(47,4.81).
 antiS_2(47,2080.0).
 deltaantiS02(47,2075.19).
-WHO_f1(47,0.0).
-WHO_f2(47,0.0).
-TypeofOutcome_updated(47,1.0).
+WHO_f1(47,0).
+WHO_f2(47,0).
+TypeofOutcome_updated(47,1).
 patient(47,pos).
 
-%patient: IT-0021-000295
-Gender(48,2.0).
+%patient: IT-0021-000295 index:48
+Gender(48,f).
 Race(48,White).
-mobcat(48,4.0).
-PA3mcat(48,4.0).
-numberdoses(48,2.0).
-totndrugs(48,4.0).
+mobcat(48,4).
+PA3mcat(48,4).
+numberdoses(48,2).
+totndrugs(48,4).
 frailty01(48).
 poornut01(48).
 OAD01_tot(48).
@@ -809,21 +809,21 @@ HTA01_tot(48).
 CVD01_tot(48).
 depress01_tot(48).
 cogdis01_tot(48).
-Mmsumrev(48,3.0).
+Mmsumrev(48,3).
 antiS_0(48,4.81).
 antiS_2(48,5.34).
 deltaantiS02(48,0.53).
-WHO_f2(48,0.0).
-TypeofOutcome_updated(48,1.0).
+WHO_f2(48,0).
+TypeofOutcome_updated(48,1).
 patient(48,pos).
 
-%patient: IT-0052-003691
-Gender(49,1.0).
+%patient: IT-0052-003691 index:49
+Gender(49,m).
 Race(49,White).
-mobcat(49,5.0).
-PA3mcat(49,4.0).
-numberdoses(49,2.0).
-totndrugs(49,5.0).
+mobcat(49,5).
+PA3mcat(49,4).
+numberdoses(49,2).
+totndrugs(49,5).
 HTA01_tot(49).
 CVD01_tot(49).
 PAD01_tot(49).
@@ -833,40 +833,40 @@ depress01_tot(49).
 cogdis01_tot(49).
 park01_tot(49).
 HD01_tot(49).
-Mmsumrev(49,8.0).
+Mmsumrev(49,8).
 antiS_0(49,4.81).
 antiS_2(49,1660.0).
 deltaantiS02(49,1655.19).
-WHO_f2(49,0.0).
-TypeofOutcome_updated(49,1.0).
+WHO_f2(49,0).
+TypeofOutcome_updated(49,1).
 patient(49,pos).
 
-%patient: IT-0166-004968
-Gender(50,2.0).
+%patient: IT-0166-004968 index:50
+Gender(50,f).
 Race(50,White).
-mobcat(50,1.0).
-PA3mcat(50,4.0).
-numberdoses(50,2.0).
-totndrugs(50,3.0).
+mobcat(50,1).
+PA3mcat(50,4).
+numberdoses(50,2).
+totndrugs(50,3).
 HTA01_tot(50).
 CVD01_tot(50).
 HD01_tot(50).
-Mmsumrev(50,3.0).
+Mmsumrev(50,3).
 excovidtot(50).
 antiS_0(50,198.0).
 antiS_2(50,35600.0).
 deltaantiS02(50,35402.0).
-WHO_f2(50,0.0).
-TypeofOutcome_updated(50,1.0).
+WHO_f2(50,0).
+TypeofOutcome_updated(50,1).
 patient(50,pos).
 
-%patient: IT-0166-004970
-Gender(51,2.0).
+%patient: IT-0166-004970 index:51
+Gender(51,f).
 Race(51,White).
-mobcat(51,1.0).
-PA3mcat(51,4.0).
-numberdoses(51,1.0).
-totndrugs(51,6.0).
+mobcat(51,1).
+PA3mcat(51,4).
+numberdoses(51,1).
+totndrugs(51,6).
 frailty01(51).
 CKD01(51).
 HTA01_tot(51).
@@ -874,41 +874,41 @@ CVD01_tot(51).
 depress01_tot(51).
 cogdis01_tot(51).
 thyrdis01_tot(51).
-Mmsumrev(51,4.0).
+Mmsumrev(51,4).
 antiS_0(51,4.81).
-WHO_f2(51,0.0).
-TypeofOutcome_updated(51,1.0).
+WHO_f2(51,0).
+TypeofOutcome_updated(51,1).
 patient(51,pos).
 
-%patient: IT-0166-004976
-Gender(52,2.0).
+%patient: IT-0166-004976 index:52
+Gender(52,f).
 Race(52,White).
-mobcat(52,1.0).
-PA3mcat(52,4.0).
-numberdoses(52,2.0).
-totndrugs(52,4.0).
+mobcat(52,1).
+PA3mcat(52,4).
+numberdoses(52,2).
+totndrugs(52,4).
 frailty01(52).
 poornut01(52).
 HTA01_tot(52).
 CVD01_tot(52).
 cogdis01_tot(52).
 HD01_tot(52).
-Mmsumrev(52,3.0).
+Mmsumrev(52,3).
 excovidtot(52).
 antiS_0(52,16.8).
 antiS_2(52,15100.0).
 deltaantiS02(52,15083.2).
-WHO_f2(52,0.0).
-TypeofOutcome_updated(52,1.0).
+WHO_f2(52,0).
+TypeofOutcome_updated(52,1).
 patient(52,pos).
 
-%patient: IT-0166-005010
-Gender(53,2.0).
+%patient: IT-0166-005010 index:53
+Gender(53,f).
 Race(53,White).
-mobcat(53,3.0).
-PA3mcat(53,1.0).
-numberdoses(53,2.0).
-totndrugs(53,2.0).
+mobcat(53,3).
+PA3mcat(53,1).
+numberdoses(53,2).
+totndrugs(53,2).
 frailty01(53).
 poornut01(53).
 OAD01_tot(53).
@@ -917,43 +917,43 @@ CVD01_tot(53).
 depress01_tot(53).
 cogdis01_tot(53).
 HD01_tot(53).
-Mmsumrev(53,5.0).
+Mmsumrev(53,5).
 excovidtot(53).
 antiS_0(53,73.8).
 antiS_2(53,31900.0).
 deltaantiS02(53,31826.2).
-WHO_f2(53,0.0).
-TypeofOutcome_updated(53,1.0).
+WHO_f2(53,0).
+TypeofOutcome_updated(53,1).
 patient(53,pos).
 
-%patient: IT-0166-005024
-Gender(54,1.0).
+%patient: IT-0166-005024 index:54
+Gender(54,m).
 Race(54,White).
-mobcat(54,3.0).
-PA3mcat(54,4.0).
-numberdoses(54,2.0).
-totndrugs(54,5.0).
+mobcat(54,3).
+PA3mcat(54,4).
+numberdoses(54,2).
+totndrugs(54,5).
 OAD01_tot(54).
 HTA01_tot(54).
 depress01_tot(54).
 cogdis01_tot(54).
 urol01_tot(54).
-Mmsumrev(54,6.0).
+Mmsumrev(54,6).
 antiS_0(54,4.81).
 antiS_2(54,1360.0).
 deltaantiS02(54,1355.19).
-WHO_f1(54,0.0).
-WHO_f2(54,0.0).
-TypeofOutcome_updated(54,1.0).
+WHO_f1(54,0).
+WHO_f2(54,0).
+TypeofOutcome_updated(54,1).
 patient(54,pos).
 
-%patient: IT-0166-005105
-Gender(55,2.0).
+%patient: IT-0166-005105 index:55
+Gender(55,f).
 Race(55,White).
-mobcat(55,1.0).
-PA3mcat(55,4.0).
-numberdoses(55,2.0).
-totndrugs(55,7.0).
+mobcat(55,1).
+PA3mcat(55,4).
+numberdoses(55,2).
+totndrugs(55,7).
 OAD01_tot(55).
 HTA01_tot(55).
 CVD01_tot(55).
@@ -961,63 +961,63 @@ depress01_tot(55).
 cogdis01_tot(55).
 thyrdis01_tot(55).
 HD01_tot(55).
-Mmsumrev(55,5.0).
+Mmsumrev(55,5).
 excovidtot(55).
 antiS_0(55,129.0).
 antiS_2(55,37500.0).
 deltaantiS02(55,37371.0).
-WHO_f1(55,0.0).
-WHO_f2(55,0.0).
-TypeofOutcome_updated(55,1.0).
+WHO_f1(55,0).
+WHO_f2(55,0).
+TypeofOutcome_updated(55,1).
 patient(55,pos).
 
-%patient: IT-0166-005110
-Gender(56,2.0).
+%patient: IT-0166-005110 index:56
+Gender(56,f).
 Race(56,White).
-mobcat(56,3.0).
-PA3mcat(56,4.0).
-numberdoses(56,2.0).
+mobcat(56,3).
+PA3mcat(56,4).
+numberdoses(56,2).
 OAD01_tot(56).
 HTA01_tot(56).
 CVD01_tot(56).
 depress01_tot(56).
 cogdis01_tot(56).
-Mmsumrev(56,4.0).
+Mmsumrev(56,4).
 antiS_0(56,14.8).
 antiS_2(56,32000.0).
 deltaantiS02(56,31985.2).
-WHO_f1(56,0.0).
-WHO_f2(56,0.0).
-TypeofOutcome_updated(56,1.0).
+WHO_f1(56,0).
+WHO_f2(56,0).
+TypeofOutcome_updated(56,1).
 patient(56,pos).
 
-%patient: IT-0021-000683
-Gender(57,2.0).
+%patient: IT-0021-000683 index:57
+Gender(57,f).
 Race(57,White).
-mobcat(57,4.0).
-PA3mcat(57,2.0).
-numberdoses(57,2.0).
-totndrugs(57,5.0).
+mobcat(57,4).
+PA3mcat(57,2).
+numberdoses(57,2).
+totndrugs(57,5).
 HTA01_tot(57).
 CVD01_tot(57).
 HD01_tot(57).
-Mmsumrev(57,2.0).
+Mmsumrev(57,2).
 antiS_0(57,4.81).
 antiS_2(57,1280.0).
 antiS_6(57,111.0).
 deltaantiS02(57,1275.19).
 deltaantiS26(57,-1169.0).
-WHO_f2(57,0.0).
-TypeofOutcome_updated(57,1.0).
+WHO_f2(57,0).
+TypeofOutcome_updated(57,1).
 patient(57,pos).
 
-%patient: IT-0042-005427
-Gender(58,1.0).
+%patient: IT-0042-005427 index:58
+Gender(58,m).
 Race(58,White).
-mobcat(58,1.0).
-PA3mcat(58,4.0).
-numberdoses(58,2.0).
-totndrugs(58,1.0).
+mobcat(58,1).
+PA3mcat(58,4).
+numberdoses(58,2).
+totndrugs(58,1).
 frailty01(58).
 OAD01_tot(58).
 HTA01_tot(58).
@@ -1025,22 +1025,22 @@ obesity01_tot(58).
 depress01_tot(58).
 cogdis01_tot(58).
 park01_tot(58).
-Mmsumrev(58,5.0).
+Mmsumrev(58,5).
 antiS_0(58,4.81).
 antiS_2(58,436.0).
 deltaantiS02(58,431.19).
-WHO_f1(58,0.0).
-WHO_f2(58,0.0).
-TypeofOutcome_updated(58,1.0).
+WHO_f1(58,0).
+WHO_f2(58,0).
+TypeofOutcome_updated(58,1).
 patient(58,pos).
 
-%patient: IT-0052-003693
-Gender(59,1.0).
+%patient: IT-0052-003693 index:59
+Gender(59,m).
 Race(59,White).
-mobcat(59,4.0).
-PA3mcat(59,4.0).
-numberdoses(59,1.0).
-totndrugs(59,4.0).
+mobcat(59,4).
+PA3mcat(59,4).
+numberdoses(59,1).
+totndrugs(59,4).
 frailty01(59).
 poornut01(59).
 HTA01_tot(59).
@@ -1049,117 +1049,117 @@ PAD01_tot(59).
 depress01_tot(59).
 cogdis01_tot(59).
 HD01_tot(59).
-Mmsumrev(59,6.0).
+Mmsumrev(59,6).
 antiS_0(59,4.81).
-WHO_f2(59,0.0).
-TypeofOutcome_updated(59,1.0).
+WHO_f2(59,0).
+TypeofOutcome_updated(59,1).
 patient(59,pos).
 
-%patient: IT-0044-004230
-Gender(60,1.0).
+%patient: IT-0044-004230 index:60
+Gender(60,m).
 Race(60,White).
-mobcat(60,5.0).
-PA3mcat(60,4.0).
-numberdoses(60,1.0).
+mobcat(60,5).
+PA3mcat(60,4).
+numberdoses(60,1).
 OAD01_tot(60).
 HTA01_tot(60).
 CVD01_tot(60).
 cogdis01_tot(60).
 epilepsia01_tot(60).
 HD01_tot(60).
-Mmsumrev(60,4.0).
+Mmsumrev(60,4).
 excovidtot(60).
 antiS_0(60,398.0).
 antiS_2(60,6060.0).
 deltaantiS02(60,5662.0).
-WHO_f2(60,0.0).
-TypeofOutcome_updated(60,1.0).
+WHO_f2(60,0).
+TypeofOutcome_updated(60,1).
 patient(60,pos).
 
-%patient: IT-0044-005741
-Gender(61,2.0).
-mobcat(61,2.0).
-PA3mcat(61,2.0).
-numberdoses(61,1.0).
-totndrugs(61,6.0).
+%patient: IT-0044-005741 index:61
+Gender(61,f).
+mobcat(61,2).
+PA3mcat(61,2).
+numberdoses(61,1).
+totndrugs(61,6).
 OAD01_tot(61).
 CVD01_tot(61).
 cogdis01_tot(61).
-Mmsumrev(61,1.0).
+Mmsumrev(61,1).
 excovidtot(61).
 antiS_0(61,32.2).
 antiS_2(61,2870.0).
 deltaantiS02(61,2837.8).
-WHO_f2(61,0.0).
-TypeofOutcome_updated(61,1.0).
+WHO_f2(61,0).
+TypeofOutcome_updated(61,1).
 patient(61,pos).
 
-%patient: IT-0044-005742
-Gender(62,1.0).
-mobcat(62,1.0).
-PA3mcat(62,4.0).
-numberdoses(62,1.0).
-totndrugs(62,11.0).
+%patient: IT-0044-005742 index:62
+Gender(62,m).
+mobcat(62,1).
+PA3mcat(62,4).
+numberdoses(62,1).
+totndrugs(62,11).
 immunedis01(62).
 OAD01_tot(62).
 CVD01_tot(62).
 cogdis01_tot(62).
 epilepsia01_tot(62).
-Mmsumrev(62,4.0).
+Mmsumrev(62,4).
 excovidtot(62).
 antiS_0(62,10.5).
 antiS_2(62,1120.0).
 deltaantiS02(62,1109.5).
-WHO_f2(62,0.0).
-TypeofOutcome_updated(62,1.0).
+WHO_f2(62,0).
+TypeofOutcome_updated(62,1).
 patient(62,pos).
 
-%patient: IT-0050-004133
-Gender(63,2.0).
+%patient: IT-0050-004133 index:63
+Gender(63,f).
 Race(63,White).
-mobcat(63,0.0).
-PA3mcat(63,0.0).
-numberdoses(63,1.0).
-totndrugs(63,5.0).
+mobcat(63,0).
+PA3mcat(63,0).
+numberdoses(63,1).
+totndrugs(63,5).
 CVD01_tot(63).
 PAD01_tot(63).
 cogdis01_tot(63).
 anxiety01_tot(63).
-Mmsumrev(63,2.0).
+Mmsumrev(63,2).
 excovidtot(63).
 antiS_0(63,862.0).
 antiS_2(63,8040.0).
 deltaantiS02(63,7178.0).
-WHO_f2(63,1.0).
-TypeofOutcome_updated(63,1.0).
+WHO_f2(63,1).
+TypeofOutcome_updated(63,1).
 patient(63,pos).
 
-%patient: IT-0050-005298
-Gender(64,1.0).
+%patient: IT-0050-005298 index:64
+Gender(64,m).
 Race(64,White).
-mobcat(64,0.0).
-PA3mcat(64,1.0).
-numberdoses(64,1.0).
-totndrugs(64,6.0).
+mobcat(64,0).
+PA3mcat(64,1).
+numberdoses(64,1).
+totndrugs(64,6).
 chrrespdis01_tot(64).
 cogdis01_tot(64).
 anxiety01_tot(64).
-Mmsumrev(64,4.0).
+Mmsumrev(64,4).
 excovidtot(64).
 antiS_0(64,139.0).
 antiS_2(64,23500.0).
 deltaantiS02(64,23361.0).
-WHO_f2(64,1.0).
-TypeofOutcome_updated(64,1.0).
+WHO_f2(64,1).
+TypeofOutcome_updated(64,1).
 patient(64,pos).
 
-%patient: IT-0050-005787
-Gender(65,2.0).
+%patient: IT-0050-005787 index:65
+Gender(65,f).
 Race(65,White).
-mobcat(65,0.0).
-PA3mcat(65,0.0).
-numberdoses(65,1.0).
-totndrugs(65,8.0).
+mobcat(65,0).
+PA3mcat(65,0).
+numberdoses(65,1).
+totndrugs(65,8).
 OAD01_tot(65).
 HTA01_tot(65).
 CVD01_tot(65).
@@ -1167,120 +1167,120 @@ cogdis01_tot(65).
 park01_tot(65).
 epilepsia01_tot(65).
 anxiety01_tot(65).
-Mmsumrev(65,5.0).
+Mmsumrev(65,5).
 excovidtot(65).
 antiS_0(65,558.0).
 antiS_2(65,5980.0).
 deltaantiS02(65,5422.0).
-WHO_f2(65,0.0).
-TypeofOutcome_updated(65,1.0).
+WHO_f2(65,0).
+TypeofOutcome_updated(65,1).
 patient(65,pos).
 
-%patient: IT-0053-005775
-Gender(66,2.0).
+%patient: IT-0053-005775 index:66
+Gender(66,f).
 Race(66,White).
-mobcat(66,5.0).
-PA3mcat(66,4.0).
-numberdoses(66,1.0).
-totndrugs(66,5.0).
+mobcat(66,5).
+PA3mcat(66,4).
+numberdoses(66,1).
+totndrugs(66,5).
 HTA01_tot(66).
 chrrespdis01_tot(66).
 obesity01_tot(66).
-Mmsumrev(66,4.0).
+Mmsumrev(66,4).
 excovidtot(66).
 antiS_0(66,669.0).
 antiS_2(66,2520.0).
 deltaantiS02(66,1851.0).
-WHO_f2(66,1.0).
-TypeofOutcome_updated(66,1.0).
+WHO_f2(66,1).
+TypeofOutcome_updated(66,1).
 patient(66,pos).
 
-%patient: IT-0143-003917
-Gender(67,1.0).
+%patient: IT-0143-003917 index:67
+Gender(67,m).
 Race(67,White).
-mobcat(67,4.0).
-PA3mcat(67,4.0).
-numberdoses(67,1.0).
-totndrugs(67,4.0).
+mobcat(67,4).
+PA3mcat(67,4).
+numberdoses(67,1).
+totndrugs(67,4).
 frailty01(67).
 OAD01_tot(67).
 CVD01_tot(67).
 AF01_tot(67).
 depress01_tot(67).
 cogdis01_tot(67).
-Mmsumrev(67,5.0).
+Mmsumrev(67,5).
 excovidtot(67).
 antiS_0(67,1300.0).
-WHO_f2(67,4.0).
-TypeofOutcome_updated(67,1.0).
+WHO_f2(67,4).
+TypeofOutcome_updated(67,1).
 patient(67,pos).
 
-%patient: IT-0143-003920
-Gender(68,1.0).
+%patient: IT-0143-003920 index:68
+Gender(68,m).
 Race(68,White).
-mobcat(68,4.0).
-PA3mcat(68,4.0).
-numberdoses(68,1.0).
-totndrugs(68,11.0).
+mobcat(68,4).
+PA3mcat(68,4).
+numberdoses(68,1).
+totndrugs(68,11).
 frailty01(68).
 HTA01_tot(68).
 CVD01_tot(68).
 cogdis01_tot(68).
 HD01_tot(68).
-Mmsumrev(68,4.0).
+Mmsumrev(68,4).
 antiS_0(68,4.81).
-WHO_f2(68,4.0).
-TypeofOutcome_updated(68,1.0).
+WHO_f2(68,4).
+TypeofOutcome_updated(68,1).
 patient(68,pos).
 
-%patient: IT-0143-004082
-Gender(69,2.0).
+%patient: IT-0143-004082 index:69
+Gender(69,f).
 Race(69,White).
-mobcat(69,1.0).
-PA3mcat(69,4.0).
-numberdoses(69,1.0).
-totndrugs(69,10.0).
+mobcat(69,1).
+PA3mcat(69,4).
+numberdoses(69,1).
+totndrugs(69,10).
 frailty01(69).
 HTA01_tot(69).
 cogdis01_tot(69).
 anxiety01_tot(69).
-Mmsumrev(69,2.0).
+Mmsumrev(69,2).
 excovidtot(69).
 antiS_0(69,1450.0).
 antiS_2(69,42400.0).
 deltaantiS02(69,40950.0).
-WHO_f2(69,4.0).
-TypeofOutcome_updated(69,1.0).
+WHO_f2(69,4).
+TypeofOutcome_updated(69,1).
 patient(69,pos).
 
-%patient: IT-0144-004577
-Gender(70,1.0).
+%patient: IT-0144-004577 index:70
+Gender(70,m).
 Race(70,White).
-mobcat(70,4.0).
-PA3mcat(70,4.0).
-numberdoses(70,2.0).
-totndrugs(70,3.0).
+mobcat(70,4).
+PA3mcat(70,4).
+numberdoses(70,2).
+totndrugs(70,3).
 poornut01(70).
 OAD01_tot(70).
 chrrespdis01_tot(70).
 cogdis01_tot(70).
 park01_tot(70).
-Mmsumrev(70,3.0).
+Mmsumrev(70,3).
 antiS_0(70,4.81).
 antiS_2(70,632.0).
 deltaantiS02(70,627.19).
-WHO_f1(70,0.0).
-WHO_f2(70,0.0).
-TypeofOutcome_updated(70,1.0).
+WHO_f1(70,0).
+WHO_f2(70,0).
+TypeofOutcome_updated(70,1).
 patient(70,pos).
 
-%patient: IT-0042-003696
-Gender(71,2.0).
+%patient: IT-0042-003696 index:71
+Gender(71,f).
 Race(71,White).
-mobcat(71,4.0).
-PA3mcat(71,4.0).
-numberdoses(71,2.0).
-totndrugs(71,1.0).
+mobcat(71,4).
+PA3mcat(71,4).
+numberdoses(71,2).
+totndrugs(71,1).
 frailty01(71).
 CKD01(71).
 cancer01(71).
@@ -1294,54 +1294,54 @@ obesity01_tot(71).
 depress01_tot(71).
 cogdis01_tot(71).
 HD01_tot(71).
-Mmsumrev(71,11.0).
+Mmsumrev(71,11).
 excovidtot(71).
 antiS_0(71,1220.0).
 antiS_2(71,33600.0).
 deltaantiS02(71,32380.0).
-WHO_f1(71,0.0).
-WHO_f2(71,0.0).
-TypeofOutcome_updated(71,1.0).
+WHO_f1(71,0).
+WHO_f2(71,0).
+TypeofOutcome_updated(71,1).
 patient(71,pos).
 
-%patient: IT-0131-004311
-Gender(72,2.0).
+%patient: IT-0131-004311 index:72
+Gender(72,f).
 Race(72,White).
-mobcat(72,3.0).
-PA3mcat(72,2.0).
-numberdoses(72,2.0).
-totndrugs(72,0.0).
+mobcat(72,3).
+PA3mcat(72,2).
+numberdoses(72,2).
+totndrugs(72,0).
 frailty01(72).
 OAD01_tot(72).
-Mmsumrev(72,3.0).
+Mmsumrev(72,3).
 antiS_2(72,1190.0).
-WHO_f1(72,0.0).
-WHO_f2(72,0.0).
-TypeofOutcome_updated(72,1.0).
+WHO_f1(72,0).
+WHO_f2(72,0).
+TypeofOutcome_updated(72,1).
 patient(72,pos).
 
-%patient: IT-0131-004345
-Gender(73,2.0).
+%patient: IT-0131-004345 index:73
+Gender(73,f).
 Race(73,White).
-mobcat(73,3.0).
-PA3mcat(73,2.0).
-numberdoses(73,2.0).
-totndrugs(73,0.0).
+mobcat(73,3).
+PA3mcat(73,2).
+numberdoses(73,2).
+totndrugs(73,0).
 cogdis01_tot(73).
-Mmsumrev(73,1.0).
+Mmsumrev(73,1).
 antiS_2(73,362.0).
-WHO_f1(73,0.0).
-WHO_f2(73,0.0).
-TypeofOutcome_updated(73,1.0).
+WHO_f1(73,0).
+WHO_f2(73,0).
+TypeofOutcome_updated(73,1).
 patient(73,pos).
 
-%patient: IT-0061-003878
-Gender(74,1.0).
+%patient: IT-0061-003878 index:74
+Gender(74,m).
 Race(74,White).
-mobcat(74,3.0).
-PA3mcat(74,4.0).
-numberdoses(74,2.0).
-totndrugs(74,13.0).
+mobcat(74,3).
+PA3mcat(74,4).
+numberdoses(74,2).
+totndrugs(74,13).
 immunedis01(74).
 liverdis01(74).
 OAD01_tot(74).
@@ -1355,84 +1355,84 @@ cogdis01_tot(74).
 thyrdis01_tot(74).
 epilepsia01_tot(74).
 HD01_tot(74).
-Mmsumrev(74,14.0).
+Mmsumrev(74,14).
 antiS_0(74,4.81).
 antiS_2(74,184.0).
 deltaantiS02(74,179.19).
-WHO_f1(74,0.0).
-WHO_f2(74,0.0).
-WHO_f3(74,0.0).
-TypeofOutcome_updated(74,1.0).
+WHO_f1(74,0).
+WHO_f2(74,0).
+WHO_f3(74,0).
+TypeofOutcome_updated(74,1).
 patient(74,pos).
 
-%patient: IT-0143-004087
-Gender(75,2.0).
+%patient: IT-0143-004087 index:75
+Gender(75,f).
 Race(75,White).
-mobcat(75,1.0).
-PA3mcat(75,4.0).
-numberdoses(75,1.0).
-totndrugs(75,2.0).
+mobcat(75,1).
+PA3mcat(75,4).
+numberdoses(75,1).
+totndrugs(75,2).
 frailty01(75).
 OAD01_tot(75).
 HTA01_tot(75).
 cogdis01_tot(75).
-Mmsumrev(75,3.0).
+Mmsumrev(75,3).
 excovidtot(75).
 antiS_0(75,364.0).
 antiS_2(75,1440.0).
 deltaantiS02(75,1076.0).
-WHO_f2(75,4.0).
-WHO_f3(75,0.0).
-TypeofOutcome_updated(75,1.0).
+WHO_f2(75,4).
+WHO_f3(75,0).
+TypeofOutcome_updated(75,1).
 patient(75,pos).
 
-%patient: IT-0043-003647
-Gender(76,2.0).
+%patient: IT-0043-003647 index:76
+Gender(76,f).
 Race(76,White).
-mobcat(76,5.0).
-PA3mcat(76,4.0).
-numberdoses(76,2.0).
-totndrugs(76,0.0).
+mobcat(76,5).
+PA3mcat(76,4).
+numberdoses(76,2).
+totndrugs(76,0).
 OAD01_tot(76).
 HTA01_tot(76).
 depress01_tot(76).
 cogdis01_tot(76).
-Mmsumrev(76,3.0).
+Mmsumrev(76,3).
 excovidtot(76).
 antiS_0(76,641.0).
 antiS_2(76,1200.0).
 deltaantiS02(76,559.0).
-WHO_f1(76,0.0).
-WHO_f2(76,0.0).
-TypeofOutcome_updated(76,1.0).
+WHO_f1(76,0).
+WHO_f2(76,0).
+TypeofOutcome_updated(76,1).
 patient(76,pos).
 
-%patient: IT-0045-005749
-Gender(77,1.0).
+%patient: IT-0045-005749 index:77
+Gender(77,m).
 Race(77,White).
-mobcat(77,5.0).
-PA3mcat(77,4.0).
-numberdoses(77,2.0).
-totndrugs(77,4.0).
+mobcat(77,5).
+PA3mcat(77,4).
+numberdoses(77,2).
+totndrugs(77,4).
 chrrespdis01_tot(77).
 cogdis01_tot(77).
 urol01_tot(77).
-Mmsumrev(77,3.0).
+Mmsumrev(77,3).
 antiS_0(77,4.81).
 antiS_2(77,4920.0).
 deltaantiS02(77,4915.19).
-WHO_f1(77,0.0).
-WHO_f2(77,0.0).
-TypeofOutcome_updated(77,1.0).
+WHO_f1(77,0).
+WHO_f2(77,0).
+TypeofOutcome_updated(77,1).
 patient(77,pos).
 
-%patient: IT-0042-003628
-Gender(78,2.0).
+%patient: IT-0042-003628 index:78
+Gender(78,f).
 Race(78,White).
-mobcat(78,5.0).
-PA3mcat(78,4.0).
-numberdoses(78,2.0).
-totndrugs(78,5.0).
+mobcat(78,5).
+PA3mcat(78,4).
+numberdoses(78,2).
+totndrugs(78,5).
 OAD01_tot(78).
 HTA01_tot(78).
 CVD01_tot(78).
@@ -1441,22 +1441,22 @@ cogdis01_tot(78).
 thyrdis01_tot(78).
 anxiety01_tot(78).
 HD01_tot(78).
-Mmsumrev(78,7.0).
+Mmsumrev(78,7).
 antiS_0(78,4.81).
 antiS_2(78,5.0).
 deltaantiS02(78,0.19).
-WHO_f1(78,0.0).
-WHO_f2(78,0.0).
-TypeofOutcome_updated(78,1.0).
+WHO_f1(78,0).
+WHO_f2(78,0).
+TypeofOutcome_updated(78,1).
 patient(78,pos).
 
-%patient: IT-0061-003891
-Gender(79,1.0).
+%patient: IT-0061-003891 index:79
+Gender(79,m).
 Race(79,White).
-mobcat(79,1.0).
-PA3mcat(79,4.0).
-numberdoses(79,2.0).
-totndrugs(79,6.0).
+mobcat(79,1).
+PA3mcat(79,4).
+numberdoses(79,2).
+totndrugs(79,6).
 cancer01(79).
 liverdis01(79).
 OAD01_tot(79).
@@ -1468,19 +1468,19 @@ park01_tot(79).
 HD01_tot(79).
 urol01_tot(79).
 antiS_0(79,4.81).
-WHO_f1(79,0.0).
-WHO_f2(79,0.0).
-WHO_f3(79,0.0).
-TypeofOutcome_updated(79,1.0).
+WHO_f1(79,0).
+WHO_f2(79,0).
+WHO_f3(79,0).
+TypeofOutcome_updated(79,1).
 patient(79,pos).
 
-%patient: IT-0143-003918
-Gender(80,2.0).
+%patient: IT-0143-003918 index:80
+Gender(80,f).
 Race(80,White).
-mobcat(80,1.0).
-PA3mcat(80,4.0).
-numberdoses(80,2.0).
-totndrugs(80,17.0).
+mobcat(80,1).
+PA3mcat(80,4).
+numberdoses(80,2).
+totndrugs(80,17).
 frailty01(80).
 HTA01_tot(80).
 CVD01_tot(80).
@@ -1488,43 +1488,43 @@ depress01_tot(80).
 cogdis01_tot(80).
 park01_tot(80).
 thyrdis01_tot(80).
-Mmsumrev(80,5.0).
+Mmsumrev(80,5).
 antiS_0(80,619.0).
 antiS_2(80,6700.0).
 deltaantiS02(80,6081.0).
-WHO_f1(80,0.0).
-WHO_f2(80,4.0).
-WHO_f3(80,0.0).
-TypeofOutcome_updated(80,1.0).
+WHO_f1(80,0).
+WHO_f2(80,4).
+WHO_f3(80,0).
+TypeofOutcome_updated(80,1).
 patient(80,pos).
 
-%patient: IT-0143-003919
-Gender(81,2.0).
+%patient: IT-0143-003919 index:81
+Gender(81,f).
 Race(81,White).
-mobcat(81,1.0).
-PA3mcat(81,4.0).
-numberdoses(81,2.0).
-totndrugs(81,6.0).
+mobcat(81,1).
+PA3mcat(81,4).
+numberdoses(81,2).
+totndrugs(81,6).
 frailty01(81).
 depress01_tot(81).
 epilepsia01_tot(81).
-Mmsumrev(81,3.0).
+Mmsumrev(81,3).
 antiS_0(81,4.81).
 antiS_2(81,1050.0).
 deltaantiS02(81,1045.19).
-WHO_f1(81,0.0).
-WHO_f2(81,0.0).
-WHO_f3(81,4.0).
-TypeofOutcome_updated(81,1.0).
+WHO_f1(81,0).
+WHO_f2(81,0).
+WHO_f3(81,4).
+TypeofOutcome_updated(81,1).
 patient(81,pos).
 
-%patient: IT-0143-003904
-Gender(82,2.0).
+%patient: IT-0143-003904 index:82
+Gender(82,f).
 Race(82,White).
-mobcat(82,1.0).
-PA3mcat(82,4.0).
-numberdoses(82,1.0).
-totndrugs(82,11.0).
+mobcat(82,1).
+PA3mcat(82,4).
+numberdoses(82,1).
+totndrugs(82,11).
 frailty01(82).
 poornut01(82).
 cancer01(82).
@@ -1536,23 +1536,23 @@ depress01_tot(82).
 cogdis01_tot(82).
 anxiety01_tot(82).
 HD01_tot(82).
-Mmsumrev(82,8.0).
+Mmsumrev(82,8).
 excovidtot(82).
 antiS_0(82,299.0).
 antiS_2(82,7820.0).
 deltaantiS02(82,7521.0).
-WHO_f2(82,0.0).
-WHO_f3(82,4.0).
-TypeofOutcome_updated(82,1.0).
+WHO_f2(82,0).
+WHO_f3(82,4).
+TypeofOutcome_updated(82,1).
 patient(82,pos).
 
-%patient: IT-0061-000651
-Gender(83,2.0).
+%patient: IT-0061-000651 index:83
+Gender(83,f).
 Race(83,Not available).
-mobcat(83,3.0).
-PA3mcat(83,4.0).
-numberdoses(83,1.0).
-totndrugs(83,4.0).
+mobcat(83,3).
+PA3mcat(83,4).
+numberdoses(83,1).
+totndrugs(83,4).
 OAD01_tot(83).
 HTA01_tot(83).
 CVD01_tot(83).
@@ -1562,93 +1562,93 @@ depress01_tot(83).
 cogdis01_tot(83).
 thyrdis01_tot(83).
 HD01_tot(83).
-Mmsumrev(83,8.0).
+Mmsumrev(83,8).
 excovidtot(83).
 antiS_0(83,452.0).
 antiS_2(83,32400.0).
 antiS_6(83,1080.0).
 deltaantiS02(83,31948.0).
 deltaantiS26(83,-31320.0).
-WHO_f2(83,1.0).
-WHO_f3(83,1.0).
-TypeofOutcome_updated(83,1.0).
+WHO_f2(83,1).
+WHO_f3(83,1).
+TypeofOutcome_updated(83,1).
 patient(83,pos).
 
-%patient: IT-0143-004073
-Gender(84,2.0).
+%patient: IT-0143-004073 index:84
+Gender(84,f).
 Race(84,White).
-mobcat(84,1.0).
-PA3mcat(84,4.0).
-numberdoses(84,1.0).
-totndrugs(84,6.0).
+mobcat(84,1).
+PA3mcat(84,4).
+numberdoses(84,1).
+totndrugs(84,6).
 frailty01(84).
 OAD01_tot(84).
 CVD01_tot(84).
 depress01_tot(84).
 cogdis01_tot(84).
 HD01_tot(84).
-Mmsumrev(84,4.0).
+Mmsumrev(84,4).
 excovidtot(84).
 antiS_0(84,226.0).
 antiS_2(84,2800.0).
 antiS_6(84,287.0).
 deltaantiS02(84,2574.0).
 deltaantiS26(84,-2513.0).
-WHO_f2(84,4.0).
-WHO_f3(84,4.0).
-TypeofOutcome_updated(84,1.0).
+WHO_f2(84,4).
+WHO_f3(84,4).
+TypeofOutcome_updated(84,1).
 patient(84,pos).
 
-%patient: IT-0131-004350
-Gender(85,1.0).
+%patient: IT-0131-004350 index:85
+Gender(85,m).
 Race(85,White).
-mobcat(85,1.0).
-PA3mcat(85,4.0).
-numberdoses(85,2.0).
-totndrugs(85,1.0).
+mobcat(85,1).
+PA3mcat(85,4).
+numberdoses(85,2).
+totndrugs(85,1).
 CKD01(85).
 OAD01_tot(85).
 CVD01_tot(85).
 chrrespdis01_tot(85).
 depress01_tot(85).
 HD01_tot(85).
-Mmsumrev(85,7.0).
+Mmsumrev(85,7).
 antiS_2(85,1160.0).
-WHO_f1(85,0.0).
-WHO_f2(85,0.0).
-WHO_f3(85,0.0).
-TypeofOutcome_updated(85,1.0).
+WHO_f1(85,0).
+WHO_f2(85,0).
+WHO_f3(85,0).
+TypeofOutcome_updated(85,1).
 patient(85,pos).
 
-%patient: IT-0003-000261
-Gender(86,2.0).
+%patient: IT-0003-000261 index:86
+Gender(86,f).
 Race(86,White).
-mobcat(86,1.0).
-PA3mcat(86,4.0).
-numberdoses(86,2.0).
+mobcat(86,1).
+PA3mcat(86,4).
+numberdoses(86,2).
 OAD01_tot(86).
 CVD01_tot(86).
 cogdis01_tot(86).
 anxiety01_tot(86).
-Mmsumrev(86,2.0).
+Mmsumrev(86,2).
 antiS_0(86,4.81).
 antiS_2(86,100.0).
 antiS_6(86,5.25).
 deltaantiS02(86,95.19).
 deltaantiS26(86,-94.75).
-WHO_f1(86,0.0).
-WHO_f2(86,0.0).
-WHO_f3(86,0.0).
-TypeofOutcome_updated(86,1.0).
+WHO_f1(86,0).
+WHO_f2(86,0).
+WHO_f3(86,0).
+TypeofOutcome_updated(86,1).
 patient(86,pos).
 
-%patient: IT-0016-002665
-Gender(87,1.0).
+%patient: IT-0016-002665 index:87
+Gender(87,m).
 Race(87,White).
-mobcat(87,3.0).
-PA3mcat(87,4.0).
-numberdoses(87,2.0).
-totndrugs(87,7.0).
+mobcat(87,3).
+PA3mcat(87,4).
+numberdoses(87,2).
+totndrugs(87,7).
 poornut01(87).
 HTA01_tot(87).
 CVD01_tot(87).
@@ -1659,24 +1659,24 @@ epilepsia01_tot(87).
 anxiety01_tot(87).
 HD01_tot(87).
 urol01_tot(87).
-Mmsumrev(87,8.0).
+Mmsumrev(87,8).
 antiS_0(87,4.81).
 antiS_2(87,1210.0).
 antiS_6(87,92.0).
 deltaantiS02(87,1205.19).
 deltaantiS26(87,-1118.0).
-WHO_f2(87,0.0).
-WHO_f3(87,0.0).
-TypeofOutcome_updated(87,1.0).
+WHO_f2(87,0).
+WHO_f3(87,0).
+TypeofOutcome_updated(87,1).
 patient(87,pos).
 
-%patient: IT-0018-003763
-Gender(88,2.0).
+%patient: IT-0018-003763 index:88
+Gender(88,f).
 Race(88,White).
-mobcat(88,5.0).
-PA3mcat(88,4.0).
-numberdoses(88,2.0).
-totndrugs(88,6.0).
+mobcat(88,5).
+PA3mcat(88,4).
+numberdoses(88,2).
+totndrugs(88,6).
 poornut01(88).
 OAD01_tot(88).
 HTA01_tot(88).
@@ -1684,169 +1684,169 @@ CVD01_tot(88).
 AF01_tot(88).
 cogdis01_tot(88).
 HD01_tot(88).
-Mmsumrev(88,4.0).
+Mmsumrev(88,4).
 antiS_0(88,4.81).
 antiS_2(88,42.0).
 antiS_6(88,8.03).
 deltaantiS02(88,37.19).
 deltaantiS26(88,-33.97).
-WHO_f1(88,0.0).
-WHO_f2(88,0.0).
-WHO_f3(88,0.0).
-TypeofOutcome_updated(88,1.0).
+WHO_f1(88,0).
+WHO_f2(88,0).
+WHO_f3(88,0).
+TypeofOutcome_updated(88,1).
 patient(88,pos).
 
-%patient: IT-0020-003780
-Gender(89,2.0).
+%patient: IT-0020-003780 index:89
+Gender(89,f).
 Race(89,White).
-mobcat(89,5.0).
-PA3mcat(89,4.0).
-numberdoses(89,2.0).
-totndrugs(89,0.0).
+mobcat(89,5).
+PA3mcat(89,4).
+numberdoses(89,2).
+totndrugs(89,0).
 poornut01(89).
 cancer01(89).
 OAD01_tot(89).
 cogdis01_tot(89).
-Mmsumrev(89,2.0).
+Mmsumrev(89,2).
 antiS_0(89,4.81).
 antiS_2(89,1460.0).
 antiS_6(89,176.0).
 deltaantiS02(89,1455.19).
 deltaantiS26(89,-1284.0).
-WHO_f1(89,0.0).
-WHO_f2(89,0.0).
-WHO_f3(89,0.0).
-TypeofOutcome_updated(89,1.0).
+WHO_f1(89,0).
+WHO_f2(89,0).
+WHO_f3(89,0).
+TypeofOutcome_updated(89,1).
 patient(89,pos).
 
-%patient: IT-0020-003781
-Gender(90,2.0).
+%patient: IT-0020-003781 index:90
+Gender(90,f).
 Race(90,White).
-mobcat(90,3.0).
-PA3mcat(90,4.0).
-numberdoses(90,2.0).
-totndrugs(90,0.0).
+mobcat(90,3).
+PA3mcat(90,4).
+numberdoses(90,2).
+totndrugs(90,0).
 OAD01_tot(90).
 HTA01_tot(90).
 obesity01_tot(90).
 depress01_tot(90).
-Mmsumrev(90,6.0).
+Mmsumrev(90,6).
 antiS_0(90,4.81).
 antiS_2(90,1690.0).
 antiS_6(90,67.2).
 deltaantiS02(90,1685.19).
 deltaantiS26(90,-1622.8).
-WHO_f1(90,0.0).
-WHO_f2(90,0.0).
-WHO_f3(90,0.0).
-TypeofOutcome_updated(90,1.0).
+WHO_f1(90,0).
+WHO_f2(90,0).
+WHO_f3(90,0).
+TypeofOutcome_updated(90,1).
 patient(90,pos).
 
-%patient: IT-0020-003804
-Gender(91,2.0).
+%patient: IT-0020-003804 index:91
+Gender(91,f).
 Race(91,White).
-mobcat(91,3.0).
-PA3mcat(91,4.0).
-numberdoses(91,2.0).
-totndrugs(91,0.0).
+mobcat(91,3).
+PA3mcat(91,4).
+numberdoses(91,2).
+totndrugs(91,0).
 OAD01_tot(91).
 HTA01_tot(91).
 CVD01_tot(91).
 cogdis01_tot(91).
 epilepsia01_tot(91).
 HD01_tot(91).
-Mmsumrev(91,4.0).
+Mmsumrev(91,4).
 antiS_0(91,4.81).
 antiS_2(91,1360.0).
 antiS_6(91,43.2).
 deltaantiS02(91,1355.19).
 deltaantiS26(91,-1316.8).
-WHO_f1(91,0.0).
-WHO_f2(91,0.0).
-WHO_f3(91,0.0).
-TypeofOutcome_updated(91,1.0).
+WHO_f1(91,0).
+WHO_f2(91,0).
+WHO_f3(91,0).
+TypeofOutcome_updated(91,1).
 patient(91,pos).
 
-%patient: IT-0166-004973
-Gender(92,1.0).
+%patient: IT-0166-004973 index:92
+Gender(92,m).
 Race(92,White).
-mobcat(92,1.0).
-PA3mcat(92,4.0).
-numberdoses(92,2.0).
-totndrugs(92,6.0).
+mobcat(92,1).
+PA3mcat(92,4).
+numberdoses(92,2).
+totndrugs(92,6).
 frailty01(92).
 cogdis01_tot(92).
 epilepsia01_tot(92).
 urol01_tot(92).
-Mmsumrev(92,2.0).
+Mmsumrev(92,2).
 antiS_0(92,4.81).
 antiS_2(92,4760.0).
 antiS_6(92,86.1).
 deltaantiS02(92,4755.19).
 deltaantiS26(92,-4673.9).
-WHO_f1(92,0.0).
-WHO_f2(92,0.0).
-WHO_f3(92,0.0).
-TypeofOutcome_updated(92,1.0).
+WHO_f1(92,0).
+WHO_f2(92,0).
+WHO_f3(92,0).
+TypeofOutcome_updated(92,1).
 patient(92,pos).
 
-%patient: IT-0052-005744
-Gender(93,2.0).
+%patient: IT-0052-005744 index:93
+Gender(93,f).
 Race(93,White).
-mobcat(93,5.0).
-PA3mcat(93,4.0).
-numberdoses(93,2.0).
-totndrugs(93,5.0).
+mobcat(93,5).
+PA3mcat(93,4).
+numberdoses(93,2).
+totndrugs(93,5).
 HTA01_tot(93).
 depress01_tot(93).
 cogdis01_tot(93).
-Mmsumrev(93,4.0).
+Mmsumrev(93,4).
 antiS_0(93,4.81).
 antiS_2(93,577.0).
 antiS_6(93,93.8).
 deltaantiS02(93,572.19).
 deltaantiS26(93,-483.2).
-WHO_f1(93,0.0).
-WHO_f2(93,0.0).
-WHO_f3(93,0.0).
-TypeofOutcome_updated(93,1.0).
+WHO_f1(93,0).
+WHO_f2(93,0).
+WHO_f3(93,0).
+TypeofOutcome_updated(93,1).
 patient(93,pos).
 
-%patient: IT-0053-005745
-Gender(94,2.0).
+%patient: IT-0053-005745 index:94
+Gender(94,f).
 Race(94,White).
-mobcat(94,5.0).
-PA3mcat(94,4.0).
-numberdoses(94,2.0).
-totndrugs(94,4.0).
+mobcat(94,5).
+PA3mcat(94,4).
+numberdoses(94,2).
+totndrugs(94,4).
 HTA01_tot(94).
 CVD01_tot(94).
 chrrespdis01_tot(94).
 HD01_tot(94).
-Mmsumrev(94,4.0).
+Mmsumrev(94,4).
 antiS_0(94,4.81).
 antiS_2(94,1060.0).
 antiS_6(94,77.2).
 deltaantiS02(94,1055.19).
 deltaantiS26(94,-982.8).
-WHO_f1(94,0.0).
-WHO_f2(94,0.0).
-WHO_f3(94,0.0).
-TypeofOutcome_updated(94,1.0).
+WHO_f1(94,0).
+WHO_f2(94,0).
+WHO_f3(94,0).
+TypeofOutcome_updated(94,1).
 patient(94,pos).
 
-%patient: IT-0143-004050
-Gender(95,1.0).
+%patient: IT-0143-004050 index:95
+Gender(95,m).
 Race(95,White).
-mobcat(95,1.0).
-PA3mcat(95,4.0).
-numberdoses(95,2.0).
-totndrugs(95,8.0).
+mobcat(95,1).
+PA3mcat(95,4).
+numberdoses(95,2).
+totndrugs(95,8).
 HTA01_tot(95).
 depress01_tot(95).
 cogdis01_tot(95).
 anxiety01_tot(95).
-Mmsumrev(95,3.0).
+Mmsumrev(95,3).
 excovidtot(95).
 antiS_0(95,226.0).
 antiS_2(95,10200.0).
@@ -1855,40 +1855,40 @@ antiS_12(95,3540.0).
 deltaantiS02(95,9974.0).
 deltaantiS26(95,-9434.0).
 deltaantiS612(95,2774.0).
-WHO_f2(95,0.0).
-WHO_f3(95,0.0).
-TypeofOutcome_updated(95,1.0).
+WHO_f2(95,0).
+WHO_f3(95,0).
+TypeofOutcome_updated(95,1).
 patient(95,pos).
 
-%patient: IT-0020-004829
-Gender(96,1.0).
+%patient: IT-0020-004829 index:96
+Gender(96,m).
 Race(96,White).
-mobcat(96,0.0).
-PA3mcat(96,0.0).
-numberdoses(96,2.0).
-totndrugs(96,7.0).
+mobcat(96,0).
+PA3mcat(96,0).
+numberdoses(96,2).
+totndrugs(96,7).
 HTA01_tot(96).
 cogdis01_tot(96).
 park01_tot(96).
-Mmsumrev(96,2.0).
+Mmsumrev(96,2).
 antiS_0(96,4.81).
 antiS_2(96,562.0).
 antiS_6(96,38.0).
 deltaantiS02(96,557.19).
 deltaantiS26(96,-524.0).
-WHO_f1(96,0.0).
-WHO_f2(96,0.0).
-WHO_f3(96,0.0).
-TypeofOutcome_updated(96,1.0).
+WHO_f1(96,0).
+WHO_f2(96,0).
+WHO_f3(96,0).
+TypeofOutcome_updated(96,1).
 patient(96,pos).
 
-%patient: IT-0021-003852
-Gender(97,1.0).
+%patient: IT-0021-003852 index:97
+Gender(97,m).
 Race(97,White).
-mobcat(97,1.0).
-PA3mcat(97,4.0).
-numberdoses(97,2.0).
-totndrugs(97,7.0).
+mobcat(97,1).
+PA3mcat(97,4).
+numberdoses(97,2).
+totndrugs(97,7).
 OAD01_tot(97).
 HTA01_tot(97).
 CVD01_tot(97).
@@ -1896,109 +1896,109 @@ AF01_tot(97).
 chrrespdis01_tot(97).
 depress01_tot(97).
 HD01_tot(97).
-Mmsumrev(97,6.0).
+Mmsumrev(97,6).
 antiS_0(97,4.81).
 antiS_2(97,367.0).
 antiS_6(97,77.6).
 deltaantiS02(97,362.19).
 deltaantiS26(97,-289.4).
-WHO_f1(97,0.0).
-WHO_f2(97,0.0).
-WHO_f3(97,0.0).
-TypeofOutcome_updated(97,1.0).
+WHO_f1(97,0).
+WHO_f2(97,0).
+WHO_f3(97,0).
+TypeofOutcome_updated(97,1).
 patient(97,pos).
 
-%patient: IT-0044-004233
-Gender(98,2.0).
+%patient: IT-0044-004233 index:98
+Gender(98,f).
 Race(98,White).
-mobcat(98,1.0).
-PA3mcat(98,4.0).
-numberdoses(98,1.0).
-totndrugs(98,4.0).
+mobcat(98,1).
+PA3mcat(98,4).
+numberdoses(98,1).
+totndrugs(98,4).
 frailty01(98).
 cogdis01_tot(98).
-Mmsumrev(98,0.0).
+Mmsumrev(98,0).
 excovidtot(98).
 antiS_0(98,455.0).
 antiS_2(98,1190.0).
 deltaantiS02(98,735.0).
-WHO_f3(98,0.0).
-TypeofOutcome_updated(98,1.0).
+WHO_f3(98,0).
+TypeofOutcome_updated(98,1).
 patient(98,pos).
 
-%patient: IT-0044-004235
-Gender(99,2.0).
+%patient: IT-0044-004235 index:99
+Gender(99,f).
 Race(99,White).
-mobcat(99,2.0).
-PA3mcat(99,1.0).
-numberdoses(99,1.0).
-totndrugs(99,8.0).
+mobcat(99,2).
+PA3mcat(99,1).
+numberdoses(99,1).
+totndrugs(99,8).
 frailty01(99).
 OAD01_tot(99).
 HTA01_tot(99).
 CVD01_tot(99).
 depress01_tot(99).
-Mmsumrev(99,3.0).
+Mmsumrev(99,3).
 excovidtot(99).
 antiS_0(99,291.0).
 antiS_2(99,5600.0).
 antiS_6(99,846.0).
 deltaantiS02(99,5309.0).
 deltaantiS26(99,-4754.0).
-WHO_f2(99,0.0).
-WHO_f3(99,0.0).
-TypeofOutcome_updated(99,1.0).
+WHO_f2(99,0).
+WHO_f3(99,0).
+TypeofOutcome_updated(99,1).
 patient(99,pos).
 
-%patient: IT-0132-005626
-Gender(100,2.0).
+%patient: IT-0132-005626 index:100
+Gender(100,f).
 Race(100,White).
-mobcat(100,1.0).
-PA3mcat(100,0.0).
-numberdoses(100,2.0).
-totndrugs(100,0.0).
+mobcat(100,1).
+PA3mcat(100,0).
+numberdoses(100,2).
+totndrugs(100,0).
 CKD01(100).
 HTA01_tot(100).
 chrrespdis01_tot(100).
 cogdis01_tot(100).
-Mmsumrev(100,3.0).
+Mmsumrev(100,3).
 excovidtot(100).
 antiS_0(100,4.81).
 antiS_2(100,1040.0).
 deltaantiS02(100,1035.19).
-WHO_f2(100,0.0).
-WHO_f3(100,0.0).
-TypeofOutcome_updated(100,1.0).
+WHO_f2(100,0).
+WHO_f3(100,0).
+TypeofOutcome_updated(100,1).
 patient(100,pos).
 
-%patient: IT-0166-005072
-Gender(101,1.0).
+%patient: IT-0166-005072 index:101
+Gender(101,m).
 Race(101,White).
-mobcat(101,0.0).
-PA3mcat(101,0.0).
-numberdoses(101,2.0).
-totndrugs(101,1.0).
+mobcat(101,0).
+PA3mcat(101,0).
+numberdoses(101,2).
+totndrugs(101,1).
 cogdis01_tot(101).
-Mmsumrev(101,0.0).
+Mmsumrev(101,0).
 excovidtot(101).
 antiS_0(101,162.0).
 antiS_2(101,29000.0).
 antiS_6(101,2610.0).
 deltaantiS02(101,28838.0).
 deltaantiS26(101,-26390.0).
-WHO_f1(101,0.0).
-WHO_f2(101,0.0).
-WHO_f3(101,0.0).
-TypeofOutcome_updated(101,1.0).
+WHO_f1(101,0).
+WHO_f2(101,0).
+WHO_f3(101,0).
+TypeofOutcome_updated(101,1).
 patient(101,pos).
 
-%patient: IT-0143-003915
-Gender(102,1.0).
+%patient: IT-0143-003915 index:102
+Gender(102,m).
 Race(102,White).
-mobcat(102,1.0).
-PA3mcat(102,4.0).
-numberdoses(102,2.0).
-totndrugs(102,7.0).
+mobcat(102,1).
+PA3mcat(102,4).
+numberdoses(102,2).
+totndrugs(102,7).
 frailty01(102).
 HTA01_tot(102).
 CVD01_tot(102).
@@ -2007,47 +2007,47 @@ chrrespdis01_tot(102).
 depress01_tot(102).
 cogdis01_tot(102).
 HD01_tot(102).
-Mmsumrev(102,6.0).
+Mmsumrev(102,6).
 antiS_0(102,4.81).
 antiS_2(102,1130.0).
 antiS_6(102,105.0).
 deltaantiS02(102,1125.19).
 deltaantiS26(102,-1025.0).
-WHO_f1(102,0.0).
-WHO_f2(102,0.0).
-WHO_f3(102,4.0).
-TypeofOutcome_updated(102,1.0).
+WHO_f1(102,0).
+WHO_f2(102,0).
+WHO_f3(102,4).
+TypeofOutcome_updated(102,1).
 patient(102,pos).
 
-%patient: IT-0016-003675
-Gender(103,2.0).
+%patient: IT-0016-003675 index:103
+Gender(103,f).
 Race(103,White).
-mobcat(103,2.0).
-PA3mcat(103,1.0).
-numberdoses(103,2.0).
-totndrugs(103,7.0).
+mobcat(103,2).
+PA3mcat(103,1).
+numberdoses(103,2).
+totndrugs(103,7).
 OAD01_tot(103).
 HTA01_tot(103).
 chrrespdis01_tot(103).
 park01_tot(103).
 epilepsia01_tot(103).
-Mmsumrev(103,6.0).
+Mmsumrev(103,6).
 antiS_0(103,4.81).
 antiS_2(103,1300.0).
 antiS_6(103,133.0).
 deltaantiS02(103,1295.19).
 deltaantiS26(103,-1167.0).
-WHO_f2(103,0.0).
-WHO_f3(103,0.0).
-TypeofOutcome_updated(103,1.0).
+WHO_f2(103,0).
+WHO_f3(103,0).
+TypeofOutcome_updated(103,1).
 patient(103,pos).
 
-%patient: IT-0061-000591
-Gender(104,1.0).
+%patient: IT-0061-000591 index:104
+Gender(104,m).
 Race(104,Not available).
-mobcat(104,3.0).
-PA3mcat(104,4.0).
-numberdoses(104,2.0).
+mobcat(104,3).
+PA3mcat(104,4).
+numberdoses(104,2).
 cancer01(104).
 OAD01_tot(104).
 HTA01_tot(104).
@@ -2055,27 +2055,27 @@ cogdis01_tot(104).
 park01_tot(104).
 anxiety01_tot(104).
 urol01_tot(104).
-Mmsumrev(104,7.0).
+Mmsumrev(104,7).
 excovidtot(104).
 antiS_0(104,150.0).
 antiS_2(104,8100.0).
 antiS_6(104,1640.0).
 deltaantiS02(104,7950.0).
 deltaantiS26(104,-6460.0).
-WHO_f1(104,0.0).
-WHO_f2(104,1.0).
-WHO_f3(104,0.0).
-WHO_f4(104,0.0).
-TypeofOutcome_updated(104,1.0).
+WHO_f1(104,0).
+WHO_f2(104,1).
+WHO_f3(104,0).
+WHO_f4(104,0).
+TypeofOutcome_updated(104,1).
 patient(104,pos).
 
-%patient: IT-0143-004066
-Gender(105,1.0).
+%patient: IT-0143-004066 index:105
+Gender(105,m).
 Race(105,White).
-mobcat(105,1.0).
-PA3mcat(105,4.0).
-numberdoses(105,2.0).
-totndrugs(105,5.0).
+mobcat(105,1).
+PA3mcat(105,4).
+numberdoses(105,2).
+totndrugs(105,5).
 frailty01(105).
 cancer01(105).
 HTA01_tot(105).
@@ -2083,46 +2083,46 @@ CVD01_tot(105).
 depress01_tot(105).
 cogdis01_tot(105).
 HD01_tot(105).
-Mmsumrev(105,4.0).
+Mmsumrev(105,4).
 excovidtot(105).
 antiS_0(105,1130.0).
 antiS_2(105,18600.0).
 antiS_6(105,3200.0).
 deltaantiS02(105,17470.0).
 deltaantiS26(105,-15400.0).
-WHO_f2(105,0.0).
-WHO_f3(105,0.0).
-TypeofOutcome_updated(105,1.0).
+WHO_f2(105,0).
+WHO_f3(105,0).
+TypeofOutcome_updated(105,1).
 patient(105,pos).
 
-%patient: IT-0152-004837
-Gender(106,2.0).
+%patient: IT-0152-004837 index:106
+Gender(106,f).
 Race(106,White).
-numberdoses(106,3.0).
-totndrugs(106,7.0).
+numberdoses(106,3).
+totndrugs(106,7).
 HTA01_tot(106).
 CVD01_tot(106).
 depress01_tot(106).
 HD01_tot(106).
-Mmsumrev(106,4.0).
+Mmsumrev(106,4).
 antiS_0(106,4.81).
 antiS_2(106,1460.0).
 antiS_6(106,137.0).
 deltaantiS02(106,1455.19).
 deltaantiS26(106,-1323.0).
-WHO_f1(106,0.0).
-WHO_f2(106,0.0).
-WHO_f3(106,0.0).
-TypeofOutcome_updated(106,1.0).
+WHO_f1(106,0).
+WHO_f2(106,0).
+WHO_f3(106,0).
+TypeofOutcome_updated(106,1).
 patient(106,pos).
 
-%patient: IT-0132-004282
-Gender(107,2.0).
+%patient: IT-0132-004282 index:107
+Gender(107,f).
 Race(107,Black).
-mobcat(107,2.0).
-PA3mcat(107,2.0).
-numberdoses(107,3.0).
-totndrugs(107,0.0).
+mobcat(107,2).
+PA3mcat(107,2).
+numberdoses(107,3).
+totndrugs(107,0).
 OAD01_tot(107).
 HTA01_tot(107).
 CVD01_tot(107).
@@ -2130,23 +2130,23 @@ AF01_tot(107).
 depress01_tot(107).
 cogdis01_tot(107).
 HD01_tot(107).
-Mmsumrev(107,5.0).
+Mmsumrev(107,5).
 antiS_0(107,166.0).
 antiS_2(107,38500.0).
 deltaantiS02(107,38334.0).
-WHO_f1(107,0.0).
-WHO_f2(107,0.0).
-WHO_f3(107,0.0).
-TypeofOutcome_updated(107,1.0).
+WHO_f1(107,0).
+WHO_f2(107,0).
+WHO_f3(107,0).
+TypeofOutcome_updated(107,1).
 patient(107,pos).
 
-%patient: IT-0052-005743
-Gender(108,1.0).
+%patient: IT-0052-005743 index:108
+Gender(108,m).
 Race(108,White).
-mobcat(108,5.0).
-PA3mcat(108,4.0).
-numberdoses(108,3.0).
-totndrugs(108,8.0).
+mobcat(108,5).
+PA3mcat(108,4).
+numberdoses(108,3).
+totndrugs(108,8).
 liverdis01(108).
 HTA01_tot(108).
 CVD01_tot(108).
@@ -2154,25 +2154,25 @@ chrrespdis01_tot(108).
 depress01_tot(108).
 epilepsia01_tot(108).
 HD01_tot(108).
-Mmsumrev(108,7.0).
+Mmsumrev(108,7).
 antiS_0(108,4.81).
 antiS_2(108,582.0).
 antiS_6(108,89.1).
 deltaantiS02(108,577.19).
 deltaantiS26(108,-492.9).
-WHO_f1(108,0.0).
-WHO_f2(108,0.0).
-WHO_f3(108,0.0).
-TypeofOutcome_updated(108,1.0).
+WHO_f1(108,0).
+WHO_f2(108,0).
+WHO_f3(108,0).
+TypeofOutcome_updated(108,1).
 patient(108,pos).
 
-%patient: IT-0166-005022
-Gender(109,2.0).
+%patient: IT-0166-005022 index:109
+Gender(109,f).
 Race(109,White).
-mobcat(109,3.0).
-PA3mcat(109,4.0).
-numberdoses(109,3.0).
-totndrugs(109,7.0).
+mobcat(109,3).
+PA3mcat(109,4).
+numberdoses(109,3).
+totndrugs(109,7).
 cancer01(109).
 OAD01_tot(109).
 HTA01_tot(109).
@@ -2181,23 +2181,23 @@ PAD01_tot(109).
 chrrespdis01_tot(109).
 depress01_tot(109).
 HD01_tot(109).
-Mmsumrev(109,7.0).
+Mmsumrev(109,7).
 antiS_0(109,4.81).
 antiS_2(109,11400.0).
 deltaantiS02(109,11395.19).
-WHO_f1(109,0.0).
-WHO_f2(109,0.0).
-WHO_f3(109,0.0).
-TypeofOutcome_updated(109,1.0).
+WHO_f1(109,0).
+WHO_f2(109,0).
+WHO_f3(109,0).
+TypeofOutcome_updated(109,1).
 patient(109,pos).
 
-%patient: IT-0166-005035
-Gender(110,2.0).
+%patient: IT-0166-005035 index:110
+Gender(110,f).
 Race(110,White).
-mobcat(110,2.0).
-PA3mcat(110,4.0).
-numberdoses(110,3.0).
-totndrugs(110,5.0).
+mobcat(110,2).
+PA3mcat(110,4).
+numberdoses(110,3).
+totndrugs(110,5).
 HTA01_tot(110).
 CVD01_tot(110).
 depress01_tot(110).
@@ -2205,70 +2205,70 @@ cogdis01_tot(110).
 park01_tot(110).
 anxiety01_tot(110).
 HD01_tot(110).
-Mmsumrev(110,5.0).
+Mmsumrev(110,5).
 antiS_0(110,4.81).
 antiS_2(110,299.0).
 antiS_6(110,31.0).
 deltaantiS02(110,294.19).
 deltaantiS26(110,-268.0).
-WHO_f1(110,0.0).
-WHO_f2(110,0.0).
-WHO_f3(110,0.0).
-TypeofOutcome_updated(110,1.0).
+WHO_f1(110,0).
+WHO_f2(110,0).
+WHO_f3(110,0).
+TypeofOutcome_updated(110,1).
 patient(110,pos).
 
-%patient: IT-0166-005042
-Gender(111,1.0).
+%patient: IT-0166-005042 index:111
+Gender(111,m).
 Race(111,White).
-mobcat(111,3.0).
-PA3mcat(111,4.0).
-numberdoses(111,3.0).
-totndrugs(111,2.0).
+mobcat(111,3).
+PA3mcat(111,4).
+numberdoses(111,3).
+totndrugs(111,2).
 CVD01_tot(111).
 cogdis01_tot(111).
-Mmsumrev(111,1.0).
+Mmsumrev(111,1).
 antiS_0(111,4.81).
 antiS_2(111,115.0).
 antiS_6(111,4.81).
 deltaantiS02(111,110.19).
 deltaantiS26(111,-110.19).
-WHO_f1(111,0.0).
-WHO_f2(111,0.0).
-WHO_f3(111,0.0).
-TypeofOutcome_updated(111,1.0).
+WHO_f1(111,0).
+WHO_f2(111,0).
+WHO_f3(111,0).
+TypeofOutcome_updated(111,1).
 patient(111,pos).
 
-%patient: IT-0166-005044
-Gender(112,2.0).
+%patient: IT-0166-005044 index:112
+Gender(112,f).
 Race(112,White).
-mobcat(112,1.0).
-PA3mcat(112,4.0).
-numberdoses(112,3.0).
-totndrugs(112,1.0).
+mobcat(112,1).
+PA3mcat(112,4).
+numberdoses(112,3).
+totndrugs(112,1).
 OAD01_tot(112).
 HTA01_tot(112).
 obesity01_tot(112).
 depress01_tot(112).
 cogdis01_tot(112).
-Mmsumrev(112,5.0).
+Mmsumrev(112,5).
 antiS_0(112,4.81).
 antiS_2(112,1770.0).
 antiS_6(112,173.0).
 deltaantiS02(112,1765.19).
 deltaantiS26(112,-1597.0).
-WHO_f1(112,0.0).
-WHO_f2(112,0.0).
-WHO_f3(112,0.0).
-TypeofOutcome_updated(112,1.0).
+WHO_f1(112,0).
+WHO_f2(112,0).
+WHO_f3(112,0).
+TypeofOutcome_updated(112,1).
 patient(112,pos).
 
-%patient: IT-0166-005005
-Gender(113,2.0).
+%patient: IT-0166-005005 index:113
+Gender(113,f).
 Race(113,White).
-mobcat(113,4.0).
-PA3mcat(113,4.0).
-numberdoses(113,3.0).
-totndrugs(113,3.0).
+mobcat(113,4).
+PA3mcat(113,4).
+numberdoses(113,3).
+totndrugs(113,3).
 OAD01_tot(113).
 CVD01_tot(113).
 chrrespdis01_tot(113).
@@ -2276,47 +2276,47 @@ depress01_tot(113).
 cogdis01_tot(113).
 anxiety01_tot(113).
 HD01_tot(113).
-Mmsumrev(113,5.0).
+Mmsumrev(113,5).
 antiS_0(113,4.81).
 antiS_2(113,1200.0).
 antiS_6(113,190.0).
 deltaantiS02(113,1195.19).
 deltaantiS26(113,-1010.0).
-WHO_f1(113,0.0).
-WHO_f2(113,0.0).
-WHO_f3(113,0.0).
-TypeofOutcome_updated(113,1.0).
+WHO_f1(113,0).
+WHO_f2(113,0).
+WHO_f3(113,0).
+TypeofOutcome_updated(113,1).
 patient(113,pos).
 
-%patient: IT-0166-005113
-Gender(114,2.0).
+%patient: IT-0166-005113 index:114
+Gender(114,f).
 Race(114,White).
-mobcat(114,1.0).
-PA3mcat(114,4.0).
-numberdoses(114,3.0).
-totndrugs(114,5.0).
+mobcat(114,1).
+PA3mcat(114,4).
+numberdoses(114,3).
+totndrugs(114,5).
 HTA01_tot(114).
 cogdis01_tot(114).
 anxiety01_tot(114).
-Mmsumrev(114,3.0).
+Mmsumrev(114,3).
 antiS_0(114,16.7).
 antiS_2(114,12300.0).
 antiS_6(114,20900.0).
 deltaantiS02(114,12283.3).
 deltaantiS26(114,8600.0).
-WHO_f1(114,0.0).
-WHO_f2(114,0.0).
-WHO_f3(114,0.0).
-TypeofOutcome_updated(114,1.0).
+WHO_f1(114,0).
+WHO_f2(114,0).
+WHO_f3(114,0).
+TypeofOutcome_updated(114,1).
 patient(114,pos).
 
-%patient: IT-0061-003886
-Gender(115,2.0).
+%patient: IT-0061-003886 index:115
+Gender(115,f).
 Race(115,White).
-mobcat(115,0.0).
-PA3mcat(115,0.0).
-numberdoses(115,1.0).
-totndrugs(115,3.0).
+mobcat(115,0).
+PA3mcat(115,0).
+numberdoses(115,1).
+totndrugs(115,3).
 cancer01(115).
 liverdis01(115).
 OAD01_tot(115).
@@ -2325,77 +2325,77 @@ AF01_tot(115).
 PAD01_tot(115).
 depress01_tot(115).
 cogdis01_tot(115).
-Mmsumrev(115,7.0).
+Mmsumrev(115,7).
 excovidtot(115).
 antiS_0(115,4.81).
 antiS_2(115,5.0).
 antiS_6(115,4.81).
 deltaantiS02(115,0.19).
 deltaantiS26(115,-0.19).
-WHO_f2(115,1.0).
-WHO_f3(115,1.0).
-WHO_f4(115,1.0).
-TypeofOutcome_updated(115,1.0).
+WHO_f2(115,1).
+WHO_f3(115,1).
+WHO_f4(115,1).
+TypeofOutcome_updated(115,1).
 patient(115,pos).
 
-%patient: IT-0003-000284
-Gender(116,2.0).
+%patient: IT-0003-000284 index:116
+Gender(116,f).
 Race(116,White).
-mobcat(116,1.0).
-PA3mcat(116,4.0).
-numberdoses(116,3.0).
-totndrugs(116,13.0).
+mobcat(116,1).
+PA3mcat(116,4).
+numberdoses(116,3).
+totndrugs(116,13).
 OAD01_tot(116).
 HTA01_tot(116).
 CVD01_tot(116).
 AF01_tot(116).
 obesity01_tot(116).
 HD01_tot(116).
-Mmsumrev(116,7.0).
+Mmsumrev(116,7).
 antiS_0(116,4.81).
 antiS_2(116,1290.0).
 antiS_6(116,145.0).
 deltaantiS02(116,1285.19).
 deltaantiS26(116,-1145.0).
-WHO_f1(116,0.0).
-WHO_f2(116,0.0).
-WHO_f3(116,0.0).
-TypeofOutcome_updated(116,1.0).
+WHO_f1(116,0).
+WHO_f2(116,0).
+WHO_f3(116,0).
+TypeofOutcome_updated(116,1).
 patient(116,pos).
 
-%patient: IT-0061-003883
-Gender(117,2.0).
+%patient: IT-0061-003883 index:117
+Gender(117,f).
 Race(117,White).
-mobcat(117,1.0).
-PA3mcat(117,4.0).
-numberdoses(117,1.0).
-totndrugs(117,10.0).
+mobcat(117,1).
+PA3mcat(117,4).
+numberdoses(117,1).
+totndrugs(117,10).
 OAD01_tot(117).
 HTA01_tot(117).
 CVD01_tot(117).
 PAD01_tot(117).
 depress01_tot(117).
 cogdis01_tot(117).
-Mmsumrev(117,5.0).
+Mmsumrev(117,5).
 excovidtot(117).
 antiS_0(117,1540.0).
 antiS_2(117,10400.0).
 antiS_6(117,1290.0).
 deltaantiS02(117,8860.0).
 deltaantiS26(117,-9110.0).
-WHO_f2(117,1.0).
-WHO_f3(117,1.0).
-WHO_f4(117,1.0).
-TypeofOutcome_updated(117,1.0).
+WHO_f2(117,1).
+WHO_f3(117,1).
+WHO_f4(117,1).
+TypeofOutcome_updated(117,1).
 patient(117,pos).
 
-%patient: IT-0061-003887
-Gender(118,2.0).
+%patient: IT-0061-003887 index:118
+Gender(118,f).
 Race(118,White).
-mobcat(118,3.0).
-PA3mcat(118,4.0).
-numberdoses(118,3.0).
-totndrugs(118,8.0).
+mobcat(118,3).
+PA3mcat(118,4).
+numberdoses(118,3).
+totndrugs(118,8).
 immunedis01(118).
 liverdis01(118).
 OAD01_tot(118).
@@ -2404,26 +2404,26 @@ CVD01_tot(118).
 AF01_tot(118).
 cogdis01_tot(118).
 HD01_tot(118).
-Mmsumrev(118,6.0).
+Mmsumrev(118,6).
 antiS_0(118,4.81).
 antiS_2(118,124.0).
 antiS_6(118,12.9).
 deltaantiS02(118,119.19).
 deltaantiS26(118,-111.1).
-WHO_f1(118,0.0).
-WHO_f2(118,0.0).
-WHO_f3(118,0.0).
-WHO_f4(118,0.0).
-TypeofOutcome_updated(118,1.0).
+WHO_f1(118,0).
+WHO_f2(118,0).
+WHO_f3(118,0).
+WHO_f4(118,0).
+TypeofOutcome_updated(118,1).
 patient(118,pos).
 
-%patient: IT-0015-002603
-Gender(119,1.0).
+%patient: IT-0015-002603 index:119
+Gender(119,m).
 Race(119,White).
-mobcat(119,3.0).
-PA3mcat(119,4.0).
-numberdoses(119,3.0).
-totndrugs(119,13.0).
+mobcat(119,3).
+PA3mcat(119,4).
+numberdoses(119,3).
+totndrugs(119,13).
 CKD01(119).
 HTA01_tot(119).
 CVD01_tot(119).
@@ -2433,25 +2433,25 @@ thyrdis01_tot(119).
 epilepsia01_tot(119).
 anxiety01_tot(119).
 HD01_tot(119).
-Mmsumrev(119,8.0).
+Mmsumrev(119,8).
 antiS_0(119,4.81).
 antiS_2(119,2500.0).
 antiS_6(119,216.0).
 deltaantiS02(119,2495.19).
 deltaantiS26(119,-2284.0).
-WHO_f1(119,0.0).
-WHO_f2(119,0.0).
-WHO_f3(119,0.0).
-TypeofOutcome_updated(119,1.0).
+WHO_f1(119,0).
+WHO_f2(119,0).
+WHO_f3(119,0).
+TypeofOutcome_updated(119,1).
 patient(119,pos).
 
-%patient: IT-0015-003926
-Gender(120,2.0).
+%patient: IT-0015-003926 index:120
+Gender(120,f).
 Race(120,White).
-mobcat(120,1.0).
-PA3mcat(120,4.0).
-numberdoses(120,3.0).
-totndrugs(120,8.0).
+mobcat(120,1).
+PA3mcat(120,4).
+numberdoses(120,3).
+totndrugs(120,8).
 CKD01(120).
 poornut01(120).
 OAD01_tot(120).
@@ -2460,25 +2460,25 @@ CVD01_tot(120).
 PAD01_tot(120).
 cogdis01_tot(120).
 HD01_tot(120).
-Mmsumrev(120,6.0).
+Mmsumrev(120,6).
 antiS_0(120,4.81).
 antiS_2(120,1230.0).
 antiS_6(120,206.0).
 deltaantiS02(120,1225.19).
 deltaantiS26(120,-1024.0).
-WHO_f1(120,0.0).
-WHO_f2(120,0.0).
-WHO_f3(120,0.0).
-TypeofOutcome_updated(120,1.0).
+WHO_f1(120,0).
+WHO_f2(120,0).
+WHO_f3(120,0).
+TypeofOutcome_updated(120,1).
 patient(120,pos).
 
-%patient: IT-0015-003987
-Gender(121,2.0).
+%patient: IT-0015-003987 index:121
+Gender(121,f).
 Race(121,White).
-mobcat(121,3.0).
-PA3mcat(121,4.0).
-numberdoses(121,3.0).
-totndrugs(121,4.0).
+mobcat(121,3).
+PA3mcat(121,4).
+numberdoses(121,3).
+totndrugs(121,4).
 CKD01(121).
 poornut01(121).
 OAD01_tot(121).
@@ -2489,48 +2489,48 @@ PAD01_tot(121).
 depress01_tot(121).
 cogdis01_tot(121).
 HD01_tot(121).
-Mmsumrev(121,7.0).
+Mmsumrev(121,7).
 antiS_0(121,4.81).
 antiS_2(121,276.0).
 antiS_6(121,20.3).
 deltaantiS02(121,271.19).
 deltaantiS26(121,-255.7).
-WHO_f1(121,0.0).
-WHO_f2(121,0.0).
-WHO_f3(121,0.0).
-TypeofOutcome_updated(121,1.0).
+WHO_f1(121,0).
+WHO_f2(121,0).
+WHO_f3(121,0).
+TypeofOutcome_updated(121,1).
 patient(121,pos).
 
-%patient: IT-0015-000685
-Gender(122,2.0).
+%patient: IT-0015-000685 index:122
+Gender(122,f).
 Race(122,White).
-mobcat(122,4.0).
-PA3mcat(122,4.0).
-numberdoses(122,3.0).
-totndrugs(122,3.0).
+mobcat(122,4).
+PA3mcat(122,4).
+numberdoses(122,3).
+totndrugs(122,3).
 poornut01(122).
 HTA01_tot(122).
 cogdis01_tot(122).
-Mmsumrev(122,2.0).
+Mmsumrev(122,2).
 antiS_0(122,4.81).
 antiS_2(122,37.0).
 antiS_6(122,4.81).
 deltaantiS02(122,32.19).
 deltaantiS26(122,-32.19).
-WHO_f1(122,0.0).
-WHO_f2(122,0.0).
-WHO_f3(122,0.0).
-WHO_f4(122,0.0).
-TypeofOutcome_updated(122,1.0).
+WHO_f1(122,0).
+WHO_f2(122,0).
+WHO_f3(122,0).
+WHO_f4(122,0).
+TypeofOutcome_updated(122,1).
 patient(122,pos).
 
-%patient: IT-0015-001261
-Gender(123,2.0).
+%patient: IT-0015-001261 index:123
+Gender(123,f).
 Race(123,White).
-mobcat(123,2.0).
-PA3mcat(123,0.0).
-numberdoses(123,3.0).
-totndrugs(123,7.0).
+mobcat(123,2).
+PA3mcat(123,0).
+numberdoses(123,3).
+totndrugs(123,7).
 OAD01_tot(123).
 HTA01_tot(123).
 CVD01_tot(123).
@@ -2539,25 +2539,25 @@ obesity01_tot(123).
 depress01_tot(123).
 anxiety01_tot(123).
 HD01_tot(123).
-Mmsumrev(123,8.0).
+Mmsumrev(123,8).
 antiS_0(123,4.81).
 antiS_2(123,1550.0).
 antiS_6(123,28.4).
 deltaantiS02(123,1545.19).
 deltaantiS26(123,-1521.6).
-WHO_f2(123,0.0).
-WHO_f3(123,0.0).
-WHO_f4(123,0.0).
-TypeofOutcome_updated(123,1.0).
+WHO_f2(123,0).
+WHO_f3(123,0).
+WHO_f4(123,0).
+TypeofOutcome_updated(123,1).
 patient(123,pos).
 
-%patient: IT-0015-003896
-Gender(124,2.0).
+%patient: IT-0015-003896 index:124
+Gender(124,f).
 Race(124,White).
-mobcat(124,3.0).
-PA3mcat(124,4.0).
-numberdoses(124,3.0).
-totndrugs(124,7.0).
+mobcat(124,3).
+PA3mcat(124,4).
+numberdoses(124,3).
+totndrugs(124,7).
 CKD01(124).
 poornut01(124).
 HTA01_tot(124).
@@ -2566,26 +2566,26 @@ AF01_tot(124).
 depress01_tot(124).
 cogdis01_tot(124).
 HD01_tot(124).
-Mmsumrev(124,5.0).
+Mmsumrev(124,5).
 antiS_0(124,4.81).
 antiS_2(124,763.0).
 antiS_6(124,47.1).
 deltaantiS02(124,758.19).
 deltaantiS26(124,-715.9).
-WHO_f1(124,0.0).
-WHO_f2(124,0.0).
-WHO_f3(124,0.0).
-WHO_f4(124,0.0).
-TypeofOutcome_updated(124,1.0).
+WHO_f1(124,0).
+WHO_f2(124,0).
+WHO_f3(124,0).
+WHO_f4(124,0).
+TypeofOutcome_updated(124,1).
 patient(124,pos).
 
-%patient: IT-0015-003933
-Gender(125,2.0).
+%patient: IT-0015-003933 index:125
+Gender(125,f).
 Race(125,White).
-mobcat(125,2.0).
-PA3mcat(125,2.0).
-numberdoses(125,3.0).
-totndrugs(125,5.0).
+mobcat(125,2).
+PA3mcat(125,2).
+numberdoses(125,3).
+totndrugs(125,5).
 CKD01(125).
 poornut01(125).
 OAD01_tot(125).
@@ -2594,52 +2594,52 @@ CVD01_tot(125).
 cogdis01_tot(125).
 anxiety01_tot(125).
 HD01_tot(125).
-Mmsumrev(125,6.0).
+Mmsumrev(125,6).
 antiS_0(125,4.81).
 antiS_2(125,576.0).
 antiS_6(125,30.9).
 deltaantiS02(125,571.19).
 deltaantiS26(125,-545.1).
-WHO_f1(125,0.0).
-WHO_f2(125,0.0).
-WHO_f3(125,0.0).
-WHO_f4(125,0.0).
-TypeofOutcome_updated(125,1.0).
+WHO_f1(125,0).
+WHO_f2(125,0).
+WHO_f3(125,0).
+WHO_f4(125,0).
+TypeofOutcome_updated(125,1).
 patient(125,pos).
 
-%patient: IT-0050-004229
-Gender(126,1.0).
+%patient: IT-0050-004229 index:126
+Gender(126,m).
 Race(126,White).
-mobcat(126,0.0).
-PA3mcat(126,0.0).
-numberdoses(126,2.0).
-totndrugs(126,7.0).
+mobcat(126,0).
+PA3mcat(126,0).
+numberdoses(126,2).
+totndrugs(126,7).
 HTA01_tot(126).
 CVD01_tot(126).
 cogdis01_tot(126).
 park01_tot(126).
 epilepsia01_tot(126).
 urol01_tot(126).
-Mmsumrev(126,5.0).
+Mmsumrev(126,5).
 excovidtot(126).
 antiS_0(126,67.5).
 antiS_2(126,3650.0).
 antiS_6(126,566.0).
 deltaantiS02(126,3582.5).
 deltaantiS26(126,-3084.0).
-WHO_f2(126,1.0).
-WHO_f3(126,0.0).
-WHO_f4(126,0.0).
-TypeofOutcome_updated(126,1.0).
+WHO_f2(126,1).
+WHO_f3(126,0).
+WHO_f4(126,0).
+TypeofOutcome_updated(126,1).
 patient(126,pos).
 
-%patient: IT-0061-003884
-Gender(127,2.0).
+%patient: IT-0061-003884 index:127
+Gender(127,f).
 Race(127,White).
-mobcat(127,3.0).
-PA3mcat(127,4.0).
-numberdoses(127,2.0).
-totndrugs(127,11.0).
+mobcat(127,3).
+PA3mcat(127,4).
+numberdoses(127,2).
+totndrugs(127,11).
 OAD01_tot(127).
 HTA01_tot(127).
 PAD01_tot(127).
@@ -2647,73 +2647,73 @@ chrrespdis01_tot(127).
 depress01_tot(127).
 cogdis01_tot(127).
 epilepsia01_tot(127).
-Mmsumrev(127,7.0).
+Mmsumrev(127,7).
 excovidtot(127).
 antiS_0(127,303.0).
 antiS_2(127,6230.0).
 antiS_6(127,697.0).
 deltaantiS02(127,5927.0).
 deltaantiS26(127,-5533.0).
-WHO_f2(127,1.0).
-WHO_f3(127,1.0).
-WHO_f4(127,1.0).
-TypeofOutcome_updated(127,1.0).
+WHO_f2(127,1).
+WHO_f3(127,1).
+WHO_f4(127,1).
+TypeofOutcome_updated(127,1).
 patient(127,pos).
 
-%patient: IT-0143-004063
-Gender(128,2.0).
+%patient: IT-0143-004063 index:128
+Gender(128,f).
 Race(128,White).
-numberdoses(128,2.0).
-totndrugs(128,2.0).
+numberdoses(128,2).
+totndrugs(128,2).
 HTA01_tot(128).
 CVD01_tot(128).
 cogdis01_tot(128).
 HD01_tot(128).
-Mmsumrev(128,2.0).
+Mmsumrev(128,2).
 excovidtot(128).
 antiS_0(128,1140.0).
 antiS_2(128,40500.0).
 antiS_6(128,4640.0).
 deltaantiS02(128,39360.0).
 deltaantiS26(128,-35860.0).
-WHO_f2(128,0.0).
-WHO_f3(128,0.0).
-WHO_f4(128,4.0).
-TypeofOutcome_updated(128,1.0).
+WHO_f2(128,0).
+WHO_f3(128,0).
+WHO_f4(128,4).
+TypeofOutcome_updated(128,1).
 patient(128,pos).
 
-%patient: IT-0003-000516
-Gender(129,1.0).
+%patient: IT-0003-000516 index:129
+Gender(129,m).
 Race(129,White).
-mobcat(129,5.0).
-PA3mcat(129,4.0).
-numberdoses(129,3.0).
-totndrugs(129,3.0).
+mobcat(129,5).
+PA3mcat(129,4).
+numberdoses(129,3).
+totndrugs(129,3).
 poornut01(129).
 OAD01_tot(129).
 HTA01_tot(129).
 chrrespdis01_tot(129).
 cogdis01_tot(129).
-Mmsumrev(129,3.0).
+Mmsumrev(129,3).
 antiS_0(129,4.81).
 antiS_2(129,269.0).
 antiS_6(129,21.3).
 deltaantiS02(129,264.19).
 deltaantiS26(129,-247.7).
-WHO_f1(129,0.0).
-WHO_f2(129,0.0).
-WHO_f3(129,0.0).
-WHO_f4(129,0.0).
-TypeofOutcome_updated(129,1.0).
+WHO_f1(129,0).
+WHO_f2(129,0).
+WHO_f3(129,0).
+WHO_f4(129,0).
+TypeofOutcome_updated(129,1).
 patient(129,pos).
 
-%patient: IT-0015-003867
-Gender(130,1.0).
+%patient: IT-0015-003867 index:130
+Gender(130,m).
 Race(130,White).
-mobcat(130,1.0).
-PA3mcat(130,2.0).
-numberdoses(130,2.0).
-totndrugs(130,4.0).
+mobcat(130,1).
+PA3mcat(130,2).
+numberdoses(130,2).
+totndrugs(130,4).
 frailty01(130).
 poornut01(130).
 cancer01(130).
@@ -2721,24 +2721,24 @@ depress01_tot(130).
 cogdis01_tot(130).
 anxiety01_tot(130).
 urol01_tot(130).
-Mmsumrev(130,5.0).
+Mmsumrev(130,5).
 antiS_0(130,4.81).
 antiS_2(130,687.0).
 antiS_6(130,4.81).
 deltaantiS02(130,682.19).
 deltaantiS26(130,-682.19).
 covid12m(130).
-WHO_f1(130,0.0).
-WHO_f2(130,0.0).
-WHO_f3(130,0.0).
-WHO_f4(130,1.0).
-TypeofOutcome_updated(130,1.0).
+WHO_f1(130,0).
+WHO_f2(130,0).
+WHO_f3(130,0).
+WHO_f4(130,1).
+TypeofOutcome_updated(130,1).
 patient(130,pos).
 
-%patient: IT-0152-004896
-Gender(131,1.0).
+%patient: IT-0152-004896 index:131
+Gender(131,m).
 Race(131,White).
-numberdoses(131,2.0).
+numberdoses(131,2).
 excovidtot(131).
 antiS_0(131,2060.0).
 antiS_2(131,13400.0).
@@ -2747,15 +2747,15 @@ antiS_12(131,11700.0).
 deltaantiS02(131,11340.0).
 deltaantiS26(131,-8570.0).
 deltaantiS612(131,6870.0).
-WHO_f2(131,0.0).
-WHO_f3(131,0.0).
-TypeofOutcome_updated(131,2.0).
+WHO_f2(131,0).
+WHO_f3(131,0).
+TypeofOutcome_updated(131,2).
 patient(131,neg).
 
-%patient: IT-0153-004761
-Gender(132,2.0).
+%patient: IT-0153-004761 index:132
+Gender(132,f).
 Race(132,White).
-numberdoses(132,3.0).
+numberdoses(132,3).
 antiS_0(132,4.81).
 antiS_2(132,5.0).
 antiS_6(132,4.81).
@@ -2763,17 +2763,17 @@ antiS_12(132,39658.0).
 deltaantiS02(132,0.19).
 deltaantiS26(132,-0.19).
 deltaantiS612(132,39653.19).
-WHO_f1(132,0.0).
-WHO_f2(132,0.0).
-WHO_f3(132,0.0).
-WHO_f4(132,0.0).
-TypeofOutcome_updated(132,2.0).
+WHO_f1(132,0).
+WHO_f2(132,0).
+WHO_f3(132,0).
+WHO_f4(132,0).
+TypeofOutcome_updated(132,2).
 patient(132,neg).
 
-%patient: IT-0153-004762
-Gender(133,2.0).
+%patient: IT-0153-004762 index:133
+Gender(133,f).
 Race(133,White).
-numberdoses(133,3.0).
+numberdoses(133,3).
 antiS_0(133,4.81).
 antiS_2(133,3850.0).
 antiS_6(133,255.0).
@@ -2781,17 +2781,17 @@ antiS_12(133,40234.0).
 deltaantiS02(133,3845.19).
 deltaantiS26(133,-3595.0).
 deltaantiS612(133,39979.0).
-WHO_f1(133,0.0).
-WHO_f2(133,0.0).
-WHO_f3(133,0.0).
-WHO_f4(133,0.0).
-TypeofOutcome_updated(133,2.0).
+WHO_f1(133,0).
+WHO_f2(133,0).
+WHO_f3(133,0).
+WHO_f4(133,0).
+TypeofOutcome_updated(133,2).
 patient(133,neg).
 
-%patient: IT-0153-004764
-Gender(134,2.0).
+%patient: IT-0153-004764 index:134
+Gender(134,f).
 Race(134,White).
-numberdoses(134,3.0).
+numberdoses(134,3).
 antiS_0(134,4.81).
 antiS_2(134,1470.0).
 antiS_6(134,55.6).
@@ -2799,49 +2799,49 @@ antiS_12(134,41658.0).
 deltaantiS02(134,1465.19).
 deltaantiS26(134,-1414.4).
 deltaantiS612(134,41602.4).
-WHO_f1(134,0.0).
-WHO_f2(134,0.0).
-WHO_f3(134,0.0).
-WHO_f4(134,0.0).
-TypeofOutcome_updated(134,2.0).
+WHO_f1(134,0).
+WHO_f2(134,0).
+WHO_f3(134,0).
+WHO_f4(134,0).
+TypeofOutcome_updated(134,2).
 patient(134,neg).
 
-%patient: IT-0153-004767
-Gender(135,2.0).
+%patient: IT-0153-004767 index:135
+Gender(135,f).
 Race(135,White).
-numberdoses(135,3.0).
+numberdoses(135,3).
 antiS_0(135,4.81).
 antiS_2(135,688.0).
 antiS_6(135,77.1).
 deltaantiS02(135,683.19).
 deltaantiS26(135,-610.9).
-WHO_f1(135,0.0).
-WHO_f2(135,0.0).
-WHO_f3(135,0.0).
-WHO_f4(135,0.0).
-TypeofOutcome_updated(135,2.0).
+WHO_f1(135,0).
+WHO_f2(135,0).
+WHO_f3(135,0).
+WHO_f4(135,0).
+TypeofOutcome_updated(135,2).
 patient(135,neg).
 
-%patient: IT-0153-004768
-Gender(136,2.0).
+%patient: IT-0153-004768 index:136
+Gender(136,f).
 Race(136,White).
-numberdoses(136,3.0).
+numberdoses(136,3).
 antiS_0(136,4.81).
 antiS_2(136,256.0).
 antiS_6(136,26.7).
 deltaantiS02(136,251.19).
 deltaantiS26(136,-229.3).
-WHO_f1(136,0.0).
-WHO_f2(136,0.0).
-WHO_f3(136,0.0).
-WHO_f4(136,0.0).
-TypeofOutcome_updated(136,2.0).
+WHO_f1(136,0).
+WHO_f2(136,0).
+WHO_f3(136,0).
+WHO_f4(136,0).
+TypeofOutcome_updated(136,2).
 patient(136,neg).
 
-%patient: IT-0153-004769
-Gender(137,2.0).
+%patient: IT-0153-004769 index:137
+Gender(137,f).
 Race(137,White).
-numberdoses(137,3.0).
+numberdoses(137,3).
 antiS_0(137,4.81).
 antiS_2(137,1230.0).
 antiS_6(137,92.7).
@@ -2849,17 +2849,17 @@ antiS_12(137,11000.0).
 deltaantiS02(137,1225.19).
 deltaantiS26(137,-1137.3).
 deltaantiS612(137,10907.3).
-WHO_f1(137,0.0).
-WHO_f2(137,0.0).
-WHO_f3(137,0.0).
-WHO_f4(137,0.0).
-TypeofOutcome_updated(137,2.0).
+WHO_f1(137,0).
+WHO_f2(137,0).
+WHO_f3(137,0).
+WHO_f4(137,0).
+TypeofOutcome_updated(137,2).
 patient(137,neg).
 
-%patient: IT-0153-004770
-Gender(138,2.0).
+%patient: IT-0153-004770 index:138
+Gender(138,f).
 Race(138,White).
-numberdoses(138,3.0).
+numberdoses(138,3).
 antiS_0(138,4.81).
 antiS_2(138,2080.0).
 antiS_6(138,383.0).
@@ -2867,17 +2867,17 @@ antiS_12(138,42440.0).
 deltaantiS02(138,2075.19).
 deltaantiS26(138,-1697.0).
 deltaantiS612(138,42057.0).
-WHO_f1(138,0.0).
-WHO_f2(138,0.0).
-WHO_f3(138,0.0).
-WHO_f4(138,0.0).
-TypeofOutcome_updated(138,2.0).
+WHO_f1(138,0).
+WHO_f2(138,0).
+WHO_f3(138,0).
+WHO_f4(138,0).
+TypeofOutcome_updated(138,2).
 patient(138,neg).
 
-%patient: IT-0153-004771
-Gender(139,2.0).
+%patient: IT-0153-004771 index:139
+Gender(139,f).
 Race(139,White).
-numberdoses(139,3.0).
+numberdoses(139,3).
 antiS_0(139,4.81).
 antiS_2(139,485.0).
 antiS_6(139,62.9).
@@ -2885,17 +2885,17 @@ antiS_12(139,40650.0).
 deltaantiS02(139,480.19).
 deltaantiS26(139,-422.1).
 deltaantiS612(139,40587.1).
-WHO_f1(139,0.0).
-WHO_f2(139,0.0).
-WHO_f3(139,0.0).
-WHO_f4(139,0.0).
-TypeofOutcome_updated(139,2.0).
+WHO_f1(139,0).
+WHO_f2(139,0).
+WHO_f3(139,0).
+WHO_f4(139,0).
+TypeofOutcome_updated(139,2).
 patient(139,neg).
 
-%patient: IT-0153-004772
-Gender(140,2.0).
+%patient: IT-0153-004772 index:140
+Gender(140,f).
 Race(140,White).
-numberdoses(140,3.0).
+numberdoses(140,3).
 antiS_0(140,4.81).
 antiS_2(140,3070.0).
 antiS_6(140,578.0).
@@ -2903,17 +2903,17 @@ antiS_12(140,29500.0).
 deltaantiS02(140,3065.19).
 deltaantiS26(140,-2492.0).
 deltaantiS612(140,28922.0).
-WHO_f1(140,0.0).
-WHO_f2(140,0.0).
-WHO_f3(140,0.0).
-WHO_f4(140,0.0).
-TypeofOutcome_updated(140,2.0).
+WHO_f1(140,0).
+WHO_f2(140,0).
+WHO_f3(140,0).
+WHO_f4(140,0).
+TypeofOutcome_updated(140,2).
 patient(140,neg).
 
-%patient: IT-0153-004774
-Gender(141,2.0).
+%patient: IT-0153-004774 index:141
+Gender(141,f).
 Race(141,White).
-numberdoses(141,3.0).
+numberdoses(141,3).
 antiS_0(141,4.81).
 antiS_2(141,1610.0).
 antiS_6(141,79.7).
@@ -2921,17 +2921,17 @@ antiS_12(141,18900.0).
 deltaantiS02(141,1605.19).
 deltaantiS26(141,-1530.3).
 deltaantiS612(141,18820.3).
-WHO_f1(141,0.0).
-WHO_f2(141,0.0).
-WHO_f3(141,0.0).
-WHO_f4(141,0.0).
-TypeofOutcome_updated(141,2.0).
+WHO_f1(141,0).
+WHO_f2(141,0).
+WHO_f3(141,0).
+WHO_f4(141,0).
+TypeofOutcome_updated(141,2).
 patient(141,neg).
 
-%patient: IT-0153-004777
-Gender(142,1.0).
+%patient: IT-0153-004777 index:142
+Gender(142,m).
 Race(142,White).
-numberdoses(142,3.0).
+numberdoses(142,3).
 antiS_0(142,4.81).
 antiS_2(142,180.0).
 antiS_6(142,25.2).
@@ -2939,17 +2939,17 @@ antiS_12(142,41470.0).
 deltaantiS02(142,175.19).
 deltaantiS26(142,-154.8).
 deltaantiS612(142,41444.8).
-WHO_f1(142,0.0).
-WHO_f2(142,0.0).
-WHO_f3(142,0.0).
-WHO_f4(142,0.0).
-TypeofOutcome_updated(142,2.0).
+WHO_f1(142,0).
+WHO_f2(142,0).
+WHO_f3(142,0).
+WHO_f4(142,0).
+TypeofOutcome_updated(142,2).
 patient(142,neg).
 
-%patient: IT-0153-004779
-Gender(143,2.0).
+%patient: IT-0153-004779 index:143
+Gender(143,f).
 Race(143,White).
-numberdoses(143,3.0).
+numberdoses(143,3).
 antiS_0(143,15.6).
 antiS_2(143,535.0).
 antiS_6(143,129.0).
@@ -2957,17 +2957,17 @@ antiS_12(143,1440.0).
 deltaantiS02(143,519.4).
 deltaantiS26(143,-406.0).
 deltaantiS612(143,1311.0).
-WHO_f1(143,0.0).
-WHO_f2(143,0.0).
-WHO_f3(143,0.0).
-WHO_f4(143,0.0).
-TypeofOutcome_updated(143,2.0).
+WHO_f1(143,0).
+WHO_f2(143,0).
+WHO_f3(143,0).
+WHO_f4(143,0).
+TypeofOutcome_updated(143,2).
 patient(143,neg).
 
-%patient: IT-0153-004780
-Gender(144,1.0).
+%patient: IT-0153-004780 index:144
+Gender(144,m).
 Race(144,White).
-numberdoses(144,3.0).
+numberdoses(144,3).
 antiS_0(144,4.81).
 antiS_2(144,858.0).
 antiS_6(144,235.0).
@@ -2975,17 +2975,17 @@ antiS_12(144,40230.0).
 deltaantiS02(144,853.19).
 deltaantiS26(144,-623.0).
 deltaantiS612(144,39995.0).
-WHO_f1(144,0.0).
-WHO_f2(144,0.0).
-WHO_f3(144,0.0).
-WHO_f4(144,0.0).
-TypeofOutcome_updated(144,2.0).
+WHO_f1(144,0).
+WHO_f2(144,0).
+WHO_f3(144,0).
+WHO_f4(144,0).
+TypeofOutcome_updated(144,2).
 patient(144,neg).
 
-%patient: IT-0153-004781
-Gender(145,2.0).
+%patient: IT-0153-004781 index:145
+Gender(145,f).
 Race(145,White).
-numberdoses(145,3.0).
+numberdoses(145,3).
 antiS_0(145,4.81).
 antiS_2(145,2080.0).
 antiS_6(145,252.0).
@@ -2993,17 +2993,17 @@ antiS_12(145,32700.0).
 deltaantiS02(145,2075.19).
 deltaantiS26(145,-1828.0).
 deltaantiS612(145,32448.0).
-WHO_f1(145,0.0).
-WHO_f2(145,0.0).
-WHO_f3(145,0.0).
-WHO_f4(145,0.0).
-TypeofOutcome_updated(145,2.0).
+WHO_f1(145,0).
+WHO_f2(145,0).
+WHO_f3(145,0).
+WHO_f4(145,0).
+TypeofOutcome_updated(145,2).
 patient(145,neg).
 
-%patient: IT-0153-004783
-Gender(146,2.0).
+%patient: IT-0153-004783 index:146
+Gender(146,f).
 Race(146,White).
-numberdoses(146,3.0).
+numberdoses(146,3).
 antiS_0(146,4.81).
 antiS_2(146,2080.0).
 antiS_6(146,125.0).
@@ -3011,17 +3011,17 @@ antiS_12(146,4780.0).
 deltaantiS02(146,2075.19).
 deltaantiS26(146,-1955.0).
 deltaantiS612(146,4655.0).
-WHO_f1(146,0.0).
-WHO_f2(146,0.0).
-WHO_f3(146,0.0).
-WHO_f4(146,0.0).
-TypeofOutcome_updated(146,2.0).
+WHO_f1(146,0).
+WHO_f2(146,0).
+WHO_f3(146,0).
+WHO_f4(146,0).
+TypeofOutcome_updated(146,2).
 patient(146,neg).
 
-%patient: IT-0153-004784
-Gender(147,2.0).
+%patient: IT-0153-004784 index:147
+Gender(147,f).
 Race(147,White).
-numberdoses(147,3.0).
+numberdoses(147,3).
 antiS_0(147,4.81).
 antiS_2(147,80.0).
 antiS_6(147,7.98).
@@ -3029,33 +3029,33 @@ antiS_12(147,40980.0).
 deltaantiS02(147,75.19).
 deltaantiS26(147,-72.02).
 deltaantiS612(147,40972.02).
-WHO_f1(147,0.0).
-WHO_f2(147,0.0).
-WHO_f3(147,0.0).
-WHO_f4(147,0.0).
-TypeofOutcome_updated(147,2.0).
+WHO_f1(147,0).
+WHO_f2(147,0).
+WHO_f3(147,0).
+WHO_f4(147,0).
+TypeofOutcome_updated(147,2).
 patient(147,neg).
 
-%patient: IT-0154-004786
-Gender(148,2.0).
+%patient: IT-0154-004786 index:148
+Gender(148,f).
 Race(148,White).
-numberdoses(148,3.0).
+numberdoses(148,3).
 antiS_0(148,4.81).
 antiS_2(148,903.0).
 antiS_6(148,61.4).
 deltaantiS02(148,898.19).
 deltaantiS26(148,-841.6).
-WHO_f1(148,0.0).
-WHO_f2(148,0.0).
-WHO_f3(148,0.0).
-WHO_f4(148,0.0).
-TypeofOutcome_updated(148,2.0).
+WHO_f1(148,0).
+WHO_f2(148,0).
+WHO_f3(148,0).
+WHO_f4(148,0).
+TypeofOutcome_updated(148,2).
 patient(148,neg).
 
-%patient: IT-0154-004794
-Gender(149,2.0).
+%patient: IT-0154-004794 index:149
+Gender(149,f).
 Race(149,White).
-numberdoses(149,3.0).
+numberdoses(149,3).
 antiS_0(149,4.81).
 antiS_2(149,153.0).
 antiS_6(149,60.6).
@@ -3063,17 +3063,17 @@ antiS_12(149,42120.0).
 deltaantiS02(149,148.19).
 deltaantiS26(149,-92.4).
 deltaantiS612(149,42059.4).
-WHO_f1(149,0.0).
-WHO_f2(149,0.0).
-WHO_f3(149,0.0).
-WHO_f4(149,0.0).
-TypeofOutcome_updated(149,2.0).
+WHO_f1(149,0).
+WHO_f2(149,0).
+WHO_f3(149,0).
+WHO_f4(149,0).
+TypeofOutcome_updated(149,2).
 patient(149,neg).
 
-%patient: IT-0154-004796
-Gender(150,2.0).
+%patient: IT-0154-004796 index:150
+Gender(150,f).
 Race(150,White).
-numberdoses(150,3.0).
+numberdoses(150,3).
 antiS_0(150,4.81).
 antiS_2(150,784.0).
 antiS_6(150,112.0).
@@ -3081,17 +3081,17 @@ antiS_12(150,41380.0).
 deltaantiS02(150,779.19).
 deltaantiS26(150,-672.0).
 deltaantiS612(150,41268.0).
-WHO_f1(150,0.0).
-WHO_f2(150,0.0).
-WHO_f3(150,0.0).
-WHO_f4(150,0.0).
-TypeofOutcome_updated(150,2.0).
+WHO_f1(150,0).
+WHO_f2(150,0).
+WHO_f3(150,0).
+WHO_f4(150,0).
+TypeofOutcome_updated(150,2).
 patient(150,neg).
 
-%patient: IT-0154-004799
-Gender(151,1.0).
+%patient: IT-0154-004799 index:151
+Gender(151,m).
 Race(151,White).
-numberdoses(151,3.0).
+numberdoses(151,3).
 antiS_0(151,4.81).
 antiS_2(151,623.0).
 antiS_6(151,39.8).
@@ -3099,81 +3099,81 @@ antiS_12(151,12900.0).
 deltaantiS02(151,618.19).
 deltaantiS26(151,-583.2).
 deltaantiS612(151,12860.2).
-WHO_f1(151,0.0).
-WHO_f2(151,0.0).
-WHO_f3(151,0.0).
-WHO_f4(151,0.0).
-TypeofOutcome_updated(151,2.0).
+WHO_f1(151,0).
+WHO_f2(151,0).
+WHO_f3(151,0).
+WHO_f4(151,0).
+TypeofOutcome_updated(151,2).
 patient(151,neg).
 
-%patient: IT-0154-004800
-Gender(152,2.0).
+%patient: IT-0154-004800 index:152
+Gender(152,f).
 Race(152,White).
-numberdoses(152,3.0).
+numberdoses(152,3).
 antiS_0(152,891.0).
 antiS_2(152,2080.0).
 antiS_6(152,7370.0).
 deltaantiS02(152,1189.0).
 deltaantiS26(152,5290.0).
-WHO_f1(152,0.0).
-WHO_f2(152,0.0).
-WHO_f3(152,0.0).
-WHO_f4(152,0.0).
-TypeofOutcome_updated(152,2.0).
+WHO_f1(152,0).
+WHO_f2(152,0).
+WHO_f3(152,0).
+WHO_f4(152,0).
+TypeofOutcome_updated(152,2).
 patient(152,neg).
 
-%patient: IT-0154-004801
-Gender(153,2.0).
+%patient: IT-0154-004801 index:153
+Gender(153,f).
 Race(153,White).
-numberdoses(153,3.0).
+numberdoses(153,3).
 antiS_0(153,4.81).
 antiS_2(153,1050.0).
 antiS_6(153,88.4).
 deltaantiS02(153,1045.19).
 deltaantiS26(153,-961.6).
-WHO_f1(153,0.0).
-WHO_f2(153,0.0).
-WHO_f3(153,0.0).
-WHO_f4(153,0.0).
-TypeofOutcome_updated(153,2.0).
+WHO_f1(153,0).
+WHO_f2(153,0).
+WHO_f3(153,0).
+WHO_f4(153,0).
+TypeofOutcome_updated(153,2).
 patient(153,neg).
 
-%patient: IT-0154-004803
-Gender(154,1.0).
+%patient: IT-0154-004803 index:154
+Gender(154,m).
 Race(154,White).
-numberdoses(154,3.0).
+numberdoses(154,3).
 antiS_0(154,4.81).
 antiS_2(154,132.0).
 antiS_6(154,13.6).
 deltaantiS02(154,127.19).
 deltaantiS26(154,-118.4).
-WHO_f1(154,0.0).
-WHO_f2(154,0.0).
-WHO_f3(154,0.0).
-WHO_f4(154,0.0).
-TypeofOutcome_updated(154,2.0).
+WHO_f1(154,0).
+WHO_f2(154,0).
+WHO_f3(154,0).
+WHO_f4(154,0).
+TypeofOutcome_updated(154,2).
 patient(154,neg).
 
-%patient: IT-0154-004805
-Gender(155,2.0).
+%patient: IT-0154-004805 index:155
+Gender(155,f).
 Race(155,White).
-numberdoses(155,3.0).
+numberdoses(155,3).
 antiS_0(155,4.81).
 antiS_2(155,1600.0).
 antiS_6(155,182.0).
 deltaantiS02(155,1595.19).
 deltaantiS26(155,-1418.0).
-WHO_f1(155,0.0).
-WHO_f2(155,0.0).
-WHO_f3(155,0.0).
-WHO_f4(155,0.0).
-TypeofOutcome_updated(155,2.0).
+WHO_f1(155,0).
+WHO_f2(155,0).
+WHO_f3(155,0).
+WHO_f4(155,0).
+TypeofOutcome_updated(155,2).
 patient(155,neg).
 
-%patient: IT-0154-004806
-Gender(156,2.0).
+%patient: IT-0154-004806 index:156
+Gender(156,f).
 Race(156,White).
-numberdoses(156,3.0).
+numberdoses(156,3).
 antiS_0(156,4.81).
 antiS_2(156,124.0).
 antiS_6(156,37.7).
@@ -3181,33 +3181,33 @@ antiS_12(156,605.0).
 deltaantiS02(156,119.19).
 deltaantiS26(156,-86.3).
 deltaantiS612(156,567.3).
-WHO_f1(156,0.0).
-WHO_f2(156,0.0).
-WHO_f3(156,0.0).
-WHO_f4(156,0.0).
-TypeofOutcome_updated(156,2.0).
+WHO_f1(156,0).
+WHO_f2(156,0).
+WHO_f3(156,0).
+WHO_f4(156,0).
+TypeofOutcome_updated(156,2).
 patient(156,neg).
 
-%patient: IT-0154-004807
-Gender(157,2.0).
+%patient: IT-0154-004807 index:157
+Gender(157,f).
 Race(157,White).
-numberdoses(157,3.0).
+numberdoses(157,3).
 antiS_0(157,4.81).
 antiS_2(157,100.0).
 antiS_6(157,20.6).
 deltaantiS02(157,95.19).
 deltaantiS26(157,-79.4).
-WHO_f1(157,0.0).
-WHO_f2(157,0.0).
-WHO_f3(157,0.0).
-WHO_f4(157,0.0).
-TypeofOutcome_updated(157,2.0).
+WHO_f1(157,0).
+WHO_f2(157,0).
+WHO_f3(157,0).
+WHO_f4(157,0).
+TypeofOutcome_updated(157,2).
 patient(157,neg).
 
-%patient: IT-0154-004808
-Gender(158,2.0).
+%patient: IT-0154-004808 index:158
+Gender(158,f).
 Race(158,White).
-numberdoses(158,3.0).
+numberdoses(158,3).
 antiS_0(158,4.81).
 antiS_2(158,544.0).
 antiS_6(158,202.0).
@@ -3215,17 +3215,17 @@ antiS_12(158,41400.0).
 deltaantiS02(158,539.19).
 deltaantiS26(158,-342.0).
 deltaantiS612(158,41198.0).
-WHO_f1(158,0.0).
-WHO_f2(158,0.0).
-WHO_f3(158,0.0).
-WHO_f4(158,0.0).
-TypeofOutcome_updated(158,2.0).
+WHO_f1(158,0).
+WHO_f2(158,0).
+WHO_f3(158,0).
+WHO_f4(158,0).
+TypeofOutcome_updated(158,2).
 patient(158,neg).
 
-%patient: IT-0154-004813
-Gender(159,2.0).
+%patient: IT-0154-004813 index:159
+Gender(159,f).
 Race(159,White).
-numberdoses(159,3.0).
+numberdoses(159,3).
 antiS_0(159,4.81).
 antiS_2(159,2080.0).
 antiS_6(159,1320.0).
@@ -3233,17 +3233,17 @@ antiS_12(159,4720.0).
 deltaantiS02(159,2075.19).
 deltaantiS26(159,-760.0).
 deltaantiS612(159,3400.0).
-WHO_f1(159,0.0).
-WHO_f2(159,0.0).
-WHO_f3(159,0.0).
-WHO_f4(159,0.0).
-TypeofOutcome_updated(159,2.0).
+WHO_f1(159,0).
+WHO_f2(159,0).
+WHO_f3(159,0).
+WHO_f4(159,0).
+TypeofOutcome_updated(159,2).
 patient(159,neg).
 
-%patient: IT-0154-004814
-Gender(160,2.0).
+%patient: IT-0154-004814 index:160
+Gender(160,f).
 Race(160,White).
-numberdoses(160,3.0).
+numberdoses(160,3).
 antiS_0(160,4.81).
 antiS_2(160,71.0).
 antiS_6(160,20.1).
@@ -3251,33 +3251,33 @@ antiS_12(160,12200.0).
 deltaantiS02(160,66.19).
 deltaantiS26(160,-50.9).
 deltaantiS612(160,12179.9).
-WHO_f1(160,0.0).
-WHO_f2(160,0.0).
-WHO_f3(160,0.0).
-WHO_f4(160,0.0).
-TypeofOutcome_updated(160,2.0).
+WHO_f1(160,0).
+WHO_f2(160,0).
+WHO_f3(160,0).
+WHO_f4(160,0).
+TypeofOutcome_updated(160,2).
 patient(160,neg).
 
-%patient: IT-0154-004818
-Gender(161,1.0).
+%patient: IT-0154-004818 index:161
+Gender(161,m).
 Race(161,White).
-numberdoses(161,3.0).
+numberdoses(161,3).
 antiS_0(161,4.81).
 antiS_2(161,42.0).
 antiS_6(161,206.0).
 deltaantiS02(161,37.19).
 deltaantiS26(161,164.0).
-WHO_f1(161,0.0).
-WHO_f2(161,0.0).
-WHO_f3(161,0.0).
-WHO_f4(161,0.0).
-TypeofOutcome_updated(161,2.0).
+WHO_f1(161,0).
+WHO_f2(161,0).
+WHO_f3(161,0).
+WHO_f4(161,0).
+TypeofOutcome_updated(161,2).
 patient(161,neg).
 
-%patient: IT-0154-004819
-Gender(162,1.0).
+%patient: IT-0154-004819 index:162
+Gender(162,m).
 Race(162,White).
-numberdoses(162,3.0).
+numberdoses(162,3).
 excovidtot(162).
 antiS_0(162,425.0).
 antiS_2(162,35500.0).
@@ -3286,19 +3286,19 @@ antiS_12(162,852.0).
 deltaantiS02(162,35075.0).
 deltaantiS26(162,-30220.0).
 deltaantiS612(162,-4428.0).
-WHO_f1(162,0.0).
-WHO_f2(162,0.0).
-WHO_f3(162,0.0).
-WHO_f4(162,0.0).
-TypeofOutcome_updated(162,2.0).
+WHO_f1(162,0).
+WHO_f2(162,0).
+WHO_f3(162,0).
+WHO_f4(162,0).
+TypeofOutcome_updated(162,2).
 patient(162,neg).
 
-%patient: IT-0003-003768
-Gender(163,2.0).
+%patient: IT-0003-003768 index:163
+Gender(163,f).
 Race(163,White).
-mobcat(163,2.0).
-PA3mcat(163,2.0).
-numberdoses(163,3.0).
+mobcat(163,2).
+PA3mcat(163,2).
+numberdoses(163,3).
 antiS_0(163,4.81).
 antiS_2(163,1220.0).
 antiS_6(163,97.2).
@@ -3306,19 +3306,19 @@ antiS_12(163,35300.0).
 deltaantiS02(163,1215.19).
 deltaantiS26(163,-1122.8).
 deltaantiS612(163,35202.8).
-WHO_f1(163,0.0).
-WHO_f2(163,0.0).
-WHO_f3(163,0.0).
-WHO_f4(163,0.0).
-TypeofOutcome_updated(163,2.0).
+WHO_f1(163,0).
+WHO_f2(163,0).
+WHO_f3(163,0).
+WHO_f4(163,0).
+TypeofOutcome_updated(163,2).
 patient(163,neg).
 
-%patient: IT-0003-003765
-Gender(164,1.0).
+%patient: IT-0003-003765 index:164
+Gender(164,m).
 Race(164,White).
-mobcat(164,3.0).
-PA3mcat(164,4.0).
-numberdoses(164,3.0).
+mobcat(164,3).
+PA3mcat(164,4).
+numberdoses(164,3).
 antiS_0(164,4.81).
 antiS_2(164,188.0).
 antiS_6(164,24.2).
@@ -3326,21 +3326,21 @@ antiS_12(164,1910.0).
 deltaantiS02(164,183.19).
 deltaantiS26(164,-163.8).
 deltaantiS612(164,1885.8).
-WHO_f1(164,0.0).
-WHO_f2(164,0.0).
-WHO_f3(164,0.0).
-WHO_f4(164,0.0).
-TypeofOutcome_updated(164,2.0).
+WHO_f1(164,0).
+WHO_f2(164,0).
+WHO_f3(164,0).
+WHO_f4(164,0).
+TypeofOutcome_updated(164,2).
 patient(164,neg).
 
-%patient: IT-0152-004891
-Gender(165,2.0).
+%patient: IT-0152-004891 index:165
+Gender(165,f).
 Race(165,White).
-numberdoses(165,2.0).
-totndrugs(165,3.0).
+numberdoses(165,2).
+totndrugs(165,3).
 depress01_tot(165).
 anxiety01_tot(165).
-Mmsumrev(165,2.0).
+Mmsumrev(165,2).
 antiS_0(165,4.81).
 antiS_2(165,1130.0).
 antiS_6(165,310.0).
@@ -3348,42 +3348,42 @@ antiS_12(165,32300.0).
 deltaantiS02(165,1125.19).
 deltaantiS26(165,-820.0).
 deltaantiS612(165,31990.0).
-WHO_f2(165,0.0).
-WHO_f3(165,0.0).
-WHO_f4(165,0.0).
-TypeofOutcome_updated(165,2.0).
+WHO_f2(165,0).
+WHO_f3(165,0).
+WHO_f4(165,0).
+TypeofOutcome_updated(165,2).
 patient(165,neg).
 
-%patient: IT-0050-004129
-Gender(166,2.0).
+%patient: IT-0050-004129 index:166
+Gender(166,f).
 Race(166,White).
-mobcat(166,0.0).
-PA3mcat(166,0.0).
-numberdoses(166,1.0).
-totndrugs(166,4.0).
+mobcat(166,0).
+PA3mcat(166,0).
+numberdoses(166,1).
+totndrugs(166,4).
 cogdis01_tot(166).
 thyrdis01_tot(166).
 epilepsia01_tot(166).
 anxiety01_tot(166).
-Mmsumrev(166,3.0).
+Mmsumrev(166,3).
 excovidtot(166).
 antiS_0(166,492.0).
 antiS_2(166,18700.0).
 antiS_6(166,1450.0).
 deltaantiS02(166,18208.0).
 deltaantiS26(166,-17250.0).
-WHO_f2(166,1.0).
-WHO_f3(166,0.0).
-TypeofOutcome_updated(166,2.0).
+WHO_f2(166,1).
+WHO_f3(166,0).
+TypeofOutcome_updated(166,2).
 patient(166,neg).
 
-%patient: IT-0043-005607
-Gender(167,1.0).
+%patient: IT-0043-005607 index:167
+Gender(167,m).
 Race(167,White).
-mobcat(167,0.0).
-PA3mcat(167,0.0).
-numberdoses(167,2.0).
-totndrugs(167,8.0).
+mobcat(167,0).
+PA3mcat(167,0).
+numberdoses(167,2).
+totndrugs(167,8).
 OAD01_tot(167).
 CVD01_tot(167).
 chrrespdis01_tot(167).
@@ -3401,16 +3401,16 @@ antiS_12(167,693.0).
 deltaantiS02(167,-330.0).
 deltaantiS26(167,-848.0).
 deltaantiS612(167,-209.0).
-TypeofOutcome_updated(167,2.0).
+TypeofOutcome_updated(167,2).
 patient(167,neg).
 
-%patient: IT-0043-005212
-Gender(168,2.0).
+%patient: IT-0043-005212 index:168
+Gender(168,f).
 Race(168,White).
-mobcat(168,4.0).
-PA3mcat(168,4.0).
-numberdoses(168,2.0).
-totndrugs(168,7.0).
+mobcat(168,4).
+PA3mcat(168,4).
+numberdoses(168,2).
+totndrugs(168,7).
 frailty01(168).
 OAD01_tot(168).
 HTA01_tot(168).
@@ -3418,7 +3418,7 @@ CVD01_tot(168).
 chrrespdis01_tot(168).
 depress01_tot(168).
 HD01_tot(168).
-Mmsumrev(168,7.0).
+Mmsumrev(168,7).
 excovidtot(168).
 antiS_0(168,467.0).
 antiS_2(168,389.0).
@@ -3427,39 +3427,39 @@ antiS_12(168,213.0).
 deltaantiS02(168,-78.0).
 deltaantiS26(168,-44.0).
 deltaantiS612(168,-132.0).
-WHO_f3(168,0.0).
-TypeofOutcome_updated(168,2.0).
+WHO_f3(168,0).
+TypeofOutcome_updated(168,2).
 patient(168,neg).
 
-%patient: IT-0052-005301
-Gender(169,2.0).
+%patient: IT-0052-005301 index:169
+Gender(169,f).
 Race(169,White).
-mobcat(169,1.0).
-PA3mcat(169,4.0).
-numberdoses(169,2.0).
-totndrugs(169,5.0).
+mobcat(169,1).
+PA3mcat(169,4).
+numberdoses(169,2).
+totndrugs(169,5).
 OAD01_tot(169).
 HTA01_tot(169).
 depress01_tot(169).
 cogdis01_tot(169).
-Mmsumrev(169,3.0).
+Mmsumrev(169,3).
 excovidtot(169).
 antiS_0(169,373.0).
 antiS_2(169,20200.0).
 antiS_6(169,11100.0).
 deltaantiS02(169,19827.0).
 deltaantiS26(169,-9100.0).
-WHO_f2(169,1.0).
-WHO_f3(169,0.0).
-TypeofOutcome_updated(169,2.0).
+WHO_f2(169,1).
+WHO_f3(169,0).
+TypeofOutcome_updated(169,2).
 patient(169,neg).
 
-%patient: IT-0043-005746
-Gender(170,1.0).
+%patient: IT-0043-005746 index:170
+Gender(170,m).
 Race(170,White).
-mobcat(170,0.0).
-PA3mcat(170,0.0).
-numberdoses(170,2.0).
+mobcat(170,0).
+PA3mcat(170,0).
+numberdoses(170,2).
 frailty01(170).
 HTA01_tot(170).
 PAD01_tot(170).
@@ -3467,7 +3467,7 @@ chrrespdis01_tot(170).
 depress01_tot(170).
 cogdis01_tot(170).
 urol01_tot(170).
-Mmsumrev(170,6.0).
+Mmsumrev(170,6).
 excovidtot(170).
 antiS_0(170,35.5).
 antiS_2(170,9400.0).
@@ -3476,20 +3476,20 @@ antiS_12(170,1980.0).
 deltaantiS02(170,9364.5).
 deltaantiS26(170,-5220.0).
 deltaantiS612(170,-2200.0).
-WHO_f3(170,0.0).
-TypeofOutcome_updated(170,2.0).
+WHO_f3(170,0).
+TypeofOutcome_updated(170,2).
 patient(170,neg).
 
-%patient: IT-0020-003774
-Gender(171,2.0).
+%patient: IT-0020-003774 index:171
+Gender(171,f).
 Race(171,White).
-mobcat(171,0.0).
-PA3mcat(171,2.0).
-numberdoses(171,3.0).
-totndrugs(171,0.0).
+mobcat(171,0).
+PA3mcat(171,2).
+numberdoses(171,3).
+totndrugs(171,0).
 HTA01_tot(171).
 depress01_tot(171).
-Mmsumrev(171,2.0).
+Mmsumrev(171,2).
 antiS_0(171,4.81).
 antiS_2(171,1740.0).
 antiS_6(171,258.0).
@@ -3497,23 +3497,23 @@ antiS_12(171,1430.0).
 deltaantiS02(171,1735.19).
 deltaantiS26(171,-1482.0).
 deltaantiS612(171,1172.0).
-WHO_f1(171,0.0).
-WHO_f2(171,0.0).
-WHO_f3(171,0.0).
-TypeofOutcome_updated(171,2.0).
+WHO_f1(171,0).
+WHO_f2(171,0).
+WHO_f3(171,0).
+TypeofOutcome_updated(171,2).
 patient(171,neg).
 
-%patient: IT-0039-003654
-Gender(172,2.0).
+%patient: IT-0039-003654 index:172
+Gender(172,f).
 Race(172,White).
-mobcat(172,0.0).
-PA3mcat(172,4.0).
-numberdoses(172,3.0).
-totndrugs(172,1.0).
+mobcat(172,0).
+PA3mcat(172,4).
+numberdoses(172,3).
+totndrugs(172,1).
 OAD01_tot(172).
 HTA01_tot(172).
 CVD01_tot(172).
-Mmsumrev(172,2.0).
+Mmsumrev(172,2).
 antiS_0(172,4.81).
 antiS_2(172,671.0).
 antiS_6(172,72.7).
@@ -3521,22 +3521,22 @@ antiS_12(172,1610.0).
 deltaantiS02(172,666.19).
 deltaantiS26(172,-598.3).
 deltaantiS612(172,1537.3).
-WHO_f1(172,0.0).
-WHO_f2(172,0.0).
-WHO_f3(172,0.0).
-TypeofOutcome_updated(172,2.0).
+WHO_f1(172,0).
+WHO_f2(172,0).
+WHO_f3(172,0).
+TypeofOutcome_updated(172,2).
 patient(172,neg).
 
-%patient: IT-0152-005464
-Gender(173,2.0).
+%patient: IT-0152-005464 index:173
+Gender(173,f).
 Race(173,White).
-mobcat(173,2.0).
-PA3mcat(173,2.0).
-numberdoses(173,2.0).
+mobcat(173,2).
+PA3mcat(173,2).
+numberdoses(173,2).
 cancer01(173).
 HTA01_tot(173).
 PAD01_tot(173).
-Mmsumrev(173,5.0).
+Mmsumrev(173,5).
 antiS_0(173,4.81).
 antiS_2(173,389.0).
 antiS_6(173,21.8).
@@ -3544,20 +3544,20 @@ antiS_12(173,694.0).
 deltaantiS02(173,384.19).
 deltaantiS26(173,-367.2).
 deltaantiS612(173,672.2).
-WHO_f2(173,0.0).
-WHO_f3(173,0.0).
-WHO_f4(173,0.0).
-TypeofOutcome_updated(173,2.0).
+WHO_f2(173,0).
+WHO_f3(173,0).
+WHO_f4(173,0).
+TypeofOutcome_updated(173,2).
 patient(173,neg).
 
-%patient: IT-0152-005465
-Gender(174,1.0).
+%patient: IT-0152-005465 index:174
+Gender(174,m).
 Race(174,White).
-numberdoses(174,2.0).
-totndrugs(174,3.0).
+numberdoses(174,2).
+totndrugs(174,3).
 HTA01_tot(174).
 depress01_tot(174).
-Mmsumrev(174,2.0).
+Mmsumrev(174,2).
 antiS_0(174,4.81).
 antiS_2(174,122.0).
 antiS_6(174,17.6).
@@ -3565,21 +3565,21 @@ antiS_12(174,42100.0).
 deltaantiS02(174,117.19).
 deltaantiS26(174,-104.4).
 deltaantiS612(174,42082.4).
-WHO_f2(174,0.0).
-WHO_f3(174,0.0).
-WHO_f4(174,0.0).
-TypeofOutcome_updated(174,2.0).
+WHO_f2(174,0).
+WHO_f3(174,0).
+WHO_f4(174,0).
+TypeofOutcome_updated(174,2).
 patient(174,neg).
 
-%patient: IT-0152-004893
-Gender(175,2.0).
+%patient: IT-0152-004893 index:175
+Gender(175,f).
 Race(175,White).
-numberdoses(175,2.0).
+numberdoses(175,2).
 HTA01_tot(175).
 CVD01_tot(175).
 depress01_tot(175).
 anxiety01_tot(175).
-Mmsumrev(175,3.0).
+Mmsumrev(175,3).
 antiS_0(175,4.81).
 antiS_2(175,1420.0).
 antiS_6(175,145.0).
@@ -3587,62 +3587,62 @@ antiS_12(175,40500.0).
 deltaantiS02(175,1415.19).
 deltaantiS26(175,-1275.0).
 deltaantiS612(175,40355.0).
-WHO_f2(175,0.0).
-WHO_f3(175,0.0).
-WHO_f4(175,0.0).
-TypeofOutcome_updated(175,2.0).
+WHO_f2(175,0).
+WHO_f3(175,0).
+WHO_f4(175,0).
+TypeofOutcome_updated(175,2).
 patient(175,neg).
 
-%patient: IT-0152-004894
-Gender(176,1.0).
+%patient: IT-0152-004894 index:176
+Gender(176,m).
 Race(176,White).
-numberdoses(176,1.0).
-totndrugs(176,3.0).
+numberdoses(176,1).
+totndrugs(176,3).
 CKD01(176).
 cogdis01_tot(176).
 anxiety01_tot(176).
-Mmsumrev(176,2.0).
+Mmsumrev(176,2).
 antiS_0(176,4.81).
 antiS_2(176,1250.0).
 antiS_6(176,108.0).
 deltaantiS02(176,1245.19).
 deltaantiS26(176,-1142.0).
-WHO_f2(176,0.0).
-WHO_f3(176,0.0).
-WHO_f4(176,0.0).
-TypeofOutcome_updated(176,2.0).
+WHO_f2(176,0).
+WHO_f3(176,0).
+WHO_f4(176,0).
+TypeofOutcome_updated(176,2).
 patient(176,neg).
 
-%patient: IT-0152-004895
-Gender(177,2.0).
+%patient: IT-0152-004895 index:177
+Gender(177,f).
 Race(177,White).
-numberdoses(177,1.0).
-totndrugs(177,5.0).
+numberdoses(177,1).
+totndrugs(177,5).
 OAD01_tot(177).
 HTA01_tot(177).
-Mmsumrev(177,3.0).
+Mmsumrev(177,3).
 antiS_0(177,4.81).
 antiS_2(177,1930.0).
 antiS_6(177,291.0).
 deltaantiS02(177,1925.19).
 deltaantiS26(177,-1639.0).
-WHO_f2(177,0.0).
-WHO_f3(177,0.0).
-WHO_f4(177,0.0).
-TypeofOutcome_updated(177,2.0).
+WHO_f2(177,0).
+WHO_f3(177,0).
+WHO_f4(177,0).
+TypeofOutcome_updated(177,2).
 patient(177,neg).
 
-%patient: IT-0152-004897
-Gender(178,1.0).
+%patient: IT-0152-004897 index:178
+Gender(178,m).
 Race(178,Other or unknown).
-numberdoses(178,2.0).
-totndrugs(178,12.0).
+numberdoses(178,2).
+totndrugs(178,12).
 CKD01(178).
 HTA01_tot(178).
 CVD01_tot(178).
 anxiety01_tot(178).
 HD01_tot(178).
-Mmsumrev(178,5.0).
+Mmsumrev(178,5).
 antiS_0(178,4.81).
 antiS_2(178,1400.0).
 antiS_6(178,121.0).
@@ -3650,21 +3650,21 @@ antiS_12(178,18500.0).
 deltaantiS02(178,1395.19).
 deltaantiS26(178,-1279.0).
 deltaantiS612(178,18379.0).
-WHO_f2(178,0.0).
-WHO_f3(178,0.0).
-WHO_f4(178,0.0).
-TypeofOutcome_updated(178,2.0).
+WHO_f2(178,0).
+WHO_f3(178,0).
+WHO_f4(178,0).
+TypeofOutcome_updated(178,2).
 patient(178,neg).
 
-%patient: IT-0143-004272
-Gender(179,2.0).
+%patient: IT-0143-004272 index:179
+Gender(179,f).
 Race(179,White).
-numberdoses(179,2.0).
-totndrugs(179,2.0).
+numberdoses(179,2).
+totndrugs(179,2).
 OAD01_tot(179).
 HTA01_tot(179).
 cogdis01_tot(179).
-Mmsumrev(179,2.0).
+Mmsumrev(179,2).
 antiS_0(179,4.81).
 antiS_2(179,1110.0).
 antiS_6(179,425.0).
@@ -3672,23 +3672,23 @@ antiS_12(179,2230.0).
 deltaantiS02(179,1105.19).
 deltaantiS26(179,-685.0).
 deltaantiS612(179,1805.0).
-WHO_f2(179,0.0).
-WHO_f3(179,0.0).
-WHO_f4(179,0.0).
-TypeofOutcome_updated(179,2.0).
+WHO_f2(179,0).
+WHO_f3(179,0).
+WHO_f4(179,0).
+TypeofOutcome_updated(179,2).
 patient(179,neg).
 
-%patient: IT-0016-006013
-Gender(180,2.0).
+%patient: IT-0016-006013 index:180
+Gender(180,f).
 Race(180,White).
-mobcat(180,4.0).
-PA3mcat(180,4.0).
-numberdoses(180,3.0).
-totndrugs(180,2.0).
+mobcat(180,4).
+PA3mcat(180,4).
+numberdoses(180,3).
+totndrugs(180,2).
 OAD01_tot(180).
 HTA01_tot(180).
 cogdis01_tot(180).
-Mmsumrev(180,2.0).
+Mmsumrev(180,2).
 antiS_0(180,4.81).
 antiS_2(180,3110.0).
 antiS_6(180,95.0).
@@ -3696,20 +3696,20 @@ antiS_12(180,931.0).
 deltaantiS02(180,3105.19).
 deltaantiS26(180,-3015.0).
 deltaantiS612(180,836.0).
-WHO_f1(180,0.0).
-WHO_f2(180,0.0).
-WHO_f3(180,0.0).
-WHO_f4(180,0.0).
-TypeofOutcome_updated(180,2.0).
+WHO_f1(180,0).
+WHO_f2(180,0).
+WHO_f3(180,0).
+WHO_f4(180,0).
+TypeofOutcome_updated(180,2).
 patient(180,neg).
 
-%patient: IT-0143-003908
-Gender(181,2.0).
+%patient: IT-0143-003908 index:181
+Gender(181,f).
 Race(181,White).
-mobcat(181,1.0).
-PA3mcat(181,4.0).
-numberdoses(181,2.0).
-totndrugs(181,13.0).
+mobcat(181,1).
+PA3mcat(181,4).
+numberdoses(181,2).
+totndrugs(181,13).
 frailty01(181).
 HTA01_tot(181).
 CVD01_tot(181).
@@ -3717,7 +3717,7 @@ depress01_tot(181).
 cogdis01_tot(181).
 thyrdis01_tot(181).
 epilepsia01_tot(181).
-Mmsumrev(181,4.0).
+Mmsumrev(181,4).
 excovidtot(181).
 antiS_0(181,117.0).
 antiS_2(181,2770.0).
@@ -3726,25 +3726,25 @@ antiS_12(181,1490.0).
 deltaantiS02(181,2653.0).
 deltaantiS26(181,-2088.0).
 deltaantiS612(181,808.0).
-WHO_f2(181,0.0).
-WHO_f3(181,0.0).
-WHO_f4(181,0.0).
-TypeofOutcome_updated(181,2.0).
+WHO_f2(181,0).
+WHO_f3(181,0).
+WHO_f4(181,0).
+TypeofOutcome_updated(181,2).
 patient(181,neg).
 
-%patient: IT-0143-003913
-Gender(182,1.0).
+%patient: IT-0143-003913 index:182
+Gender(182,m).
 Race(182,White).
-mobcat(182,3.0).
-PA3mcat(182,4.0).
-numberdoses(182,2.0).
-totndrugs(182,11.0).
+mobcat(182,3).
+PA3mcat(182,4).
+numberdoses(182,2).
+totndrugs(182,11).
 CVD01_tot(182).
 depress01_tot(182).
 cogdis01_tot(182).
 epilepsia01_tot(182).
 HD01_tot(182).
-Mmsumrev(182,5.0).
+Mmsumrev(182,5).
 excovidtot(182).
 antiS_0(182,406.0).
 antiS_2(182,4310.0).
@@ -3753,24 +3753,24 @@ antiS_12(182,2630.0).
 deltaantiS02(182,3904.0).
 deltaantiS26(182,-3260.0).
 deltaantiS612(182,1580.0).
-WHO_f2(182,0.0).
-WHO_f3(182,0.0).
-WHO_f4(182,0.0).
-TypeofOutcome_updated(182,2.0).
+WHO_f2(182,0).
+WHO_f3(182,0).
+WHO_f4(182,0).
+TypeofOutcome_updated(182,2).
 patient(182,neg).
 
-%patient: IT-0143-003914
-Gender(183,1.0).
+%patient: IT-0143-003914 index:183
+Gender(183,m).
 Race(183,White).
-mobcat(183,2.0).
-PA3mcat(183,2.0).
-numberdoses(183,2.0).
-totndrugs(183,4.0).
+mobcat(183,2).
+PA3mcat(183,2).
+numberdoses(183,2).
+totndrugs(183,4).
 frailty01(183).
 HTA01_tot(183).
 depress01_tot(183).
 cogdis01_tot(183).
-Mmsumrev(183,2.0).
+Mmsumrev(183,2).
 excovidtot(183).
 antiS_0(183,548.0).
 antiS_2(183,38500.0).
@@ -3779,19 +3779,19 @@ antiS_12(183,22600.0).
 deltaantiS02(183,37952.0).
 deltaantiS26(183,-32460.0).
 deltaantiS612(183,16560.0).
-WHO_f2(183,0.0).
-WHO_f3(183,0.0).
-WHO_f4(183,0.0).
-TypeofOutcome_updated(183,2.0).
+WHO_f2(183,0).
+WHO_f3(183,0).
+WHO_f4(183,0).
+TypeofOutcome_updated(183,2).
 patient(183,neg).
 
-%patient: IT-0143-003916
-Gender(184,2.0).
+%patient: IT-0143-003916 index:184
+Gender(184,f).
 Race(184,White).
-mobcat(184,1.0).
-PA3mcat(184,4.0).
-numberdoses(184,3.0).
-totndrugs(184,13.0).
+mobcat(184,1).
+PA3mcat(184,4).
+numberdoses(184,3).
+totndrugs(184,13).
 frailty01(184).
 OAD01_tot(184).
 HTA01_tot(184).
@@ -3800,7 +3800,7 @@ depress01_tot(184).
 park01_tot(184).
 epilepsia01_tot(184).
 HD01_tot(184).
-Mmsumrev(184,7.0).
+Mmsumrev(184,7).
 antiS_0(184,4.81).
 antiS_2(184,174.0).
 antiS_6(184,20.7).
@@ -3808,27 +3808,27 @@ antiS_12(184,1460.0).
 deltaantiS02(184,169.19).
 deltaantiS26(184,-153.3).
 deltaantiS612(184,1439.3).
-WHO_f1(184,0.0).
-WHO_f2(184,0.0).
-WHO_f3(184,0.0).
-WHO_f4(184,0.0).
-TypeofOutcome_updated(184,2.0).
+WHO_f1(184,0).
+WHO_f2(184,0).
+WHO_f3(184,0).
+WHO_f4(184,0).
+TypeofOutcome_updated(184,2).
 patient(184,neg).
 
-%patient: IT-0143-003921
-Gender(185,2.0).
+%patient: IT-0143-003921 index:185
+Gender(185,f).
 Race(185,White).
-mobcat(185,1.0).
-PA3mcat(185,4.0).
-numberdoses(185,3.0).
-totndrugs(185,8.0).
+mobcat(185,1).
+PA3mcat(185,4).
+numberdoses(185,3).
+totndrugs(185,8).
 frailty01(185).
 OAD01_tot(185).
 HTA01_tot(185).
 CVD01_tot(185).
 park01_tot(185).
 HD01_tot(185).
-Mmsumrev(185,6.0).
+Mmsumrev(185,6).
 antiS_0(185,4.81).
 antiS_2(185,153.0).
 antiS_6(185,24.1).
@@ -3836,20 +3836,20 @@ antiS_12(185,1560.0).
 deltaantiS02(185,148.19).
 deltaantiS26(185,-128.9).
 deltaantiS612(185,1535.9).
-WHO_f1(185,0.0).
-WHO_f2(185,0.0).
-WHO_f3(185,0.0).
-WHO_f4(185,0.0).
-TypeofOutcome_updated(185,2.0).
+WHO_f1(185,0).
+WHO_f2(185,0).
+WHO_f3(185,0).
+WHO_f4(185,0).
+TypeofOutcome_updated(185,2).
 patient(185,neg).
 
-%patient: IT-0143-003910
-Gender(186,1.0).
+%patient: IT-0143-003910 index:186
+Gender(186,m).
 Race(186,White).
-mobcat(186,0.0).
-PA3mcat(186,2.0).
-numberdoses(186,2.0).
-totndrugs(186,6.0).
+mobcat(186,0).
+PA3mcat(186,2).
+numberdoses(186,2).
+totndrugs(186,6).
 frailty01(186).
 HTA01_tot(186).
 CVD01_tot(186).
@@ -3857,7 +3857,7 @@ chrrespdis01_tot(186).
 epilepsia01_tot(186).
 HD01_tot(186).
 urol01_tot(186).
-Mmsumrev(186,5.0).
+Mmsumrev(186,5).
 excovidtot(186).
 antiS_0(186,359.0).
 antiS_2(186,9740.0).
@@ -3866,19 +3866,19 @@ antiS_12(186,4700.0).
 deltaantiS02(186,9381.0).
 deltaantiS26(186,-7830.0).
 deltaantiS612(186,2790.0).
-WHO_f2(186,0.0).
-WHO_f3(186,0.0).
-WHO_f4(186,0.0).
-TypeofOutcome_updated(186,2.0).
+WHO_f2(186,0).
+WHO_f3(186,0).
+WHO_f4(186,0).
+TypeofOutcome_updated(186,2).
 patient(186,neg).
 
-%patient: IT-0143-003911
-Gender(187,2.0).
+%patient: IT-0143-003911 index:187
+Gender(187,f).
 Race(187,White).
-mobcat(187,2.0).
-PA3mcat(187,2.0).
-numberdoses(187,2.0).
-totndrugs(187,10.0).
+mobcat(187,2).
+PA3mcat(187,2).
+numberdoses(187,2).
+totndrugs(187,10).
 frailty01(187).
 HTA01_tot(187).
 CVD01_tot(187).
@@ -3886,7 +3886,7 @@ AF01_tot(187).
 obesity01_tot(187).
 depress01_tot(187).
 epilepsia01_tot(187).
-Mmsumrev(187,6.0).
+Mmsumrev(187,6).
 excovidtot(187).
 antiS_0(187,856.0).
 antiS_2(187,21200.0).
@@ -3895,26 +3895,26 @@ antiS_12(187,3940.0).
 deltaantiS02(187,20344.0).
 deltaantiS26(187,-19640.0).
 deltaantiS612(187,2380.0).
-WHO_f2(187,0.0).
-WHO_f3(187,0.0).
-WHO_f4(187,0.0).
-TypeofOutcome_updated(187,2.0).
+WHO_f2(187,0).
+WHO_f3(187,0).
+WHO_f4(187,0).
+TypeofOutcome_updated(187,2).
 patient(187,neg).
 
-%patient: IT-0166-005351
-Gender(188,2.0).
+%patient: IT-0166-005351 index:188
+Gender(188,f).
 Race(188,Black).
-mobcat(188,1.0).
-PA3mcat(188,4.0).
-numberdoses(188,3.0).
-totndrugs(188,4.0).
+mobcat(188,1).
+PA3mcat(188,4).
+numberdoses(188,3).
+totndrugs(188,4).
 CKD01(188).
 HTA01_tot(188).
 CVD01_tot(188).
 chrrespdis01_tot(188).
 cogdis01_tot(188).
 HD01_tot(188).
-Mmsumrev(188,5.0).
+Mmsumrev(188,5).
 excovidtot(188).
 antiS_0(188,15.7).
 antiS_2(188,26500.0).
@@ -3923,20 +3923,20 @@ antiS_12(188,11900.0).
 deltaantiS02(188,26484.3).
 deltaantiS26(188,-22530.0).
 deltaantiS612(188,7930.0).
-WHO_f1(188,0.0).
-WHO_f2(188,0.0).
-WHO_f3(188,0.0).
-WHO_f4(188,0.0).
-TypeofOutcome_updated(188,2.0).
+WHO_f1(188,0).
+WHO_f2(188,0).
+WHO_f3(188,0).
+WHO_f4(188,0).
+TypeofOutcome_updated(188,2).
 patient(188,neg).
 
-%patient: IT-0042-003695
-Gender(189,2.0).
+%patient: IT-0042-003695 index:189
+Gender(189,f).
 Race(189,White).
-mobcat(189,5.0).
-PA3mcat(189,4.0).
-numberdoses(189,3.0).
-totndrugs(189,5.0).
+mobcat(189,5).
+PA3mcat(189,4).
+numberdoses(189,3).
+totndrugs(189,5).
 frailty01(189).
 OAD01_tot(189).
 HTA01_tot(189).
@@ -3947,7 +3947,7 @@ depress01_tot(189).
 cogdis01_tot(189).
 epilepsia01_tot(189).
 HD01_tot(189).
-Mmsumrev(189,7.0).
+Mmsumrev(189,7).
 antiS_0(189,4.81).
 antiS_2(189,795.0).
 antiS_6(189,57.5).
@@ -3955,27 +3955,27 @@ antiS_12(189,9240.0).
 deltaantiS02(189,790.19).
 deltaantiS26(189,-737.5).
 deltaantiS612(189,9182.5).
-WHO_f1(189,0.0).
-WHO_f2(189,0.0).
-WHO_f3(189,0.0).
-WHO_f4(189,0.0).
-TypeofOutcome_updated(189,2.0).
+WHO_f1(189,0).
+WHO_f2(189,0).
+WHO_f3(189,0).
+WHO_f4(189,0).
+TypeofOutcome_updated(189,2).
 patient(189,neg).
 
-%patient: IT-0044-003672
-Gender(190,1.0).
+%patient: IT-0044-003672 index:190
+Gender(190,m).
 Race(190,White).
-mobcat(190,1.0).
-PA3mcat(190,2.0).
-numberdoses(190,2.0).
-totndrugs(190,7.0).
+mobcat(190,1).
+PA3mcat(190,2).
+numberdoses(190,2).
+totndrugs(190,7).
 frailty01(190).
 OAD01_tot(190).
 HTA01_tot(190).
 CVD01_tot(190).
 depress01_tot(190).
 epilepsia01_tot(190).
-Mmsumrev(190,4.0).
+Mmsumrev(190,4).
 excovidtot(190).
 antiS_0(190,215.0).
 antiS_2(190,5240.0).
@@ -3984,24 +3984,24 @@ antiS_12(190,1950.0).
 deltaantiS02(190,5025.0).
 deltaantiS26(190,-3650.0).
 deltaantiS612(190,360.0).
-WHO_f3(190,0.0).
-WHO_f4(190,0.0).
-TypeofOutcome_updated(190,2.0).
+WHO_f3(190,0).
+WHO_f4(190,0).
+TypeofOutcome_updated(190,2).
 patient(190,neg).
 
-%patient: IT-0044-003665
-Gender(191,2.0).
+%patient: IT-0044-003665 index:191
+Gender(191,f).
 Race(191,White).
-mobcat(191,1.0).
-PA3mcat(191,4.0).
-numberdoses(191,2.0).
-totndrugs(191,7.0).
+mobcat(191,1).
+PA3mcat(191,4).
+numberdoses(191,2).
+totndrugs(191,7).
 frailty01(191).
 CKD01(191).
 OAD01_tot(191).
 HTA01_tot(191).
 cogdis01_tot(191).
-Mmsumrev(191,4.0).
+Mmsumrev(191,4).
 excovidtot(191).
 antiS_0(191,55.2).
 antiS_2(191,3100.0).
@@ -4010,18 +4010,18 @@ antiS_12(191,4140.0).
 deltaantiS02(191,3044.8).
 deltaantiS26(191,-2759.0).
 deltaantiS612(191,3799.0).
-WHO_f3(191,0.0).
-WHO_f4(191,0.0).
-TypeofOutcome_updated(191,2.0).
+WHO_f3(191,0).
+WHO_f4(191,0).
+TypeofOutcome_updated(191,2).
 patient(191,neg).
 
-%patient: IT-0044-003666
-Gender(192,1.0).
+%patient: IT-0044-003666 index:192
+Gender(192,m).
 Race(192,White).
-mobcat(192,5.0).
-PA3mcat(192,4.0).
-numberdoses(192,3.0).
-totndrugs(192,8.0).
+mobcat(192,5).
+PA3mcat(192,4).
+numberdoses(192,3).
+totndrugs(192,8).
 HTA01_tot(192).
 depress01_tot(192).
 cogdis01_tot(192).
@@ -4029,7 +4029,7 @@ park01_tot(192).
 thyrdis01_tot(192).
 epilepsia01_tot(192).
 urol01_tot(192).
-Mmsumrev(192,7.0).
+Mmsumrev(192,7).
 excovidtot(192).
 antiS_0(192,152.0).
 antiS_2(192,1600.0).
@@ -4038,19 +4038,19 @@ antiS_12(192,39200.0).
 deltaantiS02(192,1448.0).
 deltaantiS26(192,-1205.0).
 deltaantiS612(192,38805.0).
-WHO_f2(192,0.0).
-WHO_f3(192,0.0).
-WHO_f4(192,0.0).
-TypeofOutcome_updated(192,2.0).
+WHO_f2(192,0).
+WHO_f3(192,0).
+WHO_f4(192,0).
+TypeofOutcome_updated(192,2).
 patient(192,neg).
 
-%patient: IT-0044-003673
-Gender(193,2.0).
+%patient: IT-0044-003673 index:193
+Gender(193,f).
 Race(193,White).
-mobcat(193,0.0).
-PA3mcat(193,0.0).
-numberdoses(193,3.0).
-totndrugs(193,7.0).
+mobcat(193,0).
+PA3mcat(193,0).
+numberdoses(193,3).
+totndrugs(193,7).
 OAD01_tot(193).
 HTA01_tot(193).
 CVD01_tot(193).
@@ -4058,7 +4058,7 @@ cogdis01_tot(193).
 park01_tot(193).
 epilepsia01_tot(193).
 HD01_tot(193).
-Mmsumrev(193,5.0).
+Mmsumrev(193,5).
 antiS_0(193,4.81).
 antiS_2(193,1300.0).
 antiS_6(193,199.0).
@@ -4066,19 +4066,19 @@ antiS_12(193,41400.0).
 deltaantiS02(193,1295.19).
 deltaantiS26(193,-1101.0).
 deltaantiS612(193,41201.0).
-WHO_f2(193,0.0).
-WHO_f3(193,0.0).
-WHO_f4(193,0.0).
-TypeofOutcome_updated(193,2.0).
+WHO_f2(193,0).
+WHO_f3(193,0).
+WHO_f4(193,0).
+TypeofOutcome_updated(193,2).
 patient(193,neg).
 
-%patient: IT-0015-000530
-Gender(194,1.0).
+%patient: IT-0015-000530 index:194
+Gender(194,m).
 Race(194,White).
-mobcat(194,0.0).
-PA3mcat(194,1.0).
-numberdoses(194,3.0).
-totndrugs(194,7.0).
+mobcat(194,0).
+PA3mcat(194,1).
+numberdoses(194,3).
+totndrugs(194,7).
 frailty01(194).
 CKD01(194).
 poornut01(194).
@@ -4086,7 +4086,7 @@ HTA01_tot(194).
 depress01_tot(194).
 cogdis01_tot(194).
 urol01_tot(194).
-Mmsumrev(194,5.0).
+Mmsumrev(194,5).
 antiS_0(194,4.81).
 antiS_2(194,1550.0).
 antiS_6(194,81.2).
@@ -4094,26 +4094,26 @@ antiS_12(194,1800.0).
 deltaantiS02(194,1545.19).
 deltaantiS26(194,-1468.8).
 deltaantiS612(194,1718.8).
-WHO_f1(194,0.0).
-WHO_f2(194,0.0).
-WHO_f3(194,0.0).
-WHO_f4(194,0.0).
-TypeofOutcome_updated(194,2.0).
+WHO_f1(194,0).
+WHO_f2(194,0).
+WHO_f3(194,0).
+WHO_f4(194,0).
+TypeofOutcome_updated(194,2).
 patient(194,neg).
 
-%patient: IT-0015-000554
-Gender(195,2.0).
+%patient: IT-0015-000554 index:195
+Gender(195,f).
 Race(195,White).
-mobcat(195,2.0).
-PA3mcat(195,1.0).
-numberdoses(195,3.0).
-totndrugs(195,4.0).
+mobcat(195,2).
+PA3mcat(195,1).
+numberdoses(195,3).
+totndrugs(195,4).
 poornut01(195).
 OAD01_tot(195).
 HTA01_tot(195).
 CVD01_tot(195).
 cogdis01_tot(195).
-Mmsumrev(195,2.0).
+Mmsumrev(195,2).
 antiS_0(195,4.81).
 antiS_2(195,1960.0).
 antiS_6(195,132.0).
@@ -4121,19 +4121,19 @@ antiS_12(195,9120.0).
 deltaantiS02(195,1955.19).
 deltaantiS26(195,-1828.0).
 deltaantiS612(195,8988.0).
-WHO_f2(195,0.0).
-WHO_f3(195,0.0).
-WHO_f4(195,0.0).
-TypeofOutcome_updated(195,2.0).
+WHO_f2(195,0).
+WHO_f3(195,0).
+WHO_f4(195,0).
+TypeofOutcome_updated(195,2).
 patient(195,neg).
 
-%patient: IT-0015-000714
-Gender(196,2.0).
+%patient: IT-0015-000714 index:196
+Gender(196,f).
 Race(196,White).
-mobcat(196,3.0).
-PA3mcat(196,4.0).
-numberdoses(196,3.0).
-totndrugs(196,8.0).
+mobcat(196,3).
+PA3mcat(196,4).
+numberdoses(196,3).
+totndrugs(196,8).
 OAD01_tot(196).
 HTA01_tot(196).
 CVD01_tot(196).
@@ -4141,7 +4141,7 @@ AF01_tot(196).
 chrrespdis01_tot(196).
 cogdis01_tot(196).
 HD01_tot(196).
-Mmsumrev(196,7.0).
+Mmsumrev(196,7).
 antiS_0(196,4.81).
 antiS_2(196,1590.0).
 antiS_6(196,280.0).
@@ -4149,26 +4149,26 @@ antiS_12(196,1010.0).
 deltaantiS02(196,1585.19).
 deltaantiS26(196,-1310.0).
 deltaantiS612(196,730.0).
-WHO_f2(196,0.0).
-WHO_f3(196,0.0).
-WHO_f4(196,0.0).
-TypeofOutcome_updated(196,2.0).
+WHO_f2(196,0).
+WHO_f3(196,0).
+WHO_f4(196,0).
+TypeofOutcome_updated(196,2).
 patient(196,neg).
 
-%patient: IT-0015-000918
-Gender(197,1.0).
+%patient: IT-0015-000918 index:197
+Gender(197,m).
 Race(197,White).
-mobcat(197,0.0).
-PA3mcat(197,1.0).
-numberdoses(197,3.0).
-totndrugs(197,7.0).
+mobcat(197,0).
+PA3mcat(197,1).
+numberdoses(197,3).
+totndrugs(197,7).
 OAD01_tot(197).
 CVD01_tot(197).
 chrrespdis01_tot(197).
 epilepsia01_tot(197).
 anxiety01_tot(197).
 HD01_tot(197).
-Mmsumrev(197,5.0).
+Mmsumrev(197,5).
 antiS_0(197,4.81).
 antiS_2(197,9120.0).
 antiS_6(197,103.0).
@@ -4176,24 +4176,24 @@ antiS_12(197,1480.0).
 deltaantiS02(197,9115.19).
 deltaantiS26(197,-9017.0).
 deltaantiS612(197,1377.0).
-WHO_f2(197,0.0).
-WHO_f3(197,0.0).
-WHO_f4(197,0.0).
-TypeofOutcome_updated(197,2.0).
+WHO_f2(197,0).
+WHO_f3(197,0).
+WHO_f4(197,0).
+TypeofOutcome_updated(197,2).
 patient(197,neg).
 
-%patient: IT-0015-001196
-Gender(198,2.0).
+%patient: IT-0015-001196 index:198
+Gender(198,f).
 Race(198,White).
-mobcat(198,3.0).
-PA3mcat(198,4.0).
-numberdoses(198,3.0).
-totndrugs(198,7.0).
+mobcat(198,3).
+PA3mcat(198,4).
+numberdoses(198,3).
+totndrugs(198,7).
 OAD01_tot(198).
 HTA01_tot(198).
 CVD01_tot(198).
 PAD01_tot(198).
-Mmsumrev(198,6.0).
+Mmsumrev(198,6).
 antiS_0(198,5.32).
 antiS_2(198,2080.0).
 antiS_6(198,862.0).
@@ -4201,19 +4201,19 @@ antiS_12(198,16100.0).
 deltaantiS02(198,2074.68).
 deltaantiS26(198,-1218.0).
 deltaantiS612(198,15238.0).
-WHO_f2(198,0.0).
-WHO_f3(198,0.0).
-WHO_f4(198,0.0).
-TypeofOutcome_updated(198,2.0).
+WHO_f2(198,0).
+WHO_f3(198,0).
+WHO_f4(198,0).
+TypeofOutcome_updated(198,2).
 patient(198,neg).
 
-%patient: IT-0015-001249
-Gender(199,1.0).
+%patient: IT-0015-001249 index:199
+Gender(199,m).
 Race(199,White).
-mobcat(199,2.0).
-PA3mcat(199,2.0).
-numberdoses(199,3.0).
-totndrugs(199,7.0).
+mobcat(199,2).
+PA3mcat(199,2).
+numberdoses(199,3).
+totndrugs(199,7).
 frailty01(199).
 CKD01(199).
 OAD01_tot(199).
@@ -4222,7 +4222,7 @@ depress01_tot(199).
 cogdis01_tot(199).
 anxiety01_tot(199).
 urol01_tot(199).
-Mmsumrev(199,7.0).
+Mmsumrev(199,7).
 antiS_0(199,4.81).
 antiS_2(199,1140.0).
 antiS_6(199,77.0).
@@ -4230,19 +4230,19 @@ antiS_12(199,11800.0).
 deltaantiS02(199,1135.19).
 deltaantiS26(199,-1063.0).
 deltaantiS612(199,11723.0).
-WHO_f2(199,0.0).
-WHO_f3(199,0.0).
-WHO_f4(199,0.0).
-TypeofOutcome_updated(199,2.0).
+WHO_f2(199,0).
+WHO_f3(199,0).
+WHO_f4(199,0).
+TypeofOutcome_updated(199,2).
 patient(199,neg).
 
-%patient: IT-0015-002604
-Gender(200,2.0).
+%patient: IT-0015-002604 index:200
+Gender(200,f).
 Race(200,White).
-mobcat(200,3.0).
-PA3mcat(200,4.0).
-numberdoses(200,3.0).
-totndrugs(200,0.0).
+mobcat(200,3).
+PA3mcat(200,4).
+numberdoses(200,3).
+totndrugs(200,0).
 CKD01(200).
 poornut01(200).
 OAD01_tot(200).
@@ -4252,33 +4252,33 @@ AF01_tot(200).
 chrrespdis01_tot(200).
 cogdis01_tot(200).
 HD01_tot(200).
-Mmsumrev(200,7.0).
+Mmsumrev(200,7).
 antiS_0(200,4.81).
 antiS_2(200,2050.0).
 antiS_6(200,103.0).
 deltaantiS02(200,2045.19).
 deltaantiS26(200,-1947.0).
-WHO_f1(200,0.0).
-WHO_f2(200,0.0).
-WHO_f3(200,0.0).
-WHO_f4(200,0.0).
-TypeofOutcome_updated(200,2.0).
+WHO_f1(200,0).
+WHO_f2(200,0).
+WHO_f3(200,0).
+WHO_f4(200,0).
+TypeofOutcome_updated(200,2).
 patient(200,neg).
 
-%patient: IT-0015-003864
-Gender(201,1.0).
+%patient: IT-0015-003864 index:201
+Gender(201,m).
 Race(201,White).
-mobcat(201,2.0).
-PA3mcat(201,2.0).
-numberdoses(201,3.0).
-totndrugs(201,4.0).
+mobcat(201,2).
+PA3mcat(201,2).
+numberdoses(201,3).
+totndrugs(201,4).
 CKD01(201).
 poornut01(201).
 HTA01_tot(201).
 cogdis01_tot(201).
 thyrdis01_tot(201).
 anxiety01_tot(201).
-Mmsumrev(201,4.0).
+Mmsumrev(201,4).
 antiS_0(201,4.81).
 antiS_2(201,186.0).
 antiS_6(201,150.0).
@@ -4286,42 +4286,42 @@ antiS_12(201,4430.0).
 deltaantiS02(201,181.19).
 deltaantiS26(201,-36.0).
 deltaantiS612(201,4280.0).
-WHO_f1(201,0.0).
-WHO_f2(201,0.0).
-WHO_f4(201,0.0).
-TypeofOutcome_updated(201,2.0).
+WHO_f1(201,0).
+WHO_f2(201,0).
+WHO_f4(201,0).
+TypeofOutcome_updated(201,2).
 patient(201,neg).
 
-%patient: IT-0015-003865
-Gender(202,1.0).
+%patient: IT-0015-003865 index:202
+Gender(202,m).
 Race(202,White).
-mobcat(202,1.0).
-PA3mcat(202,0.0).
-numberdoses(202,3.0).
-totndrugs(202,1.0).
+mobcat(202,1).
+PA3mcat(202,0).
+numberdoses(202,3).
+totndrugs(202,1).
 chrrespdis01_tot(202).
-Mmsumrev(202,2.0).
+Mmsumrev(202,2).
 antiS_0(202,4.81).
 antiS_2(202,1100.0).
 deltaantiS02(202,1095.19).
-WHO_f2(202,0.0).
-WHO_f4(202,0.0).
-TypeofOutcome_updated(202,2.0).
+WHO_f2(202,0).
+WHO_f4(202,0).
+TypeofOutcome_updated(202,2).
 patient(202,neg).
 
-%patient: IT-0015-003866
-Gender(203,2.0).
+%patient: IT-0015-003866 index:203
+Gender(203,f).
 Race(203,White).
-mobcat(203,3.0).
-PA3mcat(203,4.0).
-numberdoses(203,3.0).
+mobcat(203,3).
+PA3mcat(203,4).
+numberdoses(203,3).
 poornut01(203).
 HTA01_tot(203).
 CVD01_tot(203).
 cogdis01_tot(203).
 anxiety01_tot(203).
 HD01_tot(203).
-Mmsumrev(203,5.0).
+Mmsumrev(203,5).
 antiS_0(203,4.81).
 antiS_2(203,646.0).
 antiS_6(203,83.2).
@@ -4329,25 +4329,25 @@ antiS_12(203,4350.0).
 deltaantiS02(203,641.19).
 deltaantiS26(203,-562.8).
 deltaantiS612(203,4266.8).
-WHO_f2(203,0.0).
-WHO_f3(203,0.0).
-WHO_f4(203,0.0).
-TypeofOutcome_updated(203,2.0).
+WHO_f2(203,0).
+WHO_f3(203,0).
+WHO_f4(203,0).
+TypeofOutcome_updated(203,2).
 patient(203,neg).
 
-%patient: IT-0015-003868
-Gender(204,1.0).
+%patient: IT-0015-003868 index:204
+Gender(204,m).
 Race(204,White).
-mobcat(204,0.0).
-PA3mcat(204,1.0).
-numberdoses(204,3.0).
-totndrugs(204,7.0).
+mobcat(204,0).
+PA3mcat(204,1).
+numberdoses(204,3).
+totndrugs(204,7).
 HTA01_tot(204).
 CVD01_tot(204).
 cogdis01_tot(204).
 anxiety01_tot(204).
 HD01_tot(204).
-Mmsumrev(204,4.0).
+Mmsumrev(204,4).
 antiS_0(204,4.81).
 antiS_2(204,3430.0).
 antiS_6(204,237.0).
@@ -4355,24 +4355,24 @@ antiS_12(204,968.0).
 deltaantiS02(204,3425.19).
 deltaantiS26(204,-3193.0).
 deltaantiS612(204,731.0).
-WHO_f2(204,0.0).
-WHO_f3(204,0.0).
-WHO_f4(204,0.0).
-TypeofOutcome_updated(204,2.0).
+WHO_f2(204,0).
+WHO_f3(204,0).
+WHO_f4(204,0).
+TypeofOutcome_updated(204,2).
 patient(204,neg).
 
-%patient: IT-0015-003870
-Gender(205,2.0).
+%patient: IT-0015-003870 index:205
+Gender(205,f).
 Race(205,White).
-mobcat(205,3.0).
-PA3mcat(205,2.0).
-numberdoses(205,3.0).
-totndrugs(205,4.0).
+mobcat(205,3).
+PA3mcat(205,2).
+numberdoses(205,3).
+totndrugs(205,4).
 CKD01(205).
 poornut01(205).
 cogdis01_tot(205).
 anxiety01_tot(205).
-Mmsumrev(205,2.0).
+Mmsumrev(205,2).
 antiS_0(205,4.81).
 antiS_2(205,2040.0).
 antiS_6(205,122.0).
@@ -4380,19 +4380,19 @@ antiS_12(205,4570.0).
 deltaantiS02(205,2035.19).
 deltaantiS26(205,-1918.0).
 deltaantiS612(205,4448.0).
-WHO_f2(205,0.0).
-WHO_f3(205,0.0).
-WHO_f4(205,0.0).
-TypeofOutcome_updated(205,2.0).
+WHO_f2(205,0).
+WHO_f3(205,0).
+WHO_f4(205,0).
+TypeofOutcome_updated(205,2).
 patient(205,neg).
 
-%patient: IT-0015-003899
-Gender(206,2.0).
+%patient: IT-0015-003899 index:206
+Gender(206,f).
 Race(206,White).
-mobcat(206,3.0).
-PA3mcat(206,4.0).
-numberdoses(206,3.0).
-totndrugs(206,6.0).
+mobcat(206,3).
+PA3mcat(206,4).
+numberdoses(206,3).
+totndrugs(206,6).
 CKD01(206).
 poornut01(206).
 HTA01_tot(206).
@@ -4401,7 +4401,7 @@ depress01_tot(206).
 cogdis01_tot(206).
 anxiety01_tot(206).
 HD01_tot(206).
-Mmsumrev(206,5.0).
+Mmsumrev(206,5).
 antiS_0(206,4.81).
 antiS_2(206,1870.0).
 antiS_6(206,144.0).
@@ -4409,20 +4409,20 @@ antiS_12(206,27000.0).
 deltaantiS02(206,1865.19).
 deltaantiS26(206,-1726.0).
 deltaantiS612(206,26856.0).
-WHO_f1(206,0.0).
-WHO_f2(206,0.0).
-WHO_f3(206,0.0).
-WHO_f4(206,0.0).
-TypeofOutcome_updated(206,2.0).
+WHO_f1(206,0).
+WHO_f2(206,0).
+WHO_f3(206,0).
+WHO_f4(206,0).
+TypeofOutcome_updated(206,2).
 patient(206,neg).
 
-%patient: IT-0015-003900
-Gender(207,1.0).
+%patient: IT-0015-003900 index:207
+Gender(207,m).
 Race(207,White).
-mobcat(207,0.0).
-PA3mcat(207,1.0).
-numberdoses(207,3.0).
-totndrugs(207,8.0).
+mobcat(207,0).
+PA3mcat(207,1).
+numberdoses(207,3).
+totndrugs(207,8).
 CKD01(207).
 poornut01(207).
 HTA01_tot(207).
@@ -4431,7 +4431,7 @@ cogdis01_tot(207).
 park01_tot(207).
 anxiety01_tot(207).
 HD01_tot(207).
-Mmsumrev(207,6.0).
+Mmsumrev(207,6).
 antiS_0(207,4.81).
 antiS_2(207,7680.0).
 antiS_6(207,573.0).
@@ -4439,19 +4439,19 @@ antiS_12(207,1260.0).
 deltaantiS02(207,7675.19).
 deltaantiS26(207,-7107.0).
 deltaantiS612(207,687.0).
-WHO_f2(207,0.0).
-WHO_f3(207,0.0).
-WHO_f4(207,0.0).
-TypeofOutcome_updated(207,2.0).
+WHO_f2(207,0).
+WHO_f3(207,0).
+WHO_f4(207,0).
+TypeofOutcome_updated(207,2).
 patient(207,neg).
 
-%patient: IT-0015-003901
-Gender(208,1.0).
+%patient: IT-0015-003901 index:208
+Gender(208,m).
 Race(208,White).
-mobcat(208,0.0).
-PA3mcat(208,2.0).
-numberdoses(208,3.0).
-totndrugs(208,10.0).
+mobcat(208,0).
+PA3mcat(208,2).
+numberdoses(208,3).
+totndrugs(208,10).
 CKD01(208).
 poornut01(208).
 HTA01_tot(208).
@@ -4462,7 +4462,7 @@ depress01_tot(208).
 cogdis01_tot(208).
 park01_tot(208).
 HD01_tot(208).
-Mmsumrev(208,7.0).
+Mmsumrev(208,7).
 antiS_0(208,4.81).
 antiS_2(208,1290.0).
 antiS_6(208,69.1).
@@ -4470,18 +4470,18 @@ antiS_12(208,1370.0).
 deltaantiS02(208,1285.19).
 deltaantiS26(208,-1220.9).
 deltaantiS612(208,1300.9).
-WHO_f2(208,0.0).
-WHO_f3(208,0.0).
-WHO_f4(208,0.0).
-TypeofOutcome_updated(208,2.0).
+WHO_f2(208,0).
+WHO_f3(208,0).
+WHO_f4(208,0).
+TypeofOutcome_updated(208,2).
 patient(208,neg).
 
-%patient: IT-0015-003902
-Gender(209,1.0).
+%patient: IT-0015-003902 index:209
+Gender(209,m).
 Race(209,White).
-mobcat(209,1.0).
-PA3mcat(209,2.0).
-numberdoses(209,3.0).
+mobcat(209,1).
+PA3mcat(209,2).
+numberdoses(209,3).
 frailty01(209).
 CKD01(209).
 HTA01_tot(209).
@@ -4489,7 +4489,7 @@ depress01_tot(209).
 cogdis01_tot(209).
 anxiety01_tot(209).
 urol01_tot(209).
-Mmsumrev(209,6.0).
+Mmsumrev(209,6).
 antiS_0(209,4.81).
 antiS_2(209,723.0).
 antiS_6(209,57.2).
@@ -4497,19 +4497,19 @@ antiS_12(209,3030.0).
 deltaantiS02(209,718.19).
 deltaantiS26(209,-665.8).
 deltaantiS612(209,2972.8).
-WHO_f2(209,0.0).
-WHO_f3(209,0.0).
-WHO_f4(209,0.0).
-TypeofOutcome_updated(209,2.0).
+WHO_f2(209,0).
+WHO_f3(209,0).
+WHO_f4(209,0).
+TypeofOutcome_updated(209,2).
 patient(209,neg).
 
-%patient: IT-0015-003980
-Gender(210,2.0).
+%patient: IT-0015-003980 index:210
+Gender(210,f).
 Race(210,White).
-mobcat(210,3.0).
-PA3mcat(210,4.0).
-numberdoses(210,3.0).
-totndrugs(210,10.0).
+mobcat(210,3).
+PA3mcat(210,4).
+numberdoses(210,3).
+totndrugs(210,10).
 CKD01(210).
 liverdis01(210).
 OAD01_tot(210).
@@ -4518,22 +4518,22 @@ CVD01_tot(210).
 cogdis01_tot(210).
 anxiety01_tot(210).
 HD01_tot(210).
-Mmsumrev(210,8.0).
+Mmsumrev(210,8).
 antiS_0(210,4.81).
 antiS_6(210,166.0).
-WHO_f2(210,0.0).
-WHO_f3(210,0.0).
-WHO_f4(210,0.0).
-TypeofOutcome_updated(210,2.0).
+WHO_f2(210,0).
+WHO_f3(210,0).
+WHO_f4(210,0).
+TypeofOutcome_updated(210,2).
 patient(210,neg).
 
-%patient: IT-0015-003981
-Gender(211,2.0).
+%patient: IT-0015-003981 index:211
+Gender(211,f).
 Race(211,White).
-mobcat(211,1.0).
-PA3mcat(211,4.0).
-numberdoses(211,3.0).
-totndrugs(211,11.0).
+mobcat(211,1).
+PA3mcat(211,4).
+numberdoses(211,3).
+totndrugs(211,11).
 poornut01(211).
 OAD01_tot(211).
 HTA01_tot(211).
@@ -4544,28 +4544,28 @@ cogdis01_tot(211).
 thyrdis01_tot(211).
 anxiety01_tot(211).
 HD01_tot(211).
-Mmsumrev(211,7.0).
+Mmsumrev(211,7).
 antiS_0(211,4.81).
 antiS_2(211,1750.0).
 deltaantiS02(211,1745.19).
-WHO_f2(211,0.0).
-WHO_f3(211,0.0).
-WHO_f4(211,0.0).
-TypeofOutcome_updated(211,2.0).
+WHO_f2(211,0).
+WHO_f3(211,0).
+WHO_f4(211,0).
+TypeofOutcome_updated(211,2).
 patient(211,neg).
 
-%patient: IT-0015-003982
-Gender(212,2.0).
+%patient: IT-0015-003982 index:212
+Gender(212,f).
 Race(212,White).
-mobcat(212,1.0).
-PA3mcat(212,4.0).
-numberdoses(212,3.0).
-totndrugs(212,6.0).
+mobcat(212,1).
+PA3mcat(212,4).
+numberdoses(212,3).
+totndrugs(212,6).
 CKD01(212).
 OAD01_tot(212).
 cogdis01_tot(212).
 epilepsia01_tot(212).
-Mmsumrev(212,4.0).
+Mmsumrev(212,4).
 antiS_0(212,4.81).
 antiS_2(212,642.0).
 antiS_6(212,861.0).
@@ -4573,25 +4573,25 @@ antiS_12(212,3982.0).
 deltaantiS02(212,637.19).
 deltaantiS26(212,219.0).
 deltaantiS612(212,3121.0).
-WHO_f2(212,0.0).
-WHO_f3(212,0.0).
-WHO_f4(212,0.0).
-TypeofOutcome_updated(212,2.0).
+WHO_f2(212,0).
+WHO_f3(212,0).
+WHO_f4(212,0).
+TypeofOutcome_updated(212,2).
 patient(212,neg).
 
-%patient: IT-0015-003986
-Gender(213,2.0).
+%patient: IT-0015-003986 index:213
+Gender(213,f).
 Race(213,White).
-mobcat(213,1.0).
-PA3mcat(213,4.0).
-numberdoses(213,3.0).
+mobcat(213,1).
+PA3mcat(213,4).
+numberdoses(213,3).
 CKD01(213).
 OAD01_tot(213).
 HTA01_tot(213).
 CVD01_tot(213).
 cogdis01_tot(213).
 HD01_tot(213).
-Mmsumrev(213,7.0).
+Mmsumrev(213,7).
 antiS_0(213,4.81).
 antiS_2(213,2080.0).
 antiS_6(213,347.0).
@@ -4599,20 +4599,20 @@ antiS_12(213,141.0).
 deltaantiS02(213,2075.19).
 deltaantiS26(213,-1733.0).
 deltaantiS612(213,-206.0).
-WHO_f1(213,0.0).
-WHO_f2(213,0.0).
-WHO_f3(213,0.0).
-WHO_f4(213,0.0).
-TypeofOutcome_updated(213,2.0).
+WHO_f1(213,0).
+WHO_f2(213,0).
+WHO_f3(213,0).
+WHO_f4(213,0).
+TypeofOutcome_updated(213,2).
 patient(213,neg).
 
-%patient: IT-0016-000506
-Gender(214,2.0).
+%patient: IT-0016-000506 index:214
+Gender(214,f).
 Race(214,White).
-mobcat(214,3.0).
-PA3mcat(214,4.0).
-numberdoses(214,3.0).
-totndrugs(214,8.0).
+mobcat(214,3).
+PA3mcat(214,4).
+numberdoses(214,3).
+totndrugs(214,8).
 cancer01(214).
 OAD01_tot(214).
 HTA01_tot(214).
@@ -4621,7 +4621,7 @@ AF01_tot(214).
 depress01_tot(214).
 cogdis01_tot(214).
 HD01_tot(214).
-Mmsumrev(214,6.0).
+Mmsumrev(214,6).
 antiS_0(214,4.81).
 antiS_2(214,966.0).
 antiS_6(214,53.4).
@@ -4629,25 +4629,25 @@ antiS_12(214,38120.0).
 deltaantiS02(214,961.19).
 deltaantiS26(214,-912.6).
 deltaantiS612(214,38066.6).
-WHO_f2(214,0.0).
-WHO_f3(214,0.0).
-WHO_f4(214,0.0).
-TypeofOutcome_updated(214,2.0).
+WHO_f2(214,0).
+WHO_f3(214,0).
+WHO_f4(214,0).
+TypeofOutcome_updated(214,2).
 patient(214,neg).
 
-%patient: IT-0016-003676
-Gender(215,1.0).
+%patient: IT-0016-003676 index:215
+Gender(215,m).
 Race(215,White).
-mobcat(215,0.0).
-PA3mcat(215,1.0).
-numberdoses(215,3.0).
+mobcat(215,0).
+PA3mcat(215,1).
+numberdoses(215,3).
 OAD01_tot(215).
 HTA01_tot(215).
 chrrespdis01_tot(215).
 cogdis01_tot(215).
 anxiety01_tot(215).
 urol01_tot(215).
-Mmsumrev(215,5.0).
+Mmsumrev(215,5).
 antiS_0(215,4.81).
 antiS_2(215,994.0).
 antiS_6(215,154.0).
@@ -4655,23 +4655,23 @@ antiS_12(215,42330.0).
 deltaantiS02(215,989.19).
 deltaantiS26(215,-840.0).
 deltaantiS612(215,42176.0).
-WHO_f2(215,0.0).
-WHO_f3(215,0.0).
-WHO_f4(215,0.0).
-TypeofOutcome_updated(215,2.0).
+WHO_f2(215,0).
+WHO_f3(215,0).
+WHO_f4(215,0).
+TypeofOutcome_updated(215,2).
 patient(215,neg).
 
-%patient: IT-0021-001767
-Gender(216,2.0).
+%patient: IT-0021-001767 index:216
+Gender(216,f).
 Race(216,White).
-mobcat(216,3.0).
-PA3mcat(216,4.0).
-numberdoses(216,3.0).
-totndrugs(216,6.0).
+mobcat(216,3).
+PA3mcat(216,4).
+numberdoses(216,3).
+totndrugs(216,6).
 HTA01_tot(216).
 CVD01_tot(216).
 chrrespdis01_tot(216).
-Mmsumrev(216,2.0).
+Mmsumrev(216,2).
 antiS_0(216,4.81).
 antiS_2(216,725.0).
 antiS_6(216,129.0).
@@ -4679,19 +4679,19 @@ antiS_12(216,12100.0).
 deltaantiS02(216,720.19).
 deltaantiS26(216,-596.0).
 deltaantiS612(216,11971.0).
-WHO_f2(216,0.0).
-WHO_f3(216,0.0).
-WHO_f4(216,0.0).
-TypeofOutcome_updated(216,2.0).
+WHO_f2(216,0).
+WHO_f3(216,0).
+WHO_f4(216,0).
+TypeofOutcome_updated(216,2).
 patient(216,neg).
 
-%patient: IT-0021-002415
-Gender(217,1.0).
+%patient: IT-0021-002415 index:217
+Gender(217,m).
 Race(217,White).
-mobcat(217,3.0).
-PA3mcat(217,4.0).
-numberdoses(217,3.0).
-totndrugs(217,11.0).
+mobcat(217,3).
+PA3mcat(217,4).
+numberdoses(217,3).
+totndrugs(217,11).
 frailty01(217).
 CKD01(217).
 OAD01_tot(217).
@@ -4703,7 +4703,7 @@ chrrespdis01_tot(217).
 anxiety01_tot(217).
 HD01_tot(217).
 urol01_tot(217).
-Mmsumrev(217,11.0).
+Mmsumrev(217,11).
 antiS_0(217,4.81).
 antiS_2(217,1700.0).
 antiS_6(217,82.2).
@@ -4711,20 +4711,20 @@ antiS_12(217,1480.0).
 deltaantiS02(217,1695.19).
 deltaantiS26(217,-1617.8).
 deltaantiS612(217,1397.8).
-WHO_f1(217,0.0).
-WHO_f2(217,0.0).
-WHO_f3(217,0.0).
-WHO_f4(217,0.0).
-TypeofOutcome_updated(217,2.0).
+WHO_f1(217,0).
+WHO_f2(217,0).
+WHO_f3(217,0).
+WHO_f4(217,0).
+TypeofOutcome_updated(217,2).
 patient(217,neg).
 
-%patient: IT-0021-003840
-Gender(218,1.0).
+%patient: IT-0021-003840 index:218
+Gender(218,m).
 Race(218,White).
-mobcat(218,4.0).
-PA3mcat(218,4.0).
-numberdoses(218,3.0).
-totndrugs(218,6.0).
+mobcat(218,4).
+PA3mcat(218,4).
+numberdoses(218,3).
+totndrugs(218,6).
 frailty01(218).
 immunedis01(218).
 OAD01_tot(218).
@@ -4733,7 +4733,7 @@ CVD01_tot(218).
 chrrespdis01_tot(218).
 depress01_tot(218).
 HD01_tot(218).
-Mmsumrev(218,8.0).
+Mmsumrev(218,8).
 antiS_0(218,4.81).
 antiS_2(218,1190.0).
 antiS_6(218,220.0).
@@ -4741,20 +4741,20 @@ antiS_12(218,769.0).
 deltaantiS02(218,1185.19).
 deltaantiS26(218,-970.0).
 deltaantiS612(218,549.0).
-WHO_f1(218,0.0).
-WHO_f2(218,0.0).
-WHO_f3(218,0.0).
-WHO_f4(218,0.0).
-TypeofOutcome_updated(218,2.0).
+WHO_f1(218,0).
+WHO_f2(218,0).
+WHO_f3(218,0).
+WHO_f4(218,0).
+TypeofOutcome_updated(218,2).
 patient(218,neg).
 
-%patient: IT-0021-003842
-Gender(219,2.0).
+%patient: IT-0021-003842 index:219
+Gender(219,f).
 Race(219,White).
-mobcat(219,4.0).
-PA3mcat(219,4.0).
-numberdoses(219,3.0).
-totndrugs(219,6.0).
+mobcat(219,4).
+PA3mcat(219,4).
+numberdoses(219,3).
+totndrugs(219,6).
 frailty01(219).
 CKD01(219).
 liverdis01(219).
@@ -4772,18 +4772,18 @@ antiS_12(219,28400.0).
 deltaantiS02(219,1355.19).
 deltaantiS26(219,-1204.0).
 deltaantiS612(219,28244.0).
-WHO_f3(219,0.0).
-WHO_f4(219,0.0).
-TypeofOutcome_updated(219,2.0).
+WHO_f3(219,0).
+WHO_f4(219,0).
+TypeofOutcome_updated(219,2).
 patient(219,neg).
 
-%patient: IT-0042-003627
-Gender(220,2.0).
+%patient: IT-0042-003627 index:220
+Gender(220,f).
 Race(220,White).
-mobcat(220,1.0).
-PA3mcat(220,4.0).
-numberdoses(220,2.0).
-totndrugs(220,8.0).
+mobcat(220,1).
+PA3mcat(220,4).
+numberdoses(220,2).
+totndrugs(220,8).
 OAD01_tot(220).
 HTA01_tot(220).
 CVD01_tot(220).
@@ -4792,7 +4792,7 @@ chrrespdis01_tot(220).
 depress01_tot(220).
 cogdis01_tot(220).
 HD01_tot(220).
-Mmsumrev(220,6.0).
+Mmsumrev(220,6).
 excovidtot(220).
 antiS_0(220,355.0).
 antiS_2(220,13900.0).
@@ -4801,26 +4801,26 @@ antiS_12(220,4460.0).
 deltaantiS02(220,13545.0).
 deltaantiS26(220,-6170.0).
 deltaantiS612(220,-3270.0).
-WHO_f2(220,0.0).
-WHO_f3(220,0.0).
-WHO_f4(220,0.0).
-TypeofOutcome_updated(220,2.0).
+WHO_f2(220,0).
+WHO_f3(220,0).
+WHO_f4(220,0).
+TypeofOutcome_updated(220,2).
 patient(220,neg).
 
-%patient: IT-0042-003631
-Gender(221,2.0).
+%patient: IT-0042-003631 index:221
+Gender(221,f).
 Race(221,White).
-mobcat(221,4.0).
-PA3mcat(221,4.0).
-numberdoses(221,2.0).
-totndrugs(221,5.0).
+mobcat(221,4).
+PA3mcat(221,4).
+numberdoses(221,2).
+totndrugs(221,5).
 poornut01(221).
 OAD01_tot(221).
 HTA01_tot(221).
 CVD01_tot(221).
 PAD01_tot(221).
 cogdis01_tot(221).
-Mmsumrev(221,3.0).
+Mmsumrev(221,3).
 excovidtot(221).
 antiS_0(221,128.0).
 antiS_2(221,818.0).
@@ -4829,26 +4829,26 @@ antiS_12(221,1160.0).
 deltaantiS02(221,690.0).
 deltaantiS26(221,-98.0).
 deltaantiS612(221,440.0).
-WHO_f2(221,0.0).
-WHO_f3(221,0.0).
-WHO_f4(221,0.0).
-TypeofOutcome_updated(221,2.0).
+WHO_f2(221,0).
+WHO_f3(221,0).
+WHO_f4(221,0).
+TypeofOutcome_updated(221,2).
 patient(221,neg).
 
-%patient: IT-0042-003632
-Gender(222,2.0).
+%patient: IT-0042-003632 index:222
+Gender(222,f).
 Race(222,White).
-mobcat(222,3.0).
-PA3mcat(222,4.0).
-numberdoses(222,3.0).
-totndrugs(222,6.0).
+mobcat(222,3).
+PA3mcat(222,4).
+numberdoses(222,3).
+totndrugs(222,6).
 OAD01_tot(222).
 HTA01_tot(222).
 obesity01_tot(222).
 cogdis01_tot(222).
 thyrdis01_tot(222).
 epilepsia01_tot(222).
-Mmsumrev(222,5.0).
+Mmsumrev(222,5).
 antiS_0(222,4.81).
 antiS_2(222,979.0).
 antiS_6(222,1020.0).
@@ -4856,20 +4856,20 @@ antiS_12(222,2390.0).
 deltaantiS02(222,974.19).
 deltaantiS26(222,41.0).
 deltaantiS612(222,1370.0).
-WHO_f1(222,0.0).
-WHO_f2(222,0.0).
-WHO_f3(222,0.0).
-WHO_f4(222,0.0).
-TypeofOutcome_updated(222,2.0).
+WHO_f1(222,0).
+WHO_f2(222,0).
+WHO_f3(222,0).
+WHO_f4(222,0).
+TypeofOutcome_updated(222,2).
 patient(222,neg).
 
-%patient: IT-0042-003633
-Gender(223,2.0).
+%patient: IT-0042-003633 index:223
+Gender(223,f).
 Race(223,White).
-mobcat(223,2.0).
-PA3mcat(223,1.0).
-numberdoses(223,2.0).
-totndrugs(223,6.0).
+mobcat(223,2).
+PA3mcat(223,1).
+numberdoses(223,2).
+totndrugs(223,6).
 OAD01_tot(223).
 HTA01_tot(223).
 CVD01_tot(223).
@@ -4888,25 +4888,25 @@ antiS_12(223,3090.0).
 deltaantiS02(223,10633.0).
 deltaantiS26(223,-7550.0).
 deltaantiS612(223,-460.0).
-WHO_f2(223,0.0).
-WHO_f3(223,0.0).
-WHO_f4(223,0.0).
-TypeofOutcome_updated(223,2.0).
+WHO_f2(223,0).
+WHO_f3(223,0).
+WHO_f4(223,0).
+TypeofOutcome_updated(223,2).
 patient(223,neg).
 
-%patient: IT-0043-003646
-Gender(224,2.0).
+%patient: IT-0043-003646 index:224
+Gender(224,f).
 Race(224,White).
-mobcat(224,0.0).
-PA3mcat(224,2.0).
-numberdoses(224,3.0).
-totndrugs(224,0.0).
+mobcat(224,0).
+PA3mcat(224,2).
+numberdoses(224,3).
+totndrugs(224,0).
 CVD01_tot(224).
 chrrespdis01_tot(224).
 depress01_tot(224).
 cogdis01_tot(224).
 HD01_tot(224).
-Mmsumrev(224,3.0).
+Mmsumrev(224,3).
 antiS_0(224,4.81).
 antiS_2(224,1860.0).
 antiS_6(224,319.0).
@@ -4914,25 +4914,25 @@ antiS_12(224,3950.0).
 deltaantiS02(224,1855.19).
 deltaantiS26(224,-1541.0).
 deltaantiS612(224,3631.0).
-WHO_f1(224,0.0).
-WHO_f2(224,0.0).
-WHO_f3(224,0.0).
-WHO_f4(224,0.0).
-TypeofOutcome_updated(224,2.0).
+WHO_f1(224,0).
+WHO_f2(224,0).
+WHO_f3(224,0).
+WHO_f4(224,0).
+TypeofOutcome_updated(224,2).
 patient(224,neg).
 
-%patient: IT-0044-003663
-Gender(225,2.0).
+%patient: IT-0044-003663 index:225
+Gender(225,f).
 Race(225,White).
-mobcat(225,5.0).
-PA3mcat(225,4.0).
-numberdoses(225,2.0).
-totndrugs(225,4.0).
+mobcat(225,5).
+PA3mcat(225,4).
+numberdoses(225,2).
+totndrugs(225,4).
 OAD01_tot(225).
 HTA01_tot(225).
 obesity01_tot(225).
 cogdis01_tot(225).
-Mmsumrev(225,4.0).
+Mmsumrev(225,4).
 excovidtot(225).
 antiS_0(225,31.3).
 antiS_2(225,946.0).
@@ -4941,23 +4941,23 @@ antiS_12(225,8540.0).
 deltaantiS02(225,914.7).
 deltaantiS26(225,-334.0).
 deltaantiS612(225,7928.0).
-WHO_f2(225,0.0).
-WHO_f3(225,0.0).
-WHO_f4(225,0.0).
-TypeofOutcome_updated(225,2.0).
+WHO_f2(225,0).
+WHO_f3(225,0).
+WHO_f4(225,0).
+TypeofOutcome_updated(225,2).
 patient(225,neg).
 
-%patient: IT-0044-003664
-Gender(226,2.0).
+%patient: IT-0044-003664 index:226
+Gender(226,f).
 Race(226,White).
-mobcat(226,3.0).
-PA3mcat(226,2.0).
-numberdoses(226,2.0).
-totndrugs(226,3.0).
+mobcat(226,3).
+PA3mcat(226,2).
+numberdoses(226,2).
+totndrugs(226,3).
 HTA01_tot(226).
 cogdis01_tot(226).
 anxiety01_tot(226).
-Mmsumrev(226,2.0).
+Mmsumrev(226,2).
 excovidtot(226).
 antiS_0(226,664.0).
 antiS_2(226,1780.0).
@@ -4966,25 +4966,25 @@ antiS_12(226,10300.0).
 deltaantiS02(226,1116.0).
 deltaantiS26(226,-70.0).
 deltaantiS612(226,8590.0).
-WHO_f2(226,0.0).
-WHO_f3(226,0.0).
-WHO_f4(226,0.0).
-TypeofOutcome_updated(226,2.0).
+WHO_f2(226,0).
+WHO_f3(226,0).
+WHO_f4(226,0).
+TypeofOutcome_updated(226,2).
 patient(226,neg).
 
-%patient: IT-0044-004231
-Gender(227,2.0).
+%patient: IT-0044-004231 index:227
+Gender(227,f).
 Race(227,White).
-mobcat(227,2.0).
-PA3mcat(227,1.0).
-numberdoses(227,2.0).
-totndrugs(227,8.0).
+mobcat(227,2).
+PA3mcat(227,1).
+numberdoses(227,2).
+totndrugs(227,8).
 frailty01(227).
 OAD01_tot(227).
 depress01_tot(227).
 cogdis01_tot(227).
 epilepsia01_tot(227).
-Mmsumrev(227,3.0).
+Mmsumrev(227,3).
 excovidtot(227).
 antiS_0(227,492.0).
 antiS_2(227,16800.0).
@@ -4993,19 +4993,19 @@ antiS_12(227,21000.0).
 deltaantiS02(227,16308.0).
 deltaantiS26(227,-13670.0).
 deltaantiS612(227,17870.0).
-WHO_f2(227,0.0).
-WHO_f3(227,0.0).
-WHO_f4(227,0.0).
-TypeofOutcome_updated(227,2.0).
+WHO_f2(227,0).
+WHO_f3(227,0).
+WHO_f4(227,0).
+TypeofOutcome_updated(227,2).
 patient(227,neg).
 
-%patient: IT-0044-004232
-Gender(228,2.0).
+%patient: IT-0044-004232 index:228
+Gender(228,f).
 Race(228,White).
-mobcat(228,4.0).
-PA3mcat(228,4.0).
-numberdoses(228,2.0).
-totndrugs(228,8.0).
+mobcat(228,4).
+PA3mcat(228,4).
+numberdoses(228,2).
+totndrugs(228,8).
 frailty01(228).
 OAD01_tot(228).
 HTA01_tot(228).
@@ -5013,7 +5013,7 @@ chrrespdis01_tot(228).
 obesity01_tot(228).
 depress01_tot(228).
 epilepsia01_tot(228).
-Mmsumrev(228,6.0).
+Mmsumrev(228,6).
 excovidtot(228).
 antiS_0(228,366.0).
 antiS_2(228,2950.0).
@@ -5022,19 +5022,19 @@ antiS_12(228,3820.0).
 deltaantiS02(228,2584.0).
 deltaantiS26(228,-2003.0).
 deltaantiS612(228,2873.0).
-WHO_f2(228,0.0).
-WHO_f3(228,0.0).
-WHO_f4(228,0.0).
-TypeofOutcome_updated(228,2.0).
+WHO_f2(228,0).
+WHO_f3(228,0).
+WHO_f4(228,0).
+TypeofOutcome_updated(228,2).
 patient(228,neg).
 
-%patient: IT-0044-004234
-Gender(229,2.0).
+%patient: IT-0044-004234 index:229
+Gender(229,f).
 Race(229,White).
-mobcat(229,5.0).
-PA3mcat(229,4.0).
-numberdoses(229,2.0).
-totndrugs(229,11.0).
+mobcat(229,5).
+PA3mcat(229,4).
+numberdoses(229,2).
+totndrugs(229,11).
 frailty01(229).
 CKD01(229).
 poornut01(229).
@@ -5044,7 +5044,7 @@ CVD01_tot(229).
 PAD01_tot(229).
 cogdis01_tot(229).
 HD01_tot(229).
-Mmsumrev(229,6.0).
+Mmsumrev(229,6).
 excovidtot(229).
 antiS_0(229,365.0).
 antiS_2(229,3010.0).
@@ -5053,23 +5053,23 @@ antiS_12(229,1490.0).
 deltaantiS02(229,2645.0).
 deltaantiS26(229,-2371.0).
 deltaantiS612(229,851.0).
-WHO_f3(229,0.0).
-WHO_f4(229,0.0).
-TypeofOutcome_updated(229,2.0).
+WHO_f3(229,0).
+WHO_f4(229,0).
+TypeofOutcome_updated(229,2).
 patient(229,neg).
 
-%patient: IT-0044-005215
-Gender(230,2.0).
+%patient: IT-0044-005215 index:230
+Gender(230,f).
 Race(230,White).
-mobcat(230,5.0).
-PA3mcat(230,4.0).
-numberdoses(230,2.0).
-totndrugs(230,4.0).
+mobcat(230,5).
+PA3mcat(230,4).
+numberdoses(230,2).
+totndrugs(230,4).
 frailty01(230).
 HTA01_tot(230).
 cogdis01_tot(230).
 park01_tot(230).
-Mmsumrev(230,2.0).
+Mmsumrev(230,2).
 excovidtot(230).
 antiS_0(230,28.9).
 antiS_2(230,4670.0).
@@ -5078,19 +5078,19 @@ antiS_12(230,1030.0).
 deltaantiS02(230,4641.1).
 deltaantiS26(230,-3726.0).
 deltaantiS612(230,86.0).
-WHO_f2(230,0.0).
-WHO_f3(230,0.0).
-WHO_f4(230,0.0).
-TypeofOutcome_updated(230,2.0).
+WHO_f2(230,0).
+WHO_f3(230,0).
+WHO_f4(230,0).
+TypeofOutcome_updated(230,2).
 patient(230,neg).
 
-%patient: IT-0044-005216
-Gender(231,2.0).
+%patient: IT-0044-005216 index:231
+Gender(231,f).
 Race(231,White).
-mobcat(231,0.0).
-PA3mcat(231,0.0).
-numberdoses(231,2.0).
-totndrugs(231,10.0).
+mobcat(231,0).
+PA3mcat(231,0).
+numberdoses(231,2).
+totndrugs(231,10).
 frailty01(231).
 HTA01_tot(231).
 CVD01_tot(231).
@@ -5098,7 +5098,7 @@ depress01_tot(231).
 cogdis01_tot(231).
 epilepsia01_tot(231).
 HD01_tot(231).
-Mmsumrev(231,5.0).
+Mmsumrev(231,5).
 excovidtot(231).
 antiS_0(231,12.8).
 antiS_2(231,719.0).
@@ -5107,22 +5107,22 @@ antiS_12(231,1540.0).
 deltaantiS02(231,706.2).
 deltaantiS26(231,-576.0).
 deltaantiS612(231,1397.0).
-WHO_f3(231,0.0).
-WHO_f4(231,0.0).
-TypeofOutcome_updated(231,2.0).
+WHO_f3(231,0).
+WHO_f4(231,0).
+TypeofOutcome_updated(231,2).
 patient(231,neg).
 
-%patient: IT-0044-005217
-Gender(232,2.0).
+%patient: IT-0044-005217 index:232
+Gender(232,f).
 Race(232,White).
-mobcat(232,0.0).
-PA3mcat(232,0.0).
-numberdoses(232,2.0).
-totndrugs(232,11.0).
+mobcat(232,0).
+PA3mcat(232,0).
+numberdoses(232,2).
+totndrugs(232,11).
 HTA01_tot(232).
 cogdis01_tot(232).
 thyrdis01_tot(232).
-Mmsumrev(232,4.0).
+Mmsumrev(232,4).
 excovidtot(232).
 antiS_0(232,526.0).
 antiS_2(232,1770.0).
@@ -5131,22 +5131,22 @@ antiS_12(232,19800.0).
 deltaantiS02(232,1244.0).
 deltaantiS26(232,-600.0).
 deltaantiS612(232,18630.0).
-WHO_f3(232,0.0).
-WHO_f4(232,0.0).
-TypeofOutcome_updated(232,2.0).
+WHO_f3(232,0).
+WHO_f4(232,0).
+TypeofOutcome_updated(232,2).
 patient(232,neg).
 
-%patient: IT-0044-005218
-Gender(233,2.0).
+%patient: IT-0044-005218 index:233
+Gender(233,f).
 Race(233,White).
-mobcat(233,0.0).
-PA3mcat(233,0.0).
-numberdoses(233,2.0).
-totndrugs(233,2.0).
+mobcat(233,0).
+PA3mcat(233,0).
+numberdoses(233,2).
+totndrugs(233,2).
 HTA01_tot(233).
 chrrespdis01_tot(233).
 cogdis01_tot(233).
-Mmsumrev(233,2.0).
+Mmsumrev(233,2).
 excovidtot(233).
 antiS_0(233,621.0).
 antiS_2(233,24300.0).
@@ -5155,21 +5155,21 @@ antiS_12(233,5060.0).
 deltaantiS02(233,23679.0).
 deltaantiS26(233,-17360.0).
 deltaantiS612(233,-1880.0).
-WHO_f2(233,0.0).
-WHO_f3(233,0.0).
-WHO_f4(233,0.0).
-TypeofOutcome_updated(233,2.0).
+WHO_f2(233,0).
+WHO_f3(233,0).
+WHO_f4(233,0).
+TypeofOutcome_updated(233,2).
 patient(233,neg).
 
-%patient: IT-0044-005739
-Gender(234,2.0).
-mobcat(234,0.0).
-PA3mcat(234,0.0).
-numberdoses(234,2.0).
-totndrugs(234,3.0).
+%patient: IT-0044-005739 index:234
+Gender(234,f).
+mobcat(234,0).
+PA3mcat(234,0).
+numberdoses(234,2).
+totndrugs(234,3).
 depress01_tot(234).
 cogdis01_tot(234).
-Mmsumrev(234,1.0).
+Mmsumrev(234,1).
 excovidtot(234).
 antiS_0(234,40.6).
 antiS_2(234,5220.0).
@@ -5178,23 +5178,23 @@ antiS_12(234,4440.0).
 deltaantiS02(234,5179.4).
 deltaantiS26(234,-1810.0).
 deltaantiS612(234,1030.0).
-WHO_f3(234,0.0).
-WHO_f4(234,0.0).
-TypeofOutcome_updated(234,2.0).
+WHO_f3(234,0).
+WHO_f4(234,0).
+TypeofOutcome_updated(234,2).
 patient(234,neg).
 
-%patient: IT-0044-005740
-Gender(235,1.0).
-mobcat(235,0.0).
-PA3mcat(235,0.0).
-numberdoses(235,2.0).
-totndrugs(235,5.0).
+%patient: IT-0044-005740 index:235
+Gender(235,m).
+mobcat(235,0).
+PA3mcat(235,0).
+numberdoses(235,2).
+totndrugs(235,5).
 OAD01_tot(235).
 CVD01_tot(235).
 depress01_tot(235).
 cogdis01_tot(235).
 HD01_tot(235).
-Mmsumrev(235,3.0).
+Mmsumrev(235,3).
 excovidtot(235).
 antiS_0(235,241.0).
 antiS_2(235,1920.0).
@@ -5203,22 +5203,22 @@ antiS_12(235,5660.0).
 deltaantiS02(235,1679.0).
 deltaantiS26(235,-730.0).
 deltaantiS612(235,4470.0).
-WHO_f2(235,0.0).
-WHO_f3(235,0.0).
-WHO_f4(235,0.0).
-TypeofOutcome_updated(235,2.0).
+WHO_f2(235,0).
+WHO_f3(235,0).
+WHO_f4(235,0).
+TypeofOutcome_updated(235,2).
 patient(235,neg).
 
-%patient: IT-0045-005288
-Gender(236,2.0).
+%patient: IT-0045-005288 index:236
+Gender(236,f).
 Race(236,Black).
-mobcat(236,3.0).
-PA3mcat(236,4.0).
-numberdoses(236,3.0).
-totndrugs(236,2.0).
+mobcat(236,3).
+PA3mcat(236,4).
+numberdoses(236,3).
+totndrugs(236,2).
 depress01_tot(236).
 cogdis01_tot(236).
-Mmsumrev(236,1.0).
+Mmsumrev(236,1).
 antiS_0(236,4.81).
 antiS_2(236,570.0).
 antiS_6(236,89.7).
@@ -5226,21 +5226,21 @@ antiS_12(236,1940.0).
 deltaantiS02(236,565.19).
 deltaantiS26(236,-480.3).
 deltaantiS612(236,1850.3).
-WHO_f1(236,0.0).
-WHO_f2(236,0.0).
-WHO_f3(236,0.0).
-WHO_f4(236,0.0).
-TypeofOutcome_updated(236,2.0).
+WHO_f1(236,0).
+WHO_f2(236,0).
+WHO_f3(236,0).
+WHO_f4(236,0).
+TypeofOutcome_updated(236,2).
 patient(236,neg).
 
-%patient: IT-0045-005292
-Gender(237,2.0).
+%patient: IT-0045-005292 index:237
+Gender(237,f).
 Race(237,White).
-mobcat(237,3.0).
-PA3mcat(237,4.0).
-numberdoses(237,3.0).
-totndrugs(237,2.0).
-Mmsumrev(237,1.0).
+mobcat(237,3).
+PA3mcat(237,4).
+numberdoses(237,3).
+totndrugs(237,2).
+Mmsumrev(237,1).
 antiS_0(237,4.81).
 antiS_2(237,326.0).
 antiS_6(237,159.0).
@@ -5248,23 +5248,23 @@ antiS_12(237,6920.0).
 deltaantiS02(237,321.19).
 deltaantiS26(237,-167.0).
 deltaantiS612(237,6761.0).
-WHO_f1(237,0.0).
-WHO_f2(237,0.0).
-WHO_f3(237,0.0).
-WHO_f4(237,0.0).
-TypeofOutcome_updated(237,2.0).
+WHO_f1(237,0).
+WHO_f2(237,0).
+WHO_f3(237,0).
+WHO_f4(237,0).
+TypeofOutcome_updated(237,2).
 patient(237,neg).
 
-%patient: IT-0045-005295
-Gender(238,1.0).
+%patient: IT-0045-005295 index:238
+Gender(238,m).
 Race(238,White).
-mobcat(238,2.0).
-PA3mcat(238,1.0).
-numberdoses(238,3.0).
-totndrugs(238,2.0).
+mobcat(238,2).
+PA3mcat(238,1).
+numberdoses(238,3).
+totndrugs(238,2).
 depress01_tot(238).
 park01_tot(238).
-Mmsumrev(238,2.0).
+Mmsumrev(238,2).
 antiS_0(238,5.87).
 antiS_2(238,1530.0).
 antiS_6(238,322.0).
@@ -5272,25 +5272,25 @@ antiS_12(238,18020.0).
 deltaantiS02(238,1524.13).
 deltaantiS26(238,-1208.0).
 deltaantiS612(238,17698.0).
-WHO_f1(238,0.0).
-WHO_f2(238,0.0).
-WHO_f3(238,0.0).
-WHO_f4(238,0.0).
-TypeofOutcome_updated(238,2.0).
+WHO_f1(238,0).
+WHO_f2(238,0).
+WHO_f3(238,0).
+WHO_f4(238,0).
+TypeofOutcome_updated(238,2).
 patient(238,neg).
 
-%patient: IT-0045-005751
-Gender(239,1.0).
+%patient: IT-0045-005751 index:239
+Gender(239,m).
 Race(239,White).
-mobcat(239,4.0).
-PA3mcat(239,4.0).
-numberdoses(239,3.0).
-totndrugs(239,8.0).
+mobcat(239,4).
+PA3mcat(239,4).
+numberdoses(239,3).
+totndrugs(239,8).
 HTA01_tot(239).
 CVD01_tot(239).
 cogdis01_tot(239).
 HD01_tot(239).
-Mmsumrev(239,3.0).
+Mmsumrev(239,3).
 antiS_0(239,4.81).
 antiS_2(239,408.0).
 antiS_6(239,744.0).
@@ -5298,22 +5298,22 @@ antiS_12(239,38200.0).
 deltaantiS02(239,403.19).
 deltaantiS26(239,336.0).
 deltaantiS612(239,37456.0).
-WHO_f1(239,0.0).
-WHO_f2(239,0.0).
-WHO_f3(239,0.0).
-WHO_f4(239,0.0).
-TypeofOutcome_updated(239,2.0).
+WHO_f1(239,0).
+WHO_f2(239,0).
+WHO_f3(239,0).
+WHO_f4(239,0).
+TypeofOutcome_updated(239,2).
 patient(239,neg).
 
-%patient: IT-0050-003685
-Gender(240,1.0).
+%patient: IT-0050-003685 index:240
+Gender(240,m).
 Race(240,White).
-mobcat(240,0.0).
-PA3mcat(240,0.0).
-numberdoses(240,3.0).
-totndrugs(240,2.0).
+mobcat(240,0).
+PA3mcat(240,0).
+numberdoses(240,3).
+totndrugs(240,2).
 PAD01_tot(240).
-Mmsumrev(240,1.0).
+Mmsumrev(240,1).
 antiS_0(240,4.81).
 antiS_2(240,718.0).
 antiS_6(240,108.0).
@@ -5321,24 +5321,24 @@ antiS_12(240,1358.0).
 deltaantiS02(240,713.19).
 deltaantiS26(240,-610.0).
 deltaantiS612(240,1250.0).
-WHO_f2(240,0.0).
-WHO_f4(240,0.0).
-TypeofOutcome_updated(240,2.0).
+WHO_f2(240,0).
+WHO_f4(240,0).
+TypeofOutcome_updated(240,2).
 patient(240,neg).
 
-%patient: IT-0050-003687
-Gender(241,1.0).
+%patient: IT-0050-003687 index:241
+Gender(241,m).
 Race(241,White).
-mobcat(241,0.0).
-PA3mcat(241,0.0).
-numberdoses(241,2.0).
-totndrugs(241,2.0).
+mobcat(241,0).
+PA3mcat(241,0).
+numberdoses(241,2).
+totndrugs(241,2).
 liverdis01(241).
 HTA01_tot(241).
 chrrespdis01_tot(241).
 cogdis01_tot(241).
 urol01_tot(241).
-Mmsumrev(241,4.0).
+Mmsumrev(241,4).
 excovidtot(241).
 antiS_0(241,42.8).
 antiS_2(241,1820.0).
@@ -5347,21 +5347,21 @@ antiS_12(241,1480.0).
 deltaantiS02(241,1777.2).
 deltaantiS26(241,-1315.0).
 deltaantiS612(241,975.0).
-WHO_f2(241,1.0).
-WHO_f3(241,0.0).
-WHO_f4(241,0.0).
-TypeofOutcome_updated(241,2.0).
+WHO_f2(241,1).
+WHO_f3(241,0).
+WHO_f4(241,0).
+TypeofOutcome_updated(241,2).
 patient(241,neg).
 
-%patient: IT-0050-003688
-Gender(242,1.0).
+%patient: IT-0050-003688 index:242
+Gender(242,m).
 Race(242,White).
-mobcat(242,0.0).
-PA3mcat(242,0.0).
-numberdoses(242,2.0).
-totndrugs(242,6.0).
+mobcat(242,0).
+PA3mcat(242,0).
+numberdoses(242,2).
+totndrugs(242,6).
 epilepsia01_tot(242).
-Mmsumrev(242,1.0).
+Mmsumrev(242,1).
 excovidtot(242).
 antiS_0(242,39.6).
 antiS_2(242,4530.0).
@@ -5370,20 +5370,20 @@ antiS_12(242,1930.0).
 deltaantiS02(242,4490.4).
 deltaantiS26(242,-2840.0).
 deltaantiS612(242,240.0).
-WHO_f2(242,1.0).
-WHO_f4(242,0.0).
-TypeofOutcome_updated(242,2.0).
+WHO_f2(242,1).
+WHO_f4(242,0).
+TypeofOutcome_updated(242,2).
 patient(242,neg).
 
-%patient: IT-0050-003984
-Gender(243,1.0).
+%patient: IT-0050-003984 index:243
+Gender(243,m).
 Race(243,White).
-mobcat(243,0.0).
-PA3mcat(243,0.0).
-numberdoses(243,2.0).
-totndrugs(243,4.0).
+mobcat(243,0).
+PA3mcat(243,0).
+numberdoses(243,2).
+totndrugs(243,4).
 anxiety01_tot(243).
-Mmsumrev(243,1.0).
+Mmsumrev(243,1).
 excovidtot(243).
 antiS_0(243,121.0).
 antiS_2(243,5980.0).
@@ -5392,23 +5392,23 @@ antiS_12(243,2500.0).
 deltaantiS02(243,5859.0).
 deltaantiS26(243,-4060.0).
 deltaantiS612(243,580.0).
-WHO_f2(243,1.0).
-WHO_f3(243,0.0).
-WHO_f4(243,0.0).
-TypeofOutcome_updated(243,2.0).
+WHO_f2(243,1).
+WHO_f3(243,0).
+WHO_f4(243,0).
+TypeofOutcome_updated(243,2).
 patient(243,neg).
 
-%patient: IT-0050-003985
-Gender(244,1.0).
+%patient: IT-0050-003985 index:244
+Gender(244,m).
 Race(244,White).
-mobcat(244,0.0).
-PA3mcat(244,0.0).
-numberdoses(244,2.0).
-totndrugs(244,4.0).
+mobcat(244,0).
+PA3mcat(244,0).
+numberdoses(244,2).
+totndrugs(244,4).
 cogdis01_tot(244).
 epilepsia01_tot(244).
 anxiety01_tot(244).
-Mmsumrev(244,2.0).
+Mmsumrev(244,2).
 excovidtot(244).
 antiS_0(244,288.0).
 antiS_2(244,6130.0).
@@ -5417,21 +5417,21 @@ antiS_12(244,910.0).
 deltaantiS02(244,5842.0).
 deltaantiS26(244,-5361.0).
 deltaantiS612(244,141.0).
-WHO_f2(244,1.0).
-WHO_f3(244,0.0).
-WHO_f4(244,0.0).
-TypeofOutcome_updated(244,2.0).
+WHO_f2(244,1).
+WHO_f3(244,0).
+WHO_f4(244,0).
+TypeofOutcome_updated(244,2).
 patient(244,neg).
 
-%patient: IT-0050-004047
-Gender(245,2.0).
+%patient: IT-0050-004047 index:245
+Gender(245,f).
 Race(245,White).
-mobcat(245,0.0).
-PA3mcat(245,0.0).
-numberdoses(245,2.0).
-totndrugs(245,3.0).
+mobcat(245,0).
+PA3mcat(245,0).
+numberdoses(245,2).
+totndrugs(245,3).
 cogdis01_tot(245).
-Mmsumrev(245,0.0).
+Mmsumrev(245,0).
 excovidtot(245).
 antiS_0(245,158.0).
 antiS_2(245,6360.0).
@@ -5440,20 +5440,20 @@ antiS_12(245,1286.0).
 deltaantiS02(245,6202.0).
 deltaantiS26(245,-5350.0).
 deltaantiS612(245,276.0).
-WHO_f2(245,1.0).
-WHO_f3(245,0.0).
-WHO_f4(245,0.0).
-TypeofOutcome_updated(245,2.0).
+WHO_f2(245,1).
+WHO_f3(245,0).
+WHO_f4(245,0).
+TypeofOutcome_updated(245,2).
 patient(245,neg).
 
-%patient: IT-0050-004048
-Gender(246,2.0).
+%patient: IT-0050-004048 index:246
+Gender(246,f).
 Race(246,White).
-mobcat(246,0.0).
-PA3mcat(246,0.0).
-numberdoses(246,2.0).
-totndrugs(246,2.0).
-Mmsumrev(246,1.0).
+mobcat(246,0).
+PA3mcat(246,0).
+numberdoses(246,2).
+totndrugs(246,2).
+Mmsumrev(246,1).
 excovidtot(246).
 antiS_0(246,1400.0).
 antiS_2(246,1000.0).
@@ -5462,22 +5462,22 @@ antiS_12(246,1530.0).
 deltaantiS02(246,-400.0).
 deltaantiS26(246,840.0).
 deltaantiS612(246,-310.0).
-WHO_f2(246,1.0).
-WHO_f3(246,0.0).
-WHO_f4(246,0.0).
-TypeofOutcome_updated(246,2.0).
+WHO_f2(246,1).
+WHO_f3(246,0).
+WHO_f4(246,0).
+TypeofOutcome_updated(246,2).
 patient(246,neg).
 
-%patient: IT-0050-004130
-Gender(247,2.0).
+%patient: IT-0050-004130 index:247
+Gender(247,f).
 Race(247,White).
-mobcat(247,0.0).
-PA3mcat(247,1.0).
-numberdoses(247,2.0).
-totndrugs(247,3.0).
+mobcat(247,0).
+PA3mcat(247,1).
+numberdoses(247,2).
+totndrugs(247,3).
 CVD01_tot(247).
 cogdis01_tot(247).
-Mmsumrev(247,0.0).
+Mmsumrev(247,0).
 excovidtot(247).
 antiS_0(247,93.5).
 antiS_2(247,2020.0).
@@ -5486,23 +5486,23 @@ antiS_12(247,1560.0).
 deltaantiS02(247,1926.5).
 deltaantiS26(247,-1513.0).
 deltaantiS612(247,1053.0).
-WHO_f2(247,1.0).
-WHO_f3(247,0.0).
-WHO_f4(247,0.0).
-TypeofOutcome_updated(247,2.0).
+WHO_f2(247,1).
+WHO_f3(247,0).
+WHO_f4(247,0).
+TypeofOutcome_updated(247,2).
 patient(247,neg).
 
-%patient: IT-0050-004131
-Gender(248,2.0).
+%patient: IT-0050-004131 index:248
+Gender(248,f).
 Race(248,White).
-mobcat(248,0.0).
-PA3mcat(248,0.0).
-numberdoses(248,2.0).
-totndrugs(248,3.0).
+mobcat(248,0).
+PA3mcat(248,0).
+numberdoses(248,2).
+totndrugs(248,3).
 HTA01_tot(248).
 obesity01_tot(248).
 epilepsia01_tot(248).
-Mmsumrev(248,4.0).
+Mmsumrev(248,4).
 excovidtot(248).
 antiS_0(248,741.0).
 antiS_2(248,19100.0).
@@ -5511,23 +5511,23 @@ antiS_12(248,4420.0).
 deltaantiS02(248,18359.0).
 deltaantiS26(248,-15300.0).
 deltaantiS612(248,620.0).
-WHO_f2(248,1.0).
-WHO_f3(248,0.0).
-WHO_f4(248,0.0).
-TypeofOutcome_updated(248,2.0).
+WHO_f2(248,1).
+WHO_f3(248,0).
+WHO_f4(248,0).
+TypeofOutcome_updated(248,2).
 patient(248,neg).
 
-%patient: IT-0050-004132
-Gender(249,2.0).
+%patient: IT-0050-004132 index:249
+Gender(249,f).
 Race(249,White).
-mobcat(249,0.0).
-PA3mcat(249,0.0).
-numberdoses(249,2.0).
-totndrugs(249,4.0).
+mobcat(249,0).
+PA3mcat(249,0).
+numberdoses(249,2).
+totndrugs(249,4).
 chrrespdis01_tot(249).
 cogdis01_tot(249).
 epilepsia01_tot(249).
-Mmsumrev(249,2.0).
+Mmsumrev(249,2).
 excovidtot(249).
 antiS_0(249,355.0).
 antiS_2(249,1920.0).
@@ -5536,24 +5536,24 @@ antiS_12(249,240.0).
 deltaantiS02(249,1565.0).
 deltaantiS26(249,-610.0).
 deltaantiS612(249,-1070.0).
-WHO_f2(249,1.0).
-WHO_f3(249,0.0).
-WHO_f4(249,0.0).
-TypeofOutcome_updated(249,2.0).
+WHO_f2(249,1).
+WHO_f3(249,0).
+WHO_f4(249,0).
+TypeofOutcome_updated(249,2).
 patient(249,neg).
 
-%patient: IT-0050-004228
-Gender(250,2.0).
+%patient: IT-0050-004228 index:250
+Gender(250,f).
 Race(250,White).
-mobcat(250,4.0).
-PA3mcat(250,4.0).
-numberdoses(250,2.0).
-totndrugs(250,7.0).
+mobcat(250,4).
+PA3mcat(250,4).
+numberdoses(250,2).
+totndrugs(250,7).
 HTA01_tot(250).
 CVD01_tot(250).
 depress01_tot(250).
 HD01_tot(250).
-Mmsumrev(250,4.0).
+Mmsumrev(250,4).
 excovidtot(250).
 antiS_0(250,139.0).
 antiS_2(250,1490.0).
@@ -5562,22 +5562,22 @@ antiS_12(250,167.0).
 deltaantiS02(250,1351.0).
 deltaantiS26(250,-666.0).
 deltaantiS612(250,-657.0).
-WHO_f2(250,1.0).
-WHO_f3(250,0.0).
-WHO_f4(250,0.0).
-TypeofOutcome_updated(250,2.0).
+WHO_f2(250,1).
+WHO_f3(250,0).
+WHO_f4(250,0).
+TypeofOutcome_updated(250,2).
 patient(250,neg).
 
-%patient: IT-0050-005300
-Gender(251,1.0).
+%patient: IT-0050-005300 index:251
+Gender(251,m).
 Race(251,White).
-mobcat(251,1.0).
-PA3mcat(251,4.0).
-numberdoses(251,2.0).
-totndrugs(251,4.0).
+mobcat(251,1).
+PA3mcat(251,4).
+numberdoses(251,2).
+totndrugs(251,4).
 HTA01_tot(251).
 urol01_tot(251).
-Mmsumrev(251,2.0).
+Mmsumrev(251,2).
 excovidtot(251).
 antiS_0(251,864.0).
 antiS_2(251,16200.0).
@@ -5586,19 +5586,19 @@ antiS_12(251,18300.0).
 deltaantiS02(251,15336.0).
 deltaantiS26(251,-11160.0).
 deltaantiS612(251,13260.0).
-WHO_f2(251,1.0).
-WHO_f3(251,0.0).
-WHO_f4(251,0.0).
-TypeofOutcome_updated(251,2.0).
+WHO_f2(251,1).
+WHO_f3(251,0).
+WHO_f4(251,0).
+TypeofOutcome_updated(251,2).
 patient(251,neg).
 
-%patient: IT-0050-005610
-Gender(252,2.0).
+%patient: IT-0050-005610 index:252
+Gender(252,f).
 Race(252,White).
-mobcat(252,0.0).
-PA3mcat(252,0.0).
-numberdoses(252,2.0).
-totndrugs(252,6.0).
+mobcat(252,0).
+PA3mcat(252,0).
+numberdoses(252,2).
+totndrugs(252,6).
 OAD01_tot(252).
 HTA01_tot(252).
 CVD01_tot(252).
@@ -5607,7 +5607,7 @@ depress01_tot(252).
 cogdis01_tot(252).
 epilepsia01_tot(252).
 anxiety01_tot(252).
-Mmsumrev(252,7.0).
+Mmsumrev(252,7).
 excovidtot(252).
 antiS_0(252,558.0).
 antiS_2(252,15800.0).
@@ -5616,19 +5616,19 @@ antiS_12(252,2900.0).
 deltaantiS02(252,15242.0).
 deltaantiS26(252,-15783.9).
 deltaantiS612(252,2883.9).
-WHO_f2(252,1.0).
-WHO_f3(252,0.0).
-WHO_f4(252,0.0).
-TypeofOutcome_updated(252,2.0).
+WHO_f2(252,1).
+WHO_f3(252,0).
+WHO_f4(252,0).
+TypeofOutcome_updated(252,2).
 patient(252,neg).
 
-%patient: IT-0050-005616
-Gender(253,1.0).
-mobcat(253,0.0).
-PA3mcat(253,0.0).
-numberdoses(253,2.0).
-totndrugs(253,3.0).
-Mmsumrev(253,0.0).
+%patient: IT-0050-005616 index:253
+Gender(253,m).
+mobcat(253,0).
+PA3mcat(253,0).
+numberdoses(253,2).
+totndrugs(253,3).
+Mmsumrev(253,0).
 excovidtot(253).
 antiS_0(253,846.0).
 antiS_2(253,23300.0).
@@ -5637,21 +5637,21 @@ antiS_12(253,10980.0).
 deltaantiS02(253,22454.0).
 deltaantiS26(253,-4100.0).
 deltaantiS612(253,-8220.0).
-WHO_f2(253,1.0).
-WHO_f3(253,0.0).
-WHO_f4(253,0.0).
-TypeofOutcome_updated(253,2.0).
+WHO_f2(253,1).
+WHO_f3(253,0).
+WHO_f4(253,0).
+TypeofOutcome_updated(253,2).
 patient(253,neg).
 
-%patient: IT-0050-005617
-Gender(254,1.0).
+%patient: IT-0050-005617 index:254
+Gender(254,m).
 Race(254,White).
-mobcat(254,0.0).
-PA3mcat(254,0.0).
-numberdoses(254,2.0).
-totndrugs(254,0.0).
+mobcat(254,0).
+PA3mcat(254,0).
+numberdoses(254,2).
+totndrugs(254,0).
 cogdis01_tot(254).
-Mmsumrev(254,0.0).
+Mmsumrev(254,0).
 excovidtot(254).
 antiS_0(254,2080.0).
 antiS_2(254,2990.0).
@@ -5660,22 +5660,22 @@ antiS_12(254,11160.0).
 deltaantiS02(254,910.0).
 deltaantiS26(254,-990.0).
 deltaantiS612(254,9160.0).
-WHO_f2(254,1.0).
-WHO_f3(254,0.0).
-WHO_f4(254,0.0).
-TypeofOutcome_updated(254,2.0).
+WHO_f2(254,1).
+WHO_f3(254,0).
+WHO_f4(254,0).
+TypeofOutcome_updated(254,2).
 patient(254,neg).
 
-%patient: IT-0050-005618
-Gender(255,1.0).
+%patient: IT-0050-005618 index:255
+Gender(255,m).
 Race(255,White).
-mobcat(255,0.0).
-PA3mcat(255,0.0).
-numberdoses(255,2.0).
-totndrugs(255,5.0).
+mobcat(255,0).
+PA3mcat(255,0).
+numberdoses(255,2).
+totndrugs(255,5).
 cogdis01_tot(255).
 epilepsia01_tot(255).
-Mmsumrev(255,1.0).
+Mmsumrev(255,1).
 excovidtot(255).
 antiS_0(255,625.0).
 antiS_2(255,23400.0).
@@ -5684,23 +5684,23 @@ antiS_12(255,7660.0).
 deltaantiS02(255,22775.0).
 deltaantiS26(255,-19570.0).
 deltaantiS612(255,3830.0).
-WHO_f2(255,1.0).
-WHO_f3(255,0.0).
-WHO_f4(255,0.0).
-TypeofOutcome_updated(255,2.0).
+WHO_f2(255,1).
+WHO_f3(255,0).
+WHO_f4(255,0).
+TypeofOutcome_updated(255,2).
 patient(255,neg).
 
-%patient: IT-0050-005619
-Gender(256,1.0).
+%patient: IT-0050-005619 index:256
+Gender(256,m).
 Race(256,White).
-mobcat(256,3.0).
-PA3mcat(256,4.0).
-numberdoses(256,2.0).
-totndrugs(256,4.0).
+mobcat(256,3).
+PA3mcat(256,4).
+numberdoses(256,2).
+totndrugs(256,4).
 cogdis01_tot(256).
 epilepsia01_tot(256).
 urol01_tot(256).
-Mmsumrev(256,2.0).
+Mmsumrev(256,2).
 excovidtot(256).
 antiS_0(256,544.0).
 antiS_2(256,998.0).
@@ -5709,23 +5709,23 @@ antiS_12(256,5800.0).
 deltaantiS02(256,454.0).
 deltaantiS26(256,3632.0).
 deltaantiS612(256,1170.0).
-WHO_f2(256,1.0).
-WHO_f3(256,0.0).
-WHO_f4(256,0.0).
-TypeofOutcome_updated(256,2.0).
+WHO_f2(256,1).
+WHO_f3(256,0).
+WHO_f4(256,0).
+TypeofOutcome_updated(256,2).
 patient(256,neg).
 
-%patient: IT-0050-005776
-Gender(257,1.0).
+%patient: IT-0050-005776 index:257
+Gender(257,m).
 Race(257,White).
-mobcat(257,0.0).
-PA3mcat(257,0.0).
-numberdoses(257,2.0).
-totndrugs(257,6.0).
+mobcat(257,0).
+PA3mcat(257,0).
+numberdoses(257,2).
+totndrugs(257,6).
 cogdis01_tot(257).
 epilepsia01_tot(257).
 anxiety01_tot(257).
-Mmsumrev(257,2.0).
+Mmsumrev(257,2).
 excovidtot(257).
 antiS_0(257,97.4).
 antiS_2(257,1960.0).
@@ -5734,23 +5734,23 @@ antiS_12(257,5100.0).
 deltaantiS02(257,1862.6).
 deltaantiS26(257,-1876.8).
 deltaantiS612(257,5016.8).
-WHO_f2(257,0.0).
-WHO_f3(257,0.0).
-WHO_f4(257,0.0).
-TypeofOutcome_updated(257,2.0).
+WHO_f2(257,0).
+WHO_f3(257,0).
+WHO_f4(257,0).
+TypeofOutcome_updated(257,2).
 patient(257,neg).
 
-%patient: IT-0050-005777
-Gender(258,1.0).
+%patient: IT-0050-005777 index:258
+Gender(258,m).
 Race(258,White).
-mobcat(258,0.0).
-PA3mcat(258,0.0).
-numberdoses(258,2.0).
-totndrugs(258,7.0).
+mobcat(258,0).
+PA3mcat(258,0).
+numberdoses(258,2).
+totndrugs(258,7).
 HTA01_tot(258).
 PAD01_tot(258).
 epilepsia01_tot(258).
-Mmsumrev(258,3.0).
+Mmsumrev(258,3).
 excovidtot(258).
 antiS_0(258,27.2).
 antiS_2(258,1490.0).
@@ -5759,22 +5759,22 @@ antiS_12(258,598.0).
 deltaantiS02(258,1462.8).
 deltaantiS26(258,-1016.0).
 deltaantiS612(258,124.0).
-WHO_f2(258,0.0).
-WHO_f3(258,0.0).
-WHO_f4(258,0.0).
-TypeofOutcome_updated(258,2.0).
+WHO_f2(258,0).
+WHO_f3(258,0).
+WHO_f4(258,0).
+TypeofOutcome_updated(258,2).
 patient(258,neg).
 
-%patient: IT-0050-005778
-Gender(259,2.0).
+%patient: IT-0050-005778 index:259
+Gender(259,f).
 Race(259,White).
-mobcat(259,4.0).
-PA3mcat(259,4.0).
-numberdoses(259,2.0).
-totndrugs(259,2.0).
+mobcat(259,4).
+PA3mcat(259,4).
+numberdoses(259,2).
+totndrugs(259,2).
 cogdis01_tot(259).
 epilepsia01_tot(259).
-Mmsumrev(259,1.0).
+Mmsumrev(259,1).
 excovidtot(259).
 antiS_0(259,189.0).
 antiS_2(259,4030.0).
@@ -5783,21 +5783,21 @@ antiS_12(259,9520.0).
 deltaantiS02(259,3841.0).
 deltaantiS26(259,-2780.0).
 deltaantiS612(259,8270.0).
-WHO_f2(259,0.0).
-WHO_f3(259,0.0).
-WHO_f4(259,0.0).
-TypeofOutcome_updated(259,2.0).
+WHO_f2(259,0).
+WHO_f3(259,0).
+WHO_f4(259,0).
+TypeofOutcome_updated(259,2).
 patient(259,neg).
 
-%patient: IT-0050-005779
-Gender(260,1.0).
+%patient: IT-0050-005779 index:260
+Gender(260,m).
 Race(260,White).
-mobcat(260,0.0).
-PA3mcat(260,0.0).
-numberdoses(260,2.0).
-totndrugs(260,5.0).
+mobcat(260,0).
+PA3mcat(260,0).
+numberdoses(260,2).
+totndrugs(260,5).
 epilepsia01_tot(260).
-Mmsumrev(260,1.0).
+Mmsumrev(260,1).
 excovidtot(260).
 antiS_0(260,111.0).
 antiS_2(260,2020.0).
@@ -5806,24 +5806,24 @@ antiS_12(260,2760.0).
 deltaantiS02(260,1909.0).
 deltaantiS26(260,-930.0).
 deltaantiS612(260,1670.0).
-WHO_f2(260,0.0).
-WHO_f3(260,0.0).
-WHO_f4(260,0.0).
-TypeofOutcome_updated(260,2.0).
+WHO_f2(260,0).
+WHO_f3(260,0).
+WHO_f4(260,0).
+TypeofOutcome_updated(260,2).
 patient(260,neg).
 
-%patient: IT-0050-005780
-Gender(261,2.0).
+%patient: IT-0050-005780 index:261
+Gender(261,f).
 Race(261,White).
-mobcat(261,0.0).
-PA3mcat(261,2.0).
-numberdoses(261,2.0).
-totndrugs(261,5.0).
+mobcat(261,0).
+PA3mcat(261,2).
+numberdoses(261,2).
+totndrugs(261,5).
 obesity01_tot(261).
 cogdis01_tot(261).
 epilepsia01_tot(261).
 anxiety01_tot(261).
-Mmsumrev(261,3.0).
+Mmsumrev(261,3).
 excovidtot(261).
 antiS_0(261,109.0).
 antiS_2(261,40900.0).
@@ -5832,22 +5832,22 @@ antiS_12(261,21200.0).
 deltaantiS02(261,40791.0).
 deltaantiS26(261,-6700.0).
 deltaantiS612(261,-13000.0).
-WHO_f2(261,0.0).
-WHO_f3(261,0.0).
-WHO_f4(261,0.0).
-TypeofOutcome_updated(261,2.0).
+WHO_f2(261,0).
+WHO_f3(261,0).
+WHO_f4(261,0).
+TypeofOutcome_updated(261,2).
 patient(261,neg).
 
-%patient: IT-0050-005782
-Gender(262,1.0).
+%patient: IT-0050-005782 index:262
+Gender(262,m).
 Race(262,White).
-mobcat(262,0.0).
-PA3mcat(262,0.0).
-numberdoses(262,2.0).
-totndrugs(262,5.0).
+mobcat(262,0).
+PA3mcat(262,0).
+numberdoses(262,2).
+totndrugs(262,5).
 epilepsia01_tot(262).
 anxiety01_tot(262).
-Mmsumrev(262,2.0).
+Mmsumrev(262,2).
 excovidtot(262).
 antiS_0(262,140.0).
 antiS_2(262,7620.0).
@@ -5856,26 +5856,26 @@ antiS_12(262,2140.0).
 deltaantiS02(262,7480.0).
 deltaantiS26(262,-5650.0).
 deltaantiS612(262,170.0).
-WHO_f2(262,0.0).
-WHO_f3(262,0.0).
-WHO_f4(262,0.0).
-TypeofOutcome_updated(262,2.0).
+WHO_f2(262,0).
+WHO_f3(262,0).
+WHO_f4(262,0).
+TypeofOutcome_updated(262,2).
 patient(262,neg).
 
-%patient: IT-0050-005783
-Gender(263,2.0).
+%patient: IT-0050-005783 index:263
+Gender(263,f).
 Race(263,White).
-mobcat(263,3.0).
-PA3mcat(263,4.0).
-numberdoses(263,2.0).
-totndrugs(263,11.0).
+mobcat(263,3).
+PA3mcat(263,4).
+numberdoses(263,2).
+totndrugs(263,11).
 HTA01_tot(263).
 CVD01_tot(263).
 cogdis01_tot(263).
 park01_tot(263).
 epilepsia01_tot(263).
 anxiety01_tot(263).
-Mmsumrev(263,4.0).
+Mmsumrev(263,4).
 excovidtot(263).
 antiS_0(263,73.5).
 antiS_2(263,4660.0).
@@ -5884,23 +5884,23 @@ antiS_12(263,9880.0).
 deltaantiS02(263,4586.5).
 deltaantiS26(263,-2270.0).
 deltaantiS612(263,7490.0).
-WHO_f2(263,0.0).
-WHO_f3(263,0.0).
-WHO_f4(263,0.0).
-TypeofOutcome_updated(263,2.0).
+WHO_f2(263,0).
+WHO_f3(263,0).
+WHO_f4(263,0).
+TypeofOutcome_updated(263,2).
 patient(263,neg).
 
-%patient: IT-0050-005784
-Gender(264,2.0).
+%patient: IT-0050-005784 index:264
+Gender(264,f).
 Race(264,White).
-mobcat(264,3.0).
-PA3mcat(264,4.0).
-numberdoses(264,2.0).
-totndrugs(264,6.0).
+mobcat(264,3).
+PA3mcat(264,4).
+numberdoses(264,2).
+totndrugs(264,6).
 depress01_tot(264).
 cogdis01_tot(264).
 epilepsia01_tot(264).
-Mmsumrev(264,2.0).
+Mmsumrev(264,2).
 excovidtot(264).
 antiS_0(264,106.0).
 antiS_2(264,1880.0).
@@ -5909,25 +5909,25 @@ antiS_12(264,12440.0).
 deltaantiS02(264,1774.0).
 deltaantiS26(264,0.0).
 deltaantiS612(264,10560.0).
-WHO_f2(264,0.0).
-WHO_f3(264,0.0).
-WHO_f4(264,0.0).
-TypeofOutcome_updated(264,2.0).
+WHO_f2(264,0).
+WHO_f3(264,0).
+WHO_f4(264,0).
+TypeofOutcome_updated(264,2).
 patient(264,neg).
 
-%patient: IT-0050-005785
-Gender(265,2.0).
+%patient: IT-0050-005785 index:265
+Gender(265,f).
 Race(265,White).
-mobcat(265,0.0).
-PA3mcat(265,0.0).
-numberdoses(265,2.0).
-totndrugs(265,7.0).
+mobcat(265,0).
+PA3mcat(265,0).
+numberdoses(265,2).
+totndrugs(265,7).
 PAD01_tot(265).
 chrrespdis01_tot(265).
 cogdis01_tot(265).
 epilepsia01_tot(265).
 anxiety01_tot(265).
-Mmsumrev(265,4.0).
+Mmsumrev(265,4).
 excovidtot(265).
 antiS_0(265,62.7).
 antiS_2(265,2490.0).
@@ -5936,45 +5936,45 @@ antiS_12(265,1870.0).
 deltaantiS02(265,2427.3).
 deltaantiS26(265,-480.0).
 deltaantiS612(265,-140.0).
-WHO_f2(265,0.0).
-WHO_f3(265,0.0).
-WHO_f4(265,0.0).
-TypeofOutcome_updated(265,2.0).
+WHO_f2(265,0).
+WHO_f3(265,0).
+WHO_f4(265,0).
+TypeofOutcome_updated(265,2).
 patient(265,neg).
 
-%patient: IT-0050-005786
-Gender(266,1.0).
+%patient: IT-0050-005786 index:266
+Gender(266,m).
 Race(266,White).
-mobcat(266,0.0).
-PA3mcat(266,0.0).
-numberdoses(266,2.0).
-totndrugs(266,5.0).
+mobcat(266,0).
+PA3mcat(266,0).
+numberdoses(266,2).
+totndrugs(266,5).
 epilepsia01_tot(266).
 anxiety01_tot(266).
-Mmsumrev(266,2.0).
+Mmsumrev(266,2).
 excovidtot(266).
 antiS_0(266,45.6).
 antiS_2(266,7070.0).
 antiS_6(266,4080.0).
 deltaantiS02(266,7024.4).
 deltaantiS26(266,-2990.0).
-WHO_f2(266,0.0).
-WHO_f3(266,0.0).
-WHO_f4(266,0.0).
-TypeofOutcome_updated(266,2.0).
+WHO_f2(266,0).
+WHO_f3(266,0).
+WHO_f4(266,0).
+TypeofOutcome_updated(266,2).
 patient(266,neg).
 
-%patient: IT-0050-005788
-Gender(267,2.0).
+%patient: IT-0050-005788 index:267
+Gender(267,f).
 Race(267,White).
-mobcat(267,3.0).
-PA3mcat(267,2.0).
-numberdoses(267,2.0).
-totndrugs(267,4.0).
+mobcat(267,3).
+PA3mcat(267,2).
+numberdoses(267,2).
+totndrugs(267,4).
 OAD01_tot(267).
 cogdis01_tot(267).
 epilepsia01_tot(267).
-Mmsumrev(267,2.0).
+Mmsumrev(267,2).
 excovidtot(267).
 antiS_0(267,774.0).
 antiS_2(267,22300.0).
@@ -5983,25 +5983,25 @@ antiS_12(267,5660.0).
 deltaantiS02(267,21526.0).
 deltaantiS26(267,-18110.0).
 deltaantiS612(267,1470.0).
-WHO_f2(267,0.0).
-WHO_f3(267,0.0).
-WHO_f4(267,0.0).
-TypeofOutcome_updated(267,2.0).
+WHO_f2(267,0).
+WHO_f3(267,0).
+WHO_f4(267,0).
+TypeofOutcome_updated(267,2).
 patient(267,neg).
 
-%patient: IT-0052-005771
-Gender(268,1.0).
+%patient: IT-0052-005771 index:268
+Gender(268,m).
 Race(268,White).
-mobcat(268,5.0).
-PA3mcat(268,4.0).
-numberdoses(268,2.0).
-totndrugs(268,6.0).
+mobcat(268,5).
+PA3mcat(268,4).
+numberdoses(268,2).
+totndrugs(268,6).
 HTA01_tot(268).
 chrrespdis01_tot(268).
 depress01_tot(268).
 epilepsia01_tot(268).
 anxiety01_tot(268).
-Mmsumrev(268,6.0).
+Mmsumrev(268,6).
 excovidtot(268).
 antiS_0(268,85.7).
 antiS_2(268,1700.0).
@@ -6010,26 +6010,26 @@ antiS_12(268,21600.0).
 deltaantiS02(268,1614.3).
 deltaantiS26(268,-1329.0).
 deltaantiS612(268,21229.0).
-WHO_f2(268,0.0).
-WHO_f3(268,0.0).
-WHO_f4(268,0.0).
-TypeofOutcome_updated(268,2.0).
+WHO_f2(268,0).
+WHO_f3(268,0).
+WHO_f4(268,0).
+TypeofOutcome_updated(268,2).
 patient(268,neg).
 
-%patient: IT-0052-005772
-Gender(269,1.0).
+%patient: IT-0052-005772 index:269
+Gender(269,m).
 Race(269,White).
-mobcat(269,5.0).
-PA3mcat(269,4.0).
-numberdoses(269,2.0).
-totndrugs(269,5.0).
+mobcat(269,5).
+PA3mcat(269,4).
+numberdoses(269,2).
+totndrugs(269,5).
 poornut01(269).
 HTA01_tot(269).
 CVD01_tot(269).
 chrrespdis01_tot(269).
 cogdis01_tot(269).
 epilepsia01_tot(269).
-Mmsumrev(269,3.0).
+Mmsumrev(269,3).
 excovidtot(269).
 antiS_0(269,148.0).
 antiS_2(269,12100.0).
@@ -6038,46 +6038,46 @@ antiS_12(269,2100.0).
 deltaantiS02(269,11952.0).
 deltaantiS26(269,-9890.0).
 deltaantiS612(269,-110.0).
-WHO_f2(269,0.0).
-WHO_f3(269,0.0).
-WHO_f4(269,0.0).
-TypeofOutcome_updated(269,2.0).
+WHO_f2(269,0).
+WHO_f3(269,0).
+WHO_f4(269,0).
+TypeofOutcome_updated(269,2).
 patient(269,neg).
 
-%patient: IT-0052-005774
-Gender(270,1.0).
+%patient: IT-0052-005774 index:270
+Gender(270,m).
 Race(270,White).
-mobcat(270,5.0).
-PA3mcat(270,4.0).
-numberdoses(270,2.0).
-totndrugs(270,4.0).
+mobcat(270,5).
+PA3mcat(270,4).
+numberdoses(270,2).
+totndrugs(270,4).
 HTA01_tot(270).
-Mmsumrev(270,3.0).
+Mmsumrev(270,3).
 antiS_0(270,4.81).
 antiS_2(270,124.0).
 antiS_6(270,37.7).
 deltaantiS02(270,119.19).
 deltaantiS26(270,-86.3).
-WHO_f1(270,0.0).
-WHO_f2(270,0.0).
-WHO_f3(270,0.0).
-WHO_f4(270,0.0).
-TypeofOutcome_updated(270,2.0).
+WHO_f1(270,0).
+WHO_f2(270,0).
+WHO_f3(270,0).
+WHO_f4(270,0).
+TypeofOutcome_updated(270,2).
 patient(270,neg).
 
-%patient: IT-0061-003871
-Gender(271,2.0).
+%patient: IT-0061-003871 index:271
+Gender(271,f).
 Race(271,White).
-mobcat(271,0.0).
-PA3mcat(271,0.0).
-numberdoses(271,2.0).
-totndrugs(271,10.0).
+mobcat(271,0).
+PA3mcat(271,0).
+numberdoses(271,2).
+totndrugs(271,10).
 HTA01_tot(271).
 CVD01_tot(271).
 depress01_tot(271).
 thyrdis01_tot(271).
 anxiety01_tot(271).
-Mmsumrev(271,6.0).
+Mmsumrev(271,6).
 excovidtot(271).
 antiS_0(271,64.1).
 antiS_2(271,4790.0).
@@ -6086,20 +6086,20 @@ antiS_12(271,1020.0).
 deltaantiS02(271,4725.9).
 deltaantiS26(271,-2320.0).
 deltaantiS612(271,-1450.0).
-WHO_f1(271,0.0).
-WHO_f2(271,0.0).
-WHO_f3(271,0.0).
-WHO_f4(271,0.0).
-TypeofOutcome_updated(271,2.0).
+WHO_f1(271,0).
+WHO_f2(271,0).
+WHO_f3(271,0).
+WHO_f4(271,0).
+TypeofOutcome_updated(271,2).
 patient(271,neg).
 
-%patient: IT-0061-003872
-Gender(272,2.0).
+%patient: IT-0061-003872 index:272
+Gender(272,f).
 Race(272,White).
-mobcat(272,2.0).
-PA3mcat(272,2.0).
-numberdoses(272,2.0).
-totndrugs(272,13.0).
+mobcat(272,2).
+PA3mcat(272,2).
+numberdoses(272,2).
+totndrugs(272,13).
 frailty01(272).
 OAD01_tot(272).
 HTA01_tot(272).
@@ -6107,7 +6107,7 @@ CVD01_tot(272).
 park01_tot(272).
 thyrdis01_tot(272).
 HD01_tot(272).
-Mmsumrev(272,6.0).
+Mmsumrev(272,6).
 excovidtot(272).
 antiS_0(272,1390.0).
 antiS_2(272,17600.0).
@@ -6116,18 +6116,18 @@ antiS_12(272,4160.0).
 deltaantiS02(272,16210.0).
 deltaantiS26(272,-15130.0).
 deltaantiS612(272,1690.0).
-WHO_f2(272,0.0).
-WHO_f3(272,0.0).
-WHO_f4(272,0.0).
-TypeofOutcome_updated(272,2.0).
+WHO_f2(272,0).
+WHO_f3(272,0).
+WHO_f4(272,0).
+TypeofOutcome_updated(272,2).
 patient(272,neg).
 
-%patient: IT-0061-003873
-Gender(273,2.0).
+%patient: IT-0061-003873 index:273
+Gender(273,f).
 Race(273,White).
-mobcat(273,2.0).
-PA3mcat(273,0.0).
-numberdoses(273,2.0).
+mobcat(273,2).
+PA3mcat(273,0).
+numberdoses(273,2).
 OAD01_tot(273).
 HTA01_tot(273).
 CVD01_tot(273).
@@ -6136,7 +6136,7 @@ depress01_tot(273).
 cogdis01_tot(273).
 anxiety01_tot(273).
 HD01_tot(273).
-Mmsumrev(273,7.0).
+Mmsumrev(273,7).
 excovidtot(273).
 antiS_0(273,1710.0).
 antiS_2(273,8850.0).
@@ -6145,26 +6145,26 @@ antiS_12(273,3010.0).
 deltaantiS02(273,7140.0).
 deltaantiS26(273,-7000.0).
 deltaantiS612(273,1160.0).
-WHO_f2(273,1.0).
-WHO_f3(273,1.0).
-WHO_f4(273,1.0).
-TypeofOutcome_updated(273,2.0).
+WHO_f2(273,1).
+WHO_f3(273,1).
+WHO_f4(273,1).
+TypeofOutcome_updated(273,2).
 patient(273,neg).
 
-%patient: IT-0061-003874
-Gender(274,2.0).
+%patient: IT-0061-003874 index:274
+Gender(274,f).
 Race(274,White).
-mobcat(274,3.0).
-PA3mcat(274,4.0).
-numberdoses(274,2.0).
-totndrugs(274,6.0).
+mobcat(274,3).
+PA3mcat(274,4).
+numberdoses(274,2).
+totndrugs(274,6).
 CKD01(274).
 liverdis01(274).
 OAD01_tot(274).
 HTA01_tot(274).
 CVD01_tot(274).
 cogdis01_tot(274).
-Mmsumrev(274,4.0).
+Mmsumrev(274,4).
 excovidtot(274).
 antiS_0(274,690.0).
 antiS_2(274,34200.0).
@@ -6173,19 +6173,19 @@ antiS_12(274,13500.0).
 deltaantiS02(274,33510.0).
 deltaantiS26(274,-28620.0).
 deltaantiS612(274,7920.0).
-WHO_f2(274,1.0).
-WHO_f3(274,1.0).
-WHO_f4(274,1.0).
-TypeofOutcome_updated(274,2.0).
+WHO_f2(274,1).
+WHO_f3(274,1).
+WHO_f4(274,1).
+TypeofOutcome_updated(274,2).
 patient(274,neg).
 
-%patient: IT-0061-003875
-Gender(275,2.0).
+%patient: IT-0061-003875 index:275
+Gender(275,f).
 Race(275,White).
-mobcat(275,2.0).
-PA3mcat(275,0.0).
-numberdoses(275,2.0).
-totndrugs(275,13.0).
+mobcat(275,2).
+PA3mcat(275,0).
+numberdoses(275,2).
+totndrugs(275,13).
 immunedis01(275).
 OAD01_tot(275).
 HTA01_tot(275).
@@ -6195,7 +6195,7 @@ depress01_tot(275).
 cogdis01_tot(275).
 thyrdis01_tot(275).
 anxiety01_tot(275).
-Mmsumrev(275,8.0).
+Mmsumrev(275,8).
 excovidtot(275).
 antiS_0(275,458.0).
 antiS_2(275,41000.0).
@@ -6204,24 +6204,24 @@ antiS_12(275,41400.0).
 deltaantiS02(275,40542.0).
 deltaantiS26(275,-36370.0).
 deltaantiS612(275,36770.0).
-WHO_f2(275,1.0).
-WHO_f3(275,1.0).
-WHO_f4(275,1.0).
-TypeofOutcome_updated(275,2.0).
+WHO_f2(275,1).
+WHO_f3(275,1).
+WHO_f4(275,1).
+TypeofOutcome_updated(275,2).
 patient(275,neg).
 
-%patient: IT-0061-003876
-Gender(276,2.0).
+%patient: IT-0061-003876 index:276
+Gender(276,f).
 Race(276,White).
-mobcat(276,3.0).
-PA3mcat(276,4.0).
-numberdoses(276,3.0).
+mobcat(276,3).
+PA3mcat(276,4).
+numberdoses(276,3).
 cancer01(276).
 OAD01_tot(276).
 HTA01_tot(276).
 CVD01_tot(276).
 HD01_tot(276).
-Mmsumrev(276,5.0).
+Mmsumrev(276,5).
 antiS_0(276,8.54).
 antiS_2(276,2600.0).
 antiS_6(276,605.0).
@@ -6229,20 +6229,20 @@ antiS_12(276,1570.0).
 deltaantiS02(276,2591.46).
 deltaantiS26(276,-1995.0).
 deltaantiS612(276,965.0).
-WHO_f1(276,0.0).
-WHO_f2(276,0.0).
-WHO_f3(276,0.0).
-WHO_f4(276,0.0).
-TypeofOutcome_updated(276,2.0).
+WHO_f1(276,0).
+WHO_f2(276,0).
+WHO_f3(276,0).
+WHO_f4(276,0).
+TypeofOutcome_updated(276,2).
 patient(276,neg).
 
-%patient: IT-0061-003879
-Gender(277,1.0).
+%patient: IT-0061-003879 index:277
+Gender(277,m).
 Race(277,White).
-mobcat(277,1.0).
-PA3mcat(277,4.0).
-numberdoses(277,2.0).
-totndrugs(277,10.0).
+mobcat(277,1).
+PA3mcat(277,4).
+numberdoses(277,2).
+totndrugs(277,10).
 OAD01_tot(277).
 HTA01_tot(277).
 CVD01_tot(277).
@@ -6250,7 +6250,7 @@ PAD01_tot(277).
 chrrespdis01_tot(277).
 anxiety01_tot(277).
 HD01_tot(277).
-Mmsumrev(277,6.0).
+Mmsumrev(277,6).
 excovidtot(277).
 antiS_0(277,648.0).
 antiS_2(277,40000.0).
@@ -6259,19 +6259,19 @@ antiS_12(277,6060.0).
 deltaantiS02(277,39352.0).
 deltaantiS26(277,-32530.0).
 deltaantiS612(277,-1410.0).
-WHO_f2(277,1.0).
-WHO_f3(277,1.0).
-WHO_f4(277,1.0).
-TypeofOutcome_updated(277,2.0).
+WHO_f2(277,1).
+WHO_f3(277,1).
+WHO_f4(277,1).
+TypeofOutcome_updated(277,2).
 patient(277,neg).
 
-%patient: IT-0061-003880
-Gender(278,2.0).
+%patient: IT-0061-003880 index:278
+Gender(278,f).
 Race(278,White).
-mobcat(278,0.0).
-PA3mcat(278,0.0).
-numberdoses(278,2.0).
-totndrugs(278,15.0).
+mobcat(278,0).
+PA3mcat(278,0).
+numberdoses(278,2).
+totndrugs(278,15).
 cancer01(278).
 immunedis01(278).
 liverdis01(278).
@@ -6281,7 +6281,7 @@ PAD01_tot(278).
 chrrespdis01_tot(278).
 epilepsia01_tot(278).
 anxiety01_tot(278).
-Mmsumrev(278,10.0).
+Mmsumrev(278,10).
 excovidtot(278).
 antiS_0(278,47.1).
 antiS_2(278,1520.0).
@@ -6290,19 +6290,19 @@ antiS_12(278,875.0).
 deltaantiS02(278,1472.9).
 deltaantiS26(278,-1311.0).
 deltaantiS612(278,666.0).
-WHO_f2(278,1.0).
-WHO_f3(278,1.0).
-WHO_f4(278,1.0).
-TypeofOutcome_updated(278,2.0).
+WHO_f2(278,1).
+WHO_f3(278,1).
+WHO_f4(278,1).
+TypeofOutcome_updated(278,2).
 patient(278,neg).
 
-%patient: IT-0061-003881
-Gender(279,2.0).
+%patient: IT-0061-003881 index:279
+Gender(279,f).
 Race(279,White).
-mobcat(279,1.0).
-PA3mcat(279,4.0).
-numberdoses(279,2.0).
-totndrugs(279,11.0).
+mobcat(279,1).
+PA3mcat(279,4).
+numberdoses(279,2).
+totndrugs(279,11).
 immunedis01(279).
 IBD01(279).
 OAD01_tot(279).
@@ -6314,7 +6314,7 @@ depress01_tot(279).
 cogdis01_tot(279).
 epilepsia01_tot(279).
 HD01_tot(279).
-Mmsumrev(279,11.0).
+Mmsumrev(279,11).
 excovidtot(279).
 antiS_0(279,1910.0).
 antiS_2(279,2040.0).
@@ -6323,18 +6323,18 @@ antiS_12(279,41200.0).
 deltaantiS02(279,130.0).
 deltaantiS26(279,-1058.0).
 deltaantiS612(279,40218.0).
-WHO_f2(279,1.0).
-WHO_f3(279,1.0).
-WHO_f4(279,1.0).
-TypeofOutcome_updated(279,2.0).
+WHO_f2(279,1).
+WHO_f3(279,1).
+WHO_f4(279,1).
+TypeofOutcome_updated(279,2).
 patient(279,neg).
 
-%patient: IT-0061-003882
-Gender(280,1.0).
+%patient: IT-0061-003882 index:280
+Gender(280,m).
 Race(280,White).
-mobcat(280,3.0).
-PA3mcat(280,4.0).
-numberdoses(280,2.0).
+mobcat(280,3).
+PA3mcat(280,4).
+numberdoses(280,2).
 OAD01_tot(280).
 HTA01_tot(280).
 CVD01_tot(280).
@@ -6342,7 +6342,7 @@ PAD01_tot(280).
 depress01_tot(280).
 cogdis01_tot(280).
 HD01_tot(280).
-Mmsumrev(280,6.0).
+Mmsumrev(280,6).
 excovidtot(280).
 antiS_0(280,471.0).
 antiS_2(280,246.0).
@@ -6351,23 +6351,23 @@ antiS_12(280,3930.0).
 deltaantiS02(280,-225.0).
 deltaantiS26(280,1694.0).
 deltaantiS612(280,1990.0).
-WHO_f2(280,1.0).
-WHO_f3(280,1.0).
-WHO_f4(280,1.0).
-TypeofOutcome_updated(280,2.0).
+WHO_f2(280,1).
+WHO_f3(280,1).
+WHO_f4(280,1).
+TypeofOutcome_updated(280,2).
 patient(280,neg).
 
-%patient: IT-0061-003885
-Gender(281,2.0).
+%patient: IT-0061-003885 index:281
+Gender(281,f).
 Race(281,White).
-mobcat(281,3.0).
-PA3mcat(281,4.0).
-numberdoses(281,2.0).
-totndrugs(281,5.0).
+mobcat(281,3).
+PA3mcat(281,4).
+numberdoses(281,2).
+totndrugs(281,5).
 cancer01(281).
 HTA01_tot(281).
 cogdis01_tot(281).
-Mmsumrev(281,2.0).
+Mmsumrev(281,2).
 excovidtot(281).
 antiS_0(281,217.0).
 antiS_2(281,5770.0).
@@ -6376,19 +6376,19 @@ antiS_12(281,1350.0).
 deltaantiS02(281,5553.0).
 deltaantiS26(281,-5111.0).
 deltaantiS612(281,691.0).
-WHO_f2(281,1.0).
-WHO_f3(281,1.0).
-WHO_f4(281,1.0).
-TypeofOutcome_updated(281,2.0).
+WHO_f2(281,1).
+WHO_f3(281,1).
+WHO_f4(281,1).
+TypeofOutcome_updated(281,2).
 patient(281,neg).
 
-%patient: IT-0061-003888
-Gender(282,2.0).
+%patient: IT-0061-003888 index:282
+Gender(282,f).
 Race(282,White).
-mobcat(282,3.0).
-PA3mcat(282,4.0).
-numberdoses(282,3.0).
-totndrugs(282,8.0).
+mobcat(282,3).
+PA3mcat(282,4).
+numberdoses(282,3).
+totndrugs(282,8).
 liverdis01(282).
 HTA01_tot(282).
 CVD01_tot(282).
@@ -6397,7 +6397,7 @@ PAD01_tot(282).
 depress01_tot(282).
 cogdis01_tot(282).
 HD01_tot(282).
-Mmsumrev(282,6.0).
+Mmsumrev(282,6).
 antiS_0(282,4.81).
 antiS_2(282,1260.0).
 antiS_6(282,56.8).
@@ -6405,20 +6405,20 @@ antiS_12(282,8050.0).
 deltaantiS02(282,1255.19).
 deltaantiS26(282,-1203.2).
 deltaantiS612(282,7993.2).
-WHO_f1(282,0.0).
-WHO_f2(282,0.0).
-WHO_f3(282,0.0).
-WHO_f4(282,0.0).
-TypeofOutcome_updated(282,2.0).
+WHO_f1(282,0).
+WHO_f2(282,0).
+WHO_f3(282,0).
+WHO_f4(282,0).
+TypeofOutcome_updated(282,2).
 patient(282,neg).
 
-%patient: IT-0061-003889
-Gender(283,2.0).
+%patient: IT-0061-003889 index:283
+Gender(283,f).
 Race(283,White).
-mobcat(283,1.0).
-PA3mcat(283,4.0).
-numberdoses(283,3.0).
-totndrugs(283,11.0).
+mobcat(283,1).
+PA3mcat(283,4).
+numberdoses(283,3).
+totndrugs(283,11).
 CKD01(283).
 cancer01(283).
 immunedis01(283).
@@ -6431,7 +6431,7 @@ PAD01_tot(283).
 depress01_tot(283).
 cogdis01_tot(283).
 HD01_tot(283).
-Mmsumrev(283,12.0).
+Mmsumrev(283,12).
 antiS_0(283,4.81).
 antiS_2(283,413.0).
 antiS_6(283,34.3).
@@ -6439,20 +6439,20 @@ antiS_12(283,2400.0).
 deltaantiS02(283,408.19).
 deltaantiS26(283,-378.7).
 deltaantiS612(283,2365.7).
-WHO_f1(283,0.0).
-WHO_f2(283,0.0).
-WHO_f3(283,0.0).
-WHO_f4(283,0.0).
-TypeofOutcome_updated(283,2.0).
+WHO_f1(283,0).
+WHO_f2(283,0).
+WHO_f3(283,0).
+WHO_f4(283,0).
+TypeofOutcome_updated(283,2).
 patient(283,neg).
 
-%patient: IT-0061-003890
-Gender(284,2.0).
+%patient: IT-0061-003890 index:284
+Gender(284,f).
 Race(284,White).
-mobcat(284,3.0).
-PA3mcat(284,4.0).
-numberdoses(284,3.0).
-totndrugs(284,10.0).
+mobcat(284,3).
+PA3mcat(284,4).
+numberdoses(284,3).
+totndrugs(284,10).
 immunedis01(284).
 OAD01_tot(284).
 HTA01_tot(284).
@@ -6462,7 +6462,7 @@ depress01_tot(284).
 cogdis01_tot(284).
 park01_tot(284).
 HD01_tot(284).
-Mmsumrev(284,8.0).
+Mmsumrev(284,8).
 antiS_0(284,4.81).
 antiS_2(284,506.0).
 antiS_6(284,94.3).
@@ -6470,20 +6470,20 @@ antiS_12(284,1960.0).
 deltaantiS02(284,501.19).
 deltaantiS26(284,-411.7).
 deltaantiS612(284,1865.7).
-WHO_f1(284,0.0).
-WHO_f2(284,0.0).
-WHO_f3(284,0.0).
-WHO_f4(284,0.0).
-TypeofOutcome_updated(284,2.0).
+WHO_f1(284,0).
+WHO_f2(284,0).
+WHO_f3(284,0).
+WHO_f4(284,0).
+TypeofOutcome_updated(284,2).
 patient(284,neg).
 
-%patient: IT-0061-004040
-Gender(285,2.0).
+%patient: IT-0061-004040 index:285
+Gender(285,f).
 Race(285,White).
-mobcat(285,1.0).
-PA3mcat(285,4.0).
-numberdoses(285,2.0).
-totndrugs(285,14.0).
+mobcat(285,1).
+PA3mcat(285,4).
+numberdoses(285,2).
+totndrugs(285,14).
 cancer01(285).
 OAD01_tot(285).
 HTA01_tot(285).
@@ -6491,7 +6491,7 @@ CVD01_tot(285).
 depress01_tot(285).
 cogdis01_tot(285).
 epilepsia01_tot(285).
-Mmsumrev(285,6.0).
+Mmsumrev(285,6).
 excovidtot(285).
 antiS_0(285,119.0).
 antiS_2(285,2110.0).
@@ -6500,42 +6500,42 @@ antiS_12(285,801.0).
 deltaantiS02(285,1991.0).
 deltaantiS26(285,-1647.0).
 deltaantiS612(285,338.0).
-WHO_f2(285,1.0).
-WHO_f3(285,1.0).
-WHO_f4(285,1.0).
-TypeofOutcome_updated(285,2.0).
+WHO_f2(285,1).
+WHO_f3(285,1).
+WHO_f4(285,1).
+TypeofOutcome_updated(285,2).
 patient(285,neg).
 
-%patient: IT-0061-004150
-Gender(286,2.0).
+%patient: IT-0061-004150 index:286
+Gender(286,f).
 Race(286,White).
-mobcat(286,2.0).
-PA3mcat(286,2.0).
-numberdoses(286,2.0).
-totndrugs(286,6.0).
+mobcat(286,2).
+PA3mcat(286,2).
+numberdoses(286,2).
+totndrugs(286,6).
 frailty01(286).
 park01_tot(286).
 anxiety01_tot(286).
-Mmsumrev(286,2.0).
+Mmsumrev(286,2).
 excovidtot(286).
 antiS_0(286,1530.0).
-WHO_f2(286,0.0).
-WHO_f3(286,0.0).
-WHO_f4(286,0.0).
-TypeofOutcome_updated(286,2.0).
+WHO_f2(286,0).
+WHO_f3(286,0).
+WHO_f4(286,0).
+TypeofOutcome_updated(286,2).
 patient(286,neg).
 
-%patient: IT-0061-004151
-Gender(287,2.0).
+%patient: IT-0061-004151 index:287
+Gender(287,f).
 Race(287,White).
-mobcat(287,2.0).
-PA3mcat(287,2.0).
-numberdoses(287,2.0).
-totndrugs(287,2.0).
+mobcat(287,2).
+PA3mcat(287,2).
+numberdoses(287,2).
+totndrugs(287,2).
 frailty01(287).
 HTA01_tot(287).
 CVD01_tot(287).
-Mmsumrev(287,1.0).
+Mmsumrev(287,1).
 excovidtot(287).
 antiS_0(287,154.0).
 antiS_2(287,1820.0).
@@ -6544,18 +6544,18 @@ antiS_12(287,753.0).
 deltaantiS02(287,1666.0).
 deltaantiS26(287,-1575.0).
 deltaantiS612(287,508.0).
-WHO_f2(287,0.0).
-WHO_f3(287,0.0).
-WHO_f4(287,0.0).
-TypeofOutcome_updated(287,2.0).
+WHO_f2(287,0).
+WHO_f3(287,0).
+WHO_f4(287,0).
+TypeofOutcome_updated(287,2).
 patient(287,neg).
 
-%patient: IT-0061-004154
-Gender(288,1.0).
+%patient: IT-0061-004154 index:288
+Gender(288,m).
 Race(288,White).
-mobcat(288,2.0).
-PA3mcat(288,2.0).
-numberdoses(288,2.0).
+mobcat(288,2).
+PA3mcat(288,2).
+numberdoses(288,2).
 frailty01(288).
 IBD01(288).
 depress01_tot(288).
@@ -6563,7 +6563,7 @@ cogdis01_tot(288).
 thyrdis01_tot(288).
 epilepsia01_tot(288).
 urol01_tot(288).
-Mmsumrev(288,5.0).
+Mmsumrev(288,5).
 excovidtot(288).
 antiS_0(288,476.0).
 antiS_2(288,175.0).
@@ -6572,19 +6572,19 @@ antiS_12(288,6610.0).
 deltaantiS02(288,-301.0).
 deltaantiS26(288,2365.0).
 deltaantiS612(288,4070.0).
-WHO_f2(288,0.0).
-WHO_f3(288,0.0).
-WHO_f4(288,0.0).
-TypeofOutcome_updated(288,2.0).
+WHO_f2(288,0).
+WHO_f3(288,0).
+WHO_f4(288,0).
+TypeofOutcome_updated(288,2).
 patient(288,neg).
 
-%patient: IT-0061-004663
-Gender(289,1.0).
+%patient: IT-0061-004663 index:289
+Gender(289,m).
 Race(289,White).
-mobcat(289,2.0).
-PA3mcat(289,1.0).
-numberdoses(289,2.0).
-totndrugs(289,7.0).
+mobcat(289,2).
+PA3mcat(289,1).
+numberdoses(289,2).
+totndrugs(289,7).
 frailty01(289).
 IBD01(289).
 OAD01_tot(289).
@@ -6592,7 +6592,7 @@ HTA01_tot(289).
 depress01_tot(289).
 epilepsia01_tot(289).
 urol01_tot(289).
-Mmsumrev(289,7.0).
+Mmsumrev(289,7).
 excovidtot(289).
 antiS_0(289,40.5).
 antiS_2(289,3540.0).
@@ -6601,19 +6601,19 @@ antiS_12(289,3140.0).
 deltaantiS02(289,3499.5).
 deltaantiS26(289,-3208.0).
 deltaantiS612(289,2808.0).
-WHO_f2(289,0.0).
-WHO_f3(289,0.0).
-WHO_f4(289,0.0).
-TypeofOutcome_updated(289,2.0).
+WHO_f2(289,0).
+WHO_f3(289,0).
+WHO_f4(289,0).
+TypeofOutcome_updated(289,2).
 patient(289,neg).
 
-%patient: IT-0061-004825
-Gender(290,2.0).
+%patient: IT-0061-004825 index:290
+Gender(290,f).
 Race(290,White).
-mobcat(290,1.0).
-PA3mcat(290,4.0).
-numberdoses(290,2.0).
-totndrugs(290,8.0).
+mobcat(290,1).
+PA3mcat(290,4).
+numberdoses(290,2).
+totndrugs(290,8).
 liverdis01(290).
 OAD01_tot(290).
 PAD01_tot(290).
@@ -6621,7 +6621,7 @@ depress01_tot(290).
 cogdis01_tot(290).
 park01_tot(290).
 anxiety01_tot(290).
-Mmsumrev(290,6.0).
+Mmsumrev(290,6).
 excovidtot(290).
 antiS_0(290,956.0).
 antiS_2(290,8050.0).
@@ -6630,19 +6630,19 @@ antiS_12(290,1990.0).
 deltaantiS02(290,7094.0).
 deltaantiS26(290,-7052.0).
 deltaantiS612(290,992.0).
-WHO_f2(290,1.0).
-WHO_f3(290,1.0).
-WHO_f4(290,1.0).
-TypeofOutcome_updated(290,2.0).
+WHO_f2(290,1).
+WHO_f3(290,1).
+WHO_f4(290,1).
+TypeofOutcome_updated(290,2).
 patient(290,neg).
 
-%patient: IT-0061-004826
-Gender(291,2.0).
+%patient: IT-0061-004826 index:291
+Gender(291,f).
 Race(291,White).
-mobcat(291,1.0).
-PA3mcat(291,4.0).
-numberdoses(291,2.0).
-totndrugs(291,7.0).
+mobcat(291,1).
+PA3mcat(291,4).
+numberdoses(291,2).
+totndrugs(291,7).
 cancer01(291).
 OAD01_tot(291).
 HTA01_tot(291).
@@ -6653,7 +6653,7 @@ depress01_tot(291).
 cogdis01_tot(291).
 thyrdis01_tot(291).
 HD01_tot(291).
-Mmsumrev(291,11.0).
+Mmsumrev(291,11).
 excovidtot(291).
 antiS_0(291,1170.0).
 antiS_2(291,7440.0).
@@ -6662,24 +6662,24 @@ antiS_12(291,2650.0).
 deltaantiS02(291,6270.0).
 deltaantiS26(291,-3640.0).
 deltaantiS612(291,-1150.0).
-WHO_f2(291,1.0).
-WHO_f3(291,1.0).
-WHO_f4(291,1.0).
-TypeofOutcome_updated(291,2.0).
+WHO_f2(291,1).
+WHO_f3(291,1).
+WHO_f4(291,1).
+TypeofOutcome_updated(291,2).
 patient(291,neg).
 
-%patient: IT-0061-004827
-Gender(292,2.0).
+%patient: IT-0061-004827 index:292
+Gender(292,f).
 Race(292,White).
-mobcat(292,1.0).
-PA3mcat(292,4.0).
-numberdoses(292,2.0).
-totndrugs(292,7.0).
+mobcat(292,1).
+PA3mcat(292,4).
+numberdoses(292,2).
+totndrugs(292,7).
 liverdis01(292).
 OAD01_tot(292).
 HTA01_tot(292).
 cogdis01_tot(292).
-Mmsumrev(292,6.0).
+Mmsumrev(292,6).
 excovidtot(292).
 antiS_0(292,1630.0).
 antiS_2(292,6140.0).
@@ -6688,23 +6688,23 @@ antiS_12(292,1900.0).
 deltaantiS02(292,4510.0).
 deltaantiS26(292,-3390.0).
 deltaantiS612(292,-850.0).
-WHO_f2(292,1.0).
-WHO_f3(292,1.0).
-WHO_f4(292,1.0).
-TypeofOutcome_updated(292,2.0).
+WHO_f2(292,1).
+WHO_f3(292,1).
+WHO_f4(292,1).
+TypeofOutcome_updated(292,2).
 patient(292,neg).
 
-%patient: IT-0132-005624
-Gender(293,2.0).
+%patient: IT-0132-005624 index:293
+Gender(293,f).
 Race(293,White).
-mobcat(293,1.0).
-PA3mcat(293,1.0).
-numberdoses(293,2.0).
-totndrugs(293,0.0).
+mobcat(293,1).
+PA3mcat(293,1).
+numberdoses(293,2).
+totndrugs(293,0).
 HTA01_tot(293).
 chrrespdis01_tot(293).
 cogdis01_tot(293).
-Mmsumrev(293,2.0).
+Mmsumrev(293,2).
 excovidtot(293).
 antiS_0(293,430.0).
 antiS_2(293,12100.0).
@@ -6713,19 +6713,19 @@ antiS_12(293,4940.0).
 deltaantiS02(293,11670.0).
 deltaantiS26(293,-10630.0).
 deltaantiS612(293,3470.0).
-WHO_f2(293,0.0).
-WHO_f3(293,0.0).
-WHO_f4(293,0.0).
-TypeofOutcome_updated(293,2.0).
+WHO_f2(293,0).
+WHO_f3(293,0).
+WHO_f4(293,0).
+TypeofOutcome_updated(293,2).
 patient(293,neg).
 
-%patient: IT-0132-005625
-Gender(294,1.0).
+%patient: IT-0132-005625 index:294
+Gender(294,m).
 Race(294,White).
-mobcat(294,2.0).
-PA3mcat(294,1.0).
-numberdoses(294,2.0).
-totndrugs(294,0.0).
+mobcat(294,2).
+PA3mcat(294,1).
+numberdoses(294,2).
+totndrugs(294,0).
 CKD01(294).
 OAD01_tot(294).
 HTA01_tot(294).
@@ -6734,7 +6734,7 @@ AF01_tot(294).
 obesity01_tot(294).
 cogdis01_tot(294).
 HD01_tot(294).
-Mmsumrev(294,7.0).
+Mmsumrev(294,7).
 excovidtot(294).
 antiS_0(294,137.0).
 antiS_2(294,9580.0).
@@ -6743,24 +6743,24 @@ antiS_12(294,3390.0).
 deltaantiS02(294,9443.0).
 deltaantiS26(294,-7840.0).
 deltaantiS612(294,1650.0).
-WHO_f2(294,0.0).
-WHO_f3(294,0.0).
-WHO_f4(294,0.0).
-TypeofOutcome_updated(294,2.0).
+WHO_f2(294,0).
+WHO_f3(294,0).
+WHO_f4(294,0).
+TypeofOutcome_updated(294,2).
 patient(294,neg).
 
-%patient: IT-0143-004086
-Gender(295,1.0).
+%patient: IT-0143-004086 index:295
+Gender(295,m).
 Race(295,White).
-mobcat(295,0.0).
-PA3mcat(295,1.0).
-numberdoses(295,2.0).
-totndrugs(295,5.0).
+mobcat(295,0).
+PA3mcat(295,1).
+numberdoses(295,2).
+totndrugs(295,5).
 frailty01(295).
 depress01_tot(295).
 cogdis01_tot(295).
 epilepsia01_tot(295).
-Mmsumrev(295,2.0).
+Mmsumrev(295,2).
 excovidtot(295).
 antiS_0(295,7.08).
 antiS_2(295,609.0).
@@ -6769,25 +6769,25 @@ antiS_12(295,144.0).
 deltaantiS02(295,601.92).
 deltaantiS26(295,-542.3).
 deltaantiS612(295,77.3).
-WHO_f2(295,0.0).
-WHO_f3(295,0.0).
-WHO_f4(295,0.0).
-TypeofOutcome_updated(295,2.0).
+WHO_f2(295,0).
+WHO_f3(295,0).
+WHO_f4(295,0).
+TypeofOutcome_updated(295,2).
 patient(295,neg).
 
-%patient: IT-0145-004572
-Gender(296,1.0).
+%patient: IT-0145-004572 index:296
+Gender(296,m).
 Race(296,White).
-mobcat(296,1.0).
-PA3mcat(296,4.0).
-numberdoses(296,3.0).
-totndrugs(296,8.0).
+mobcat(296,1).
+PA3mcat(296,4).
+numberdoses(296,3).
+totndrugs(296,8).
 OAD01_tot(296).
 HTA01_tot(296).
 chrrespdis01_tot(296).
 cogdis01_tot(296).
 anxiety01_tot(296).
-Mmsumrev(296,5.0).
+Mmsumrev(296,5).
 antiS_0(296,4.81).
 antiS_2(296,1040.0).
 antiS_6(296,188.0).
@@ -6795,20 +6795,20 @@ antiS_12(296,3630.0).
 deltaantiS02(296,1035.19).
 deltaantiS26(296,-852.0).
 deltaantiS612(296,3442.0).
-WHO_f1(296,0.0).
-WHO_f2(296,0.0).
-WHO_f3(296,0.0).
-WHO_f4(296,0.0).
-TypeofOutcome_updated(296,2.0).
+WHO_f1(296,0).
+WHO_f2(296,0).
+WHO_f3(296,0).
+WHO_f4(296,0).
+TypeofOutcome_updated(296,2).
 patient(296,neg).
 
-%patient: IT-0145-004575
-Gender(297,2.0).
+%patient: IT-0145-004575 index:297
+Gender(297,f).
 Race(297,White).
-mobcat(297,1.0).
-PA3mcat(297,4.0).
-numberdoses(297,3.0).
-totndrugs(297,5.0).
+mobcat(297,1).
+PA3mcat(297,4).
+numberdoses(297,3).
+totndrugs(297,5).
 frailty01(297).
 OAD01_tot(297).
 HTA01_tot(297).
@@ -6817,7 +6817,7 @@ chrrespdis01_tot(297).
 obesity01_tot(297).
 cogdis01_tot(297).
 epilepsia01_tot(297).
-Mmsumrev(297,6.0).
+Mmsumrev(297,6).
 antiS_0(297,4.81).
 antiS_2(297,40.0).
 antiS_6(297,4.81).
@@ -6825,42 +6825,42 @@ antiS_12(297,3290.0).
 deltaantiS02(297,35.19).
 deltaantiS26(297,-35.19).
 deltaantiS612(297,3285.19).
-WHO_f1(297,0.0).
-WHO_f2(297,0.0).
-WHO_f3(297,0.0).
-WHO_f4(297,0.0).
-TypeofOutcome_updated(297,2.0).
+WHO_f1(297,0).
+WHO_f2(297,0).
+WHO_f3(297,0).
+WHO_f4(297,0).
+TypeofOutcome_updated(297,2).
 patient(297,neg).
 
-%patient: IT-0166-004954
-Gender(298,2.0).
+%patient: IT-0166-004954 index:298
+Gender(298,f).
 Race(298,White).
-mobcat(298,0.0).
-PA3mcat(298,0.0).
-numberdoses(298,3.0).
-totndrugs(298,1.0).
+mobcat(298,0).
+PA3mcat(298,0).
+numberdoses(298,3).
+totndrugs(298,1).
 cogdis01_tot(298).
-Mmsumrev(298,0.0).
+Mmsumrev(298,0).
 excovidtot(298).
 antiS_0(298,61.3).
 antiS_2(298,39800.0).
 deltaantiS02(298,39738.7).
-WHO_f2(298,0.0).
-WHO_f3(298,0.0).
-WHO_f4(298,0.0).
-TypeofOutcome_updated(298,2.0).
+WHO_f2(298,0).
+WHO_f3(298,0).
+WHO_f4(298,0).
+TypeofOutcome_updated(298,2).
 patient(298,neg).
 
-%patient: IT-0166-004966
-Gender(299,2.0).
+%patient: IT-0166-004966 index:299
+Gender(299,f).
 Race(299,White).
-mobcat(299,3.0).
-PA3mcat(299,4.0).
-numberdoses(299,3.0).
-totndrugs(299,1.0).
+mobcat(299,3).
+PA3mcat(299,4).
+numberdoses(299,3).
+totndrugs(299,1).
 cogdis01_tot(299).
 anxiety01_tot(299).
-Mmsumrev(299,1.0).
+Mmsumrev(299,1).
 excovidtot(299).
 antiS_0(299,209.0).
 antiS_2(299,41200.0).
@@ -6869,44 +6869,44 @@ antiS_12(299,180.0).
 deltaantiS02(299,40991.0).
 deltaantiS26(299,-31970.0).
 deltaantiS612(299,-9050.0).
-WHO_f2(299,0.0).
-WHO_f3(299,0.0).
-WHO_f4(299,0.0).
-TypeofOutcome_updated(299,2.0).
+WHO_f2(299,0).
+WHO_f3(299,0).
+WHO_f4(299,0).
+TypeofOutcome_updated(299,2).
 patient(299,neg).
 
-%patient: IT-0166-004967
-Gender(300,2.0).
+%patient: IT-0166-004967 index:300
+Gender(300,f).
 Race(300,White).
-mobcat(300,1.0).
-PA3mcat(300,4.0).
-numberdoses(300,3.0).
-totndrugs(300,2.0).
+mobcat(300,1).
+PA3mcat(300,4).
+numberdoses(300,3).
+totndrugs(300,2).
 OAD01_tot(300).
 cogdis01_tot(300).
 epilepsia01_tot(300).
-Mmsumrev(300,2.0).
+Mmsumrev(300,2).
 antiS_0(300,4.81).
 antiS_2(300,1180.0).
 antiS_6(300,171.0).
 deltaantiS02(300,1175.19).
 deltaantiS26(300,-1009.0).
-WHO_f1(300,0.0).
-WHO_f2(300,0.0).
-WHO_f3(300,0.0).
-WHO_f4(300,0.0).
-TypeofOutcome_updated(300,2.0).
+WHO_f1(300,0).
+WHO_f2(300,0).
+WHO_f3(300,0).
+WHO_f4(300,0).
+TypeofOutcome_updated(300,2).
 patient(300,neg).
 
-%patient: IT-0166-004969
-Gender(301,2.0).
+%patient: IT-0166-004969 index:301
+Gender(301,f).
 Race(301,White).
-mobcat(301,1.0).
-PA3mcat(301,4.0).
-numberdoses(301,3.0).
-totndrugs(301,2.0).
+mobcat(301,1).
+PA3mcat(301,4).
+numberdoses(301,3).
+totndrugs(301,2).
 epilepsia01_tot(301).
-Mmsumrev(301,1.0).
+Mmsumrev(301,1).
 antiS_0(301,8.93).
 antiS_2(301,314.0).
 antiS_6(301,375.0).
@@ -6914,25 +6914,25 @@ antiS_12(301,6920.0).
 deltaantiS02(301,305.07).
 deltaantiS26(301,61.0).
 deltaantiS612(301,6545.0).
-WHO_f1(301,0.0).
-WHO_f2(301,0.0).
-WHO_f3(301,0.0).
-WHO_f4(301,0.0).
-TypeofOutcome_updated(301,2.0).
+WHO_f1(301,0).
+WHO_f2(301,0).
+WHO_f3(301,0).
+WHO_f4(301,0).
+TypeofOutcome_updated(301,2).
 patient(301,neg).
 
-%patient: IT-0166-004971
-Gender(302,2.0).
+%patient: IT-0166-004971 index:302
+Gender(302,f).
 Race(302,White).
-mobcat(302,1.0).
-PA3mcat(302,4.0).
-numberdoses(302,3.0).
-totndrugs(302,2.0).
+mobcat(302,1).
+PA3mcat(302,4).
+numberdoses(302,3).
+totndrugs(302,2).
 immunedis01(302).
 cogdis01_tot(302).
 park01_tot(302).
 epilepsia01_tot(302).
-Mmsumrev(302,3.0).
+Mmsumrev(302,3).
 excovidtot(302).
 antiS_0(302,31.1).
 antiS_2(302,11700.0).
@@ -6941,23 +6941,23 @@ antiS_12(302,1570.0).
 deltaantiS02(302,11668.9).
 deltaantiS26(302,-8630.0).
 deltaantiS612(302,-1500.0).
-WHO_f2(302,0.0).
-WHO_f3(302,0.0).
-WHO_f4(302,0.0).
-TypeofOutcome_updated(302,2.0).
+WHO_f2(302,0).
+WHO_f3(302,0).
+WHO_f4(302,0).
+TypeofOutcome_updated(302,2).
 patient(302,neg).
 
-%patient: IT-0166-004972
-Gender(303,2.0).
+%patient: IT-0166-004972 index:303
+Gender(303,f).
 Race(303,White).
-mobcat(303,3.0).
-PA3mcat(303,4.0).
-numberdoses(303,3.0).
-totndrugs(303,2.0).
+mobcat(303,3).
+PA3mcat(303,4).
+numberdoses(303,3).
+totndrugs(303,2).
 CVD01_tot(303).
 obesity01_tot(303).
 cogdis01_tot(303).
-Mmsumrev(303,1.0).
+Mmsumrev(303,1).
 excovidtot(303).
 antiS_0(303,69.4).
 antiS_2(303,1010.0).
@@ -6966,24 +6966,24 @@ antiS_12(303,680.0).
 deltaantiS02(303,940.6).
 deltaantiS26(303,140.0).
 deltaantiS612(303,-470.0).
-WHO_f1(303,0.0).
-WHO_f2(303,0.0).
-WHO_f3(303,0.0).
-WHO_f4(303,0.0).
-TypeofOutcome_updated(303,2.0).
+WHO_f1(303,0).
+WHO_f2(303,0).
+WHO_f3(303,0).
+WHO_f4(303,0).
+TypeofOutcome_updated(303,2).
 patient(303,neg).
 
-%patient: IT-0166-004974
-Gender(304,2.0).
+%patient: IT-0166-004974 index:304
+Gender(304,f).
 Race(304,White).
-mobcat(304,0.0).
-PA3mcat(304,0.0).
-numberdoses(304,3.0).
-totndrugs(304,1.0).
+mobcat(304,0).
+PA3mcat(304,0).
+numberdoses(304,3).
+totndrugs(304,1).
 frailty01(304).
 depress01_tot(304).
 cogdis01_tot(304).
-Mmsumrev(304,2.0).
+Mmsumrev(304,2).
 excovidtot(304).
 antiS_0(304,312.0).
 antiS_2(304,37900.0).
@@ -6992,25 +6992,25 @@ antiS_12(304,1910.0).
 deltaantiS02(304,37588.0).
 deltaantiS26(304,-36260.0).
 deltaantiS612(304,270.0).
-WHO_f1(304,0.0).
-WHO_f2(304,0.0).
-WHO_f3(304,0.0).
-WHO_f4(304,0.0).
-TypeofOutcome_updated(304,2.0).
+WHO_f1(304,0).
+WHO_f2(304,0).
+WHO_f3(304,0).
+WHO_f4(304,0).
+TypeofOutcome_updated(304,2).
 patient(304,neg).
 
-%patient: IT-0166-004975
-Gender(305,2.0).
+%patient: IT-0166-004975 index:305
+Gender(305,f).
 Race(305,White).
-mobcat(305,1.0).
-PA3mcat(305,4.0).
-numberdoses(305,3.0).
-totndrugs(305,3.0).
+mobcat(305,1).
+PA3mcat(305,4).
+numberdoses(305,3).
+totndrugs(305,3).
 frailty01(305).
 depress01_tot(305).
 cogdis01_tot(305).
 anxiety01_tot(305).
-Mmsumrev(305,2.0).
+Mmsumrev(305,2).
 excovidtot(305).
 antiS_0(305,26.3).
 antiS_2(305,35500.0).
@@ -7019,24 +7019,24 @@ antiS_12(305,5940.0).
 deltaantiS02(305,35473.7).
 deltaantiS26(305,-25660.0).
 deltaantiS612(305,-3900.0).
-WHO_f2(305,0.0).
-WHO_f3(305,0.0).
-WHO_f4(305,0.0).
-TypeofOutcome_updated(305,2.0).
+WHO_f2(305,0).
+WHO_f3(305,0).
+WHO_f4(305,0).
+TypeofOutcome_updated(305,2).
 patient(305,neg).
 
-%patient: IT-0166-004977
-Gender(306,2.0).
+%patient: IT-0166-004977 index:306
+Gender(306,f).
 Race(306,White).
-mobcat(306,1.0).
-PA3mcat(306,4.0).
-numberdoses(306,3.0).
-totndrugs(306,1.0).
+mobcat(306,1).
+PA3mcat(306,4).
+numberdoses(306,3).
+totndrugs(306,1).
 frailty01(306).
 poornut01(306).
 cogdis01_tot(306).
 epilepsia01_tot(306).
-Mmsumrev(306,1.0).
+Mmsumrev(306,1).
 excovidtot(306).
 antiS_0(306,57.1).
 antiS_2(306,32100.0).
@@ -7045,43 +7045,43 @@ antiS_12(306,7070.0).
 deltaantiS02(306,32042.9).
 deltaantiS26(306,-28260.0).
 deltaantiS612(306,3230.0).
-WHO_f2(306,0.0).
-WHO_f3(306,0.0).
-WHO_f4(306,0.0).
-TypeofOutcome_updated(306,2.0).
+WHO_f2(306,0).
+WHO_f3(306,0).
+WHO_f4(306,0).
+TypeofOutcome_updated(306,2).
 patient(306,neg).
 
-%patient: IT-0166-005012
-Gender(307,2.0).
+%patient: IT-0166-005012 index:307
+Gender(307,f).
 Race(307,White).
-mobcat(307,4.0).
-PA3mcat(307,4.0).
-numberdoses(307,3.0).
-totndrugs(307,6.0).
+mobcat(307,4).
+PA3mcat(307,4).
+numberdoses(307,3).
+totndrugs(307,6).
 frailty01(307).
 OAD01_tot(307).
 depress01_tot(307).
 cogdis01_tot(307).
 park01_tot(307).
 thyrdis01_tot(307).
-Mmsumrev(307,6.0).
+Mmsumrev(307,6).
 antiS_0(307,99.3).
 antiS_2(307,41000.0).
 deltaantiS02(307,40900.7).
-WHO_f1(307,0.0).
-WHO_f2(307,0.0).
-WHO_f3(307,0.0).
-WHO_f4(307,0.0).
-TypeofOutcome_updated(307,2.0).
+WHO_f1(307,0).
+WHO_f2(307,0).
+WHO_f3(307,0).
+WHO_f4(307,0).
+TypeofOutcome_updated(307,2).
 patient(307,neg).
 
-%patient: IT-0166-005014
-Gender(308,2.0).
+%patient: IT-0166-005014 index:308
+Gender(308,f).
 Race(308,White).
-mobcat(308,4.0).
-PA3mcat(308,4.0).
-numberdoses(308,3.0).
-totndrugs(308,3.0).
+mobcat(308,4).
+PA3mcat(308,4).
+numberdoses(308,3).
+totndrugs(308,3).
 CKD01(308).
 OAD01_tot(308).
 HTA01_tot(308).
@@ -7090,24 +7090,24 @@ obesity01_tot(308).
 cogdis01_tot(308).
 thyrdis01_tot(308).
 HD01_tot(308).
-Mmsumrev(308,7.0).
+Mmsumrev(308,7).
 excovidtot(308).
 antiS_0(308,39.4).
 antiS_2(308,40200.0).
 deltaantiS02(308,40160.6).
-WHO_f2(308,0.0).
-WHO_f3(308,0.0).
-WHO_f4(308,0.0).
-TypeofOutcome_updated(308,2.0).
+WHO_f2(308,0).
+WHO_f3(308,0).
+WHO_f4(308,0).
+TypeofOutcome_updated(308,2).
 patient(308,neg).
 
-%patient: IT-0166-005020
-Gender(309,2.0).
+%patient: IT-0166-005020 index:309
+Gender(309,f).
 Race(309,White).
-mobcat(309,4.0).
-PA3mcat(309,4.0).
-numberdoses(309,3.0).
-totndrugs(309,1.0).
+mobcat(309,4).
+PA3mcat(309,4).
+numberdoses(309,3).
+totndrugs(309,1).
 OAD01_tot(309).
 HTA01_tot(309).
 CVD01_tot(309).
@@ -7115,30 +7115,30 @@ PAD01_tot(309).
 depress01_tot(309).
 cogdis01_tot(309).
 HD01_tot(309).
-Mmsumrev(309,7.0).
+Mmsumrev(309,7).
 excovidtot(309).
 antiS_0(309,53.0).
 antiS_2(309,21900.0).
 antiS_6(309,2050.0).
 deltaantiS02(309,21847.0).
 deltaantiS26(309,-19850.0).
-WHO_f2(309,0.0).
-WHO_f3(309,0.0).
-WHO_f4(309,0.0).
-TypeofOutcome_updated(309,2.0).
+WHO_f2(309,0).
+WHO_f3(309,0).
+WHO_f4(309,0).
+TypeofOutcome_updated(309,2).
 patient(309,neg).
 
-%patient: IT-0166-005026
-Gender(310,2.0).
+%patient: IT-0166-005026 index:310
+Gender(310,f).
 Race(310,White).
-mobcat(310,5.0).
-PA3mcat(310,4.0).
-numberdoses(310,3.0).
-totndrugs(310,2.0).
+mobcat(310,5).
+PA3mcat(310,4).
+numberdoses(310,3).
+totndrugs(310,2).
 OAD01_tot(310).
 depress01_tot(310).
 cogdis01_tot(310).
-Mmsumrev(310,2.0).
+Mmsumrev(310,2).
 excovidtot(310).
 antiS_0(310,145.0).
 antiS_2(310,39800.0).
@@ -7147,25 +7147,25 @@ antiS_12(310,4390.0).
 deltaantiS02(310,39655.0).
 deltaantiS26(310,-37060.0).
 deltaantiS612(310,1650.0).
-WHO_f1(310,0.0).
-WHO_f2(310,0.0).
-WHO_f3(310,0.0).
-WHO_f4(310,0.0).
-TypeofOutcome_updated(310,2.0).
+WHO_f1(310,0).
+WHO_f2(310,0).
+WHO_f3(310,0).
+WHO_f4(310,0).
+TypeofOutcome_updated(310,2).
 patient(310,neg).
 
-%patient: IT-0166-005028
-Gender(311,2.0).
+%patient: IT-0166-005028 index:311
+Gender(311,f).
 Race(311,White).
-mobcat(311,3.0).
-numberdoses(311,3.0).
-totndrugs(311,2.0).
+mobcat(311,3).
+numberdoses(311,3).
+totndrugs(311,2).
 OAD01_tot(311).
 HTA01_tot(311).
 CVD01_tot(311).
 cogdis01_tot(311).
 HD01_tot(311).
-Mmsumrev(311,3.0).
+Mmsumrev(311,3).
 excovidtot(311).
 antiS_0(311,87.5).
 antiS_2(311,27000.0).
@@ -7174,26 +7174,26 @@ antiS_12(311,1880.0).
 deltaantiS02(311,26912.5).
 deltaantiS26(311,-24710.0).
 deltaantiS612(311,-410.0).
-WHO_f1(311,0.0).
-WHO_f2(311,0.0).
-WHO_f3(311,0.0).
-WHO_f4(311,0.0).
-TypeofOutcome_updated(311,2.0).
+WHO_f1(311,0).
+WHO_f2(311,0).
+WHO_f3(311,0).
+WHO_f4(311,0).
+TypeofOutcome_updated(311,2).
 patient(311,neg).
 
-%patient: IT-0166-005030
-Gender(312,1.0).
+%patient: IT-0166-005030 index:312
+Gender(312,m).
 Race(312,White).
-mobcat(312,3.0).
-PA3mcat(312,4.0).
-numberdoses(312,3.0).
-totndrugs(312,4.0).
+mobcat(312,3).
+PA3mcat(312,4).
+numberdoses(312,3).
+totndrugs(312,4).
 HTA01_tot(312).
 CVD01_tot(312).
 depress01_tot(312).
 cogdis01_tot(312).
 HD01_tot(312).
-Mmsumrev(312,5.0).
+Mmsumrev(312,5).
 excovidtot(312).
 antiS_0(312,1090.0).
 antiS_2(312,2080.0).
@@ -7202,25 +7202,25 @@ antiS_12(312,15300.0).
 deltaantiS02(312,990.0).
 deltaantiS26(312,19220.0).
 deltaantiS612(312,-6000.0).
-WHO_f1(312,0.0).
-WHO_f2(312,0.0).
-WHO_f3(312,0.0).
-WHO_f4(312,0.0).
-TypeofOutcome_updated(312,2.0).
+WHO_f1(312,0).
+WHO_f2(312,0).
+WHO_f3(312,0).
+WHO_f4(312,0).
+TypeofOutcome_updated(312,2).
 patient(312,neg).
 
-%patient: IT-0166-005031
-Gender(313,1.0).
+%patient: IT-0166-005031 index:313
+Gender(313,m).
 Race(313,White).
-mobcat(313,1.0).
-PA3mcat(313,4.0).
-numberdoses(313,3.0).
-totndrugs(313,2.0).
+mobcat(313,1).
+PA3mcat(313,4).
+numberdoses(313,3).
+totndrugs(313,2).
 frailty01(313).
 HTA01_tot(313).
 depress01_tot(313).
 park01_tot(313).
-Mmsumrev(313,4.0).
+Mmsumrev(313,4).
 excovidtot(313).
 antiS_0(313,26.1).
 antiS_2(313,433.0).
@@ -7229,23 +7229,23 @@ antiS_12(313,308.0).
 deltaantiS02(313,406.9).
 deltaantiS26(313,17267.0).
 deltaantiS612(313,-17392.0).
-WHO_f2(313,0.0).
-WHO_f3(313,0.0).
-WHO_f4(313,0.0).
-TypeofOutcome_updated(313,2.0).
+WHO_f2(313,0).
+WHO_f3(313,0).
+WHO_f4(313,0).
+TypeofOutcome_updated(313,2).
 patient(313,neg).
 
-%patient: IT-0166-005034
-Gender(314,1.0).
+%patient: IT-0166-005034 index:314
+Gender(314,m).
 Race(314,White).
-mobcat(314,0.0).
-PA3mcat(314,2.0).
-numberdoses(314,3.0).
-totndrugs(314,6.0).
+mobcat(314,0).
+PA3mcat(314,2).
+numberdoses(314,3).
+totndrugs(314,6).
 cancer01(314).
 depress01_tot(314).
 cogdis01_tot(314).
-Mmsumrev(314,2.0).
+Mmsumrev(314,2).
 antiS_0(314,4.81).
 antiS_2(314,2070.0).
 antiS_6(314,236.0).
@@ -7253,23 +7253,23 @@ antiS_12(314,2880.0).
 deltaantiS02(314,2065.19).
 deltaantiS26(314,-1834.0).
 deltaantiS612(314,2644.0).
-WHO_f1(314,0.0).
-WHO_f2(314,0.0).
-WHO_f3(314,0.0).
-WHO_f4(314,0.0).
-TypeofOutcome_updated(314,2.0).
+WHO_f1(314,0).
+WHO_f2(314,0).
+WHO_f3(314,0).
+WHO_f4(314,0).
+TypeofOutcome_updated(314,2).
 patient(314,neg).
 
-%patient: IT-0166-005037
-Gender(315,2.0).
+%patient: IT-0166-005037 index:315
+Gender(315,f).
 Race(315,White).
-mobcat(315,2.0).
-PA3mcat(315,1.0).
-numberdoses(315,3.0).
-totndrugs(315,1.0).
+mobcat(315,2).
+PA3mcat(315,1).
+numberdoses(315,3).
+totndrugs(315,1).
 HTA01_tot(315).
 cogdis01_tot(315).
-Mmsumrev(315,1.0).
+Mmsumrev(315,1).
 antiS_0(315,4.81).
 antiS_2(315,4040.0).
 antiS_6(315,445.0).
@@ -7277,23 +7277,23 @@ antiS_12(315,8500.0).
 deltaantiS02(315,4035.19).
 deltaantiS26(315,-3595.0).
 deltaantiS612(315,8055.0).
-WHO_f1(315,0.0).
-WHO_f2(315,0.0).
-WHO_f3(315,0.0).
-WHO_f4(315,0.0).
-TypeofOutcome_updated(315,2.0).
+WHO_f1(315,0).
+WHO_f2(315,0).
+WHO_f3(315,0).
+WHO_f4(315,0).
+TypeofOutcome_updated(315,2).
 patient(315,neg).
 
-%patient: IT-0166-005040
-Gender(316,1.0).
+%patient: IT-0166-005040 index:316
+Gender(316,m).
 Race(316,White).
-mobcat(316,2.0).
-PA3mcat(316,4.0).
-numberdoses(316,3.0).
-totndrugs(316,1.0).
+mobcat(316,2).
+PA3mcat(316,4).
+numberdoses(316,3).
+totndrugs(316,1).
 depress01_tot(316).
 cogdis01_tot(316).
-Mmsumrev(316,1.0).
+Mmsumrev(316,1).
 antiS_0(316,4.81).
 antiS_2(316,1390.0).
 antiS_6(316,197.0).
@@ -7301,51 +7301,51 @@ antiS_12(316,716.0).
 deltaantiS02(316,1385.19).
 deltaantiS26(316,-1193.0).
 deltaantiS612(316,519.0).
-WHO_f1(316,0.0).
-WHO_f2(316,0.0).
-WHO_f3(316,0.0).
-WHO_f4(316,0.0).
-TypeofOutcome_updated(316,2.0).
+WHO_f1(316,0).
+WHO_f2(316,0).
+WHO_f3(316,0).
+WHO_f4(316,0).
+TypeofOutcome_updated(316,2).
 patient(316,neg).
 
-%patient: IT-0166-005076
-Gender(317,2.0).
+%patient: IT-0166-005076 index:317
+Gender(317,f).
 Race(317,White).
-mobcat(317,1.0).
-PA3mcat(317,1.0).
-numberdoses(317,3.0).
-totndrugs(317,4.0).
+mobcat(317,1).
+PA3mcat(317,1).
+numberdoses(317,3).
+totndrugs(317,4).
 HTA01_tot(317).
 CVD01_tot(317).
 chrrespdis01_tot(317).
 cogdis01_tot(317).
 anxiety01_tot(317).
 HD01_tot(317).
-Mmsumrev(317,4.0).
+Mmsumrev(317,4).
 excovidtot(317).
 antiS_0(317,67.2).
 antiS_2(317,9180.0).
 antiS_6(317,1410.0).
 deltaantiS02(317,9112.8).
 deltaantiS26(317,-7770.0).
-WHO_f1(317,0.0).
-WHO_f3(317,0.0).
-WHO_f4(317,0.0).
-TypeofOutcome_updated(317,2.0).
+WHO_f1(317,0).
+WHO_f3(317,0).
+WHO_f4(317,0).
+TypeofOutcome_updated(317,2).
 patient(317,neg).
 
-%patient: IT-0166-005081
-Gender(318,1.0).
+%patient: IT-0166-005081 index:318
+Gender(318,m).
 Race(318,White).
-mobcat(318,2.0).
-PA3mcat(318,1.0).
-numberdoses(318,2.0).
-totndrugs(318,2.0).
+mobcat(318,2).
+PA3mcat(318,1).
+numberdoses(318,2).
+totndrugs(318,2).
 HTA01_tot(318).
 CVD01_tot(318).
 cogdis01_tot(318).
 HD01_tot(318).
-Mmsumrev(318,2.0).
+Mmsumrev(318,2).
 excovidtot(318).
 antiS_0(318,93.4).
 antiS_2(318,19500.0).
@@ -7354,18 +7354,18 @@ antiS_12(318,2010.0).
 deltaantiS02(318,19406.6).
 deltaantiS26(318,-17100.0).
 deltaantiS612(318,-390.0).
-WHO_f1(318,0.0).
-WHO_f2(318,0.0).
-WHO_f3(318,0.0).
-WHO_f4(318,0.0).
-TypeofOutcome_updated(318,2.0).
+WHO_f1(318,0).
+WHO_f2(318,0).
+WHO_f3(318,0).
+WHO_f4(318,0).
+TypeofOutcome_updated(318,2).
 patient(318,neg).
 
-%patient: IT-0166-005085
-Gender(319,2.0).
+%patient: IT-0166-005085 index:319
+Gender(319,f).
 Race(319,White).
-numberdoses(319,3.0).
-totndrugs(319,4.0).
+numberdoses(319,3).
+totndrugs(319,4).
 frailty01(319).
 HTA01_tot(319).
 CVD01_tot(319).
@@ -7373,29 +7373,29 @@ depress01_tot(319).
 cogdis01_tot(319).
 thyrdis01_tot(319).
 HD01_tot(319).
-Mmsumrev(319,4.0).
+Mmsumrev(319,4).
 excovidtot(319).
 antiS_0(319,235.0).
-WHO_f1(319,0.0).
-WHO_f2(319,0.0).
-WHO_f3(319,0.0).
-WHO_f4(319,0.0).
-TypeofOutcome_updated(319,2.0).
+WHO_f1(319,0).
+WHO_f2(319,0).
+WHO_f3(319,0).
+WHO_f4(319,0).
+TypeofOutcome_updated(319,2).
 patient(319,neg).
 
-%patient: IT-0166-005090
-Gender(320,2.0).
+%patient: IT-0166-005090 index:320
+Gender(320,f).
 Race(320,White).
-mobcat(320,1.0).
-PA3mcat(320,4.0).
-numberdoses(320,3.0).
-totndrugs(320,2.0).
+mobcat(320,1).
+PA3mcat(320,4).
+numberdoses(320,3).
+totndrugs(320,2).
 frailty01(320).
 HTA01_tot(320).
 CVD01_tot(320).
 cogdis01_tot(320).
 HD01_tot(320).
-Mmsumrev(320,3.0).
+Mmsumrev(320,3).
 excovidtot(320).
 antiS_0(320,151.0).
 antiS_2(320,7410.0).
@@ -7404,24 +7404,24 @@ antiS_12(320,1960.0).
 deltaantiS02(320,7259.0).
 deltaantiS26(320,-5750.0).
 deltaantiS612(320,300.0).
-WHO_f1(320,0.0).
-WHO_f2(320,0.0).
-WHO_f3(320,0.0).
-WHO_f4(320,0.0).
-TypeofOutcome_updated(320,2.0).
+WHO_f1(320,0).
+WHO_f2(320,0).
+WHO_f3(320,0).
+WHO_f4(320,0).
+TypeofOutcome_updated(320,2).
 patient(320,neg).
 
-%patient: IT-0166-005092
-Gender(321,1.0).
+%patient: IT-0166-005092 index:321
+Gender(321,m).
 Race(321,White).
-mobcat(321,3.0).
-PA3mcat(321,4.0).
-numberdoses(321,3.0).
-totndrugs(321,4.0).
+mobcat(321,3).
+PA3mcat(321,4).
+numberdoses(321,3).
+totndrugs(321,4).
 poornut01(321).
 cogdis01_tot(321).
 thyrdis01_tot(321).
-Mmsumrev(321,2.0).
+Mmsumrev(321,2).
 excovidtot(321).
 antiS_0(321,49.1).
 antiS_2(321,21000.0).
@@ -7430,23 +7430,23 @@ antiS_12(321,3790.0).
 deltaantiS02(321,20950.9).
 deltaantiS26(321,-11380.0).
 deltaantiS612(321,-5830.0).
-WHO_f1(321,0.0).
-WHO_f2(321,0.0).
-WHO_f3(321,0.0).
-WHO_f4(321,0.0).
-TypeofOutcome_updated(321,2.0).
+WHO_f1(321,0).
+WHO_f2(321,0).
+WHO_f3(321,0).
+WHO_f4(321,0).
+TypeofOutcome_updated(321,2).
 patient(321,neg).
 
-%patient: IT-0166-005093
-Gender(322,2.0).
-mobcat(322,3.0).
-PA3mcat(322,1.0).
-numberdoses(322,3.0).
-totndrugs(322,6.0).
+%patient: IT-0166-005093 index:322
+Gender(322,f).
+mobcat(322,3).
+PA3mcat(322,1).
+numberdoses(322,3).
+totndrugs(322,6).
 CVD01_tot(322).
 depress01_tot(322).
 cogdis01_tot(322).
-Mmsumrev(322,1.0).
+Mmsumrev(322,1).
 antiS_0(322,63.1).
 antiS_2(322,28400.0).
 antiS_6(322,1800.0).
@@ -7454,26 +7454,26 @@ antiS_12(322,1800.0).
 deltaantiS02(322,28336.9).
 deltaantiS26(322,-26600.0).
 deltaantiS612(322,0.0).
-WHO_f1(322,0.0).
-WHO_f2(322,0.0).
-WHO_f3(322,0.0).
-WHO_f4(322,0.0).
-TypeofOutcome_updated(322,2.0).
+WHO_f1(322,0).
+WHO_f2(322,0).
+WHO_f3(322,0).
+WHO_f4(322,0).
+TypeofOutcome_updated(322,2).
 patient(322,neg).
 
-%patient: IT-0166-005094
-Gender(323,1.0).
+%patient: IT-0166-005094 index:323
+Gender(323,m).
 Race(323,White).
-mobcat(323,3.0).
-PA3mcat(323,4.0).
-numberdoses(323,3.0).
-totndrugs(323,5.0).
+mobcat(323,3).
+PA3mcat(323,4).
+numberdoses(323,3).
+totndrugs(323,5).
 CKD01(323).
 HTA01_tot(323).
 CVD01_tot(323).
 cogdis01_tot(323).
 HD01_tot(323).
-Mmsumrev(323,3.0).
+Mmsumrev(323,3).
 excovidtot(323).
 antiS_0(323,74.9).
 antiS_2(323,33800.0).
@@ -7482,27 +7482,27 @@ antiS_12(323,1290.0).
 deltaantiS02(323,33725.1).
 deltaantiS26(323,-20800.0).
 deltaantiS612(323,-11710.0).
-WHO_f1(323,0.0).
-WHO_f2(323,0.0).
-WHO_f3(323,0.0).
-WHO_f4(323,0.0).
-TypeofOutcome_updated(323,2.0).
+WHO_f1(323,0).
+WHO_f2(323,0).
+WHO_f3(323,0).
+WHO_f4(323,0).
+TypeofOutcome_updated(323,2).
 patient(323,neg).
 
-%patient: IT-0166-005102
-Gender(324,2.0).
+%patient: IT-0166-005102 index:324
+Gender(324,f).
 Race(324,White).
-mobcat(324,3.0).
-PA3mcat(324,4.0).
-numberdoses(324,3.0).
-totndrugs(324,5.0).
+mobcat(324,3).
+PA3mcat(324,4).
+numberdoses(324,3).
+totndrugs(324,5).
 OAD01_tot(324).
 HTA01_tot(324).
 CVD01_tot(324).
 depress01_tot(324).
 anxiety01_tot(324).
 HD01_tot(324).
-Mmsumrev(324,5.0).
+Mmsumrev(324,5).
 excovidtot(324).
 antiS_0(324,247.0).
 antiS_2(324,18300.0).
@@ -7511,19 +7511,19 @@ antiS_12(324,3040.0).
 deltaantiS02(324,18053.0).
 deltaantiS26(324,-16750.0).
 deltaantiS612(324,1490.0).
-WHO_f1(324,0.0).
-WHO_f2(324,0.0).
-WHO_f3(324,0.0).
-WHO_f4(324,0.0).
-TypeofOutcome_updated(324,2.0).
+WHO_f1(324,0).
+WHO_f2(324,0).
+WHO_f3(324,0).
+WHO_f4(324,0).
+TypeofOutcome_updated(324,2).
 patient(324,neg).
 
-%patient: IT-0166-005103
-Gender(325,2.0).
+%patient: IT-0166-005103 index:325
+Gender(325,f).
 Race(325,White).
-mobcat(325,0.0).
-PA3mcat(325,2.0).
-numberdoses(325,3.0).
+mobcat(325,0).
+PA3mcat(325,2).
+numberdoses(325,3).
 OAD01_tot(325).
 CVD01_tot(325).
 obesity01_tot(325).
@@ -7532,7 +7532,7 @@ cogdis01_tot(325).
 thyrdis01_tot(325).
 anxiety01_tot(325).
 HD01_tot(325).
-Mmsumrev(325,7.0).
+Mmsumrev(325,7).
 excovidtot(325).
 antiS_0(325,56.2).
 antiS_2(325,21400.0).
@@ -7541,20 +7541,20 @@ antiS_12(325,9760.0).
 deltaantiS02(325,21343.8).
 deltaantiS26(325,-17190.0).
 deltaantiS612(325,5550.0).
-WHO_f1(325,0.0).
-WHO_f2(325,0.0).
-WHO_f3(325,0.0).
-WHO_f4(325,0.0).
-TypeofOutcome_updated(325,2.0).
+WHO_f1(325,0).
+WHO_f2(325,0).
+WHO_f3(325,0).
+WHO_f4(325,0).
+TypeofOutcome_updated(325,2).
 patient(325,neg).
 
-%patient: IT-0166-005106
-Gender(326,2.0).
+%patient: IT-0166-005106 index:326
+Gender(326,f).
 Race(326,White).
-mobcat(326,4.0).
-PA3mcat(326,4.0).
-numberdoses(326,3.0).
-totndrugs(326,12.0).
+mobcat(326,4).
+PA3mcat(326,4).
+numberdoses(326,3).
+totndrugs(326,12).
 IBD01(326).
 OAD01_tot(326).
 CVD01_tot(326).
@@ -7562,7 +7562,7 @@ depress01_tot(326).
 cogdis01_tot(326).
 epilepsia01_tot(326).
 anxiety01_tot(326).
-Mmsumrev(326,5.0).
+Mmsumrev(326,5).
 excovidtot(326).
 antiS_0(326,376.0).
 antiS_2(326,34900.0).
@@ -7571,19 +7571,19 @@ antiS_12(326,8140.0).
 deltaantiS02(326,34524.0).
 deltaantiS26(326,-20800.0).
 deltaantiS612(326,-5960.0).
-WHO_f1(326,0.0).
-WHO_f2(326,0.0).
-WHO_f3(326,0.0).
-WHO_f4(326,0.0).
-TypeofOutcome_updated(326,2.0).
+WHO_f1(326,0).
+WHO_f2(326,0).
+WHO_f3(326,0).
+WHO_f4(326,0).
+TypeofOutcome_updated(326,2).
 patient(326,neg).
 
-%patient: IT-0166-005108
-Gender(327,1.0).
+%patient: IT-0166-005108 index:327
+Gender(327,m).
 Race(327,White).
-mobcat(327,0.0).
-PA3mcat(327,1.0).
-numberdoses(327,3.0).
+mobcat(327,0).
+PA3mcat(327,1).
+numberdoses(327,3).
 CKD01(327).
 cancer01(327).
 OAD01_tot(327).
@@ -7593,7 +7593,7 @@ depress01_tot(327).
 park01_tot(327).
 HD01_tot(327).
 urol01_tot(327).
-Mmsumrev(327,8.0).
+Mmsumrev(327,8).
 excovidtot(327).
 antiS_0(327,518.0).
 antiS_2(327,41200.0).
@@ -7602,23 +7602,23 @@ antiS_12(327,7110.0).
 deltaantiS02(327,40682.0).
 deltaantiS26(327,-20900.0).
 deltaantiS612(327,-13190.0).
-WHO_f1(327,0.0).
-WHO_f2(327,0.0).
-WHO_f3(327,0.0).
-WHO_f4(327,0.0).
-TypeofOutcome_updated(327,2.0).
+WHO_f1(327,0).
+WHO_f2(327,0).
+WHO_f3(327,0).
+WHO_f4(327,0).
+TypeofOutcome_updated(327,2).
 patient(327,neg).
 
-%patient: IT-0166-005352
-Gender(328,2.0).
+%patient: IT-0166-005352 index:328
+Gender(328,f).
 Race(328,White).
-mobcat(328,1.0).
-PA3mcat(328,4.0).
-numberdoses(328,3.0).
-totndrugs(328,2.0).
+mobcat(328,1).
+PA3mcat(328,4).
+numberdoses(328,3).
+totndrugs(328,2).
 depress01_tot(328).
 cogdis01_tot(328).
-Mmsumrev(328,1.0).
+Mmsumrev(328,1).
 excovidtot(328).
 antiS_0(328,60.5).
 antiS_2(328,9840.0).
@@ -7627,47 +7627,47 @@ antiS_12(328,1510.0).
 deltaantiS02(328,9779.5).
 deltaantiS26(328,4160.0).
 deltaantiS612(328,-12490.0).
-WHO_f1(328,0.0).
-WHO_f2(328,0.0).
-WHO_f3(328,0.0).
-WHO_f4(328,0.0).
-TypeofOutcome_updated(328,2.0).
+WHO_f1(328,0).
+WHO_f2(328,0).
+WHO_f3(328,0).
+WHO_f4(328,0).
+TypeofOutcome_updated(328,2).
 patient(328,neg).
 
-%patient: IT-0021-001585
-Gender(329,2.0).
+%patient: IT-0021-001585 index:329
+Gender(329,f).
 Race(329,White).
-mobcat(329,5.0).
-PA3mcat(329,4.0).
-numberdoses(329,3.0).
-totndrugs(329,4.0).
+mobcat(329,5).
+PA3mcat(329,4).
+numberdoses(329,3).
+totndrugs(329,4).
 poornut01(329).
 HTA01_tot(329).
 CVD01_tot(329).
-Mmsumrev(329,1.0).
+Mmsumrev(329,1).
 antiS_0(329,4.81).
 antiS_2(329,5.0).
 antiS_6(329,4.81).
 deltaantiS02(329,0.19).
 deltaantiS26(329,-0.19).
-WHO_f2(329,0.0).
-WHO_f3(329,0.0).
-WHO_f4(329,0.0).
-TypeofOutcome_updated(329,2.0).
+WHO_f2(329,0).
+WHO_f3(329,0).
+WHO_f4(329,0).
+TypeofOutcome_updated(329,2).
 patient(329,neg).
 
-%patient: IT-0061-004152
-Gender(330,2.0).
+%patient: IT-0061-004152 index:330
+Gender(330,f).
 Race(330,White).
-mobcat(330,0.0).
-PA3mcat(330,0.0).
-numberdoses(330,2.0).
-totndrugs(330,5.0).
+mobcat(330,0).
+PA3mcat(330,0).
+numberdoses(330,2).
+totndrugs(330,5).
 HTA01_tot(330).
 depress01_tot(330).
 cogdis01_tot(330).
 anxiety01_tot(330).
-Mmsumrev(330,4.0).
+Mmsumrev(330,4).
 excovidtot(330).
 antiS_0(330,682.0).
 antiS_2(330,13500.0).
@@ -7676,37 +7676,37 @@ antiS_12(330,5180.0).
 deltaantiS02(330,12818.0).
 deltaantiS26(330,-10850.0).
 deltaantiS612(330,2530.0).
-WHO_f2(330,0.0).
-WHO_f3(330,0.0).
-WHO_f4(330,0.0).
-TypeofOutcome_updated(330,2.0).
+WHO_f2(330,0).
+WHO_f3(330,0).
+WHO_f4(330,0).
+TypeofOutcome_updated(330,2).
 patient(330,neg).
 
-%patient: IT-0137-005514
-Gender(331,1.0).
+%patient: IT-0137-005514 index:331
+Gender(331,m).
 Race(331,White).
-mobcat(331,0.0).
-PA3mcat(331,2.0).
-numberdoses(331,3.0).
-totndrugs(331,3.0).
+mobcat(331,0).
+PA3mcat(331,2).
+numberdoses(331,3).
+totndrugs(331,3).
 cogdis01_tot(331).
 park01_tot(331).
-Mmsumrev(331,1.0).
+Mmsumrev(331,1).
 antiS_0(331,1180.0).
-WHO_f1(331,0.0).
-WHO_f2(331,0.0).
-WHO_f3(331,0.0).
-WHO_f4(331,0.0).
-TypeofOutcome_updated(331,2.0).
+WHO_f1(331,0).
+WHO_f2(331,0).
+WHO_f3(331,0).
+WHO_f4(331,0).
+TypeofOutcome_updated(331,2).
 patient(331,neg).
 
-%patient: IT-0144-004574
-Gender(332,2.0).
+%patient: IT-0144-004574 index:332
+Gender(332,f).
 Race(332,White).
-mobcat(332,1.0).
-PA3mcat(332,4.0).
-numberdoses(332,3.0).
-totndrugs(332,12.0).
+mobcat(332,1).
+PA3mcat(332,4).
+numberdoses(332,3).
+totndrugs(332,12).
 frailty01(332).
 CKD01(332).
 poornut01(332).
@@ -7718,7 +7718,7 @@ CVD01_tot(332).
 PAD01_tot(332).
 chrrespdis01_tot(332).
 HD01_tot(332).
-Mmsumrev(332,10.0).
+Mmsumrev(332,10).
 antiS_0(332,4.81).
 antiS_2(332,983.0).
 antiS_6(332,197.0).
@@ -7726,20 +7726,20 @@ antiS_12(332,1140.0).
 deltaantiS02(332,978.19).
 deltaantiS26(332,-786.0).
 deltaantiS612(332,943.0).
-WHO_f1(332,0.0).
-WHO_f2(332,0.0).
-WHO_f3(332,0.0).
-WHO_f4(332,0.0).
-TypeofOutcome_updated(332,2.0).
+WHO_f1(332,0).
+WHO_f2(332,0).
+WHO_f3(332,0).
+WHO_f4(332,0).
+TypeofOutcome_updated(332,2).
 patient(332,neg).
 
-%patient: IT-0132-004962
-Gender(333,2.0).
+%patient: IT-0132-004962 index:333
+Gender(333,f).
 Race(333,White).
-mobcat(333,2.0).
-PA3mcat(333,1.0).
-numberdoses(333,2.0).
-totndrugs(333,3.0).
+mobcat(333,2).
+PA3mcat(333,1).
+numberdoses(333,2).
+totndrugs(333,3).
 OAD01_tot(333).
 HTA01_tot(333).
 CVD01_tot(333).
@@ -7747,23 +7747,23 @@ AF01_tot(333).
 cogdis01_tot(333).
 thyrdis01_tot(333).
 HD01_tot(333).
-Mmsumrev(333,5.0).
+Mmsumrev(333,5).
 excovidtot(333).
 antiS_0(333,181.0).
 antiS_6(333,13500.0).
-WHO_f2(333,0.0).
-WHO_f3(333,0.0).
-WHO_f4(333,0.0).
-TypeofOutcome_updated(333,2.0).
+WHO_f2(333,0).
+WHO_f3(333,0).
+WHO_f4(333,0).
+TypeofOutcome_updated(333,2).
 patient(333,neg).
 
-%patient: IT-0132-005597
-Gender(334,1.0).
+%patient: IT-0132-005597 index:334
+Gender(334,m).
 Race(334,White).
-mobcat(334,2.0).
-PA3mcat(334,0.0).
-numberdoses(334,2.0).
-totndrugs(334,3.0).
+mobcat(334,2).
+PA3mcat(334,0).
+numberdoses(334,2).
+totndrugs(334,3).
 OAD01_tot(334).
 HTA01_tot(334).
 CVD01_tot(334).
@@ -7771,7 +7771,7 @@ obesity01_tot(334).
 depress01_tot(334).
 cogdis01_tot(334).
 HD01_tot(334).
-Mmsumrev(334,6.0).
+Mmsumrev(334,6).
 antiS_0(334,4.81).
 antiS_2(334,1170.0).
 antiS_6(334,483.0).
@@ -7779,24 +7779,24 @@ antiS_12(334,8710.0).
 deltaantiS02(334,1165.19).
 deltaantiS26(334,-687.0).
 deltaantiS612(334,8227.0).
-WHO_f2(334,0.0).
-WHO_f3(334,0.0).
-WHO_f4(334,0.0).
-TypeofOutcome_updated(334,2.0).
+WHO_f2(334,0).
+WHO_f3(334,0).
+WHO_f4(334,0).
+TypeofOutcome_updated(334,2).
 patient(334,neg).
 
-%patient: IT-0020-000291
-Gender(335,2.0).
+%patient: IT-0020-000291 index:335
+Gender(335,f).
 Race(335,White).
-mobcat(335,0.0).
-PA3mcat(335,1.0).
-numberdoses(335,3.0).
-totndrugs(335,6.0).
+mobcat(335,0).
+PA3mcat(335,1).
+numberdoses(335,3).
+totndrugs(335,6).
 OAD01_tot(335).
 depress01_tot(335).
 park01_tot(335).
 epilepsia01_tot(335).
-Mmsumrev(335,5.0).
+Mmsumrev(335,5).
 antiS_0(335,4.81).
 antiS_2(335,585.0).
 antiS_6(335,36.9).
@@ -7804,24 +7804,24 @@ antiS_12(335,1590.0).
 deltaantiS02(335,580.19).
 deltaantiS26(335,-548.1).
 deltaantiS612(335,1553.1).
-WHO_f1(335,0.0).
-WHO_f2(335,0.0).
-WHO_f3(335,0.0).
-WHO_f4(335,0.0).
-TypeofOutcome_updated(335,2.0).
+WHO_f1(335,0).
+WHO_f2(335,0).
+WHO_f3(335,0).
+WHO_f4(335,0).
+TypeofOutcome_updated(335,2).
 patient(335,neg).
 
-%patient: IT-0020-001253
-Gender(336,2.0).
+%patient: IT-0020-001253 index:336
+Gender(336,f).
 Race(336,White).
-numberdoses(336,3.0).
-totndrugs(336,5.0).
+numberdoses(336,3).
+totndrugs(336,5).
 OAD01_tot(336).
 HTA01_tot(336).
 CVD01_tot(336).
 depress01_tot(336).
 cogdis01_tot(336).
-Mmsumrev(336,4.0).
+Mmsumrev(336,4).
 antiS_0(336,4.81).
 antiS_2(336,1600.0).
 antiS_6(336,167.0).
@@ -7829,23 +7829,23 @@ antiS_12(336,1260.0).
 deltaantiS02(336,1595.19).
 deltaantiS26(336,-1433.0).
 deltaantiS612(336,1093.0).
-WHO_f1(336,0.0).
-WHO_f2(336,0.0).
-WHO_f3(336,0.0).
-WHO_f4(336,0.0).
-TypeofOutcome_updated(336,2.0).
+WHO_f1(336,0).
+WHO_f2(336,0).
+WHO_f3(336,0).
+WHO_f4(336,0).
+TypeofOutcome_updated(336,2).
 patient(336,neg).
 
-%patient: IT-0020-003770
-Gender(337,1.0).
+%patient: IT-0020-003770 index:337
+Gender(337,m).
 Race(337,White).
-mobcat(337,0.0).
-PA3mcat(337,2.0).
-numberdoses(337,3.0).
-totndrugs(337,0.0).
+mobcat(337,0).
+PA3mcat(337,2).
+numberdoses(337,3).
+totndrugs(337,0).
 poornut01(337).
 depress01_tot(337).
-Mmsumrev(337,2.0).
+Mmsumrev(337,2).
 antiS_0(337,4.81).
 antiS_2(337,1130.0).
 antiS_6(337,295.0).
@@ -7853,44 +7853,44 @@ antiS_12(337,4170.0).
 deltaantiS02(337,1125.19).
 deltaantiS26(337,-835.0).
 deltaantiS612(337,3875.0).
-WHO_f1(337,0.0).
-WHO_f2(337,0.0).
-WHO_f3(337,0.0).
-WHO_f4(337,0.0).
-TypeofOutcome_updated(337,2.0).
+WHO_f1(337,0).
+WHO_f2(337,0).
+WHO_f3(337,0).
+WHO_f4(337,0).
+TypeofOutcome_updated(337,2).
 patient(337,neg).
 
-%patient: IT-0020-003771
-Gender(338,1.0).
+%patient: IT-0020-003771 index:338
+Gender(338,m).
 Race(338,White).
-mobcat(338,0.0).
-PA3mcat(338,2.0).
-numberdoses(338,3.0).
-totndrugs(338,0.0).
+mobcat(338,0).
+PA3mcat(338,2).
+numberdoses(338,3).
+totndrugs(338,0).
 chrrespdis01_tot(338).
 depress01_tot(338).
 cogdis01_tot(338).
-Mmsumrev(338,2.0).
+Mmsumrev(338,2).
 antiS_0(338,4.81).
 antiS_6(338,61.3).
-WHO_f1(338,0.0).
-WHO_f2(338,0.0).
-WHO_f3(338,0.0).
-WHO_f4(338,0.0).
-TypeofOutcome_updated(338,2.0).
+WHO_f1(338,0).
+WHO_f2(338,0).
+WHO_f3(338,0).
+WHO_f4(338,0).
+TypeofOutcome_updated(338,2).
 patient(338,neg).
 
-%patient: IT-0020-003772
-Gender(339,1.0).
+%patient: IT-0020-003772 index:339
+Gender(339,m).
 Race(339,White).
-mobcat(339,0.0).
-PA3mcat(339,2.0).
-numberdoses(339,3.0).
-totndrugs(339,0.0).
+mobcat(339,0).
+PA3mcat(339,2).
+numberdoses(339,3).
+totndrugs(339,0).
 poornut01(339).
 liverdis01(339).
 HTA01_tot(339).
-Mmsumrev(339,3.0).
+Mmsumrev(339,3).
 antiS_0(339,4.81).
 antiS_2(339,2080.0).
 antiS_6(339,263.0).
@@ -7898,21 +7898,21 @@ antiS_12(339,465.0).
 deltaantiS02(339,2075.19).
 deltaantiS26(339,-1817.0).
 deltaantiS612(339,202.0).
-WHO_f1(339,0.0).
-WHO_f2(339,0.0).
-WHO_f3(339,0.0).
-WHO_f4(339,0.0).
-TypeofOutcome_updated(339,2.0).
+WHO_f1(339,0).
+WHO_f2(339,0).
+WHO_f3(339,0).
+WHO_f4(339,0).
+TypeofOutcome_updated(339,2).
 patient(339,neg).
 
-%patient: IT-0020-003773
-Gender(340,2.0).
+%patient: IT-0020-003773 index:340
+Gender(340,f).
 Race(340,White).
-mobcat(340,0.0).
-PA3mcat(340,2.0).
-numberdoses(340,3.0).
-totndrugs(340,0.0).
-Mmsumrev(340,1.0).
+mobcat(340,0).
+PA3mcat(340,2).
+numberdoses(340,3).
+totndrugs(340,0).
+Mmsumrev(340,1).
 antiS_0(340,4.81).
 antiS_2(340,1190.0).
 antiS_6(340,152.0).
@@ -7920,24 +7920,24 @@ antiS_12(340,1120.0).
 deltaantiS02(340,1185.19).
 deltaantiS26(340,-1038.0).
 deltaantiS612(340,968.0).
-WHO_f1(340,0.0).
-WHO_f2(340,0.0).
-WHO_f3(340,0.0).
-WHO_f4(340,0.0).
-TypeofOutcome_updated(340,2.0).
+WHO_f1(340,0).
+WHO_f2(340,0).
+WHO_f3(340,0).
+WHO_f4(340,0).
+TypeofOutcome_updated(340,2).
 patient(340,neg).
 
-%patient: IT-0020-003775
-Gender(341,2.0).
+%patient: IT-0020-003775 index:341
+Gender(341,f).
 Race(341,White).
-mobcat(341,0.0).
-PA3mcat(341,2.0).
-numberdoses(341,3.0).
-totndrugs(341,0.0).
+mobcat(341,0).
+PA3mcat(341,2).
+numberdoses(341,3).
+totndrugs(341,0).
 liverdis01(341).
 HTA01_tot(341).
 obesity01_tot(341).
-Mmsumrev(341,3.0).
+Mmsumrev(341,3).
 antiS_0(341,4.81).
 antiS_2(341,4460.0).
 antiS_6(341,495.0).
@@ -7945,23 +7945,23 @@ antiS_12(341,41251.0).
 deltaantiS02(341,4455.19).
 deltaantiS26(341,-3965.0).
 deltaantiS612(341,40756.0).
-WHO_f1(341,0.0).
-WHO_f2(341,0.0).
-WHO_f3(341,0.0).
-WHO_f4(341,0.0).
-TypeofOutcome_updated(341,2.0).
+WHO_f1(341,0).
+WHO_f2(341,0).
+WHO_f3(341,0).
+WHO_f4(341,0).
+TypeofOutcome_updated(341,2).
 patient(341,neg).
 
-%patient: IT-0020-003777
-Gender(342,2.0).
+%patient: IT-0020-003777 index:342
+Gender(342,f).
 Race(342,White).
-mobcat(342,3.0).
-PA3mcat(342,4.0).
-numberdoses(342,3.0).
-totndrugs(342,0.0).
+mobcat(342,3).
+PA3mcat(342,4).
+numberdoses(342,3).
+totndrugs(342,0).
 HTA01_tot(342).
 cogdis01_tot(342).
-Mmsumrev(342,1.0).
+Mmsumrev(342,1).
 antiS_0(342,4.81).
 antiS_2(342,1700.0).
 antiS_6(342,59.2).
@@ -7969,24 +7969,24 @@ antiS_12(342,1550.0).
 deltaantiS02(342,1695.19).
 deltaantiS26(342,-1640.8).
 deltaantiS612(342,1490.8).
-WHO_f1(342,0.0).
-WHO_f2(342,0.0).
-WHO_f3(342,0.0).
-WHO_f4(342,0.0).
-TypeofOutcome_updated(342,2.0).
+WHO_f1(342,0).
+WHO_f2(342,0).
+WHO_f3(342,0).
+WHO_f4(342,0).
+TypeofOutcome_updated(342,2).
 patient(342,neg).
 
-%patient: IT-0020-003782
-Gender(343,2.0).
+%patient: IT-0020-003782 index:343
+Gender(343,f).
 Race(343,White).
-mobcat(343,2.0).
-PA3mcat(343,4.0).
-numberdoses(343,3.0).
-totndrugs(343,0.0).
+mobcat(343,2).
+PA3mcat(343,4).
+numberdoses(343,3).
+totndrugs(343,0).
 HTA01_tot(343).
 cogdis01_tot(343).
 thyrdis01_tot(343).
-Mmsumrev(343,2.0).
+Mmsumrev(343,2).
 antiS_0(343,4.81).
 antiS_2(343,1660.0).
 antiS_6(343,40.4).
@@ -7994,47 +7994,47 @@ antiS_12(343,1420.0).
 deltaantiS02(343,1655.19).
 deltaantiS26(343,-1619.6).
 deltaantiS612(343,1379.6).
-WHO_f1(343,0.0).
-WHO_f2(343,0.0).
-WHO_f3(343,0.0).
-WHO_f4(343,0.0).
-TypeofOutcome_updated(343,2.0).
+WHO_f1(343,0).
+WHO_f2(343,0).
+WHO_f3(343,0).
+WHO_f4(343,0).
+TypeofOutcome_updated(343,2).
 patient(343,neg).
 
-%patient: IT-0020-003783
-Gender(344,2.0).
+%patient: IT-0020-003783 index:344
+Gender(344,f).
 Race(344,White).
-mobcat(344,0.0).
-PA3mcat(344,4.0).
-numberdoses(344,3.0).
-totndrugs(344,0.0).
+mobcat(344,0).
+PA3mcat(344,4).
+numberdoses(344,3).
+totndrugs(344,0).
 OAD01_tot(344).
 HTA01_tot(344).
 depress01_tot(344).
-Mmsumrev(344,3.0).
+Mmsumrev(344,3).
 antiS_0(344,4.81).
 antiS_2(344,407.0).
 antiS_6(344,59.0).
 deltaantiS02(344,402.19).
 deltaantiS26(344,-348.0).
-WHO_f1(344,0.0).
-WHO_f2(344,0.0).
-WHO_f3(344,0.0).
-WHO_f4(344,0.0).
-TypeofOutcome_updated(344,2.0).
+WHO_f1(344,0).
+WHO_f2(344,0).
+WHO_f3(344,0).
+WHO_f4(344,0).
+TypeofOutcome_updated(344,2).
 patient(344,neg).
 
-%patient: IT-0020-003785
-Gender(345,2.0).
+%patient: IT-0020-003785 index:345
+Gender(345,f).
 Race(345,White).
-mobcat(345,0.0).
-PA3mcat(345,2.0).
-numberdoses(345,3.0).
-totndrugs(345,0.0).
+mobcat(345,0).
+PA3mcat(345,2).
+numberdoses(345,3).
+totndrugs(345,0).
 HTA01_tot(345).
 CVD01_tot(345).
 HD01_tot(345).
-Mmsumrev(345,2.0).
+Mmsumrev(345,2).
 antiS_0(345,4.81).
 antiS_2(345,1590.0).
 antiS_6(345,319.0).
@@ -8042,23 +8042,23 @@ antiS_12(345,96.8).
 deltaantiS02(345,1585.19).
 deltaantiS26(345,-1271.0).
 deltaantiS612(345,-222.2).
-WHO_f1(345,0.0).
-WHO_f2(345,0.0).
-WHO_f3(345,0.0).
-WHO_f4(345,0.0).
-TypeofOutcome_updated(345,2.0).
+WHO_f1(345,0).
+WHO_f2(345,0).
+WHO_f3(345,0).
+WHO_f4(345,0).
+TypeofOutcome_updated(345,2).
 patient(345,neg).
 
-%patient: IT-0020-003786
-Gender(346,2.0).
+%patient: IT-0020-003786 index:346
+Gender(346,f).
 Race(346,White).
-mobcat(346,3.0).
-PA3mcat(346,4.0).
-numberdoses(346,3.0).
-totndrugs(346,0.0).
+mobcat(346,3).
+PA3mcat(346,4).
+numberdoses(346,3).
+totndrugs(346,0).
 HTA01_tot(346).
 cogdis01_tot(346).
-Mmsumrev(346,1.0).
+Mmsumrev(346,1).
 antiS_0(346,4.81).
 antiS_2(346,45.0).
 antiS_6(346,11.7).
@@ -8066,22 +8066,22 @@ antiS_12(346,1350.0).
 deltaantiS02(346,40.19).
 deltaantiS26(346,-33.3).
 deltaantiS612(346,1338.3).
-WHO_f1(346,0.0).
-WHO_f2(346,0.0).
-WHO_f3(346,0.0).
-WHO_f4(346,0.0).
-TypeofOutcome_updated(346,2.0).
+WHO_f1(346,0).
+WHO_f2(346,0).
+WHO_f3(346,0).
+WHO_f4(346,0).
+TypeofOutcome_updated(346,2).
 patient(346,neg).
 
-%patient: IT-0020-003787
-Gender(347,2.0).
+%patient: IT-0020-003787 index:347
+Gender(347,f).
 Race(347,White).
-mobcat(347,3.0).
-PA3mcat(347,4.0).
-numberdoses(347,3.0).
-totndrugs(347,0.0).
+mobcat(347,3).
+PA3mcat(347,4).
+numberdoses(347,3).
+totndrugs(347,0).
 cogdis01_tot(347).
-Mmsumrev(347,0.0).
+Mmsumrev(347,0).
 antiS_0(347,4.81).
 antiS_2(347,915.0).
 antiS_6(347,76.8).
@@ -8089,50 +8089,50 @@ antiS_12(347,1480.0).
 deltaantiS02(347,910.19).
 deltaantiS26(347,-838.2).
 deltaantiS612(347,1403.2).
-WHO_f1(347,0.0).
-WHO_f2(347,0.0).
-WHO_f3(347,0.0).
-WHO_f4(347,0.0).
-TypeofOutcome_updated(347,2.0).
+WHO_f1(347,0).
+WHO_f2(347,0).
+WHO_f3(347,0).
+WHO_f4(347,0).
+TypeofOutcome_updated(347,2).
 patient(347,neg).
 
-%patient: IT-0020-003797
-Gender(348,2.0).
+%patient: IT-0020-003797 index:348
+Gender(348,f).
 Race(348,White).
-mobcat(348,3.0).
-PA3mcat(348,4.0).
-numberdoses(348,3.0).
-totndrugs(348,0.0).
+mobcat(348,3).
+PA3mcat(348,4).
+numberdoses(348,3).
+totndrugs(348,0).
 OAD01_tot(348).
 chrrespdis01_tot(348).
 cogdis01_tot(348).
-Mmsumrev(348,2.0).
+Mmsumrev(348,2).
 antiS_0(348,4.81).
 antiS_2(348,1250.0).
 antiS_6(348,360.0).
 deltaantiS02(348,1245.19).
 deltaantiS26(348,-890.0).
-WHO_f1(348,0.0).
-WHO_f2(348,0.0).
-WHO_f3(348,0.0).
-WHO_f4(348,0.0).
-TypeofOutcome_updated(348,2.0).
+WHO_f1(348,0).
+WHO_f2(348,0).
+WHO_f3(348,0).
+WHO_f4(348,0).
+TypeofOutcome_updated(348,2).
 patient(348,neg).
 
-%patient: IT-0020-003798
-Gender(349,2.0).
+%patient: IT-0020-003798 index:349
+Gender(349,f).
 Race(349,White).
-mobcat(349,3.0).
-PA3mcat(349,4.0).
-numberdoses(349,3.0).
-totndrugs(349,0.0).
+mobcat(349,3).
+PA3mcat(349,4).
+numberdoses(349,3).
+totndrugs(349,0).
 OAD01_tot(349).
 HTA01_tot(349).
 CVD01_tot(349).
 obesity01_tot(349).
 cogdis01_tot(349).
 HD01_tot(349).
-Mmsumrev(349,5.0).
+Mmsumrev(349,5).
 antiS_0(349,4.81).
 antiS_2(349,2080.0).
 antiS_6(349,246.0).
@@ -8140,24 +8140,24 @@ antiS_12(349,32300.0).
 deltaantiS02(349,2075.19).
 deltaantiS26(349,-1834.0).
 deltaantiS612(349,32054.0).
-WHO_f1(349,0.0).
-WHO_f2(349,0.0).
-WHO_f3(349,0.0).
-WHO_f4(349,0.0).
-TypeofOutcome_updated(349,2.0).
+WHO_f1(349,0).
+WHO_f2(349,0).
+WHO_f3(349,0).
+WHO_f4(349,0).
+TypeofOutcome_updated(349,2).
 patient(349,neg).
 
-%patient: IT-0020-003800
-Gender(350,1.0).
+%patient: IT-0020-003800 index:350
+Gender(350,m).
 Race(350,White).
-mobcat(350,0.0).
-PA3mcat(350,2.0).
-numberdoses(350,3.0).
-totndrugs(350,0.0).
+mobcat(350,0).
+PA3mcat(350,2).
+numberdoses(350,3).
+totndrugs(350,0).
 HTA01_tot(350).
 CVD01_tot(350).
 HD01_tot(350).
-Mmsumrev(350,2.0).
+Mmsumrev(350,2).
 antiS_0(350,4.81).
 antiS_2(350,1730.0).
 antiS_6(350,138.0).
@@ -8165,23 +8165,23 @@ antiS_12(350,614.0).
 deltaantiS02(350,1725.19).
 deltaantiS26(350,-1592.0).
 deltaantiS612(350,476.0).
-WHO_f1(350,0.0).
-WHO_f2(350,0.0).
-WHO_f3(350,0.0).
-WHO_f4(350,0.0).
-TypeofOutcome_updated(350,2.0).
+WHO_f1(350,0).
+WHO_f2(350,0).
+WHO_f3(350,0).
+WHO_f4(350,0).
+TypeofOutcome_updated(350,2).
 patient(350,neg).
 
-%patient: IT-0020-003801
-Gender(351,2.0).
+%patient: IT-0020-003801 index:351
+Gender(351,f).
 Race(351,White).
-mobcat(351,3.0).
-PA3mcat(351,4.0).
-numberdoses(351,3.0).
-totndrugs(351,0.0).
+mobcat(351,3).
+PA3mcat(351,4).
+numberdoses(351,3).
+totndrugs(351,0).
 OAD01_tot(351).
 cogdis01_tot(351).
-Mmsumrev(351,1.0).
+Mmsumrev(351,1).
 antiS_0(351,4.81).
 antiS_2(351,415.0).
 antiS_6(351,97.9).
@@ -8189,20 +8189,20 @@ antiS_12(351,4040.0).
 deltaantiS02(351,410.19).
 deltaantiS26(351,-317.1).
 deltaantiS612(351,3942.1).
-WHO_f1(351,0.0).
-WHO_f2(351,0.0).
-WHO_f3(351,0.0).
-WHO_f4(351,0.0).
-TypeofOutcome_updated(351,2.0).
+WHO_f1(351,0).
+WHO_f2(351,0).
+WHO_f3(351,0).
+WHO_f4(351,0).
+TypeofOutcome_updated(351,2).
 patient(351,neg).
 
-%patient: IT-0020-003802
-Gender(352,2.0).
+%patient: IT-0020-003802 index:352
+Gender(352,f).
 Race(352,White).
-mobcat(352,3.0).
-PA3mcat(352,4.0).
-numberdoses(352,3.0).
-totndrugs(352,0.0).
+mobcat(352,3).
+PA3mcat(352,4).
+numberdoses(352,3).
+totndrugs(352,0).
 OAD01_tot(352).
 HTA01_tot(352).
 CVD01_tot(352).
@@ -8210,7 +8210,7 @@ AF01_tot(352).
 depress01_tot(352).
 cogdis01_tot(352).
 HD01_tot(352).
-Mmsumrev(352,5.0).
+Mmsumrev(352,5).
 antiS_0(352,4.81).
 antiS_2(352,8130.0).
 antiS_6(352,542.0).
@@ -8218,26 +8218,26 @@ antiS_12(352,2390.0).
 deltaantiS02(352,8125.19).
 deltaantiS26(352,-7588.0).
 deltaantiS612(352,1848.0).
-WHO_f1(352,0.0).
-WHO_f2(352,0.0).
-WHO_f3(352,0.0).
-WHO_f4(352,0.0).
-TypeofOutcome_updated(352,2.0).
+WHO_f1(352,0).
+WHO_f2(352,0).
+WHO_f3(352,0).
+WHO_f4(352,0).
+TypeofOutcome_updated(352,2).
 patient(352,neg).
 
-%patient: IT-0020-003803
-Gender(353,2.0).
+%patient: IT-0020-003803 index:353
+Gender(353,f).
 Race(353,White).
-mobcat(353,2.0).
-PA3mcat(353,4.0).
-numberdoses(353,3.0).
-totndrugs(353,5.0).
+mobcat(353,2).
+PA3mcat(353,4).
+numberdoses(353,3).
+totndrugs(353,5).
 frailty01(353).
 OAD01_tot(353).
 HTA01_tot(353).
 CVD01_tot(353).
 depress01_tot(353).
-Mmsumrev(353,4.0).
+Mmsumrev(353,4).
 antiS_0(353,4.81).
 antiS_2(353,1160.0).
 antiS_6(353,97.2).
@@ -8245,44 +8245,44 @@ antiS_12(353,17100.0).
 deltaantiS02(353,1155.19).
 deltaantiS26(353,-1062.8).
 deltaantiS612(353,17002.8).
-WHO_f1(353,0.0).
-WHO_f2(353,0.0).
-WHO_f3(353,0.0).
-WHO_f4(353,0.0).
-TypeofOutcome_updated(353,2.0).
+WHO_f1(353,0).
+WHO_f2(353,0).
+WHO_f3(353,0).
+WHO_f4(353,0).
+TypeofOutcome_updated(353,2).
 patient(353,neg).
 
-%patient: IT-0132-005940
-Gender(354,2.0).
+%patient: IT-0132-005940 index:354
+Gender(354,f).
 Race(354,White).
-mobcat(354,2.0).
-PA3mcat(354,0.0).
-numberdoses(354,3.0).
-totndrugs(354,0.0).
+mobcat(354,2).
+PA3mcat(354,0).
+numberdoses(354,3).
+totndrugs(354,0).
 cancer01(354).
 OAD01_tot(354).
 HTA01_tot(354).
 chrrespdis01_tot(354).
 depress01_tot(354).
 cogdis01_tot(354).
-Mmsumrev(354,5.0).
+Mmsumrev(354,5).
 antiS_2(354,2900.0).
 antiS_6(354,1950.0).
 deltaantiS26(354,-950.0).
-WHO_f1(354,0.0).
-WHO_f2(354,0.0).
-WHO_f3(354,0.0).
-WHO_f4(354,0.0).
-TypeofOutcome_updated(354,2.0).
+WHO_f1(354,0).
+WHO_f2(354,0).
+WHO_f3(354,0).
+WHO_f4(354,0).
+TypeofOutcome_updated(354,2).
 patient(354,neg).
 
-%patient: IT-0132-005943
-Gender(355,2.0).
+%patient: IT-0132-005943 index:355
+Gender(355,f).
 Race(355,White).
-mobcat(355,2.0).
-PA3mcat(355,2.0).
-numberdoses(355,3.0).
-totndrugs(355,0.0).
+mobcat(355,2).
+PA3mcat(355,2).
+numberdoses(355,3).
+totndrugs(355,0).
 OAD01_tot(355).
 HTA01_tot(355).
 CVD01_tot(355).
@@ -8290,49 +8290,49 @@ AF01_tot(355).
 cogdis01_tot(355).
 thyrdis01_tot(355).
 HD01_tot(355).
-Mmsumrev(355,7.0).
+Mmsumrev(355,7).
 excovidtot(355).
 antiS_2(355,28500.0).
 antiS_6(355,1940.0).
 deltaantiS26(355,-26560.0).
-WHO_f1(355,0.0).
-WHO_f2(355,0.0).
-WHO_f3(355,0.0).
-WHO_f4(355,0.0).
-TypeofOutcome_updated(355,2.0).
+WHO_f1(355,0).
+WHO_f2(355,0).
+WHO_f3(355,0).
+WHO_f4(355,0).
+TypeofOutcome_updated(355,2).
 patient(355,neg).
 
-%patient: IT-0003-003755
-Gender(356,2.0).
+%patient: IT-0003-003755 index:356
+Gender(356,f).
 Race(356,White).
-mobcat(356,3.0).
-PA3mcat(356,4.0).
-numberdoses(356,3.0).
-totndrugs(356,0.0).
+mobcat(356,3).
+PA3mcat(356,4).
+numberdoses(356,3).
+totndrugs(356,0).
 poornut01(356).
 OAD01_tot(356).
 HTA01_tot(356).
 cogdis01_tot(356).
-Mmsumrev(356,2.0).
+Mmsumrev(356,2).
 antiS_0(356,4.81).
 antiS_2(356,532.0).
 antiS_6(356,33.0).
 deltaantiS02(356,527.19).
 deltaantiS26(356,-499.0).
-WHO_f1(356,0.0).
-WHO_f2(356,0.0).
-WHO_f3(356,0.0).
-WHO_f4(356,0.0).
-TypeofOutcome_updated(356,2.0).
+WHO_f1(356,0).
+WHO_f2(356,0).
+WHO_f3(356,0).
+WHO_f4(356,0).
+TypeofOutcome_updated(356,2).
 patient(356,neg).
 
-%patient: IT-0018-003760
-Gender(357,2.0).
+%patient: IT-0018-003760 index:357
+Gender(357,f).
 Race(357,White).
-mobcat(357,3.0).
-PA3mcat(357,4.0).
-numberdoses(357,3.0).
-totndrugs(357,7.0).
+mobcat(357,3).
+PA3mcat(357,4).
+numberdoses(357,3).
+totndrugs(357,7).
 poornut01(357).
 liverdis01(357).
 OAD01_tot(357).
@@ -8340,7 +8340,7 @@ HTA01_tot(357).
 CVD01_tot(357).
 cogdis01_tot(357).
 HD01_tot(357).
-Mmsumrev(357,6.0).
+Mmsumrev(357,6).
 antiS_0(357,4.81).
 antiS_2(357,6230.0).
 antiS_6(357,406.0).
@@ -8348,25 +8348,25 @@ antiS_12(357,10000.0).
 deltaantiS02(357,6225.19).
 deltaantiS26(357,-5824.0).
 deltaantiS612(357,9594.0).
-WHO_f1(357,0.0).
-WHO_f2(357,0.0).
-WHO_f3(357,0.0).
-WHO_f4(357,0.0).
-TypeofOutcome_updated(357,2.0).
+WHO_f1(357,0).
+WHO_f2(357,0).
+WHO_f3(357,0).
+WHO_f4(357,0).
+TypeofOutcome_updated(357,2).
 patient(357,neg).
 
-%patient: IT-0003-000282
-Gender(358,1.0).
+%patient: IT-0003-000282 index:358
+Gender(358,m).
 Race(358,White).
-mobcat(358,5.0).
-PA3mcat(358,4.0).
-numberdoses(358,3.0).
-totndrugs(358,0.0).
+mobcat(358,5).
+PA3mcat(358,4).
+numberdoses(358,3).
+totndrugs(358,0).
 poornut01(358).
 OAD01_tot(358).
 HTA01_tot(358).
 cogdis01_tot(358).
-Mmsumrev(358,2.0).
+Mmsumrev(358,2).
 antiS_0(358,4.81).
 antiS_2(358,2150.0).
 antiS_6(358,33.0).
@@ -8374,27 +8374,27 @@ antiS_12(358,4490.0).
 deltaantiS02(358,2145.19).
 deltaantiS26(358,-2117.0).
 deltaantiS612(358,4457.0).
-WHO_f1(358,0.0).
-WHO_f2(358,0.0).
-WHO_f3(358,0.0).
-WHO_f4(358,0.0).
-TypeofOutcome_updated(358,2.0).
+WHO_f1(358,0).
+WHO_f2(358,0).
+WHO_f3(358,0).
+WHO_f4(358,0).
+TypeofOutcome_updated(358,2).
 patient(358,neg).
 
-%patient: IT-0003-000283
-Gender(359,2.0).
+%patient: IT-0003-000283 index:359
+Gender(359,f).
 Race(359,White).
-mobcat(359,5.0).
-PA3mcat(359,4.0).
-numberdoses(359,3.0).
-totndrugs(359,5.0).
+mobcat(359,5).
+PA3mcat(359,4).
+numberdoses(359,3).
+totndrugs(359,5).
 poornut01(359).
 liverdis01(359).
 OAD01_tot(359).
 HTA01_tot(359).
 CVD01_tot(359).
 cogdis01_tot(359).
-Mmsumrev(359,4.0).
+Mmsumrev(359,4).
 antiS_0(359,4.81).
 antiS_2(359,1590.0).
 antiS_6(359,216.0).
@@ -8402,20 +8402,20 @@ antiS_12(359,686.0).
 deltaantiS02(359,1585.19).
 deltaantiS26(359,-1374.0).
 deltaantiS612(359,470.0).
-WHO_f1(359,0.0).
-WHO_f2(359,0.0).
-WHO_f3(359,0.0).
-WHO_f4(359,0.0).
-TypeofOutcome_updated(359,2.0).
+WHO_f1(359,0).
+WHO_f2(359,0).
+WHO_f3(359,0).
+WHO_f4(359,0).
+TypeofOutcome_updated(359,2).
 patient(359,neg).
 
-%patient: IT-0003-001904
-Gender(360,2.0).
+%patient: IT-0003-001904 index:360
+Gender(360,f).
 Race(360,White).
-mobcat(360,4.0).
-PA3mcat(360,4.0).
-numberdoses(360,3.0).
-totndrugs(360,8.0).
+mobcat(360,4).
+PA3mcat(360,4).
+numberdoses(360,3).
+totndrugs(360,8).
 CKD01(360).
 OAD01_tot(360).
 HTA01_tot(360).
@@ -8423,7 +8423,7 @@ CVD01_tot(360).
 cogdis01_tot(360).
 anxiety01_tot(360).
 HD01_tot(360).
-Mmsumrev(360,6.0).
+Mmsumrev(360,6).
 antiS_0(360,4.81).
 antiS_2(360,1510.0).
 antiS_6(360,146.0).
@@ -8431,25 +8431,25 @@ antiS_12(360,2270.0).
 deltaantiS02(360,1505.19).
 deltaantiS26(360,-1364.0).
 deltaantiS612(360,2124.0).
-WHO_f1(360,0.0).
-WHO_f2(360,0.0).
-WHO_f3(360,0.0).
-WHO_f4(360,0.0).
-TypeofOutcome_updated(360,2.0).
+WHO_f1(360,0).
+WHO_f2(360,0).
+WHO_f3(360,0).
+WHO_f4(360,0).
+TypeofOutcome_updated(360,2).
 patient(360,neg).
 
-%patient: IT-0003-003753
-Gender(361,2.0).
+%patient: IT-0003-003753 index:361
+Gender(361,f).
 Race(361,White).
-mobcat(361,3.0).
-PA3mcat(361,4.0).
-numberdoses(361,3.0).
-totndrugs(361,3.0).
+mobcat(361,3).
+PA3mcat(361,4).
+numberdoses(361,3).
+totndrugs(361,3).
 poornut01(361).
 OAD01_tot(361).
 HTA01_tot(361).
 cogdis01_tot(361).
-Mmsumrev(361,2.0).
+Mmsumrev(361,2).
 antiS_0(361,4.81).
 antiS_2(361,724.0).
 antiS_6(361,29.0).
@@ -8457,26 +8457,26 @@ antiS_12(361,1820.0).
 deltaantiS02(361,719.19).
 deltaantiS26(361,-695.0).
 deltaantiS612(361,1791.0).
-WHO_f1(361,0.0).
-WHO_f2(361,0.0).
-WHO_f3(361,0.0).
-WHO_f4(361,0.0).
-TypeofOutcome_updated(361,2.0).
+WHO_f1(361,0).
+WHO_f2(361,0).
+WHO_f3(361,0).
+WHO_f4(361,0).
+TypeofOutcome_updated(361,2).
 patient(361,neg).
 
-%patient: IT-0003-003759
-Gender(362,2.0).
+%patient: IT-0003-003759 index:362
+Gender(362,f).
 Race(362,White).
-mobcat(362,4.0).
-PA3mcat(362,4.0).
-numberdoses(362,3.0).
+mobcat(362,4).
+PA3mcat(362,4).
+numberdoses(362,3).
 OAD01_tot(362).
 HTA01_tot(362).
 CVD01_tot(362).
 depress01_tot(362).
 cogdis01_tot(362).
 HD01_tot(362).
-Mmsumrev(362,5.0).
+Mmsumrev(362,5).
 antiS_0(362,27.3).
 antiS_2(362,347.0).
 antiS_6(362,270.0).
@@ -8484,24 +8484,24 @@ antiS_12(362,1800.0).
 deltaantiS02(362,319.7).
 deltaantiS26(362,-77.0).
 deltaantiS612(362,1530.0).
-WHO_f1(362,0.0).
-WHO_f2(362,0.0).
-WHO_f3(362,0.0).
-WHO_f4(362,0.0).
-TypeofOutcome_updated(362,2.0).
+WHO_f1(362,0).
+WHO_f2(362,0).
+WHO_f3(362,0).
+WHO_f4(362,0).
+TypeofOutcome_updated(362,2).
 patient(362,neg).
 
-%patient: IT-0003-003762
-Gender(363,2.0).
+%patient: IT-0003-003762 index:363
+Gender(363,f).
 Race(363,White).
-mobcat(363,3.0).
-PA3mcat(363,4.0).
-numberdoses(363,3.0).
-totndrugs(363,4.0).
+mobcat(363,3).
+PA3mcat(363,4).
+numberdoses(363,3).
+totndrugs(363,4).
 depress01_tot(363).
 cogdis01_tot(363).
 thyrdis01_tot(363).
-Mmsumrev(363,2.0).
+Mmsumrev(363,2).
 antiS_0(363,4.81).
 antiS_2(363,2730.0).
 antiS_6(363,261.0).
@@ -8509,27 +8509,27 @@ antiS_12(363,2720.0).
 deltaantiS02(363,2725.19).
 deltaantiS26(363,-2469.0).
 deltaantiS612(363,2459.0).
-WHO_f1(363,0.0).
-WHO_f2(363,0.0).
-WHO_f3(363,0.0).
-WHO_f4(363,0.0).
-TypeofOutcome_updated(363,2.0).
+WHO_f1(363,0).
+WHO_f2(363,0).
+WHO_f3(363,0).
+WHO_f4(363,0).
+TypeofOutcome_updated(363,2).
 patient(363,neg).
 
-%patient: IT-0017-000279
-Gender(364,2.0).
+%patient: IT-0017-000279 index:364
+Gender(364,f).
 Race(364,White).
-mobcat(364,1.0).
-PA3mcat(364,1.0).
-numberdoses(364,3.0).
-totndrugs(364,5.0).
+mobcat(364,1).
+PA3mcat(364,1).
+numberdoses(364,3).
+totndrugs(364,5).
 OAD01_tot(364).
 HTA01_tot(364).
 CVD01_tot(364).
 AF01_tot(364).
 cogdis01_tot(364).
 HD01_tot(364).
-Mmsumrev(364,4.0).
+Mmsumrev(364,4).
 antiS_0(364,4.81).
 antiS_2(364,1230.0).
 antiS_6(364,191.0).
@@ -8537,27 +8537,27 @@ antiS_12(364,836.0).
 deltaantiS02(364,1225.19).
 deltaantiS26(364,-1039.0).
 deltaantiS612(364,645.0).
-WHO_f1(364,0.0).
-WHO_f2(364,0.0).
-WHO_f3(364,0.0).
-WHO_f4(364,0.0).
-TypeofOutcome_updated(364,2.0).
+WHO_f1(364,0).
+WHO_f2(364,0).
+WHO_f3(364,0).
+WHO_f4(364,0).
+TypeofOutcome_updated(364,2).
 patient(364,neg).
 
-%patient: IT-0018-000684
-Gender(365,2.0).
+%patient: IT-0018-000684 index:365
+Gender(365,f).
 Race(365,White).
-mobcat(365,1.0).
-PA3mcat(365,4.0).
-numberdoses(365,3.0).
-totndrugs(365,7.0).
+mobcat(365,1).
+PA3mcat(365,4).
+numberdoses(365,3).
+totndrugs(365,7).
 liverdis01(365).
 OAD01_tot(365).
 HTA01_tot(365).
 CVD01_tot(365).
 cogdis01_tot(365).
 thyrdis01_tot(365).
-Mmsumrev(365,5.0).
+Mmsumrev(365,5).
 antiS_0(365,4.81).
 antiS_2(365,573.0).
 antiS_6(365,33.2).
@@ -8565,25 +8565,25 @@ antiS_12(365,450.0).
 deltaantiS02(365,568.19).
 deltaantiS26(365,-539.8).
 deltaantiS612(365,416.8).
-WHO_f1(365,0.0).
-WHO_f2(365,0.0).
-WHO_f3(365,0.0).
-WHO_f4(365,0.0).
-TypeofOutcome_updated(365,2.0).
+WHO_f1(365,0).
+WHO_f2(365,0).
+WHO_f3(365,0).
+WHO_f4(365,0).
+TypeofOutcome_updated(365,2).
 patient(365,neg).
 
-%patient: IT-0018-001900
-Gender(366,2.0).
+%patient: IT-0018-001900 index:366
+Gender(366,f).
 Race(366,White).
-mobcat(366,0.0).
-PA3mcat(366,0.0).
-numberdoses(366,3.0).
+mobcat(366,0).
+PA3mcat(366,0).
+numberdoses(366,3).
 frailty01(366).
 CVD01_tot(366).
 depress01_tot(366).
 cogdis01_tot(366).
 HD01_tot(366).
-Mmsumrev(366,2.0).
+Mmsumrev(366,2).
 antiS_0(366,4.81).
 antiS_2(366,1180.0).
 antiS_6(366,109.0).
@@ -8591,26 +8591,26 @@ antiS_12(366,1540.0).
 deltaantiS02(366,1175.19).
 deltaantiS26(366,-1071.0).
 deltaantiS612(366,1431.0).
-WHO_f1(366,0.0).
-WHO_f2(366,0.0).
-WHO_f3(366,0.0).
-WHO_f4(366,0.0).
-TypeofOutcome_updated(366,2.0).
+WHO_f1(366,0).
+WHO_f2(366,0).
+WHO_f3(366,0).
+WHO_f4(366,0).
+TypeofOutcome_updated(366,2).
 patient(366,neg).
 
-%patient: IT-0018-003766
-Gender(367,2.0).
+%patient: IT-0018-003766 index:367
+Gender(367,f).
 Race(367,White).
-mobcat(367,2.0).
-PA3mcat(367,4.0).
-numberdoses(367,3.0).
-totndrugs(367,5.0).
+mobcat(367,2).
+PA3mcat(367,4).
+numberdoses(367,3).
+totndrugs(367,5).
 OAD01_tot(367).
 HTA01_tot(367).
 depress01_tot(367).
 cogdis01_tot(367).
 thyrdis01_tot(367).
-Mmsumrev(367,4.0).
+Mmsumrev(367,4).
 antiS_0(367,4.81).
 antiS_2(367,533.0).
 antiS_6(367,70.0).
@@ -8618,20 +8618,20 @@ antiS_12(367,641.0).
 deltaantiS02(367,528.19).
 deltaantiS26(367,-463.0).
 deltaantiS612(367,571.0).
-WHO_f1(367,0.0).
-WHO_f2(367,0.0).
-WHO_f3(367,0.0).
-WHO_f4(367,0.0).
-TypeofOutcome_updated(367,2.0).
+WHO_f1(367,0).
+WHO_f2(367,0).
+WHO_f3(367,0).
+WHO_f4(367,0).
+TypeofOutcome_updated(367,2).
 patient(367,neg).
 
-%patient: IT-0018-003767
-Gender(368,1.0).
+%patient: IT-0018-003767 index:368
+Gender(368,m).
 Race(368,White).
-mobcat(368,3.0).
-PA3mcat(368,4.0).
-numberdoses(368,3.0).
-totndrugs(368,11.0).
+mobcat(368,3).
+PA3mcat(368,4).
+numberdoses(368,3).
+totndrugs(368,11).
 poornut01(368).
 OAD01_tot(368).
 HTA01_tot(368).
@@ -8640,7 +8640,7 @@ depress01_tot(368).
 park01_tot(368).
 epilepsia01_tot(368).
 urol01_tot(368).
-Mmsumrev(368,7.0).
+Mmsumrev(368,7).
 antiS_0(368,4.81).
 antiS_2(368,269.0).
 antiS_6(368,16.4).
@@ -8648,150 +8648,150 @@ antiS_12(368,4440.0).
 deltaantiS02(368,264.19).
 deltaantiS26(368,-252.6).
 deltaantiS612(368,4423.6).
-WHO_f1(368,0.0).
-WHO_f2(368,0.0).
-WHO_f3(368,0.0).
-WHO_f4(368,0.0).
-TypeofOutcome_updated(368,2.0).
+WHO_f1(368,0).
+WHO_f2(368,0).
+WHO_f3(368,0).
+WHO_f4(368,0).
+TypeofOutcome_updated(368,2).
 patient(368,neg).
 
-%patient: IT-0137-005516
-Gender(369,1.0).
+%patient: IT-0137-005516 index:369
+Gender(369,m).
 Race(369,White).
-mobcat(369,1.0).
-PA3mcat(369,4.0).
-numberdoses(369,3.0).
-totndrugs(369,3.0).
+mobcat(369,1).
+PA3mcat(369,4).
+numberdoses(369,3).
+totndrugs(369,3).
 CKD01(369).
 poornut01(369).
 HTA01_tot(369).
 cogdis01_tot(369).
-Mmsumrev(369,2.0).
+Mmsumrev(369,2).
 antiS_0(369,1550.0).
-WHO_f1(369,0.0).
-WHO_f2(369,0.0).
-WHO_f3(369,0.0).
-WHO_f4(369,0.0).
-TypeofOutcome_updated(369,2.0).
+WHO_f1(369,0).
+WHO_f2(369,0).
+WHO_f3(369,0).
+WHO_f4(369,0).
+TypeofOutcome_updated(369,2).
 patient(369,neg).
 
-%patient: IT-0131-004348
-Gender(370,2.0).
+%patient: IT-0131-004348 index:370
+Gender(370,f).
 Race(370,White).
-mobcat(370,2.0).
-PA3mcat(370,1.0).
-numberdoses(370,3.0).
-totndrugs(370,0.0).
+mobcat(370,2).
+PA3mcat(370,1).
+numberdoses(370,3).
+totndrugs(370,0).
 HTA01_tot(370).
 PAD01_tot(370).
 cogdis01_tot(370).
-Mmsumrev(370,2.0).
+Mmsumrev(370,2).
 antiS_2(370,1220.0).
 antiS_6(370,153.0).
 deltaantiS26(370,-1067.0).
-WHO_f1(370,0.0).
-WHO_f2(370,0.0).
-WHO_f3(370,0.0).
-WHO_f4(370,0.0).
-TypeofOutcome_updated(370,2.0).
+WHO_f1(370,0).
+WHO_f2(370,0).
+WHO_f3(370,0).
+WHO_f4(370,0).
+TypeofOutcome_updated(370,2).
 patient(370,neg).
 
-%patient: IT-0131-004349
-Gender(371,2.0).
+%patient: IT-0131-004349 index:371
+Gender(371,f).
 Race(371,White).
-mobcat(371,3.0).
-PA3mcat(371,1.0).
-numberdoses(371,3.0).
-totndrugs(371,1.0).
+mobcat(371,3).
+PA3mcat(371,1).
+numberdoses(371,3).
+totndrugs(371,1).
 CKD01(371).
 OAD01_tot(371).
 chrrespdis01_tot(371).
 depress01_tot(371).
-Mmsumrev(371,6.0).
+Mmsumrev(371,6).
 antiS_2(371,1820.0).
-WHO_f1(371,0.0).
-WHO_f2(371,0.0).
-WHO_f3(371,0.0).
-WHO_f4(371,0.0).
-TypeofOutcome_updated(371,2.0).
+WHO_f1(371,0).
+WHO_f2(371,0).
+WHO_f3(371,0).
+WHO_f4(371,0).
+TypeofOutcome_updated(371,2).
 patient(371,neg).
 
-%patient: IT-0132-005942
-Gender(372,1.0).
+%patient: IT-0132-005942 index:372
+Gender(372,m).
 Race(372,White).
-mobcat(372,3.0).
-PA3mcat(372,4.0).
-numberdoses(372,3.0).
-totndrugs(372,0.0).
+mobcat(372,3).
+PA3mcat(372,4).
+numberdoses(372,3).
+totndrugs(372,0).
 poornut01(372).
 OAD01_tot(372).
 HTA01_tot(372).
 cogdis01_tot(372).
 thyrdis01_tot(372).
-Mmsumrev(372,3.0).
+Mmsumrev(372,3).
 excovidtot(372).
 antiS_2(372,2050.0).
 antiS_6(372,905.0).
 deltaantiS26(372,-1145.0).
-WHO_f1(372,0.0).
-WHO_f2(372,0.0).
-WHO_f3(372,0.0).
-WHO_f4(372,0.0).
-TypeofOutcome_updated(372,2.0).
+WHO_f1(372,0).
+WHO_f2(372,0).
+WHO_f3(372,0).
+WHO_f4(372,0).
+TypeofOutcome_updated(372,2).
 patient(372,neg).
 
-%patient: IT-0131-004313
-Gender(373,2.0).
+%patient: IT-0131-004313 index:373
+Gender(373,f).
 Race(373,White).
-mobcat(373,3.0).
-PA3mcat(373,4.0).
-numberdoses(373,3.0).
-totndrugs(373,0.0).
+mobcat(373,3).
+PA3mcat(373,4).
+numberdoses(373,3).
+totndrugs(373,0).
 frailty01(373).
 OAD01_tot(373).
 HTA01_tot(373).
 depress01_tot(373).
-Mmsumrev(373,5.0).
+Mmsumrev(373,5).
 antiS_2(373,1250.0).
 antiS_6(373,228.0).
 deltaantiS26(373,-1022.0).
-WHO_f1(373,0.0).
-WHO_f2(373,0.0).
-WHO_f3(373,0.0).
-WHO_f4(373,0.0).
-TypeofOutcome_updated(373,2.0).
+WHO_f1(373,0).
+WHO_f2(373,0).
+WHO_f3(373,0).
+WHO_f4(373,0).
+TypeofOutcome_updated(373,2).
 patient(373,neg).
 
-%patient: IT-0131-004317
-Gender(374,2.0).
+%patient: IT-0131-004317 index:374
+Gender(374,f).
 Race(374,White).
-mobcat(374,3.0).
-PA3mcat(374,2.0).
-numberdoses(374,3.0).
-totndrugs(374,0.0).
+mobcat(374,3).
+PA3mcat(374,2).
+numberdoses(374,3).
+totndrugs(374,0).
 frailty01(374).
 OAD01_tot(374).
 HTA01_tot(374).
 obesity01_tot(374).
 depress01_tot(374).
-Mmsumrev(374,5.0).
+Mmsumrev(374,5).
 antiS_2(374,1740.0).
 antiS_6(374,157.0).
 deltaantiS26(374,-1583.0).
-WHO_f1(374,0.0).
-WHO_f2(374,0.0).
-WHO_f3(374,0.0).
-WHO_f4(374,0.0).
-TypeofOutcome_updated(374,2.0).
+WHO_f1(374,0).
+WHO_f2(374,0).
+WHO_f3(374,0).
+WHO_f4(374,0).
+TypeofOutcome_updated(374,2).
 patient(374,neg).
 
-%patient: IT-0131-004319
-Gender(375,2.0).
+%patient: IT-0131-004319 index:375
+Gender(375,f).
 Race(375,White).
-mobcat(375,3.0).
-PA3mcat(375,2.0).
-numberdoses(375,3.0).
-totndrugs(375,0.0).
+mobcat(375,3).
+PA3mcat(375,2).
+numberdoses(375,3).
+totndrugs(375,0).
 IBD01(375).
 OAD01_tot(375).
 HTA01_tot(375).
@@ -8799,43 +8799,43 @@ CVD01_tot(375).
 AF01_tot(375).
 PAD01_tot(375).
 HD01_tot(375).
-Mmsumrev(375,7.0).
+Mmsumrev(375,7).
 antiS_2(375,331.0).
 antiS_6(375,74.0).
 deltaantiS26(375,-257.0).
-WHO_f1(375,0.0).
-WHO_f2(375,0.0).
-WHO_f3(375,0.0).
-WHO_f4(375,0.0).
-TypeofOutcome_updated(375,2.0).
+WHO_f1(375,0).
+WHO_f2(375,0).
+WHO_f3(375,0).
+WHO_f4(375,0).
+TypeofOutcome_updated(375,2).
 patient(375,neg).
 
-%patient: IT-0131-004347
-Gender(376,1.0).
+%patient: IT-0131-004347 index:376
+Gender(376,m).
 Race(376,White).
-mobcat(376,2.0).
-PA3mcat(376,1.0).
-numberdoses(376,3.0).
-totndrugs(376,1.0).
+mobcat(376,2).
+PA3mcat(376,1).
+numberdoses(376,3).
+totndrugs(376,1).
 cogdis01_tot(376).
-Mmsumrev(376,0.0).
+Mmsumrev(376,0).
 antiS_2(376,718.0).
 antiS_6(376,81.0).
 deltaantiS26(376,-637.0).
-WHO_f1(376,0.0).
-WHO_f2(376,0.0).
-WHO_f3(376,0.0).
-WHO_f4(376,0.0).
-TypeofOutcome_updated(376,2.0).
+WHO_f1(376,0).
+WHO_f2(376,0).
+WHO_f3(376,0).
+WHO_f4(376,0).
+TypeofOutcome_updated(376,2).
 patient(376,neg).
 
-%patient: IT-0131-004297
-Gender(377,2.0).
+%patient: IT-0131-004297 index:377
+Gender(377,f).
 Race(377,White).
-mobcat(377,3.0).
-PA3mcat(377,1.0).
-numberdoses(377,3.0).
-totndrugs(377,0.0).
+mobcat(377,3).
+PA3mcat(377,1).
+numberdoses(377,3).
+totndrugs(377,0).
 IBD01(377).
 OAD01_tot(377).
 HTA01_tot(377).
@@ -8843,110 +8843,110 @@ CVD01_tot(377).
 PAD01_tot(377).
 cogdis01_tot(377).
 HD01_tot(377).
-Mmsumrev(377,6.0).
+Mmsumrev(377,6).
 antiS_2(377,1380.0).
 antiS_6(377,82.0).
 deltaantiS26(377,-1298.0).
-WHO_f1(377,0.0).
-WHO_f2(377,0.0).
-WHO_f3(377,0.0).
-WHO_f4(377,0.0).
-TypeofOutcome_updated(377,2.0).
+WHO_f1(377,0).
+WHO_f2(377,0).
+WHO_f3(377,0).
+WHO_f4(377,0).
+TypeofOutcome_updated(377,2).
 patient(377,neg).
 
-%patient: IT-0131-004301
-Gender(378,2.0).
+%patient: IT-0131-004301 index:378
+Gender(378,f).
 Race(378,White).
-mobcat(378,3.0).
-PA3mcat(378,1.0).
-numberdoses(378,3.0).
-totndrugs(378,0.0).
+mobcat(378,3).
+PA3mcat(378,1).
+numberdoses(378,3).
+totndrugs(378,0).
 frailty01(378).
 HTA01_tot(378).
 CVD01_tot(378).
 AF01_tot(378).
 PAD01_tot(378).
 HD01_tot(378).
-Mmsumrev(378,5.0).
+Mmsumrev(378,5).
 antiS_2(378,1890.0).
 antiS_6(378,508.0).
 deltaantiS26(378,-1382.0).
-WHO_f1(378,0.0).
-WHO_f2(378,0.0).
-WHO_f3(378,0.0).
-WHO_f4(378,0.0).
-TypeofOutcome_updated(378,2.0).
+WHO_f1(378,0).
+WHO_f2(378,0).
+WHO_f3(378,0).
+WHO_f4(378,0).
+TypeofOutcome_updated(378,2).
 patient(378,neg).
 
-%patient: IT-0131-004303
-Gender(379,2.0).
+%patient: IT-0131-004303 index:379
+Gender(379,f).
 Race(379,White).
-mobcat(379,3.0).
-PA3mcat(379,4.0).
-numberdoses(379,3.0).
-totndrugs(379,0.0).
+mobcat(379,3).
+PA3mcat(379,4).
+numberdoses(379,3).
+totndrugs(379,0).
 frailty01(379).
 HTA01_tot(379).
-Mmsumrev(379,2.0).
+Mmsumrev(379,2).
 antiS_6(379,4.81).
 deltaantiS26(379,-4.19).
-WHO_f1(379,0.0).
-WHO_f2(379,0.0).
-WHO_f3(379,0.0).
-WHO_f4(379,0.0).
-TypeofOutcome_updated(379,2.0).
+WHO_f1(379,0).
+WHO_f2(379,0).
+WHO_f3(379,0).
+WHO_f4(379,0).
+TypeofOutcome_updated(379,2).
 patient(379,neg).
 
-%patient: IT-0131-004306
-Gender(380,2.0).
+%patient: IT-0131-004306 index:380
+Gender(380,f).
 Race(380,White).
-mobcat(380,3.0).
-PA3mcat(380,4.0).
-numberdoses(380,3.0).
-totndrugs(380,0.0).
+mobcat(380,3).
+PA3mcat(380,4).
+numberdoses(380,3).
+totndrugs(380,0).
 frailty01(380).
 OAD01_tot(380).
 HTA01_tot(380).
-Mmsumrev(380,2.0).
+Mmsumrev(380,2).
 antiS_2(380,285.0).
 antiS_6(380,29.1).
 deltaantiS26(380,-255.9).
-WHO_f1(380,0.0).
-WHO_f2(380,0.0).
-WHO_f3(380,0.0).
-WHO_f4(380,0.0).
-TypeofOutcome_updated(380,2.0).
+WHO_f1(380,0).
+WHO_f2(380,0).
+WHO_f3(380,0).
+WHO_f4(380,0).
+TypeofOutcome_updated(380,2).
 patient(380,neg).
 
-%patient: IT-0131-004308
-Gender(381,2.0).
+%patient: IT-0131-004308 index:381
+Gender(381,f).
 Race(381,White).
-mobcat(381,3.0).
-PA3mcat(381,2.0).
-numberdoses(381,3.0).
-totndrugs(381,0.0).
+mobcat(381,3).
+PA3mcat(381,2).
+numberdoses(381,3).
+totndrugs(381,0).
 frailty01(381).
 HTA01_tot(381).
 CVD01_tot(381).
 HD01_tot(381).
-Mmsumrev(381,3.0).
+Mmsumrev(381,3).
 antiS_2(381,62.0).
 antiS_6(381,19.4).
 deltaantiS26(381,-42.6).
-WHO_f1(381,0.0).
-WHO_f2(381,0.0).
-WHO_f3(381,0.0).
-WHO_f4(381,0.0).
-TypeofOutcome_updated(381,2.0).
+WHO_f1(381,0).
+WHO_f2(381,0).
+WHO_f3(381,0).
+WHO_f4(381,0).
+TypeofOutcome_updated(381,2).
 patient(381,neg).
 
-%patient: IT-0131-004315
-Gender(382,2.0).
+%patient: IT-0131-004315 index:382
+Gender(382,f).
 Race(382,White).
-mobcat(382,3.0).
-PA3mcat(382,4.0).
-numberdoses(382,3.0).
-totndrugs(382,0.0).
+mobcat(382,3).
+PA3mcat(382,4).
+numberdoses(382,3).
+totndrugs(382,0).
 CKD01(382).
 OAD01_tot(382).
 HTA01_tot(382).
@@ -8954,154 +8954,154 @@ CVD01_tot(382).
 AF01_tot(382).
 depress01_tot(382).
 HD01_tot(382).
-Mmsumrev(382,7.0).
+Mmsumrev(382,7).
 antiS_2(382,348.0).
 antiS_6(382,63.6).
 deltaantiS26(382,-284.4).
-WHO_f1(382,0.0).
-WHO_f2(382,0.0).
-WHO_f3(382,0.0).
-WHO_f4(382,0.0).
-TypeofOutcome_updated(382,2.0).
+WHO_f1(382,0).
+WHO_f2(382,0).
+WHO_f3(382,0).
+WHO_f4(382,0).
+TypeofOutcome_updated(382,2).
 patient(382,neg).
 
-%patient: IT-0131-004316
-Gender(383,2.0).
+%patient: IT-0131-004316 index:383
+Gender(383,f).
 Race(383,White).
-mobcat(383,3.0).
-PA3mcat(383,2.0).
-numberdoses(383,3.0).
-totndrugs(383,0.0).
+mobcat(383,3).
+PA3mcat(383,2).
+numberdoses(383,3).
+totndrugs(383,0).
 frailty01(383).
 HTA01_tot(383).
 CVD01_tot(383).
 AF01_tot(383).
 HD01_tot(383).
-Mmsumrev(383,4.0).
+Mmsumrev(383,4).
 antiS_2(383,73.0).
 antiS_6(383,4.81).
 deltaantiS26(383,-68.19).
-WHO_f1(383,0.0).
-WHO_f2(383,0.0).
-WHO_f3(383,0.0).
-WHO_f4(383,0.0).
-TypeofOutcome_updated(383,2.0).
+WHO_f1(383,0).
+WHO_f2(383,0).
+WHO_f3(383,0).
+WHO_f4(383,0).
+TypeofOutcome_updated(383,2).
 patient(383,neg).
 
-%patient: IT-0131-004343
-Gender(384,2.0).
+%patient: IT-0131-004343 index:384
+Gender(384,f).
 Race(384,White).
-mobcat(384,3.0).
-PA3mcat(384,2.0).
-numberdoses(384,3.0).
-totndrugs(384,0.0).
+mobcat(384,3).
+PA3mcat(384,2).
+numberdoses(384,3).
+totndrugs(384,0).
 HTA01_tot(384).
 CVD01_tot(384).
 PAD01_tot(384).
 depress01_tot(384).
 HD01_tot(384).
-Mmsumrev(384,5.0).
+Mmsumrev(384,5).
 antiS_2(384,2030.0).
 antiS_6(384,85.0).
 deltaantiS26(384,-1945.0).
-WHO_f1(384,0.0).
-WHO_f2(384,0.0).
-WHO_f3(384,0.0).
-WHO_f4(384,0.0).
-TypeofOutcome_updated(384,2.0).
+WHO_f1(384,0).
+WHO_f2(384,0).
+WHO_f3(384,0).
+WHO_f4(384,0).
+TypeofOutcome_updated(384,2).
 patient(384,neg).
 
-%patient: IT-0131-004352
-Gender(385,1.0).
+%patient: IT-0131-004352 index:385
+Gender(385,m).
 Race(385,White).
-mobcat(385,1.0).
-PA3mcat(385,1.0).
-numberdoses(385,3.0).
-totndrugs(385,1.0).
+mobcat(385,1).
+PA3mcat(385,1).
+numberdoses(385,3).
+totndrugs(385,1).
 OAD01_tot(385).
 chrrespdis01_tot(385).
 depress01_tot(385).
 cogdis01_tot(385).
-Mmsumrev(385,5.0).
+Mmsumrev(385,5).
 antiS_2(385,222.0).
 antiS_6(385,18.0).
 deltaantiS26(385,-204.0).
-WHO_f1(385,0.0).
-WHO_f2(385,0.0).
-WHO_f3(385,0.0).
-WHO_f4(385,0.0).
-TypeofOutcome_updated(385,2.0).
+WHO_f1(385,0).
+WHO_f2(385,0).
+WHO_f3(385,0).
+WHO_f4(385,0).
+TypeofOutcome_updated(385,2).
 patient(385,neg).
 
-%patient: IT-0131-004320
-Gender(386,2.0).
+%patient: IT-0131-004320 index:386
+Gender(386,f).
 Race(386,White).
-mobcat(386,3.0).
-PA3mcat(386,2.0).
-numberdoses(386,3.0).
-totndrugs(386,0.0).
+mobcat(386,3).
+PA3mcat(386,2).
+numberdoses(386,3).
+totndrugs(386,0).
 HTA01_tot(386).
-Mmsumrev(386,2.0).
+Mmsumrev(386,2).
 antiS_2(386,19.0).
 antiS_6(386,8.59).
 deltaantiS26(386,-10.41).
-WHO_f1(386,0.0).
-WHO_f2(386,0.0).
-WHO_f3(386,0.0).
-WHO_f4(386,0.0).
-TypeofOutcome_updated(386,2.0).
+WHO_f1(386,0).
+WHO_f2(386,0).
+WHO_f3(386,0).
+WHO_f4(386,0).
+TypeofOutcome_updated(386,2).
 patient(386,neg).
 
-%patient: IT-0131-004346
-Gender(387,2.0).
+%patient: IT-0131-004346 index:387
+Gender(387,f).
 Race(387,White).
-mobcat(387,2.0).
-PA3mcat(387,1.0).
-numberdoses(387,3.0).
-totndrugs(387,0.0).
+mobcat(387,2).
+PA3mcat(387,1).
+numberdoses(387,3).
+totndrugs(387,0).
 CVD01_tot(387).
 HD01_tot(387).
-Mmsumrev(387,3.0).
+Mmsumrev(387,3).
 antiS_2(387,334.0).
 antiS_6(387,35.0).
 deltaantiS26(387,-299.0).
-WHO_f1(387,0.0).
-WHO_f2(387,0.0).
-WHO_f3(387,0.0).
-WHO_f4(387,0.0).
-TypeofOutcome_updated(387,2.0).
+WHO_f1(387,0).
+WHO_f2(387,0).
+WHO_f3(387,0).
+WHO_f4(387,0).
+TypeofOutcome_updated(387,2).
 patient(387,neg).
 
-%patient: IT-0131-004351
-Gender(388,2.0).
+%patient: IT-0131-004351 index:388
+Gender(388,f).
 Race(388,White).
-mobcat(388,4.0).
-PA3mcat(388,4.0).
-numberdoses(388,3.0).
-totndrugs(388,1.0).
+mobcat(388,4).
+PA3mcat(388,4).
+numberdoses(388,3).
+totndrugs(388,1).
 OAD01_tot(388).
 CVD01_tot(388).
 depress01_tot(388).
 cogdis01_tot(388).
 HD01_tot(388).
-Mmsumrev(388,5.0).
+Mmsumrev(388,5).
 antiS_2(388,569.0).
 antiS_6(388,42.0).
 deltaantiS26(388,-527.0).
-WHO_f1(388,0.0).
-WHO_f2(388,0.0).
-WHO_f3(388,0.0).
-WHO_f4(388,0.0).
-TypeofOutcome_updated(388,2.0).
+WHO_f1(388,0).
+WHO_f2(388,0).
+WHO_f3(388,0).
+WHO_f4(388,0).
+TypeofOutcome_updated(388,2).
 patient(388,neg).
 
-%patient: IT-0131-004298
-Gender(389,2.0).
+%patient: IT-0131-004298 index:389
+Gender(389,f).
 Race(389,White).
-mobcat(389,3.0).
-PA3mcat(389,1.0).
-numberdoses(389,3.0).
-totndrugs(389,0.0).
+mobcat(389,3).
+PA3mcat(389,1).
+numberdoses(389,3).
+totndrugs(389,0).
 frailty01(389).
 IBD01(389).
 OAD01_tot(389).
@@ -9110,24 +9110,24 @@ CVD01_tot(389).
 AF01_tot(389).
 PAD01_tot(389).
 HD01_tot(389).
-Mmsumrev(389,7.0).
+Mmsumrev(389,7).
 antiS_2(389,251.0).
 antiS_6(389,36.0).
 deltaantiS26(389,-215.0).
-WHO_f1(389,0.0).
-WHO_f2(389,0.0).
-WHO_f3(389,0.0).
-WHO_f4(389,0.0).
-TypeofOutcome_updated(389,2.0).
+WHO_f1(389,0).
+WHO_f2(389,0).
+WHO_f3(389,0).
+WHO_f4(389,0).
+TypeofOutcome_updated(389,2).
 patient(389,neg).
 
-%patient: IT-0143-003906
-Gender(390,1.0).
+%patient: IT-0143-003906 index:390
+Gender(390,m).
 Race(390,White).
-mobcat(390,0.0).
-PA3mcat(390,2.0).
-numberdoses(390,2.0).
-totndrugs(390,8.0).
+mobcat(390,0).
+PA3mcat(390,2).
+numberdoses(390,2).
+totndrugs(390,8).
 OAD01_tot(390).
 HTA01_tot(390).
 CVD01_tot(390).
@@ -9143,19 +9143,19 @@ antiS_12(390,1190.0).
 deltaantiS02(390,10643.0).
 deltaantiS26(390,-9450.0).
 deltaantiS612(390,-360.0).
-WHO_f2(390,0.0).
-WHO_f3(390,0.0).
-WHO_f4(390,0.0).
-TypeofOutcome_updated(390,2.0).
+WHO_f2(390,0).
+WHO_f3(390,0).
+WHO_f4(390,0).
+TypeofOutcome_updated(390,2).
 patient(390,neg).
 
-%patient: IT-0143-003909
-Gender(391,2.0).
+%patient: IT-0143-003909 index:391
+Gender(391,f).
 Race(391,White).
-mobcat(391,3.0).
-PA3mcat(391,4.0).
-numberdoses(391,2.0).
-totndrugs(391,11.0).
+mobcat(391,3).
+PA3mcat(391,4).
+numberdoses(391,2).
+totndrugs(391,11).
 frailty01(391).
 CKD01(391).
 cancer01(391).
@@ -9175,19 +9175,19 @@ antiS_12(391,2410.0).
 deltaantiS02(391,21550.0).
 deltaantiS26(391,-21200.0).
 deltaantiS612(391,610.0).
-WHO_f2(391,0.0).
-WHO_f3(391,0.0).
-WHO_f4(391,0.0).
-TypeofOutcome_updated(391,2.0).
+WHO_f2(391,0).
+WHO_f3(391,0).
+WHO_f4(391,0).
+TypeofOutcome_updated(391,2).
 patient(391,neg).
 
-%patient: IT-0143-003912
-Gender(392,2.0).
+%patient: IT-0143-003912 index:392
+Gender(392,f).
 Race(392,White).
-mobcat(392,1.0).
-PA3mcat(392,4.0).
-numberdoses(392,2.0).
-totndrugs(392,6.0).
+mobcat(392,1).
+PA3mcat(392,4).
+numberdoses(392,2).
+totndrugs(392,6).
 frailty01(392).
 CKD01(392).
 cancer01(392).
@@ -9198,7 +9198,7 @@ depress01_tot(392).
 cogdis01_tot(392).
 thyrdis01_tot(392).
 HD01_tot(392).
-Mmsumrev(392,7.0).
+Mmsumrev(392,7).
 excovidtot(392).
 antiS_0(392,42.3).
 antiS_2(392,6880.0).
@@ -9207,22 +9207,22 @@ antiS_12(392,1440.0).
 deltaantiS02(392,6837.7).
 deltaantiS26(392,-5470.0).
 deltaantiS612(392,30.0).
-WHO_f2(392,0.0).
-WHO_f3(392,0.0).
-WHO_f4(392,0.0).
-TypeofOutcome_updated(392,2.0).
+WHO_f2(392,0).
+WHO_f3(392,0).
+WHO_f4(392,0).
+TypeofOutcome_updated(392,2).
 patient(392,neg).
 
-%patient: IT-0143-004049
-Gender(393,1.0).
+%patient: IT-0143-004049 index:393
+Gender(393,m).
 Race(393,White).
-mobcat(393,2.0).
-PA3mcat(393,2.0).
-numberdoses(393,2.0).
-totndrugs(393,5.0).
+mobcat(393,2).
+PA3mcat(393,2).
+numberdoses(393,2).
+totndrugs(393,5).
 park01_tot(393).
 epilepsia01_tot(393).
-Mmsumrev(393,2.0).
+Mmsumrev(393,2).
 excovidtot(393).
 antiS_0(393,442.0).
 antiS_2(393,5320.0).
@@ -9231,47 +9231,47 @@ antiS_12(393,1780.0).
 deltaantiS02(393,4878.0).
 deltaantiS26(393,-4825.0).
 deltaantiS612(393,1285.0).
-WHO_f2(393,0.0).
-WHO_f3(393,0.0).
-WHO_f4(393,0.0).
-TypeofOutcome_updated(393,2.0).
+WHO_f2(393,0).
+WHO_f3(393,0).
+WHO_f4(393,0).
+TypeofOutcome_updated(393,2).
 patient(393,neg).
 
-%patient: IT-0143-004051
-Gender(394,2.0).
+%patient: IT-0143-004051 index:394
+Gender(394,f).
 Race(394,White).
-mobcat(394,3.0).
-PA3mcat(394,4.0).
-numberdoses(394,2.0).
-totndrugs(394,12.0).
+mobcat(394,3).
+PA3mcat(394,4).
+numberdoses(394,2).
+totndrugs(394,12).
 frailty01(394).
 HTA01_tot(394).
 chrrespdis01_tot(394).
 depress01_tot(394).
 epilepsia01_tot(394).
-Mmsumrev(394,4.0).
+Mmsumrev(394,4).
 excovidtot(394).
 antiS_0(394,1440.0).
 antiS_2(394,20100.0).
 antiS_6(394,1770.0).
 deltaantiS02(394,18660.0).
 deltaantiS26(394,-18330.0).
-WHO_f2(394,0.0).
-WHO_f3(394,0.0).
-WHO_f4(394,0.0).
-TypeofOutcome_updated(394,2.0).
+WHO_f2(394,0).
+WHO_f3(394,0).
+WHO_f4(394,0).
+TypeofOutcome_updated(394,2).
 patient(394,neg).
 
-%patient: IT-0143-004052
-Gender(395,1.0).
+%patient: IT-0143-004052 index:395
+Gender(395,m).
 Race(395,White).
-mobcat(395,2.0).
-PA3mcat(395,2.0).
-numberdoses(395,2.0).
-totndrugs(395,6.0).
+mobcat(395,2).
+PA3mcat(395,2).
+numberdoses(395,2).
+totndrugs(395,6).
 frailty01(395).
 cogdis01_tot(395).
-Mmsumrev(395,2.0).
+Mmsumrev(395,2).
 excovidtot(395).
 antiS_0(395,665.0).
 antiS_2(395,2790.0).
@@ -9280,25 +9280,25 @@ antiS_12(395,2150.0).
 deltaantiS02(395,2125.0).
 deltaantiS26(395,-1858.0).
 deltaantiS612(395,1218.0).
-WHO_f2(395,0.0).
-WHO_f3(395,0.0).
-WHO_f4(395,0.0).
-TypeofOutcome_updated(395,2.0).
+WHO_f2(395,0).
+WHO_f3(395,0).
+WHO_f4(395,0).
+TypeofOutcome_updated(395,2).
 patient(395,neg).
 
-%patient: IT-0143-004054
-Gender(396,2.0).
+%patient: IT-0143-004054 index:396
+Gender(396,f).
 Race(396,White).
-mobcat(396,1.0).
-PA3mcat(396,4.0).
-numberdoses(396,2.0).
-totndrugs(396,8.0).
+mobcat(396,1).
+PA3mcat(396,4).
+numberdoses(396,2).
+totndrugs(396,8).
 frailty01(396).
 depress01_tot(396).
 cogdis01_tot(396).
 park01_tot(396).
 anxiety01_tot(396).
-Mmsumrev(396,3.0).
+Mmsumrev(396,3).
 excovidtot(396).
 antiS_0(396,287.0).
 antiS_2(396,1040.0).
@@ -9307,24 +9307,24 @@ antiS_12(396,339.0).
 deltaantiS02(396,753.0).
 deltaantiS26(396,-882.0).
 deltaantiS612(396,181.0).
-WHO_f2(396,0.0).
-WHO_f3(396,0.0).
-WHO_f4(396,0.0).
-TypeofOutcome_updated(396,2.0).
+WHO_f2(396,0).
+WHO_f3(396,0).
+WHO_f4(396,0).
+TypeofOutcome_updated(396,2).
 patient(396,neg).
 
-%patient: IT-0143-004055
-Gender(397,2.0).
+%patient: IT-0143-004055 index:397
+Gender(397,f).
 Race(397,White).
-mobcat(397,1.0).
-PA3mcat(397,4.0).
-numberdoses(397,2.0).
-totndrugs(397,4.0).
+mobcat(397,1).
+PA3mcat(397,4).
+numberdoses(397,2).
+totndrugs(397,4).
 frailty01(397).
 depress01_tot(397).
 cogdis01_tot(397).
 thyrdis01_tot(397).
-Mmsumrev(397,2.0).
+Mmsumrev(397,2).
 excovidtot(397).
 antiS_0(397,90.9).
 antiS_2(397,2250.0).
@@ -9333,24 +9333,24 @@ antiS_12(397,1470.0).
 deltaantiS02(397,2159.1).
 deltaantiS26(397,-1671.0).
 deltaantiS612(397,891.0).
-WHO_f2(397,0.0).
-WHO_f3(397,0.0).
-WHO_f4(397,0.0).
-TypeofOutcome_updated(397,2.0).
+WHO_f2(397,0).
+WHO_f3(397,0).
+WHO_f4(397,0).
+TypeofOutcome_updated(397,2).
 patient(397,neg).
 
-%patient: IT-0143-004056
-Gender(398,1.0).
+%patient: IT-0143-004056 index:398
+Gender(398,m).
 Race(398,White).
-mobcat(398,1.0).
-PA3mcat(398,4.0).
-numberdoses(398,2.0).
-totndrugs(398,5.0).
+mobcat(398,1).
+PA3mcat(398,4).
+numberdoses(398,2).
+totndrugs(398,5).
 frailty01(398).
 IBD01(398).
 HTA01_tot(398).
 park01_tot(398).
-Mmsumrev(398,4.0).
+Mmsumrev(398,4).
 excovidtot(398).
 antiS_0(398,4.81).
 antiS_2(398,162.0).
@@ -9359,19 +9359,19 @@ antiS_12(398,1880.0).
 deltaantiS02(398,157.19).
 deltaantiS26(398,-150.2).
 deltaantiS612(398,1868.2).
-WHO_f2(398,0.0).
-WHO_f3(398,0.0).
-WHO_f4(398,0.0).
-TypeofOutcome_updated(398,2.0).
+WHO_f2(398,0).
+WHO_f3(398,0).
+WHO_f4(398,0).
+TypeofOutcome_updated(398,2).
 patient(398,neg).
 
-%patient: IT-0143-004058
-Gender(399,2.0).
+%patient: IT-0143-004058 index:399
+Gender(399,f).
 Race(399,White).
-mobcat(399,1.0).
-PA3mcat(399,4.0).
-numberdoses(399,2.0).
-totndrugs(399,11.0).
+mobcat(399,1).
+PA3mcat(399,4).
+numberdoses(399,2).
+totndrugs(399,11).
 frailty01(399).
 OAD01_tot(399).
 HTA01_tot(399).
@@ -9379,7 +9379,7 @@ CVD01_tot(399).
 depress01_tot(399).
 cogdis01_tot(399).
 anxiety01_tot(399).
-Mmsumrev(399,3.0).
+Mmsumrev(399,3).
 excovidtot(399).
 antiS_0(399,372.0).
 antiS_2(399,23600.0).
@@ -9388,25 +9388,25 @@ antiS_12(399,6670.0).
 deltaantiS02(399,23228.0).
 deltaantiS26(399,-17690.0).
 deltaantiS612(399,760.0).
-WHO_f2(399,0.0).
-WHO_f3(399,0.0).
-WHO_f4(399,0.0).
-TypeofOutcome_updated(399,2.0).
+WHO_f2(399,0).
+WHO_f3(399,0).
+WHO_f4(399,0).
+TypeofOutcome_updated(399,2).
 patient(399,neg).
 
-%patient: IT-0143-004059
-Gender(400,2.0).
+%patient: IT-0143-004059 index:400
+Gender(400,f).
 Race(400,White).
-mobcat(400,3.0).
-PA3mcat(400,4.0).
-numberdoses(400,2.0).
-totndrugs(400,8.0).
+mobcat(400,3).
+PA3mcat(400,4).
+numberdoses(400,2).
+totndrugs(400,8).
 frailty01(400).
 IBD01(400).
 OAD01_tot(400).
 depress01_tot(400).
 anxiety01_tot(400).
-Mmsumrev(400,4.0).
+Mmsumrev(400,4).
 excovidtot(400).
 antiS_0(400,856.0).
 antiS_2(400,6410.0).
@@ -9415,25 +9415,25 @@ antiS_12(400,2580.0).
 deltaantiS02(400,5554.0).
 deltaantiS26(400,-4980.0).
 deltaantiS612(400,1150.0).
-WHO_f2(400,0.0).
-WHO_f4(400,0.0).
-TypeofOutcome_updated(400,2.0).
+WHO_f2(400,0).
+WHO_f4(400,0).
+TypeofOutcome_updated(400,2).
 patient(400,neg).
 
-%patient: IT-0143-004060
-Gender(401,2.0).
+%patient: IT-0143-004060 index:401
+Gender(401,f).
 Race(401,White).
-mobcat(401,1.0).
-PA3mcat(401,4.0).
-numberdoses(401,2.0).
-totndrugs(401,5.0).
+mobcat(401,1).
+PA3mcat(401,4).
+numberdoses(401,2).
+totndrugs(401,5).
 frailty01(401).
 HTA01_tot(401).
 CVD01_tot(401).
 cogdis01_tot(401).
 thyrdis01_tot(401).
 HD01_tot(401).
-Mmsumrev(401,3.0).
+Mmsumrev(401,3).
 excovidtot(401).
 antiS_0(401,198.0).
 antiS_2(401,13100.0).
@@ -9442,17 +9442,17 @@ antiS_12(401,3570.0).
 deltaantiS02(401,12902.0).
 deltaantiS26(401,-11440.0).
 deltaantiS612(401,1910.0).
-WHO_f2(401,0.0).
-WHO_f3(401,0.0).
-WHO_f4(401,0.0).
-TypeofOutcome_updated(401,2.0).
+WHO_f2(401,0).
+WHO_f3(401,0).
+WHO_f4(401,0).
+TypeofOutcome_updated(401,2).
 patient(401,neg).
 
-%patient: IT-0143-004061
-Gender(402,1.0).
+%patient: IT-0143-004061 index:402
+Gender(402,m).
 Race(402,White).
-numberdoses(402,2.0).
-totndrugs(402,2.0).
+numberdoses(402,2).
+totndrugs(402,2).
 frailty01(402).
 CKD01(402).
 immunedis01(402).
@@ -9462,7 +9462,7 @@ depress01_tot(402).
 cogdis01_tot(402).
 anxiety01_tot(402).
 HD01_tot(402).
-Mmsumrev(402,6.0).
+Mmsumrev(402,6).
 excovidtot(402).
 antiS_0(402,85.3).
 antiS_2(402,3920.0).
@@ -9471,25 +9471,25 @@ antiS_12(402,1580.0).
 deltaantiS02(402,3834.7).
 deltaantiS26(402,-3206.0).
 deltaantiS612(402,866.0).
-WHO_f2(402,0.0).
-WHO_f3(402,0.0).
-WHO_f4(402,0.0).
-TypeofOutcome_updated(402,2.0).
+WHO_f2(402,0).
+WHO_f3(402,0).
+WHO_f4(402,0).
+TypeofOutcome_updated(402,2).
 patient(402,neg).
 
-%patient: IT-0143-004062
-Gender(403,2.0).
+%patient: IT-0143-004062 index:403
+Gender(403,f).
 Race(403,White).
-mobcat(403,5.0).
-PA3mcat(403,4.0).
-numberdoses(403,2.0).
-totndrugs(403,4.0).
+mobcat(403,5).
+PA3mcat(403,4).
+numberdoses(403,2).
+totndrugs(403,4).
 frailty01(403).
 OAD01_tot(403).
 HTA01_tot(403).
 depress01_tot(403).
 cogdis01_tot(403).
-Mmsumrev(403,3.0).
+Mmsumrev(403,3).
 excovidtot(403).
 antiS_0(403,927.0).
 antiS_2(403,15200.0).
@@ -9498,26 +9498,26 @@ antiS_12(403,1850.0).
 deltaantiS02(403,14273.0).
 deltaantiS26(403,-13700.0).
 deltaantiS612(403,350.0).
-WHO_f2(403,0.0).
-WHO_f3(403,0.0).
-WHO_f4(403,0.0).
-TypeofOutcome_updated(403,2.0).
+WHO_f2(403,0).
+WHO_f3(403,0).
+WHO_f4(403,0).
+TypeofOutcome_updated(403,2).
 patient(403,neg).
 
-%patient: IT-0143-004064
-Gender(404,2.0).
+%patient: IT-0143-004064 index:404
+Gender(404,f).
 Race(404,White).
-mobcat(404,1.0).
-PA3mcat(404,4.0).
-numberdoses(404,2.0).
-totndrugs(404,7.0).
+mobcat(404,1).
+PA3mcat(404,4).
+numberdoses(404,2).
+totndrugs(404,7).
 OAD01_tot(404).
 HTA01_tot(404).
 obesity01_tot(404).
 depress01_tot(404).
 cogdis01_tot(404).
 thyrdis01_tot(404).
-Mmsumrev(404,6.0).
+Mmsumrev(404,6).
 excovidtot(404).
 antiS_0(404,129.0).
 antiS_2(404,5680.0).
@@ -9526,19 +9526,19 @@ antiS_12(404,2840.0).
 deltaantiS02(404,5551.0).
 deltaantiS26(404,-4610.0).
 deltaantiS612(404,1770.0).
-WHO_f2(404,0.0).
-WHO_f3(404,0.0).
-WHO_f4(404,0.0).
-TypeofOutcome_updated(404,2.0).
+WHO_f2(404,0).
+WHO_f3(404,0).
+WHO_f4(404,0).
+TypeofOutcome_updated(404,2).
 patient(404,neg).
 
-%patient: IT-0143-004065
-Gender(405,1.0).
+%patient: IT-0143-004065 index:405
+Gender(405,m).
 Race(405,White).
-mobcat(405,1.0).
-PA3mcat(405,4.0).
-numberdoses(405,2.0).
-totndrugs(405,8.0).
+mobcat(405,1).
+PA3mcat(405,4).
+numberdoses(405,2).
+totndrugs(405,8).
 frailty01(405).
 poornut01(405).
 HTA01_tot(405).
@@ -9546,7 +9546,7 @@ depress01_tot(405).
 cogdis01_tot(405).
 epilepsia01_tot(405).
 urol01_tot(405).
-Mmsumrev(405,4.0).
+Mmsumrev(405,4).
 excovidtot(405).
 antiS_0(405,192.0).
 antiS_2(405,813.0).
@@ -9555,23 +9555,23 @@ antiS_12(405,1050.0).
 deltaantiS02(405,621.0).
 deltaantiS26(405,-680.0).
 deltaantiS612(405,917.0).
-WHO_f2(405,0.0).
-WHO_f3(405,0.0).
-WHO_f4(405,0.0).
-TypeofOutcome_updated(405,2.0).
+WHO_f2(405,0).
+WHO_f3(405,0).
+WHO_f4(405,0).
+TypeofOutcome_updated(405,2).
 patient(405,neg).
 
-%patient: IT-0143-004067
-Gender(406,2.0).
+%patient: IT-0143-004067 index:406
+Gender(406,f).
 Race(406,White).
-mobcat(406,1.0).
-PA3mcat(406,4.0).
-numberdoses(406,2.0).
-totndrugs(406,4.0).
+mobcat(406,1).
+PA3mcat(406,4).
+numberdoses(406,2).
+totndrugs(406,4).
 frailty01(406).
 HTA01_tot(406).
 cogdis01_tot(406).
-Mmsumrev(406,1.0).
+Mmsumrev(406,1).
 excovidtot(406).
 antiS_0(406,4.81).
 antiS_2(406,1420.0).
@@ -9580,25 +9580,25 @@ antiS_12(406,352.0).
 deltaantiS02(406,1415.19).
 deltaantiS26(406,-1159.0).
 deltaantiS612(406,91.0).
-WHO_f2(406,0.0).
-WHO_f3(406,0.0).
-WHO_f4(406,0.0).
-TypeofOutcome_updated(406,2.0).
+WHO_f2(406,0).
+WHO_f3(406,0).
+WHO_f4(406,0).
+TypeofOutcome_updated(406,2).
 patient(406,neg).
 
-%patient: IT-0143-004069
-Gender(407,2.0).
+%patient: IT-0143-004069 index:407
+Gender(407,f).
 Race(407,White).
-mobcat(407,1.0).
-PA3mcat(407,4.0).
-numberdoses(407,2.0).
-totndrugs(407,4.0).
+mobcat(407,1).
+PA3mcat(407,4).
+numberdoses(407,2).
+totndrugs(407,4).
 frailty01(407).
 OAD01_tot(407).
 HTA01_tot(407).
 depress01_tot(407).
 epilepsia01_tot(407).
-Mmsumrev(407,4.0).
+Mmsumrev(407,4).
 excovidtot(407).
 antiS_0(407,342.0).
 antiS_2(407,1990.0).
@@ -9607,19 +9607,19 @@ antiS_12(407,1830.0).
 deltaantiS02(407,1648.0).
 deltaantiS26(407,-1547.0).
 deltaantiS612(407,1387.0).
-WHO_f2(407,0.0).
-WHO_f3(407,0.0).
-WHO_f4(407,0.0).
-TypeofOutcome_updated(407,2.0).
+WHO_f2(407,0).
+WHO_f3(407,0).
+WHO_f4(407,0).
+TypeofOutcome_updated(407,2).
 patient(407,neg).
 
-%patient: IT-0143-004070
-Gender(408,2.0).
+%patient: IT-0143-004070 index:408
+Gender(408,f).
 Race(408,White).
-mobcat(408,1.0).
-PA3mcat(408,4.0).
-numberdoses(408,2.0).
-totndrugs(408,8.0).
+mobcat(408,1).
+PA3mcat(408,4).
+numberdoses(408,2).
+totndrugs(408,8).
 frailty01(408).
 cancer01(408).
 OAD01_tot(408).
@@ -9637,19 +9637,19 @@ antiS_12(408,1990.0).
 deltaantiS02(408,5984.8).
 deltaantiS26(408,-5050.0).
 deltaantiS612(408,990.0).
-WHO_f2(408,0.0).
-WHO_f3(408,0.0).
-WHO_f4(408,0.0).
-TypeofOutcome_updated(408,2.0).
+WHO_f2(408,0).
+WHO_f3(408,0).
+WHO_f4(408,0).
+TypeofOutcome_updated(408,2).
 patient(408,neg).
 
-%patient: IT-0143-004071
-Gender(409,1.0).
+%patient: IT-0143-004071 index:409
+Gender(409,m).
 Race(409,White).
-mobcat(409,0.0).
-PA3mcat(409,1.0).
-numberdoses(409,2.0).
-totndrugs(409,6.0).
+mobcat(409,0).
+PA3mcat(409,1).
+numberdoses(409,2).
+totndrugs(409,6).
 liverdis01(409).
 OAD01_tot(409).
 HTA01_tot(409).
@@ -9658,7 +9658,7 @@ obesity01_tot(409).
 depress01_tot(409).
 cogdis01_tot(409).
 urol01_tot(409).
-Mmsumrev(409,7.0).
+Mmsumrev(409,7).
 excovidtot(409).
 antiS_0(409,112.0).
 antiS_2(409,7700.0).
@@ -9667,19 +9667,19 @@ antiS_12(409,3080.0).
 deltaantiS02(409,7588.0).
 deltaantiS26(409,-5360.0).
 deltaantiS612(409,740.0).
-WHO_f2(409,0.0).
-WHO_f3(409,0.0).
-WHO_f4(409,0.0).
-TypeofOutcome_updated(409,2.0).
+WHO_f2(409,0).
+WHO_f3(409,0).
+WHO_f4(409,0).
+TypeofOutcome_updated(409,2).
 patient(409,neg).
 
-%patient: IT-0143-004072
-Gender(410,2.0).
+%patient: IT-0143-004072 index:410
+Gender(410,f).
 Race(410,White).
-mobcat(410,1.0).
-PA3mcat(410,4.0).
-numberdoses(410,2.0).
-totndrugs(410,8.0).
+mobcat(410,1).
+PA3mcat(410,4).
+numberdoses(410,2).
+totndrugs(410,8).
 frailty01(410).
 CKD01(410).
 cancer01(410).
@@ -9688,7 +9688,7 @@ obesity01_tot(410).
 depress01_tot(410).
 thyrdis01_tot(410).
 anxiety01_tot(410).
-Mmsumrev(410,8.0).
+Mmsumrev(410,8).
 excovidtot(410).
 antiS_0(410,471.0).
 antiS_2(410,8570.0).
@@ -9697,19 +9697,19 @@ antiS_12(410,16300.0).
 deltaantiS02(410,8099.0).
 deltaantiS26(410,-5350.0).
 deltaantiS612(410,13080.0).
-WHO_f2(410,0.0).
-WHO_f3(410,0.0).
-WHO_f4(410,0.0).
-TypeofOutcome_updated(410,2.0).
+WHO_f2(410,0).
+WHO_f3(410,0).
+WHO_f4(410,0).
+TypeofOutcome_updated(410,2).
 patient(410,neg).
 
-%patient: IT-0143-004240
-Gender(411,2.0).
+%patient: IT-0143-004240 index:411
+Gender(411,f).
 Race(411,White).
-mobcat(411,1.0).
-PA3mcat(411,4.0).
-numberdoses(411,2.0).
-totndrugs(411,11.0).
+mobcat(411,1).
+PA3mcat(411,4).
+numberdoses(411,2).
+totndrugs(411,11).
 frailty01(411).
 cancer01(411).
 HTA01_tot(411).
@@ -9719,7 +9719,7 @@ chrrespdis01_tot(411).
 depress01_tot(411).
 cogdis01_tot(411).
 thyrdis01_tot(411).
-Mmsumrev(411,7.0).
+Mmsumrev(411,7).
 excovidtot(411).
 antiS_0(411,1590.0).
 antiS_2(411,4230.0).
@@ -9728,25 +9728,25 @@ antiS_12(411,944.0).
 deltaantiS02(411,2640.0).
 deltaantiS26(411,-3260.0).
 deltaantiS612(411,-26.0).
-WHO_f2(411,0.0).
-WHO_f3(411,0.0).
-WHO_f4(411,0.0).
-TypeofOutcome_updated(411,2.0).
+WHO_f2(411,0).
+WHO_f3(411,0).
+WHO_f4(411,0).
+TypeofOutcome_updated(411,2).
 patient(411,neg).
 
-%patient: IT-0143-004243
-Gender(412,2.0).
+%patient: IT-0143-004243 index:412
+Gender(412,f).
 Race(412,White).
-mobcat(412,2.0).
-PA3mcat(412,1.0).
-numberdoses(412,2.0).
-totndrugs(412,7.0).
+mobcat(412,2).
+PA3mcat(412,1).
+numberdoses(412,2).
+totndrugs(412,7).
 CKD01(412).
 HTA01_tot(412).
 CVD01_tot(412).
 depress01_tot(412).
 HD01_tot(412).
-Mmsumrev(412,4.0).
+Mmsumrev(412,4).
 excovidtot(412).
 antiS_0(412,127.0).
 antiS_2(412,26800.0).
@@ -9755,23 +9755,23 @@ antiS_12(412,5580.0).
 deltaantiS02(412,26673.0).
 deltaantiS26(412,-22160.0).
 deltaantiS612(412,940.0).
-WHO_f2(412,0.0).
-WHO_f3(412,0.0).
-WHO_f4(412,0.0).
-TypeofOutcome_updated(412,2.0).
+WHO_f2(412,0).
+WHO_f3(412,0).
+WHO_f4(412,0).
+TypeofOutcome_updated(412,2).
 patient(412,neg).
 
-%patient: IT-0143-004244
-Gender(413,2.0).
+%patient: IT-0143-004244 index:413
+Gender(413,f).
 Race(413,White).
-mobcat(413,0.0).
-PA3mcat(413,1.0).
-numberdoses(413,2.0).
-totndrugs(413,6.0).
+mobcat(413,0).
+PA3mcat(413,1).
+numberdoses(413,2).
+totndrugs(413,6).
 OAD01_tot(413).
 HTA01_tot(413).
 depress01_tot(413).
-Mmsumrev(413,5.0).
+Mmsumrev(413,5).
 excovidtot(413).
 antiS_0(413,94.2).
 antiS_2(413,1170.0).
@@ -9780,24 +9780,24 @@ antiS_12(413,719.0).
 deltaantiS02(413,1075.8).
 deltaantiS26(413,-785.0).
 deltaantiS612(413,334.0).
-WHO_f2(413,0.0).
-WHO_f3(413,0.0).
-WHO_f4(413,0.0).
-TypeofOutcome_updated(413,2.0).
+WHO_f2(413,0).
+WHO_f3(413,0).
+WHO_f4(413,0).
+TypeofOutcome_updated(413,2).
 patient(413,neg).
 
-%patient: IT-0143-004245
-Gender(414,2.0).
+%patient: IT-0143-004245 index:414
+Gender(414,f).
 Race(414,White).
-mobcat(414,3.0).
-PA3mcat(414,4.0).
-numberdoses(414,2.0).
-totndrugs(414,7.0).
+mobcat(414,3).
+PA3mcat(414,4).
+numberdoses(414,2).
+totndrugs(414,7).
 frailty01(414).
 HTA01_tot(414).
 depress01_tot(414).
 cogdis01_tot(414).
-Mmsumrev(414,3.0).
+Mmsumrev(414,3).
 excovidtot(414).
 antiS_0(414,291.0).
 antiS_2(414,4340.0).
@@ -9806,24 +9806,24 @@ antiS_12(414,1240.0).
 deltaantiS02(414,4049.0).
 deltaantiS26(414,-3160.0).
 deltaantiS612(414,60.0).
-WHO_f2(414,0.0).
-WHO_f3(414,0.0).
-WHO_f4(414,0.0).
-TypeofOutcome_updated(414,2.0).
+WHO_f2(414,0).
+WHO_f3(414,0).
+WHO_f4(414,0).
+TypeofOutcome_updated(414,2).
 patient(414,neg).
 
-%patient: IT-0143-004074
-Gender(415,2.0).
+%patient: IT-0143-004074 index:415
+Gender(415,f).
 Race(415,White).
-mobcat(415,1.0).
-PA3mcat(415,4.0).
-numberdoses(415,2.0).
-totndrugs(415,0.0).
+mobcat(415,1).
+PA3mcat(415,4).
+numberdoses(415,2).
+totndrugs(415,0).
 frailty01(415).
 HTA01_tot(415).
 depress01_tot(415).
 cogdis01_tot(415).
-Mmsumrev(415,4.0).
+Mmsumrev(415,4).
 excovidtot(415).
 antiS_0(415,186.0).
 antiS_2(415,1960.0).
@@ -9832,76 +9832,76 @@ antiS_12(415,359.0).
 deltaantiS02(415,1774.0).
 deltaantiS26(415,-1673.0).
 deltaantiS612(415,72.0).
-WHO_f2(415,0.0).
-WHO_f3(415,0.0).
-WHO_f4(415,0.0).
-TypeofOutcome_updated(415,2.0).
+WHO_f2(415,0).
+WHO_f3(415,0).
+WHO_f4(415,0).
+TypeofOutcome_updated(415,2).
 patient(415,neg).
 
-%patient: IT-0143-004076
-Gender(416,2.0).
+%patient: IT-0143-004076 index:416
+Gender(416,f).
 Race(416,White).
-mobcat(416,1.0).
-PA3mcat(416,4.0).
-numberdoses(416,2.0).
-totndrugs(416,6.0).
+mobcat(416,1).
+PA3mcat(416,4).
+numberdoses(416,2).
+totndrugs(416,6).
 frailty01(416).
 HTA01_tot(416).
 depress01_tot(416).
 cogdis01_tot(416).
 urol01_tot(416).
-Mmsumrev(416,3.0).
+Mmsumrev(416,3).
 excovidtot(416).
 antiS_0(416,16.7).
 antiS_2(416,2560.0).
 antiS_6(416,1080.0).
 deltaantiS02(416,2543.3).
 deltaantiS26(416,-1480.0).
-WHO_f2(416,0.0).
-WHO_f3(416,0.0).
-WHO_f4(416,0.0).
-TypeofOutcome_updated(416,2.0).
+WHO_f2(416,0).
+WHO_f3(416,0).
+WHO_f4(416,0).
+TypeofOutcome_updated(416,2).
 patient(416,neg).
 
-%patient: IT-0143-004077
-Gender(417,2.0).
+%patient: IT-0143-004077 index:417
+Gender(417,f).
 Race(417,White).
-mobcat(417,0.0).
-PA3mcat(417,1.0).
-numberdoses(417,2.0).
-totndrugs(417,6.0).
+mobcat(417,0).
+PA3mcat(417,1).
+numberdoses(417,2).
+totndrugs(417,6).
 frailty01(417).
 HTA01_tot(417).
 depress01_tot(417).
 cogdis01_tot(417).
 anxiety01_tot(417).
-Mmsumrev(417,5.0).
+Mmsumrev(417,5).
 excovidtot(417).
 antiS_0(417,215.0).
 antiS_2(417,5290.0).
 antiS_6(417,1150.0).
 deltaantiS02(417,5075.0).
 deltaantiS26(417,-4140.0).
-WHO_f2(417,0.0).
-WHO_f3(417,0.0).
-WHO_f4(417,0.0).
-TypeofOutcome_updated(417,2.0).
+WHO_f2(417,0).
+WHO_f3(417,0).
+WHO_f4(417,0).
+TypeofOutcome_updated(417,2).
 patient(417,neg).
 
-%patient: IT-0143-004078
-Gender(418,2.0).
+%patient: IT-0143-004078 index:418
+Gender(418,f).
 Race(418,White).
-mobcat(418,2.0).
-PA3mcat(418,2.0).
-numberdoses(418,2.0).
-totndrugs(418,6.0).
+mobcat(418,2).
+PA3mcat(418,2).
+numberdoses(418,2).
+totndrugs(418,6).
 frailty01(418).
 IBD01(418).
 HTA01_tot(418).
 CVD01_tot(418).
 anxiety01_tot(418).
 HD01_tot(418).
-Mmsumrev(418,4.0).
+Mmsumrev(418,4).
 excovidtot(418).
 antiS_0(418,55.6).
 antiS_2(418,5010.0).
@@ -9910,26 +9910,26 @@ antiS_12(418,3300.0).
 deltaantiS02(418,4954.4).
 deltaantiS26(418,-3750.0).
 deltaantiS612(418,2040.0).
-WHO_f2(418,0.0).
-WHO_f3(418,0.0).
-WHO_f4(418,0.0).
-TypeofOutcome_updated(418,2.0).
+WHO_f2(418,0).
+WHO_f3(418,0).
+WHO_f4(418,0).
+TypeofOutcome_updated(418,2).
 patient(418,neg).
 
-%patient: IT-0143-004079
-Gender(419,1.0).
+%patient: IT-0143-004079 index:419
+Gender(419,m).
 Race(419,White).
-mobcat(419,1.0).
-PA3mcat(419,4.0).
-numberdoses(419,2.0).
-totndrugs(419,8.0).
+mobcat(419,1).
+PA3mcat(419,4).
+numberdoses(419,2).
+totndrugs(419,8).
 frailty01(419).
 HTA01_tot(419).
 CVD01_tot(419).
 depress01_tot(419).
 cogdis01_tot(419).
 HD01_tot(419).
-Mmsumrev(419,4.0).
+Mmsumrev(419,4).
 excovidtot(419).
 antiS_0(419,337.0).
 antiS_2(419,639.0).
@@ -9938,26 +9938,26 @@ antiS_12(419,655.0).
 deltaantiS02(419,302.0).
 deltaantiS26(419,-234.0).
 deltaantiS612(419,250.0).
-WHO_f2(419,0.0).
-WHO_f3(419,0.0).
-WHO_f4(419,0.0).
-TypeofOutcome_updated(419,2.0).
+WHO_f2(419,0).
+WHO_f3(419,0).
+WHO_f4(419,0).
+TypeofOutcome_updated(419,2).
 patient(419,neg).
 
-%patient: IT-0143-004080
-Gender(420,2.0).
+%patient: IT-0143-004080 index:420
+Gender(420,f).
 Race(420,White).
-mobcat(420,1.0).
-PA3mcat(420,4.0).
-numberdoses(420,2.0).
-totndrugs(420,5.0).
+mobcat(420,1).
+PA3mcat(420,4).
+numberdoses(420,2).
+totndrugs(420,5).
 frailty01(420).
 HTA01_tot(420).
 CVD01_tot(420).
 depress01_tot(420).
 cogdis01_tot(420).
 HD01_tot(420).
-Mmsumrev(420,3.0).
+Mmsumrev(420,3).
 excovidtot(420).
 antiS_0(420,55.1).
 antiS_2(420,5950.0).
@@ -9966,40 +9966,40 @@ antiS_12(420,2220.0).
 deltaantiS02(420,5894.9).
 deltaantiS26(420,-4590.0).
 deltaantiS612(420,860.0).
-WHO_f2(420,0.0).
-WHO_f3(420,0.0).
-WHO_f4(420,0.0).
-TypeofOutcome_updated(420,2.0).
+WHO_f2(420,0).
+WHO_f3(420,0).
+WHO_f4(420,0).
+TypeofOutcome_updated(420,2).
 patient(420,neg).
 
-%patient: IT-0143-004084
-Gender(421,1.0).
+%patient: IT-0143-004084 index:421
+Gender(421,m).
 Race(421,White).
-mobcat(421,0.0).
-PA3mcat(421,1.0).
-numberdoses(421,2.0).
-totndrugs(421,2.0).
-Mmsumrev(421,0.0).
+mobcat(421,0).
+PA3mcat(421,1).
+numberdoses(421,2).
+totndrugs(421,2).
+Mmsumrev(421,0).
 excovidtot(421).
 antiS_0(421,109.0).
-WHO_f2(421,0.0).
-WHO_f3(421,0.0).
-WHO_f4(421,0.0).
-TypeofOutcome_updated(421,2.0).
+WHO_f2(421,0).
+WHO_f3(421,0).
+WHO_f4(421,0).
+TypeofOutcome_updated(421,2).
 patient(421,neg).
 
-%patient: IT-0143-004085
-Gender(422,2.0).
+%patient: IT-0143-004085 index:422
+Gender(422,f).
 Race(422,White).
-mobcat(422,1.0).
-PA3mcat(422,4.0).
-numberdoses(422,2.0).
-totndrugs(422,6.0).
+mobcat(422,1).
+PA3mcat(422,4).
+numberdoses(422,2).
+totndrugs(422,6).
 frailty01(422).
 CVD01_tot(422).
 cogdis01_tot(422).
 HD01_tot(422).
-Mmsumrev(422,2.0).
+Mmsumrev(422,2).
 excovidtot(422).
 antiS_0(422,359.0).
 antiS_2(422,4370.0).
@@ -10008,44 +10008,44 @@ antiS_12(422,2410.0).
 deltaantiS02(422,4011.0).
 deltaantiS26(422,-3270.0).
 deltaantiS612(422,1310.0).
-WHO_f2(422,0.0).
-WHO_f3(422,0.0).
-WHO_f4(422,0.0).
-TypeofOutcome_updated(422,2.0).
+WHO_f2(422,0).
+WHO_f3(422,0).
+WHO_f4(422,0).
+TypeofOutcome_updated(422,2).
 patient(422,neg).
 
-%patient: IT-0143-004088
-Gender(423,1.0).
+%patient: IT-0143-004088 index:423
+Gender(423,m).
 Race(423,White).
-mobcat(423,2.0).
-PA3mcat(423,2.0).
-numberdoses(423,2.0).
-totndrugs(423,3.0).
+mobcat(423,2).
+PA3mcat(423,2).
+numberdoses(423,2).
+totndrugs(423,3).
 frailty01(423).
 HTA01_tot(423).
 depress01_tot(423).
 cogdis01_tot(423).
-Mmsumrev(423,2.0).
+Mmsumrev(423,2).
 excovidtot(423).
 antiS_0(423,1260.0).
-WHO_f2(423,0.0).
-WHO_f3(423,0.0).
-WHO_f4(423,0.0).
-TypeofOutcome_updated(423,2.0).
+WHO_f2(423,0).
+WHO_f3(423,0).
+WHO_f4(423,0).
+TypeofOutcome_updated(423,2).
 patient(423,neg).
 
-%patient: IT-0143-004089
-Gender(424,1.0).
+%patient: IT-0143-004089 index:424
+Gender(424,m).
 Race(424,White).
-mobcat(424,2.0).
-PA3mcat(424,2.0).
-numberdoses(424,2.0).
-totndrugs(424,7.0).
+mobcat(424,2).
+PA3mcat(424,2).
+numberdoses(424,2).
+totndrugs(424,7).
 immunedis01(424).
 HTA01_tot(424).
 depress01_tot(424).
 anxiety01_tot(424).
-Mmsumrev(424,5.0).
+Mmsumrev(424,5).
 excovidtot(424).
 antiS_0(424,131.0).
 antiS_2(424,3780.0).
@@ -10054,26 +10054,26 @@ antiS_12(424,1790.0).
 deltaantiS02(424,3649.0).
 deltaantiS26(424,-3400.0).
 deltaantiS612(424,1410.0).
-WHO_f2(424,0.0).
-WHO_f3(424,0.0).
-WHO_f4(424,0.0).
-TypeofOutcome_updated(424,2.0).
+WHO_f2(424,0).
+WHO_f3(424,0).
+WHO_f4(424,0).
+TypeofOutcome_updated(424,2).
 patient(424,neg).
 
-%patient: IT-0143-004091
-Gender(425,2.0).
+%patient: IT-0143-004091 index:425
+Gender(425,f).
 Race(425,White).
-mobcat(425,1.0).
-PA3mcat(425,4.0).
-numberdoses(425,2.0).
-totndrugs(425,4.0).
+mobcat(425,1).
+PA3mcat(425,4).
+numberdoses(425,2).
+totndrugs(425,4).
 frailty01(425).
 OAD01_tot(425).
 HTA01_tot(425).
 chrrespdis01_tot(425).
 cogdis01_tot(425).
 anxiety01_tot(425).
-Mmsumrev(425,4.0).
+Mmsumrev(425,4).
 excovidtot(425).
 antiS_0(425,216.0).
 antiS_2(425,17600.0).
@@ -10082,21 +10082,21 @@ antiS_12(425,5670.0).
 deltaantiS02(425,17384.0).
 deltaantiS26(425,-15980.0).
 deltaantiS612(425,4050.0).
-WHO_f2(425,0.0).
-WHO_f3(425,0.0).
-WHO_f4(425,0.0).
-TypeofOutcome_updated(425,2.0).
+WHO_f2(425,0).
+WHO_f3(425,0).
+WHO_f4(425,0).
+TypeofOutcome_updated(425,2).
 patient(425,neg).
 
-%patient: IT-0143-004247
-Gender(426,1.0).
+%patient: IT-0143-004247 index:426
+Gender(426,m).
 Race(426,White).
-mobcat(426,0.0).
-PA3mcat(426,1.0).
-numberdoses(426,2.0).
-totndrugs(426,3.0).
+mobcat(426,0).
+PA3mcat(426,1).
+numberdoses(426,2).
+totndrugs(426,3).
 HTA01_tot(426).
-Mmsumrev(426,2.0).
+Mmsumrev(426,2).
 excovidtot(426).
 antiS_0(426,451.0).
 antiS_2(426,1910.0).
@@ -10105,21 +10105,21 @@ antiS_12(426,1110.0).
 deltaantiS02(426,1459.0).
 deltaantiS26(426,-1110.0).
 deltaantiS612(426,310.0).
-WHO_f2(426,0.0).
-WHO_f3(426,0.0).
-WHO_f4(426,0.0).
-TypeofOutcome_updated(426,2.0).
+WHO_f2(426,0).
+WHO_f3(426,0).
+WHO_f4(426,0).
+TypeofOutcome_updated(426,2).
 patient(426,neg).
 
-%patient: IT-0143-004270
-Gender(427,2.0).
+%patient: IT-0143-004270 index:427
+Gender(427,f).
 Race(427,White).
-numberdoses(427,2.0).
-totndrugs(427,4.0).
+numberdoses(427,2).
+totndrugs(427,4).
 HTA01_tot(427).
 depress01_tot(427).
 cogdis01_tot(427).
-Mmsumrev(427,4.0).
+Mmsumrev(427,4).
 excovidtot(427).
 antiS_0(427,810.0).
 antiS_2(427,37500.0).
@@ -10128,17 +10128,17 @@ antiS_12(427,20900.0).
 deltaantiS02(427,36690.0).
 deltaantiS26(427,-33610.0).
 deltaantiS612(427,17010.0).
-WHO_f2(427,0.0).
-WHO_f3(427,0.0).
-WHO_f4(427,0.0).
-TypeofOutcome_updated(427,2.0).
+WHO_f2(427,0).
+WHO_f3(427,0).
+WHO_f4(427,0).
+TypeofOutcome_updated(427,2).
 patient(427,neg).
 
-%patient: IT-0143-004273
-Gender(428,1.0).
+%patient: IT-0143-004273 index:428
+Gender(428,m).
 Race(428,White).
-numberdoses(428,3.0).
-totndrugs(428,7.0).
+numberdoses(428,3).
+totndrugs(428,7).
 cancer01(428).
 HTA01_tot(428).
 CVD01_tot(428).
@@ -10146,7 +10146,7 @@ depress01_tot(428).
 cogdis01_tot(428).
 epilepsia01_tot(428).
 urol01_tot(428).
-Mmsumrev(428,5.0).
+Mmsumrev(428,5).
 antiS_0(428,4.81).
 antiS_2(428,824.0).
 antiS_6(428,132.0).
@@ -10154,20 +10154,20 @@ antiS_12(428,5580.0).
 deltaantiS02(428,819.19).
 deltaantiS26(428,-692.0).
 deltaantiS612(428,5448.0).
-WHO_f1(428,0.0).
-WHO_f2(428,0.0).
-WHO_f3(428,0.0).
-WHO_f4(428,0.0).
-TypeofOutcome_updated(428,2.0).
+WHO_f1(428,0).
+WHO_f2(428,0).
+WHO_f3(428,0).
+WHO_f4(428,0).
+TypeofOutcome_updated(428,2).
 patient(428,neg).
 
-%patient: IT-0143-003903
-Gender(429,2.0).
+%patient: IT-0143-003903 index:429
+Gender(429,f).
 Race(429,White).
-mobcat(429,3.0).
-PA3mcat(429,4.0).
-numberdoses(429,2.0).
-totndrugs(429,7.0).
+mobcat(429,3).
+PA3mcat(429,4).
+numberdoses(429,2).
+totndrugs(429,7).
 frailty01(429).
 poornut01(429).
 OAD01_tot(429).
@@ -10177,7 +10177,7 @@ AF01_tot(429).
 depress01_tot(429).
 park01_tot(429).
 thyrdis01_tot(429).
-Mmsumrev(429,7.0).
+Mmsumrev(429,7).
 excovidtot(429).
 antiS_0(429,734.0).
 antiS_2(429,5280.0).
@@ -10186,48 +10186,48 @@ antiS_12(429,3630.0).
 deltaantiS02(429,4546.0).
 deltaantiS26(429,-4468.0).
 deltaantiS612(429,2818.0).
-WHO_f2(429,0.0).
-WHO_f3(429,0.0).
-WHO_f4(429,0.0).
-TypeofOutcome_updated(429,2.0).
+WHO_f2(429,0).
+WHO_f3(429,0).
+WHO_f4(429,0).
+TypeofOutcome_updated(429,2).
 patient(429,neg).
 
-%patient: IT-0061-004149
-Gender(430,2.0).
+%patient: IT-0061-004149 index:430
+Gender(430,f).
 Race(430,White).
-mobcat(430,1.0).
-PA3mcat(430,4.0).
-numberdoses(430,2.0).
-totndrugs(430,6.0).
+mobcat(430,1).
+PA3mcat(430,4).
+numberdoses(430,2).
+totndrugs(430,6).
 frailty01(430).
 OAD01_tot(430).
 HTA01_tot(430).
 CVD01_tot(430).
 depress01_tot(430).
-Mmsumrev(430,3.0).
+Mmsumrev(430,3).
 excovidtot(430).
 antiS_0(430,1350.0).
 antiS_6(430,1560.0).
-WHO_f2(430,0.0).
-WHO_f3(430,0.0).
-WHO_f4(430,0.0).
-TypeofOutcome_updated(430,2.0).
+WHO_f2(430,0).
+WHO_f3(430,0).
+WHO_f4(430,0).
+TypeofOutcome_updated(430,2).
 patient(430,neg).
 
-%patient: IT-0143-003905
-Gender(431,1.0).
+%patient: IT-0143-003905 index:431
+Gender(431,m).
 Race(431,White).
-mobcat(431,0.0).
-PA3mcat(431,0.0).
-numberdoses(431,1.0).
-totndrugs(431,10.0).
+mobcat(431,0).
+PA3mcat(431,0).
+numberdoses(431,1).
+totndrugs(431,10).
 poornut01(431).
 HTA01_tot(431).
 CVD01_tot(431).
 depress01_tot(431).
 anxiety01_tot(431).
 HD01_tot(431).
-Mmsumrev(431,6.0).
+Mmsumrev(431,6).
 excovidtot(431).
 antiS_0(431,708.0).
 antiS_2(431,1460.0).
@@ -10236,25 +10236,25 @@ antiS_12(431,1210.0).
 deltaantiS02(431,752.0).
 deltaantiS26(431,-280.0).
 deltaantiS612(431,30.0).
-WHO_f2(431,1.0).
-WHO_f3(431,1.0).
-WHO_f4(431,1.0).
-TypeofOutcome_updated(431,2.0).
+WHO_f2(431,1).
+WHO_f3(431,1).
+WHO_f4(431,1).
+TypeofOutcome_updated(431,2).
 patient(431,neg).
 
-%patient: IT-0018-003764
-Gender(432,2.0).
+%patient: IT-0018-003764 index:432
+Gender(432,f).
 Race(432,White).
-mobcat(432,1.0).
-PA3mcat(432,4.0).
-numberdoses(432,3.0).
-totndrugs(432,5.0).
+mobcat(432,1).
+PA3mcat(432,4).
+numberdoses(432,3).
+totndrugs(432,5).
 OAD01_tot(432).
 HTA01_tot(432).
 CVD01_tot(432).
 AF01_tot(432).
 HD01_tot(432).
-Mmsumrev(432,5.0).
+Mmsumrev(432,5).
 antiS_0(432,4.81).
 antiS_2(432,14200.0).
 antiS_6(432,872.0).
@@ -10262,48 +10262,48 @@ antiS_12(432,11900.0).
 deltaantiS02(432,14195.19).
 deltaantiS26(432,-13328.0).
 deltaantiS612(432,11028.0).
-WHO_f1(432,0.0).
-WHO_f2(432,1.0).
-WHO_f3(432,1.0).
-WHO_f4(432,1.0).
-TypeofOutcome_updated(432,2.0).
+WHO_f1(432,0).
+WHO_f2(432,1).
+WHO_f3(432,1).
+WHO_f4(432,1).
+TypeofOutcome_updated(432,2).
 patient(432,neg).
 
-%patient: IT-0015-000678
-Gender(433,2.0).
+%patient: IT-0015-000678 index:433
+Gender(433,f).
 Race(433,White).
-mobcat(433,3.0).
-PA3mcat(433,4.0).
-numberdoses(433,2.0).
-totndrugs(433,7.0).
+mobcat(433,3).
+PA3mcat(433,4).
+numberdoses(433,2).
+totndrugs(433,7).
 CKD01(433).
 HTA01_tot(433).
 chrrespdis01_tot(433).
 depress01_tot(433).
 cogdis01_tot(433).
 anxiety01_tot(433).
-Mmsumrev(433,5.0).
+Mmsumrev(433,5).
 antiS_0(433,4.81).
 antiS_2(433,1740.0).
 antiS_6(433,127.0).
 deltaantiS02(433,1735.19).
 deltaantiS26(433,-1613.0).
 covid12m(433).
-WHO_f2(433,0.0).
-WHO_f3(433,0.0).
-WHO_f4(433,1.0).
-TypeofOutcome_updated(433,2.0).
+WHO_f2(433,0).
+WHO_f3(433,0).
+WHO_f4(433,1).
+TypeofOutcome_updated(433,2).
 patient(433,neg).
 
-%patient: IT-0015-003862
-Gender(434,1.0).
+%patient: IT-0015-003862 index:434
+Gender(434,m).
 Race(434,White).
-mobcat(434,0.0).
-PA3mcat(434,2.0).
-numberdoses(434,2.0).
-totndrugs(434,3.0).
+mobcat(434,0).
+PA3mcat(434,2).
+numberdoses(434,2).
+totndrugs(434,3).
 thyrdis01_tot(434).
-Mmsumrev(434,1.0).
+Mmsumrev(434,1).
 antiS_0(434,4.81).
 antiS_2(434,459.0).
 antiS_6(434,13.2).
@@ -10312,17 +10312,17 @@ deltaantiS02(434,454.19).
 deltaantiS26(434,-445.8).
 deltaantiS612(434,6606.8).
 covid12m(434).
-WHO_f2(434,0.0).
-WHO_f4(434,1.0).
-TypeofOutcome_updated(434,2.0).
+WHO_f2(434,0).
+WHO_f4(434,1).
+TypeofOutcome_updated(434,2).
 patient(434,neg).
 
-%patient: IT-0015-003863
-Gender(435,2.0).
+%patient: IT-0015-003863 index:435
+Gender(435,f).
 Race(435,White).
-mobcat(435,2.0).
-PA3mcat(435,2.0).
-numberdoses(435,3.0).
+mobcat(435,2).
+PA3mcat(435,2).
+numberdoses(435,3).
 CKD01(435).
 poornut01(435).
 OAD01_tot(435).
@@ -10331,32 +10331,32 @@ CVD01_tot(435).
 depress01_tot(435).
 cogdis01_tot(435).
 HD01_tot(435).
-Mmsumrev(435,7.0).
+Mmsumrev(435,7).
 antiS_0(435,4.81).
 antiS_2(435,14000.0).
 antiS_6(435,23.4).
 deltaantiS02(435,13995.19).
 deltaantiS26(435,-13976.6).
 covid12m(435).
-WHO_f2(435,0.0).
-WHO_f3(435,0.0).
-WHO_f4(435,1.0).
-TypeofOutcome_updated(435,2.0).
+WHO_f2(435,0).
+WHO_f3(435,0).
+WHO_f4(435,1).
+TypeofOutcome_updated(435,2).
 patient(435,neg).
 
-%patient: IT-0166-005015
-Gender(436,2.0).
+%patient: IT-0166-005015 index:436
+Gender(436,f).
 Race(436,White).
-mobcat(436,4.0).
-PA3mcat(436,4.0).
-numberdoses(436,3.0).
-totndrugs(436,2.0).
+mobcat(436,4).
+PA3mcat(436,4).
+numberdoses(436,3).
+totndrugs(436,2).
 OAD01_tot(436).
 CVD01_tot(436).
 depress01_tot(436).
 cogdis01_tot(436).
 HD01_tot(436).
-Mmsumrev(436,3.0).
+Mmsumrev(436,3).
 antiS_0(436,4.81).
 antiS_2(436,2350.0).
 antiS_6(436,706.0).
@@ -10365,51 +10365,51 @@ deltaantiS02(436,2345.19).
 deltaantiS26(436,-1644.0).
 deltaantiS612(436,1494.0).
 covid12m(436).
-WHO_f1(436,0.0).
-WHO_f2(436,0.0).
-WHO_f3(436,0.0).
-WHO_f4(436,1.0).
-TypeofOutcome_updated(436,2.0).
+WHO_f1(436,0).
+WHO_f2(436,0).
+WHO_f3(436,0).
+WHO_f4(436,1).
+TypeofOutcome_updated(436,2).
 patient(436,neg).
 
-%patient: IT-0166-004935
-Gender(437,2.0).
+%patient: IT-0166-004935 index:437
+Gender(437,f).
 Race(437,White).
-mobcat(437,0.0).
-PA3mcat(437,0.0).
-numberdoses(437,3.0).
-totndrugs(437,3.0).
+mobcat(437,0).
+PA3mcat(437,0).
+numberdoses(437,3).
+totndrugs(437,3).
 HTA01_tot(437).
 depress01_tot(437).
 cogdis01_tot(437).
-Mmsumrev(437,2.0).
+Mmsumrev(437,2).
 antiS_0(437,4.81).
 antiS_2(437,8640.0).
 antiS_6(437,1770.0).
 deltaantiS02(437,8635.19).
 deltaantiS26(437,-6870.0).
 covid12m(437).
-WHO_f1(437,0.0).
-WHO_f2(437,0.0).
-WHO_f3(437,0.0).
-WHO_f4(437,1.0).
-TypeofOutcome_updated(437,2.0).
+WHO_f1(437,0).
+WHO_f2(437,0).
+WHO_f3(437,0).
+WHO_f4(437,1).
+TypeofOutcome_updated(437,2).
 patient(437,neg).
 
-%patient: IT-0166-005109
-Gender(438,2.0).
+%patient: IT-0166-005109 index:438
+Gender(438,f).
 Race(438,White).
-mobcat(438,2.0).
-PA3mcat(438,1.0).
-numberdoses(438,3.0).
-totndrugs(438,4.0).
+mobcat(438,2).
+PA3mcat(438,1).
+numberdoses(438,3).
+totndrugs(438,4).
 OAD01_tot(438).
 HTA01_tot(438).
 CVD01_tot(438).
 depress01_tot(438).
 cogdis01_tot(438).
 epilepsia01_tot(438).
-Mmsumrev(438,4.0).
+Mmsumrev(438,4).
 antiS_0(438,15.0).
 antiS_2(438,23600.0).
 antiS_6(438,4320.0).
@@ -10418,25 +10418,25 @@ deltaantiS02(438,23585.0).
 deltaantiS26(438,-19280.0).
 deltaantiS612(438,-380.0).
 covid12m(438).
-WHO_f1(438,0.0).
-WHO_f2(438,0.0).
-WHO_f3(438,0.0).
-WHO_f4(438,1.0).
-TypeofOutcome_updated(438,2.0).
+WHO_f1(438,0).
+WHO_f2(438,0).
+WHO_f3(438,0).
+WHO_f4(438,1).
+TypeofOutcome_updated(438,2).
 patient(438,neg).
 
-%patient: IT-0166-005119
-Gender(439,2.0).
+%patient: IT-0166-005119 index:439
+Gender(439,f).
 Race(439,White).
-mobcat(439,3.0).
-PA3mcat(439,4.0).
-numberdoses(439,3.0).
-totndrugs(439,3.0).
+mobcat(439,3).
+PA3mcat(439,4).
+numberdoses(439,3).
+totndrugs(439,3).
 poornut01(439).
 HTA01_tot(439).
 chrrespdis01_tot(439).
 cogdis01_tot(439).
-Mmsumrev(439,2.0).
+Mmsumrev(439,2).
 antiS_0(439,4.81).
 antiS_2(439,5.0).
 antiS_6(439,9.39).
@@ -10445,25 +10445,25 @@ deltaantiS02(439,0.19).
 deltaantiS26(439,4.39).
 deltaantiS612(439,624.61).
 covid12m(439).
-WHO_f1(439,0.0).
-WHO_f2(439,0.0).
-WHO_f3(439,0.0).
-WHO_f4(439,1.0).
-TypeofOutcome_updated(439,2.0).
+WHO_f1(439,0).
+WHO_f2(439,0).
+WHO_f3(439,0).
+WHO_f4(439,1).
+TypeofOutcome_updated(439,2).
 patient(439,neg).
 
-%patient: IT-0166-005097
-Gender(440,2.0).
+%patient: IT-0166-005097 index:440
+Gender(440,f).
 Race(440,White).
-mobcat(440,3.0).
-PA3mcat(440,4.0).
-numberdoses(440,3.0).
-totndrugs(440,5.0).
+mobcat(440,3).
+PA3mcat(440,4).
+numberdoses(440,3).
+totndrugs(440,5).
 cancer01(440).
 HTA01_tot(440).
 CVD01_tot(440).
 cogdis01_tot(440).
-Mmsumrev(440,3.0).
+Mmsumrev(440,3).
 antiS_0(440,4.81).
 antiS_2(440,2120.0).
 antiS_6(440,538.0).
@@ -10472,25 +10472,25 @@ deltaantiS02(440,2115.19).
 deltaantiS26(440,-1582.0).
 deltaantiS612(440,39462.0).
 covid12m(440).
-WHO_f1(440,0.0).
-WHO_f2(440,0.0).
-WHO_f3(440,0.0).
-WHO_f4(440,1.0).
-TypeofOutcome_updated(440,2.0).
+WHO_f1(440,0).
+WHO_f2(440,0).
+WHO_f3(440,0).
+WHO_f4(440,1).
+TypeofOutcome_updated(440,2).
 patient(440,neg).
 
-%patient: IT-0166-005116
-Gender(441,2.0).
+%patient: IT-0166-005116 index:441
+Gender(441,f).
 Race(441,White).
-mobcat(441,1.0).
-PA3mcat(441,4.0).
-numberdoses(441,3.0).
-totndrugs(441,5.0).
+mobcat(441,1).
+PA3mcat(441,4).
+numberdoses(441,3).
+totndrugs(441,5).
 depress01_tot(441).
 cogdis01_tot(441).
 thyrdis01_tot(441).
 anxiety01_tot(441).
-Mmsumrev(441,4.0).
+Mmsumrev(441,4).
 excovidtot(441).
 antiS_0(441,247.0).
 antiS_2(441,28900.0).
@@ -10500,27 +10500,27 @@ deltaantiS02(441,28653.0).
 deltaantiS26(441,-27390.0).
 deltaantiS612(441,10090.0).
 covid12m(441).
-WHO_f1(441,0.0).
-WHO_f2(441,0.0).
-WHO_f3(441,0.0).
-WHO_f4(441,1.0).
-TypeofOutcome_updated(441,2.0).
+WHO_f1(441,0).
+WHO_f2(441,0).
+WHO_f3(441,0).
+WHO_f4(441,1).
+TypeofOutcome_updated(441,2).
 patient(441,neg).
 
-%patient: IT-0166-005098
-Gender(442,2.0).
+%patient: IT-0166-005098 index:442
+Gender(442,f).
 Race(442,White).
-mobcat(442,1.0).
-PA3mcat(442,4.0).
-numberdoses(442,3.0).
-totndrugs(442,4.0).
+mobcat(442,1).
+PA3mcat(442,4).
+numberdoses(442,3).
+totndrugs(442,4).
 CKD01(442).
 OAD01_tot(442).
 HTA01_tot(442).
 chrrespdis01_tot(442).
 depress01_tot(442).
 cogdis01_tot(442).
-Mmsumrev(442,6.0).
+Mmsumrev(442,6).
 excovidtot(442).
 antiS_0(442,604.0).
 antiS_2(442,31600.0).
@@ -10530,20 +10530,20 @@ deltaantiS02(442,30996.0).
 deltaantiS26(442,-30590.0).
 deltaantiS612(442,-397.0).
 covid12m(442).
-WHO_f1(442,0.0).
-WHO_f2(442,0.0).
-WHO_f3(442,0.0).
-WHO_f4(442,1.0).
-TypeofOutcome_updated(442,2.0).
+WHO_f1(442,0).
+WHO_f2(442,0).
+WHO_f3(442,0).
+WHO_f4(442,1).
+TypeofOutcome_updated(442,2).
 patient(442,neg).
 
-%patient: IT-0021-004873
-Gender(443,1.0).
+%patient: IT-0021-004873 index:443
+Gender(443,m).
 Race(443,White).
-mobcat(443,4.0).
-PA3mcat(443,4.0).
-numberdoses(443,3.0).
-totndrugs(443,6.0).
+mobcat(443,4).
+PA3mcat(443,4).
+numberdoses(443,3).
+totndrugs(443,6).
 CKD01(443).
 poornut01(443).
 OAD01_tot(443).
@@ -10552,7 +10552,7 @@ CVD01_tot(443).
 cogdis01_tot(443).
 HD01_tot(443).
 urol01_tot(443).
-Mmsumrev(443,6.0).
+Mmsumrev(443,6).
 antiS_0(443,4.81).
 antiS_2(443,1030.0).
 antiS_6(443,81.1).
@@ -10561,47 +10561,47 @@ deltaantiS02(443,1025.19).
 deltaantiS26(443,-948.9).
 deltaantiS612(443,726.9).
 covid12m(443).
-WHO_f1(443,0.0).
-WHO_f2(443,0.0).
-WHO_f3(443,0.0).
-WHO_f4(443,1.0).
-TypeofOutcome_updated(443,2.0).
+WHO_f1(443,0).
+WHO_f2(443,0).
+WHO_f3(443,0).
+WHO_f4(443,1).
+TypeofOutcome_updated(443,2).
 patient(443,neg).
 
-%patient: IT-0042-003694
-Gender(444,2.0).
+%patient: IT-0042-003694 index:444
+Gender(444,f).
 Race(444,White).
-mobcat(444,0.0).
-PA3mcat(444,4.0).
-numberdoses(444,3.0).
-totndrugs(444,5.0).
+mobcat(444,0).
+PA3mcat(444,4).
+numberdoses(444,3).
+totndrugs(444,5).
 OAD01_tot(444).
 HTA01_tot(444).
 PAD01_tot(444).
 cogdis01_tot(444).
-Mmsumrev(444,4.0).
+Mmsumrev(444,4).
 antiS_0(444,4.81).
 antiS_2(444,289.0).
 antiS_6(444,43.8).
 deltaantiS02(444,284.19).
 deltaantiS26(444,-245.2).
 covid12m(444).
-WHO_f1(444,0.0).
-WHO_f2(444,0.0).
-WHO_f3(444,0.0).
-WHO_f4(444,1.0).
-TypeofOutcome_updated(444,2.0).
+WHO_f1(444,0).
+WHO_f2(444,0).
+WHO_f3(444,0).
+WHO_f4(444,1).
+TypeofOutcome_updated(444,2).
 patient(444,neg).
 
-%patient: IT-0021-003843
-Gender(445,2.0).
+%patient: IT-0021-003843 index:445
+Gender(445,f).
 Race(445,White).
-numberdoses(445,3.0).
-totndrugs(445,5.0).
+numberdoses(445,3).
+totndrugs(445,5).
 OAD01_tot(445).
 HTA01_tot(445).
 cogdis01_tot(445).
-Mmsumrev(445,3.0).
+Mmsumrev(445,3).
 antiS_0(445,4.81).
 antiS_2(445,310.0).
 antiS_6(445,72.6).
@@ -10610,20 +10610,20 @@ deltaantiS02(445,305.19).
 deltaantiS26(445,-237.4).
 deltaantiS612(445,41657.4).
 covid12m(445).
-WHO_f1(445,0.0).
-WHO_f2(445,0.0).
-WHO_f3(445,0.0).
-WHO_f4(445,1.0).
-TypeofOutcome_updated(445,2.0).
+WHO_f1(445,0).
+WHO_f2(445,0).
+WHO_f3(445,0).
+WHO_f4(445,1).
+TypeofOutcome_updated(445,2).
 patient(445,neg).
 
-%patient: IT-0021-004586
-Gender(446,2.0).
+%patient: IT-0021-004586 index:446
+Gender(446,f).
 Race(446,White).
-mobcat(446,4.0).
-PA3mcat(446,2.0).
-numberdoses(446,3.0).
-totndrugs(446,10.0).
+mobcat(446,4).
+PA3mcat(446,2).
+numberdoses(446,3).
+totndrugs(446,10).
 frailty01(446).
 OAD01_tot(446).
 HTA01_tot(446).
@@ -10642,20 +10642,20 @@ deltaantiS02(446,1535.19).
 deltaantiS26(446,-1364.0).
 deltaantiS612(446,40024.0).
 covid12m(446).
-WHO_f1(446,0.0).
-WHO_f2(446,0.0).
-WHO_f3(446,0.0).
-WHO_f4(446,1.0).
-TypeofOutcome_updated(446,2.0).
+WHO_f1(446,0).
+WHO_f2(446,0).
+WHO_f3(446,0).
+WHO_f4(446,1).
+TypeofOutcome_updated(446,2).
 patient(446,neg).
 
-%patient: IT-0042-003636
-Gender(447,2.0).
+%patient: IT-0042-003636 index:447
+Gender(447,f).
 Race(447,White).
-mobcat(447,1.0).
-PA3mcat(447,4.0).
-numberdoses(447,3.0).
-totndrugs(447,6.0).
+mobcat(447,1).
+PA3mcat(447,4).
+numberdoses(447,3).
+totndrugs(447,6).
 OAD01_tot(447).
 HTA01_tot(447).
 CVD01_tot(447).
@@ -10663,32 +10663,32 @@ PAD01_tot(447).
 depress01_tot(447).
 cogdis01_tot(447).
 epilepsia01_tot(447).
-Mmsumrev(447,5.0).
+Mmsumrev(447,5).
 antiS_0(447,35.5).
 antiS_2(447,8400.0).
 antiS_6(447,957.0).
 deltaantiS02(447,8364.5).
 deltaantiS26(447,-7443.0).
 covid12m(447).
-WHO_f1(447,0.0).
-WHO_f2(447,0.0).
-WHO_f3(447,0.0).
-WHO_f4(447,1.0).
-TypeofOutcome_updated(447,2.0).
+WHO_f1(447,0).
+WHO_f2(447,0).
+WHO_f3(447,0).
+WHO_f4(447,1).
+TypeofOutcome_updated(447,2).
 patient(447,neg).
 
-%patient: IT-0143-004083
-Gender(448,2.0).
+%patient: IT-0143-004083 index:448
+Gender(448,f).
 Race(448,White).
-mobcat(448,3.0).
-PA3mcat(448,4.0).
-numberdoses(448,2.0).
+mobcat(448,3).
+PA3mcat(448,4).
+numberdoses(448,2).
 frailty01(448).
 OAD01_tot(448).
 HTA01_tot(448).
 CVD01_tot(448).
 anxiety01_tot(448).
-Mmsumrev(448,3.0).
+Mmsumrev(448,3).
 excovidtot(448).
 antiS_0(448,189.0).
 antiS_2(448,39800.0).
@@ -10698,24 +10698,24 @@ deltaantiS02(448,39611.0).
 deltaantiS26(448,-36310.0).
 deltaantiS612(448,-1770.0).
 covid12m(448).
-WHO_f2(448,0.0).
-WHO_f3(448,0.0).
-WHO_f4(448,1.0).
-TypeofOutcome_updated(448,2.0).
+WHO_f2(448,0).
+WHO_f3(448,0).
+WHO_f4(448,1).
+TypeofOutcome_updated(448,2).
 patient(448,neg).
 
-%patient: IT-0143-004261
-Gender(449,1.0).
+%patient: IT-0143-004261 index:449
+Gender(449,m).
 Race(449,White).
-mobcat(449,3.0).
-PA3mcat(449,4.0).
-numberdoses(449,3.0).
-totndrugs(449,6.0).
+mobcat(449,3).
+PA3mcat(449,4).
+numberdoses(449,3).
+totndrugs(449,6).
 frailty01(449).
 cogdis01_tot(449).
 epilepsia01_tot(449).
 anxiety01_tot(449).
-Mmsumrev(449,2.0).
+Mmsumrev(449,2).
 excovidtot(449).
 antiS_0(449,313.0).
 antiS_2(449,16100.0).
@@ -10725,26 +10725,26 @@ deltaantiS02(449,15787.0).
 deltaantiS26(449,-14510.0).
 deltaantiS612(449,5930.0).
 covid12m(449).
-WHO_f1(449,0.0).
-WHO_f2(449,0.0).
-WHO_f3(449,0.0).
-WHO_f4(449,1.0).
-TypeofOutcome_updated(449,2.0).
+WHO_f1(449,0).
+WHO_f2(449,0).
+WHO_f3(449,0).
+WHO_f4(449,1).
+TypeofOutcome_updated(449,2).
 patient(449,neg).
 
-%patient: IT-0016-003681
-Gender(450,2.0).
+%patient: IT-0016-003681 index:450
+Gender(450,f).
 Race(450,White).
-mobcat(450,0.0).
-PA3mcat(450,0.0).
-numberdoses(450,2.0).
-totndrugs(450,7.0).
+mobcat(450,0).
+PA3mcat(450,0).
+numberdoses(450,2).
+totndrugs(450,7).
 OAD01_tot(450).
 HTA01_tot(450).
 CVD01_tot(450).
 cogdis01_tot(450).
 anxiety01_tot(450).
-Mmsumrev(450,4.0).
+Mmsumrev(450,4).
 antiS_0(450,4.81).
 antiS_2(450,1040.0).
 antiS_6(450,245.0).
@@ -10752,20 +10752,20 @@ antiS_12(450,2650.0).
 deltaantiS02(450,1035.19).
 deltaantiS26(450,-795.0).
 deltaantiS612(450,2405.0).
-WHO_f2(450,0.0).
-WHO_f4(450,0.0).
-TypeofOutcome_updated(450,2.0).
+WHO_f2(450,0).
+WHO_f4(450,0).
+TypeofOutcome_updated(450,2).
 patient(450,neg).
 
-%patient: IT-0021-004251
-Gender(451,1.0).
+%patient: IT-0021-004251 index:451
+Gender(451,m).
 Race(451,White).
-mobcat(451,1.0).
-PA3mcat(451,1.0).
-numberdoses(451,3.0).
-totndrugs(451,1.0).
+mobcat(451,1).
+PA3mcat(451,1).
+numberdoses(451,3).
+totndrugs(451,1).
 OAD01_tot(451).
-Mmsumrev(451,1.0).
+Mmsumrev(451,1).
 antiS_0(451,4.81).
 antiS_2(451,531.0).
 antiS_6(451,38.4).
@@ -10773,19 +10773,19 @@ antiS_12(451,4130.0).
 deltaantiS02(451,526.19).
 deltaantiS26(451,-492.6).
 deltaantiS612(451,4091.6).
-WHO_f2(451,0.0).
-WHO_f3(451,0.0).
-WHO_f4(451,0.0).
-TypeofOutcome_updated(451,2.0).
+WHO_f2(451,0).
+WHO_f3(451,0).
+WHO_f4(451,0).
+TypeofOutcome_updated(451,2).
 patient(451,neg).
 
-%patient: IT-0016-000555
-Gender(452,1.0).
+%patient: IT-0016-000555 index:452
+Gender(452,m).
 Race(452,White).
-mobcat(452,0.0).
-PA3mcat(452,2.0).
-numberdoses(452,3.0).
-totndrugs(452,7.0).
+mobcat(452,0).
+PA3mcat(452,2).
+numberdoses(452,3).
+totndrugs(452,7).
 poornut01(452).
 cancer01(452).
 CVD01_tot(452).
@@ -10793,7 +10793,7 @@ cogdis01_tot(452).
 park01_tot(452).
 HD01_tot(452).
 urol01_tot(452).
-Mmsumrev(452,4.0).
+Mmsumrev(452,4).
 antiS_0(452,4.81).
 antiS_2(452,220.0).
 antiS_6(452,62.9).
@@ -10801,22 +10801,22 @@ antiS_12(452,39560.0).
 deltaantiS02(452,215.19).
 deltaantiS26(452,-157.1).
 deltaantiS612(452,39497.1).
-WHO_f2(452,0.0).
-WHO_f3(452,0.0).
-WHO_f4(452,0.0).
-TypeofOutcome_updated(452,2.0).
+WHO_f2(452,0).
+WHO_f3(452,0).
+WHO_f4(452,0).
+TypeofOutcome_updated(452,2).
 patient(452,neg).
 
-%patient: IT-0016-003678
-Gender(453,1.0).
+%patient: IT-0016-003678 index:453
+Gender(453,m).
 Race(453,White).
-mobcat(453,3.0).
-PA3mcat(453,4.0).
-numberdoses(453,3.0).
+mobcat(453,3).
+PA3mcat(453,4).
+numberdoses(453,3).
 HTA01_tot(453).
 depress01_tot(453).
 anxiety01_tot(453).
-Mmsumrev(453,5.0).
+Mmsumrev(453,5).
 antiS_0(453,4.81).
 antiS_2(453,415.0).
 antiS_6(453,173.0).
@@ -10824,25 +10824,25 @@ antiS_12(453,23500.0).
 deltaantiS02(453,410.19).
 deltaantiS26(453,-242.0).
 deltaantiS612(453,23327.0).
-WHO_f2(453,0.0).
-WHO_f3(453,0.0).
-WHO_f4(453,0.0).
-TypeofOutcome_updated(453,2.0).
+WHO_f2(453,0).
+WHO_f3(453,0).
+WHO_f4(453,0).
+TypeofOutcome_updated(453,2).
 patient(453,neg).
 
-%patient: IT-0016-003659
-Gender(454,2.0).
+%patient: IT-0016-003659 index:454
+Gender(454,f).
 Race(454,White).
-mobcat(454,0.0).
-PA3mcat(454,1.0).
-numberdoses(454,3.0).
-totndrugs(454,3.0).
+mobcat(454,0).
+PA3mcat(454,1).
+numberdoses(454,3).
+totndrugs(454,3).
 HTA01_tot(454).
 depress01_tot(454).
 cogdis01_tot(454).
 epilepsia01_tot(454).
 anxiety01_tot(454).
-Mmsumrev(454,4.0).
+Mmsumrev(454,4).
 antiS_0(454,4.81).
 antiS_2(454,221.0).
 antiS_6(454,413.0).
@@ -10850,25 +10850,25 @@ antiS_12(454,1980.0).
 deltaantiS02(454,216.19).
 deltaantiS26(454,192.0).
 deltaantiS612(454,1567.0).
-WHO_f2(454,0.0).
-WHO_f3(454,0.0).
-WHO_f4(454,0.0).
-TypeofOutcome_updated(454,2.0).
+WHO_f2(454,0).
+WHO_f3(454,0).
+WHO_f4(454,0).
+TypeofOutcome_updated(454,2).
 patient(454,neg).
 
-%patient: IT-0016-003670
-Gender(455,2.0).
+%patient: IT-0016-003670 index:455
+Gender(455,f).
 Race(455,White).
-mobcat(455,0.0).
-PA3mcat(455,1.0).
-numberdoses(455,3.0).
-totndrugs(455,10.0).
+mobcat(455,0).
+PA3mcat(455,1).
+numberdoses(455,3).
+totndrugs(455,10).
 HTA01_tot(455).
 CVD01_tot(455).
 cogdis01_tot(455).
 thyrdis01_tot(455).
 HD01_tot(455).
-Mmsumrev(455,3.0).
+Mmsumrev(455,3).
 antiS_0(455,4.81).
 antiS_2(455,188.0).
 antiS_6(455,27.2).
@@ -10876,19 +10876,19 @@ antiS_12(455,13300.0).
 deltaantiS02(455,183.19).
 deltaantiS26(455,-160.8).
 deltaantiS612(455,13272.8).
-WHO_f2(455,0.0).
-WHO_f3(455,0.0).
-WHO_f4(455,0.0).
-TypeofOutcome_updated(455,2.0).
+WHO_f2(455,0).
+WHO_f3(455,0).
+WHO_f4(455,0).
+TypeofOutcome_updated(455,2).
 patient(455,neg).
 
-%patient: IT-0016-002430
-Gender(456,1.0).
+%patient: IT-0016-002430 index:456
+Gender(456,m).
 Race(456,White).
-mobcat(456,0.0).
-PA3mcat(456,1.0).
-numberdoses(456,3.0).
-totndrugs(456,6.0).
+mobcat(456,0).
+PA3mcat(456,1).
+numberdoses(456,3).
+totndrugs(456,6).
 frailty01(456).
 poornut01(456).
 OAD01_tot(456).
@@ -10897,7 +10897,7 @@ chrrespdis01_tot(456).
 depress01_tot(456).
 epilepsia01_tot(456).
 anxiety01_tot(456).
-Mmsumrev(456,6.0).
+Mmsumrev(456,6).
 antiS_0(456,4.81).
 antiS_2(456,1480.0).
 antiS_6(456,241.0).
@@ -10905,23 +10905,23 @@ antiS_12(456,3220.0).
 deltaantiS02(456,1475.19).
 deltaantiS26(456,-1239.0).
 deltaantiS612(456,2979.0).
-WHO_f2(456,0.0).
-WHO_f3(456,0.0).
-WHO_f4(456,0.0).
-TypeofOutcome_updated(456,2.0).
+WHO_f2(456,0).
+WHO_f3(456,0).
+WHO_f4(456,0).
+TypeofOutcome_updated(456,2).
 patient(456,neg).
 
-%patient: IT-0016-003679
-Gender(457,1.0).
+%patient: IT-0016-003679 index:457
+Gender(457,m).
 Race(457,White).
-mobcat(457,2.0).
-PA3mcat(457,1.0).
-numberdoses(457,3.0).
-totndrugs(457,6.0).
+mobcat(457,2).
+PA3mcat(457,1).
+numberdoses(457,3).
+totndrugs(457,6).
 cogdis01_tot(457).
 park01_tot(457).
 anxiety01_tot(457).
-Mmsumrev(457,2.0).
+Mmsumrev(457,2).
 antiS_0(457,4.81).
 antiS_2(457,2150.0).
 antiS_6(457,343.0).
@@ -10929,18 +10929,18 @@ antiS_12(457,41230.0).
 deltaantiS02(457,2145.19).
 deltaantiS26(457,-1807.0).
 deltaantiS612(457,40887.0).
-WHO_f2(457,0.0).
-WHO_f3(457,0.0).
-TypeofOutcome_updated(457,2.0).
+WHO_f2(457,0).
+WHO_f3(457,0).
+TypeofOutcome_updated(457,2).
 patient(457,neg).
 
-%patient: IT-0016-000366
-Gender(458,2.0).
+%patient: IT-0016-000366 index:458
+Gender(458,f).
 Race(458,White).
-mobcat(458,3.0).
-PA3mcat(458,4.0).
-numberdoses(458,3.0).
-totndrugs(458,6.0).
+mobcat(458,3).
+PA3mcat(458,4).
+numberdoses(458,3).
+totndrugs(458,6).
 CKD01(458).
 OAD01_tot(458).
 HTA01_tot(458).
@@ -10948,7 +10948,7 @@ CVD01_tot(458).
 depress01_tot(458).
 cogdis01_tot(458).
 anxiety01_tot(458).
-Mmsumrev(458,6.0).
+Mmsumrev(458,6).
 antiS_0(458,4.81).
 antiS_2(458,5550.0).
 antiS_6(458,243.0).
@@ -10956,19 +10956,19 @@ antiS_12(458,41230.0).
 deltaantiS02(458,5545.19).
 deltaantiS26(458,-5307.0).
 deltaantiS612(458,40987.0).
-WHO_f2(458,0.0).
-WHO_f3(458,0.0).
-WHO_f4(458,0.0).
-TypeofOutcome_updated(458,2.0).
+WHO_f2(458,0).
+WHO_f3(458,0).
+WHO_f4(458,0).
+TypeofOutcome_updated(458,2).
 patient(458,neg).
 
-%patient: IT-0016-003668
-Gender(459,2.0).
+%patient: IT-0016-003668 index:459
+Gender(459,f).
 Race(459,White).
-mobcat(459,3.0).
-PA3mcat(459,4.0).
-numberdoses(459,3.0).
-totndrugs(459,5.0).
+mobcat(459,3).
+PA3mcat(459,4).
+numberdoses(459,3).
+totndrugs(459,5).
 frailty01(459).
 OAD01_tot(459).
 HTA01_tot(459).
@@ -10976,25 +10976,25 @@ CVD01_tot(459).
 cogdis01_tot(459).
 thyrdis01_tot(459).
 HD01_tot(459).
-Mmsumrev(459,6.0).
+Mmsumrev(459,6).
 antiS_0(459,4.81).
 antiS_2(459,35.0).
 antiS_6(459,19.1).
 deltaantiS02(459,30.19).
 deltaantiS26(459,-15.9).
-WHO_f2(459,0.0).
-WHO_f3(459,0.0).
-WHO_f4(459,0.0).
-TypeofOutcome_updated(459,2.0).
+WHO_f2(459,0).
+WHO_f3(459,0).
+WHO_f4(459,0).
+TypeofOutcome_updated(459,2).
 patient(459,neg).
 
-%patient: IT-0016-003682
-Gender(460,2.0).
+%patient: IT-0016-003682 index:460
+Gender(460,f).
 Race(460,White).
-mobcat(460,1.0).
-PA3mcat(460,4.0).
-numberdoses(460,3.0).
-totndrugs(460,7.0).
+mobcat(460,1).
+PA3mcat(460,4).
+numberdoses(460,3).
+totndrugs(460,7).
 OAD01_tot(460).
 HTA01_tot(460).
 CVD01_tot(460).
@@ -11002,7 +11002,7 @@ depress01_tot(460).
 cogdis01_tot(460).
 anxiety01_tot(460).
 HD01_tot(460).
-Mmsumrev(460,5.0).
+Mmsumrev(460,5).
 antiS_0(460,4.81).
 antiS_2(460,1330.0).
 antiS_6(460,62.2).
@@ -11010,18 +11010,18 @@ antiS_12(460,41890.0).
 deltaantiS02(460,1325.19).
 deltaantiS26(460,-1267.8).
 deltaantiS612(460,41827.8).
-WHO_f2(460,0.0).
-WHO_f3(460,0.0).
-WHO_f4(460,0.0).
-TypeofOutcome_updated(460,2.0).
+WHO_f2(460,0).
+WHO_f3(460,0).
+WHO_f4(460,0).
+TypeofOutcome_updated(460,2).
 patient(460,neg).
 
-%patient: IT-0016-003658
-Gender(461,2.0).
+%patient: IT-0016-003658 index:461
+Gender(461,f).
 Race(461,White).
-mobcat(461,3.0).
-PA3mcat(461,4.0).
-numberdoses(461,3.0).
+mobcat(461,3).
+PA3mcat(461,4).
+numberdoses(461,3).
 OAD01_tot(461).
 HTA01_tot(461).
 CVD01_tot(461).
@@ -11029,7 +11029,7 @@ chrrespdis01_tot(461).
 cogdis01_tot(461).
 epilepsia01_tot(461).
 HD01_tot(461).
-Mmsumrev(461,6.0).
+Mmsumrev(461,6).
 antiS_0(461,4.81).
 antiS_2(461,1140.0).
 antiS_6(461,25.8).
@@ -11037,26 +11037,26 @@ antiS_12(461,1850.0).
 deltaantiS02(461,1135.19).
 deltaantiS26(461,-1114.2).
 deltaantiS612(461,1824.2).
-WHO_f2(461,0.0).
-WHO_f3(461,0.0).
-WHO_f4(461,0.0).
-TypeofOutcome_updated(461,2.0).
+WHO_f2(461,0).
+WHO_f3(461,0).
+WHO_f4(461,0).
+TypeofOutcome_updated(461,2).
 patient(461,neg).
 
-%patient: IT-0018-000306
-Gender(462,2.0).
+%patient: IT-0018-000306 index:462
+Gender(462,f).
 Race(462,White).
-mobcat(462,5.0).
-PA3mcat(462,4.0).
-numberdoses(462,3.0).
-totndrugs(462,11.0).
+mobcat(462,5).
+PA3mcat(462,4).
+numberdoses(462,3).
+totndrugs(462,11).
 OAD01_tot(462).
 HTA01_tot(462).
 chrrespdis01_tot(462).
 obesity01_tot(462).
 depress01_tot(462).
 cogdis01_tot(462).
-Mmsumrev(462,7.0).
+Mmsumrev(462,7).
 antiS_0(462,4.81).
 antiS_2(462,1740.0).
 antiS_6(462,56.8).
@@ -11064,20 +11064,20 @@ antiS_12(462,2410.0).
 deltaantiS02(462,1735.19).
 deltaantiS26(462,-1683.2).
 deltaantiS612(462,2353.2).
-WHO_f1(462,0.0).
-WHO_f2(462,0.0).
-WHO_f3(462,0.0).
-WHO_f4(462,0.0).
-TypeofOutcome_updated(462,2.0).
+WHO_f1(462,0).
+WHO_f2(462,0).
+WHO_f3(462,0).
+WHO_f4(462,0).
+TypeofOutcome_updated(462,2).
 patient(462,neg).
 
-%patient: IT-0021-001769
-Gender(463,2.0).
+%patient: IT-0021-001769 index:463
+Gender(463,f).
 Race(463,White).
-mobcat(463,0.0).
-PA3mcat(463,4.0).
-numberdoses(463,3.0).
-totndrugs(463,7.0).
+mobcat(463,0).
+PA3mcat(463,4).
+numberdoses(463,3).
+totndrugs(463,7).
 frailty01(463).
 poornut01(463).
 OAD01_tot(463).
@@ -11085,7 +11085,7 @@ HTA01_tot(463).
 CVD01_tot(463).
 depress01_tot(463).
 cogdis01_tot(463).
-Mmsumrev(463,5.0).
+Mmsumrev(463,5).
 antiS_0(463,4.81).
 antiS_2(463,1800.0).
 antiS_6(463,88.4).
@@ -11093,17 +11093,17 @@ antiS_12(463,412.0).
 deltaantiS02(463,1795.19).
 deltaantiS26(463,-1711.6).
 deltaantiS612(463,323.6).
-WHO_f2(463,0.0).
-WHO_f3(463,0.0).
-WHO_f4(463,0.0).
-TypeofOutcome_updated(463,2.0).
+WHO_f2(463,0).
+WHO_f3(463,0).
+WHO_f4(463,0).
+TypeofOutcome_updated(463,2).
 patient(463,neg).
 
-%patient: IT-0021-003847
-Gender(464,2.0).
+%patient: IT-0021-003847 index:464
+Gender(464,f).
 Race(464,White).
-numberdoses(464,3.0).
-totndrugs(464,10.0).
+numberdoses(464,3).
+totndrugs(464,10).
 CKD01(464).
 cancer01(464).
 OAD01_tot(464).
@@ -11111,7 +11111,7 @@ HTA01_tot(464).
 CVD01_tot(464).
 cogdis01_tot(464).
 HD01_tot(464).
-Mmsumrev(464,5.0).
+Mmsumrev(464,5).
 antiS_0(464,4.81).
 antiS_2(464,897.0).
 antiS_6(464,229.0).
@@ -11119,20 +11119,20 @@ antiS_12(464,1110.0).
 deltaantiS02(464,892.19).
 deltaantiS26(464,-668.0).
 deltaantiS612(464,881.0).
-WHO_f1(464,0.0).
-WHO_f2(464,0.0).
-WHO_f3(464,0.0).
-WHO_f4(464,0.0).
-TypeofOutcome_updated(464,2.0).
+WHO_f1(464,0).
+WHO_f2(464,0).
+WHO_f3(464,0).
+WHO_f4(464,0).
+TypeofOutcome_updated(464,2).
 patient(464,neg).
 
-%patient: IT-0021-000287
-Gender(465,2.0).
+%patient: IT-0021-000287 index:465
+Gender(465,f).
 Race(465,White).
-mobcat(465,5.0).
-PA3mcat(465,4.0).
-numberdoses(465,3.0).
-totndrugs(465,12.0).
+mobcat(465,5).
+PA3mcat(465,4).
+numberdoses(465,3).
+totndrugs(465,12).
 poornut01(465).
 OAD01_tot(465).
 HTA01_tot(465).
@@ -11141,7 +11141,7 @@ depress01_tot(465).
 epilepsia01_tot(465).
 anxiety01_tot(465).
 HD01_tot(465).
-Mmsumrev(465,8.0).
+Mmsumrev(465,8).
 antiS_0(465,4.81).
 antiS_2(465,673.0).
 antiS_6(465,86.3).
@@ -11149,26 +11149,26 @@ antiS_12(465,3100.0).
 deltaantiS02(465,668.19).
 deltaantiS26(465,-586.7).
 deltaantiS612(465,3013.7).
-WHO_f2(465,0.0).
-WHO_f3(465,0.0).
-WHO_f4(465,0.0).
-TypeofOutcome_updated(465,2.0).
+WHO_f2(465,0).
+WHO_f3(465,0).
+WHO_f4(465,0).
+TypeofOutcome_updated(465,2).
 patient(465,neg).
 
-%patient: IT-0021-001893
-Gender(466,2.0).
+%patient: IT-0021-001893 index:466
+Gender(466,f).
 Race(466,White).
-mobcat(466,2.0).
-PA3mcat(466,4.0).
-numberdoses(466,3.0).
-totndrugs(466,6.0).
+mobcat(466,2).
+PA3mcat(466,4).
+numberdoses(466,3).
+totndrugs(466,6).
 frailty01(466).
 PAD01_tot(466).
 depress01_tot(466).
 cogdis01_tot(466).
 epilepsia01_tot(466).
 anxiety01_tot(466).
-Mmsumrev(466,4.0).
+Mmsumrev(466,4).
 antiS_0(466,4.81).
 antiS_2(466,422.0).
 antiS_6(466,109.0).
@@ -11176,19 +11176,19 @@ antiS_12(466,1850.0).
 deltaantiS02(466,417.19).
 deltaantiS26(466,-313.0).
 deltaantiS612(466,1741.0).
-WHO_f2(466,0.0).
-WHO_f3(466,0.0).
-WHO_f4(466,0.0).
-TypeofOutcome_updated(466,2.0).
+WHO_f2(466,0).
+WHO_f3(466,0).
+WHO_f4(466,0).
+TypeofOutcome_updated(466,2).
 patient(466,neg).
 
-%patient: IT-0021-003834
-Gender(467,2.0).
+%patient: IT-0021-003834 index:467
+Gender(467,f).
 Race(467,White).
-mobcat(467,1.0).
-PA3mcat(467,4.0).
-numberdoses(467,3.0).
-totndrugs(467,6.0).
+mobcat(467,1).
+PA3mcat(467,4).
+numberdoses(467,3).
+totndrugs(467,6).
 frailty01(467).
 poornut01(467).
 OAD01_tot(467).
@@ -11197,30 +11197,30 @@ CVD01_tot(467).
 depress01_tot(467).
 cogdis01_tot(467).
 HD01_tot(467).
-Mmsumrev(467,5.0).
+Mmsumrev(467,5).
 antiS_0(467,4.81).
 antiS_6(467,24.4).
-WHO_f1(467,0.0).
-WHO_f2(467,0.0).
-WHO_f3(467,0.0).
-WHO_f4(467,0.0).
-TypeofOutcome_updated(467,2.0).
+WHO_f1(467,0).
+WHO_f2(467,0).
+WHO_f3(467,0).
+WHO_f4(467,0).
+TypeofOutcome_updated(467,2).
 patient(467,neg).
 
-%patient: IT-0021-003835
-Gender(468,1.0).
+%patient: IT-0021-003835 index:468
+Gender(468,m).
 Race(468,White).
-mobcat(468,4.0).
-PA3mcat(468,2.0).
-numberdoses(468,3.0).
-totndrugs(468,6.0).
+mobcat(468,4).
+PA3mcat(468,2).
+numberdoses(468,3).
+totndrugs(468,6).
 HTA01_tot(468).
 chrrespdis01_tot(468).
 obesity01_tot(468).
 cogdis01_tot(468).
 epilepsia01_tot(468).
 anxiety01_tot(468).
-Mmsumrev(468,5.0).
+Mmsumrev(468,5).
 antiS_0(468,4.81).
 antiS_2(468,1370.0).
 antiS_6(468,181.0).
@@ -11228,19 +11228,19 @@ antiS_12(468,16700.0).
 deltaantiS02(468,1365.19).
 deltaantiS26(468,-1189.0).
 deltaantiS612(468,16519.0).
-WHO_f1(468,0.0).
-WHO_f2(468,0.0).
-WHO_f3(468,0.0).
-TypeofOutcome_updated(468,2.0).
+WHO_f1(468,0).
+WHO_f2(468,0).
+WHO_f3(468,0).
+TypeofOutcome_updated(468,2).
 patient(468,neg).
 
-%patient: IT-0021-003844
-Gender(469,2.0).
+%patient: IT-0021-003844 index:469
+Gender(469,f).
 Race(469,White).
-mobcat(469,4.0).
-PA3mcat(469,4.0).
-numberdoses(469,3.0).
-totndrugs(469,6.0).
+mobcat(469,4).
+PA3mcat(469,4).
+numberdoses(469,3).
+totndrugs(469,6).
 CKD01(469).
 liverdis01(469).
 OAD01_tot(469).
@@ -11250,7 +11250,7 @@ chrrespdis01_tot(469).
 depress01_tot(469).
 cogdis01_tot(469).
 HD01_tot(469).
-Mmsumrev(469,7.0).
+Mmsumrev(469,7).
 antiS_0(469,4.81).
 antiS_2(469,5340.0).
 antiS_6(469,448.0).
@@ -11258,20 +11258,20 @@ antiS_12(469,25700.0).
 deltaantiS02(469,5335.19).
 deltaantiS26(469,-4892.0).
 deltaantiS612(469,25252.0).
-WHO_f1(469,0.0).
-WHO_f2(469,0.0).
-WHO_f3(469,0.0).
-WHO_f4(469,0.0).
-TypeofOutcome_updated(469,2.0).
+WHO_f1(469,0).
+WHO_f2(469,0).
+WHO_f3(469,0).
+WHO_f4(469,0).
+TypeofOutcome_updated(469,2).
 patient(469,neg).
 
-%patient: IT-0021-003849
-Gender(470,2.0).
+%patient: IT-0021-003849 index:470
+Gender(470,f).
 Race(470,White).
-mobcat(470,0.0).
-PA3mcat(470,2.0).
-numberdoses(470,3.0).
-totndrugs(470,6.0).
+mobcat(470,0).
+PA3mcat(470,2).
+numberdoses(470,3).
+totndrugs(470,6).
 OAD01_tot(470).
 HTA01_tot(470).
 CVD01_tot(470).
@@ -11279,7 +11279,7 @@ AF01_tot(470).
 chrrespdis01_tot(470).
 depress01_tot(470).
 cogdis01_tot(470).
-Mmsumrev(470,6.0).
+Mmsumrev(470,6).
 antiS_0(470,4.81).
 antiS_2(470,2780.0).
 antiS_6(470,152.0).
@@ -11287,20 +11287,20 @@ antiS_12(470,6300.0).
 deltaantiS02(470,2775.19).
 deltaantiS26(470,-2628.0).
 deltaantiS612(470,6148.0).
-WHO_f1(470,0.0).
-WHO_f2(470,0.0).
-WHO_f3(470,0.0).
-WHO_f4(470,0.0).
-TypeofOutcome_updated(470,2.0).
+WHO_f1(470,0).
+WHO_f2(470,0).
+WHO_f3(470,0).
+WHO_f4(470,0).
+TypeofOutcome_updated(470,2).
 patient(470,neg).
 
-%patient: IT-0021-000239
-Gender(471,2.0).
+%patient: IT-0021-000239 index:471
+Gender(471,f).
 Race(471,White).
-mobcat(471,4.0).
-PA3mcat(471,4.0).
-numberdoses(471,3.0).
-totndrugs(471,5.0).
+mobcat(471,4).
+PA3mcat(471,4).
+numberdoses(471,3).
+totndrugs(471,5).
 OAD01_tot(471).
 HTA01_tot(471).
 obesity01_tot(471).
@@ -11308,7 +11308,7 @@ depress01_tot(471).
 thyrdis01_tot(471).
 epilepsia01_tot(471).
 anxiety01_tot(471).
-Mmsumrev(471,7.0).
+Mmsumrev(471,7).
 antiS_0(471,4.81).
 antiS_2(471,8840.0).
 antiS_6(471,874.0).
@@ -11316,25 +11316,25 @@ antiS_12(471,41270.0).
 deltaantiS02(471,8835.19).
 deltaantiS26(471,-7966.0).
 deltaantiS612(471,40396.0).
-WHO_f1(471,0.0).
-WHO_f2(471,0.0).
-WHO_f3(471,0.0).
-WHO_f4(471,0.0).
-TypeofOutcome_updated(471,2.0).
+WHO_f1(471,0).
+WHO_f2(471,0).
+WHO_f3(471,0).
+WHO_f4(471,0).
+TypeofOutcome_updated(471,2).
 patient(471,neg).
 
-%patient: IT-0021-000688
-Gender(472,2.0).
+%patient: IT-0021-000688 index:472
+Gender(472,f).
 Race(472,White).
-mobcat(472,4.0).
-PA3mcat(472,4.0).
-numberdoses(472,3.0).
-totndrugs(472,6.0).
+mobcat(472,4).
+PA3mcat(472,4).
+numberdoses(472,3).
+totndrugs(472,6).
 OAD01_tot(472).
 HTA01_tot(472).
 depress01_tot(472).
 epilepsia01_tot(472).
-Mmsumrev(472,5.0).
+Mmsumrev(472,5).
 antiS_0(472,4.81).
 antiS_2(472,691.0).
 antiS_6(472,175.0).
@@ -11342,19 +11342,19 @@ antiS_12(472,42540.0).
 deltaantiS02(472,686.19).
 deltaantiS26(472,-516.0).
 deltaantiS612(472,42365.0).
-WHO_f2(472,0.0).
-WHO_f3(472,0.0).
-WHO_f4(472,0.0).
-TypeofOutcome_updated(472,3.0).
+WHO_f2(472,0).
+WHO_f3(472,0).
+WHO_f4(472,0).
+TypeofOutcome_updated(472,3).
 patient(472,neg).
 
-%patient: IT-0016-002498
-Gender(473,1.0).
+%patient: IT-0016-002498 index:473
+Gender(473,m).
 Race(473,White).
-mobcat(473,3.0).
-PA3mcat(473,4.0).
-numberdoses(473,3.0).
-totndrugs(473,5.0).
+mobcat(473,3).
+PA3mcat(473,4).
+numberdoses(473,3).
+totndrugs(473,5).
 OAD01_tot(473).
 HTA01_tot(473).
 CVD01_tot(473).
@@ -11363,25 +11363,25 @@ cogdis01_tot(473).
 anxiety01_tot(473).
 HD01_tot(473).
 urol01_tot(473).
-Mmsumrev(473,6.0).
+Mmsumrev(473,6).
 antiS_0(473,4.81).
 antiS_2(473,315.0).
 antiS_6(473,86.5).
 deltaantiS02(473,310.19).
 deltaantiS26(473,-228.5).
-WHO_f2(473,0.0).
-WHO_f3(473,0.0).
-WHO_f4(473,0.0).
-TypeofOutcome_updated(473,3.0).
+WHO_f2(473,0).
+WHO_f3(473,0).
+WHO_f4(473,0).
+TypeofOutcome_updated(473,3).
 patient(473,neg).
 
-%patient: IT-0016-003669
-Gender(474,2.0).
+%patient: IT-0016-003669 index:474
+Gender(474,f).
 Race(474,White).
-mobcat(474,0.0).
-PA3mcat(474,1.0).
-numberdoses(474,3.0).
-totndrugs(474,5.0).
+mobcat(474,0).
+PA3mcat(474,1).
+numberdoses(474,3).
+totndrugs(474,5).
 frailty01(474).
 cancer01(474).
 OAD01_tot(474).
@@ -11390,7 +11390,7 @@ depress01_tot(474).
 cogdis01_tot(474).
 thyrdis01_tot(474).
 anxiety01_tot(474).
-Mmsumrev(474,7.0).
+Mmsumrev(474,7).
 antiS_0(474,4.81).
 antiS_2(474,1750.0).
 antiS_6(474,42.4).
@@ -11398,25 +11398,25 @@ antiS_12(474,40150.0).
 deltaantiS02(474,1745.19).
 deltaantiS26(474,-1707.6).
 deltaantiS612(474,40107.6).
-WHO_f2(474,0.0).
-WHO_f3(474,0.0).
-WHO_f4(474,0.0).
-TypeofOutcome_updated(474,3.0).
+WHO_f2(474,0).
+WHO_f3(474,0).
+WHO_f4(474,0).
+TypeofOutcome_updated(474,3).
 patient(474,neg).
 
-%patient: IT-0021-003841
-Gender(475,2.0).
+%patient: IT-0021-003841 index:475
+Gender(475,f).
 Race(475,White).
-mobcat(475,4.0).
-PA3mcat(475,4.0).
-numberdoses(475,3.0).
-totndrugs(475,5.0).
+mobcat(475,4).
+PA3mcat(475,4).
+numberdoses(475,3).
+totndrugs(475,5).
 frailty01(475).
 poornut01(475).
 OAD01_tot(475).
 cogdis01_tot(475).
 epilepsia01_tot(475).
-Mmsumrev(475,2.0).
+Mmsumrev(475,2).
 antiS_0(475,4.81).
 antiS_2(475,502.0).
 antiS_6(475,77.0).
@@ -11424,25 +11424,25 @@ antiS_12(475,22100.0).
 deltaantiS02(475,497.19).
 deltaantiS26(475,-425.0).
 deltaantiS612(475,22023.0).
-WHO_f2(475,0.0).
-WHO_f3(475,0.0).
-WHO_f4(475,0.0).
-TypeofOutcome_updated(475,3.0).
+WHO_f2(475,0).
+WHO_f3(475,0).
+WHO_f4(475,0).
+TypeofOutcome_updated(475,3).
 patient(475,neg).
 
-%patient: IT-0021-003845
-Gender(476,1.0).
+%patient: IT-0021-003845 index:476
+Gender(476,m).
 Race(476,White).
-mobcat(476,2.0).
-PA3mcat(476,2.0).
-numberdoses(476,3.0).
-totndrugs(476,6.0).
+mobcat(476,2).
+PA3mcat(476,2).
+numberdoses(476,3).
+totndrugs(476,6).
 HTA01_tot(476).
 CVD01_tot(476).
 AF01_tot(476).
 cogdis01_tot(476).
 HD01_tot(476).
-Mmsumrev(476,3.0).
+Mmsumrev(476,3).
 antiS_0(476,4.81).
 antiS_2(476,1590.0).
 antiS_6(476,109.0).
@@ -11450,19 +11450,19 @@ antiS_12(476,24900.0).
 deltaantiS02(476,1585.19).
 deltaantiS26(476,-1481.0).
 deltaantiS612(476,24791.0).
-WHO_f2(476,0.0).
-WHO_f3(476,0.0).
-WHO_f4(476,0.0).
-TypeofOutcome_updated(476,3.0).
+WHO_f2(476,0).
+WHO_f3(476,0).
+WHO_f4(476,0).
+TypeofOutcome_updated(476,3).
 patient(476,neg).
 
-%patient: IT-0016-003680
-Gender(477,2.0).
+%patient: IT-0016-003680 index:477
+Gender(477,f).
 Race(477,White).
-mobcat(477,1.0).
-PA3mcat(477,4.0).
-numberdoses(477,1.0).
-totndrugs(477,6.0).
+mobcat(477,1).
+PA3mcat(477,4).
+numberdoses(477,1).
+totndrugs(477,6).
 frailty01(477).
 HTA01_tot(477).
 CVD01_tot(477).
@@ -11471,16 +11471,16 @@ depress01_tot(477).
 cogdis01_tot(477).
 anxiety01_tot(477).
 HD01_tot(477).
-Mmsumrev(477,5.0).
+Mmsumrev(477,5).
 antiS_0(477,4.81).
-TypeofOutcome_updated(477,4.0).
+TypeofOutcome_updated(477,4).
 patient(477,neg).
 
-%patient: IT-0021-003848
-Gender(478,2.0).
+%patient: IT-0021-003848 index:478
+Gender(478,f).
 Race(478,White).
-numberdoses(478,2.0).
-totndrugs(478,0.0).
+numberdoses(478,2).
+totndrugs(478,0).
 CKD01(478).
 OAD01_tot(478).
 HTA01_tot(478).
@@ -11491,18 +11491,18 @@ chrrespdis01_tot(478).
 obesity01_tot(478).
 depress01_tot(478).
 HD01_tot(478).
-Mmsumrev(478,10.0).
+Mmsumrev(478,10).
 antiS_0(478,4.81).
-TypeofOutcome_updated(478,4.0).
+TypeofOutcome_updated(478,4).
 patient(478,neg).
 
-%patient: IT-0042-003629
-Gender(479,1.0).
+%patient: IT-0042-003629 index:479
+Gender(479,m).
 Race(479,White).
-mobcat(479,4.0).
-PA3mcat(479,4.0).
-numberdoses(479,1.0).
-totndrugs(479,5.0).
+mobcat(479,4).
+PA3mcat(479,4).
+numberdoses(479,1).
+totndrugs(479,5).
 CKD01(479).
 OAD01_tot(479).
 HTA01_tot(479).
@@ -11511,34 +11511,34 @@ PAD01_tot(479).
 chrrespdis01_tot(479).
 obesity01_tot(479).
 HD01_tot(479).
-Mmsumrev(479,7.0).
+Mmsumrev(479,7).
 excovidtot(479).
 antiS_0(479,641.0).
-TypeofOutcome_updated(479,4.0).
+TypeofOutcome_updated(479,4).
 patient(479,neg).
 
-%patient: IT-0042-005207
-Gender(480,1.0).
+%patient: IT-0042-005207 index:480
+Gender(480,m).
 Race(480,Asian).
-mobcat(480,5.0).
-PA3mcat(480,4.0).
-numberdoses(480,1.0).
-totndrugs(480,5.0).
+mobcat(480,5).
+PA3mcat(480,4).
+numberdoses(480,1).
+totndrugs(480,5).
 HTA01_tot(480).
 PAD01_tot(480).
-Mmsumrev(480,3.0).
+Mmsumrev(480,3).
 excovidtot(480).
 antiS_0(480,141.0).
-TypeofOutcome_updated(480,4.0).
+TypeofOutcome_updated(480,4).
 patient(480,neg).
 
-%patient: IT-0044-003667
-Gender(481,1.0).
+%patient: IT-0044-003667 index:481
+Gender(481,m).
 Race(481,White).
-mobcat(481,2.0).
-PA3mcat(481,1.0).
-numberdoses(481,2.0).
-totndrugs(481,6.0).
+mobcat(481,2).
+PA3mcat(481,1).
+numberdoses(481,2).
+totndrugs(481,6).
 frailty01(481).
 OAD01_tot(481).
 HTA01_tot(481).
@@ -11548,36 +11548,36 @@ depress01_tot(481).
 cogdis01_tot(481).
 HD01_tot(481).
 urol01_tot(481).
-Mmsumrev(481,7.0).
+Mmsumrev(481,7).
 antiS_0(481,8.47).
-TypeofOutcome_updated(481,4.0).
+TypeofOutcome_updated(481,4).
 patient(481,neg).
 
-%patient: IT-0139-006729
-Gender(482,2.0).
+%patient: IT-0139-006729 index:482
+Gender(482,f).
 Race(482,White).
-mobcat(482,2.0).
-PA3mcat(482,2.0).
-numberdoses(482,2.0).
-totndrugs(482,3.0).
+mobcat(482,2).
+PA3mcat(482,2).
+numberdoses(482,2).
+totndrugs(482,3).
 OAD01_tot(482).
 HTA01_tot(482).
 CVD01_tot(482).
 AF01_tot(482).
 HD01_tot(482).
-Mmsumrev(482,5.0).
+Mmsumrev(482,5).
 antiS_0(482,1510.0).
-WHO_f1(482,0.0).
-TypeofOutcome_updated(482,4.0).
+WHO_f1(482,0).
+TypeofOutcome_updated(482,4).
 patient(482,neg).
 
-%patient: IT-0132-005627
-Gender(483,1.0).
+%patient: IT-0132-005627 index:483
+Gender(483,m).
 Race(483,White).
-mobcat(483,2.0).
-PA3mcat(483,2.0).
-numberdoses(483,2.0).
-totndrugs(483,0.0).
+mobcat(483,2).
+PA3mcat(483,2).
+numberdoses(483,2).
+totndrugs(483,0).
 CKD01(483).
 OAD01_tot(483).
 HTA01_tot(483).
@@ -11586,57 +11586,57 @@ AF01_tot(483).
 cogdis01_tot(483).
 thyrdis01_tot(483).
 HD01_tot(483).
-Mmsumrev(483,8.0).
+Mmsumrev(483,8).
 antiS_0(483,611.0).
-WHO_f1(483,0.0).
-TypeofOutcome_updated(483,4.0).
+WHO_f1(483,0).
+TypeofOutcome_updated(483,4).
 patient(483,neg).
 
-%patient: IT-0132-003858
-Gender(484,2.0).
+%patient: IT-0132-003858 index:484
+Gender(484,f).
 Race(484,White).
-mobcat(484,3.0).
-PA3mcat(484,4.0).
-numberdoses(484,2.0).
-totndrugs(484,0.0).
+mobcat(484,3).
+PA3mcat(484,4).
+numberdoses(484,2).
+totndrugs(484,0).
 OAD01_tot(484).
 CVD01_tot(484).
 PAD01_tot(484).
 depress01_tot(484).
 cogdis01_tot(484).
 HD01_tot(484).
-Mmsumrev(484,5.0).
+Mmsumrev(484,5).
 antiS_0(484,4.81).
-WHO_f1(484,0.0).
-TypeofOutcome_updated(484,4.0).
+WHO_f1(484,0).
+TypeofOutcome_updated(484,4).
 patient(484,neg).
 
-%patient: IT-0052-003689
-Gender(485,1.0).
+%patient: IT-0052-003689 index:485
+Gender(485,m).
 Race(485,White).
-mobcat(485,1.0).
-PA3mcat(485,4.0).
-numberdoses(485,2.0).
-totndrugs(485,7.0).
+mobcat(485,1).
+PA3mcat(485,4).
+numberdoses(485,2).
+totndrugs(485,7).
 poornut01(485).
 HTA01_tot(485).
 CVD01_tot(485).
 epilepsia01_tot(485).
-Mmsumrev(485,3.0).
+Mmsumrev(485,3).
 antiS_0(485,4.81).
 antiS_2(485,734.0).
 deltaantiS02(485,729.19).
-WHO_f2(485,0.0).
-TypeofOutcome_updated(485,4.0).
+WHO_f2(485,0).
+TypeofOutcome_updated(485,4).
 patient(485,neg).
 
-%patient: IT-0139-006730
-Gender(486,1.0).
+%patient: IT-0139-006730 index:486
+Gender(486,m).
 Race(486,White).
-mobcat(486,2.0).
-PA3mcat(486,0.0).
-numberdoses(486,2.0).
-totndrugs(486,4.0).
+mobcat(486,2).
+PA3mcat(486,0).
+numberdoses(486,2).
+totndrugs(486,4).
 frailty01(486).
 OAD01_tot(486).
 HTA01_tot(486).
@@ -11644,79 +11644,79 @@ CVD01_tot(486).
 depress01_tot(486).
 HD01_tot(486).
 urol01_tot(486).
-Mmsumrev(486,5.0).
+Mmsumrev(486,5).
 antiS_0(486,1730.0).
-WHO_f1(486,0.0).
-WHO_f2(486,0.0).
-TypeofOutcome_updated(486,4.0).
+WHO_f1(486,0).
+WHO_f2(486,0).
+TypeofOutcome_updated(486,4).
 patient(486,neg).
 
-%patient: IT-0139-006731
-Gender(487,1.0).
+%patient: IT-0139-006731 index:487
+Gender(487,m).
 Race(487,White).
-mobcat(487,2.0).
-PA3mcat(487,2.0).
-numberdoses(487,2.0).
-totndrugs(487,5.0).
+mobcat(487,2).
+PA3mcat(487,2).
+numberdoses(487,2).
+totndrugs(487,5).
 frailty01(487).
 OAD01_tot(487).
 HTA01_tot(487).
 obesity01_tot(487).
-Mmsumrev(487,4.0).
+Mmsumrev(487,4).
 antiS_0(487,410.0).
-WHO_f1(487,0.0).
-WHO_f2(487,0.0).
-TypeofOutcome_updated(487,4.0).
+WHO_f1(487,0).
+WHO_f2(487,0).
+TypeofOutcome_updated(487,4).
 patient(487,neg).
 
-%patient: IT-0017-003752
-Gender(488,2.0).
+%patient: IT-0017-003752 index:488
+Gender(488,f).
 Race(488,White).
-mobcat(488,5.0).
-PA3mcat(488,4.0).
-numberdoses(488,2.0).
-totndrugs(488,3.0).
+mobcat(488,5).
+PA3mcat(488,4).
+numberdoses(488,2).
+totndrugs(488,3).
 frailty01(488).
 cancer01(488).
 OAD01_tot(488).
 HTA01_tot(488).
 depress01_tot(488).
 cogdis01_tot(488).
-Mmsumrev(488,4.0).
+Mmsumrev(488,4).
 antiS_0(488,4.81).
 antiS_2(488,1020.0).
 deltaantiS02(488,1015.19).
-WHO_f1(488,0.0).
-WHO_f2(488,0.0).
-TypeofOutcome_updated(488,4.0).
+WHO_f1(488,0).
+WHO_f2(488,0).
+TypeofOutcome_updated(488,4).
 patient(488,neg).
 
-%patient: IT-0020-003796
-Gender(489,1.0).
+%patient: IT-0020-003796 index:489
+Gender(489,m).
 Race(489,White).
-mobcat(489,1.0).
-PA3mcat(489,2.0).
-numberdoses(489,2.0).
-totndrugs(489,0.0).
+mobcat(489,1).
+PA3mcat(489,2).
+numberdoses(489,2).
+totndrugs(489,0).
 OAD01_tot(489).
 HTA01_tot(489).
 cogdis01_tot(489).
-Mmsumrev(489,2.0).
+Mmsumrev(489,2).
 antiS_0(489,4.81).
 antiS_2(489,3070.0).
 deltaantiS02(489,3065.19).
-WHO_f1(489,0.0).
-WHO_f2(489,0.0).
-TypeofOutcome_updated(489,4.0).
+WHO_f1(489,0).
+WHO_f2(489,0).
+TypeofOutcome_updated(489,4).
 patient(489,neg).
 
-%patient: IT-0052-003692
-Gender(490,2.0).
+%patient: IT-0052-003692 index:490
+Gender(490,f).
 Race(490,White).
-mobcat(490,5.0).
-PA3mcat(490,4.0).
-numberdoses(490,2.0).
-totndrugs(490,5.0).
+mobcat(490,5).
+PA3mcat(490,4).
+numberdoses(490,2).
+totndrugs(490,5).
 frailty01(490).
 HTA01_tot(490).
 CVD01_tot(490).
@@ -11725,24 +11725,24 @@ depress01_tot(490).
 cogdis01_tot(490).
 epilepsia01_tot(490).
 HD01_tot(490).
-Mmsumrev(490,6.0).
+Mmsumrev(490,6).
 antiS_0(490,4.81).
 antiS_2(490,1630.0).
 antiS_6(490,434.0).
 deltaantiS02(490,1625.19).
 deltaantiS26(490,-1196.0).
-WHO_f1(490,0.0).
-WHO_f2(490,0.0).
-TypeofOutcome_updated(490,4.0).
+WHO_f1(490,0).
+WHO_f2(490,0).
+TypeofOutcome_updated(490,4).
 patient(490,neg).
 
-%patient: IT-0050-003686
-Gender(491,1.0).
+%patient: IT-0050-003686 index:491
+Gender(491,m).
 Race(491,White).
-mobcat(491,0.0).
-PA3mcat(491,0.0).
-numberdoses(491,1.0).
-totndrugs(491,2.0).
+mobcat(491,0).
+PA3mcat(491,0).
+numberdoses(491,1).
+totndrugs(491,2).
 liverdis01(491).
 OAD01_tot(491).
 HTA01_tot(491).
@@ -11751,97 +11751,97 @@ chrrespdis01_tot(491).
 cogdis01_tot(491).
 epilepsia01_tot(491).
 HD01_tot(491).
-Mmsumrev(491,6.0).
+Mmsumrev(491,6).
 excovidtot(491).
 antiS_0(491,190.0).
 antiS_2(491,7660.0).
 deltaantiS02(491,7470.0).
-WHO_f2(491,1.0).
-TypeofOutcome_updated(491,4.0).
+WHO_f2(491,1).
+TypeofOutcome_updated(491,4).
 patient(491,neg).
 
-%patient: IT-0045-003684
-Gender(492,2.0).
+%patient: IT-0045-003684 index:492
+Gender(492,f).
 Race(492,White).
-mobcat(492,3.0).
-PA3mcat(492,4.0).
-numberdoses(492,1.0).
-totndrugs(492,10.0).
+mobcat(492,3).
+PA3mcat(492,4).
+numberdoses(492,1).
+totndrugs(492,10).
 CVD01_tot(492).
 chrrespdis01_tot(492).
 depress01_tot(492).
 cogdis01_tot(492).
 epilepsia01_tot(492).
-Mmsumrev(492,4.0).
+Mmsumrev(492,4).
 antiS_0(492,4.81).
-WHO_f2(492,0.0).
-TypeofOutcome_updated(492,4.0).
+WHO_f2(492,0).
+TypeofOutcome_updated(492,4).
 patient(492,neg).
 
-%patient: IT-0045-005296
-Gender(493,2.0).
+%patient: IT-0045-005296 index:493
+Gender(493,f).
 Race(493,White).
-mobcat(493,0.0).
-PA3mcat(493,2.0).
-numberdoses(493,2.0).
-totndrugs(493,3.0).
+mobcat(493,0).
+PA3mcat(493,2).
+numberdoses(493,2).
+totndrugs(493,3).
 frailty01(493).
 HTA01_tot(493).
 depress01_tot(493).
-Mmsumrev(493,2.0).
+Mmsumrev(493,2).
 antiS_0(493,4.81).
 antiS_2(493,751.0).
 deltaantiS02(493,746.19).
-WHO_f1(493,0.0).
-WHO_f2(493,0.0).
-TypeofOutcome_updated(493,4.0).
+WHO_f1(493,0).
+WHO_f2(493,0).
+TypeofOutcome_updated(493,4).
 patient(493,neg).
 
-%patient: IT-0050-005789
-Gender(494,1.0).
+%patient: IT-0050-005789 index:494
+Gender(494,m).
 Race(494,White).
-mobcat(494,0.0).
-PA3mcat(494,0.0).
-numberdoses(494,1.0).
-totndrugs(494,5.0).
+mobcat(494,0).
+PA3mcat(494,0).
+numberdoses(494,1).
+totndrugs(494,5).
 chrrespdis01_tot(494).
 cogdis01_tot(494).
 epilepsia01_tot(494).
-Mmsumrev(494,2.0).
+Mmsumrev(494,2).
 excovidtot(494).
 antiS_0(494,787.0).
-WHO_f2(494,0.0).
-TypeofOutcome_updated(494,4.0).
+WHO_f2(494,0).
+TypeofOutcome_updated(494,4).
 patient(494,neg).
 
-%patient: IT-0052-005773
-Gender(495,2.0).
+%patient: IT-0052-005773 index:495
+Gender(495,f).
 Race(495,White).
-mobcat(495,3.0).
-PA3mcat(495,2.0).
-numberdoses(495,1.0).
-totndrugs(495,5.0).
+mobcat(495,3).
+PA3mcat(495,2).
+numberdoses(495,1).
+totndrugs(495,5).
 HTA01_tot(495).
 depress01_tot(495).
 cogdis01_tot(495).
-Mmsumrev(495,2.0).
+Mmsumrev(495,2).
 excovidtot(495).
 antiS_0(495,72.9).
 antiS_2(495,3240.0).
 antiS_6(495,2770.0).
 deltaantiS02(495,3167.1).
 deltaantiS26(495,-470.0).
-WHO_f2(495,1.0).
-TypeofOutcome_updated(495,4.0).
+WHO_f2(495,1).
+TypeofOutcome_updated(495,4).
 patient(495,neg).
 
-%patient: IT-0143-004068
-Gender(496,2.0).
+%patient: IT-0143-004068 index:496
+Gender(496,f).
 Race(496,White).
-mobcat(496,1.0).
-PA3mcat(496,4.0).
-numberdoses(496,1.0).
-totndrugs(496,4.0).
+mobcat(496,1).
+PA3mcat(496,4).
+numberdoses(496,1).
+totndrugs(496,4).
 frailty01(496).
 cancer01(496).
 OAD01_tot(496).
@@ -11849,26 +11849,26 @@ CVD01_tot(496).
 depress01_tot(496).
 cogdis01_tot(496).
 HD01_tot(496).
-Mmsumrev(496,5.0).
+Mmsumrev(496,5).
 excovidtot(496).
 antiS_0(496,100.0).
 antiS_2(496,5240.0).
 deltaantiS02(496,5140.0).
-WHO_f2(496,0.0).
-TypeofOutcome_updated(496,4.0).
+WHO_f2(496,0).
+TypeofOutcome_updated(496,4).
 patient(496,neg).
 
-%patient: IT-0143-004262
-Gender(497,2.0).
+%patient: IT-0143-004262 index:497
+Gender(497,f).
 Race(497,White).
-numberdoses(497,1.0).
-totndrugs(497,6.0).
+numberdoses(497,1).
+totndrugs(497,6).
 CVD01_tot(497).
 AF01_tot(497).
 depress01_tot(497).
 cogdis01_tot(497).
 HD01_tot(497).
-Mmsumrev(497,4.0).
+Mmsumrev(497,4).
 antiS_0(497,4.81).
 antiS_2(497,134.0).
 antiS_6(497,1970.0).
@@ -11876,21 +11876,21 @@ antiS_12(497,803.0).
 deltaantiS02(497,129.19).
 deltaantiS26(497,1836.0).
 deltaantiS612(497,-1167.0).
-WHO_f2(497,0.0).
-TypeofOutcome_updated(497,4.0).
+WHO_f2(497,0).
+TypeofOutcome_updated(497,4).
 patient(497,neg).
 
-%patient: IT-0143-004266
-Gender(498,2.0).
+%patient: IT-0143-004266 index:498
+Gender(498,f).
 Race(498,White).
-mobcat(498,1.0).
-PA3mcat(498,4.0).
-numberdoses(498,2.0).
-totndrugs(498,2.0).
+mobcat(498,1).
+PA3mcat(498,4).
+numberdoses(498,2).
+totndrugs(498,2).
 frailty01(498).
 depress01_tot(498).
 cogdis01_tot(498).
-Mmsumrev(498,1.0).
+Mmsumrev(498,1).
 antiS_0(498,4.81).
 antiS_2(498,1030.0).
 antiS_6(498,105.0).
@@ -11898,17 +11898,17 @@ antiS_12(498,42200.0).
 deltaantiS02(498,1025.19).
 deltaantiS26(498,-925.0).
 deltaantiS612(498,42095.0).
-WHO_f2(498,0.0).
-TypeofOutcome_updated(498,4.0).
+WHO_f2(498,0).
+TypeofOutcome_updated(498,4).
 patient(498,neg).
 
-%patient: IT-0144-004573
-Gender(499,1.0).
+%patient: IT-0144-004573 index:499
+Gender(499,m).
 Race(499,White).
-mobcat(499,0.0).
-PA3mcat(499,0.0).
-numberdoses(499,2.0).
-totndrugs(499,4.0).
+mobcat(499,0).
+PA3mcat(499,0).
+numberdoses(499,2).
+totndrugs(499,4).
 frailty01(499).
 poornut01(499).
 liverdis01(499).
@@ -11917,22 +11917,22 @@ CVD01_tot(499).
 PAD01_tot(499).
 chrrespdis01_tot(499).
 cogdis01_tot(499).
-Mmsumrev(499,4.0).
+Mmsumrev(499,4).
 antiS_0(499,4.81).
 antiS_2(499,1160.0).
 deltaantiS02(499,1155.19).
-WHO_f1(499,0.0).
-WHO_f2(499,0.0).
-TypeofOutcome_updated(499,4.0).
+WHO_f1(499,0).
+WHO_f2(499,0).
+TypeofOutcome_updated(499,4).
 patient(499,neg).
 
-%patient: IT-0132-005941
-Gender(500,2.0).
+%patient: IT-0132-005941 index:500
+Gender(500,f).
 Race(500,White).
-mobcat(500,0.0).
-PA3mcat(500,0.0).
-numberdoses(500,2.0).
-totndrugs(500,0.0).
+mobcat(500,0).
+PA3mcat(500,0).
+numberdoses(500,2).
+totndrugs(500,0).
 CKD01(500).
 cancer01(500).
 OAD01_tot(500).
@@ -11943,48 +11943,48 @@ chrrespdis01_tot(500).
 obesity01_tot(500).
 cogdis01_tot(500).
 HD01_tot(500).
-Mmsumrev(500,8.0).
+Mmsumrev(500,8).
 excovidtot(500).
 antiS_2(500,17900.0).
-WHO_f1(500,0.0).
-WHO_f2(500,0.0).
-TypeofOutcome_updated(500,4.0).
+WHO_f1(500,0).
+WHO_f2(500,0).
+TypeofOutcome_updated(500,4).
 patient(500,neg).
 
-%patient: IT-0132-004280
-Gender(501,2.0).
+%patient: IT-0132-004280 index:501
+Gender(501,f).
 Race(501,White).
-mobcat(501,3.0).
-PA3mcat(501,4.0).
-numberdoses(501,2.0).
-totndrugs(501,0.0).
+mobcat(501,3).
+PA3mcat(501,4).
+numberdoses(501,2).
+totndrugs(501,0).
 OAD01_tot(501).
 HTA01_tot(501).
 CVD01_tot(501).
 depress01_tot(501).
 cogdis01_tot(501).
 HD01_tot(501).
-Mmsumrev(501,4.0).
+Mmsumrev(501,4).
 antiS_0(501,4.81).
 antiS_2(501,131.0).
 deltaantiS02(501,126.19).
-WHO_f2(501,0.0).
-TypeofOutcome_updated(501,4.0).
+WHO_f2(501,0).
+TypeofOutcome_updated(501,4).
 patient(501,neg).
 
-%patient: IT-0045-003683
-Gender(502,1.0).
+%patient: IT-0045-003683 index:502
+Gender(502,m).
 Race(502,White).
-mobcat(502,5.0).
-PA3mcat(502,4.0).
-numberdoses(502,3.0).
-totndrugs(502,6.0).
+mobcat(502,5).
+PA3mcat(502,4).
+numberdoses(502,3).
+totndrugs(502,6).
 HTA01_tot(502).
 CVD01_tot(502).
 cogdis01_tot(502).
 epilepsia01_tot(502).
 HD01_tot(502).
-Mmsumrev(502,4.0).
+Mmsumrev(502,4).
 antiS_0(502,4.81).
 antiS_2(502,668.0).
 antiS_6(502,85.6).
@@ -11992,77 +11992,77 @@ antiS_12(502,32000.0).
 deltaantiS02(502,663.19).
 deltaantiS26(502,-582.4).
 deltaantiS612(502,31914.4).
-WHO_f1(502,0.0).
-WHO_f2(502,0.0).
-TypeofOutcome_updated(502,4.0).
+WHO_f1(502,0).
+WHO_f2(502,0).
+TypeofOutcome_updated(502,4).
 patient(502,neg).
 
-%patient: IT-0139-006728
-Gender(503,1.0).
+%patient: IT-0139-006728 index:503
+Gender(503,m).
 Race(503,White).
-mobcat(503,0.0).
-PA3mcat(503,0.0).
-numberdoses(503,2.0).
-totndrugs(503,5.0).
+mobcat(503,0).
+PA3mcat(503,0).
+numberdoses(503,2).
+totndrugs(503,5).
 HTA01_tot(503).
 CVD01_tot(503).
 PAD01_tot(503).
 obesity01_tot(503).
-Mmsumrev(503,4.0).
+Mmsumrev(503,4).
 antiS_0(503,299.0).
-WHO_f1(503,0.0).
-WHO_f2(503,0.0).
-WHO_f3(503,0.0).
-TypeofOutcome_updated(503,4.0).
+WHO_f1(503,0).
+WHO_f2(503,0).
+WHO_f3(503,0).
+TypeofOutcome_updated(503,4).
 patient(503,neg).
 
-%patient: IT-0139-006740
-Gender(504,2.0).
+%patient: IT-0139-006740 index:504
+Gender(504,f).
 Race(504,White).
-mobcat(504,2.0).
-PA3mcat(504,2.0).
-numberdoses(504,2.0).
-totndrugs(504,5.0).
+mobcat(504,2).
+PA3mcat(504,2).
+numberdoses(504,2).
+totndrugs(504,5).
 cancer01(504).
 OAD01_tot(504).
 HTA01_tot(504).
 cogdis01_tot(504).
-Mmsumrev(504,5.0).
+Mmsumrev(504,5).
 antiS_0(504,2480.0).
-WHO_f1(504,0.0).
-WHO_f2(504,0.0).
-WHO_f3(504,0.0).
-TypeofOutcome_updated(504,4.0).
+WHO_f1(504,0).
+WHO_f2(504,0).
+WHO_f3(504,0).
+TypeofOutcome_updated(504,4).
 patient(504,neg).
 
-%patient: IT-0021-003836
-Gender(505,1.0).
+%patient: IT-0021-003836 index:505
+Gender(505,m).
 Race(505,White).
-mobcat(505,0.0).
-PA3mcat(505,1.0).
-numberdoses(505,2.0).
-totndrugs(505,5.0).
+mobcat(505,0).
+PA3mcat(505,1).
+numberdoses(505,2).
+totndrugs(505,5).
 HTA01_tot(505).
 epilepsia01_tot(505).
 anxiety01_tot(505).
-Mmsumrev(505,3.0).
+Mmsumrev(505,3).
 antiS_0(505,4.81).
 antiS_2(505,1310.0).
 antiS_6(505,284.0).
 deltaantiS02(505,1305.19).
 deltaantiS26(505,-1026.0).
-WHO_f1(505,0.0).
-WHO_f2(505,0.0).
-WHO_f3(505,0.0).
-TypeofOutcome_updated(505,4.0).
+WHO_f1(505,0).
+WHO_f2(505,0).
+WHO_f3(505,0).
+TypeofOutcome_updated(505,4).
 patient(505,neg).
 
-%patient: IT-0021-004587
-Gender(506,1.0).
+%patient: IT-0021-004587 index:506
+Gender(506,m).
 Race(506,White).
-mobcat(506,4.0).
-PA3mcat(506,4.0).
-numberdoses(506,1.0).
+mobcat(506,4).
+PA3mcat(506,4).
+numberdoses(506,1).
 OAD01_tot(506).
 HTA01_tot(506).
 CVD01_tot(506).
@@ -12070,48 +12070,48 @@ PAD01_tot(506).
 depress01_tot(506).
 HD01_tot(506).
 urol01_tot(506).
-Mmsumrev(506,7.0).
+Mmsumrev(506,7).
 excovidtot(506).
 antiS_0(506,655.0).
 antiS_2(506,31400.0).
 antiS_6(506,3500.0).
 deltaantiS02(506,30745.0).
 deltaantiS26(506,-27900.0).
-WHO_f2(506,0.0).
-WHO_f3(506,0.0).
-TypeofOutcome_updated(506,4.0).
+WHO_f2(506,0).
+WHO_f3(506,0).
+TypeofOutcome_updated(506,4).
 patient(506,neg).
 
-%patient: IT-0045-005290
-Gender(507,2.0).
+%patient: IT-0045-005290 index:507
+Gender(507,f).
 Race(507,White).
-PA3mcat(507,0.0).
-numberdoses(507,2.0).
-totndrugs(507,5.0).
+PA3mcat(507,0).
+numberdoses(507,2).
+totndrugs(507,5).
 CVD01_tot(507).
 cogdis01_tot(507).
-Mmsumrev(507,0.0).
+Mmsumrev(507,0).
 antiS_0(507,4.81).
 antiS_2(507,2020.0).
 antiS_6(507,822.0).
 deltaantiS02(507,2015.19).
 deltaantiS26(507,-1198.0).
-WHO_f1(507,0.0).
-WHO_f2(507,0.0).
-WHO_f3(507,0.0).
-TypeofOutcome_updated(507,4.0).
+WHO_f1(507,0).
+WHO_f2(507,0).
+WHO_f3(507,0).
+TypeofOutcome_updated(507,4).
 patient(507,neg).
 
-%patient: IT-0045-005293
-Gender(508,2.0).
+%patient: IT-0045-005293 index:508
+Gender(508,f).
 Race(508,White).
-mobcat(508,0.0).
-PA3mcat(508,0.0).
-numberdoses(508,2.0).
-totndrugs(508,3.0).
+mobcat(508,0).
+PA3mcat(508,0).
+numberdoses(508,2).
+totndrugs(508,3).
 cogdis01_tot(508).
 thyrdis01_tot(508).
-Mmsumrev(508,2.0).
+Mmsumrev(508,2).
 antiS_0(508,4.81).
 antiS_2(508,246.0).
 antiS_6(508,107.0).
@@ -12119,54 +12119,54 @@ antiS_12(508,22300.0).
 deltaantiS02(508,241.19).
 deltaantiS26(508,-139.0).
 deltaantiS612(508,22193.0).
-WHO_f3(508,0.0).
-TypeofOutcome_updated(508,4.0).
+WHO_f3(508,0).
+TypeofOutcome_updated(508,4).
 patient(508,neg).
 
-%patient: IT-0053-005302
-Gender(509,1.0).
+%patient: IT-0053-005302 index:509
+Gender(509,m).
 Race(509,Asian).
-mobcat(509,5.0).
-PA3mcat(509,4.0).
-numberdoses(509,2.0).
-totndrugs(509,0.0).
+mobcat(509,5).
+PA3mcat(509,4).
+numberdoses(509,2).
+totndrugs(509,0).
 frailty01(509).
 CKD01(509).
 HTA01_tot(509).
 depress01_tot(509).
-Mmsumrev(509,3.0).
+Mmsumrev(509,3).
 antiS_0(509,4.81).
 antiS_2(509,80.0).
 antiS_6(509,15.5).
 deltaantiS02(509,75.19).
 deltaantiS26(509,-64.5).
-WHO_f1(509,0.0).
-WHO_f2(509,0.0).
-WHO_f3(509,0.0).
-TypeofOutcome_updated(509,4.0).
+WHO_f1(509,0).
+WHO_f2(509,0).
+WHO_f3(509,0).
+TypeofOutcome_updated(509,4).
 patient(509,neg).
 
-%patient: IT-0045-005297
-Gender(510,2.0).
+%patient: IT-0045-005297 index:510
+Gender(510,f).
 Race(510,White).
-mobcat(510,2.0).
-PA3mcat(510,0.0).
-numberdoses(510,1.0).
-totndrugs(510,4.0).
+mobcat(510,2).
+PA3mcat(510,0).
+numberdoses(510,1).
+totndrugs(510,4).
 depress01_tot(510).
 cogdis01_tot(510).
-Mmsumrev(510,1.0).
+Mmsumrev(510,1).
 antiS_0(510,4.81).
-WHO_f3(510,0.0).
-TypeofOutcome_updated(510,4.0).
+WHO_f3(510,0).
+TypeofOutcome_updated(510,4).
 patient(510,neg).
 
-%patient: IT-0143-004057
-Gender(511,2.0).
+%patient: IT-0143-004057 index:511
+Gender(511,f).
 Race(511,White).
-mobcat(511,4.0).
-PA3mcat(511,4.0).
-numberdoses(511,2.0).
+mobcat(511,4).
+PA3mcat(511,4).
+numberdoses(511,2).
 frailty01(511).
 poornut01(511).
 HTA01_tot(511).
@@ -12176,25 +12176,25 @@ depress01_tot(511).
 cogdis01_tot(511).
 thyrdis01_tot(511).
 epilepsia01_tot(511).
-Mmsumrev(511,7.0).
+Mmsumrev(511,7).
 excovidtot(511).
 antiS_0(511,1260.0).
 antiS_2(511,6890.0).
 antiS_6(511,1270.0).
 deltaantiS02(511,5630.0).
 deltaantiS26(511,-5620.0).
-WHO_f2(511,0.0).
-WHO_f3(511,0.0).
-TypeofOutcome_updated(511,4.0).
+WHO_f2(511,0).
+WHO_f3(511,0).
+TypeofOutcome_updated(511,4).
 patient(511,neg).
 
-%patient: IT-0132-005596
-Gender(512,2.0).
+%patient: IT-0132-005596 index:512
+Gender(512,f).
 Race(512,White).
-mobcat(512,3.0).
-PA3mcat(512,4.0).
-numberdoses(512,2.0).
-totndrugs(512,4.0).
+mobcat(512,3).
+PA3mcat(512,4).
+numberdoses(512,2).
+totndrugs(512,4).
 OAD01_tot(512).
 HTA01_tot(512).
 CVD01_tot(512).
@@ -12202,23 +12202,23 @@ chrrespdis01_tot(512).
 depress01_tot(512).
 cogdis01_tot(512).
 HD01_tot(512).
-Mmsumrev(512,6.0).
+Mmsumrev(512,6).
 excovidtot(512).
 antiS_0(512,207.0).
 antiS_2(512,4940.0).
 deltaantiS02(512,4733.0).
-WHO_f2(512,0.0).
-WHO_f3(512,0.0).
-TypeofOutcome_updated(512,4.0).
+WHO_f2(512,0).
+WHO_f3(512,0).
+TypeofOutcome_updated(512,4).
 patient(512,neg).
 
-%patient: IT-0020-003779
-Gender(513,2.0).
+%patient: IT-0020-003779 index:513
+Gender(513,f).
 Race(513,White).
-mobcat(513,2.0).
-PA3mcat(513,4.0).
-numberdoses(513,3.0).
-totndrugs(513,0.0).
+mobcat(513,2).
+PA3mcat(513,4).
+numberdoses(513,3).
+totndrugs(513,0).
 CKD01(513).
 OAD01_tot(513).
 HTA01_tot(513).
@@ -12226,48 +12226,48 @@ CVD01_tot(513).
 obesity01_tot(513).
 depress01_tot(513).
 HD01_tot(513).
-Mmsumrev(513,6.0).
+Mmsumrev(513,6).
 antiS_0(513,4.81).
 antiS_2(513,2080.0).
 antiS_6(513,96.2).
 deltaantiS02(513,2075.19).
 deltaantiS26(513,-1983.8).
-WHO_f1(513,0.0).
-WHO_f2(513,0.0).
-WHO_f3(513,0.0).
-TypeofOutcome_updated(513,4.0).
+WHO_f1(513,0).
+WHO_f2(513,0).
+WHO_f3(513,0).
+TypeofOutcome_updated(513,4).
 patient(513,neg).
 
-%patient: IT-0018-000286
-Gender(514,2.0).
+%patient: IT-0018-000286 index:514
+Gender(514,f).
 Race(514,White).
-mobcat(514,5.0).
-PA3mcat(514,4.0).
-numberdoses(514,3.0).
-totndrugs(514,8.0).
+mobcat(514,5).
+PA3mcat(514,4).
+numberdoses(514,3).
+totndrugs(514,8).
 OAD01_tot(514).
 HTA01_tot(514).
 chrrespdis01_tot(514).
 obesity01_tot(514).
 cogdis01_tot(514).
-Mmsumrev(514,5.0).
+Mmsumrev(514,5).
 antiS_0(514,4.81).
 antiS_2(514,590.0).
 antiS_6(514,28.9).
 deltaantiS02(514,585.19).
 deltaantiS26(514,-561.1).
-WHO_f1(514,0.0).
-WHO_f2(514,0.0).
-WHO_f3(514,0.0).
-TypeofOutcome_updated(514,4.0).
+WHO_f1(514,0).
+WHO_f2(514,0).
+WHO_f3(514,0).
+TypeofOutcome_updated(514,4).
 patient(514,neg).
 
-%patient: IT-0020-003784
-Gender(515,2.0).
+%patient: IT-0020-003784 index:515
+Gender(515,f).
 Race(515,White).
-mobcat(515,3.0).
-numberdoses(515,3.0).
-totndrugs(515,0.0).
+mobcat(515,3).
+numberdoses(515,3).
+totndrugs(515,0).
 CKD01(515).
 OAD01_tot(515).
 HTA01_tot(515).
@@ -12276,109 +12276,109 @@ AF01_tot(515).
 chrrespdis01_tot(515).
 depress01_tot(515).
 HD01_tot(515).
-Mmsumrev(515,8.0).
+Mmsumrev(515,8).
 antiS_0(515,4.81).
 antiS_2(515,38.0).
 antiS_6(515,4.81).
 deltaantiS02(515,33.19).
 deltaantiS26(515,-33.19).
-WHO_f1(515,0.0).
-WHO_f2(515,0.0).
-WHO_f3(515,0.0).
-TypeofOutcome_updated(515,4.0).
+WHO_f1(515,0).
+WHO_f2(515,0).
+WHO_f3(515,0).
+TypeofOutcome_updated(515,4).
 patient(515,neg).
 
-%patient: IT-0021-003837
-Gender(516,1.0).
+%patient: IT-0021-003837 index:516
+Gender(516,m).
 Race(516,White).
-mobcat(516,4.0).
-PA3mcat(516,4.0).
-numberdoses(516,3.0).
-totndrugs(516,5.0).
+mobcat(516,4).
+PA3mcat(516,4).
+numberdoses(516,3).
+totndrugs(516,5).
 frailty01(516).
 poornut01(516).
 cogdis01_tot(516).
 epilepsia01_tot(516).
-Mmsumrev(516,1.0).
+Mmsumrev(516,1).
 antiS_0(516,4.81).
 antiS_2(516,739.0).
 antiS_6(516,49.2).
 deltaantiS02(516,734.19).
 deltaantiS26(516,-689.8).
-WHO_f1(516,0.0).
-WHO_f2(516,0.0).
-WHO_f3(516,0.0).
-WHO_f4(516,0.0).
-TypeofOutcome_updated(516,4.0).
+WHO_f1(516,0).
+WHO_f2(516,0).
+WHO_f3(516,0).
+WHO_f4(516,0).
+TypeofOutcome_updated(516,4).
 patient(516,neg).
 
-%patient: IT-0166-005017
-Gender(517,2.0).
+%patient: IT-0166-005017 index:517
+Gender(517,f).
 Race(517,White).
-mobcat(517,5.0).
-PA3mcat(517,4.0).
-numberdoses(517,3.0).
-totndrugs(517,7.0).
+mobcat(517,5).
+PA3mcat(517,4).
+numberdoses(517,3).
+totndrugs(517,7).
 OAD01_tot(517).
 CVD01_tot(517).
 depress01_tot(517).
 cogdis01_tot(517).
 epilepsia01_tot(517).
 HD01_tot(517).
-Mmsumrev(517,5.0).
+Mmsumrev(517,5).
 antiS_0(517,4.81).
 antiS_2(517,253.0).
 antiS_6(517,65.5).
 deltaantiS02(517,248.19).
 deltaantiS26(517,-187.5).
-WHO_f1(517,0.0).
-WHO_f2(517,0.0).
-WHO_f3(517,0.0).
-WHO_f4(517,0.0).
-TypeofOutcome_updated(517,4.0).
+WHO_f1(517,0).
+WHO_f2(517,0).
+WHO_f3(517,0).
+WHO_f4(517,0).
+TypeofOutcome_updated(517,4).
 patient(517,neg).
 
-%patient: IT-0017-005473
-Gender(518,1.0).
+%patient: IT-0017-005473 index:518
+Gender(518,m).
 Race(518,White).
-mobcat(518,3.0).
-PA3mcat(518,4.0).
-numberdoses(518,2.0).
+mobcat(518,3).
+PA3mcat(518,4).
+numberdoses(518,2).
 antiS_0(518,4.81).
 antiS_2(518,366.0).
 antiS_6(518,139.0).
 deltaantiS02(518,361.19).
 deltaantiS26(518,-227.0).
-WHO_f1(518,0.0).
-TypeofOutcome_updated(518,5.0).
+WHO_f1(518,0).
+TypeofOutcome_updated(518,5).
 patient(518,neg).
 
-%patient: IT-0042-003634
-Gender(519,2.0).
+%patient: IT-0042-003634 index:519
+Gender(519,f).
 Race(519,White).
-mobcat(519,3.0).
-PA3mcat(519,4.0).
-numberdoses(519,1.0).
-totndrugs(519,5.0).
+mobcat(519,3).
+PA3mcat(519,4).
+numberdoses(519,1).
+totndrugs(519,5).
 OAD01_tot(519).
 HTA01_tot(519).
 CVD01_tot(519).
 PAD01_tot(519).
 cogdis01_tot(519).
 HD01_tot(519).
-Mmsumrev(519,4.0).
+Mmsumrev(519,4).
 excovidtot(519).
 antiS_0(519,154.0).
-TypeofOutcome_updated(519,5.0).
+TypeofOutcome_updated(519,5).
 patient(519,neg).
 
-%patient: IT-0042-003635
-Gender(520,2.0).
+%patient: IT-0042-003635 index:520
+Gender(520,f).
 Race(520,White).
-mobcat(520,1.0).
-PA3mcat(520,4.0).
-numberdoses(520,1.0).
-totndrugs(520,6.0).
+mobcat(520,1).
+PA3mcat(520,4).
+numberdoses(520,1).
+totndrugs(520,6).
 OAD01_tot(520).
 HTA01_tot(520).
 CVD01_tot(520).
@@ -12387,37 +12387,37 @@ chrrespdis01_tot(520).
 depress01_tot(520).
 cogdis01_tot(520).
 HD01_tot(520).
-Mmsumrev(520,6.0).
+Mmsumrev(520,6).
 excovidtot(520).
 antiS_0(520,2080.0).
-TypeofOutcome_updated(520,5.0).
+TypeofOutcome_updated(520,5).
 patient(520,neg).
 
-%patient: IT-0017-003892
-Gender(521,2.0).
+%patient: IT-0017-003892 index:521
+Gender(521,f).
 Race(521,White).
-mobcat(521,4.0).
-PA3mcat(521,4.0).
-numberdoses(521,2.0).
-totndrugs(521,4.0).
+mobcat(521,4).
+PA3mcat(521,4).
+numberdoses(521,2).
+totndrugs(521,4).
 OAD01_tot(521).
 HTA01_tot(521).
 cogdis01_tot(521).
-Mmsumrev(521,5.0).
+Mmsumrev(521,5).
 antiS_0(521,4.81).
 antiS_2(521,973.0).
 deltaantiS02(521,968.19).
-WHO_f1(521,0.0).
-TypeofOutcome_updated(521,5.0).
+WHO_f1(521,0).
+TypeofOutcome_updated(521,5).
 patient(521,neg).
 
-%patient: IT-0017-003757
-Gender(522,1.0).
+%patient: IT-0017-003757 index:522
+Gender(522,m).
 Race(522,White).
-mobcat(522,4.0).
-PA3mcat(522,4.0).
-numberdoses(522,2.0).
-totndrugs(522,6.0).
+mobcat(522,4).
+PA3mcat(522,4).
+numberdoses(522,2).
+totndrugs(522,6).
 frailty01(522).
 OAD01_tot(522).
 HTA01_tot(522).
@@ -12428,19 +12428,19 @@ depress01_tot(522).
 cogdis01_tot(522).
 park01_tot(522).
 HD01_tot(522).
-Mmsumrev(522,8.0).
+Mmsumrev(522,8).
 antiS_0(522,4.81).
-WHO_f1(522,0.0).
-TypeofOutcome_updated(522,5.0).
+WHO_f1(522,0).
+TypeofOutcome_updated(522,5).
 patient(522,neg).
 
-%patient: IT-0166-005019
-Gender(523,2.0).
+%patient: IT-0166-005019 index:523
+Gender(523,f).
 Race(523,White).
-mobcat(523,4.0).
-PA3mcat(523,4.0).
-numberdoses(523,2.0).
-totndrugs(523,3.0).
+mobcat(523,4).
+PA3mcat(523,4).
+numberdoses(523,2).
+totndrugs(523,3).
 frailty01(523).
 OAD01_tot(523).
 HTA01_tot(523).
@@ -12448,40 +12448,40 @@ CVD01_tot(523).
 cogdis01_tot(523).
 anxiety01_tot(523).
 HD01_tot(523).
-Mmsumrev(523,5.0).
+Mmsumrev(523,5).
 excovidtot(523).
 antiS_0(523,25.8).
 antiS_2(523,10200.0).
 deltaantiS02(523,10174.2).
-TypeofOutcome_updated(523,5.0).
+TypeofOutcome_updated(523,5).
 patient(523,neg).
 
-%patient: IT-0017-003751
-Gender(524,1.0).
+%patient: IT-0017-003751 index:524
+Gender(524,m).
 Race(524,White).
-mobcat(524,3.0).
-PA3mcat(524,4.0).
-numberdoses(524,2.0).
-totndrugs(524,3.0).
+mobcat(524,3).
+PA3mcat(524,4).
+numberdoses(524,2).
+totndrugs(524,3).
 CKD01(524).
 OAD01_tot(524).
 HTA01_tot(524).
-Mmsumrev(524,3.0).
+Mmsumrev(524,3).
 antiS_0(524,4.81).
 antiS_2(524,1640.0).
 deltaantiS02(524,1635.19).
-WHO_f1(524,0.0).
-WHO_f2(524,0.0).
-TypeofOutcome_updated(524,5.0).
+WHO_f1(524,0).
+WHO_f2(524,0).
+TypeofOutcome_updated(524,5).
 patient(524,neg).
 
-%patient: IT-0017-003754
-Gender(525,1.0).
+%patient: IT-0017-003754 index:525
+Gender(525,m).
 Race(525,White).
-mobcat(525,1.0).
-PA3mcat(525,4.0).
-numberdoses(525,2.0).
-totndrugs(525,8.0).
+mobcat(525,1).
+PA3mcat(525,4).
+numberdoses(525,2).
+totndrugs(525,8).
 frailty01(525).
 OAD01_tot(525).
 HTA01_tot(525).
@@ -12490,22 +12490,22 @@ AF01_tot(525).
 PAD01_tot(525).
 depress01_tot(525).
 HD01_tot(525).
-Mmsumrev(525,7.0).
+Mmsumrev(525,7).
 antiS_0(525,4.81).
 antiS_2(525,2040.0).
 deltaantiS02(525,2035.19).
-WHO_f1(525,0.0).
-WHO_f2(525,0.0).
-TypeofOutcome_updated(525,5.0).
+WHO_f1(525,0).
+WHO_f2(525,0).
+TypeofOutcome_updated(525,5).
 patient(525,neg).
 
-%patient: IT-0042-003630
-Gender(526,2.0).
+%patient: IT-0042-003630 index:526
+Gender(526,f).
 Race(526,White).
-mobcat(526,5.0).
-PA3mcat(526,4.0).
-numberdoses(526,1.0).
-totndrugs(526,6.0).
+mobcat(526,5).
+PA3mcat(526,4).
+numberdoses(526,1).
+totndrugs(526,6).
 frailty01(526).
 poornut01(526).
 OAD01_tot(526).
@@ -12513,204 +12513,204 @@ HTA01_tot(526).
 CVD01_tot(526).
 depress01_tot(526).
 cogdis01_tot(526).
-Mmsumrev(526,3.0).
+Mmsumrev(526,3).
 excovidtot(526).
 antiS_0(526,233.0).
 antiS_2(526,19500.0).
 deltaantiS02(526,19267.0).
-WHO_f2(526,1.0).
-TypeofOutcome_updated(526,5.0).
+WHO_f2(526,1).
+TypeofOutcome_updated(526,5).
 patient(526,neg).
 
-%patient: IT-0042-005208
-Gender(527,1.0).
+%patient: IT-0042-005208 index:527
+Gender(527,m).
 Race(527,White).
-mobcat(527,5.0).
-PA3mcat(527,4.0).
-numberdoses(527,1.0).
-totndrugs(527,4.0).
+mobcat(527,5).
+PA3mcat(527,4).
+numberdoses(527,1).
+totndrugs(527,4).
 HTA01_tot(527).
 CVD01_tot(527).
 PAD01_tot(527).
 cogdis01_tot(527).
-Mmsumrev(527,3.0).
+Mmsumrev(527,3).
 excovidtot(527).
 antiS_0(527,686.0).
 antiS_2(527,4360.0).
 deltaantiS02(527,3674.0).
-WHO_f2(527,0.0).
-TypeofOutcome_updated(527,5.0).
+WHO_f2(527,0).
+TypeofOutcome_updated(527,5).
 patient(527,neg).
 
-%patient: IT-0166-005114
-Gender(528,2.0).
+%patient: IT-0166-005114 index:528
+Gender(528,f).
 Race(528,White).
-mobcat(528,3.0).
-PA3mcat(528,4.0).
-numberdoses(528,2.0).
-totndrugs(528,5.0).
+mobcat(528,3).
+PA3mcat(528,4).
+numberdoses(528,2).
+totndrugs(528,5).
 OAD01_tot(528).
 HTA01_tot(528).
 depress01_tot(528).
 cogdis01_tot(528).
-Mmsumrev(528,3.0).
+Mmsumrev(528,3).
 antiS_0(528,4.81).
-WHO_f1(528,0.0).
-WHO_f2(528,0.0).
-TypeofOutcome_updated(528,5.0).
+WHO_f1(528,0).
+WHO_f2(528,0).
+TypeofOutcome_updated(528,5).
 patient(528,neg).
 
-%patient: IT-0042-005426
-Gender(529,2.0).
+%patient: IT-0042-005426 index:529
+Gender(529,f).
 Race(529,White).
-mobcat(529,3.0).
-PA3mcat(529,4.0).
-numberdoses(529,2.0).
-totndrugs(529,2.0).
+mobcat(529,3).
+PA3mcat(529,4).
+numberdoses(529,2).
+totndrugs(529,2).
 OAD01_tot(529).
 HTA01_tot(529).
 PAD01_tot(529).
 cogdis01_tot(529).
 epilepsia01_tot(529).
-Mmsumrev(529,4.0).
+Mmsumrev(529,4).
 antiS_0(529,4.81).
 antiS_2(529,891.0).
 deltaantiS02(529,886.19).
-WHO_f1(529,0.0).
-WHO_f2(529,0.0).
-TypeofOutcome_updated(529,5.0).
+WHO_f1(529,0).
+WHO_f2(529,0).
+TypeofOutcome_updated(529,5).
 patient(529,neg).
 
-%patient: IT-0017-004828
-Gender(530,2.0).
+%patient: IT-0017-004828 index:530
+Gender(530,f).
 Race(530,White).
-mobcat(530,1.0).
-PA3mcat(530,4.0).
-numberdoses(530,2.0).
-totndrugs(530,5.0).
+mobcat(530,1).
+PA3mcat(530,4).
+numberdoses(530,2).
+totndrugs(530,5).
 OAD01_tot(530).
 HTA01_tot(530).
 CVD01_tot(530).
-Mmsumrev(530,3.0).
+Mmsumrev(530,3).
 antiS_0(530,4.81).
 antiS_2(530,580.0).
 deltaantiS02(530,575.19).
-WHO_f1(530,0.0).
-WHO_f2(530,0.0).
-TypeofOutcome_updated(530,5.0).
+WHO_f1(530,0).
+WHO_f2(530,0).
+TypeofOutcome_updated(530,5).
 patient(530,neg).
 
-%patient: IT-0166-005032
-Gender(531,2.0).
+%patient: IT-0166-005032 index:531
+Gender(531,f).
 Race(531,White).
-mobcat(531,0.0).
-PA3mcat(531,0.0).
-numberdoses(531,1.0).
-totndrugs(531,1.0).
+mobcat(531,0).
+PA3mcat(531,0).
+numberdoses(531,1).
+totndrugs(531,1).
 obesity01_tot(531).
 depress01_tot(531).
 anxiety01_tot(531).
-Mmsumrev(531,3.0).
+Mmsumrev(531,3).
 excovidtot(531).
 antiS_0(531,137.0).
 antiS_2(531,2080.0).
 antiS_6(531,21800.0).
 deltaantiS02(531,1943.0).
 deltaantiS26(531,19720.0).
-WHO_f2(531,0.0).
-WHO_f3(531,0.0).
-TypeofOutcome_updated(531,5.0).
+WHO_f2(531,0).
+WHO_f3(531,0).
+TypeofOutcome_updated(531,5).
 patient(531,neg).
 
-%patient: IT-0166-005027
-Gender(532,2.0).
+%patient: IT-0166-005027 index:532
+Gender(532,f).
 Race(532,Black).
-mobcat(532,4.0).
-PA3mcat(532,4.0).
-numberdoses(532,2.0).
-totndrugs(532,4.0).
+mobcat(532,4).
+PA3mcat(532,4).
+numberdoses(532,2).
+totndrugs(532,4).
 OAD01_tot(532).
 HTA01_tot(532).
 CVD01_tot(532).
 depress01_tot(532).
 cogdis01_tot(532).
-Mmsumrev(532,3.0).
+Mmsumrev(532,3).
 excovidtot(532).
 antiS_0(532,993.0).
-WHO_f1(532,0.0).
-WHO_f2(532,0.0).
-WHO_f3(532,0.0).
-TypeofOutcome_updated(532,5.0).
+WHO_f1(532,0).
+WHO_f2(532,0).
+WHO_f3(532,0).
+TypeofOutcome_updated(532,5).
 patient(532,neg).
 
-%patient: IT-0166-005039
-Gender(533,2.0).
+%patient: IT-0166-005039 index:533
+Gender(533,f).
 Race(533,White).
-mobcat(533,0.0).
-PA3mcat(533,1.0).
-numberdoses(533,2.0).
-totndrugs(533,5.0).
+mobcat(533,0).
+PA3mcat(533,1).
+numberdoses(533,2).
+totndrugs(533,5).
 HTA01_tot(533).
 CVD01_tot(533).
 cogdis01_tot(533).
 HD01_tot(533).
-Mmsumrev(533,2.0).
+Mmsumrev(533,2).
 antiS_0(533,4.81).
 antiS_2(533,4000.0).
 antiS_6(533,806.0).
 deltaantiS02(533,3995.19).
 deltaantiS26(533,-3194.0).
-WHO_f1(533,0.0).
-WHO_f2(533,0.0).
-WHO_f3(533,0.0).
-TypeofOutcome_updated(533,5.0).
+WHO_f1(533,0).
+WHO_f2(533,0).
+WHO_f3(533,0).
+TypeofOutcome_updated(533,5).
 patient(533,neg).
 
-%patient: IT-0166-005100
-Gender(534,2.0).
+%patient: IT-0166-005100 index:534
+Gender(534,f).
 Race(534,White).
-mobcat(534,0.0).
-PA3mcat(534,1.0).
-numberdoses(534,2.0).
-totndrugs(534,0.0).
+mobcat(534,0).
+PA3mcat(534,1).
+numberdoses(534,2).
+totndrugs(534,0).
 OAD01_tot(534).
 depress01_tot(534).
-Mmsumrev(534,3.0).
+Mmsumrev(534,3).
 antiS_0(534,1140.0).
-WHO_f1(534,0.0).
-WHO_f2(534,0.0).
-WHO_f3(534,0.0).
-TypeofOutcome_updated(534,5.0).
+WHO_f1(534,0).
+WHO_f2(534,0).
+WHO_f3(534,0).
+TypeofOutcome_updated(534,5).
 patient(534,neg).
 
-%patient: IT-0166-005101
-Gender(535,2.0).
+%patient: IT-0166-005101 index:535
+Gender(535,f).
 Race(535,White).
-mobcat(535,3.0).
-PA3mcat(535,4.0).
-numberdoses(535,2.0).
-totndrugs(535,5.0).
+mobcat(535,3).
+PA3mcat(535,4).
+numberdoses(535,2).
+totndrugs(535,5).
 CKD01(535).
 IBD01(535).
 liverdis01(535).
 depress01_tot(535).
 cogdis01_tot(535).
 anxiety01_tot(535).
-Mmsumrev(535,5.0).
+Mmsumrev(535,5).
 antiS_0(535,4.81).
-WHO_f1(535,0.0).
-WHO_f2(535,0.0).
-WHO_f3(535,0.0).
-TypeofOutcome_updated(535,5.0).
+WHO_f1(535,0).
+WHO_f2(535,0).
+WHO_f3(535,0).
+TypeofOutcome_updated(535,5).
 patient(535,neg).
 
-%patient: IT-0166-005104
-Gender(536,2.0).
+%patient: IT-0166-005104 index:536
+Gender(536,f).
 Race(536,White).
-mobcat(536,3.0).
-PA3mcat(536,4.0).
-numberdoses(536,2.0).
-totndrugs(536,7.0).
+mobcat(536,3).
+PA3mcat(536,4).
+numberdoses(536,2).
+totndrugs(536,7).
 OAD01_tot(536).
 HTA01_tot(536).
 CVD01_tot(536).
@@ -12719,44 +12719,44 @@ depress01_tot(536).
 cogdis01_tot(536).
 park01_tot(536).
 HD01_tot(536).
-Mmsumrev(536,7.0).
+Mmsumrev(536,7).
 antiS_0(536,4.81).
 antiS_2(536,7500.0).
 deltaantiS02(536,7495.19).
-WHO_f1(536,0.0).
-WHO_f2(536,0.0).
-WHO_f3(536,0.0).
-TypeofOutcome_updated(536,5.0).
+WHO_f1(536,0).
+WHO_f2(536,0).
+WHO_f3(536,0).
+TypeofOutcome_updated(536,5).
 patient(536,neg).
 
-%patient: IT-0166-005107
-Gender(537,1.0).
+%patient: IT-0166-005107 index:537
+Gender(537,m).
 Race(537,White).
-mobcat(537,1.0).
-PA3mcat(537,4.0).
-numberdoses(537,2.0).
-totndrugs(537,8.0).
+mobcat(537,1).
+PA3mcat(537,4).
+numberdoses(537,2).
+totndrugs(537,8).
 IBD01(537).
 OAD01_tot(537).
 HTA01_tot(537).
 CVD01_tot(537).
 cogdis01_tot(537).
 epilepsia01_tot(537).
-Mmsumrev(537,5.0).
+Mmsumrev(537,5).
 antiS_0(537,435.0).
-WHO_f1(537,0.0).
-WHO_f2(537,0.0).
-WHO_f3(537,0.0).
-TypeofOutcome_updated(537,5.0).
+WHO_f1(537,0).
+WHO_f2(537,0).
+WHO_f3(537,0).
+TypeofOutcome_updated(537,5).
 patient(537,neg).
 
-%patient: IT-0166-005112
-Gender(538,2.0).
+%patient: IT-0166-005112 index:538
+Gender(538,f).
 Race(538,White).
-mobcat(538,3.0).
-PA3mcat(538,4.0).
-numberdoses(538,2.0).
-totndrugs(538,4.0).
+mobcat(538,3).
+PA3mcat(538,4).
+numberdoses(538,2).
+totndrugs(538,4).
 OAD01_tot(538).
 HTA01_tot(538).
 chrrespdis01_tot(538).
@@ -12764,25 +12764,25 @@ obesity01_tot(538).
 depress01_tot(538).
 cogdis01_tot(538).
 anxiety01_tot(538).
-Mmsumrev(538,6.0).
+Mmsumrev(538,6).
 antiS_0(538,277.0).
-WHO_f1(538,0.0).
-WHO_f2(538,0.0).
-WHO_f3(538,0.0).
-TypeofOutcome_updated(538,5.0).
+WHO_f1(538,0).
+WHO_f2(538,0).
+WHO_f3(538,0).
+TypeofOutcome_updated(538,5).
 patient(538,neg).
 
-%patient: IT-0017-004365
-Gender(539,1.0).
+%patient: IT-0017-004365 index:539
+Gender(539,m).
 Race(539,White).
-mobcat(539,1.0).
-PA3mcat(539,0.0).
-numberdoses(539,3.0).
-totndrugs(539,6.0).
+mobcat(539,1).
+PA3mcat(539,0).
+numberdoses(539,3).
+totndrugs(539,6).
 immunedis01(539).
 HTA01_tot(539).
 epilepsia01_tot(539).
-Mmsumrev(539,5.0).
+Mmsumrev(539,5).
 antiS_0(539,4.81).
 antiS_2(539,4900.0).
 antiS_6(539,219.0).
@@ -12790,47 +12790,47 @@ antiS_12(539,7290.0).
 deltaantiS02(539,4895.19).
 deltaantiS26(539,-4681.0).
 deltaantiS612(539,7071.0).
-WHO_f1(539,0.0).
-WHO_f2(539,0.0).
-WHO_f3(539,0.0).
-TypeofOutcome_updated(539,5.0).
+WHO_f1(539,0).
+WHO_f2(539,0).
+WHO_f3(539,0).
+TypeofOutcome_updated(539,5).
 patient(539,neg).
 
-%patient: IT-0166-004955
-Gender(540,2.0).
+%patient: IT-0166-004955 index:540
+Gender(540,f).
 Race(540,White).
-mobcat(540,1.0).
-PA3mcat(540,4.0).
-numberdoses(540,3.0).
-totndrugs(540,3.0).
+mobcat(540,1).
+PA3mcat(540,4).
+numberdoses(540,3).
+totndrugs(540,3).
 depress01_tot(540).
 cogdis01_tot(540).
 thyrdis01_tot(540).
-Mmsumrev(540,2.0).
+Mmsumrev(540,2).
 excovidtot(540).
 antiS_0(540,256.0).
 antiS_2(540,20500.0).
 antiS_6(540,4050.0).
 deltaantiS02(540,20244.0).
 deltaantiS26(540,-16450.0).
-WHO_f2(540,0.0).
-WHO_f3(540,0.0).
-TypeofOutcome_updated(540,5.0).
+WHO_f2(540,0).
+WHO_f3(540,0).
+TypeofOutcome_updated(540,5).
 patient(540,neg).
 
-%patient: IT-0166-004934
-Gender(541,1.0).
+%patient: IT-0166-004934 index:541
+Gender(541,m).
 Race(541,White).
-mobcat(541,0.0).
-PA3mcat(541,0.0).
-numberdoses(541,3.0).
-totndrugs(541,6.0).
+mobcat(541,0).
+PA3mcat(541,0).
+numberdoses(541,3).
+totndrugs(541,6).
 HTA01_tot(541).
 CVD01_tot(541).
 chrrespdis01_tot(541).
 cogdis01_tot(541).
 urol01_tot(541).
-Mmsumrev(541,3.0).
+Mmsumrev(541,3).
 excovidtot(541).
 antiS_0(541,80.7).
 antiS_2(541,11800.0).
@@ -12839,58 +12839,58 @@ antiS_12(541,2920.0).
 deltaantiS02(541,11719.3).
 deltaantiS26(541,-10130.0).
 deltaantiS612(541,1250.0).
-WHO_f2(541,0.0).
-WHO_f3(541,0.0).
-TypeofOutcome_updated(541,5.0).
+WHO_f2(541,0).
+WHO_f3(541,0).
+TypeofOutcome_updated(541,5).
 patient(541,neg).
 
-%patient: IT-0166-005111
-Gender(542,2.0).
+%patient: IT-0166-005111 index:542
+Gender(542,f).
 Race(542,White).
-mobcat(542,2.0).
-PA3mcat(542,1.0).
-numberdoses(542,3.0).
-totndrugs(542,8.0).
+mobcat(542,2).
+PA3mcat(542,1).
+numberdoses(542,3).
+totndrugs(542,8).
 OAD01_tot(542).
 HTA01_tot(542).
 depress01_tot(542).
 cogdis01_tot(542).
 epilepsia01_tot(542).
 anxiety01_tot(542).
-Mmsumrev(542,5.0).
+Mmsumrev(542,5).
 antiS_0(542,555.0).
 antiS_2(542,36600.0).
 deltaantiS02(542,36045.0).
-WHO_f1(542,0.0).
-WHO_f2(542,0.0).
-WHO_f3(542,0.0).
-TypeofOutcome_updated(542,5.0).
+WHO_f1(542,0).
+WHO_f2(542,0).
+WHO_f3(542,0).
+TypeofOutcome_updated(542,5).
 patient(542,neg).
 
-%patient: IT-0154-004788
-Gender(543,1.0).
+%patient: IT-0154-004788 index:543
+Gender(543,m).
 Race(543,White).
-numberdoses(543,2.0).
+numberdoses(543,2).
 antiS_0(543,4.81).
-TypeofOutcome_updated(543,9.0).
+TypeofOutcome_updated(543,9).
 patient(543,unknown).
 
-%patient: IT-0152-004892
-Gender(544,1.0).
+%patient: IT-0152-004892 index:544
+Gender(544,m).
 Race(544,White).
-numberdoses(544,1.0).
+numberdoses(544,1).
 antiS_0(544,4.81).
-WHO_f2(544,0.0).
-TypeofOutcome_updated(544,9.0).
+WHO_f2(544,0).
+TypeofOutcome_updated(544,9).
 patient(544,unknown).
 
-%patient: IT-0152-005466
-Gender(545,2.0).
+%patient: IT-0152-005466 index:545
+Gender(545,f).
 Race(545,White).
-numberdoses(545,2.0).
-totndrugs(545,6.0).
+numberdoses(545,2).
+totndrugs(545,6).
 depress01_tot(545).
-Mmsumrev(545,2.0).
+Mmsumrev(545,2).
 antiS_0(545,4.81).
 antiS_2(545,1500.0).
 antiS_6(545,125.0).
@@ -12898,20 +12898,20 @@ antiS_12(545,39800.0).
 deltaantiS02(545,1495.19).
 deltaantiS26(545,-1375.0).
 deltaantiS612(545,39675.0).
-TypeofOutcome_updated(545,9.0).
+TypeofOutcome_updated(545,9).
 patient(545,unknown).
 
-%patient: IT-0152-005467
-Gender(546,2.0).
+%patient: IT-0152-005467 index:546
+Gender(546,f).
 Race(546,White).
-numberdoses(546,2.0).
-totndrugs(546,11.0).
+numberdoses(546,2).
+totndrugs(546,11).
 HTA01_tot(546).
 CVD01_tot(546).
 depress01_tot(546).
 anxiety01_tot(546).
 HD01_tot(546).
-Mmsumrev(546,4.0).
+Mmsumrev(546,4).
 antiS_0(546,4.81).
 antiS_2(546,166.0).
 antiS_6(546,17.7).
@@ -12919,19 +12919,19 @@ antiS_12(546,14800.0).
 deltaantiS02(546,161.19).
 deltaantiS26(546,-148.3).
 deltaantiS612(546,14782.3).
-WHO_f2(546,0.0).
-WHO_f3(546,0.0).
-TypeofOutcome_updated(546,9.0).
+WHO_f2(546,0).
+WHO_f3(546,0).
+TypeofOutcome_updated(546,9).
 patient(546,unknown).
 
-%patient: IT-0152-005471
-Gender(547,2.0).
+%patient: IT-0152-005471 index:547
+Gender(547,f).
 Race(547,White).
-numberdoses(547,2.0).
-totndrugs(547,4.0).
+numberdoses(547,2).
+totndrugs(547,4).
 HTA01_tot(547).
 depress01_tot(547).
-Mmsumrev(547,2.0).
+Mmsumrev(547,2).
 antiS_0(547,4.81).
 antiS_2(547,593.0).
 antiS_6(547,170.0).
@@ -12939,19 +12939,19 @@ antiS_12(547,1200.0).
 deltaantiS02(547,588.19).
 deltaantiS26(547,-423.0).
 deltaantiS612(547,1030.0).
-WHO_f2(547,0.0).
-WHO_f3(547,0.0).
-TypeofOutcome_updated(547,9.0).
+WHO_f2(547,0).
+WHO_f3(547,0).
+TypeofOutcome_updated(547,9).
 patient(547,unknown).
 
-%patient: IT-0152-005468
-Gender(548,2.0).
+%patient: IT-0152-005468 index:548
+Gender(548,f).
 Race(548,White).
-numberdoses(548,3.0).
-totndrugs(548,5.0).
+numberdoses(548,3).
+totndrugs(548,5).
 depress01_tot(548).
 anxiety01_tot(548).
-Mmsumrev(548,2.0).
+Mmsumrev(548,2).
 antiS_0(548,4.81).
 antiS_2(548,1100.0).
 antiS_6(548,95.2).
@@ -12959,40 +12959,40 @@ antiS_12(548,18000.0).
 deltaantiS02(548,1095.19).
 deltaantiS26(548,-1004.8).
 deltaantiS612(548,17904.8).
-WHO_f1(548,0.0).
-WHO_f2(548,0.0).
-WHO_f3(548,0.0).
-TypeofOutcome_updated(548,9.0).
+WHO_f1(548,0).
+WHO_f2(548,0).
+WHO_f3(548,0).
+TypeofOutcome_updated(548,9).
 patient(548,unknown).
 
-%patient: IT-0140-006436
-Gender(549,2.0).
+%patient: IT-0140-006436 index:549
+Gender(549,f).
 Race(549,White).
-mobcat(549,2.0).
-PA3mcat(549,2.0).
-numberdoses(549,1.0).
-totndrugs(549,8.0).
+mobcat(549,2).
+PA3mcat(549,2).
+numberdoses(549,1).
+totndrugs(549,8).
 poornut01(549).
 OAD01_tot(549).
 HTA01_tot(549).
 CVD01_tot(549).
 AF01_tot(549).
 cogdis01_tot(549).
-Mmsumrev(549,3.0).
+Mmsumrev(549,3).
 excovidtot(549).
 antiS_0(549,19.0).
 antiS_2(549,1070.0).
 deltaantiS02(549,1051.0).
-TypeofOutcome_updated(549,9.0).
+TypeofOutcome_updated(549,9).
 patient(549,unknown).
 
-%patient: IT-0140-006437
-Gender(550,1.0).
+%patient: IT-0140-006437 index:550
+Gender(550,m).
 Race(550,White).
-mobcat(550,3.0).
-PA3mcat(550,4.0).
-numberdoses(550,1.0).
-totndrugs(550,0.0).
+mobcat(550,3).
+PA3mcat(550,4).
+numberdoses(550,1).
+totndrugs(550,0).
 frailty01(550).
 poornut01(550).
 cancer01(550).
@@ -13002,57 +13002,57 @@ PAD01_tot(550).
 depress01_tot(550).
 cogdis01_tot(550).
 park01_tot(550).
-Mmsumrev(550,6.0).
+Mmsumrev(550,6).
 excovidtot(550).
 antiS_0(550,17.1).
 antiS_2(550,15400.0).
 deltaantiS02(550,15382.9).
-TypeofOutcome_updated(550,9.0).
+TypeofOutcome_updated(550,9).
 patient(550,unknown).
 
-%patient: IT-0140-006439
-Gender(551,1.0).
+%patient: IT-0140-006439 index:551
+Gender(551,m).
 Race(551,White).
-mobcat(551,0.0).
-PA3mcat(551,1.0).
-numberdoses(551,2.0).
-totndrugs(551,11.0).
+mobcat(551,0).
+PA3mcat(551,1).
+numberdoses(551,2).
+totndrugs(551,11).
 OAD01_tot(551).
 HTA01_tot(551).
 chrrespdis01_tot(551).
 obesity01_tot(551).
 cogdis01_tot(551).
 urol01_tot(551).
-Mmsumrev(551,6.0).
+Mmsumrev(551,6).
 antiS_0(551,4.81).
-TypeofOutcome_updated(551,9.0).
+TypeofOutcome_updated(551,9).
 patient(551,unknown).
 
-%patient: IT-0140-006441
-Gender(552,1.0).
+%patient: IT-0140-006441 index:552
+Gender(552,m).
 Race(552,White).
-mobcat(552,0.0).
-PA3mcat(552,0.0).
-numberdoses(552,2.0).
-totndrugs(552,10.0).
+mobcat(552,0).
+PA3mcat(552,0).
+numberdoses(552,2).
+totndrugs(552,10).
 HTA01_tot(552).
 CVD01_tot(552).
 PAD01_tot(552).
 depress01_tot(552).
 cogdis01_tot(552).
 epilepsia01_tot(552).
-Mmsumrev(552,5.0).
+Mmsumrev(552,5).
 antiS_2(552,1340.0).
-TypeofOutcome_updated(552,9.0).
+TypeofOutcome_updated(552,9).
 patient(552,unknown).
 
-%patient: IT-0140-006537
-Gender(553,2.0).
+%patient: IT-0140-006537 index:553
+Gender(553,f).
 Race(553,White).
-mobcat(553,1.0).
-PA3mcat(553,2.0).
-numberdoses(553,2.0).
-totndrugs(553,8.0).
+mobcat(553,1).
+PA3mcat(553,2).
+numberdoses(553,2).
+totndrugs(553,8).
 OAD01_tot(553).
 HTA01_tot(553).
 CVD01_tot(553).
@@ -13060,20 +13060,20 @@ chrrespdis01_tot(553).
 depress01_tot(553).
 cogdis01_tot(553).
 HD01_tot(553).
-Mmsumrev(553,7.0).
+Mmsumrev(553,7).
 antiS_0(553,4.81).
 antiS_2(553,9780.0).
 deltaantiS02(553,9775.19).
-TypeofOutcome_updated(553,9.0).
+TypeofOutcome_updated(553,9).
 patient(553,unknown).
 
-%patient: IT-0140-006582
-Gender(554,2.0).
+%patient: IT-0140-006582 index:554
+Gender(554,f).
 Race(554,White).
-mobcat(554,3.0).
-PA3mcat(554,4.0).
-numberdoses(554,2.0).
-totndrugs(554,8.0).
+mobcat(554,3).
+PA3mcat(554,4).
+numberdoses(554,2).
+totndrugs(554,8).
 poornut01(554).
 immunedis01(554).
 OAD01_tot(554).
@@ -13081,52 +13081,52 @@ HTA01_tot(554).
 CVD01_tot(554).
 cogdis01_tot(554).
 epilepsia01_tot(554).
-Mmsumrev(554,5.0).
+Mmsumrev(554,5).
 antiS_2(554,632.0).
-TypeofOutcome_updated(554,9.0).
+TypeofOutcome_updated(554,9).
 patient(554,unknown).
 
-%patient: IT-0146-005419
-Gender(555,2.0).
+%patient: IT-0146-005419 index:555
+Gender(555,f).
 Race(555,White).
-mobcat(555,5.0).
-PA3mcat(555,4.0).
-numberdoses(555,1.0).
-totndrugs(555,2.0).
+mobcat(555,5).
+PA3mcat(555,4).
+numberdoses(555,1).
+totndrugs(555,2).
 HTA01_tot(555).
 depress01_tot(555).
 cogdis01_tot(555).
-Mmsumrev(555,2.0).
+Mmsumrev(555,2).
 antiS_0(555,4.81).
-TypeofOutcome_updated(555,9.0).
+TypeofOutcome_updated(555,9).
 patient(555,unknown).
 
-%patient: IT-0140-005622
-Gender(556,2.0).
+%patient: IT-0140-005622 index:556
+Gender(556,f).
 Race(556,White).
-mobcat(556,4.0).
-PA3mcat(556,4.0).
-numberdoses(556,1.0).
-totndrugs(556,8.0).
+mobcat(556,4).
+PA3mcat(556,4).
+numberdoses(556,1).
+totndrugs(556,8).
 poornut01(556).
 OAD01_tot(556).
 HTA01_tot(556).
 cogdis01_tot(556).
-Mmsumrev(556,3.0).
+Mmsumrev(556,3).
 excovidtot(556).
 antiS_0(556,63.9).
 antiS_2(556,101.0).
 deltaantiS02(556,37.1).
-TypeofOutcome_updated(556,9.0).
+TypeofOutcome_updated(556,9).
 patient(556,unknown).
 
-%patient: IT-0140-005623
-Gender(557,2.0).
+%patient: IT-0140-005623 index:557
+Gender(557,f).
 Race(557,White).
-mobcat(557,2.0).
-PA3mcat(557,2.0).
-numberdoses(557,2.0).
-totndrugs(557,13.0).
+mobcat(557,2).
+PA3mcat(557,2).
+numberdoses(557,2).
+totndrugs(557,13).
 CKD01(557).
 OAD01_tot(557).
 HTA01_tot(557).
@@ -13137,92 +13137,92 @@ depress01_tot(557).
 cogdis01_tot(557).
 thyrdis01_tot(557).
 epilepsia01_tot(557).
-Mmsumrev(557,11.0).
+Mmsumrev(557,11).
 antiS_2(557,484.0).
 antiS_6(557,868.0).
 deltaantiS26(557,384.0).
-TypeofOutcome_updated(557,9.0).
+TypeofOutcome_updated(557,9).
 patient(557,unknown).
 
-%patient: IT-0146-005228
-Gender(558,2.0).
+%patient: IT-0146-005228 index:558
+Gender(558,f).
 Race(558,White).
-mobcat(558,5.0).
-PA3mcat(558,4.0).
-numberdoses(558,2.0).
-totndrugs(558,2.0).
+mobcat(558,5).
+PA3mcat(558,4).
+numberdoses(558,2).
+totndrugs(558,2).
 frailty01(558).
 HTA01_tot(558).
 CVD01_tot(558).
 cogdis01_tot(558).
 HD01_tot(558).
-Mmsumrev(558,3.0).
+Mmsumrev(558,3).
 antiS_0(558,4.81).
-WHO_f1(558,0.0).
-TypeofOutcome_updated(558,9.0).
+WHO_f1(558,0).
+TypeofOutcome_updated(558,9).
 patient(558,unknown).
 
-%patient: IT-0137-005430
-Gender(559,1.0).
+%patient: IT-0137-005430 index:559
+Gender(559,m).
 Race(559,White).
-mobcat(559,2.0).
-PA3mcat(559,1.0).
-numberdoses(559,2.0).
-totndrugs(559,3.0).
+mobcat(559,2).
+PA3mcat(559,1).
+numberdoses(559,2).
+totndrugs(559,3).
 frailty01(559).
 HTA01_tot(559).
 CVD01_tot(559).
-Mmsumrev(559,2.0).
+Mmsumrev(559,2).
 antiS_0(559,4.81).
-WHO_f1(559,0.0).
-TypeofOutcome_updated(559,9.0).
+WHO_f1(559,0).
+TypeofOutcome_updated(559,9).
 patient(559,unknown).
 
-%patient: IT-0039-000388
-Gender(560,2.0).
+%patient: IT-0039-000388 index:560
+Gender(560,f).
 Race(560,White).
-mobcat(560,3.0).
-PA3mcat(560,4.0).
-numberdoses(560,2.0).
-totndrugs(560,4.0).
+mobcat(560,3).
+PA3mcat(560,4).
+numberdoses(560,2).
+totndrugs(560,4).
 OAD01_tot(560).
 CVD01_tot(560).
 cogdis01_tot(560).
 HD01_tot(560).
-Mmsumrev(560,4.0).
+Mmsumrev(560,4).
 antiS_0(560,4.81).
 antiS_2(560,14.0).
 deltaantiS02(560,9.19).
-WHO_f1(560,0.0).
-WHO_f2(560,0.0).
-TypeofOutcome_updated(560,9.0).
+WHO_f1(560,0).
+WHO_f2(560,0).
+TypeofOutcome_updated(560,9).
 patient(560,unknown).
 
-%patient: IT-0039-003853
-Gender(561,2.0).
+%patient: IT-0039-003853 index:561
+Gender(561,f).
 Race(561,White).
-mobcat(561,2.0).
-PA3mcat(561,4.0).
-numberdoses(561,1.0).
-totndrugs(561,0.0).
+mobcat(561,2).
+PA3mcat(561,4).
+numberdoses(561,1).
+totndrugs(561,0).
 OAD01_tot(561).
 HTA01_tot(561).
 depress01_tot(561).
-Mmsumrev(561,4.0).
+Mmsumrev(561,4).
 antiS_0(561,4.81).
 antiS_2(561,5.0).
 deltaantiS02(561,0.19).
-WHO_f2(561,0.0).
-TypeofOutcome_updated(561,9.0).
+WHO_f2(561,0).
+TypeofOutcome_updated(561,9).
 patient(561,unknown).
 
-%patient: IT-0137-005515
-Gender(562,2.0).
+%patient: IT-0137-005515 index:562
+Gender(562,f).
 Race(562,White).
-mobcat(562,2.0).
-PA3mcat(562,1.0).
-numberdoses(562,2.0).
-totndrugs(562,5.0).
+mobcat(562,2).
+PA3mcat(562,1).
+numberdoses(562,2).
+totndrugs(562,5).
 OAD01_tot(562).
 HTA01_tot(562).
 CVD01_tot(562).
@@ -13230,160 +13230,160 @@ AF01_tot(562).
 obesity01_tot(562).
 depress01_tot(562).
 anxiety01_tot(562).
-Mmsumrev(562,7.0).
+Mmsumrev(562,7).
 antiS_0(562,2970.0).
-WHO_f1(562,0.0).
-WHO_f2(562,0.0).
-TypeofOutcome_updated(562,9.0).
+WHO_f1(562,0).
+WHO_f2(562,0).
+TypeofOutcome_updated(562,9).
 patient(562,unknown).
 
-%patient: IT-0132-005595
-Gender(563,2.0).
+%patient: IT-0132-005595 index:563
+Gender(563,f).
 Race(563,White).
-mobcat(563,3.0).
-PA3mcat(563,2.0).
-numberdoses(563,2.0).
-totndrugs(563,3.0).
+mobcat(563,3).
+PA3mcat(563,2).
+numberdoses(563,2).
+totndrugs(563,3).
 frailty01(563).
 HTA01_tot(563).
 CVD01_tot(563).
 AF01_tot(563).
 cogdis01_tot(563).
 park01_tot(563).
-Mmsumrev(563,3.0).
+Mmsumrev(563,3).
 antiS_0(563,854.0).
-TypeofOutcome_updated(563,9.0).
+TypeofOutcome_updated(563,9).
 patient(563,unknown).
 
-%patient: IT-0137-005497
-Gender(564,2.0).
+%patient: IT-0137-005497 index:564
+Gender(564,f).
 Race(564,White).
-mobcat(564,2.0).
-PA3mcat(564,2.0).
-numberdoses(564,2.0).
-totndrugs(564,3.0).
+mobcat(564,2).
+PA3mcat(564,2).
+numberdoses(564,2).
+totndrugs(564,3).
 OAD01_tot(564).
 HTA01_tot(564).
 obesity01_tot(564).
 depress01_tot(564).
 anxiety01_tot(564).
-Mmsumrev(564,6.0).
+Mmsumrev(564,6).
 antiS_0(564,1760.0).
-WHO_f1(564,0.0).
-WHO_f2(564,0.0).
-WHO_f3(564,0.0).
-TypeofOutcome_updated(564,9.0).
+WHO_f1(564,0).
+WHO_f2(564,0).
+WHO_f3(564,0).
+TypeofOutcome_updated(564,9).
 patient(564,unknown).
 
-%patient: IT-0039-003856
-Gender(565,2.0).
+%patient: IT-0039-003856 index:565
+Gender(565,f).
 Race(565,White).
-mobcat(565,1.0).
-PA3mcat(565,4.0).
-numberdoses(565,2.0).
-totndrugs(565,8.0).
+mobcat(565,1).
+PA3mcat(565,4).
+numberdoses(565,2).
+totndrugs(565,8).
 poornut01(565).
 OAD01_tot(565).
 cogdis01_tot(565).
 park01_tot(565).
-Mmsumrev(565,3.0).
+Mmsumrev(565,3).
 antiS_0(565,4.81).
 antiS_2(565,5070.0).
 deltaantiS02(565,5065.19).
-WHO_f2(565,0.0).
-WHO_f3(565,4.0).
-TypeofOutcome_updated(565,9.0).
+WHO_f2(565,0).
+WHO_f3(565,4).
+TypeofOutcome_updated(565,9).
 patient(565,unknown).
 
-%patient: IT-0039-003923
-Gender(566,1.0).
+%patient: IT-0039-003923 index:566
+Gender(566,m).
 Race(566,White).
-mobcat(566,3.0).
-PA3mcat(566,4.0).
-numberdoses(566,2.0).
-totndrugs(566,0.0).
+mobcat(566,3).
+PA3mcat(566,4).
+numberdoses(566,2).
+totndrugs(566,0).
 CKD01(566).
 cogdis01_tot(566).
 urol01_tot(566).
-Mmsumrev(566,2.0).
+Mmsumrev(566,2).
 antiS_0(566,4.81).
 antiS_2(566,1560.0).
 antiS_6(566,90.0).
 deltaantiS02(566,1555.19).
 deltaantiS26(566,-1470.0).
-WHO_f2(566,0.0).
-WHO_f3(566,0.0).
-TypeofOutcome_updated(566,9.0).
+WHO_f2(566,0).
+WHO_f3(566,0).
+TypeofOutcome_updated(566,9).
 patient(566,unknown).
 
-%patient: IT-0146-005231
-Gender(567,1.0).
+%patient: IT-0146-005231 index:567
+Gender(567,m).
 Race(567,White).
-mobcat(567,0.0).
-PA3mcat(567,0.0).
-numberdoses(567,2.0).
-totndrugs(567,3.0).
+mobcat(567,0).
+PA3mcat(567,0).
+numberdoses(567,2).
+totndrugs(567,3).
 OAD01_tot(567).
 HTA01_tot(567).
 CVD01_tot(567).
 chrrespdis01_tot(567).
 cogdis01_tot(567).
 epilepsia01_tot(567).
-Mmsumrev(567,4.0).
+Mmsumrev(567,4).
 antiS_0(567,4.81).
 antiS_2(567,2180.0).
 deltaantiS02(567,2175.19).
-WHO_f1(567,0.0).
-WHO_f2(567,0.0).
-WHO_f3(567,0.0).
-TypeofOutcome_updated(567,9.0).
+WHO_f1(567,0).
+WHO_f2(567,0).
+WHO_f3(567,0).
+TypeofOutcome_updated(567,9).
 patient(567,unknown).
 
-%patient: IT-0146-005232
-Gender(568,2.0).
+%patient: IT-0146-005232 index:568
+Gender(568,f).
 Race(568,White).
-numberdoses(568,2.0).
-totndrugs(568,3.0).
+numberdoses(568,2).
+totndrugs(568,3).
 OAD01_tot(568).
 HTA01_tot(568).
 CVD01_tot(568).
 cogdis01_tot(568).
 HD01_tot(568).
-Mmsumrev(568,3.0).
+Mmsumrev(568,3).
 antiS_0(568,4.81).
-WHO_f1(568,0.0).
-WHO_f2(568,0.0).
-WHO_f3(568,0.0).
-TypeofOutcome_updated(568,9.0).
+WHO_f1(568,0).
+WHO_f2(568,0).
+WHO_f3(568,0).
+TypeofOutcome_updated(568,9).
 patient(568,unknown).
 
-%patient: IT-0146-005233
-Gender(569,2.0).
+%patient: IT-0146-005233 index:569
+Gender(569,f).
 Race(569,White).
-mobcat(569,3.0).
-PA3mcat(569,1.0).
-numberdoses(569,2.0).
-totndrugs(569,2.0).
+mobcat(569,3).
+PA3mcat(569,1).
+numberdoses(569,2).
+totndrugs(569,2).
 OAD01_tot(569).
 HTA01_tot(569).
 PAD01_tot(569).
-Mmsumrev(569,3.0).
+Mmsumrev(569,3).
 antiS_0(569,4.81).
 antiS_2(569,2150.0).
 deltaantiS02(569,2145.19).
-WHO_f1(569,0.0).
-WHO_f2(569,0.0).
-WHO_f3(569,0.0).
-TypeofOutcome_updated(569,9.0).
+WHO_f1(569,0).
+WHO_f2(569,0).
+WHO_f3(569,0).
+TypeofOutcome_updated(569,9).
 patient(569,unknown).
 
-%patient: IT-0146-005234
-Gender(570,2.0).
+%patient: IT-0146-005234 index:570
+Gender(570,f).
 Race(570,White).
-mobcat(570,2.0).
-PA3mcat(570,1.0).
-numberdoses(570,2.0).
-totndrugs(570,7.0).
+mobcat(570,2).
+PA3mcat(570,1).
+numberdoses(570,2).
+totndrugs(570,7).
 liverdis01(570).
 OAD01_tot(570).
 HTA01_tot(570).
@@ -13391,45 +13391,45 @@ CVD01_tot(570).
 AF01_tot(570).
 thyrdis01_tot(570).
 HD01_tot(570).
-Mmsumrev(570,7.0).
+Mmsumrev(570,7).
 antiS_0(570,4.81).
 antiS_2(570,416.0).
 deltaantiS02(570,411.19).
-WHO_f1(570,0.0).
-WHO_f2(570,0.0).
-WHO_f3(570,0.0).
-TypeofOutcome_updated(570,9.0).
+WHO_f1(570,0).
+WHO_f2(570,0).
+WHO_f3(570,0).
+TypeofOutcome_updated(570,9).
 patient(570,unknown).
 
-%patient: IT-0166-005033
-Gender(571,2.0).
+%patient: IT-0166-005033 index:571
+Gender(571,f).
 Race(571,White).
-mobcat(571,1.0).
-PA3mcat(571,4.0).
-numberdoses(571,2.0).
-totndrugs(571,0.0).
+mobcat(571,1).
+PA3mcat(571,4).
+numberdoses(571,2).
+totndrugs(571,0).
 HTA01_tot(571).
 cogdis01_tot(571).
-Mmsumrev(571,1.0).
+Mmsumrev(571,1).
 excovidtot(571).
 antiS_0(571,793.0).
 antiS_2(571,2080.0).
 antiS_6(571,3550.0).
 deltaantiS02(571,1287.0).
 deltaantiS26(571,1470.0).
-WHO_f2(571,0.0).
-WHO_f3(571,0.0).
-TypeofOutcome_updated(571,9.0).
+WHO_f2(571,0).
+WHO_f3(571,0).
+TypeofOutcome_updated(571,9).
 patient(571,unknown).
 
-%patient: IT-0152-005470
-Gender(572,2.0).
+%patient: IT-0152-005470 index:572
+Gender(572,f).
 Race(572,White).
-numberdoses(572,2.0).
+numberdoses(572,2).
 HTA01_tot(572).
 CVD01_tot(572).
 thyrdis01_tot(572).
-Mmsumrev(572,3.0).
+Mmsumrev(572,3).
 antiS_0(572,4.81).
 antiS_2(572,989.0).
 antiS_6(572,49.0).
@@ -13437,116 +13437,116 @@ antiS_12(572,20100.0).
 deltaantiS02(572,984.19).
 deltaantiS26(572,-940.0).
 deltaantiS612(572,20051.0).
-WHO_f2(572,0.0).
-WHO_f3(572,0.0).
-TypeofOutcome_updated(572,9.0).
+WHO_f2(572,0).
+WHO_f3(572,0).
+TypeofOutcome_updated(572,9).
 patient(572,unknown).
 
-%patient: IT-0146-005238
-Gender(573,2.0).
+%patient: IT-0146-005238 index:573
+Gender(573,f).
 Race(573,White).
-mobcat(573,2.0).
-PA3mcat(573,1.0).
-numberdoses(573,2.0).
-totndrugs(573,2.0).
+mobcat(573,2).
+PA3mcat(573,1).
+numberdoses(573,2).
+totndrugs(573,2).
 OAD01_tot(573).
-Mmsumrev(573,1.0).
+Mmsumrev(573,1).
 antiS_0(573,4.81).
-WHO_f1(573,0.0).
-WHO_f2(573,0.0).
-WHO_f3(573,0.0).
-TypeofOutcome_updated(573,9.0).
+WHO_f1(573,0).
+WHO_f2(573,0).
+WHO_f3(573,0).
+TypeofOutcome_updated(573,9).
 patient(573,unknown).
 
-%patient: IT-0137-005513
-Gender(574,2.0).
+%patient: IT-0137-005513 index:574
+Gender(574,f).
 Race(574,White).
-mobcat(574,1.0).
-PA3mcat(574,4.0).
-numberdoses(574,2.0).
-totndrugs(574,4.0).
+mobcat(574,1).
+PA3mcat(574,4).
+numberdoses(574,2).
+totndrugs(574,4).
 IBD01(574).
 OAD01_tot(574).
 HTA01_tot(574).
 CVD01_tot(574).
 AF01_tot(574).
 depress01_tot(574).
-Mmsumrev(574,6.0).
+Mmsumrev(574,6).
 antiS_0(574,967.0).
-WHO_f1(574,0.0).
-WHO_f2(574,0.0).
-WHO_f3(574,0.0).
-TypeofOutcome_updated(574,9.0).
+WHO_f1(574,0).
+WHO_f2(574,0).
+WHO_f3(574,0).
+TypeofOutcome_updated(574,9).
 patient(574,unknown).
 
-%patient: IT-0146-005422
-Gender(575,1.0).
+%patient: IT-0146-005422 index:575
+Gender(575,m).
 Race(575,White).
-mobcat(575,3.0).
-PA3mcat(575,2.0).
-numberdoses(575,3.0).
-totndrugs(575,1.0).
+mobcat(575,3).
+PA3mcat(575,2).
+numberdoses(575,3).
+totndrugs(575,1).
 HTA01_tot(575).
 CVD01_tot(575).
 cogdis01_tot(575).
-Mmsumrev(575,1.0).
+Mmsumrev(575,1).
 antiS_0(575,4.81).
 antiS_2(575,1750.0).
 deltaantiS02(575,1745.19).
-WHO_f1(575,0.0).
-WHO_f2(575,0.0).
-WHO_f3(575,0.0).
-TypeofOutcome_updated(575,9.0).
+WHO_f1(575,0).
+WHO_f2(575,0).
+WHO_f3(575,0).
+TypeofOutcome_updated(575,9).
 patient(575,unknown).
 
-%patient: IT-0146-005417
-Gender(576,2.0).
+%patient: IT-0146-005417 index:576
+Gender(576,f).
 Race(576,White).
-mobcat(576,3.0).
-PA3mcat(576,1.0).
-numberdoses(576,3.0).
-totndrugs(576,2.0).
+mobcat(576,3).
+PA3mcat(576,1).
+numberdoses(576,3).
+totndrugs(576,2).
 OAD01_tot(576).
 HTA01_tot(576).
 CVD01_tot(576).
 HD01_tot(576).
-Mmsumrev(576,4.0).
+Mmsumrev(576,4).
 antiS_0(576,4.81).
 antiS_2(576,358.0).
 deltaantiS02(576,353.19).
-WHO_f1(576,0.0).
-WHO_f2(576,0.0).
-WHO_f3(576,0.0).
-TypeofOutcome_updated(576,9.0).
+WHO_f1(576,0).
+WHO_f2(576,0).
+WHO_f3(576,0).
+TypeofOutcome_updated(576,9).
 patient(576,unknown).
 
-%patient: IT-0146-005418
-Gender(577,2.0).
+%patient: IT-0146-005418 index:577
+Gender(577,f).
 Race(577,White).
-mobcat(577,3.0).
-PA3mcat(577,1.0).
-numberdoses(577,3.0).
-totndrugs(577,3.0).
+mobcat(577,3).
+PA3mcat(577,1).
+numberdoses(577,3).
+totndrugs(577,3).
 OAD01_tot(577).
 HTA01_tot(577).
 CVD01_tot(577).
 cogdis01_tot(577).
-Mmsumrev(577,2.0).
+Mmsumrev(577,2).
 antiS_0(577,4.81).
 antiS_2(577,57.0).
 deltaantiS02(577,52.19).
-WHO_f1(577,0.0).
-WHO_f2(577,0.0).
-WHO_f3(577,0.0).
-TypeofOutcome_updated(577,9.0).
+WHO_f1(577,0).
+WHO_f2(577,0).
+WHO_f3(577,0).
+TypeofOutcome_updated(577,9).
 patient(577,unknown).
 
-%patient: IT-0146-005421
-Gender(578,2.0).
+%patient: IT-0146-005421 index:578
+Gender(578,f).
 Race(578,White).
-mobcat(578,2.0).
-PA3mcat(578,1.0).
-numberdoses(578,3.0).
+mobcat(578,2).
+PA3mcat(578,1).
+numberdoses(578,3).
 CKD01(578).
 OAD01_tot(578).
 HTA01_tot(578).
@@ -13554,40 +13554,40 @@ CVD01_tot(578).
 obesity01_tot(578).
 thyrdis01_tot(578).
 HD01_tot(578).
-Mmsumrev(578,7.0).
+Mmsumrev(578,7).
 antiS_0(578,4.81).
 antiS_2(578,17.0).
 deltaantiS02(578,12.19).
-WHO_f1(578,0.0).
-WHO_f2(578,0.0).
-WHO_f3(578,0.0).
-TypeofOutcome_updated(578,9.0).
+WHO_f1(578,0).
+WHO_f2(578,0).
+WHO_f3(578,0).
+TypeofOutcome_updated(578,9).
 patient(578,unknown).
 
-%patient: IT-0146-005424
-Gender(579,1.0).
+%patient: IT-0146-005424 index:579
+Gender(579,m).
 Race(579,White).
-mobcat(579,0.0).
-PA3mcat(579,0.0).
-numberdoses(579,3.0).
-totndrugs(579,3.0).
-Mmsumrev(579,1.0).
+mobcat(579,0).
+PA3mcat(579,0).
+numberdoses(579,3).
+totndrugs(579,3).
+Mmsumrev(579,1).
 antiS_0(579,4.81).
 antiS_2(579,2070.0).
 deltaantiS02(579,2065.19).
-WHO_f1(579,0.0).
-WHO_f2(579,0.0).
-WHO_f3(579,0.0).
-TypeofOutcome_updated(579,9.0).
+WHO_f1(579,0).
+WHO_f2(579,0).
+WHO_f3(579,0).
+TypeofOutcome_updated(579,9).
 patient(579,unknown).
 
-%patient: IT-0146-005425
-Gender(580,2.0).
+%patient: IT-0146-005425 index:580
+Gender(580,f).
 Race(580,White).
-mobcat(580,1.0).
-PA3mcat(580,2.0).
-numberdoses(580,3.0).
-totndrugs(580,5.0).
+mobcat(580,1).
+PA3mcat(580,2).
+numberdoses(580,3).
+totndrugs(580,5).
 frailty01(580).
 CKD01(580).
 HTA01_tot(580).
@@ -13597,43 +13597,43 @@ PAD01_tot(580).
 depress01_tot(580).
 cogdis01_tot(580).
 HD01_tot(580).
-Mmsumrev(580,7.0).
+Mmsumrev(580,7).
 antiS_0(580,4.81).
-WHO_f1(580,0.0).
-WHO_f2(580,0.0).
-WHO_f3(580,0.0).
-TypeofOutcome_updated(580,9.0).
+WHO_f1(580,0).
+WHO_f2(580,0).
+WHO_f3(580,0).
+TypeofOutcome_updated(580,9).
 patient(580,unknown).
 
-%patient: IT-0146-005428
-Gender(581,2.0).
+%patient: IT-0146-005428 index:581
+Gender(581,f).
 Race(581,White).
-mobcat(581,5.0).
-PA3mcat(581,4.0).
-numberdoses(581,3.0).
-totndrugs(581,3.0).
+mobcat(581,5).
+PA3mcat(581,4).
+numberdoses(581,3).
+totndrugs(581,3).
 HTA01_tot(581).
 CVD01_tot(581).
 chrrespdis01_tot(581).
 obesity01_tot(581).
 HD01_tot(581).
-Mmsumrev(581,4.0).
+Mmsumrev(581,4).
 antiS_0(581,4.81).
 antiS_2(581,8570.0).
 deltaantiS02(581,8565.19).
-WHO_f1(581,0.0).
-WHO_f2(581,0.0).
-WHO_f3(581,0.0).
-TypeofOutcome_updated(581,9.0).
+WHO_f1(581,0).
+WHO_f2(581,0).
+WHO_f3(581,0).
+TypeofOutcome_updated(581,9).
 patient(581,unknown).
 
-%patient: IT-0146-005429
-Gender(582,2.0).
+%patient: IT-0146-005429 index:582
+Gender(582,f).
 Race(582,White).
-mobcat(582,5.0).
-PA3mcat(582,4.0).
-numberdoses(582,3.0).
-totndrugs(582,3.0).
+mobcat(582,5).
+PA3mcat(582,4).
+numberdoses(582,3).
+totndrugs(582,3).
 frailty01(582).
 cancer01(582).
 OAD01_tot(582).
@@ -13644,65 +13644,65 @@ PAD01_tot(582).
 cogdis01_tot(582).
 epilepsia01_tot(582).
 HD01_tot(582).
-Mmsumrev(582,8.0).
+Mmsumrev(582,8).
 antiS_0(582,4.81).
 antiS_2(582,1470.0).
 deltaantiS02(582,1465.19).
-WHO_f1(582,0.0).
-WHO_f2(582,0.0).
-WHO_f3(582,0.0).
-TypeofOutcome_updated(582,9.0).
+WHO_f1(582,0).
+WHO_f2(582,0).
+WHO_f3(582,0).
+TypeofOutcome_updated(582,9).
 patient(582,unknown).
 
-%patient: IT-0146-005416
-Gender(583,2.0).
+%patient: IT-0146-005416 index:583
+Gender(583,f).
 Race(583,White).
-mobcat(583,2.0).
-PA3mcat(583,1.0).
-numberdoses(583,3.0).
-totndrugs(583,2.0).
+mobcat(583,2).
+PA3mcat(583,1).
+numberdoses(583,3).
+totndrugs(583,2).
 OAD01_tot(583).
 HTA01_tot(583).
 cogdis01_tot(583).
 thyrdis01_tot(583).
-Mmsumrev(583,4.0).
+Mmsumrev(583,4).
 antiS_0(583,4.81).
 antiS_2(583,534.0).
 deltaantiS02(583,529.19).
-WHO_f1(583,0.0).
-WHO_f2(583,0.0).
-WHO_f3(583,0.0).
-TypeofOutcome_updated(583,9.0).
+WHO_f1(583,0).
+WHO_f2(583,0).
+WHO_f3(583,0).
+TypeofOutcome_updated(583,9).
 patient(583,unknown).
 
-%patient: IT-0146-005423
-Gender(584,2.0).
+%patient: IT-0146-005423 index:584
+Gender(584,f).
 Race(584,White).
-mobcat(584,2.0).
-PA3mcat(584,0.0).
-numberdoses(584,3.0).
-totndrugs(584,2.0).
+mobcat(584,2).
+PA3mcat(584,0).
+numberdoses(584,3).
+totndrugs(584,2).
 OAD01_tot(584).
 HTA01_tot(584).
 CVD01_tot(584).
 obesity01_tot(584).
-Mmsumrev(584,4.0).
+Mmsumrev(584,4).
 antiS_0(584,4.81).
 antiS_2(584,2120.0).
 deltaantiS02(584,2115.19).
-WHO_f1(584,0.0).
-WHO_f2(584,0.0).
-WHO_f3(584,0.0).
-TypeofOutcome_updated(584,9.0).
+WHO_f1(584,0).
+WHO_f2(584,0).
+WHO_f3(584,0).
+TypeofOutcome_updated(584,9).
 patient(584,unknown).
 
-%patient: IT-0146-005415
-Gender(585,2.0).
+%patient: IT-0146-005415 index:585
+Gender(585,f).
 Race(585,White).
-mobcat(585,5.0).
-PA3mcat(585,4.0).
-numberdoses(585,3.0).
-totndrugs(585,3.0).
+mobcat(585,5).
+PA3mcat(585,4).
+numberdoses(585,3).
+totndrugs(585,3).
 CKD01(585).
 poornut01(585).
 cancer01(585).
@@ -13710,21 +13710,21 @@ OAD01_tot(585).
 HTA01_tot(585).
 CVD01_tot(585).
 cogdis01_tot(585).
-Mmsumrev(585,4.0).
+Mmsumrev(585,4).
 antiS_0(585,4.81).
-WHO_f1(585,0.0).
-WHO_f2(585,0.0).
-WHO_f3(585,0.0).
-TypeofOutcome_updated(585,9.0).
+WHO_f1(585,0).
+WHO_f2(585,0).
+WHO_f3(585,0).
+TypeofOutcome_updated(585,9).
 patient(585,unknown).
 
-%patient: IT-0020-005472
-Gender(586,2.0).
+%patient: IT-0020-005472 index:586
+Gender(586,f).
 Race(586,White).
-mobcat(586,2.0).
-PA3mcat(586,2.0).
-numberdoses(586,3.0).
-totndrugs(586,7.0).
+mobcat(586,2).
+PA3mcat(586,2).
+numberdoses(586,3).
+totndrugs(586,7).
 frailty01(586).
 CKD01(586).
 HTA01_tot(586).
@@ -13733,30 +13733,30 @@ depress01_tot(586).
 cogdis01_tot(586).
 anxiety01_tot(586).
 HD01_tot(586).
-Mmsumrev(586,7.0).
+Mmsumrev(586,7).
 antiS_0(586,4.81).
 antiS_2(586,1030.0).
 antiS_6(586,57.5).
 deltaantiS02(586,1025.19).
 deltaantiS26(586,-972.5).
-WHO_f1(586,0.0).
-WHO_f2(586,0.0).
-WHO_f3(586,0.0).
-TypeofOutcome_updated(586,9.0).
+WHO_f1(586,0).
+WHO_f2(586,0).
+WHO_f3(586,0).
+TypeofOutcome_updated(586,9).
 patient(586,unknown).
 
-%patient: IT-0143-004269
-Gender(587,1.0).
+%patient: IT-0143-004269 index:587
+Gender(587,m).
 Race(587,White).
-numberdoses(587,3.0).
-totndrugs(587,4.0).
+numberdoses(587,3).
+totndrugs(587,4).
 CKD01(587).
 HTA01_tot(587).
 CVD01_tot(587).
 AF01_tot(587).
 depress01_tot(587).
 HD01_tot(587).
-Mmsumrev(587,5.0).
+Mmsumrev(587,5).
 antiS_0(587,4.81).
 antiS_2(587,372.0).
 antiS_6(587,54.4).
@@ -13764,24 +13764,24 @@ antiS_12(587,2420.0).
 deltaantiS02(587,367.19).
 deltaantiS26(587,-317.6).
 deltaantiS612(587,2365.6).
-WHO_f1(587,0.0).
-WHO_f2(587,0.0).
-WHO_f3(587,0.0).
-TypeofOutcome_updated(587,9.0).
+WHO_f1(587,0).
+WHO_f2(587,0).
+WHO_f3(587,0).
+TypeofOutcome_updated(587,9).
 patient(587,unknown).
 
-%patient: IT-0061-004147
-Gender(588,1.0).
+%patient: IT-0061-004147 index:588
+Gender(588,m).
 Race(588,White).
-mobcat(588,0.0).
-PA3mcat(588,0.0).
-numberdoses(588,2.0).
-totndrugs(588,5.0).
+mobcat(588,0).
+PA3mcat(588,0).
+numberdoses(588,2).
+totndrugs(588,5).
 HTA01_tot(588).
 CVD01_tot(588).
 PAD01_tot(588).
 HD01_tot(588).
-Mmsumrev(588,4.0).
+Mmsumrev(588,4).
 excovidtot(588).
 antiS_0(588,670.0).
 antiS_2(588,4430.0).
@@ -13790,23 +13790,23 @@ antiS_12(588,2320.0).
 deltaantiS02(588,3760.0).
 deltaantiS26(588,-3648.0).
 deltaantiS612(588,1538.0).
-WHO_f2(588,0.0).
-WHO_f3(588,0.0).
-TypeofOutcome_updated(588,9.0).
+WHO_f2(588,0).
+WHO_f3(588,0).
+TypeofOutcome_updated(588,9).
 patient(588,unknown).
 
-%patient: IT-0020-000288
-Gender(589,2.0).
+%patient: IT-0020-000288 index:589
+Gender(589,f).
 Race(589,White).
-mobcat(589,0.0).
-PA3mcat(589,2.0).
-numberdoses(589,3.0).
+mobcat(589,0).
+PA3mcat(589,2).
+numberdoses(589,3).
 liverdis01(589).
 HTA01_tot(589).
 depress01_tot(589).
 cogdis01_tot(589).
 anxiety01_tot(589).
-Mmsumrev(589,4.0).
+Mmsumrev(589,4).
 antiS_0(589,4.81).
 antiS_2(589,1480.0).
 antiS_6(589,61.5).
@@ -13814,125 +13814,125 @@ antiS_12(589,1090.0).
 deltaantiS02(589,1475.19).
 deltaantiS26(589,-1418.5).
 deltaantiS612(589,1028.5).
-WHO_f1(589,0.0).
-WHO_f2(589,0.0).
-WHO_f3(589,0.0).
-TypeofOutcome_updated(589,9.0).
+WHO_f1(589,0).
+WHO_f2(589,0).
+WHO_f3(589,0).
+TypeofOutcome_updated(589,9).
 patient(589,unknown).
 
-%patient: IT-0146-005221
-Gender(590,2.0).
+%patient: IT-0146-005221 index:590
+Gender(590,f).
 Race(590,White).
-mobcat(590,3.0).
-PA3mcat(590,2.0).
-numberdoses(590,3.0).
-totndrugs(590,0.0).
+mobcat(590,3).
+PA3mcat(590,2).
+numberdoses(590,3).
+totndrugs(590,0).
 cogdis01_tot(590).
-Mmsumrev(590,0.0).
+Mmsumrev(590,0).
 antiS_0(590,26.9).
 antiS_2(590,690.0).
 deltaantiS02(590,663.1).
-WHO_f1(590,0.0).
-WHO_f2(590,0.0).
-WHO_f3(590,0.0).
-TypeofOutcome_updated(590,9.0).
+WHO_f1(590,0).
+WHO_f2(590,0).
+WHO_f3(590,0).
+TypeofOutcome_updated(590,9).
 patient(590,unknown).
 
-%patient: IT-0146-005222
-Gender(591,2.0).
+%patient: IT-0146-005222 index:591
+Gender(591,f).
 Race(591,White).
-mobcat(591,2.0).
-PA3mcat(591,0.0).
-numberdoses(591,3.0).
-totndrugs(591,7.0).
+mobcat(591,2).
+PA3mcat(591,0).
+numberdoses(591,3).
+totndrugs(591,7).
 HTA01_tot(591).
 CVD01_tot(591).
 AF01_tot(591).
 chrrespdis01_tot(591).
 thyrdis01_tot(591).
 HD01_tot(591).
-Mmsumrev(591,5.0).
+Mmsumrev(591,5).
 antiS_0(591,4.81).
 antiS_2(591,283.0).
 deltaantiS02(591,278.19).
-WHO_f1(591,0.0).
-WHO_f2(591,0.0).
-WHO_f3(591,0.0).
-TypeofOutcome_updated(591,9.0).
+WHO_f1(591,0).
+WHO_f2(591,0).
+WHO_f3(591,0).
+TypeofOutcome_updated(591,9).
 patient(591,unknown).
 
-%patient: IT-0146-005227
-Gender(592,1.0).
+%patient: IT-0146-005227 index:592
+Gender(592,m).
 Race(592,White).
-mobcat(592,3.0).
-PA3mcat(592,4.0).
-numberdoses(592,3.0).
-totndrugs(592,6.0).
+mobcat(592,3).
+PA3mcat(592,4).
+numberdoses(592,3).
+totndrugs(592,6).
 cancer01(592).
 HTA01_tot(592).
 CVD01_tot(592).
 PAD01_tot(592).
 thyrdis01_tot(592).
 HD01_tot(592).
-Mmsumrev(592,6.0).
+Mmsumrev(592,6).
 antiS_0(592,4.81).
 antiS_2(592,674.0).
 deltaantiS02(592,669.19).
-WHO_f1(592,0.0).
-WHO_f2(592,0.0).
-WHO_f3(592,0.0).
-TypeofOutcome_updated(592,9.0).
+WHO_f1(592,0).
+WHO_f2(592,0).
+WHO_f3(592,0).
+TypeofOutcome_updated(592,9).
 patient(592,unknown).
 
-%patient: IT-0146-005223
-Gender(593,2.0).
+%patient: IT-0146-005223 index:593
+Gender(593,f).
 Race(593,White).
-mobcat(593,1.0).
-PA3mcat(593,0.0).
-numberdoses(593,3.0).
-totndrugs(593,4.0).
+mobcat(593,1).
+PA3mcat(593,0).
+numberdoses(593,3).
+totndrugs(593,4).
 cancer01(593).
 HTA01_tot(593).
 CVD01_tot(593).
 thyrdis01_tot(593).
 HD01_tot(593).
-Mmsumrev(593,4.0).
+Mmsumrev(593,4).
 antiS_0(593,4.81).
 antiS_2(593,570.0).
 deltaantiS02(593,565.19).
-WHO_f1(593,0.0).
-WHO_f2(593,0.0).
-WHO_f3(593,0.0).
-TypeofOutcome_updated(593,9.0).
+WHO_f1(593,0).
+WHO_f2(593,0).
+WHO_f3(593,0).
+TypeofOutcome_updated(593,9).
 patient(593,unknown).
 
-%patient: IT-0146-005224
-Gender(594,1.0).
+%patient: IT-0146-005224 index:594
+Gender(594,m).
 Race(594,White).
-mobcat(594,0.0).
-PA3mcat(594,0.0).
-numberdoses(594,3.0).
-totndrugs(594,0.0).
+mobcat(594,0).
+PA3mcat(594,0).
+numberdoses(594,3).
+totndrugs(594,0).
 chrrespdis01_tot(594).
-Mmsumrev(594,1.0).
+Mmsumrev(594,1).
 antiS_0(594,4.81).
 antiS_2(594,2010.0).
 deltaantiS02(594,2005.19).
-WHO_f1(594,0.0).
-WHO_f2(594,0.0).
-WHO_f3(594,0.0).
-TypeofOutcome_updated(594,9.0).
+WHO_f1(594,0).
+WHO_f2(594,0).
+WHO_f3(594,0).
+TypeofOutcome_updated(594,9).
 patient(594,unknown).
 
-%patient: IT-0039-003983
-Gender(595,2.0).
+%patient: IT-0039-003983 index:595
+Gender(595,f).
 Race(595,White).
-mobcat(595,5.0).
-PA3mcat(595,4.0).
-numberdoses(595,3.0).
-totndrugs(595,0.0).
+mobcat(595,5).
+PA3mcat(595,4).
+numberdoses(595,3).
+totndrugs(595,0).
 cogdis01_tot(595).
-Mmsumrev(595,0.0).
+Mmsumrev(595,0).
 antiS_0(595,4.81).
 antiS_2(595,56.0).
 antiS_6(595,29.6).
@@ -13940,61 +13940,61 @@ antiS_12(595,38100.0).
 deltaantiS02(595,51.19).
 deltaantiS26(595,-26.4).
 deltaantiS612(595,38070.4).
-WHO_f2(595,0.0).
-WHO_f3(595,0.0).
-TypeofOutcome_updated(595,9.0).
+WHO_f2(595,0).
+WHO_f3(595,0).
+TypeofOutcome_updated(595,9).
 patient(595,unknown).
 
-%patient: IT-0039-000389
-Gender(596,1.0).
+%patient: IT-0039-000389 index:596
+Gender(596,m).
 Race(596,White).
-mobcat(596,0.0).
-PA3mcat(596,4.0).
-numberdoses(596,3.0).
-totndrugs(596,5.0).
+mobcat(596,0).
+PA3mcat(596,4).
+numberdoses(596,3).
+totndrugs(596,5).
 OAD01_tot(596).
 depress01_tot(596).
 cogdis01_tot(596).
 urol01_tot(596).
-Mmsumrev(596,4.0).
+Mmsumrev(596,4).
 antiS_0(596,4.81).
 antiS_2(596,594.0).
 antiS_6(596,25.4).
 deltaantiS02(596,589.19).
 deltaantiS26(596,-568.6).
-WHO_f1(596,0.0).
-WHO_f3(596,0.0).
-TypeofOutcome_updated(596,9.0).
+WHO_f1(596,0).
+WHO_f3(596,0).
+TypeofOutcome_updated(596,9).
 patient(596,unknown).
 
-%patient: IT-0039-000390
-Gender(597,2.0).
+%patient: IT-0039-000390 index:597
+Gender(597,f).
 Race(597,White).
-mobcat(597,2.0).
-PA3mcat(597,4.0).
-numberdoses(597,3.0).
-totndrugs(597,5.0).
+mobcat(597,2).
+PA3mcat(597,4).
+numberdoses(597,3).
+totndrugs(597,5).
 OAD01_tot(597).
 HTA01_tot(597).
 cogdis01_tot(597).
-Mmsumrev(597,2.0).
+Mmsumrev(597,2).
 antiS_0(597,4.81).
 antiS_2(597,1550.0).
 antiS_6(597,232.0).
 deltaantiS02(597,1545.19).
 deltaantiS26(597,-1318.0).
-WHO_f1(597,0.0).
-WHO_f3(597,0.0).
-TypeofOutcome_updated(597,9.0).
+WHO_f1(597,0).
+WHO_f3(597,0).
+TypeofOutcome_updated(597,9).
 patient(597,unknown).
 
-%patient: IT-0039-000391
-Gender(598,1.0).
+%patient: IT-0039-000391 index:598
+Gender(598,m).
 Race(598,White).
-mobcat(598,0.0).
-PA3mcat(598,4.0).
-numberdoses(598,3.0).
-totndrugs(598,8.0).
+mobcat(598,0).
+PA3mcat(598,4).
+numberdoses(598,3).
+totndrugs(598,8).
 OAD01_tot(598).
 HTA01_tot(598).
 CVD01_tot(598).
@@ -14003,46 +14003,46 @@ depress01_tot(598).
 cogdis01_tot(598).
 HD01_tot(598).
 urol01_tot(598).
-Mmsumrev(598,6.0).
+Mmsumrev(598,6).
 antiS_0(598,4.81).
 antiS_2(598,631.0).
 antiS_6(598,89.0).
 deltaantiS02(598,626.19).
 deltaantiS26(598,-542.0).
-WHO_f1(598,0.0).
-WHO_f3(598,0.0).
-TypeofOutcome_updated(598,9.0).
+WHO_f1(598,0).
+WHO_f3(598,0).
+TypeofOutcome_updated(598,9).
 patient(598,unknown).
 
-%patient: IT-0039-000392
-Gender(599,1.0).
+%patient: IT-0039-000392 index:599
+Gender(599,m).
 Race(599,White).
-mobcat(599,3.0).
-PA3mcat(599,4.0).
-numberdoses(599,3.0).
-totndrugs(599,3.0).
+mobcat(599,3).
+PA3mcat(599,4).
+numberdoses(599,3).
+totndrugs(599,3).
 HTA01_tot(599).
 PAD01_tot(599).
 cogdis01_tot(599).
-Mmsumrev(599,2.0).
+Mmsumrev(599,2).
 antiS_0(599,4.81).
 antiS_2(599,2670.0).
 antiS_6(599,201.0).
 deltaantiS02(599,2665.19).
 deltaantiS26(599,-2469.0).
-WHO_f1(599,0.0).
-WHO_f2(599,0.0).
-WHO_f3(599,0.0).
-TypeofOutcome_updated(599,9.0).
+WHO_f1(599,0).
+WHO_f2(599,0).
+WHO_f3(599,0).
+TypeofOutcome_updated(599,9).
 patient(599,unknown).
 
-%patient: IT-0039-003747
-Gender(600,2.0).
+%patient: IT-0039-003747 index:600
+Gender(600,f).
 Race(600,White).
-mobcat(600,1.0).
-PA3mcat(600,4.0).
-numberdoses(600,3.0).
-totndrugs(600,13.0).
+mobcat(600,1).
+PA3mcat(600,4).
+numberdoses(600,3).
+totndrugs(600,13).
 OAD01_tot(600).
 HTA01_tot(600).
 CVD01_tot(600).
@@ -14050,7 +14050,7 @@ cogdis01_tot(600).
 epilepsia01_tot(600).
 anxiety01_tot(600).
 HD01_tot(600).
-Mmsumrev(600,7.0).
+Mmsumrev(600,7).
 antiS_0(600,4.81).
 antiS_2(600,1310.0).
 antiS_6(600,38.2).
@@ -14058,25 +14058,25 @@ antiS_12(600,177.0).
 deltaantiS02(600,1305.19).
 deltaantiS26(600,-1271.8).
 deltaantiS612(600,138.8).
-WHO_f1(600,0.0).
-WHO_f2(600,0.0).
-WHO_f3(600,0.0).
-TypeofOutcome_updated(600,9.0).
+WHO_f1(600,0).
+WHO_f2(600,0).
+WHO_f3(600,0).
+TypeofOutcome_updated(600,9).
 patient(600,unknown).
 
-%patient: IT-0039-003818
-Gender(601,1.0).
+%patient: IT-0039-003818 index:601
+Gender(601,m).
 Race(601,White).
-mobcat(601,0.0).
-PA3mcat(601,4.0).
-numberdoses(601,3.0).
-totndrugs(601,0.0).
+mobcat(601,0).
+PA3mcat(601,4).
+numberdoses(601,3).
+totndrugs(601,0).
 HTA01_tot(601).
 chrrespdis01_tot(601).
 depress01_tot(601).
 thyrdis01_tot(601).
 anxiety01_tot(601).
-Mmsumrev(601,6.0).
+Mmsumrev(601,6).
 antiS_0(601,4.81).
 antiS_2(601,633.0).
 antiS_6(601,49.7).
@@ -14084,25 +14084,25 @@ antiS_12(601,39591.0).
 deltaantiS02(601,628.19).
 deltaantiS26(601,-583.3).
 deltaantiS612(601,39541.3).
-WHO_f1(601,0.0).
-WHO_f2(601,0.0).
-WHO_f3(601,0.0).
-TypeofOutcome_updated(601,9.0).
+WHO_f1(601,0).
+WHO_f2(601,0).
+WHO_f3(601,0).
+TypeofOutcome_updated(601,9).
 patient(601,unknown).
 
-%patient: IT-0039-003931
-Gender(602,2.0).
+%patient: IT-0039-003931 index:602
+Gender(602,f).
 Race(602,White).
-mobcat(602,1.0).
-PA3mcat(602,4.0).
-numberdoses(602,3.0).
-totndrugs(602,16.0).
+mobcat(602,1).
+PA3mcat(602,4).
+numberdoses(602,3).
+totndrugs(602,16).
 HTA01_tot(602).
 CVD01_tot(602).
 cogdis01_tot(602).
 thyrdis01_tot(602).
 epilepsia01_tot(602).
-Mmsumrev(602,5.0).
+Mmsumrev(602,5).
 antiS_0(602,4.81).
 antiS_2(602,1840.0).
 antiS_6(602,81.0).
@@ -14110,23 +14110,23 @@ antiS_12(602,1910.0).
 deltaantiS02(602,1835.19).
 deltaantiS26(602,-1759.0).
 deltaantiS612(602,1829.0).
-WHO_f1(602,0.0).
-WHO_f2(602,0.0).
-WHO_f3(602,0.0).
-TypeofOutcome_updated(602,9.0).
+WHO_f1(602,0).
+WHO_f2(602,0).
+WHO_f3(602,0).
+TypeofOutcome_updated(602,9).
 patient(602,unknown).
 
-%patient: IT-0039-003935
-Gender(603,2.0).
+%patient: IT-0039-003935 index:603
+Gender(603,f).
 Race(603,White).
-mobcat(603,0.0).
-PA3mcat(603,2.0).
-numberdoses(603,3.0).
-totndrugs(603,8.0).
+mobcat(603,0).
+PA3mcat(603,2).
+numberdoses(603,3).
+totndrugs(603,8).
 CVD01_tot(603).
 depress01_tot(603).
 HD01_tot(603).
-Mmsumrev(603,2.0).
+Mmsumrev(603,2).
 antiS_0(603,4.81).
 antiS_2(603,1430.0).
 antiS_6(603,53.6).
@@ -14134,46 +14134,46 @@ antiS_12(603,22200.0).
 deltaantiS02(603,1425.19).
 deltaantiS26(603,-1376.4).
 deltaantiS612(603,22146.4).
-WHO_f1(603,0.0).
-WHO_f2(603,0.0).
-WHO_f3(603,0.0).
-TypeofOutcome_updated(603,9.0).
+WHO_f1(603,0).
+WHO_f2(603,0).
+WHO_f3(603,0).
+TypeofOutcome_updated(603,9).
 patient(603,unknown).
 
-%patient: IT-0039-003973
-Gender(604,2.0).
+%patient: IT-0039-003973 index:604
+Gender(604,f).
 Race(604,White).
-mobcat(604,2.0).
-PA3mcat(604,1.0).
-numberdoses(604,3.0).
-totndrugs(604,10.0).
+mobcat(604,2).
+PA3mcat(604,1).
+numberdoses(604,3).
+totndrugs(604,10).
 OAD01_tot(604).
 HTA01_tot(604).
 CVD01_tot(604).
 depress01_tot(604).
 cogdis01_tot(604).
-Mmsumrev(604,4.0).
+Mmsumrev(604,4).
 antiS_0(604,4.81).
 antiS_2(604,1080.0).
 antiS_6(604,133.0).
 deltaantiS02(604,1075.19).
 deltaantiS26(604,-947.0).
-WHO_f1(604,0.0).
-WHO_f2(604,0.0).
-WHO_f3(604,0.0).
-TypeofOutcome_updated(604,9.0).
+WHO_f1(604,0).
+WHO_f2(604,0).
+WHO_f3(604,0).
+TypeofOutcome_updated(604,9).
 patient(604,unknown).
 
-%patient: IT-0039-003979
-Gender(605,2.0).
+%patient: IT-0039-003979 index:605
+Gender(605,f).
 Race(605,White).
-mobcat(605,0.0).
-PA3mcat(605,4.0).
-numberdoses(605,3.0).
+mobcat(605,0).
+PA3mcat(605,4).
+numberdoses(605,3).
 chrrespdis01_tot(605).
 cogdis01_tot(605).
 park01_tot(605).
-Mmsumrev(605,3.0).
+Mmsumrev(605,3).
 antiS_0(605,7.32).
 antiS_2(605,1270.0).
 antiS_6(605,299.0).
@@ -14181,23 +14181,23 @@ antiS_12(605,1350.0).
 deltaantiS02(605,1262.68).
 deltaantiS26(605,-971.0).
 deltaantiS612(605,1051.0).
-WHO_f1(605,0.0).
-WHO_f2(605,0.0).
-WHO_f3(605,0.0).
-TypeofOutcome_updated(605,9.0).
+WHO_f1(605,0).
+WHO_f2(605,0).
+WHO_f3(605,0).
+TypeofOutcome_updated(605,9).
 patient(605,unknown).
 
-%patient: IT-0039-003855
-Gender(606,1.0).
+%patient: IT-0039-003855 index:606
+Gender(606,m).
 Race(606,White).
-mobcat(606,0.0).
-PA3mcat(606,4.0).
-numberdoses(606,3.0).
+mobcat(606,0).
+PA3mcat(606,4).
+numberdoses(606,3).
 cancer01(606).
 OAD01_tot(606).
 HTA01_tot(606).
 urol01_tot(606).
-Mmsumrev(606,4.0).
+Mmsumrev(606,4).
 antiS_0(606,4.81).
 antiS_2(606,1190.0).
 antiS_6(606,203.0).
@@ -14205,45 +14205,45 @@ antiS_12(606,450.0).
 deltaantiS02(606,1185.19).
 deltaantiS26(606,-987.0).
 deltaantiS612(606,247.0).
-WHO_f1(606,0.0).
-WHO_f3(606,0.0).
-TypeofOutcome_updated(606,9.0).
+WHO_f1(606,0).
+WHO_f3(606,0).
+TypeofOutcome_updated(606,9).
 patient(606,unknown).
 
-%patient: IT-0016-003677
-Gender(607,1.0).
+%patient: IT-0016-003677 index:607
+Gender(607,m).
 Race(607,White).
-mobcat(607,2.0).
-PA3mcat(607,2.0).
-numberdoses(607,3.0).
-totndrugs(607,5.0).
+mobcat(607,2).
+PA3mcat(607,2).
+numberdoses(607,3).
+totndrugs(607,5).
 HTA01_tot(607).
 cogdis01_tot(607).
 park01_tot(607).
 urol01_tot(607).
-Mmsumrev(607,3.0).
+Mmsumrev(607,3).
 antiS_0(607,4.81).
 antiS_2(607,150.0).
 antiS_6(607,199.0).
 deltaantiS02(607,145.19).
 deltaantiS26(607,49.0).
-WHO_f2(607,0.0).
-WHO_f3(607,0.0).
-TypeofOutcome_updated(607,9.0).
+WHO_f2(607,0).
+WHO_f3(607,0).
+TypeofOutcome_updated(607,9).
 patient(607,unknown).
 
-%patient: IT-0020-000230
-Gender(608,2.0).
+%patient: IT-0020-000230 index:608
+Gender(608,f).
 Race(608,White).
-mobcat(608,1.0).
-PA3mcat(608,0.0).
-numberdoses(608,3.0).
-totndrugs(608,5.0).
+mobcat(608,1).
+PA3mcat(608,0).
+numberdoses(608,3).
+totndrugs(608,5).
 poornut01(608).
 OAD01_tot(608).
 CVD01_tot(608).
 HD01_tot(608).
-Mmsumrev(608,3.0).
+Mmsumrev(608,3).
 antiS_0(608,4.81).
 antiS_2(608,325.0).
 antiS_6(608,32.8).
@@ -14251,23 +14251,23 @@ antiS_12(608,741.0).
 deltaantiS02(608,320.19).
 deltaantiS26(608,-292.2).
 deltaantiS612(608,708.2).
-WHO_f1(608,0.0).
-WHO_f2(608,0.0).
-WHO_f3(608,0.0).
-WHO_f4(608,0.0).
-TypeofOutcome_updated(608,9.0).
+WHO_f1(608,0).
+WHO_f2(608,0).
+WHO_f3(608,0).
+WHO_f4(608,0).
+TypeofOutcome_updated(608,9).
 patient(608,unknown).
 
-%patient: IT-0020-003769
-Gender(609,1.0).
+%patient: IT-0020-003769 index:609
+Gender(609,m).
 Race(609,White).
-mobcat(609,0.0).
-PA3mcat(609,4.0).
-numberdoses(609,3.0).
-totndrugs(609,0.0).
+mobcat(609,0).
+PA3mcat(609,4).
+numberdoses(609,3).
+totndrugs(609,0).
 obesity01_tot(609).
 cogdis01_tot(609).
-Mmsumrev(609,2.0).
+Mmsumrev(609,2).
 antiS_0(609,4.81).
 antiS_2(609,1650.0).
 antiS_6(609,71.9).
@@ -14275,34 +14275,34 @@ antiS_12(609,2520.0).
 deltaantiS02(609,1645.19).
 deltaantiS26(609,-1578.1).
 deltaantiS612(609,2448.1).
-WHO_f1(609,0.0).
-WHO_f2(609,0.0).
-WHO_f3(609,0.0).
-WHO_f4(609,0.0).
-TypeofOutcome_updated(609,9.0).
+WHO_f1(609,0).
+WHO_f2(609,0).
+WHO_f3(609,0).
+WHO_f4(609,0).
+TypeofOutcome_updated(609,9).
 patient(609,unknown).
 
-%patient: IT-0166-005096
-Gender(610,2.0).
+%patient: IT-0166-005096 index:610
+Gender(610,f).
 Race(610,White).
-mobcat(610,1.0).
-PA3mcat(610,4.0).
-numberdoses(610,3.0).
-totndrugs(610,5.0).
+mobcat(610,1).
+PA3mcat(610,4).
+numberdoses(610,3).
+totndrugs(610,5).
 CVD01_tot(610).
 cogdis01_tot(610).
 thyrdis01_tot(610).
 HD01_tot(610).
-Mmsumrev(610,3.0).
+Mmsumrev(610,3).
 antiS_0(610,4.81).
 antiS_2(610,139.0).
 antiS_6(610,10.2).
 deltaantiS02(610,134.19).
 deltaantiS26(610,-128.8).
 covid12m(610).
-WHO_f1(610,0.0).
-WHO_f2(610,0.0).
-WHO_f3(610,0.0).
-TypeofOutcome_updated(610,9.0).
+WHO_f1(610,0).
+WHO_f2(610,0).
+WHO_f3(610,0).
+TypeofOutcome_updated(610,9).
 patient(610,unknown).
 
