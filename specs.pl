@@ -165,51 +165,52 @@ fold(train, [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 1
 fold(test, [450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 466, 467, 468, 469, 470, 471, 472, 473, 474, 475, 476, 477, 478, 479, 480, 481, 482, 483, 484, 485, 486, 487, 488, 489, 490, 491, 492, 493, 494, 495, 496, 497, 498, 499, 500, 501, 502, 503, 504, 505, 506, 507, 508, 509, 510, 511, 512, 513, 514, 515, 516, 517, 518, 519, 520, 521, 522, 523, 524, 525, 526, 527, 528, 529, 530, 531, 532, 533, 534, 535, 536, 537, 538, 539, 540, 541, 542, 543, 544, 545, 546, 547, 548, 549, 550, 551, 552, 553, 554, 555, 556, 557, 558, 559, 560, 561, 562, 563, 564, 565, 566, 567, 568, 569, 570, 571, 572, 573, 574, 575, 576, 577, 578, 579, 580, 581, 582, 583, 584, 585, 586, 587, 588, 589, 590, 591, 592, 593, 594, 595, 596, 597, 598, 599, 600, 601, 602, 603, 604, 605, 606, 607, 608, 609, 610]
 ).
 
-modeb(*,numberdoses(#numdose)).
-modeb(*,mobcat(#mcat)).
-modeb(*,pa3mcat(#pa3)).
-modeb(*,totndrugs(#totdr)).
-modeb(*,mmsumrev(#comob)).
-modeb(*,antis_0(#anti0)).
-modeb(*,antis_2(#anti2)).
-modeb(*,antis_6(#anti3)).
-modeb(*,deltaantis02(#delanti02)).
-modeb(*,deltaantis26(#delanti26)).
-modeb(*,who_f1(#who1)).
-modeb(*,who_f2(#who2)).
-modeb(*,who_f3(#who3)).
+% Mode declarations for head literals (possible conclusions)
+modeh(1, patient(+patient_id, #outcome)).
 
-modeb(*,numberdoses(+numdose)).
-modeb(*,mobcat(+mcat)).
-modeb(*,pa3mcat(+pa3)).
-modeb(*,totndrugs(+totdr)).
-modeb(*,mmsumrev(+comob)).
-modeb(*,antis_0(+anti0)).
-modeb(*,antis_2(+anti2)).
-modeb(*,antis_6(+anti3)).
-modeb(*,deltaantis02(+delanti02)).
-modeb(*,deltaantis26(+delanti26)).
-modeb(*,who_f1(+who1)).
-modeb(*,who_f2(+who2)).
-modeb(*,who_f3(+who3)).
+% Mode declarations for body literals (conditions)
+modeb(1, gender(+patient_id, #gender)).
+modeb(1, race(+patient_id, #race)).
+modeb(1, numberdoses(+patient_id, #num_doses)).
+modeb(1, mobcat(+patient_id, #mob_cat)).
+modeb(1, pa3mcat(+patient_id, #pa3_cat)).
+modeb(1, totndrugs(+patient_id, #total_drugs)).
+modeb(1, mmsumrev(+patient_id, #mmsum_rev)).
+modeb(1, antis_0(+patient_id, #antis0)).
+modeb(1, antis_2(+patient_id, #antis2)).
+modeb(1, antis_6(+patient_id, #antis6)).
+modeb(1, deltaantis02(+patient_id, #delta_antis02)).
+modeb(1, deltaantis26(+patient_id, #delta_antis26)).
+modeb(1, who_f1(+patient_id, #who1)).
+modeb(1, who_f2(+patient_id, #who2)).
+modeb(1, who_f3(+patient_id, #who3)).
+modeb(1, typeofoutcome_updated(+patient_id, #outcome_updated)).
+
+% Additional mode declarations for other predicates if relevant
+% e.g., modeb(1, frailty(+patient_id)).
+% e.g., modeb(1, cancer(+patient_id)).
+% ... and so on for other predicates
+
+
+
 %modeb(*, typeofoutcome_updated(#outcome)).
 
-modeb(*, excovidtot).
-modeb(*,frailty).
-modeb(*,poornut).
-modeb(*,cancer).
-modeb(*,ckd).
-modeb(*,ibd).
-modeb(*,oad).
-modeb(*,hta).
-modeb(*,cvd).
-modeb(*,chrrespdis).
-modeb(*,depress).
-modeb(*,cogdis).
-modeb(*,thyrdis).
-modeb(*,anxiety).
-modeb(*,park).
-modeb(*,hd).
+modeb(*, excovidtot(+patient_id)).
+modeb(*,frailty(+patient_id)).
+modeb(*,poornut(+patient_id)).
+modeb(*,cancer(+patient_id)).
+modeb(*,ckd(+patient_id)).
+modeb(*,ibd(+patient_id)).
+modeb(*,oad(+patient_id)).
+modeb(*,hta(+patient_id)).
+modeb(*,cvd(+patient_id)).
+modeb(*,chrrespdis(+patient_id)).
+modeb(*,depress(+patient_id)).
+modeb(*,cogdis(+patient_id)).
+modeb(*,thyrdis(+patient_id)).
+modeb(*,anxiety(+patient_id)).
+modeb(*,park(+patient_id)).
+modeb(*,hd(+patient_id)).
 
 %modeh(RecallNum, PredicateMode)
 modeh(*,numberdoses(#numdose)).

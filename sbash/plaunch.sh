@@ -9,4 +9,4 @@
 #SBATCH --error=jobpasc.err            
 #SBATCH --output=jobpasc.out           
 
-swipl --stack-limit=20g -s antiFinal1.pl -g "induce_pascal([train],P),test_pascal(P,[test],LL,AUCROC,ROC,AUCPR,PR)." -g halt
+swipl --stack-limit=20g -s test1.pl -g "induce_pascal([train],P),test_pascal(P,[test],LL,AUCROC,ROC,AUCPR,PR)." -g halt
