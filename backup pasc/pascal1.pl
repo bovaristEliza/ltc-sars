@@ -153,10 +153,11 @@ test_pascal(P,TestFolds,LL,AUCROC,ROC,AUCPR,PR):-
   write('entrata nella compute_areas_diagrams'),nl,
   compute_areas_diagrams(LG,AUCROC,ROC,AUCPR,PR),
   write('uscita dalla compute_areas_diagrams'),nl,
-  write(AUCROC),nl,
-  write(ROC),nl,
-  write(AUCPR),nl,
-  write(PR),nl,
+  write(P),nl,
+  write('LL: '), write(LL) ,nl,
+  write('AUCROC: '), write(AUCROC),nl,
+  write('AUCPR: '), write(AUCPR),nl,
+
   write('test_pascal - fine'),nl.
 
 /**
@@ -202,33 +203,32 @@ write('Results: '), write(Results), nl.
 test_ex([],_P,_M,[],Pos,Pos,Neg,Neg,CLL,CLL).
 
 test_ex([HT|TT],P,M,[Prob-Ex|TE],Pos0,Pos,Neg0,Neg,CLL0,CLL):-
-  write('test_ex - Processamento di un elemento'), nl,
-  convert_prob(P, Pr1),
-  length(P, N),
-  gen_initial_counts(N, MIP0), % MIP0=vettore di N zeri
-  test_theory_pos_prob([HT], M, Pr1, MIP0, MIP), % MIP=vettore di N zeri
-  foldl(compute_prob, P, MIP, 0, LL),
-  (is_pos(HT, M) ->
-      Pos2 is Pos0 + 1,
-      Neg2 = Neg0,
-      Ex = HT,
-      Prob is exp(LL),
-      CLL2 is CLL0 + LL,
-      write('Elemento positivo, Prob: '), write(Prob), nl
+  
+  convert_prob(P,Pr1),
+  %  gen_par(0,NC,Par0),
+  length(P,N),
+  gen_initial_counts(N,MIP0), %MIP0=vettore di N zeri
+  test_theory_pos_prob([HT],M,Pr1,MIP0,MIP), %MIP=vettore di N zeri
+  foldl(compute_prob,P,MIP,0,LL),
+  (is_pos(HT,M)->
+    Pos2 is Pos0+1,
+    Neg2 = Neg0,
+    Ex = HT,
+    Prob is exp(LL),
+    CLL2 is CLL0+LL
   ;
-      Pos2 = Pos0,
-      Neg2 is Neg0 + 1,
-      Ex = (\+ HT),
-      Prob is exp(LL),
-      (Prob =:= 1.0 ->
-          M:local_setting(logzero, LZ),
-          CLL2 is CLL0 + LZ
-      ;
-          CLL2 is CLL0 + log(1 - Prob)
-      ),
-      write('Elemento negativo, Prob: '), write(Prob), nl
+    Pos2 = Pos0,
+    Neg2 is Neg0+1,
+    Ex = (\+ HT),
+    Prob is exp(LL),
+    (Prob=:=1.0->
+      M:local_setting(logzero,LZ),
+      CLL2 is CLL0+LZ
+    ;
+      CLL2 is CLL0+log(1-Prob)
+    )
   ),
-  test_ex(TT, P, M, TE, Pos2, Pos, Neg2, Neg, CLL2, CLL).
+  test_ex(TT,P,M,TE,Pos2,Pos,Neg2,Neg,CLL2,CLL).
 
 is_pos(M,Mod):-
   (Mod:local_setting(examples,keys(P))->
