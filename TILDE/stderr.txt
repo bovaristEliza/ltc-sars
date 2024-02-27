@@ -1,0 +1,6 @@
+
+hipP version 0.1.14 (i686-pc-linux-gnu, threaded mode)
+(built on i686-pc-linux-gnu on Thu Nov 30 10:53:25 CET 2006)
+For academic or scientific (non-commercial) use only.
+Copyright K.U.Leuven, Department of Computer Science.
+Undefined predicate rmode_key/1 from module user

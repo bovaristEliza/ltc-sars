@@ -1,0 +1,66 @@
+/** -------------------------------------------------
+ ** Algorithm:   Tilde
+ ** Output type: summary.uL
+ ** Date:        2/27/2024 9:57:45
+ ** ACE version: 1.2.20
+ ** Hardware:    DESKTOP-ILUOD7S : x86_64 running Linux
+ ** -------------------------------------------------
+ **/
+
+Average discretization time: 0.0 (stderr: NaN)
+Average induction time: 0.01 (stderr: NaN)
+
+Model:
+    Complexity: 0.0 nodes, 0.0 literals
+    C4.5 error estimate: 199.639809524663, relative: 0.467540537528485
+Training:
+    Number of examples: 427
+
+    REAL\PRED | pos       neg       
+    ----------------------------------------------
+    pos       | 0         192       | 192
+    neg       | 0         235       | 235
+    ----------------------------------------------
+              | 0         427       | 427
+
+    Accuracy: 0.550351288056206 (stderr: 0.0240736938352577, default: 0.550351288056206)
+    Cramer's coefficient: 0.0
+    Class: pos: TP = 0.0, FP = 0.0
+    Overall Unnormalized Conditional Log Likelihood: -423.871112276712
+    Overall Normalized Conditional Log Likelihood: -0.99267239409066
+    Average (over folds) of Unnormalized Conditional Log Likelihood = -423.871112276712 (std-dev over folds=-nan)
+     -------- Roc curve
+    0.0	0.0
+    1.0	1.0
+    1.0	1.0
+    ------------------
+    Total Area Under Curve (taking together examples of all folds)= 0.5
+    Total Area Under Curve (average over all folds)= 0.5 (std-dev over folds=-nan)
+    Chi-square for Hosmer-Lemeshow calibration (averaged over all folds)= 3.13125994290907e-26
+    P-value for Hosmer-Lemeshow calibration (for averaged Chi-square)= 1.0
+Testing:
+    Number of examples: 184
+
+    REAL\PRED | pos       neg       
+    ----------------------------------------------
+    pos       | 0         83        | 83
+    neg       | 0         101       | 101
+    ----------------------------------------------
+              | 0         184       | 184
+
+    Accuracy: 0.548913043478261 (stderr: 0.036683688634532, default: 0.548913043478261)
+    Cramer's coefficient: 0.0
+    Class: pos: TP = 0.0, FP = 0.0
+    Overall Unnormalized Conditional Log Likelihood: -182.72887660725
+    Overall Normalized Conditional Log Likelihood: -0.993091720691576
+    Average (over folds) of Unnormalized Conditional Log Likelihood = -182.72887660725 (std-dev over folds=-nan)
+     -------- Roc curve
+    0.0	0.0
+    1.0	1.0
+    1.0	1.0
+    ------------------
+    Total Area Under Curve (taking together examples of all folds)= 0.5
+    Total Area Under Curve (average over all folds)= 0.5 (std-dev over folds=-nan)
+    Chi-square for Hosmer-Lemeshow calibration (averaged over all folds)= 0.00153804829632966
+    P-value for Hosmer-Lemeshow calibration (for averaged Chi-square)= 0.999999999951455
+

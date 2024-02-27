@@ -1,0 +1,12 @@
+rmode(race(+R,#[high, medium, low])).
+rmode(gender(+G,#[high, medium, low])).
+rmode(typeofoutcome_updated(+T,#[high, medium, low])).
+rmode(numberdoses(+N,#[high, medium, low])).
+rmode(mobcat(+M,#[high, medium, low])).
+rmode(pa3mcat(+P,#[high, medium, low])).
+rmode(totndrugs(+D,#[high, medium, low])).
+rmode(mmsumrev(+S,#[high, medium, low])).
+rmode(antis_0(+A,#[high, medium, low])).
+rmode(antis_2(+B),#[high, medium, low]).
+rmode(antis_6(+E),#[high, medium, low]).
+rmode(antis_12(+F),#[high, medium, low]).

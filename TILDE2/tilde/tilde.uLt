@@ -1,0 +1,182 @@
+/** -------------------------------------------------
+ ** Algorithm:   Tilde
+ ** Output type: uLt
+ ** Date:        2/27/2024 9:57:45
+ ** ACE version: 1.2.20
+ ** Hardware:    DESKTOP-ILUOD7S : x86_64 running Linux
+ ** -------------------------------------------------
+ ** Settings:
+ **
+ ** Common ** 
+ *  heuristic : gainratio (default) 
+ *  tilde_mode : classify (default) 
+ *  intra_literal_sharing : yes (default) 
+ *  query_batch_size : default (default) 
+ *  single_query_generation : no (default) 
+ *  inst_generation_prob : 1.0 (default) 
+ *  rmode_inst_generation_prob : 1.0 (default) 
+ *  query_sample_probability : 1.0 (default) 
+ *  query_sample_algo : smart (default) 
+ *  aggregate_refiners : no (default) 
+ *  aggregate_recursion : no (default) 
+ *  aggregate_maxconjuncts : 2 (default) 
+ *  aggregate_lookahead : no (default) 
+ *  aggregate_refinement : no (default) 
+ *  example_cache : 102400 (default) 
+ *  select_root_models : on (default) 
+ *  write_predictions : [] (default) 
+ *  compatibility : ace1.1 (default) 
+ *  max_query_len : inf (default) 
+ *  log_pid : off (default) 
+ *  nsplit_unsorted_fractions : 0 (default) 
+ *  nsplit_sorting : basic (default) 
+ *  nsplit_version : basic (default) 
+ *  nsplit_talking : off (default) 
+ *  discretize : entropy (default) 
+ *  transform_queries : once (default) 
+ *  output_dir : default (default) 
+ *  bg_file : default (default) 
+ *  kb_file : default (default) 
+ *  randomise : none (default) 
+ *  report_timings : off (default) 
+ *  default_prefix : off (default) 
+ *  default_min : 1 (default) 
+ *  default_preprocessing : off (default) 
+ *  mi_distance_maxsample : 100 (default) 
+ *  language_warnings : on (default) 
+ *  expert_implicit_language : off (default) 
+ *  granularity : 10 (default) 
+ *  leave_out : testid(t) 
+ *  classes : [pos,neg] 
+ *  use_packs : ilp (default) 
+ *  outerloop : queries (default) 
+ *  talking : 3 (default) 
+ *  load : examples 
+ ** Tilde ** 
+ *  combining_rules_EMiters : 10 (default) 
+ *  combining_rules_EMruns : 5 (default) 
+ *  combining_rules : off (default) 
+ *  write_ensemble_models : [] (default) 
+ *  tilde_maxdepth : inf (default) 
+ *  exhaustive_lookahead : 0 (default) 
+ *  query_length_bias : short (default) 
+ *  special_min : 0.0 (default) 
+ *  out_of_bag : no (default) 
+ *  roulette_wheel_selection : no (default) 
+ *  tilde_rst_optimization : no (default) 
+ *  repeat_exec_time : 1 (default) 
+ *  combination_rule : sum (default) 
+ *  show_averages : 1 (default) 
+ *  classify_mode : 0 (default) 
+ *  complexity_penalty : 1.0 (default) 
+ *  precompute : [] (default) 
+ *  resume : off (default) 
+ *  m_estimate : none (default) 
+ *  output_options : [c45_probab,prolog,roc01,likelihood] 
+ *  prune_rules : false (default) 
+ *  confidence_level : 0.25 (default) 
+ *  random_test_set : 0 (default) 
+ *  random_validation_set : 0 (default) 
+ *  stopping_criterion : mincases (default) 
+ *  pruning : c45 (default) 
+ *  discretization : none (default) 
+ *  multiscore_2 : off (default) 
+ *  multiscore : off (default) 
+ *  sampling_strategy : none 
+ *  max_querytime : 100 (default) 
+ *  accuracy : 1.0 (default) 
+ *  tilde_test_eval_model : std (default) 
+ *  minimal_cases : 2 (default) 
+ *  ftest : 0.05 (default) 
+ *  tilde_version : 3.0 (default) 
+ ************** 
+ ** Language:
+ **
+ ** WARMODE BIAS ** 
+ ** RMODE BIAS ** 
+ *  rmode(race(-A,#)) 
+ *  rmode(gender(-A,#)) 
+ *  rmode(typeofoutcome_updated(-A,#)) 
+ *  rmode(numberdoses(-A,#)) 
+ *  rmode(mobcat(-A,#)) 
+ *  rmode(pa3mcat(-A,#)) 
+ *  rmode(totndrugs(-A,#)) 
+ *  rmode(mmsumrev(-A,#)) 
+ *  rmode(antis_0(-A,#)) 
+ *  rmode(antis_2(-A,#)) 
+ *  max_lookahead(1) 
+ *  typed_language(no) 
+ ******************** 
+ **/
+
+Average discretization time: 0.0
+Average induction time: 0.01
+
+Model:
+    Complexity: 0.0 nodes, 0.0 literals
+    C4.5 error estimate: 199.639809524663, relative: 0.467540537528485
+Training:
+    Number of examples: 427
+
+    REAL\PRED | pos       neg       
+    ----------------------------------------------
+    pos       | 0         192       | 192
+    neg       | 0         235       | 235
+    ----------------------------------------------
+              | 0         427       | 427
+
+    Accuracy: 0.550351288056206 (stderr: 0.0240736938352577, default: 0.550351288056206)
+    Cramer's coefficient: 0.0
+    Class: pos: TP = 0.0, FP = 0.0
+    Unnormalized Conditional Log Likelihood: -423.871112276712
+    Normalized Conditional Log Likelihood: -0.99267239409066
+     -------- Roc curve
+    0.0	0.0
+    1.0	1.0
+    1.0	1.0
+    ------------------
+    Total Area Under Curve = 0.5
+    ------------------
+    Chi-Square = 3.13125994290907e-26
+    P-Value (8 DF) = 1.0
+Testing:
+    Number of examples: 184
+
+    REAL\PRED | pos       neg       
+    ----------------------------------------------
+    pos       | 0         83        | 83
+    neg       | 0         101       | 101
+    ----------------------------------------------
+              | 0         184       | 184
+
+    Accuracy: 0.548913043478261 (stderr: 0.036683688634532, default: 0.548913043478261)
+    Cramer's coefficient: 0.0
+    Class: pos: TP = 0.0, FP = 0.0
+    Unnormalized Conditional Log Likelihood: -182.72887660725
+    Normalized Conditional Log Likelihood: -0.993091720691576
+     -------- Roc curve
+    0.0	0.0
+    1.0	1.0
+    1.0	1.0
+    ------------------
+    Total Area Under Curve = 0.5
+    ------------------
+    Chi-Square = 0.00153804829632966
+    P-Value (8 DF) = 0.999999999951455
+
+
+Compact notation of tree:
+
+[neg] 427.0 [[pos:192.0,neg:235.0]]
+
+Compact notation of tree with probability distributions:
+
+427.0 [pos:0.449648711943794,neg:0.550351288056206]
+
+
+Equivalent prolog program:
+
+class([neg]).
+% 235.0/427.0=0.550351288056206
+
+
