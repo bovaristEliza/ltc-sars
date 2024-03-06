@@ -1,4 +1,5 @@
-%patient: it_0143_006623 index:0
+
+%patient: it-0143-006623 index:0
 begin(model(0)).
 gender(f).
 mobcat(3).
@@ -18,8 +19,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(0).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(0)).
-%patient: it_0141_005810 index:1
+
+%patient: it-0141-005810 index:1
 begin(model(1)).
 gender(f).
 race(white).
@@ -39,9 +43,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(0).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1)).
-%patient: it_0141_005393 index:2
+
+%patient: it-0141-005393 index:2
 begin(model(2)).
 gender(m).
 race(white).
@@ -64,10 +73,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(0).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2)).
-%patient: it_0141_005394 index:3
+
+%patient: it-0141-005394 index:3
 begin(model(3)).
 gender(f).
 race(white).
@@ -88,9 +101,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(0).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3)).
-%patient: it_0141_005399 index:4
+
+%patient: it-0141-005399 index:4
 begin(model(4)).
 gender(f).
 race(white).
@@ -112,10 +131,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(0).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(4)).
-%patient: it_0103_006123 index:5
+
+%patient: it-0103-006123 index:5
 begin(model(5)).
 gender(m).
 race(white).
@@ -135,10 +158,14 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(0).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(5)).
-%patient: it_0103_006137 index:6
+
+%patient: it-0103-006137 index:6
 begin(model(6)).
 gender(m).
 race(white).
@@ -157,10 +184,15 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(0).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(6)).
-%patient: it_0154_004787 index:7
+
+%patient: it-0154-004787 index:7
 begin(model(7)).
 gender(m).
 race(white).
@@ -174,8 +206,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(7)).
-%patient: it_0155_006575 index:8
+
+%patient: it-0155-006575 index:8
 begin(model(8)).
 gender(m).
 race(white).
@@ -188,9 +222,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(8)).
-%patient: it_0062_004334 index:9
+
+%patient: it-0062-004334 index:9
 begin(model(9)).
 gender(f).
 race(white).
@@ -203,8 +242,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(9)).
-%patient: it_0153_004773 index:10
+
+%patient: it-0153-004773 index:10
 begin(model(10)).
 gender(m).
 race(white).
@@ -218,8 +262,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(10)).
-%patient: it_0153_004782 index:11
+
+%patient: it-0153-004782 index:11
 begin(model(11)).
 gender(f).
 race(white).
@@ -233,9 +280,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(11)).
-%patient: it_0154_004816 index:12
+
+%patient: it-0154-004816 index:12
 begin(model(12)).
 gender(f).
 race(white).
@@ -249,8 +297,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(12)).
-%patient: it_0154_004817 index:13
+
+%patient: it-0154-004817 index:13
 begin(model(13)).
 gender(f).
 race(white).
@@ -264,9 +314,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(13)).
-%patient: it_0044_003650 index:14
+
+%patient: it-0044-003650 index:14
 begin(model(14)).
 gender(f).
 race(white).
@@ -283,8 +334,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(14)).
-%patient: it_0062_004335 index:15
+
+%patient: it-0062-004335 index:15
 begin(model(15)).
 gender(m).
 race(white).
@@ -297,8 +353,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(15)).
-%patient: it_0062_004382 index:16
+
+%patient: it-0062-004382 index:16
 begin(model(16)).
 gender(f).
 race(white).
@@ -311,8 +372,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(16)).
-%patient: it_0062_004386 index:17
+
+%patient: it-0062-004386 index:17
 begin(model(17)).
 gender(f).
 race(white).
@@ -325,9 +391,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(17)).
-%patient: it_0062_004441 index:18
+
+%patient: it-0062-004441 index:18
 begin(model(18)).
 gender(f).
 race(white).
@@ -340,8 +410,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(18)).
-%patient: it_0155_004194 index:19
+
+%patient: it-0155-004194 index:19
 begin(model(19)).
 gender(f).
 race(white).
@@ -355,9 +431,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(19)).
-%patient: it_0129_004686 index:20
+
+%patient: it-0129-004686 index:20
 begin(model(20)).
 gender(f).
 race(white).
@@ -370,8 +450,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(20)).
-%patient: it_0143_004854 index:21
+
+%patient: it-0143-004854 index:21
 begin(model(21)).
 gender(f).
 race(white).
@@ -385,8 +470,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(21)).
-%patient: it_0153_004775 index:22
+
+%patient: it-0153-004775 index:22
 begin(model(22)).
 gender(f).
 race(white).
@@ -402,9 +489,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(22)).
-%patient: it_0154_004791 index:23
+
+%patient: it-0154-004791 index:23
 begin(model(23)).
 gender(f).
 race(white).
@@ -420,8 +508,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(23)).
-%patient: it_0154_004804 index:24
+
+%patient: it-0154-004804 index:24
 begin(model(24)).
 gender(f).
 mobcat(9).
@@ -434,8 +524,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(24)).
-%patient: it_0154_004815 index:25
+
+%patient: it-0154-004815 index:25
 begin(model(25)).
 gender(f).
 race(white).
@@ -451,8 +543,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(25)).
-%patient: it_0003_003761 index:26
+
+%patient: it-0003-003761 index:26
 begin(model(26)).
 gender(f).
 race(white).
@@ -470,8 +564,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(26)).
-%patient: it_0062_004328 index:27
+
+%patient: it-0062-004328 index:27
 begin(model(27)).
 gender(m).
 race(white).
@@ -484,8 +582,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(27)).
-%patient: it_0062_004377 index:28
+
+%patient: it-0062-004377 index:28
 begin(model(28)).
 gender(f).
 race(white).
@@ -498,8 +601,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(28)).
-%patient: it_0062_004440 index:29
+
+%patient: it-0062-004440 index:29
 begin(model(29)).
 gender(f).
 race(white).
@@ -512,9 +621,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(29)).
-%patient: it_0155_004190 index:30
+
+%patient: it-0155-004190 index:30
 begin(model(30)).
 gender(f).
 race(white).
@@ -527,8 +641,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(30)).
-%patient: it_0153_004763 index:31
+
+%patient: it-0153-004763 index:31
 begin(model(31)).
 gender(m).
 race(white).
@@ -546,8 +666,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(31)).
-%patient: it_0153_004765 index:32
+
+%patient: it-0153-004765 index:32
 begin(model(32)).
 gender(f).
 race(white).
@@ -561,8 +684,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(32)).
-%patient: it_0153_004766 index:33
+
+%patient: it-0153-004766 index:33
 begin(model(33)).
 gender(f).
 race(white).
@@ -578,8 +703,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(33)).
-%patient: it_0153_004776 index:34
+
+%patient: it-0153-004776 index:34
 begin(model(34)).
 gender(f).
 race(white).
@@ -595,8 +723,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(34)).
-%patient: it_0154_004789 index:35
+
+%patient: it-0154-004789 index:35
 begin(model(35)).
 gender(m).
 race(white).
@@ -614,8 +744,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(35)).
-%patient: it_0154_004809 index:36
+
+%patient: it-0154-004809 index:36
 begin(model(36)).
 gender(f).
 race(white).
@@ -633,8 +765,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(36)).
-%patient: it_0154_004810 index:37
+
+%patient: it-0154-004810 index:37
 begin(model(37)).
 gender(m).
 race(white).
@@ -652,8 +786,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(37)).
-%patient: it_0062_004330 index:38
+
+%patient: it-0062-004330 index:38
 begin(model(38)).
 gender(f).
 race(white).
@@ -666,8 +802,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(38)).
-%patient: it_0062_004337 index:39
+
+%patient: it-0062-004337 index:39
 begin(model(39)).
 gender(f).
 race(white).
@@ -680,8 +822,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(39)).
-%patient: it_0062_004383 index:40
+
+%patient: it-0062-004383 index:40
 begin(model(40)).
 gender(m).
 race(white).
@@ -694,8 +841,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(40)).
-%patient: it_0062_004434 index:41
+
+%patient: it-0062-004434 index:41
 begin(model(41)).
 gender(m).
 race(white).
@@ -708,8 +860,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(41)).
-%patient: it_0062_004446 index:42
+
+%patient: it-0062-004446 index:42
 begin(model(42)).
 gender(f).
 race(white).
@@ -722,8 +878,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(42)).
-%patient: it_0154_004811 index:43
+
+%patient: it-0154-004811 index:43
 begin(model(43)).
 gender(m).
 race(white).
@@ -741,8 +902,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
 end(model(43)).
-%patient: it_0165_005571 index:44
+
+%patient: it-0165-005571 index:44
 begin(model(44)).
 gender(m).
 race(white).
@@ -758,8 +921,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(44)).
-%patient: it_0129_004689 index:45
+
+%patient: it-0129-004689 index:45
 begin(model(45)).
 gender(m).
 race(white).
@@ -775,8 +943,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(45)).
-%patient: it_0152_005046 index:46
+
+%patient: it-0152-005046 index:46
 begin(model(46)).
 gender(m).
 race(white).
@@ -796,8 +969,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(46)).
-%patient: it_0152_005075 index:47
+
+%patient: it-0152-005075 index:47
 begin(model(47)).
 gender(m).
 race(white).
@@ -813,8 +989,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(47)).
-%patient: it_0152_004996 index:48
+
+%patient: it-0152-004996 index:48
 begin(model(48)).
 gender(f).
 race(white).
@@ -830,8 +1009,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(48)).
-%patient: it_0143_005322 index:49
+
+%patient: it-0143-005322 index:49
 begin(model(49)).
 gender(m).
 mobcat(5).
@@ -846,8 +1027,10 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(49)).
-%patient: it_0152_005552 index:50
+
+%patient: it-0152-005552 index:50
 begin(model(50)).
 gender(m).
 race(white).
@@ -863,10 +1046,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(50)).
-%patient: it_0165_005565 index:51
+
+%patient: it-0165-005565 index:51
 begin(model(51)).
 gender(m).
 race(white).
@@ -884,8 +1068,13 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(51)).
-%patient: it_0129_004677 index:52
+
+%patient: it-0129-004677 index:52
 begin(model(52)).
 gender(f).
 race(white).
@@ -901,8 +1090,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(52)).
-%patient: it_0061_006534 index:53
+
+%patient: it-0061-006534 index:53
 begin(model(53)).
 gender(m).
 race(white).
@@ -923,9 +1117,11 @@ who_f2(4).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 end(model(53)).
-%patient: it_0045_005291 index:54
+
+%patient: it-0045-005291 index:54
 begin(model(54)).
 gender(f).
 race(white).
@@ -942,9 +1138,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(54)).
-%patient: it_0155_006574 index:55
+
+%patient: it-0155-006574 index:55
 begin(model(55)).
 gender(f).
 race(white).
@@ -962,8 +1163,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(55)).
-%patient: it_0108_002691 index:56
+
+%patient: it-0108-002691 index:56
 begin(model(56)).
 gender(f).
 race(white).
@@ -979,8 +1185,13 @@ excovidtot.
 who_f1(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(56)).
-%patient: it_0143_004090 index:57
+
+%patient: it-0143-004090 index:57
 begin(model(57)).
 gender(f).
 race(white).
@@ -1004,8 +1215,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(57)).
-%patient: it_0017_003758 index:58
+
+%patient: it-0017-003758 index:58
 begin(model(58)).
 gender(m).
 race(white).
@@ -1031,8 +1244,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(58)).
-%patient: it_0020_003778 index:59
+
+%patient: it-0020-003778 index:59
 begin(model(59)).
 gender(m).
 race(white).
@@ -1055,9 +1273,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(59)).
-%patient: it_0021_003839 index:60
+
+%patient: it-0021-003839 index:60
 begin(model(60)).
 gender(m).
 race(white).
@@ -1080,8 +1302,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(60)).
-%patient: it_0030_005601 index:61
+
+%patient: it-0030-005601 index:61
 begin(model(61)).
 gender(m).
 race(white).
@@ -1097,8 +1324,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(61)).
-%patient: it_0043_005210 index:62
+
+%patient: it-0043-005210 index:62
 begin(model(62)).
 gender(f).
 race(white).
@@ -1123,8 +1352,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(62)).
-%patient: it_0045_005747 index:63
+
+%patient: it-0045-005747 index:63
 begin(model(63)).
 gender(f).
 race(white).
@@ -1143,8 +1377,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(63)).
-%patient: it_0132_004283 index:64
+
+%patient: it-0132-004283 index:64
 begin(model(64)).
 gender(f).
 race(white).
@@ -1165,9 +1404,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(64)).
-%patient: it_0134_004938 index:65
+
+%patient: it-0134-004938 index:65
 begin(model(65)).
 gender(m).
 race(white).
@@ -1185,9 +1425,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
 testid(t).
 end(model(65)).
-%patient: it_0136_006416 index:66
+
+%patient: it-0136-006416 index:66
 begin(model(66)).
 gender(f).
 race(white).
@@ -1204,8 +1448,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(66)).
-%patient: it_0136_006417 index:67
+
+%patient: it-0136-006417 index:67
 begin(model(67)).
 gender(f).
 race(white).
@@ -1225,9 +1471,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(67)).
-%patient: it_0143_005258 index:68
+
+%patient: it-0143-005258 index:68
 begin(model(68)).
 gender(f).
 mobcat(2).
@@ -1246,9 +1493,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(68)).
-%patient: it_0143_005270 index:69
+
+%patient: it-0143-005270 index:69
 begin(model(69)).
 gender(f).
 mobcat(1).
@@ -1266,8 +1514,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(69)).
-%patient: it_0143_006190 index:70
+
+%patient: it-0143-006190 index:70
 begin(model(70)).
 gender(f).
 mobcat(1).
@@ -1285,8 +1536,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(70)).
-%patient: it_0143_006198 index:71
+
+%patient: it-0143-006198 index:71
 begin(model(71)).
 gender(f).
 mobcat(1).
@@ -1309,8 +1563,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(71)).
-%patient: it_0143_006280 index:72
+
+%patient: it-0143-006280 index:72
 begin(model(72)).
 gender(f).
 mobcat(4).
@@ -1330,8 +1586,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(72)).
-%patient: it_0144_006854 index:73
+
+%patient: it-0144-006854 index:73
 begin(model(73)).
 gender(m).
 race(white).
@@ -1357,9 +1616,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(73)).
-%patient: it_0145_006866 index:74
+
+%patient: it-0145-006866 index:74
 begin(model(74)).
 gender(f).
 race(white).
@@ -1379,8 +1643,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(74)).
-%patient: it_0145_006892 index:75
+
+%patient: it-0145-006892 index:75
 begin(model(75)).
 gender(f).
 race(white).
@@ -1402,8 +1672,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(75)).
-%patient: it_0166_004978 index:76
+
+%patient: it-0166-004978 index:76
 begin(model(76)).
 gender(f).
 race(white).
@@ -1429,8 +1704,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(76)).
-%patient: it_0167_006817 index:77
+
+%patient: it-0167-006817 index:77
 begin(model(77)).
 gender(f).
 race(white).
@@ -1447,8 +1727,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(77)).
-%patient: it_0061_006485 index:78
+
+%patient: it-0061-006485 index:78
 begin(model(78)).
 gender(f).
 race(white).
@@ -1472,10 +1757,12 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 testid(t).
 end(model(78)).
-%patient: it_0061_006522 index:79
+
+%patient: it-0061-006522 index:79
 begin(model(79)).
 gender(f).
 race(white).
@@ -1500,8 +1787,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(79)).
-%patient: it_0061_006526 index:80
+
+%patient: it-0061-006526 index:80
 begin(model(80)).
 gender(f).
 race(white).
@@ -1523,8 +1812,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(80)).
-%patient: it_0061_006521 index:81
+
+%patient: it-0061-006521 index:81
 begin(model(81)).
 gender(f).
 race(white).
@@ -1543,8 +1834,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(81)).
-%patient: it_0143_004260 index:82
+
+%patient: it-0143-004260 index:82
 begin(model(82)).
 gender(m).
 race(white).
@@ -1569,8 +1862,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(82)).
-%patient: it_0061_004397 index:83
+
+%patient: it-0061-004397 index:83
 begin(model(83)).
 gender(f).
 race(white).
@@ -1593,10 +1888,11 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
 end(model(83)).
-%patient: it_0061_004028 index:84
+
+%patient: it-0061-004028 index:84
 begin(model(84)).
 gender(f).
 race(white).
@@ -1615,8 +1911,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(84)).
-%patient: it_0143_006250 index:85
+
+%patient: it-0143-006250 index:85
 begin(model(85)).
 gender(f).
 race(white).
@@ -1639,8 +1937,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(85)).
-%patient: it_0061_004567 index:86
+
+%patient: it-0061-004567 index:86
 begin(model(86)).
 gender(f).
 race(white).
@@ -1667,9 +1967,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(86)).
-%patient: it_0061_006489 index:87
+
+%patient: it-0061-006489 index:87
 begin(model(87)).
 gender(f).
 race(white).
@@ -1694,9 +1998,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(87)).
-%patient: it_0147_004393 index:88
+
+%patient: it-0147-004393 index:88
 begin(model(88)).
 gender(m).
 mobcat(4).
@@ -1717,8 +2022,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(88)).
-%patient: it_0061_006531 index:89
+
+%patient: it-0061-006531 index:89
 begin(model(89)).
 gender(m).
 race(white).
@@ -1740,9 +2048,11 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 end(model(89)).
-%patient: it_0061_006497 index:90
+
+%patient: it-0061-006497 index:90
 begin(model(90)).
 gender(m).
 race(white).
@@ -1770,8 +2080,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(90)).
-%patient: it_0143_004053 index:91
+
+%patient: it-0143-004053 index:91
 begin(model(91)).
 gender(f).
 race(white).
@@ -1791,9 +2103,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(91)).
-%patient: it_0003_000968 index:92
+
+%patient: it-0003-000968 index:92
 begin(model(92)).
 gender(f).
 race(white).
@@ -1815,8 +2130,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(92)).
-%patient: it_0042_003660 index:93
+
+%patient: it-0042-003660 index:93
 begin(model(93)).
 gender(f).
 race(white).
@@ -1834,9 +2153,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(93)).
-%patient: it_0021_003838 index:94
+
+%patient: it-0021-003838 index:94
 begin(model(94)).
 gender(f).
 race(white).
@@ -1859,9 +2183,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(94)).
-%patient: it_0022_000205 index:95
+
+%patient: it-0022-000205 index:95
 begin(model(95)).
 gender(f).
 race(white).
@@ -1884,8 +2210,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(95)).
-%patient: it_0043_005211 index:96
+
+%patient: it-0043-005211 index:96
 begin(model(96)).
 gender(f).
 race(white).
@@ -1909,8 +2240,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(96)).
-%patient: it_0045_005294 index:97
+
+%patient: it-0045-005294 index:97
 begin(model(97)).
 gender(m).
 race(white).
@@ -1929,9 +2266,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(97)).
-%patient: it_0061_004407 index:98
+
+%patient: it-0061-004407 index:98
 begin(model(98)).
 gender(f).
 race(white).
@@ -1955,8 +2296,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(98)).
-%patient: it_0106_006811 index:99
+
+%patient: it-0106-006811 index:99
 begin(model(99)).
 gender(f).
 race(white).
@@ -1972,8 +2316,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(99)).
-%patient: it_0108_002670 index:100
+
+%patient: it-0108-002670 index:100
 begin(model(100)).
 gender(f).
 race(white).
@@ -1995,8 +2344,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(100)).
-%patient: it_0127_006713 index:101
+
+%patient: it-0127-006713 index:101
 begin(model(101)).
 gender(f).
 race(white).
@@ -2016,8 +2370,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(101)).
-%patient: it_0127_006724 index:102
+
+%patient: it-0127-006724 index:102
 begin(model(102)).
 gender(m).
 race(white).
@@ -2035,9 +2395,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(102)).
-%patient: it_0144_006860 index:103
+
+%patient: it-0144-006860 index:103
 begin(model(103)).
 gender(m).
 race(white).
@@ -2059,8 +2423,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(103)).
-%patient: it_0043_003644 index:104
+
+%patient: it-0043-003644 index:104
 begin(model(104)).
 gender(f).
 race(white).
@@ -2083,8 +2452,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(104)).
-%patient: it_0043_003648 index:105
+
+%patient: it-0043-003648 index:105
 begin(model(105)).
 gender(f).
 race(white).
@@ -2107,8 +2481,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(105)).
-%patient: it_0044_003649 index:106
+
+%patient: it-0044-003649 index:106
 begin(model(106)).
 gender(f).
 race(white).
@@ -2133,8 +2512,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(106)).
-%patient: it_0044_003662 index:107
+
+%patient: it-0044-003662 index:107
 begin(model(107)).
 gender(m).
 race(white).
@@ -2158,9 +2542,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(107)).
-%patient: it_0052_003690 index:108
+
+%patient: it-0052-003690 index:108
 begin(model(108)).
 gender(f).
 race(white).
@@ -2179,8 +2567,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(108)).
-%patient: it_0144_006856 index:109
+
+%patient: it-0144-006856 index:109
 begin(model(109)).
 gender(f).
 race(white).
@@ -2206,8 +2599,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(109)).
-%patient: it_0149_004326 index:110
+
+%patient: it-0149-004326 index:110
 begin(model(110)).
 gender(m).
 mobcat(4).
@@ -2227,8 +2625,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(110)).
-%patient: it_0151_005770 index:111
+
+%patient: it-0151-005770 index:111
 begin(model(111)).
 gender(f).
 mobcat(1).
@@ -2247,8 +2651,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(111)).
-%patient: it_0148_005826 index:112
+
+%patient: it-0148-005826 index:112
 begin(model(112)).
 gender(m).
 mobcat(3).
@@ -2267,9 +2676,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(112)).
-%patient: it_0136_006419 index:113
+
+%patient: it-0136-006419 index:113
 begin(model(113)).
 gender(f).
 race(white).
@@ -2287,8 +2700,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(113)).
-%patient: it_0166_004979 index:114
+
+%patient: it-0166-004979 index:114
 begin(model(114)).
 gender(m).
 race(white).
@@ -2314,8 +2729,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(114)).
-%patient: it_0143_004264 index:115
+
+%patient: it-0143-004264 index:115
 begin(model(115)).
 gender(f).
 race(white).
@@ -2342,8 +2762,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(115)).
-%patient: it_0061_006476 index:116
+
+%patient: it-0061-006476 index:116
 begin(model(116)).
 gender(f).
 race(white).
@@ -2368,9 +2790,12 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+testid(t).
 end(model(116)).
-%patient: it_0108_002697 index:117
+
+%patient: it-0108-002697 index:117
 begin(model(117)).
 gender(f).
 race(white).
@@ -2391,8 +2816,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(117)).
-%patient: it_0043_003726 index:118
+
+%patient: it-0043-003726 index:118
 begin(model(118)).
 gender(f).
 race(white).
@@ -2412,8 +2843,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(118)).
-%patient: it_0051_006689 index:119
+
+%patient: it-0051-006689 index:119
 begin(model(119)).
 gender(f).
 race(white).
@@ -2433,8 +2869,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(119)).
-%patient: it_0003_000280 index:120
+
+%patient: it-0003-000280 index:120
 begin(model(120)).
 gender(m).
 race(white).
@@ -2460,8 +2902,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(120)).
-%patient: it_0015_003925 index:121
+
+%patient: it-0015-003925 index:121
 begin(model(121)).
 gender(m).
 race(white).
@@ -2483,8 +2929,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(121)).
-%patient: it_0016_002497 index:122
+
+%patient: it-0016-002497 index:122
 begin(model(122)).
 gender(f).
 race(white).
@@ -2507,8 +2959,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(122)).
-%patient: it_0017_002667 index:123
+
+%patient: it-0017-002667 index:123
 begin(model(123)).
 gender(f).
 race(white).
@@ -2527,8 +2984,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(123)).
-%patient: it_0020_000969 index:124
+
+%patient: it-0020-000969 index:124
 begin(model(124)).
 gender(f).
 race(white).
@@ -2550,9 +3010,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(124)).
-%patient: it_0020_003029 index:125
+
+%patient: it-0020-003029 index:125
 begin(model(125)).
 gender(f).
 race(white).
@@ -2576,8 +3040,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(125)).
-%patient: it_0020_003776 index:126
+
+%patient: it-0020-003776 index:126
 begin(model(126)).
 gender(m).
 race(white).
@@ -2601,9 +3071,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(126)).
-%patient: it_0021_000295 index:127
+
+%patient: it-0021-000295 index:127
 begin(model(127)).
 gender(f).
 race(white).
@@ -2628,8 +3102,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(127)).
-%patient: it_0021_003850 index:128
+
+%patient: it-0021-003850 index:128
 begin(model(128)).
 gender(f).
 race(white).
@@ -2650,8 +3129,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(128)).
-%patient: it_0042_003661 index:129
+
+%patient: it-0042-003661 index:129
 begin(model(129)).
 gender(f).
 race(white).
@@ -2674,8 +3156,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(129)).
-%patient: it_0042_003671 index:130
+
+%patient: it-0042-003671 index:130
 begin(model(130)).
 gender(f).
 race(white).
@@ -2698,8 +3185,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(130)).
-%patient: it_0042_003710 index:131
+
+%patient: it-0042-003710 index:131
 begin(model(131)).
 gender(m).
 race(white).
@@ -2720,8 +3212,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(131)).
-%patient: it_0042_003736 index:132
+
+%patient: it-0042-003736 index:132
 begin(model(132)).
 gender(f).
 race(white).
@@ -2743,8 +3238,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(132)).
-%patient: it_0042_004267 index:133
+
+%patient: it-0042-004267 index:133
 begin(model(133)).
 gender(f).
 race(white).
@@ -2767,8 +3267,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(133)).
-%patient: it_0043_004591 index:134
+
+%patient: it-0043-004591 index:134
 begin(model(134)).
 gender(f).
 race(white).
@@ -2790,8 +3295,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(134)).
-%patient: it_0052_003691 index:135
+
+%patient: it-0052-003691 index:135
 begin(model(135)).
 gender(m).
 race(white).
@@ -2818,9 +3329,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(135)).
-%patient: it_0061_003948 index:136
+
+%patient: it-0061-003948 index:136
 begin(model(136)).
 gender(f).
 race(white).
@@ -2839,10 +3354,11 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
 end(model(136)).
-%patient: it_0061_004029 index:137
+
+%patient: it-0061-004029 index:137
 begin(model(137)).
 gender(f).
 race(white).
@@ -2862,10 +3378,11 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
 end(model(137)).
-%patient: it_0061_004290 index:138
+
+%patient: it-0061-004290 index:138
 begin(model(138)).
 gender(f).
 race(white).
@@ -2885,8 +3402,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(138)).
-%patient: it_0103_005972 index:139
+
+%patient: it-0103-005972 index:139
 begin(model(139)).
 gender(m).
 race(white).
@@ -2908,10 +3430,14 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(139)).
-%patient: it_0106_006738 index:140
+
+%patient: it-0106-006738 index:140
 begin(model(140)).
 gender(m).
 race(white).
@@ -2933,8 +3459,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(140)).
-%patient: it_0106_006746 index:141
+
+%patient: it-0106-006746 index:141
 begin(model(141)).
 gender(f).
 race(white).
@@ -2952,8 +3484,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(141)).
-%patient: it_0106_006769 index:142
+
+%patient: it-0106-006769 index:142
 begin(model(142)).
 gender(f).
 race(white).
@@ -2973,8 +3510,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(142)).
-%patient: it_0135_004641 index:143
+
+%patient: it-0135-004641 index:143
 begin(model(143)).
 gender(f).
 race(white).
@@ -2996,8 +3538,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+testid(t).
 end(model(143)).
-%patient: it_0136_005523 index:144
+
+%patient: it-0136-005523 index:144
 begin(model(144)).
 gender(f).
 race(white).
@@ -3015,9 +3562,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(144)).
-%patient: it_0143_006277 index:145
+
+%patient: it-0143-006277 index:145
 begin(model(145)).
 gender(f).
 mobcat(1).
@@ -3037,8 +3585,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(145)).
-%patient: it_0144_006858 index:146
+
+%patient: it-0144-006858 index:146
 begin(model(146)).
 gender(f).
 race(white).
@@ -3060,8 +3610,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(146)).
-%patient: it_0164_006509 index:147
+
+%patient: it-0164-006509 index:147
 begin(model(147)).
 gender(f).
 race(white).
@@ -3084,8 +3639,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(147)).
-%patient: it_0166_004968 index:148
+
+%patient: it-0166-004968 index:148
 begin(model(148)).
 gender(f).
 race(white).
@@ -3107,9 +3667,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(148)).
-%patient: it_0166_004970 index:149
+
+%patient: it-0166-004970 index:149
 begin(model(149)).
 gender(f).
 race(white).
@@ -3132,9 +3696,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(149)).
-%patient: it_0166_004976 index:150
+
+%patient: it-0166-004976 index:150
 begin(model(150)).
 gender(f).
 race(white).
@@ -3159,8 +3727,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(150)).
-%patient: it_0166_005010 index:151
+
+%patient: it-0166-005010 index:151
 begin(model(151)).
 gender(f).
 race(white).
@@ -3187,9 +3760,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(151)).
-%patient: it_0166_005024 index:152
+
+%patient: it-0166-005024 index:152
 begin(model(152)).
 gender(m).
 race(white).
@@ -3212,9 +3789,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(152)).
-%patient: it_0166_005105 index:153
+
+%patient: it-0166-005105 index:153
 begin(model(153)).
 gender(f).
 race(white).
@@ -3240,8 +3821,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
+testid(t).
 end(model(153)).
-%patient: it_0166_005110 index:154
+
+%patient: it-0166-005110 index:154
 begin(model(154)).
 gender(f).
 race(white).
@@ -3264,8 +3850,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(154)).
-%patient: it_0166_006239 index:155
+
+%patient: it-0166-006239 index:155
 begin(model(155)).
 gender(f).
 race(white).
@@ -3284,8 +3874,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(155)).
-%patient: it_0166_006242 index:156
+
+%patient: it-0166-006242 index:156
 begin(model(156)).
 gender(f).
 race(white).
@@ -3304,8 +3899,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(156)).
-%patient: it_0167_006834 index:157
+
+%patient: it-0167-006834 index:157
 begin(model(157)).
 gender(f).
 race(white).
@@ -3325,8 +3925,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(157)).
-%patient: it_0167_006839 index:158
+
+%patient: it-0167-006839 index:158
 begin(model(158)).
 gender(m).
 race(white).
@@ -3347,9 +3952,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(158)).
-%patient: it_0170_006681 index:159
+
+%patient: it-0170-006681 index:159
 begin(model(159)).
 gender(f).
 race(white).
@@ -3376,8 +3986,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(159)).
-%patient: it_0170_006703 index:160
+
+%patient: it-0170-006703 index:160
 begin(model(160)).
 gender(f).
 race(white).
@@ -3405,8 +4020,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(160)).
-%patient: it_0171_006153 index:161
+
+%patient: it-0171-006153 index:161
 begin(model(161)).
 gender(m).
 race(white).
@@ -3426,8 +4046,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(161)).
-%patient: it_0021_000683 index:162
+
+%patient: it-0021-000683 index:162
 begin(model(162)).
 gender(f).
 race(white).
@@ -3450,8 +4075,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(162)).
-%patient: it_0042_005427 index:163
+
+%patient: it-0042-005427 index:163
 begin(model(163)).
 gender(m).
 race(white).
@@ -3476,8 +4104,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(163)).
-%patient: it_0043_003724 index:164
+
+%patient: it-0043-003724 index:164
 begin(model(164)).
 gender(f).
 race(white).
@@ -3496,8 +4130,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(164)).
-%patient: it_0050_004238 index:165
+
+%patient: it-0050-004238 index:165
 begin(model(165)).
 gender(m).
 race(white).
@@ -3516,8 +4155,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(165)).
-%patient: it_0052_003693 index:166
+
+%patient: it-0052-003693 index:166
 begin(model(166)).
 gender(m).
 race(white).
@@ -3541,8 +4185,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(166)).
-%patient: it_0061_006484 index:167
+
+%patient: it-0061-006484 index:167
 begin(model(167)).
 gender(f).
 race(white).
@@ -3559,9 +4208,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(167)).
-%patient: it_0102_004138 index:168
+
+%patient: it-0102-004138 index:168
 begin(model(168)).
 gender(m).
 race(white).
@@ -3581,9 +4231,14 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(168)).
-%patient: it_0106_006803 index:169
+
+%patient: it-0106-006803 index:169
 begin(model(169)).
 gender(m).
 race(white).
@@ -3603,8 +4258,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(169)).
-%patient: it_0127_006842 index:170
+
+%patient: it-0127-006842 index:170
 begin(model(170)).
 gender(f).
 race(white).
@@ -3625,8 +4285,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(170)).
-%patient: it_0127_006848 index:171
+
+%patient: it-0127-006848 index:171
 begin(model(171)).
 gender(m).
 race(white).
@@ -3644,8 +4309,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(171)).
-%patient: it_0129_004678 index:172
+
+%patient: it-0129-004678 index:172
 begin(model(172)).
 gender(f).
 race(white).
@@ -3668,8 +4338,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(172)).
-%patient: it_0133_006301 index:173
+
+%patient: it-0133-006301 index:173
 begin(model(173)).
 gender(f).
 race(white).
@@ -3688,9 +4364,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(173)).
-%patient: it_0133_006309 index:174
+
+%patient: it-0133-006309 index:174
 begin(model(174)).
 gender(m).
 race(white).
@@ -3714,9 +4394,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(174)).
-%patient: it_0141_005501 index:175
+
+%patient: it-0141-005501 index:175
 begin(model(175)).
 gender(m).
 race(white).
@@ -3735,8 +4419,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(175)).
-%patient: it_0141_006001 index:176
+
+%patient: it-0141-006001 index:176
 begin(model(176)).
 gender(m).
 race(white).
@@ -3754,8 +4444,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(176)).
-%patient: it_0141_006174 index:177
+
+%patient: it-0141-006174 index:177
 begin(model(177)).
 gender(f).
 race(white).
@@ -3778,8 +4473,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(177)).
-%patient: it_0141_006180 index:178
+
+%patient: it-0141-006180 index:178
 begin(model(178)).
 gender(f).
 race(white).
@@ -3803,8 +4503,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(178)).
-%patient: it_0156_004898 index:179
+
+%patient: it-0156-004898 index:179
 begin(model(179)).
 gender(f).
 race(white).
@@ -3822,8 +4528,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(179)).
-%patient: it_0020_004830 index:180
+
+%patient: it-0020-004830 index:180
 begin(model(180)).
 gender(f).
 race(white).
@@ -3847,8 +4558,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(180)).
-%patient: it_0030_005531 index:181
+
+%patient: it-0030-005531 index:181
 begin(model(181)).
 gender(m).
 race(white).
@@ -3865,8 +4578,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(181)).
-%patient: it_0044_004230 index:182
+
+%patient: it-0044-004230 index:182
 begin(model(182)).
 gender(m).
 race(white).
@@ -3891,8 +4608,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(182)).
-%patient: it_0044_005741 index:183
+
+%patient: it-0044-005741 index:183
 begin(model(183)).
 gender(f).
 mobcat(2).
@@ -3913,8 +4636,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(183)).
-%patient: it_0044_005742 index:184
+
+%patient: it-0044-005742 index:184
 begin(model(184)).
 gender(m).
 mobcat(1).
@@ -3937,8 +4665,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(184)).
-%patient: it_0050_004133 index:185
+
+%patient: it-0050-004133 index:185
 begin(model(185)).
 gender(f).
 race(white).
@@ -3961,8 +4695,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(185)).
-%patient: it_0050_005298 index:186
+
+%patient: it-0050-005298 index:186
 begin(model(186)).
 gender(m).
 race(white).
@@ -3984,8 +4723,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(186)).
-%patient: it_0050_005787 index:187
+
+%patient: it-0050-005787 index:187
 begin(model(187)).
 gender(f).
 race(white).
@@ -4011,8 +4756,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(187)).
-%patient: it_0053_004248 index:188
+
+%patient: it-0053-004248 index:188
 begin(model(188)).
 gender(m).
 race(white).
@@ -4027,9 +4777,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(188)).
-%patient: it_0053_005775 index:189
+
+%patient: it-0053-005775 index:189
 begin(model(189)).
 gender(f).
 race(white).
@@ -4051,9 +4806,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(189)).
-%patient: it_0116_004576 index:190
+
+%patient: it-0116-004576 index:190
 begin(model(190)).
 gender(f).
 race(white).
@@ -4073,8 +4832,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(190)).
-%patient: it_0116_004579 index:191
+
+%patient: it-0116-004579 index:191
 begin(model(191)).
 gender(f).
 race(white).
@@ -4097,9 +4861,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(191)).
-%patient: it_0116_005368 index:192
+
+%patient: it-0116-005368 index:192
 begin(model(192)).
 gender(f).
 race(white).
@@ -4121,9 +4889,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(192)).
-%patient: it_0126_005347 index:193
+
+%patient: it-0126-005347 index:193
 begin(model(193)).
 gender(m).
 race(white).
@@ -4147,8 +4919,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(193)).
-%patient: it_0126_005409 index:194
+
+%patient: it-0126-005409 index:194
 begin(model(194)).
 gender(m).
 race(white).
@@ -4174,9 +4952,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(194)).
-%patient: it_0127_006720 index:195
+
+%patient: it-0127-006720 index:195
 begin(model(195)).
 gender(f).
 race(white).
@@ -4195,8 +4977,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(195)).
-%patient: it_0127_006722 index:196
+
+%patient: it-0127-006722 index:196
 begin(model(196)).
 gender(f).
 race(white).
@@ -4215,8 +5002,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(196)).
-%patient: it_0127_006726 index:197
+
+%patient: it-0127-006726 index:197
 begin(model(197)).
 gender(m).
 race(white).
@@ -4237,8 +5030,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(197)).
-%patient: it_0130_005338 index:198
+
+%patient: it-0130-005338 index:198
 begin(model(198)).
 gender(f).
 mobcat(5).
@@ -4258,8 +5056,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
 end(model(198)).
-%patient: it_0134_004952 index:199
+
+%patient: it-0134-004952 index:199
 begin(model(199)).
 gender(m).
 race(white).
@@ -4280,8 +5080,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(199)).
-%patient: it_0142_006375 index:200
+
+%patient: it-0142-006375 index:200
 begin(model(200)).
 gender(m).
 race(white).
@@ -4304,8 +5108,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(200)).
-%patient: it_0143_003917 index:201
+
+%patient: it-0143-003917 index:201
 begin(model(201)).
 gender(m).
 race(white).
@@ -4328,8 +5138,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(201)).
-%patient: it_0143_003920 index:202
+
+%patient: it-0143-003920 index:202
 begin(model(202)).
 gender(m).
 race(white).
@@ -4350,8 +5165,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(202)).
-%patient: it_0143_004082 index:203
+
+%patient: it-0143-004082 index:203
 begin(model(203)).
 gender(f).
 race(white).
@@ -4374,8 +5191,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(1).
+testid(t).
 end(model(203)).
-%patient: it_0144_004577 index:204
+
+%patient: it-0144-004577 index:204
 begin(model(204)).
 gender(m).
 race(white).
@@ -4398,8 +5220,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(204)).
-%patient: it_0145_006870 index:205
+
+%patient: it-0145-006870 index:205
 begin(model(205)).
 gender(m).
 race(white).
@@ -4422,8 +5249,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(205)).
-%patient: it_0145_006872 index:206
+
+%patient: it-0145-006872 index:206
 begin(model(206)).
 gender(f).
 race(white).
@@ -4446,9 +5278,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(206)).
-%patient: it_0145_006877 index:207
+
+%patient: it-0145-006877 index:207
 begin(model(207)).
 gender(f).
 race(white).
@@ -4471,9 +5307,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(207)).
-%patient: it_0145_006891 index:208
+
+%patient: it-0145-006891 index:208
 begin(model(208)).
 gender(f).
 race(white).
@@ -4494,9 +5334,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(208)).
-%patient: it_0145_006893 index:209
+
+%patient: it-0145-006893 index:209
 begin(model(209)).
 gender(f).
 race(white).
@@ -4518,8 +5363,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(209)).
-%patient: it_0145_006894 index:210
+
+%patient: it-0145-006894 index:210
 begin(model(210)).
 gender(m).
 race(white).
@@ -4542,8 +5392,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(210)).
-%patient: it_0167_006815 index:211
+
+%patient: it-0167-006815 index:211
 begin(model(211)).
 gender(f).
 race(white).
@@ -4561,9 +5416,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(211)).
-%patient: it_0169_006592 index:212
+
+%patient: it-0169-006592 index:212
 begin(model(212)).
 gender(m).
 race(white).
@@ -4585,8 +5445,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(212)).
-%patient: it_0042_003696 index:213
+
+%patient: it-0042-003696 index:213
 begin(model(213)).
 gender(f).
 race(white).
@@ -4618,8 +5483,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(213)).
-%patient: it_0044_003701 index:214
+
+%patient: it-0044-003701 index:214
 begin(model(214)).
 gender(f).
 race(white).
@@ -4640,9 +5510,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(214)).
-%patient: it_0044_003704 index:215
+
+%patient: it-0044-003704 index:215
 begin(model(215)).
 gender(m).
 race(white).
@@ -4662,8 +5536,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(215)).
-%patient: it_0044_003705 index:216
+
+%patient: it-0044-003705 index:216
 begin(model(216)).
 gender(f).
 race(white).
@@ -4680,8 +5559,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(216)).
-%patient: it_0061_004039 index:217
+
+%patient: it-0061-004039 index:217
 begin(model(217)).
 gender(f).
 race(white).
@@ -4704,8 +5589,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(217)).
-%patient: it_0143_006197 index:218
+
+%patient: it-0143-006197 index:218
 begin(model(218)).
 gender(m).
 mobcat(5).
@@ -4727,8 +5616,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(218)).
-%patient: it_0143_006282 index:219
+
+%patient: it-0143-006282 index:219
 begin(model(219)).
 gender(f).
 mobcat(1).
@@ -4748,8 +5640,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(219)).
-%patient: it_0155_006573 index:220
+
+%patient: it-0155-006573 index:220
 begin(model(220)).
 gender(f).
 race(white).
@@ -4771,8 +5665,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(220)).
-%patient: it_0108_002704 index:221
+
+%patient: it-0108-002704 index:221
 begin(model(221)).
 gender(m).
 race(white).
@@ -4796,8 +5695,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(221)).
-%patient: it_0143_004851 index:222
+
+%patient: it-0143-004851 index:222
 begin(model(222)).
 gender(f).
 race(white).
@@ -4816,8 +5720,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(222)).
-%patient: it_0143_005265 index:223
+
+%patient: it-0143-005265 index:223
 begin(model(223)).
 gender(f).
 mobcat(1).
@@ -4838,8 +5745,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(223)).
-%patient: it_0143_005273 index:224
+
+%patient: it-0143-005273 index:224
 begin(model(224)).
 gender(f).
 mobcat(1).
@@ -4859,9 +5769,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
 testid(t).
 end(model(224)).
-%patient: it_0143_005282 index:225
+
+%patient: it-0143-005282 index:225
 begin(model(225)).
 gender(m).
 mobcat(5).
@@ -4883,9 +5796,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
 end(model(225)).
-%patient: it_0103_006005 index:226
+
+%patient: it-0103-006005 index:226
 begin(model(226)).
 gender(f).
 race(white).
@@ -4906,9 +5821,15 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(226)).
-%patient: it_0131_004311 index:227
+
+%patient: it-0131-004311 index:227
 begin(model(227)).
 gender(f).
 race(white).
@@ -4926,9 +5847,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(227)).
-%patient: it_0131_004345 index:228
+
+%patient: it-0131-004345 index:228
 begin(model(228)).
 gender(f).
 race(white).
@@ -4945,9 +5871,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(228)).
-%patient: it_0143_006254 index:229
+
+%patient: it-0143-006254 index:229
 begin(model(229)).
 gender(f).
 race(white).
@@ -4968,8 +5898,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(229)).
-%patient: it_0158_006079 index:230
+
+%patient: it-0158-006079 index:230
 begin(model(230)).
 gender(f).
 race(white).
@@ -4991,9 +5923,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(230)).
-%patient: it_0158_006080 index:231
+
+%patient: it-0158-006080 index:231
 begin(model(231)).
 gender(f).
 race(white).
@@ -5018,8 +5952,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(231)).
-%patient: it_0061_003878 index:232
+
+%patient: it-0061-003878 index:232
 begin(model(232)).
 gender(m).
 race(white).
@@ -5050,8 +5987,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(232)).
-%patient: it_0143_004087 index:233
+
+%patient: it-0143-004087 index:233
 begin(model(233)).
 gender(f).
 race(white).
@@ -5074,8 +6014,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(233)).
-%patient: it_0061_003954 index:234
+
+%patient: it-0061-003954 index:234
 begin(model(234)).
 gender(f).
 race(white).
@@ -5097,10 +6041,12 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 testid(t).
 end(model(234)).
-%patient: it_0044_003707 index:235
+
+%patient: it-0044-003707 index:235
 begin(model(235)).
 gender(f).
 race(white).
@@ -5117,8 +6063,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(235)).
-%patient: it_0043_003647 index:236
+
+%patient: it-0043-003647 index:236
 begin(model(236)).
 gender(f).
 race(white).
@@ -5141,8 +6093,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(236)).
-%patient: it_0045_005749 index:237
+
+%patient: it-0045-005749 index:237
 begin(model(237)).
 gender(m).
 race(white).
@@ -5163,8 +6120,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(237)).
-%patient: it_0028_005407 index:238
+
+%patient: it-0028-005407 index:238
 begin(model(238)).
 gender(m).
 race(white).
@@ -5184,8 +6146,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(238)).
-%patient: it_0042_003628 index:239
+
+%patient: it-0042-003628 index:239
 begin(model(239)).
 gender(f).
 race(white).
@@ -5211,9 +6176,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(239)).
-%patient: it_0031_004160 index:240
+
+%patient: it-0031-004160 index:240
 begin(model(240)).
 gender(m).
 race(white).
@@ -5233,9 +6199,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(240)).
-%patient: it_0061_006499 index:241
+
+%patient: it-0061-006499 index:241
 begin(model(241)).
 gender(m).
 race(white).
@@ -5262,8 +6230,13 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(241)).
-%patient: it_0061_004094 index:242
+
+%patient: it-0061-004094 index:242
 begin(model(242)).
 gender(m).
 race(white).
@@ -5289,9 +6262,11 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 end(model(242)).
-%patient: it_0061_006502 index:243
+
+%patient: it-0061-006502 index:243
 begin(model(243)).
 gender(f).
 race(white).
@@ -5316,9 +6291,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(243)).
-%patient: it_0061_003891 index:244
+
+%patient: it-0061-003891 index:244
 begin(model(244)).
 gender(m).
 race(white).
@@ -5344,9 +6322,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(244)).
-%patient: it_0061_004008 index:245
+
+%patient: it-0061-004008 index:245
 begin(model(245)).
 gender(f).
 race(white).
@@ -5368,9 +6348,13 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(245)).
-%patient: it_0143_003918 index:246
+
+%patient: it-0143-003918 index:246
 begin(model(246)).
 gender(f).
 race(white).
@@ -5395,8 +6379,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(246)).
-%patient: it_0061_003972 index:247
+
+%patient: it-0061-003972 index:247
 begin(model(247)).
 gender(f).
 race(white).
@@ -5420,9 +6406,13 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(247)).
-%patient: it_0061_004415 index:248
+
+%patient: it-0061-004415 index:248
 begin(model(248)).
 gender(m).
 race(white).
@@ -5447,8 +6437,10 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(248)).
-%patient: it_0061_003951 index:249
+
+%patient: it-0061-003951 index:249
 begin(model(249)).
 gender(f).
 race(white).
@@ -5468,8 +6460,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(249)).
-%patient: it_0061_004015 index:250
+
+%patient: it-0061-004015 index:250
 begin(model(250)).
 gender(m).
 race(white).
@@ -5493,8 +6487,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(250)).
-%patient: it_0103_005971 index:251
+
+%patient: it-0103-005971 index:251
 begin(model(251)).
 gender(m).
 race(white).
@@ -5514,9 +6511,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(251)).
-%patient: it_0061_006473 index:252
+
+%patient: it-0061-006473 index:252
 begin(model(252)).
 gender(f).
 race(white).
@@ -5537,8 +6539,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(252)).
-%patient: it_0061_003941 index:253
+
+%patient: it-0061-003941 index:253
 begin(model(253)).
 gender(f).
 race(white).
@@ -5561,9 +6565,11 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 end(model(253)).
-%patient: it_0143_006157 index:254
+
+%patient: it-0143-006157 index:254
 begin(model(254)).
 gender(f).
 mobcat(3).
@@ -5585,9 +6591,10 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(254)).
-%patient: it_0143_006253 index:255
+
+%patient: it-0143-006253 index:255
 begin(model(255)).
 gender(f).
 race(white).
@@ -5606,8 +6613,11 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(255)).
-%patient: it_0061_003992 index:256
+
+%patient: it-0061-003992 index:256
 begin(model(256)).
 gender(m).
 race(white).
@@ -5626,8 +6636,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(256)).
-%patient: it_0061_006498 index:257
+
+%patient: it-0061-006498 index:257
 begin(model(257)).
 gender(m).
 race(white).
@@ -5651,8 +6663,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(257)).
-%patient: it_0061_004103 index:258
+
+%patient: it-0061-004103 index:258
 begin(model(258)).
 gender(f).
 race(white).
@@ -5672,9 +6686,13 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(258)).
-%patient: it_0141_006551 index:259
+
+%patient: it-0141-006551 index:259
 begin(model(259)).
 gender(f).
 race(white).
@@ -5693,8 +6711,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(259)).
-%patient: it_0130_006106 index:260
+
+%patient: it-0130-006106 index:260
 begin(model(260)).
 gender(m).
 mobcat(5).
@@ -5718,9 +6741,14 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(260)).
-%patient: it_0061_004111 index:261
+
+%patient: it-0061-004111 index:261
 begin(model(261)).
 gender(f).
 race(white).
@@ -5745,8 +6773,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(1).
+testid(t).
 end(model(261)).
-%patient: it_0061_004023 index:262
+
+%patient: it-0061-004023 index:262
 begin(model(262)).
 gender(f).
 race(white).
@@ -5770,9 +6802,13 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(262)).
-%patient: it_0051_006421 index:263
+
+%patient: it-0051-006421 index:263
 begin(model(263)).
 gender(f).
 race(white).
@@ -5791,9 +6827,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(263)).
-%patient: it_0051_006434 index:264
+
+%patient: it-0051-006434 index:264
 begin(model(264)).
 gender(f).
 race(white).
@@ -5814,8 +6855,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(264)).
-%patient: it_0051_006666 index:265
+
+%patient: it-0051-006666 index:265
 begin(model(265)).
 gender(f).
 race(white).
@@ -5836,8 +6882,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(265)).
-%patient: it_0061_000672 index:266
+
+%patient: it-0061-000672 index:266
 begin(model(266)).
 gender(f).
 race(not available).
@@ -5861,9 +6912,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(266)).
-%patient: it_0061_004568 index:267
+
+%patient: it-0061-004568 index:267
 begin(model(267)).
 gender(f).
 race(white).
@@ -5888,9 +6943,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
 end(model(267)).
-%patient: it_0147_004392 index:268
+
+%patient: it-0147-004392 index:268
 begin(model(268)).
 gender(m).
 mobcat(0).
@@ -5907,8 +6964,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(268)).
-%patient: it_0106_006786 index:269
+
+%patient: it-0106-006786 index:269
 begin(model(269)).
 gender(m).
 race(white).
@@ -5924,8 +6986,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(269)).
-%patient: it_0043_003698 index:270
+
+%patient: it-0043-003698 index:270
 begin(model(270)).
 gender(m).
 race(white).
@@ -5945,9 +7012,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(270)).
-%patient: it_0043_003699 index:271
+
+%patient: it-0043-003699 index:271
 begin(model(271)).
 gender(f).
 race(white).
@@ -5970,9 +7041,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(271)).
-%patient: it_0051_006450 index:272
+
+%patient: it-0051-006450 index:272
 begin(model(272)).
 gender(f).
 race(white).
@@ -5992,9 +7067,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(272)).
-%patient: it_0051_006670 index:273
+
+%patient: it-0051-006670 index:273
 begin(model(273)).
 gender(f).
 race(white).
@@ -6013,8 +7092,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(273)).
-%patient: it_0061_006466 index:274
+
+%patient: it-0061-006466 index:274
 begin(model(274)).
 gender(f).
 race(white).
@@ -6038,8 +7123,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
 end(model(274)).
-%patient: it_0103_005993 index:275
+
+%patient: it-0103-005993 index:275
 begin(model(275)).
 gender(f).
 race(white).
@@ -6057,10 +7145,14 @@ who_f2(0).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(275)).
-%patient: it_0103_006131 index:276
+
+%patient: it-0103-006131 index:276
 begin(model(276)).
 gender(m).
 race(white).
@@ -6078,9 +7170,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(276)).
-%patient: it_0106_006789 index:277
+
+%patient: it-0106-006789 index:277
 begin(model(277)).
 gender(m).
 race(white).
@@ -6105,9 +7201,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(277)).
-%patient: it_0143_003919 index:278
+
+%patient: it-0143-003919 index:278
 begin(model(278)).
 gender(f).
 race(white).
@@ -6128,9 +7229,10 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(278)).
-%patient: it_0130_004432 index:279
+
+%patient: it-0130-004432 index:279
 begin(model(279)).
 gender(f).
 mobcat(3).
@@ -6154,9 +7256,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(279)).
-%patient: it_0051_006671 index:280
+
+%patient: it-0051-006671 index:280
 begin(model(280)).
 gender(f).
 race(white).
@@ -6173,9 +7279,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(280)).
-%patient: it_0103_005975 index:281
+
+%patient: it-0103-005975 index:281
 begin(model(281)).
 gender(m).
 race(white).
@@ -6197,9 +7307,14 @@ who_f2(2).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(281)).
-%patient: it_0103_006027 index:282
+
+%patient: it-0103-006027 index:282
 begin(model(282)).
 gender(m).
 race(white).
@@ -6221,10 +7336,15 @@ who_f2(9).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(282)).
-%patient: it_0103_006140 index:283
+
+%patient: it-0103-006140 index:283
 begin(model(283)).
 gender(f).
 race(white).
@@ -6244,10 +7364,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(283)).
-%patient: it_0130_004632 index:284
+
+%patient: it-0130-004632 index:284
 begin(model(284)).
 gender(f).
 mobcat(4).
@@ -6268,9 +7392,12 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(284)).
-%patient: it_0130_006267 index:285
+
+%patient: it-0130-006267 index:285
 begin(model(285)).
 gender(m).
 mobcat(5).
@@ -6293,8 +7420,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(285)).
-%patient: it_0143_003904 index:286
+
+%patient: it-0143-003904 index:286
 begin(model(286)).
 gender(f).
 race(white).
@@ -6324,8 +7456,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(286)).
-%patient: it_0061_000651 index:287
+
+%patient: it-0061-000651 index:287
 begin(model(287)).
 gender(f).
 race(not available).
@@ -6355,8 +7492,13 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(287)).
-%patient: it_0061_004104 index:288
+
+%patient: it-0061-004104 index:288
 begin(model(288)).
 gender(f).
 race(white).
@@ -6379,10 +7521,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(288)).
-%patient: it_0061_004732 index:289
+
+%patient: it-0061-004732 index:289
 begin(model(289)).
 gender(f).
 race(white).
@@ -6404,8 +7550,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(289)).
-%patient: it_0061_004405 index:290
+
+%patient: it-0061-004405 index:290
 begin(model(290)).
 gender(f).
 race(white).
@@ -6428,8 +7578,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(290)).
-%patient: it_0143_004073 index:291
+
+%patient: it-0143-004073 index:291
 begin(model(291)).
 gender(f).
 race(white).
@@ -6456,8 +7610,12 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(291)).
-%patient: it_0150_006046 index:292
+
+%patient: it-0150-006046 index:292
 begin(model(292)).
 gender(f).
 mobcat(2).
@@ -6478,8 +7636,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(292)).
-%patient: it_0156_004899 index:293
+
+%patient: it-0156-004899 index:293
 begin(model(293)).
 gender(f).
 race(white).
@@ -6499,8 +7662,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(293)).
-%patient: it_0131_004350 index:294
+
+%patient: it-0131-004350 index:294
 begin(model(294)).
 gender(m).
 race(white).
@@ -6522,9 +7690,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(294)).
-%patient: it_0061_006532 index:295
+
+%patient: it-0061-006532 index:295
 begin(model(295)).
 gender(f).
 race(white).
@@ -6548,8 +7720,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(295)).
-%patient: it_0061_004218 index:296
+
+%patient: it-0061-004218 index:296
 begin(model(296)).
 gender(m).
 race(white).
@@ -6572,9 +7746,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(296)).
-%patient: it_0061_006504 index:297
+
+%patient: it-0061-006504 index:297
 begin(model(297)).
 gender(f).
 race(white).
@@ -6598,8 +7776,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(297)).
-%patient: it_0061_004044 index:298
+
+%patient: it-0061-004044 index:298
 begin(model(298)).
 gender(f).
 race(white).
@@ -6620,9 +7802,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 testid(t).
 end(model(298)).
-%patient: it_0125_006125 index:299
+
+%patient: it-0125-006125 index:299
 begin(model(299)).
 gender(m).
 race(white).
@@ -6647,8 +7831,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(299)).
-%patient: it_0133_006049 index:300
+
+%patient: it-0133-006049 index:300
 begin(model(300)).
 gender(f).
 race(white).
@@ -6668,8 +7857,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(300)).
-%patient: it_0128_004728 index:301
+
+%patient: it-0128-004728 index:301
 begin(model(301)).
 gender(f).
 race(white).
@@ -6689,8 +7884,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(301)).
-%patient: it_0129_004673 index:302
+
+%patient: it-0129-004673 index:302
 begin(model(302)).
 gender(m).
 race(white).
@@ -6710,8 +7911,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(302)).
-%patient: it_0129_004674 index:303
+
+%patient: it-0129-004674 index:303
 begin(model(303)).
 gender(f).
 race(white).
@@ -6733,9 +7939,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(303)).
-%patient: it_0141_006178 index:304
+
+%patient: it-0141-006178 index:304
 begin(model(304)).
 gender(f).
 race(white).
@@ -6756,8 +7966,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(304)).
-%patient: it_0143_006209 index:305
+
+%patient: it-0143-006209 index:305
 begin(model(305)).
 gender(f).
 mobcat(1).
@@ -6777,9 +7992,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(305)).
-%patient: it_0145_006897 index:306
+
+%patient: it-0145-006897 index:306
 begin(model(306)).
 gender(f).
 race(white).
@@ -6797,8 +8013,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(306)).
-%patient: it_0003_000261 index:307
+
+%patient: it-0003-000261 index:307
 begin(model(307)).
 gender(f).
 race(white).
@@ -6822,8 +8043,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(307)).
-%patient: it_0016_002665 index:308
+
+%patient: it-0016-002665 index:308
 begin(model(308)).
 gender(m).
 race(white).
@@ -6853,8 +8080,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(308)).
-%patient: it_0018_003763 index:309
+
+%patient: it-0018-003763 index:309
 begin(model(309)).
 gender(f).
 race(white).
@@ -6881,8 +8113,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(309)).
-%patient: it_0020_003780 index:310
+
+%patient: it-0020-003780 index:310
 begin(model(310)).
 gender(f).
 race(white).
@@ -6906,9 +8143,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(310)).
-%patient: it_0020_003781 index:311
+
+%patient: it-0020-003781 index:311
 begin(model(311)).
 gender(f).
 race(white).
@@ -6932,9 +8173,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(311)).
-%patient: it_0020_003804 index:312
+
+%patient: it-0020-003804 index:312
 begin(model(312)).
 gender(f).
 race(white).
@@ -6960,8 +8205,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(312)).
-%patient: it_0022_003744 index:313
+
+%patient: it-0022-003744 index:313
 begin(model(313)).
 gender(f).
 race(white).
@@ -6981,8 +8231,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(313)).
-%patient: it_0042_003626 index:314
+
+%patient: it-0042-003626 index:314
 begin(model(314)).
 gender(f).
 race(white).
@@ -6999,8 +8254,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(314)).
-%patient: it_0042_003642 index:315
+
+%patient: it-0042-003642 index:315
 begin(model(315)).
 gender(m).
 race(white).
@@ -7023,9 +8283,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(315)).
-%patient: it_0042_003651 index:316
+
+%patient: it-0042-003651 index:316
 begin(model(316)).
 gender(m).
 race(white).
@@ -7049,8 +8313,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(316)).
-%patient: it_0042_003652 index:317
+
+%patient: it-0042-003652 index:317
 begin(model(317)).
 gender(m).
 race(white).
@@ -7069,8 +8339,13 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(317)).
-%patient: it_0042_003653 index:318
+
+%patient: it-0042-003653 index:318
 begin(model(318)).
 gender(m).
 race(white).
@@ -7089,8 +8364,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(318)).
-%patient: it_0042_003717 index:319
+
+%patient: it-0042-003717 index:319
 begin(model(319)).
 gender(f).
 race(white).
@@ -7113,8 +8394,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(319)).
-%patient: it_0042_003730 index:320
+
+%patient: it-0042-003730 index:320
 begin(model(320)).
 gender(f).
 race(white).
@@ -7138,9 +8424,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(320)).
-%patient: it_0042_003732 index:321
+
+%patient: it-0042-003732 index:321
 begin(model(321)).
 gender(f).
 race(white).
@@ -7159,8 +8449,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(321)).
-%patient: it_0061_000621 index:322
+
+%patient: it-0061-000621 index:322
 begin(model(322)).
 gender(f).
 race(not available).
@@ -7182,9 +8477,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(322)).
-%patient: it_0061_004016 index:323
+
+%patient: it-0061-004016 index:323
 begin(model(323)).
 gender(m).
 race(white).
@@ -7209,8 +8506,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(323)).
-%patient: it_0061_004101 index:324
+
+%patient: it-0061-004101 index:324
 begin(model(324)).
 gender(f).
 race(white).
@@ -7228,8 +8530,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(324)).
-%patient: it_0106_006808 index:325
+
+%patient: it-0106-006808 index:325
 begin(model(325)).
 gender(f).
 race(white).
@@ -7249,8 +8553,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(325)).
-%patient: it_0108_002680 index:326
+
+%patient: it-0108-002680 index:326
 begin(model(326)).
 gender(m).
 race(white).
@@ -7269,8 +8579,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(326)).
-%patient: it_0127_006714 index:327
+
+%patient: it-0127-006714 index:327
 begin(model(327)).
 gender(f).
 race(white).
@@ -7288,9 +8603,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(327)).
-%patient: it_0127_006721 index:328
+
+%patient: it-0127-006721 index:328
 begin(model(328)).
 gender(m).
 race(white).
@@ -7308,8 +8627,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(328)).
-%patient: it_0127_006727 index:329
+
+%patient: it-0127-006727 index:329
 begin(model(329)).
 gender(f).
 race(white).
@@ -7326,8 +8650,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(329)).
-%patient: it_0133_006056 index:330
+
+%patient: it-0133-006056 index:330
 begin(model(330)).
 gender(f).
 race(white).
@@ -7350,8 +8679,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(330)).
-%patient: it_0135_004358 index:331
+
+%patient: it-0135-004358 index:331
 begin(model(331)).
 gender(f).
 race(white).
@@ -7368,8 +8702,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(331)).
-%patient: it_0135_004649 index:332
+
+%patient: it-0135-004649 index:332
 begin(model(332)).
 gender(m).
 race(white).
@@ -7388,9 +8726,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
 testid(t).
 end(model(332)).
-%patient: it_0136_005413 index:333
+
+%patient: it-0136-005413 index:333
 begin(model(333)).
 gender(f).
 race(white).
@@ -7407,8 +8749,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(333)).
-%patient: it_0142_006388 index:334
+
+%patient: it-0142-006388 index:334
 begin(model(334)).
 gender(f).
 race(white).
@@ -7436,8 +8780,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(334)).
-%patient: it_0143_006158 index:335
+
+%patient: it-0143-006158 index:335
 begin(model(335)).
 gender(f).
 mobcat(1).
@@ -7458,8 +8808,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(335)).
-%patient: it_0143_006184 index:336
+
+%patient: it-0143-006184 index:336
 begin(model(336)).
 gender(f).
 mobcat(1).
@@ -7476,8 +8828,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(336)).
-%patient: it_0143_006191 index:337
+
+%patient: it-0143-006191 index:337
 begin(model(337)).
 gender(f).
 mobcat(1).
@@ -7494,8 +8849,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(337)).
-%patient: it_0143_006195 index:338
+
+%patient: it-0143-006195 index:338
 begin(model(338)).
 gender(f).
 mobcat(2).
@@ -7517,8 +8874,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(338)).
-%patient: it_0143_006206 index:339
+
+%patient: it-0143-006206 index:339
 begin(model(339)).
 gender(f).
 mobcat(1).
@@ -7541,8 +8901,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(339)).
-%patient: it_0143_006256 index:340
+
+%patient: it-0143-006256 index:340
 begin(model(340)).
 gender(f).
 race(white).
@@ -7564,8 +8927,10 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(340)).
-%patient: it_0143_006283 index:341
+
+%patient: it-0143-006283 index:341
 begin(model(341)).
 gender(f).
 mobcat(4).
@@ -7588,9 +8953,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(341)).
-%patient: it_0143_006626 index:342
+
+%patient: it-0143-006626 index:342
 begin(model(342)).
 gender(f).
 mobcat(5).
@@ -7610,8 +8976,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(342)).
-%patient: it_0144_006855 index:343
+
+%patient: it-0144-006855 index:343
 begin(model(343)).
 gender(f).
 race(white).
@@ -7636,8 +9004,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(343)).
-%patient: it_0144_006863 index:344
+
+%patient: it-0144-006863 index:344
 begin(model(344)).
 gender(f).
 race(white).
@@ -7661,9 +9034,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(344)).
-%patient: it_0145_006869 index:345
+
+%patient: it-0145-006869 index:345
 begin(model(345)).
 gender(f).
 race(white).
@@ -7686,8 +9063,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(345)).
-%patient: it_0145_006876 index:346
+
+%patient: it-0145-006876 index:346
 begin(model(346)).
 gender(f).
 race(white).
@@ -7713,9 +9095,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(346)).
-%patient: it_0145_006883 index:347
+
+%patient: it-0145-006883 index:347
 begin(model(347)).
 gender(f).
 race(white).
@@ -7739,9 +9125,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(347)).
-%patient: it_0145_006896 index:348
+
+%patient: it-0145-006896 index:348
 begin(model(348)).
 gender(f).
 race(white).
@@ -7762,8 +9152,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(348)).
-%patient: it_0152_004909 index:349
+
+%patient: it-0152-004909 index:349
 begin(model(349)).
 gender(f).
 race(white).
@@ -7784,8 +9179,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(349)).
-%patient: it_0152_004918 index:350
+
+%patient: it-0152-004918 index:350
 begin(model(350)).
 gender(f).
 race(white).
@@ -7805,9 +9202,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(350)).
-%patient: it_0152_004980 index:351
+
+%patient: it-0152-004980 index:351
 begin(model(351)).
 gender(m).
 race(white).
@@ -7826,8 +9225,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(351)).
-%patient: it_0152_004981 index:352
+
+%patient: it-0152-004981 index:352
 begin(model(352)).
 gender(m).
 race(other or unknown).
@@ -7849,8 +9250,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(352)).
-%patient: it_0152_005049 index:353
+
+%patient: it-0152-005049 index:353
 begin(model(353)).
 gender(m).
 race(white).
@@ -7874,8 +9277,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(353)).
-%patient: it_0152_005186 index:354
+
+%patient: it-0152-005186 index:354
 begin(model(354)).
 gender(f).
 race(white).
@@ -7896,9 +9301,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(354)).
-%patient: it_0152_005401 index:355
+
+%patient: it-0152-005401 index:355
 begin(model(355)).
 gender(f).
 race(white).
@@ -7918,9 +9325,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(355)).
-%patient: it_0152_005433 index:356
+
+%patient: it-0152-005433 index:356
 begin(model(356)).
 gender(m).
 race(white).
@@ -7941,9 +9350,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(356)).
-%patient: it_0152_005488 index:357
+
+%patient: it-0152-005488 index:357
 begin(model(357)).
 gender(m).
 race(white).
@@ -7960,9 +9370,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(357)).
-%patient: it_0164_006343 index:358
+
+%patient: it-0164-006343 index:358
 begin(model(358)).
 gender(f).
 race(white).
@@ -7985,8 +9396,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(358)).
-%patient: it_0164_006404 index:359
+
+%patient: it-0164-006404 index:359
 begin(model(359)).
 gender(m).
 race(white).
@@ -8009,8 +9426,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(359)).
-%patient: it_0164_006543 index:360
+
+%patient: it-0164-006543 index:360
 begin(model(360)).
 gender(f).
 race(white).
@@ -8028,9 +9450,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(360)).
-%patient: it_0167_006830 index:361
+
+%patient: it-0167-006830 index:361
 begin(model(361)).
 gender(m).
 race(white).
@@ -8052,8 +9478,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(361)).
-%patient: it_0169_005981 index:362
+
+%patient: it-0169-005981 index:362
 begin(model(362)).
 gender(f).
 race(white).
@@ -8073,8 +9505,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(362)).
-%patient: it_0169_006603 index:363
+
+%patient: it-0169-006603 index:363
 begin(model(363)).
 gender(m).
 race(white).
@@ -8095,9 +9532,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(363)).
-%patient: it_0171_006141 index:364
+
+%patient: it-0171-006141 index:364
 begin(model(364)).
 gender(f).
 race(white).
@@ -8120,9 +9561,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(364)).
-%patient: it_0171_006154 index:365
+
+%patient: it-0171-006154 index:365
 begin(model(365)).
 gender(m).
 race(white).
@@ -8143,8 +9588,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(365)).
-%patient: it_0171_006398 index:366
+
+%patient: it-0171-006398 index:366
 begin(model(366)).
 gender(f).
 race(white).
@@ -8163,8 +9613,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(366)).
-%patient: it_0031_005602 index:367
+
+%patient: it-0031-005602 index:367
 begin(model(367)).
 gender(f).
 race(white).
@@ -8186,8 +9641,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(367)).
-%patient: it_0123_005708 index:368
+
+%patient: it-0123-005708 index:368
 begin(model(368)).
 gender(f).
 race(white).
@@ -8208,8 +9669,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(368)).
-%patient: it_0127_006708 index:369
+
+%patient: it-0127-006708 index:369
 begin(model(369)).
 gender(f).
 race(white).
@@ -8229,8 +9695,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(369)).
-%patient: it_0127_006850 index:370
+
+%patient: it-0127-006850 index:370
 begin(model(370)).
 gender(f).
 race(white).
@@ -8251,8 +9722,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(370)).
-%patient: it_0130_004580 index:371
+
+%patient: it-0130-004580 index:371
 begin(model(371)).
 gender(m).
 mobcat(4).
@@ -8278,8 +9755,14 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(371)).
-%patient: it_0143_005330 index:372
+
+%patient: it-0143-005330 index:372
 begin(model(372)).
 gender(f).
 mobcat(1).
@@ -8299,8 +9782,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(372)).
-%patient: it_0166_004973 index:373
+
+%patient: it-0166-004973 index:373
 begin(model(373)).
 gender(m).
 race(white).
@@ -8324,8 +9810,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(373)).
-%patient: it_0052_005744 index:374
+
+%patient: it-0052-005744 index:374
 begin(model(374)).
 gender(f).
 race(white).
@@ -8348,8 +9840,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(374)).
-%patient: it_0053_005745 index:375
+
+%patient: it-0053-005745 index:375
 begin(model(375)).
 gender(f).
 race(white).
@@ -8373,8 +9870,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(375)).
-%patient: it_0116_004530 index:376
+
+%patient: it-0116-004530 index:376
 begin(model(376)).
 gender(f).
 race(white).
@@ -8397,9 +9899,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(376)).
-%patient: it_0116_004956 index:377
+
+%patient: it-0116-004956 index:377
 begin(model(377)).
 gender(f).
 race(black).
@@ -8419,8 +9925,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(377)).
-%patient: it_0123_005710 index:378
+
+%patient: it-0123-005710 index:378
 begin(model(378)).
 gender(f).
 race(white).
@@ -8445,8 +9955,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(378)).
-%patient: it_0123_005713 index:379
+
+%patient: it-0123-005713 index:379
 begin(model(379)).
 gender(m).
 race(white).
@@ -8469,9 +9985,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(379)).
-%patient: it_0125_006430 index:380
+
+%patient: it-0125-006430 index:380
 begin(model(380)).
 gender(f).
 race(white).
@@ -8490,8 +10010,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(380)).
-%patient: it_0130_005395 index:381
+
+%patient: it-0130-005395 index:381
 begin(model(381)).
 gender(m).
 mobcat(2).
@@ -8512,8 +10036,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(381)).
-%patient: it_0143_004050 index:382
+
+%patient: it-0143-004050 index:382
 begin(model(382)).
 gender(m).
 race(white).
@@ -8540,8 +10068,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(382)).
-%patient: it_0152_004890 index:383
+
+%patient: it-0152-004890 index:383
 begin(model(383)).
 gender(f).
 race(white).
@@ -8561,9 +10093,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(383)).
-%patient: it_0020_004829 index:384
+
+%patient: it-0020-004829 index:384
 begin(model(384)).
 gender(m).
 race(white).
@@ -8586,9 +10119,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(384)).
-%patient: it_0021_003852 index:385
+
+%patient: it-0021-003852 index:385
 begin(model(385)).
 gender(m).
 race(white).
@@ -8615,8 +10150,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(385)).
-%patient: it_0044_004233 index:386
+
+%patient: it-0044-004233 index:386
 begin(model(386)).
 gender(f).
 race(white).
@@ -8637,8 +10174,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(386)).
-%patient: it_0044_004235 index:387
+
+%patient: it-0044-004235 index:387
 begin(model(387)).
 gender(f).
 race(white).
@@ -8664,8 +10206,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(387)).
-%patient: it_0108_002695 index:388
+
+%patient: it-0108-002695 index:388
 begin(model(388)).
 gender(f).
 race(white).
@@ -8687,9 +10235,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(388)).
-%patient: it_0143_004849 index:389
+
+%patient: it-0143-004849 index:389
 begin(model(389)).
 gender(m).
 mobcat(4).
@@ -8712,8 +10265,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
 end(model(389)).
-%patient: it_0143_004857 index:390
+
+%patient: it-0143-004857 index:390
 begin(model(390)).
 gender(f).
 mobcat(5).
@@ -8734,8 +10290,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+testid(t).
 end(model(390)).
-%patient: it_0143_005247 index:391
+
+%patient: it-0143-005247 index:391
 begin(model(391)).
 gender(f).
 mobcat(4).
@@ -8756,8 +10316,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+testid(t).
 end(model(391)).
-%patient: it_0143_006622 index:392
+
+%patient: it-0143-006622 index:392
 begin(model(392)).
 gender(f).
 mobcat(1).
@@ -8774,8 +10338,10 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(392)).
-%patient: it_0169_006433 index:393
+
+%patient: it-0169-006433 index:393
 begin(model(393)).
 gender(f).
 race(white).
@@ -8792,8 +10358,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(393)).
-%patient: it_0061_004224 index:394
+
+%patient: it-0061-004224 index:394
 begin(model(394)).
 gender(f).
 race(white).
@@ -8813,8 +10385,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(394)).
-%patient: it_0061_004035 index:395
+
+%patient: it-0061-004035 index:395
 begin(model(395)).
 gender(f).
 race(white).
@@ -8836,10 +10413,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
 testid(t).
 end(model(395)).
-%patient: it_0125_004268 index:396
+
+%patient: it-0125-004268 index:396
 begin(model(396)).
 gender(f).
 race(white).
@@ -8864,9 +10444,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(396)).
-%patient: it_0125_004278 index:397
+
+%patient: it-0125-004278 index:397
 begin(model(397)).
 gender(f).
 race(white).
@@ -8887,8 +10471,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(397)).
-%patient: it_0132_005626 index:398
+
+%patient: it-0132-005626 index:398
 begin(model(398)).
 gender(f).
 race(white).
@@ -8911,8 +10501,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(398)).
-%patient: it_0125_004124 index:399
+
+%patient: it-0125-004124 index:399
 begin(model(399)).
 gender(m).
 race(white).
@@ -8939,9 +10532,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(399)).
-%patient: it_0166_005072 index:400
+
+%patient: it-0166-005072 index:400
 begin(model(400)).
 gender(m).
 race(white).
@@ -8963,8 +10560,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(400)).
-%patient: it_0061_004105 index:401
+
+%patient: it-0061-004105 index:401
 begin(model(401)).
 gender(f).
 race(white).
@@ -8991,9 +10593,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
 end(model(401)).
-%patient: it_0126_005344 index:402
+
+%patient: it-0126-005344 index:402
 begin(model(402)).
 gender(m).
 race(white).
@@ -9021,8 +10626,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(402)).
-%patient: it_0143_003915 index:403
+
+%patient: it-0143-003915 index:403
 begin(model(403)).
 gender(m).
 race(white).
@@ -9050,9 +10661,10 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(403)).
-%patient: it_0148_005582 index:404
+
+%patient: it-0148-005582 index:404
 begin(model(404)).
 gender(f).
 mobcat(0).
@@ -9072,8 +10684,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(404)).
-%patient: it_0171_006355 index:405
+
+%patient: it-0171-006355 index:405
 begin(model(405)).
 gender(f).
 race(white).
@@ -9091,8 +10708,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+testid(t).
 end(model(405)).
-%patient: it_0016_003675 index:406
+
+%patient: it-0016-003675 index:406
 begin(model(406)).
 gender(f).
 race(white).
@@ -9117,8 +10737,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(406)).
-%patient: it_0061_000591 index:407
+
+%patient: it-0061-000591 index:407
 begin(model(407)).
 gender(m).
 race(not available).
@@ -9146,8 +10771,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(1).
 end(model(407)).
-%patient: it_0061_000641 index:408
+
+%patient: it-0061-000641 index:408
 begin(model(408)).
 gender(f).
 race(not available).
@@ -9172,9 +10800,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(408)).
-%patient: it_0130_005289 index:409
+
+%patient: it-0130-005289 index:409
 begin(model(409)).
 gender(m).
 mobcat(5).
@@ -9194,8 +10827,13 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(409)).
-%patient: it_0141_006182 index:410
+
+%patient: it-0141-006182 index:410
 begin(model(410)).
 gender(f).
 race(white).
@@ -9215,8 +10853,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(410)).
-%patient: it_0061_006480 index:411
+
+%patient: it-0061-006480 index:411
 begin(model(411)).
 gender(f).
 race(white).
@@ -9237,9 +10880,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(411)).
-%patient: it_0061_006457 index:412
+
+%patient: it-0061-006457 index:412
 begin(model(412)).
 gender(m).
 race(white).
@@ -9266,8 +10913,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+antipneumovaccine(1).
 end(model(412)).
-%patient: it_0143_004066 index:413
+
+%patient: it-0143-004066 index:413
 begin(model(413)).
 gender(m).
 race(white).
@@ -9295,9 +10945,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(413)).
-%patient: it_0061_000581 index:414
+
+%patient: it-0061-000581 index:414
 begin(model(414)).
 gender(f).
 race(white).
@@ -9317,9 +10970,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(414)).
-%patient: it_0061_004038 index:415
+
+%patient: it-0061-004038 index:415
 begin(model(415)).
 gender(f).
 race(white).
@@ -9340,9 +10995,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(415)).
-%patient: it_0152_004837 index:416
+
+%patient: it-0152-004837 index:416
 begin(model(416)).
 gender(f).
 race(white).
@@ -9366,8 +11024,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+testid(t).
 end(model(416)).
-%patient: it_0143_004842 index:417
+
+%patient: it-0143-004842 index:417
 begin(model(417)).
 gender(f).
 mobcat(1).
@@ -9387,9 +11048,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(417)).
-%patient: it_0143_004844 index:418
+
+%patient: it-0143-004844 index:418
 begin(model(418)).
 gender(f).
 mobcat(3).
@@ -9412,8 +11075,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(418)).
-%patient: it_0152_005008 index:419
+
+%patient: it-0152-005008 index:419
 begin(model(419)).
 gender(f).
 race(white).
@@ -9431,8 +11098,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(419)).
-%patient: it_0134_004937 index:420
+
+%patient: it-0134-004937 index:420
 begin(model(420)).
 gender(f).
 race(white).
@@ -9452,8 +11122,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+testid(t).
 end(model(420)).
-%patient: it_0061_003996 index:421
+
+%patient: it-0061-003996 index:421
 begin(model(421)).
 gender(f).
 race(white).
@@ -9471,9 +11146,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(421)).
-%patient: it_0132_004282 index:422
+
+%patient: it-0132-004282 index:422
 begin(model(422)).
 gender(f).
 race(black).
@@ -9498,8 +11178,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(422)).
-%patient: it_0164_006363 index:423
+
+%patient: it-0164-006363 index:423
 begin(model(423)).
 gender(m).
 race(white).
@@ -9521,8 +11204,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(423)).
-%patient: it_0143_004839 index:424
+
+%patient: it-0143-004839 index:424
 begin(model(424)).
 gender(f).
 mobcat(1).
@@ -9542,8 +11230,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(424)).
-%patient: it_0143_004856 index:425
+
+%patient: it-0143-004856 index:425
 begin(model(425)).
 gender(f).
 mobcat(5).
@@ -9562,8 +11253,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(425)).
-%patient: it_0143_005246 index:426
+
+%patient: it-0143-005246 index:426
 begin(model(426)).
 gender(f).
 mobcat(1).
@@ -9583,9 +11277,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 testid(t).
 end(model(426)).
-%patient: it_0052_005743 index:427
+
+%patient: it-0052-005743 index:427
 begin(model(427)).
 gender(m).
 race(white).
@@ -9612,9 +11309,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(427)).
-%patient: it_0143_006151 index:428
+
+%patient: it-0143-006151 index:428
 begin(model(428)).
 gender(f).
 mobcat(1).
@@ -9634,8 +11336,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(428)).
-%patient: it_0125_005721 index:429
+
+%patient: it-0125-005721 index:429
 begin(model(429)).
 gender(m).
 race(white).
@@ -9655,9 +11360,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,3).
 end(model(429)).
-%patient: it_0061_004009 index:430
+
+%patient: it-0061-004009 index:430
 begin(model(430)).
 gender(m).
 race(white).
@@ -9679,9 +11385,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(430)).
-%patient: it_0061_004036 index:431
+
+%patient: it-0061-004036 index:431
 begin(model(431)).
 gender(f).
 race(white).
@@ -9703,10 +11413,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(431)).
-%patient: it_0143_005309 index:432
+
+%patient: it-0143-005309 index:432
 begin(model(432)).
 gender(f).
 mobcat(4).
@@ -9725,8 +11437,10 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(432)).
-%patient: it_0166_006244 index:433
+
+%patient: it-0166-006244 index:433
 begin(model(433)).
 gender(m).
 race(white).
@@ -9749,8 +11463,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(433)).
-%patient: it_0130_005209 index:434
+
+%patient: it-0130-005209 index:434
 begin(model(434)).
 gender(f).
 mobcat(4).
@@ -9771,9 +11490,12 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(434)).
-%patient: it_0061_004021 index:435
+
+%patient: it-0061-004021 index:435
 begin(model(435)).
 gender(m).
 race(white).
@@ -9796,9 +11518,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(435)).
-%patient: it_0143_006208 index:436
+
+%patient: it-0143-006208 index:436
 begin(model(436)).
 gender(f).
 mobcat(1).
@@ -9816,9 +11543,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(436)).
-%patient: it_0130_004820 index:437
+
+%patient: it-0130-004820 index:437
 begin(model(437)).
 gender(f).
 mobcat(3).
@@ -9840,8 +11568,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(437)).
-%patient: it_0166_005022 index:438
+
+%patient: it-0166-005022 index:438
 begin(model(438)).
 gender(f).
 race(white).
@@ -9867,8 +11601,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(438)).
-%patient: it_0166_005035 index:439
+
+%patient: it-0166-005035 index:439
 begin(model(439)).
 gender(f).
 race(white).
@@ -9895,8 +11634,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(439)).
-%patient: it_0166_005042 index:440
+
+%patient: it-0166-005042 index:440
 begin(model(440)).
 gender(m).
 race(white).
@@ -9918,8 +11661,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(440)).
-%patient: it_0166_005044 index:441
+
+%patient: it-0166-005044 index:441
 begin(model(441)).
 gender(f).
 race(white).
@@ -9944,8 +11692,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(441)).
-%patient: it_0166_006247 index:442
+
+%patient: it-0166-006247 index:442
 begin(model(442)).
 gender(m).
 race(white).
@@ -9966,8 +11720,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(442)).
-%patient: it_0166_005005 index:443
+
+%patient: it-0166-005005 index:443
 begin(model(443)).
 gender(f).
 race(white).
@@ -9994,8 +11753,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(443)).
-%patient: it_0166_005113 index:444
+
+%patient: it-0166-005113 index:444
 begin(model(444)).
 gender(f).
 race(white).
@@ -10018,8 +11782,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(444)).
-%patient: it_0143_005248 index:445
+
+%patient: it-0143-005248 index:445
 begin(model(445)).
 gender(f).
 mobcat(5).
@@ -10042,8 +11811,11 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(445)).
-%patient: it_0061_003886 index:446
+
+%patient: it-0061-003886 index:446
 begin(model(446)).
 gender(f).
 race(white).
@@ -10072,8 +11844,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(446)).
-%patient: it_0141_006002 index:447
+
+%patient: it-0141-006002 index:447
 begin(model(447)).
 gender(f).
 race(white).
@@ -10093,8 +11868,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(447)).
-%patient: it_0061_004000 index:448
+
+%patient: it-0061-004000 index:448
 begin(model(448)).
 gender(f).
 race(white).
@@ -10115,9 +11895,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(448)).
-%patient: it_0141_005818 index:449
+
+%patient: it-0141-005818 index:449
 begin(model(449)).
 gender(f).
 race(other or unknown).
@@ -10136,8 +11920,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(449)).
-%patient: it_0061_004414 index:450
+
+%patient: it-0061-004414 index:450
 begin(model(450)).
 gender(f).
 race(white).
@@ -10160,8 +11949,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(450)).
-%patient: it_0003_000284 index:451
+
+%patient: it-0003-000284 index:451
 begin(model(451)).
 gender(f).
 race(white).
@@ -10187,8 +11981,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(451)).
-%patient: it_0061_004742 index:452
+
+%patient: it-0061-004742 index:452
 begin(model(452)).
 gender(f).
 race(white).
@@ -10213,8 +12012,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(452)).
-%patient: it_0130_004884 index:453
+
+%patient: it-0130-004884 index:453
 begin(model(453)).
 gender(f).
 mobcat(4).
@@ -10233,8 +12036,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(453)).
-%patient: it_0061_004013 index:454
+
+%patient: it-0061-004013 index:454
 begin(model(454)).
 gender(f).
 race(white).
@@ -10257,9 +12065,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(454)).
-%patient: it_0062_000974 index:455
+
+%patient: it-0062-000974 index:455
 begin(model(455)).
 gender(f).
 race(white).
@@ -10275,8 +12087,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(455)).
-%patient: it_0061_003883 index:456
+
+%patient: it-0061-003883 index:456
 begin(model(456)).
 gender(f).
 race(white).
@@ -10303,9 +12121,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(456)).
-%patient: it_0141_005387 index:457
+
+%patient: it-0141-005387 index:457
 begin(model(457)).
 gender(f).
 race(white).
@@ -10329,8 +12150,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(457)).
-%patient: it_0136_005509 index:458
+
+%patient: it-0136-005509 index:458
 begin(model(458)).
 gender(f).
 race(white).
@@ -10347,9 +12174,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
 testid(t).
 end(model(458)).
-%patient: it_0170_006677 index:459
+
+%patient: it-0170-006677 index:459
 begin(model(459)).
 gender(f).
 race(white).
@@ -10367,9 +12196,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(459)).
-%patient: it_0170_006680 index:460
+
+%patient: it-0170-006680 index:460
 begin(model(460)).
 gender(f).
 race(white).
@@ -10393,9 +12226,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(460)).
-%patient: it_0061_006527 index:461
+
+%patient: it-0061-006527 index:461
 begin(model(461)).
 gender(f).
 race(white).
@@ -10412,9 +12249,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(461)).
-%patient: it_0061_004741 index:462
+
+%patient: it-0061-004741 index:462
 begin(model(462)).
 gender(m).
 race(white).
@@ -10436,8 +12275,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(462)).
-%patient: it_0061_003887 index:463
+
+%patient: it-0061-003887 index:463
 begin(model(463)).
 gender(f).
 race(white).
@@ -10464,9 +12306,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(463)).
-%patient: it_0166_006222 index:464
+
+%patient: it-0166-006222 index:464
 begin(model(464)).
 gender(f).
 race(white).
@@ -10487,8 +12331,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(464)).
-%patient: it_0015_002603 index:465
+
+%patient: it-0015-002603 index:465
 begin(model(465)).
 gender(m).
 race(white).
@@ -10517,8 +12367,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+testid(t).
 end(model(465)).
-%patient: it_0015_003926 index:466
+
+%patient: it-0015-003926 index:466
 begin(model(466)).
 gender(f).
 race(white).
@@ -10546,8 +12399,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(466)).
-%patient: it_0015_003987 index:467
+
+%patient: it-0015-003987 index:467
 begin(model(467)).
 gender(f).
 race(white).
@@ -10577,8 +12436,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(467)).
-%patient: it_0042_003641 index:468
+
+%patient: it-0042-003641 index:468
 begin(model(468)).
 gender(f).
 race(white).
@@ -10598,8 +12463,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(468)).
-%patient: it_0061_004108 index:469
+
+%patient: it-0061-004108 index:469
 begin(model(469)).
 gender(m).
 race(white).
@@ -10618,9 +12488,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(469)).
-%patient: it_0053_004253 index:470
+
+%patient: it-0053-004253 index:470
 begin(model(470)).
 gender(m).
 race(white).
@@ -10639,8 +12514,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(470)).
-%patient: it_0143_006287 index:471
+
+%patient: it-0143-006287 index:471
 begin(model(471)).
 gender(f).
 mobcat(1).
@@ -10660,8 +12540,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(471)).
-%patient: it_0143_006636 index:472
+
+%patient: it-0143-006636 index:472
 begin(model(472)).
 gender(f).
 mobcat(1).
@@ -10681,8 +12563,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(472)).
-%patient: it_0061_000614 index:473
+
+%patient: it-0061-000614 index:473
 begin(model(473)).
 gender(m).
 race(not available).
@@ -10707,10 +12591,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(473)).
-%patient: it_0061_004018 index:474
+
+%patient: it-0061-004018 index:474
 begin(model(474)).
 gender(f).
 race(white).
@@ -10730,9 +12618,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(474)).
-%patient: it_0061_004396 index:475
+
+%patient: it-0061-004396 index:475
 begin(model(475)).
 gender(f).
 race(white).
@@ -10754,8 +12646,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(475)).
-%patient: it_0143_006148 index:476
+
+%patient: it-0143-006148 index:476
 begin(model(476)).
 gender(f).
 mobcat(2).
@@ -10772,8 +12667,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(476)).
-%patient: it_0133_006290 index:477
+
+%patient: it-0133-006290 index:477
 begin(model(477)).
 gender(m).
 race(white).
@@ -10796,8 +12693,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(477)).
-%patient: it_0130_004429 index:478
+
+%patient: it-0130-004429 index:478
 begin(model(478)).
 gender(f).
 mobcat(1).
@@ -10819,9 +12722,14 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(478)).
-%patient: it_0061_004564 index:479
+
+%patient: it-0061-004564 index:479
 begin(model(479)).
 gender(m).
 race(white).
@@ -10844,10 +12752,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(479)).
-%patient: it_0152_005091 index:480
+
+%patient: it-0152-005091 index:480
 begin(model(480)).
 gender(f).
 race(white).
@@ -10865,8 +12775,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
 end(model(480)).
-%patient: it_0130_004835 index:481
+
+%patient: it-0130-004835 index:481
 begin(model(481)).
 gender(f).
 mobcat(2).
@@ -10891,8 +12803,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(481)).
-%patient: it_0061_006518 index:482
+
+%patient: it-0061-006518 index:482
 begin(model(482)).
 gender(m).
 race(white).
@@ -10917,8 +12833,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(482)).
-%patient: it_0061_004408 index:483
+
+%patient: it-0061-004408 index:483
 begin(model(483)).
 gender(f).
 race(white).
@@ -10943,8 +12862,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
 end(model(483)).
-%patient: it_0171_006146 index:484
+
+%patient: it-0171-006146 index:484
 begin(model(484)).
 gender(f).
 race(white).
@@ -10964,9 +12885,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(484)).
-%patient: it_0125_003990 index:485
+
+%patient: it-0125-003990 index:485
 begin(model(485)).
 gender(m).
 race(white).
@@ -10988,8 +12913,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(485)).
-%patient: it_0061_006481 index:486
+
+%patient: it-0061-006481 index:486
 begin(model(486)).
 gender(f).
 race(white).
@@ -11012,8 +12942,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(486)).
-%patient: it_0061_004001 index:487
+
+%patient: it-0061-004001 index:487
 begin(model(487)).
 gender(f).
 race(white).
@@ -11035,9 +12969,11 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
 end(model(487)).
-%patient: it_0061_000618 index:488
+
+%patient: it-0061-000618 index:488
 begin(model(488)).
 gender(f).
 race(not available).
@@ -11058,10 +12994,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(488)).
-%patient: it_0061_004718 index:489
+
+%patient: it-0061-004718 index:489
 begin(model(489)).
 gender(f).
 race(white).
@@ -11085,8 +13024,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(489)).
-%patient: it_0061_004118 index:490
+
+%patient: it-0061-004118 index:490
 begin(model(490)).
 gender(m).
 race(white).
@@ -11107,10 +13050,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(490)).
-%patient: it_0130_004889 index:491
+
+%patient: it-0130-004889 index:491
 begin(model(491)).
 gender(f).
 mobcat(2).
@@ -11127,9 +13073,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(491)).
-%patient: it_0061_006520 index:492
+
+%patient: it-0061-006520 index:492
 begin(model(492)).
 gender(f).
 race(white).
@@ -11146,9 +13095,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(492)).
-%patient: it_0061_006477 index:493
+
+%patient: it-0061-006477 index:493
 begin(model(493)).
 gender(f).
 race(white).
@@ -11173,8 +13124,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(493)).
-%patient: it_0061_006490 index:494
+
+%patient: it-0061-006490 index:494
 begin(model(494)).
 gender(f).
 race(white).
@@ -11200,8 +13156,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(494)).
-%patient: it_0130_004658 index:495
+
+%patient: it-0130-004658 index:495
 begin(model(495)).
 gender(m).
 mobcat(2).
@@ -11222,8 +13183,14 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(495)).
-%patient: it_0061_004020 index:496
+
+%patient: it-0061-004020 index:496
 begin(model(496)).
 gender(f).
 race(white).
@@ -11247,9 +13214,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(496)).
-%patient: it_0130_004831 index:497
+
+%patient: it-0130-004831 index:497
 begin(model(497)).
 gender(f).
 mobcat(4).
@@ -11270,9 +13242,14 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(497)).
-%patient: it_0061_006444 index:498
+
+%patient: it-0061-006444 index:498
 begin(model(498)).
 gender(m).
 race(white).
@@ -11297,9 +13274,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(498)).
-%patient: it_0061_003963 index:499
+
+%patient: it-0061-003963 index:499
 begin(model(499)).
 gender(m).
 race(white).
@@ -11320,9 +13300,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(499)).
-%patient: it_0061_004106 index:500
+
+%patient: it-0061-004106 index:500
 begin(model(500)).
 gender(f).
 race(white).
@@ -11344,9 +13328,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(500)).
-%patient: it_0061_004562 index:501
+
+%patient: it-0061-004562 index:501
 begin(model(501)).
 gender(f).
 race(white).
@@ -11368,10 +13356,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(501)).
-%patient: it_0130_005384 index:502
+
+%patient: it-0130-005384 index:502
 begin(model(502)).
 gender(m).
 mobcat(0).
@@ -11389,9 +13379,12 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(502)).
-%patient: it_0061_004727 index:503
+
+%patient: it-0061-004727 index:503
 begin(model(503)).
 gender(f).
 race(white).
@@ -11412,10 +13405,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(503)).
-%patient: it_0061_004004 index:504
+
+%patient: it-0061-004004 index:504
 begin(model(504)).
 gender(m).
 race(white).
@@ -11432,10 +13426,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(504)).
-%patient: it_0106_006751 index:505
+
+%patient: it-0106-006751 index:505
 begin(model(505)).
 gender(m).
 race(white).
@@ -11450,10 +13447,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(505)).
-%patient: it_0061_004017 index:506
+
+%patient: it-0061-004017 index:506
 begin(model(506)).
 gender(f).
 race(white).
@@ -11475,9 +13476,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(506)).
-%patient: it_0015_000685 index:507
+
+%patient: it-0015-000685 index:507
 begin(model(507)).
 gender(f).
 race(white).
@@ -11499,10 +13503,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(507)).
-%patient: it_0015_001261 index:508
+
+%patient: it-0015-001261 index:508
 begin(model(508)).
 gender(f).
 race(white).
@@ -11530,8 +13538,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(508)).
-%patient: it_0015_003896 index:509
+
+%patient: it-0015-003896 index:509
 begin(model(509)).
 gender(f).
 race(white).
@@ -11558,10 +13572,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(509)).
-%patient: it_0015_003933 index:510
+
+%patient: it-0015-003933 index:510
 begin(model(510)).
 gender(f).
 race(white).
@@ -11588,9 +13606,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(510)).
-%patient: it_0022_003748 index:511
+
+%patient: it-0022-003748 index:511
 begin(model(511)).
 gender(m).
 race(white).
@@ -11611,9 +13634,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(511)).
-%patient: it_0043_003722 index:512
+
+%patient: it-0043-003722 index:512
 begin(model(512)).
 gender(f).
 race(white).
@@ -11635,8 +13663,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(512)).
-%patient: it_0043_003824 index:513
+
+%patient: it-0043-003824 index:513
 begin(model(513)).
 gender(m).
 race(white).
@@ -11655,9 +13688,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(513)).
-%patient: it_0044_003700 index:514
+
+%patient: it-0044-003700 index:514
 begin(model(514)).
 gender(f).
 race(white).
@@ -11678,8 +13716,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(514)).
-%patient: it_0050_004229 index:515
+
+%patient: it-0050-004229 index:515
 begin(model(515)).
 gender(m).
 race(white).
@@ -11706,8 +13749,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(515)).
-%patient: it_0061_003884 index:516
+
+%patient: it-0061-003884 index:516
 begin(model(516)).
 gender(f).
 race(white).
@@ -11735,8 +13784,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(516)).
-%patient: it_0102_004148 index:517
+
+%patient: it-0102-004148 index:517
 begin(model(517)).
 gender(f).
 race(white).
@@ -11755,8 +13809,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(517)).
-%patient: it_0126_004252 index:518
+
+%patient: it-0126-004252 index:518
 begin(model(518)).
 gender(m).
 race(white).
@@ -11781,9 +13840,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(518)).
-%patient: it_0126_005598 index:519
+
+%patient: it-0126-005598 index:519
 begin(model(519)).
 gender(f).
 race(white).
@@ -11802,9 +13866,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(519)).
-%patient: it_0126_005615 index:520
+
+%patient: it-0126-005615 index:520
 begin(model(520)).
 gender(f).
 race(white).
@@ -11828,8 +13897,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(520)).
-%patient: it_0126_006612 index:521
+
+%patient: it-0126-006612 index:521
 begin(model(521)).
 gender(f).
 race(white).
@@ -11853,9 +13927,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(521)).
-%patient: it_0130_004812 index:522
+
+%patient: it-0130-004812 index:522
 begin(model(522)).
 gender(f).
 mobcat(4).
@@ -11878,9 +13956,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(522)).
-%patient: it_0152_004992 index:523
+
+%patient: it-0152-004992 index:523
 begin(model(523)).
 gender(f).
 race(white).
@@ -11896,10 +13977,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(523)).
-%patient: it_0152_004993 index:524
+
+%patient: it-0152-004993 index:524
 begin(model(524)).
 gender(f).
 race(white).
@@ -11917,9 +13999,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(524)).
-%patient: it_0152_005053 index:525
+
+%patient: it-0152-005053 index:525
 begin(model(525)).
 gender(m).
 race(white).
@@ -11940,9 +14025,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(525)).
-%patient: it_0152_005086 index:526
+
+%patient: it-0152-005086 index:526
 begin(model(526)).
 gender(f).
 race(white).
@@ -11962,9 +14049,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(526)).
-%patient: it_0152_005155 index:527
+
+%patient: it-0152-005155 index:527
 begin(model(527)).
 gender(f).
 race(white).
@@ -11982,9 +14071,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(527)).
-%patient: it_0152_005158 index:528
+
+%patient: it-0152-005158 index:528
 begin(model(528)).
 gender(m).
 race(white).
@@ -12002,10 +14093,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(528)).
-%patient: it_0152_005187 index:529
+
+%patient: it-0152-005187 index:529
 begin(model(529)).
 gender(f).
 race(white).
@@ -12024,10 +14116,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(529)).
-%patient: it_0152_005357 index:530
+
+%patient: it-0152-005357 index:530
 begin(model(530)).
 gender(f).
 race(white).
@@ -12042,9 +14135,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(530)).
-%patient: it_0152_005431 index:531
+
+%patient: it-0152-005431 index:531
 begin(model(531)).
 gender(m).
 race(white).
@@ -12059,9 +14154,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(531)).
-%patient: it_0152_005450 index:532
+
+%patient: it-0152-005450 index:532
 begin(model(532)).
 gender(m).
 race(white).
@@ -12078,9 +14175,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(532)).
-%patient: it_0152_005491 index:533
+
+%patient: it-0152-005491 index:533
 begin(model(533)).
 gender(m).
 race(white).
@@ -12100,9 +14199,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(533)).
-%patient: it_0171_006143 index:534
+
+%patient: it-0171-006143 index:534
 begin(model(534)).
 gender(f).
 race(white).
@@ -12121,9 +14223,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(534)).
-%patient: it_0171_006215 index:535
+
+%patient: it-0171-006215 index:535
 begin(model(535)).
 gender(m).
 race(white).
@@ -12144,9 +14252,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(535)).
-%patient: it_0171_006262 index:536
+
+%patient: it-0171-006262 index:536
 begin(model(536)).
 gender(f).
 race(white).
@@ -12165,9 +14279,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(536)).
-%patient: it_0106_006814 index:537
+
+%patient: it-0106-006814 index:537
 begin(model(537)).
 gender(f).
 race(white).
@@ -12185,9 +14304,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(537)).
-%patient: it_0116_005350 index:538
+
+%patient: it-0116-005350 index:538
 begin(model(538)).
 gender(f).
 race(white).
@@ -12209,8 +14333,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(538)).
-%patient: it_0143_004063 index:539
+
+%patient: it-0143-004063 index:539
 begin(model(539)).
 gender(f).
 race(white).
@@ -12235,8 +14363,12 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(539)).
-%patient: it_0152_004988 index:540
+
+%patient: it-0152-004988 index:540
 begin(model(540)).
 gender(f).
 race(white).
@@ -12256,9 +14388,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(540)).
-%patient: it_0003_000516 index:541
+
+%patient: it-0003-000516 index:541
 begin(model(541)).
 gender(m).
 race(white).
@@ -12282,9 +14416,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(541)).
-%patient: it_0061_006257 index:542
+
+%patient: it-0061-006257 index:542
 begin(model(542)).
 gender(f).
 race(white).
@@ -12303,8 +14442,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(542)).
-%patient: it_0103_006122 index:543
+
+%patient: it-0103-006122 index:543
 begin(model(543)).
 gender(f).
 race(white).
@@ -12325,10 +14469,14 @@ who_f2(9).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(543)).
-%patient: it_0125_004353 index:544
+
+%patient: it-0125-004353 index:544
 begin(model(544)).
 gender(m).
 race(white).
@@ -12350,9 +14498,13 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(544)).
-%patient: it_0169_006096 index:545
+
+%patient: it-0169-006096 index:545
 begin(model(545)).
 gender(m).
 race(white).
@@ -12372,9 +14524,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(545)).
-%patient: it_0133_005922 index:546
+
+%patient: it-0133-005922 index:546
 begin(model(546)).
 gender(f).
 race(white).
@@ -12396,9 +14553,15 @@ who_f2(9).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(546)).
-%patient: it_0015_003867 index:547
+
+%patient: it-0015-003867 index:547
 begin(model(547)).
 gender(m).
 race(white).
@@ -12425,9 +14588,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(547)).
-%patient: it_0130_005078 index:548
+
+%patient: it-0130-005078 index:548
 begin(model(548)).
 gender(f).
 mobcat(2).
@@ -12451,9 +14619,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(548)).
-%patient: it_0051_006668 index:549
+
+%patient: it-0051-006668 index:549
 begin(model(549)).
 gender(m).
 race(white).
@@ -12476,8 +14648,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(1).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(549)).
-%patient: it_0143_004846 index:550
+
+%patient: it-0143-004846 index:550
 begin(model(550)).
 gender(m).
 mobcat(3).
@@ -12495,10 +14672,11 @@ who_f2(0).
 who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
 end(model(550)).
-%patient: it_0106_006755 index:551
+
+%patient: it-0106-006755 index:551
 begin(model(551)).
 gender(m).
 race(white).
@@ -12513,9 +14691,14 @@ who_f2(0).
 who_f3(0).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(551)).
-%patient: it_0102_003604 index:552
+
+%patient: it-0102-003604 index:552
 begin(model(552)).
 gender(f).
 race(white).
@@ -12537,10 +14720,15 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(552)).
-%patient: it_0106_006747 index:553
+
+%patient: it-0106-006747 index:553
 begin(model(553)).
 gender(m).
 race(white).
@@ -12560,9 +14748,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(1).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(553)).
-%patient: it_0150_006032 index:554
+
+%patient: it-0150-006032 index:554
 begin(model(554)).
 gender(f).
 mobcat(4).
@@ -12581,9 +14775,14 @@ who_f2(0).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(1).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(554)).
-%patient: it_0110_006359 index:555
+
+%patient: it-0110-006359 index:555
 begin(model(555)).
 gender(m).
 race(white).
@@ -12597,7 +14796,8 @@ who_f4(9).
 typeofoutcome_updated(2).
 neg.
 end(model(555)).
-%patient: it_0110_006617 index:556
+
+%patient: it-0110-006617 index:556
 begin(model(556)).
 gender(f).
 race(white).
@@ -12610,8 +14810,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+testid(t).
 end(model(556)).
-%patient: it_0152_004896 index:557
+
+%patient: it-0152-004896 index:557
 begin(model(557)).
 gender(m).
 race(white).
@@ -12632,8 +14834,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(557)).
-%patient: it_0108_006541 index:558
+
+%patient: it-0108-006541 index:558
 begin(model(558)).
 gender(f).
 race(white).
@@ -12646,9 +14850,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(558)).
-%patient: it_0108_006542 index:559
+
+%patient: it-0108-006542 index:559
 begin(model(559)).
 gender(m).
 race(white).
@@ -12661,8 +14871,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(559)).
-%patient: it_0152_004982 index:560
+
+%patient: it-0152-004982 index:560
 begin(model(560)).
 gender(f).
 race(white).
@@ -12674,9 +14889,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(560)).
-%patient: it_0152_004983 index:561
+
+%patient: it-0152-004983 index:561
 begin(model(561)).
 gender(f).
 race(white).
@@ -12688,9 +14905,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(561)).
-%patient: it_0152_005003 index:562
+
+%patient: it-0152-005003 index:562
 begin(model(562)).
 gender(f).
 race(white).
@@ -12702,9 +14922,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(562)).
-%patient: it_0152_005006 index:563
+
+%patient: it-0152-005006 index:563
 begin(model(563)).
 gender(m).
 race(white).
@@ -12716,9 +14938,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(563)).
-%patient: it_0152_005016 index:564
+
+%patient: it-0152-005016 index:564
 begin(model(564)).
 gender(f).
 race(white).
@@ -12730,9 +14954,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(564)).
-%patient: it_0152_005056 index:565
+
+%patient: it-0152-005056 index:565
 begin(model(565)).
 gender(f).
 race(white).
@@ -12744,9 +14970,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(565)).
-%patient: it_0152_005084 index:566
+
+%patient: it-0152-005084 index:566
 begin(model(566)).
 gender(m).
 race(white).
@@ -12758,9 +14987,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(566)).
-%patient: it_0152_005144 index:567
+
+%patient: it-0152-005144 index:567
 begin(model(567)).
 gender(f).
 race(white).
@@ -12772,10 +15004,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(567)).
-%patient: it_0152_005168 index:568
+
+%patient: it-0152-005168 index:568
 begin(model(568)).
 gender(f).
 race(white).
@@ -12787,10 +15021,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(568)).
-%patient: it_0152_005177 index:569
+
+%patient: it-0152-005177 index:569
 begin(model(569)).
 gender(f).
 race(white).
@@ -12802,10 +15037,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(569)).
-%patient: it_0152_005381 index:570
+
+%patient: it-0152-005381 index:570
 begin(model(570)).
 gender(f).
 race(white).
@@ -12817,10 +15053,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(570)).
-%patient: it_0152_005437 index:571
+
+%patient: it-0152-005437 index:571
 begin(model(571)).
 gender(f).
 race(white).
@@ -12832,9 +15070,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(571)).
-%patient: it_0152_005445 index:572
+
+%patient: it-0152-005445 index:572
 begin(model(572)).
 gender(f).
 race(white).
@@ -12846,10 +15087,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(572)).
-%patient: it_0152_005449 index:573
+
+%patient: it-0152-005449 index:573
 begin(model(573)).
 gender(m).
 race(white).
@@ -12861,9 +15103,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(573)).
-%patient: it_0152_005477 index:574
+
+%patient: it-0152-005477 index:574
 begin(model(574)).
 gender(f).
 race(white).
@@ -12875,10 +15119,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(574)).
-%patient: it_0152_005482 index:575
+
+%patient: it-0152-005482 index:575
 begin(model(575)).
 gender(f).
 race(white).
@@ -12890,9 +15135,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(575)).
-%patient: it_0152_005503 index:576
+
+%patient: it-0152-005503 index:576
 begin(model(576)).
 gender(f).
 race(white).
@@ -12904,9 +15151,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(576)).
-%patient: it_0152_005554 index:577
+
+%patient: it-0152-005554 index:577
 begin(model(577)).
 gender(f).
 race(white).
@@ -12918,9 +15168,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(577)).
-%patient: it_0153_004761 index:578
+
+%patient: it-0153-004761 index:578
 begin(model(578)).
 gender(f).
 race(white).
@@ -12939,9 +15192,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(578)).
-%patient: it_0153_004762 index:579
+
+%patient: it-0153-004762 index:579
 begin(model(579)).
 gender(f).
 race(white).
@@ -12960,9 +15215,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(579)).
-%patient: it_0153_004764 index:580
+
+%patient: it-0153-004764 index:580
 begin(model(580)).
 gender(f).
 race(white).
@@ -12981,10 +15239,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(580)).
-%patient: it_0153_004767 index:581
+
+%patient: it-0153-004767 index:581
 begin(model(581)).
 gender(f).
 race(white).
@@ -13001,10 +15260,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(581)).
-%patient: it_0153_004768 index:582
+
+%patient: it-0153-004768 index:582
 begin(model(582)).
 gender(f).
 race(white).
@@ -13021,10 +15281,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(582)).
-%patient: it_0153_004769 index:583
+
+%patient: it-0153-004769 index:583
 begin(model(583)).
 gender(f).
 race(white).
@@ -13043,10 +15304,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(583)).
-%patient: it_0153_004770 index:584
+
+%patient: it-0153-004770 index:584
 begin(model(584)).
 gender(f).
 race(white).
@@ -13065,10 +15327,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(584)).
-%patient: it_0153_004771 index:585
+
+%patient: it-0153-004771 index:585
 begin(model(585)).
 gender(f).
 race(white).
@@ -13087,9 +15350,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(585)).
-%patient: it_0153_004772 index:586
+
+%patient: it-0153-004772 index:586
 begin(model(586)).
 gender(f).
 race(white).
@@ -13108,9 +15374,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(586)).
-%patient: it_0153_004774 index:587
+
+%patient: it-0153-004774 index:587
 begin(model(587)).
 gender(f).
 race(white).
@@ -13129,9 +15397,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(587)).
-%patient: it_0153_004777 index:588
+
+%patient: it-0153-004777 index:588
 begin(model(588)).
 gender(m).
 race(white).
@@ -13150,9 +15421,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(588)).
-%patient: it_0153_004779 index:589
+
+%patient: it-0153-004779 index:589
 begin(model(589)).
 gender(f).
 race(white).
@@ -13171,9 +15444,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(589)).
-%patient: it_0153_004780 index:590
+
+%patient: it-0153-004780 index:590
 begin(model(590)).
 gender(m).
 race(white).
@@ -13192,10 +15467,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(590)).
-%patient: it_0153_004781 index:591
+
+%patient: it-0153-004781 index:591
 begin(model(591)).
 gender(f).
 race(white).
@@ -13214,10 +15490,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(591)).
-%patient: it_0153_004783 index:592
+
+%patient: it-0153-004783 index:592
 begin(model(592)).
 gender(f).
 race(white).
@@ -13236,9 +15513,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(592)).
-%patient: it_0153_004784 index:593
+
+%patient: it-0153-004784 index:593
 begin(model(593)).
 gender(f).
 race(white).
@@ -13257,9 +15536,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(593)).
-%patient: it_0154_004786 index:594
+
+%patient: it-0154-004786 index:594
 begin(model(594)).
 gender(f).
 race(white).
@@ -13276,9 +15557,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(594)).
-%patient: it_0154_004794 index:595
+
+%patient: it-0154-004794 index:595
 begin(model(595)).
 gender(f).
 race(white).
@@ -13297,9 +15580,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(595)).
-%patient: it_0154_004796 index:596
+
+%patient: it-0154-004796 index:596
 begin(model(596)).
 gender(f).
 race(white).
@@ -13318,9 +15603,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(596)).
-%patient: it_0154_004799 index:597
+
+%patient: it-0154-004799 index:597
 begin(model(597)).
 gender(m).
 race(white).
@@ -13339,9 +15626,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(597)).
-%patient: it_0154_004800 index:598
+
+%patient: it-0154-004800 index:598
 begin(model(598)).
 gender(f).
 race(white).
@@ -13358,10 +15648,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(598)).
-%patient: it_0154_004801 index:599
+
+%patient: it-0154-004801 index:599
 begin(model(599)).
 gender(f).
 race(white).
@@ -13378,9 +15669,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(599)).
-%patient: it_0154_004803 index:600
+
+%patient: it-0154-004803 index:600
 begin(model(600)).
 gender(m).
 race(white).
@@ -13397,9 +15690,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(600)).
-%patient: it_0154_004805 index:601
+
+%patient: it-0154-004805 index:601
 begin(model(601)).
 gender(f).
 race(white).
@@ -13416,9 +15711,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(601)).
-%patient: it_0154_004806 index:602
+
+%patient: it-0154-004806 index:602
 begin(model(602)).
 gender(f).
 race(white).
@@ -13437,9 +15735,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(602)).
-%patient: it_0154_004807 index:603
+
+%patient: it-0154-004807 index:603
 begin(model(603)).
 gender(f).
 race(white).
@@ -13456,10 +15756,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(603)).
-%patient: it_0154_004808 index:604
+
+%patient: it-0154-004808 index:604
 begin(model(604)).
 gender(f).
 race(white).
@@ -13478,9 +15779,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(604)).
-%patient: it_0154_004813 index:605
+
+%patient: it-0154-004813 index:605
 begin(model(605)).
 gender(f).
 race(white).
@@ -13499,9 +15802,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(605)).
-%patient: it_0154_004814 index:606
+
+%patient: it-0154-004814 index:606
 begin(model(606)).
 gender(f).
 race(white).
@@ -13520,10 +15826,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(606)).
-%patient: it_0154_004818 index:607
+
+%patient: it-0154-004818 index:607
 begin(model(607)).
 gender(m).
 race(white).
@@ -13540,9 +15847,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(607)).
-%patient: it_0154_004819 index:608
+
+%patient: it-0154-004819 index:608
 begin(model(608)).
 gender(m).
 race(white).
@@ -13562,10 +15871,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(608)).
-%patient: it_0108_006550 index:609
+
+%patient: it-0108-006550 index:609
 begin(model(609)).
 gender(f).
 race(white).
@@ -13577,9 +15888,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(609)).
-%patient: it_0108_006549 index:610
+
+%patient: it-0108-006549 index:610
 begin(model(610)).
 gender(f).
 race(white).
@@ -13591,10 +15906,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(610)).
-%patient: it_0108_006553 index:611
+
+%patient: it-0108-006553 index:611
 begin(model(611)).
 gender(m).
 race(white).
@@ -13606,9 +15924,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(611)).
-%patient: it_0003_003768 index:612
+
+%patient: it-0003-003768 index:612
 begin(model(612)).
 gender(f).
 race(white).
@@ -13627,9 +15949,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(612)).
-%patient: it_0003_003765 index:613
+
+%patient: it-0003-003765 index:613
 begin(model(613)).
 gender(m).
 race(white).
@@ -13648,9 +15973,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(613)).
-%patient: it_0062_004444 index:614
+
+%patient: it-0062-004444 index:614
 begin(model(614)).
 gender(f).
 race(white).
@@ -13662,10 +15990,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(614)).
-%patient: it_0108_006544 index:615
+
+%patient: it-0108-006544 index:615
 begin(model(615)).
 gender(m).
 race(white).
@@ -13679,8 +16011,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(615)).
-%patient: it_0129_004685 index:616
+
+%patient: it-0129-004685 index:616
 begin(model(616)).
 gender(f).
 race(white).
@@ -13693,9 +16030,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(616)).
-%patient: it_0062_004329 index:617
+
+%patient: it-0062-004329 index:617
 begin(model(617)).
 gender(m).
 race(white).
@@ -13708,9 +16049,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(617)).
-%patient: it_0062_004324 index:618
+
+%patient: it-0062-004324 index:618
 begin(model(618)).
 gender(f).
 race(white).
@@ -13723,9 +16070,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(618)).
-%patient: it_0062_004325 index:619
+
+%patient: it-0062-004325 index:619
 begin(model(619)).
 gender(f).
 race(white).
@@ -13738,10 +16090,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(619)).
-%patient: it_0062_004327 index:620
+
+%patient: it-0062-004327 index:620
 begin(model(620)).
 gender(f).
 race(white).
@@ -13754,9 +16110,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(620)).
-%patient: it_0062_004332 index:621
+
+%patient: it-0062-004332 index:621
 begin(model(621)).
 gender(f).
 race(white).
@@ -13769,9 +16130,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(621)).
-%patient: it_0062_004333 index:622
+
+%patient: it-0062-004333 index:622
 begin(model(622)).
 gender(f).
 race(white).
@@ -13784,10 +16150,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(622)).
-%patient: it_0062_004336 index:623
+
+%patient: it-0062-004336 index:623
 begin(model(623)).
 gender(f).
 race(white).
@@ -13800,9 +16171,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(623)).
-%patient: it_0062_004338 index:624
+
+%patient: it-0062-004338 index:624
 begin(model(624)).
 gender(f).
 race(white).
@@ -13815,10 +16191,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(624)).
-%patient: it_0062_004339 index:625
+
+%patient: it-0062-004339 index:625
 begin(model(625)).
 gender(f).
 race(white).
@@ -13831,9 +16211,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(625)).
-%patient: it_0062_004340 index:626
+
+%patient: it-0062-004340 index:626
 begin(model(626)).
 gender(f).
 race(white).
@@ -13846,9 +16231,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(626)).
-%patient: it_0062_004341 index:627
+
+%patient: it-0062-004341 index:627
 begin(model(627)).
 gender(f).
 race(white).
@@ -13861,10 +16251,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(627)).
-%patient: it_0062_004342 index:628
+
+%patient: it-0062-004342 index:628
 begin(model(628)).
 gender(f).
 race(white).
@@ -13877,9 +16272,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(628)).
-%patient: it_0062_004372 index:629
+
+%patient: it-0062-004372 index:629
 begin(model(629)).
 gender(m).
 race(white).
@@ -13892,10 +16292,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(629)).
-%patient: it_0062_004374 index:630
+
+%patient: it-0062-004374 index:630
 begin(model(630)).
 gender(f).
 race(white).
@@ -13908,9 +16312,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(630)).
-%patient: it_0062_004375 index:631
+
+%patient: it-0062-004375 index:631
 begin(model(631)).
 gender(f).
 race(white).
@@ -13923,9 +16332,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(631)).
-%patient: it_0062_004376 index:632
+
+%patient: it-0062-004376 index:632
 begin(model(632)).
 gender(m).
 race(white).
@@ -13938,10 +16352,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(632)).
-%patient: it_0062_004378 index:633
+
+%patient: it-0062-004378 index:633
 begin(model(633)).
 gender(f).
 race(white).
@@ -13954,9 +16373,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(633)).
-%patient: it_0062_004379 index:634
+
+%patient: it-0062-004379 index:634
 begin(model(634)).
 gender(m).
 race(white).
@@ -13969,9 +16393,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(634)).
-%patient: it_0062_004380 index:635
+
+%patient: it-0062-004380 index:635
 begin(model(635)).
 gender(f).
 race(white).
@@ -13984,10 +16414,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(635)).
-%patient: it_0062_004381 index:636
+
+%patient: it-0062-004381 index:636
 begin(model(636)).
 gender(m).
 race(white).
@@ -14000,9 +16435,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(636)).
-%patient: it_0062_004384 index:637
+
+%patient: it-0062-004384 index:637
 begin(model(637)).
 gender(f).
 race(white).
@@ -14015,9 +16456,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(637)).
-%patient: it_0062_004385 index:638
+
+%patient: it-0062-004385 index:638
 begin(model(638)).
 gender(f).
 race(white).
@@ -14030,9 +16476,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(638)).
-%patient: it_0062_004435 index:639
+
+%patient: it-0062-004435 index:639
 begin(model(639)).
 gender(m).
 race(white).
@@ -14045,9 +16496,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(639)).
-%patient: it_0062_004436 index:640
+
+%patient: it-0062-004436 index:640
 begin(model(640)).
 gender(f).
 race(white).
@@ -14060,10 +16516,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(640)).
-%patient: it_0062_004437 index:641
+
+%patient: it-0062-004437 index:641
 begin(model(641)).
 gender(f).
 race(white).
@@ -14076,9 +16537,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(641)).
-%patient: it_0062_004438 index:642
+
+%patient: it-0062-004438 index:642
 begin(model(642)).
 gender(m).
 race(white).
@@ -14091,9 +16557,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(642)).
-%patient: it_0062_004439 index:643
+
+%patient: it-0062-004439 index:643
 begin(model(643)).
 gender(f).
 race(white).
@@ -14106,9 +16578,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(643)).
-%patient: it_0062_004442 index:644
+
+%patient: it-0062-004442 index:644
 begin(model(644)).
 gender(m).
 race(white).
@@ -14121,10 +16598,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(644)).
-%patient: it_0062_004443 index:645
+
+%patient: it-0062-004443 index:645
 begin(model(645)).
 gender(m).
 race(white).
@@ -14137,9 +16619,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(645)).
-%patient: it_0062_004445 index:646
+
+%patient: it-0062-004445 index:646
 begin(model(646)).
 gender(f).
 race(white).
@@ -14152,9 +16639,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(646)).
-%patient: it_0062_004447 index:647
+
+%patient: it-0062-004447 index:647
 begin(model(647)).
 gender(f).
 race(white).
@@ -14167,10 +16659,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(647)).
-%patient: it_0062_004448 index:648
+
+%patient: it-0062-004448 index:648
 begin(model(648)).
 gender(f).
 race(white).
@@ -14183,10 +16679,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(648)).
-%patient: it_0062_004373 index:649
+
+%patient: it-0062-004373 index:649
 begin(model(649)).
 gender(f).
 race(white).
@@ -14199,9 +16699,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(649)).
-%patient: it_0152_005087 index:650
+
+%patient: it-0152-005087 index:650
 begin(model(650)).
 gender(f).
 race(white).
@@ -14221,9 +16726,10 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(650)).
-%patient: it_0152_004891 index:651
+
+%patient: it-0152-004891 index:651
 begin(model(651)).
 gender(f).
 race(white).
@@ -14247,8 +16753,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(651)).
-%patient: it_0152_005495 index:652
+
+%patient: it-0152-005495 index:652
 begin(model(652)).
 gender(f).
 race(white).
@@ -14266,9 +16774,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(652)).
-%patient: it_0138_004363 index:653
+
+%patient: it-0138-004363 index:653
 begin(model(653)).
 gender(f).
 race(white).
@@ -14283,8 +16793,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(653)).
-%patient: it_0143_006627 index:654
+
+%patient: it-0143-006627 index:654
 begin(model(654)).
 gender(f).
 mobcat(5).
@@ -14300,8 +16816,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(654)).
-%patient: it_0152_004920 index:655
+
+%patient: it-0152-004920 index:655
 begin(model(655)).
 gender(f).
 race(white).
@@ -14317,9 +16835,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(655)).
-%patient: it_0152_004985 index:656
+
+%patient: it-0152-004985 index:656
 begin(model(656)).
 gender(f).
 race(white).
@@ -14336,9 +16856,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(656)).
-%patient: it_0152_004986 index:657
+
+%patient: it-0152-004986 index:657
 begin(model(657)).
 gender(f).
 race(white).
@@ -14354,9 +16876,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(657)).
-%patient: it_0152_005025 index:658
+
+%patient: it-0152-005025 index:658
 begin(model(658)).
 gender(f).
 race(white).
@@ -14373,9 +16898,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(658)).
-%patient: it_0152_005063 index:659
+
+%patient: it-0152-005063 index:659
 begin(model(659)).
 gender(f).
 race(white).
@@ -14391,10 +16918,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(659)).
-%patient: it_0152_005067 index:660
+
+%patient: it-0152-005067 index:660
 begin(model(660)).
 gender(f).
 race(white).
@@ -14412,9 +16940,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(660)).
-%patient: it_0152_005073 index:661
+
+%patient: it-0152-005073 index:661
 begin(model(661)).
 gender(m).
 race(white).
@@ -14429,9 +16959,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(661)).
-%patient: it_0152_005147 index:662
+
+%patient: it-0152-005147 index:662
 begin(model(662)).
 gender(f).
 race(white).
@@ -14446,10 +16978,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(662)).
-%patient: it_0152_005152 index:663
+
+%patient: it-0152-005152 index:663
 begin(model(663)).
 gender(m).
 race(white).
@@ -14465,9 +16998,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(663)).
-%patient: it_0152_005153 index:664
+
+%patient: it-0152-005153 index:664
 begin(model(664)).
 gender(f).
 race(white).
@@ -14484,9 +17019,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(664)).
-%patient: it_0152_005163 index:665
+
+%patient: it-0152-005163 index:665
 begin(model(665)).
 gender(f).
 race(white).
@@ -14502,10 +17039,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(665)).
-%patient: it_0152_005170 index:666
+
+%patient: it-0152-005170 index:666
 begin(model(666)).
 gender(f).
 race(white).
@@ -14519,10 +17057,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(666)).
-%patient: it_0152_005173 index:667
+
+%patient: it-0152-005173 index:667
 begin(model(667)).
 gender(f).
 race(white).
@@ -14540,9 +17080,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(667)).
-%patient: it_0152_005174 index:668
+
+%patient: it-0152-005174 index:668
 begin(model(668)).
 gender(f).
 race(white).
@@ -14557,10 +17100,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(668)).
-%patient: it_0152_005379 index:669
+
+%patient: it-0152-005379 index:669
 begin(model(669)).
 gender(f).
 race(white).
@@ -14576,9 +17121,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(669)).
-%patient: it_0152_005456 index:670
+
+%patient: it-0152-005456 index:670
 begin(model(670)).
 gender(m).
 race(white).
@@ -14595,9 +17142,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(670)).
-%patient: it_0152_005457 index:671
+
+%patient: it-0152-005457 index:671
 begin(model(671)).
 gender(f).
 race(white).
@@ -14612,10 +17161,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(671)).
-%patient: it_0152_005460 index:672
+
+%patient: it-0152-005460 index:672
 begin(model(672)).
 gender(f).
 race(white).
@@ -14633,9 +17184,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(672)).
-%patient: it_0152_005476 index:673
+
+%patient: it-0152-005476 index:673
 begin(model(673)).
 gender(f).
 race(white).
@@ -14652,9 +17205,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(673)).
-%patient: it_0152_005487 index:674
+
+%patient: it-0152-005487 index:674
 begin(model(674)).
 gender(f).
 race(white).
@@ -14671,9 +17227,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(674)).
-%patient: it_0152_005502 index:675
+
+%patient: it-0152-005502 index:675
 begin(model(675)).
 gender(f).
 race(white).
@@ -14688,9 +17246,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(675)).
-%patient: it_0152_005535 index:676
+
+%patient: it-0152-005535 index:676
 begin(model(676)).
 gender(f).
 race(white).
@@ -14707,10 +17267,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(676)).
-%patient: it_0152_005537 index:677
+
+%patient: it-0152-005537 index:677
 begin(model(677)).
 gender(m).
 race(white).
@@ -14726,9 +17287,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(677)).
-%patient: it_0152_005541 index:678
+
+%patient: it-0152-005541 index:678
 begin(model(678)).
 gender(f).
 race(white).
@@ -14743,10 +17306,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(678)).
-%patient: it_0152_005542 index:679
+
+%patient: it-0152-005542 index:679
 begin(model(679)).
 gender(f).
 race(white).
@@ -14765,9 +17329,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(679)).
-%patient: it_0152_005547 index:680
+
+%patient: it-0152-005547 index:680
 begin(model(680)).
 gender(f).
 race(white).
@@ -14785,9 +17352,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(680)).
-%patient: it_0152_005548 index:681
+
+%patient: it-0152-005548 index:681
 begin(model(681)).
 gender(f).
 race(white).
@@ -14804,9 +17373,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(681)).
-%patient: it_0152_005555 index:682
+
+%patient: it-0152-005555 index:682
 begin(model(682)).
 gender(f).
 race(white).
@@ -14823,9 +17394,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(682)).
-%patient: it_0108_002698 index:683
+
+%patient: it-0108-002698 index:683
 begin(model(683)).
 gender(f).
 race(white).
@@ -14842,9 +17415,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(683)).
-%patient: it_0116_005159 index:684
+
+%patient: it-0116-005159 index:684
 begin(model(684)).
 gender(f).
 race(white).
@@ -14863,8 +17442,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(684)).
-%patient: it_0128_004697 index:685
+
+%patient: it-0128-004697 index:685
 begin(model(685)).
 gender(m).
 race(white).
@@ -14884,9 +17468,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(685)).
-%patient: it_0128_004698 index:686
+
+%patient: it-0128-004698 index:686
 begin(model(686)).
 gender(m).
 race(white).
@@ -14903,8 +17491,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(686)).
-%patient: it_0128_004699 index:687
+
+%patient: it-0128-004699 index:687
 begin(model(687)).
 gender(m).
 race(white).
@@ -14919,10 +17512,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(687)).
-%patient: it_0128_004700 index:688
+
+%patient: it-0128-004700 index:688
 begin(model(688)).
 gender(m).
 race(white).
@@ -14939,8 +17537,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(688)).
-%patient: it_0128_004701 index:689
+
+%patient: it-0128-004701 index:689
 begin(model(689)).
 gender(f).
 race(white).
@@ -14957,8 +17560,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(689)).
-%patient: it_0128_004702 index:690
+
+%patient: it-0128-004702 index:690
 begin(model(690)).
 gender(m).
 race(white).
@@ -14977,8 +17586,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(690)).
-%patient: it_0128_004703 index:691
+
+%patient: it-0128-004703 index:691
 begin(model(691)).
 gender(f).
 race(white).
@@ -14995,9 +17609,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(691)).
-%patient: it_0128_004705 index:692
+
+%patient: it-0128-004705 index:692
 begin(model(692)).
 gender(f).
 race(white).
@@ -15014,8 +17633,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(692)).
-%patient: it_0128_004707 index:693
+
+%patient: it-0128-004707 index:693
 begin(model(693)).
 gender(f).
 race(white).
@@ -15031,8 +17656,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(693)).
-%patient: it_0128_004711 index:694
+
+%patient: it-0128-004711 index:694
 begin(model(694)).
 gender(m).
 race(white).
@@ -15053,8 +17683,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(694)).
-%patient: it_0129_004687 index:695
+
+%patient: it-0129-004687 index:695
 begin(model(695)).
 gender(m).
 race(white).
@@ -15073,8 +17709,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(695)).
-%patient: it_0129_004688 index:696
+
+%patient: it-0129-004688 index:696
 begin(model(696)).
 gender(m).
 race(white).
@@ -15093,8 +17735,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(696)).
-%patient: it_0129_004690 index:697
+
+%patient: it-0129-004690 index:697
 begin(model(697)).
 gender(f).
 race(white).
@@ -15112,9 +17759,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(697)).
-%patient: it_0129_004693 index:698
+
+%patient: it-0129-004693 index:698
 begin(model(698)).
 gender(f).
 race(white).
@@ -15134,9 +17786,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(698)).
-%patient: it_0129_004694 index:699
+
+%patient: it-0129-004694 index:699
 begin(model(699)).
 gender(m).
 race(white).
@@ -15155,8 +17812,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(699)).
-%patient: it_0129_004695 index:700
+
+%patient: it-0129-004695 index:700
 begin(model(700)).
 gender(m).
 race(white).
@@ -15175,9 +17838,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(700)).
-%patient: it_0129_004696 index:701
+
+%patient: it-0129-004696 index:701
 begin(model(701)).
 gender(f).
 race(white).
@@ -15192,10 +17860,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(701)).
-%patient: it_0129_004760 index:702
+
+%patient: it-0129-004760 index:702
 begin(model(702)).
 gender(f).
 race(white).
@@ -15212,9 +17884,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(702)).
-%patient: it_0165_005561 index:703
+
+%patient: it-0165-005561 index:703
 begin(model(703)).
 gender(f).
 race(white).
@@ -15231,8 +17907,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(703)).
-%patient: it_0165_005563 index:704
+
+%patient: it-0165-005563 index:704
 begin(model(704)).
 gender(f).
 race(white).
@@ -15251,8 +17932,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(704)).
-%patient: it_0165_005567 index:705
+
+%patient: it-0165-005567 index:705
 begin(model(705)).
 gender(f).
 race(white).
@@ -15271,8 +17958,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(705)).
-%patient: it_0165_005568 index:706
+
+%patient: it-0165-005568 index:706
 begin(model(706)).
 gender(m).
 race(white).
@@ -15291,8 +17983,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(706)).
-%patient: it_0165_005569 index:707
+
+%patient: it-0165-005569 index:707
 begin(model(707)).
 gender(f).
 race(white).
@@ -15308,8 +18006,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(707)).
-%patient: it_0129_004691 index:708
+
+%patient: it-0129-004691 index:708
 begin(model(708)).
 gender(f).
 race(white).
@@ -15328,8 +18031,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(708)).
-%patient: it_0129_004692 index:709
+
+%patient: it-0129-004692 index:709
 begin(model(709)).
 gender(f).
 race(white).
@@ -15349,9 +18058,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(709)).
-%patient: it_0165_005566 index:710
+
+%patient: it-0165-005566 index:710
 begin(model(710)).
 gender(f).
 race(white).
@@ -15369,9 +18082,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(710)).
-%patient: it_0128_004708 index:711
+
+%patient: it-0128-004708 index:711
 begin(model(711)).
 gender(f).
 race(white).
@@ -15390,9 +18108,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(711)).
-%patient: it_0165_005562 index:712
+
+%patient: it-0165-005562 index:712
 begin(model(712)).
 gender(f).
 race(white).
@@ -15410,10 +18134,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(712)).
-%patient: it_0110_006357 index:713
+
+%patient: it-0110-006357 index:713
 begin(model(713)).
 gender(f).
 race(white).
@@ -15428,8 +18156,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(713)).
-%patient: it_0062_004318 index:714
+
+%patient: it-0062-004318 index:714
 begin(model(714)).
 gender(m).
 race(white).
@@ -15446,10 +18179,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(714)).
-%patient: it_0150_006030 index:715
+
+%patient: it-0150-006030 index:715
 begin(model(715)).
 gender(m).
 mobcat(3).
@@ -15467,8 +18204,13 @@ covid12m.
 who_f1(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(715)).
-%patient: it_0111_005875 index:716
+
+%patient: it-0111-005875 index:716
 begin(model(716)).
 gender(m).
 race(white).
@@ -15487,8 +18229,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(716)).
-%patient: it_0148_005995 index:717
+
+%patient: it-0148-005995 index:717
 begin(model(717)).
 gender(m).
 mobcat(0).
@@ -15507,9 +18255,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(717)).
-%patient: it_0143_003922 index:718
+
+%patient: it-0143-003922 index:718
 begin(model(718)).
 gender(f).
 race(white).
@@ -15531,9 +18283,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(718)).
-%patient: it_0141_005508 index:719
+
+%patient: it-0141-005508 index:719
 begin(model(719)).
 gender(f).
 race(white).
@@ -15552,9 +18306,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(719)).
-%patient: it_0138_004463 index:720
+
+%patient: it-0138-004463 index:720
 begin(model(720)).
 gender(f).
 race(white).
@@ -15574,8 +18332,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(720)).
-%patient: it_0169_006602 index:721
+
+%patient: it-0169-006602 index:721
 begin(model(721)).
 gender(f).
 race(white).
@@ -15593,8 +18357,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(721)).
-%patient: it_0158_006081 index:722
+
+%patient: it-0158-006081 index:722
 begin(model(722)).
 gender(m).
 race(white).
@@ -15618,8 +18388,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(722)).
-%patient: it_0050_004129 index:723
+
+%patient: it-0050-004129 index:723
 begin(model(723)).
 gender(f).
 race(white).
@@ -15644,8 +18418,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(723)).
-%patient: it_0062_000446 index:724
+
+%patient: it-0062-000446 index:724
 begin(model(724)).
 gender(m).
 race(white).
@@ -15664,8 +18443,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(724)).
-%patient: it_0151_005814 index:725
+
+%patient: it-0151-005814 index:725
 begin(model(725)).
 gender(m).
 mobcat(0).
@@ -15681,8 +18465,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(725)).
-%patient: it_0043_005607 index:726
+
+%patient: it-0043-005607 index:726
 begin(model(726)).
 gender(m).
 race(white).
@@ -15714,8 +18503,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(726)).
-%patient: it_0148_005583 index:727
+
+%patient: it-0148-005583 index:727
 begin(model(727)).
 gender(m).
 mobcat(3).
@@ -15737,8 +18531,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(727)).
-%patient: it_0158_006067 index:728
+
+%patient: it-0158-006067 index:728
 begin(model(728)).
 gender(f).
 race(white).
@@ -15759,8 +18558,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(728)).
-%patient: it_0043_005212 index:729
+
+%patient: it-0043-005212 index:729
 begin(model(729)).
 gender(f).
 race(white).
@@ -15790,8 +18592,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(729)).
-%patient: it_0052_005301 index:730
+
+%patient: it-0052-005301 index:730
 begin(model(730)).
 gender(f).
 race(white).
@@ -15816,8 +18623,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(730)).
-%patient: it_0141_006170 index:731
+
+%patient: it-0141-006170 index:731
 begin(model(731)).
 gender(f).
 race(white).
@@ -15835,8 +18648,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(731)).
-%patient: it_0043_005746 index:732
+
+%patient: it-0043-005746 index:732
 begin(model(732)).
 gender(m).
 race(white).
@@ -15866,8 +18684,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(732)).
-%patient: it_0143_003907 index:733
+
+%patient: it-0143-003907 index:733
 begin(model(733)).
 gender(f).
 race(white).
@@ -15886,8 +18710,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(733)).
-%patient: it_0158_005948 index:734
+
+%patient: it-0158-005948 index:734
 begin(model(734)).
 gender(f).
 race(white).
@@ -15909,8 +18736,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(734)).
-%patient: it_0143_004838 index:735
+
+%patient: it-0143-004838 index:735
 begin(model(735)).
 gender(f).
 mobcat(3).
@@ -15929,8 +18758,10 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(735)).
-%patient: it_0020_003774 index:736
+
+%patient: it-0020-003774 index:736
 begin(model(736)).
 gender(f).
 race(white).
@@ -15954,9 +18785,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(736)).
-%patient: it_0039_003654 index:737
+
+%patient: it-0039-003654 index:737
 begin(model(737)).
 gender(f).
 race(white).
@@ -15981,9 +18816,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(737)).
-%patient: it_0019_003807 index:738
+
+%patient: it-0019-003807 index:738
 begin(model(738)).
 gender(f).
 race(white).
@@ -16002,8 +18841,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(738)).
-%patient: it_0138_004482 index:739
+
+%patient: it-0138-004482 index:739
 begin(model(739)).
 gender(f).
 race(white).
@@ -16021,8 +18865,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(739)).
-%patient: it_0149_004322 index:740
+
+%patient: it-0149-004322 index:740
 begin(model(740)).
 gender(f).
 mobcat(3).
@@ -16040,8 +18890,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(740)).
-%patient: it_0149_004357 index:741
+
+%patient: it-0149-004357 index:741
 begin(model(741)).
 gender(f).
 mobcat(3).
@@ -16064,9 +18920,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(741)).
-%patient: it_0126_005123 index:742
+
+%patient: it-0126-005123 index:742
 begin(model(742)).
 gender(f).
 race(white).
@@ -16090,8 +18950,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(742)).
-%patient: it_0125_003978 index:743
+
+%patient: it-0125-003978 index:743
 begin(model(743)).
 gender(f).
 race(white).
@@ -16117,8 +18982,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(743)).
-%patient: it_0143_005315 index:744
+
+%patient: it-0143-005315 index:744
 begin(model(744)).
 gender(m).
 mobcat(4).
@@ -16142,8 +19013,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(744)).
-%patient: it_0152_005464 index:745
+
+%patient: it-0152-005464 index:745
 begin(model(745)).
 gender(f).
 race(white).
@@ -16168,9 +19041,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(745)).
-%patient: it_0152_005465 index:746
+
+%patient: it-0152-005465 index:746
 begin(model(746)).
 gender(m).
 race(white).
@@ -16194,8 +19068,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(746)).
-%patient: it_0152_004893 index:747
+
+%patient: it-0152-004893 index:747
 begin(model(747)).
 gender(f).
 race(white).
@@ -16221,8 +19097,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(747)).
-%patient: it_0152_004894 index:748
+
+%patient: it-0152-004894 index:748
 begin(model(748)).
 gender(m).
 race(white).
@@ -16245,8 +19124,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,1).
 end(model(748)).
-%patient: it_0152_004895 index:749
+
+%patient: it-0152-004895 index:749
 begin(model(749)).
 gender(f).
 race(white).
@@ -16268,8 +19149,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(749)).
-%patient: it_0152_004897 index:750
+
+%patient: it-0152-004897 index:750
 begin(model(750)).
 gender(m).
 race(other or unknown).
@@ -16296,8 +19180,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(750)).
-%patient: it_0152_005483 index:751
+
+%patient: it-0152-005483 index:751
 begin(model(751)).
 gender(m).
 race(white).
@@ -16314,8 +19200,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(751)).
-%patient: it_0152_005544 index:752
+
+%patient: it-0152-005544 index:752
 begin(model(752)).
 gender(f).
 race(white).
@@ -16335,8 +19223,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(752)).
-%patient: it_0152_005553 index:753
+
+%patient: it-0152-005553 index:753
 begin(model(753)).
 gender(f).
 race(white).
@@ -16354,8 +19244,11 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(753)).
-%patient: it_0152_005062 index:754
+
+%patient: it-0152-005062 index:754
 begin(model(754)).
 gender(m).
 race(white).
@@ -16374,8 +19267,10 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(754)).
-%patient: it_0152_005065 index:755
+
+%patient: it-0152-005065 index:755
 begin(model(755)).
 gender(m).
 race(white).
@@ -16397,9 +19292,11 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(755)).
-%patient: it_0152_005070 index:756
+
+%patient: it-0152-005070 index:756
 begin(model(756)).
 gender(f).
 race(white).
@@ -16415,9 +19312,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(756)).
-%patient: it_0152_005079 index:757
+
+%patient: it-0152-005079 index:757
 begin(model(757)).
 gender(m).
 race(white).
@@ -16434,9 +19332,10 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(757)).
-%patient: it_0152_005080 index:758
+
+%patient: it-0152-005080 index:758
 begin(model(758)).
 gender(f).
 race(white).
@@ -16454,8 +19353,11 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(758)).
-%patient: it_0152_005164 index:759
+
+%patient: it-0152-005164 index:759
 begin(model(759)).
 gender(f).
 race(white).
@@ -16473,8 +19375,11 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(759)).
-%patient: it_0143_006147 index:760
+
+%patient: it-0143-006147 index:760
 begin(model(760)).
 gender(f).
 mobcat(1).
@@ -16492,9 +19397,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(760)).
-%patient: it_0143_004272 index:761
+
+%patient: it-0143-004272 index:761
 begin(model(761)).
 gender(f).
 race(white).
@@ -16519,8 +19426,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(761)).
-%patient: it_0016_006013 index:762
+
+%patient: it-0016-006013 index:762
 begin(model(762)).
 gender(f).
 race(white).
@@ -16544,9 +19453,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(762)).
-%patient: it_0148_005585 index:763
+
+%patient: it-0148-005585 index:763
 begin(model(763)).
 gender(m).
 mobcat(0).
@@ -16567,9 +19482,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(763)).
-%patient: it_0148_005824 index:764
+
+%patient: it-0148-005824 index:764
 begin(model(764)).
 gender(f).
 mobcat(3).
@@ -16587,8 +19506,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(764)).
-%patient: it_0143_003908 index:765
+
+%patient: it-0143-003908 index:765
 begin(model(765)).
 gender(f).
 race(white).
@@ -16618,8 +19542,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(765)).
-%patient: it_0143_003913 index:766
+
+%patient: it-0143-003913 index:766
 begin(model(766)).
 gender(m).
 race(white).
@@ -16647,8 +19576,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(766)).
-%patient: it_0143_003914 index:767
+
+%patient: it-0143-003914 index:767
 begin(model(767)).
 gender(m).
 race(white).
@@ -16675,8 +19608,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(767)).
-%patient: it_0143_003916 index:768
+
+%patient: it-0143-003916 index:768
 begin(model(768)).
 gender(f).
 race(white).
@@ -16705,10 +19643,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(768)).
-%patient: it_0143_003921 index:769
+
+%patient: it-0143-003921 index:769
 begin(model(769)).
 gender(f).
 race(white).
@@ -16735,9 +19675,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(769)).
-%patient: it_0143_006152 index:770
+
+%patient: it-0143-006152 index:770
 begin(model(770)).
 gender(f).
 race(white).
@@ -16756,9 +19699,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(770)).
-%patient: it_0143_006288 index:771
+
+%patient: it-0143-006288 index:771
 begin(model(771)).
 gender(f).
 race(white).
@@ -16782,9 +19726,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(771)).
-%patient: it_0143_003910 index:772
+
+%patient: it-0143-003910 index:772
 begin(model(772)).
 gender(m).
 race(white).
@@ -16814,8 +19760,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(1).
 end(model(772)).
-%patient: it_0143_003911 index:773
+
+%patient: it-0143-003911 index:773
 begin(model(773)).
 gender(f).
 race(white).
@@ -16845,8 +19795,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(773)).
-%patient: it_0130_004424 index:774
+
+%patient: it-0130-004424 index:774
 begin(model(774)).
 gender(m).
 mobcat(2).
@@ -16864,10 +19819,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(774)).
-%patient: it_0152_005157 index:775
+
+%patient: it-0152-005157 index:775
 begin(model(775)).
 gender(f).
 race(white).
@@ -16882,9 +19841,10 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(775)).
-%patient: it_0166_005351 index:776
+
+%patient: it-0166-005351 index:776
 begin(model(776)).
 gender(f).
 race(black).
@@ -16912,10 +19872,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(776)).
-%patient: it_0042_003695 index:777
+
+%patient: it-0042-003695 index:777
 begin(model(777)).
 gender(f).
 race(white).
@@ -16946,10 +19910,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
 end(model(777)).
-%patient: it_0141_005396 index:778
+
+%patient: it-0141-005396 index:778
 begin(model(778)).
 gender(f).
 race(white).
@@ -16967,9 +19933,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(778)).
-%patient: it_0103_005963 index:779
+
+%patient: it-0103-005963 index:779
 begin(model(779)).
 gender(f).
 race(white).
@@ -16986,10 +19957,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(779)).
-%patient: it_0103_006121 index:780
+
+%patient: it-0103-006121 index:780
 begin(model(780)).
 gender(m).
 race(white).
@@ -17010,9 +19986,14 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(780)).
-%patient: it_0106_006733 index:781
+
+%patient: it-0106-006733 index:781
 begin(model(781)).
 gender(f).
 race(white).
@@ -17028,10 +20009,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(781)).
-%patient: it_0166_006238 index:782
+
+%patient: it-0166-006238 index:782
 begin(model(782)).
 gender(f).
 race(white).
@@ -17048,9 +20033,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(782)).
-%patient: it_0103_005961 index:783
+
+%patient: it-0103-005961 index:783
 begin(model(783)).
 gender(f).
 race(white).
@@ -17069,9 +20059,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(783)).
-%patient: it_0103_005973 index:784
+
+%patient: it-0103-005973 index:784
 begin(model(784)).
 gender(f).
 race(white).
@@ -17093,9 +20088,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(784)).
-%patient: it_0103_005974 index:785
+
+%patient: it-0103-005974 index:785
 begin(model(785)).
 gender(f).
 race(white).
@@ -17114,9 +20114,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(785)).
-%patient: it_0103_005977 index:786
+
+%patient: it-0103-005977 index:786
 begin(model(786)).
 gender(f).
 race(white).
@@ -17135,10 +20140,15 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(786)).
-%patient: it_0103_005982 index:787
+
+%patient: it-0103-005982 index:787
 begin(model(787)).
 gender(m).
 race(white).
@@ -17160,9 +20170,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(787)).
-%patient: it_0103_006023 index:788
+
+%patient: it-0103-006023 index:788
 begin(model(788)).
 gender(m).
 mobcat(0).
@@ -17181,9 +20197,14 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(788)).
-%patient: it_0103_006024 index:789
+
+%patient: it-0103-006024 index:789
 begin(model(789)).
 gender(f).
 race(white).
@@ -17204,10 +20225,15 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(789)).
-%patient: it_0103_006116 index:790
+
+%patient: it-0103-006116 index:790
 begin(model(790)).
 gender(f).
 race(white).
@@ -17224,9 +20250,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(790)).
-%patient: it_0103_006118 index:791
+
+%patient: it-0103-006118 index:791
 begin(model(791)).
 gender(f).
 race(white).
@@ -17244,9 +20275,14 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(791)).
-%patient: it_0103_006119 index:792
+
+%patient: it-0103-006119 index:792
 begin(model(792)).
 gender(m).
 race(white).
@@ -17265,10 +20301,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(792)).
-%patient: it_0103_006120 index:793
+
+%patient: it-0103-006120 index:793
 begin(model(793)).
 gender(f).
 race(white).
@@ -17290,9 +20331,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(793)).
-%patient: it_0103_006126 index:794
+
+%patient: it-0103-006126 index:794
 begin(model(794)).
 gender(f).
 race(white).
@@ -17311,9 +20357,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(794)).
-%patient: it_0103_006898 index:795
+
+%patient: it-0103-006898 index:795
 begin(model(795)).
 gender(m).
 race(white).
@@ -17336,9 +20387,15 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(795)).
-%patient: it_0043_003697 index:796
+
+%patient: it-0043-003697 index:796
 begin(model(796)).
 gender(f).
 race(white).
@@ -17359,8 +20416,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(796)).
-%patient: it_0126_005556 index:797
+
+%patient: it-0126-005556 index:797
 begin(model(797)).
 gender(f).
 race(white).
@@ -17386,8 +20448,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(797)).
-%patient: it_0125_006029 index:798
+
+%patient: it-0125-006029 index:798
 begin(model(798)).
 gender(m).
 race(white).
@@ -17412,9 +20479,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(798)).
-%patient: it_0152_004989 index:799
+
+%patient: it-0152-004989 index:799
 begin(model(799)).
 gender(f).
 race(white).
@@ -17430,9 +20502,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(799)).
-%patient: it_0152_005149 index:800
+
+%patient: it-0152-005149 index:800
 begin(model(800)).
 gender(m).
 race(white).
@@ -17452,9 +20527,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(800)).
-%patient: it_0152_005494 index:801
+
+%patient: it-0152-005494 index:801
 begin(model(801)).
 gender(f).
 race(white).
@@ -17473,9 +20550,11 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
 end(model(801)).
-%patient: it_0044_003672 index:802
+
+%patient: it-0044-003672 index:802
 begin(model(802)).
 gender(m).
 race(white).
@@ -17504,9 +20583,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(802)).
-%patient: it_0125_006273 index:803
+
+%patient: it-0125-006273 index:803
 begin(model(803)).
 gender(m).
 race(white).
@@ -17525,9 +20608,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(803)).
-%patient: it_0125_006427 index:804
+
+%patient: it-0125-006427 index:804
 begin(model(804)).
 gender(f).
 race(white).
@@ -17550,10 +20638,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(804)).
-%patient: it_0125_006429 index:805
+
+%patient: it-0125-006429 index:805
 begin(model(805)).
 gender(f).
 race(white).
@@ -17576,9 +20669,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(805)).
-%patient: it_0126_005591 index:806
+
+%patient: it-0126-005591 index:806
 begin(model(806)).
 gender(f).
 race(white).
@@ -17604,8 +20702,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(806)).
-%patient: it_0141_005398 index:807
+
+%patient: it-0141-005398 index:807
 begin(model(807)).
 gender(f).
 race(white).
@@ -17624,10 +20727,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(807)).
-%patient: it_0141_005400 index:808
+
+%patient: it-0141-005400 index:808
 begin(model(808)).
 gender(f).
 race(white).
@@ -17647,9 +20754,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(808)).
-%patient: it_0141_005819 index:809
+
+%patient: it-0141-005819 index:809
 begin(model(809)).
 gender(f).
 race(white).
@@ -17668,9 +20780,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(809)).
-%patient: it_0141_005898 index:810
+
+%patient: it-0141-005898 index:810
 begin(model(810)).
 gender(f).
 race(white).
@@ -17688,9 +20806,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(810)).
-%patient: it_0141_005902 index:811
+
+%patient: it-0141-005902 index:811
 begin(model(811)).
 gender(f).
 race(white).
@@ -17713,9 +20836,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(811)).
-%patient: it_0141_005999 index:812
+
+%patient: it-0141-005999 index:812
 begin(model(812)).
 gender(f).
 race(white).
@@ -17737,10 +20865,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(812)).
-%patient: it_0141_006000 index:813
+
+%patient: it-0141-006000 index:813
 begin(model(813)).
 gender(f).
 race(white).
@@ -17761,9 +20893,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(813)).
-%patient: it_0141_006003 index:814
+
+%patient: it-0141-006003 index:814
 begin(model(814)).
 gender(f).
 race(white).
@@ -17779,9 +20916,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(814)).
-%patient: it_0141_006166 index:815
+
+%patient: it-0141-006166 index:815
 begin(model(815)).
 gender(f).
 race(white).
@@ -17803,9 +20945,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(815)).
-%patient: it_0141_006167 index:816
+
+%patient: it-0141-006167 index:816
 begin(model(816)).
 gender(f).
 race(white).
@@ -17827,9 +20974,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(816)).
-%patient: it_0141_006168 index:817
+
+%patient: it-0141-006168 index:817
 begin(model(817)).
 gender(f).
 race(white).
@@ -17848,10 +21000,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(817)).
-%patient: it_0141_006171 index:818
+
+%patient: it-0141-006171 index:818
 begin(model(818)).
 gender(f).
 race(white).
@@ -17871,9 +21028,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(818)).
-%patient: it_0141_006173 index:819
+
+%patient: it-0141-006173 index:819
 begin(model(819)).
 gender(f).
 race(white).
@@ -17894,10 +21056,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(819)).
-%patient: it_0141_006555 index:820
+
+%patient: it-0141-006555 index:820
 begin(model(820)).
 gender(f).
 race(white).
@@ -17917,9 +21083,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(820)).
-%patient: it_0044_003665 index:821
+
+%patient: it-0044-003665 index:821
 begin(model(821)).
 gender(f).
 race(white).
@@ -17947,9 +21118,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(821)).
-%patient: it_0044_003666 index:822
+
+%patient: it-0044-003666 index:822
 begin(model(822)).
 gender(m).
 race(white).
@@ -17979,9 +21154,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(822)).
-%patient: it_0044_003673 index:823
+
+%patient: it-0044-003673 index:823
 begin(model(823)).
 gender(f).
 race(white).
@@ -18010,8 +21189,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(823)).
-%patient: it_0050_004239 index:824
+
+%patient: it-0050-004239 index:824
 begin(model(824)).
 gender(m).
 race(white).
@@ -18030,8 +21214,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(824)).
-%patient: it_0050_004241 index:825
+
+%patient: it-0050-004241 index:825
 begin(model(825)).
 gender(m).
 race(white).
@@ -18047,8 +21236,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(825)).
-%patient: it_0050_004242 index:826
+
+%patient: it-0050-004242 index:826
 begin(model(826)).
 gender(m).
 race(white).
@@ -18066,8 +21260,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(826)).
-%patient: it_0050_004246 index:827
+
+%patient: it-0050-004246 index:827
 begin(model(827)).
 gender(m).
 race(white).
@@ -18084,9 +21283,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(827)).
-%patient: it_0053_004249 index:828
+
+%patient: it-0053-004249 index:828
 begin(model(828)).
 gender(m).
 race(white).
@@ -18105,8 +21309,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(828)).
-%patient: it_0103_005980 index:829
+
+%patient: it-0103-005980 index:829
 begin(model(829)).
 gender(f).
 race(white).
@@ -18124,10 +21333,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(829)).
-%patient: it_0103_005986 index:830
+
+%patient: it-0103-005986 index:830
 begin(model(830)).
 gender(m).
 race(white).
@@ -18147,10 +21361,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(830)).
-%patient: it_0103_005987 index:831
+
+%patient: it-0103-005987 index:831
 begin(model(831)).
 gender(f).
 race(white).
@@ -18170,10 +21389,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(831)).
-%patient: it_0103_005988 index:832
+
+%patient: it-0103-005988 index:832
 begin(model(832)).
 gender(f).
 race(white).
@@ -18190,9 +21413,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(832)).
-%patient: it_0103_005990 index:833
+
+%patient: it-0103-005990 index:833
 begin(model(833)).
 gender(f).
 race(white).
@@ -18210,9 +21439,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(833)).
-%patient: it_0103_005994 index:834
+
+%patient: it-0103-005994 index:834
 begin(model(834)).
 gender(m).
 race(white).
@@ -18232,9 +21466,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(834)).
-%patient: it_0103_005997 index:835
+
+%patient: it-0103-005997 index:835
 begin(model(835)).
 gender(m).
 race(white).
@@ -18255,8 +21494,14 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(835)).
-%patient: it_0103_005998 index:836
+
+%patient: it-0103-005998 index:836
 begin(model(836)).
 gender(f).
 race(white).
@@ -18279,10 +21524,15 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(836)).
-%patient: it_0103_006021 index:837
+
+%patient: it-0103-006021 index:837
 begin(model(837)).
 gender(f).
 race(white).
@@ -18302,9 +21552,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(837)).
-%patient: it_0103_006022 index:838
+
+%patient: it-0103-006022 index:838
 begin(model(838)).
 gender(m).
 race(white).
@@ -18323,9 +21578,14 @@ who_f2(9).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(838)).
-%patient: it_0125_005953 index:839
+
+%patient: it-0125-005953 index:839
 begin(model(839)).
 gender(f).
 race(white).
@@ -18347,10 +21607,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(839)).
-%patient: it_0125_005955 index:840
+
+%patient: it-0125-005955 index:840
 begin(model(840)).
 gender(f).
 race(white).
@@ -18367,9 +21632,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(840)).
-%patient: it_0125_005956 index:841
+
+%patient: it-0125-005956 index:841
 begin(model(841)).
 gender(f).
 race(white).
@@ -18393,9 +21663,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(841)).
-%patient: it_0125_006127 index:842
+
+%patient: it-0125-006127 index:842
 begin(model(842)).
 gender(m).
 race(white).
@@ -18419,10 +21694,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(842)).
-%patient: it_0125_006378 index:843
+
+%patient: it-0125-006378 index:843
 begin(model(843)).
 gender(f).
 race(white).
@@ -18449,10 +21728,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(843)).
-%patient: it_0127_003623 index:844
+
+%patient: it-0127-003623 index:844
 begin(model(844)).
 gender(f).
 race(white).
@@ -18473,9 +21756,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(844)).
-%patient: it_0127_003738 index:845
+
+%patient: it-0127-003738 index:845
 begin(model(845)).
 gender(f).
 race(white).
@@ -18494,8 +21783,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(845)).
-%patient: it_0127_003827 index:846
+
+%patient: it-0127-003827 index:846
 begin(model(846)).
 gender(f).
 race(white).
@@ -18516,9 +21811,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(846)).
-%patient: it_0127_006705 index:847
+
+%patient: it-0127-006705 index:847
 begin(model(847)).
 gender(f).
 race(white).
@@ -18537,10 +21838,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(847)).
-%patient: it_0127_006706 index:848
+
+%patient: it-0127-006706 index:848
 begin(model(848)).
 gender(f).
 race(white).
@@ -18559,9 +21864,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(848)).
-%patient: it_0127_006707 index:849
+
+%patient: it-0127-006707 index:849
 begin(model(849)).
 gender(m).
 race(white).
@@ -18580,10 +21891,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(849)).
-%patient: it_0127_006709 index:850
+
+%patient: it-0127-006709 index:850
 begin(model(850)).
 gender(f).
 race(white).
@@ -18602,9 +21917,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(850)).
-%patient: it_0127_006710 index:851
+
+%patient: it-0127-006710 index:851
 begin(model(851)).
 gender(m).
 race(white).
@@ -18624,9 +21944,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(851)).
-%patient: it_0127_006711 index:852
+
+%patient: it-0127-006711 index:852
 begin(model(852)).
 gender(f).
 race(white).
@@ -18643,9 +21968,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(852)).
-%patient: it_0127_006712 index:853
+
+%patient: it-0127-006712 index:853
 begin(model(853)).
 gender(f).
 race(white).
@@ -18664,9 +21994,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(853)).
-%patient: it_0127_006715 index:854
+
+%patient: it-0127-006715 index:854
 begin(model(854)).
 gender(f).
 race(white).
@@ -18684,9 +22020,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(854)).
-%patient: it_0127_006716 index:855
+
+%patient: it-0127-006716 index:855
 begin(model(855)).
 gender(m).
 race(white).
@@ -18706,10 +22048,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(855)).
-%patient: it_0127_006717 index:856
+
+%patient: it-0127-006717 index:856
 begin(model(856)).
 gender(f).
 race(white).
@@ -18725,9 +22071,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(856)).
-%patient: it_0127_006718 index:857
+
+%patient: it-0127-006718 index:857
 begin(model(857)).
 gender(f).
 race(white).
@@ -18745,10 +22097,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(857)).
-%patient: it_0127_006719 index:858
+
+%patient: it-0127-006719 index:858
 begin(model(858)).
 gender(f).
 race(white).
@@ -18765,10 +22122,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(858)).
-%patient: it_0127_006723 index:859
+
+%patient: it-0127-006723 index:859
 begin(model(859)).
 gender(f).
 race(black).
@@ -18787,10 +22148,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(859)).
-%patient: it_0127_006725 index:860
+
+%patient: it-0127-006725 index:860
 begin(model(860)).
 gender(f).
 race(white).
@@ -18807,9 +22173,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(860)).
-%patient: it_0127_006840 index:861
+
+%patient: it-0127-006840 index:861
 begin(model(861)).
 gender(f).
 race(white).
@@ -18825,9 +22197,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(861)).
-%patient: it_0127_006841 index:862
+
+%patient: it-0127-006841 index:862
 begin(model(862)).
 gender(m).
 race(white).
@@ -18844,10 +22221,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(862)).
-%patient: it_0127_006843 index:863
+
+%patient: it-0127-006843 index:863
 begin(model(863)).
 gender(m).
 race(white).
@@ -18867,9 +22248,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(863)).
-%patient: it_0127_006844 index:864
+
+%patient: it-0127-006844 index:864
 begin(model(864)).
 gender(f).
 race(white).
@@ -18885,10 +22271,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(864)).
-%patient: it_0127_006845 index:865
+
+%patient: it-0127-006845 index:865
 begin(model(865)).
 gender(m).
 race(white).
@@ -18907,10 +22297,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(865)).
-%patient: it_0127_006846 index:866
+
+%patient: it-0127-006846 index:866
 begin(model(866)).
 gender(f).
 race(black).
@@ -18927,9 +22321,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(866)).
-%patient: it_0127_006849 index:867
+
+%patient: it-0127-006849 index:867
 begin(model(867)).
 gender(f).
 race(white).
@@ -18946,9 +22346,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(867)).
-%patient: it_0127_006851 index:868
+
+%patient: it-0127-006851 index:868
 begin(model(868)).
 gender(f).
 race(white).
@@ -18968,10 +22373,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(868)).
-%patient: it_0127_006852 index:869
+
+%patient: it-0127-006852 index:869
 begin(model(869)).
 gender(f).
 race(white).
@@ -18987,9 +22396,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(869)).
-%patient: it_0127_006853 index:870
+
+%patient: it-0127-006853 index:870
 begin(model(870)).
 gender(f).
 race(white).
@@ -19009,10 +22424,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(870)).
-%patient: it_0130_004802 index:871
+
+%patient: it-0130-004802 index:871
 begin(model(871)).
 gender(f).
 mobcat(4).
@@ -19030,8 +22449,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(871)).
-%patient: it_0130_005353 index:872
+
+%patient: it-0130-005353 index:872
 begin(model(872)).
 gender(m).
 mobcat(0).
@@ -19053,9 +22476,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(872)).
-%patient: it_0130_005358 index:873
+
+%patient: it-0130-005358 index:873
 begin(model(873)).
 gender(f).
 mobcat(5).
@@ -19076,8 +22502,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(873)).
-%patient: it_0130_005360 index:874
+
+%patient: it-0130-005360 index:874
 begin(model(874)).
 gender(f).
 mobcat(0).
@@ -19100,8 +22530,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(874)).
-%patient: it_0133_005924 index:875
+
+%patient: it-0133-005924 index:875
 begin(model(875)).
 gender(f).
 race(white).
@@ -19123,8 +22557,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(875)).
-%patient: it_0133_006289 index:876
+
+%patient: it-0133-006289 index:876
 begin(model(876)).
 gender(f).
 race(white).
@@ -19140,9 +22579,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(876)).
-%patient: it_0133_006305 index:877
+
+%patient: it-0133-006305 index:877
 begin(model(877)).
 gender(f).
 race(white).
@@ -19160,9 +22604,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(877)).
-%patient: it_0138_004466 index:878
+
+%patient: it-0138-004466 index:878
 begin(model(878)).
 gender(m).
 race(white).
@@ -19180,10 +22629,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(878)).
-%patient: it_0141_006545 index:879
+
+%patient: it-0141-006545 index:879
 begin(model(879)).
 gender(f).
 race(white).
@@ -19204,8 +22657,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(879)).
-%patient: it_0141_006557 index:880
+
+%patient: it-0141-006557 index:880
 begin(model(880)).
 gender(f).
 race(white).
@@ -19224,10 +22682,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(880)).
-%patient: it_0145_006873 index:881
+
+%patient: it-0145-006873 index:881
 begin(model(881)).
 gender(f).
 race(white).
@@ -19250,10 +22713,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(881)).
-%patient: it_0145_006889 index:882
+
+%patient: it-0145-006889 index:882
 begin(model(882)).
 gender(f).
 race(white).
@@ -19272,9 +22739,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(882)).
-%patient: it_0015_000530 index:883
+
+%patient: it-0015-000530 index:883
 begin(model(883)).
 gender(m).
 race(white).
@@ -19302,9 +22774,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(883)).
-%patient: it_0015_000554 index:884
+
+%patient: it-0015-000554 index:884
 begin(model(884)).
 gender(f).
 race(white).
@@ -19331,8 +22807,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(884)).
-%patient: it_0015_000714 index:885
+
+%patient: it-0015-000714 index:885
 begin(model(885)).
 gender(f).
 race(white).
@@ -19361,8 +22843,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(885)).
-%patient: it_0015_000918 index:886
+
+%patient: it-0015-000918 index:886
 begin(model(886)).
 gender(m).
 race(white).
@@ -19390,8 +22878,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(886)).
-%patient: it_0015_001196 index:887
+
+%patient: it-0015-001196 index:887
 begin(model(887)).
 gender(f).
 race(white).
@@ -19417,9 +22907,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(887)).
-%patient: it_0015_001249 index:888
+
+%patient: it-0015-001249 index:888
 begin(model(888)).
 gender(m).
 race(white).
@@ -19449,9 +22943,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(888)).
-%patient: it_0015_002604 index:889
+
+%patient: it-0015-002604 index:889
 begin(model(889)).
 gender(f).
 race(white).
@@ -19479,9 +22977,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(889)).
-%patient: it_0015_003864 index:890
+
+%patient: it-0015-003864 index:890
 begin(model(890)).
 gender(m).
 race(white).
@@ -19509,9 +23012,11 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 testid(t).
 end(model(890)).
-%patient: it_0015_003865 index:891
+
+%patient: it-0015-003865 index:891
 begin(model(891)).
 gender(m).
 race(white).
@@ -19530,8 +23035,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(891)).
-%patient: it_0015_003866 index:892
+
+%patient: it-0015-003866 index:892
 begin(model(892)).
 gender(f).
 race(white).
@@ -19559,9 +23069,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(892)).
-%patient: it_0015_003868 index:893
+
+%patient: it-0015-003868 index:893
 begin(model(893)).
 gender(m).
 race(white).
@@ -19588,8 +23102,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(893)).
-%patient: it_0015_003870 index:894
+
+%patient: it-0015-003870 index:894
 begin(model(894)).
 gender(f).
 race(white).
@@ -19615,8 +23131,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(894)).
-%patient: it_0015_003898 index:895
+
+%patient: it-0015-003898 index:895
 begin(model(895)).
 gender(f).
 race(white).
@@ -19637,9 +23159,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(895)).
-%patient: it_0015_003899 index:896
+
+%patient: it-0015-003899 index:896
 begin(model(896)).
 gender(f).
 race(white).
@@ -19668,9 +23194,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(896)).
-%patient: it_0015_003900 index:897
+
+%patient: it-0015-003900 index:897
 begin(model(897)).
 gender(m).
 race(white).
@@ -19700,8 +23231,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(897)).
-%patient: it_0015_003901 index:898
+
+%patient: it-0015-003901 index:898
 begin(model(898)).
 gender(m).
 race(white).
@@ -19733,8 +23269,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(898)).
-%patient: it_0015_003902 index:899
+
+%patient: it-0015-003902 index:899
 begin(model(899)).
 gender(m).
 race(white).
@@ -19763,8 +23305,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(899)).
-%patient: it_0015_003980 index:900
+
+%patient: it-0015-003980 index:900
 begin(model(900)).
 gender(f).
 race(white).
@@ -19789,9 +23337,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(900)).
-%patient: it_0015_003981 index:901
+
+%patient: it-0015-003981 index:901
 begin(model(901)).
 gender(f).
 race(white).
@@ -19819,9 +23371,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(901)).
-%patient: it_0015_003982 index:902
+
+%patient: it-0015-003982 index:902
 begin(model(902)).
 gender(f).
 race(white).
@@ -19847,8 +23403,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(902)).
-%patient: it_0015_003986 index:903
+
+%patient: it-0015-003986 index:903
 begin(model(903)).
 gender(f).
 race(white).
@@ -19875,9 +23436,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(903)).
-%patient: it_0016_000333 index:904
+
+%patient: it-0016-000333 index:904
 begin(model(904)).
 gender(f).
 race(white).
@@ -19898,9 +23464,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(904)).
-%patient: it_0016_000506 index:905
+
+%patient: it-0016-000506 index:905
 begin(model(905)).
 gender(f).
 race(white).
@@ -19930,9 +23500,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(905)).
-%patient: it_0016_003676 index:906
+
+%patient: it-0016-003676 index:906
 begin(model(906)).
 gender(m).
 race(white).
@@ -19960,9 +23534,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(906)).
-%patient: it_0021_000294 index:907
+
+%patient: it-0021-000294 index:907
 begin(model(907)).
 gender(m).
 race(white).
@@ -19981,9 +23559,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(907)).
-%patient: it_0021_000297 index:908
+
+%patient: it-0021-000297 index:908
 begin(model(908)).
 gender(m).
 race(white).
@@ -20002,9 +23586,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(908)).
-%patient: it_0021_000299 index:909
+
+%patient: it-0021-000299 index:909
 begin(model(909)).
 gender(m).
 race(white).
@@ -20020,9 +23609,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(909)).
-%patient: it_0021_000687 index:910
+
+%patient: it-0021-000687 index:910
 begin(model(910)).
 gender(f).
 race(white).
@@ -20044,9 +23638,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(910)).
-%patient: it_0021_001767 index:911
+
+%patient: it-0021-001767 index:911
 begin(model(911)).
 gender(f).
 race(white).
@@ -20071,8 +23668,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(911)).
-%patient: it_0021_001771 index:912
+
+%patient: it-0021-001771 index:912
 begin(model(912)).
 gender(f).
 race(white).
@@ -20090,9 +23689,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(912)).
-%patient: it_0021_002415 index:913
+
+%patient: it-0021-002415 index:913
 begin(model(913)).
 gender(m).
 race(white).
@@ -20124,9 +23727,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(913)).
-%patient: it_0021_003828 index:914
+
+%patient: it-0021-003828 index:914
 begin(model(914)).
 gender(m).
 race(white).
@@ -20144,9 +23753,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(914)).
-%patient: it_0021_003830 index:915
+
+%patient: it-0021-003830 index:915
 begin(model(915)).
 gender(f).
 race(white).
@@ -20166,10 +23778,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(915)).
-%patient: it_0021_003831 index:916
+
+%patient: it-0021-003831 index:916
 begin(model(916)).
 gender(m).
 race(white).
@@ -20189,10 +23803,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(916)).
-%patient: it_0021_003832 index:917
+
+%patient: it-0021-003832 index:917
 begin(model(917)).
 gender(f).
 race(white).
@@ -20211,9 +23827,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(917)).
-%patient: it_0021_003833 index:918
+
+%patient: it-0021-003833 index:918
 begin(model(918)).
 gender(f).
 race(white).
@@ -20232,9 +23852,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(918)).
-%patient: it_0021_003840 index:919
+
+%patient: it-0021-003840 index:919
 begin(model(919)).
 gender(m).
 race(white).
@@ -20263,10 +23886,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(919)).
-%patient: it_0021_003842 index:920
+
+%patient: it-0021-003842 index:920
 begin(model(920)).
 gender(f).
 race(white).
@@ -20298,8 +23923,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(920)).
-%patient: it_0022_000455 index:921
+
+%patient: it-0022-000455 index:921
 begin(model(921)).
 gender(f).
 race(white).
@@ -20325,8 +23956,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(921)).
-%patient: it_0022_000459 index:922
+
+%patient: it-0022-000459 index:922
 begin(model(922)).
 gender(f).
 race(white).
@@ -20348,8 +23985,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(922)).
-%patient: it_0022_001594 index:923
+
+%patient: it-0022-001594 index:923
 begin(model(923)).
 gender(m).
 race(white).
@@ -20373,9 +24015,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(923)).
-%patient: it_0022_002501 index:924
+
+%patient: it-0022-002501 index:924
 begin(model(924)).
 gender(f).
 race(white).
@@ -20395,8 +24042,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(924)).
-%patient: it_0022_002908 index:925
+
+%patient: it-0022-002908 index:925
 begin(model(925)).
 gender(f).
 race(white).
@@ -20415,8 +24068,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(925)).
-%patient: it_0022_002914 index:926
+
+%patient: it-0022-002914 index:926
 begin(model(926)).
 gender(m).
 race(white).
@@ -20437,8 +24095,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(926)).
-%patient: it_0022_003731 index:927
+
+%patient: it-0022-003731 index:927
 begin(model(927)).
 gender(m).
 race(white).
@@ -20459,8 +24123,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(927)).
-%patient: it_0022_003734 index:928
+
+%patient: it-0022-003734 index:928
 begin(model(928)).
 gender(f).
 race(white).
@@ -20479,9 +24149,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(928)).
-%patient: it_0022_003749 index:929
+
+%patient: it-0022-003749 index:929
 begin(model(929)).
 gender(m).
 race(white).
@@ -20505,9 +24180,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(929)).
-%patient: it_0022_003750 index:930
+
+%patient: it-0022-003750 index:930
 begin(model(930)).
 gender(f).
 race(white).
@@ -20529,8 +24209,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(930)).
-%patient: it_0022_003791 index:931
+
+%patient: it-0022-003791 index:931
 begin(model(931)).
 gender(f).
 race(white).
@@ -20550,8 +24235,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(931)).
-%patient: it_0022_003793 index:932
+
+%patient: it-0022-003793 index:932
 begin(model(932)).
 gender(f).
 race(white).
@@ -20572,8 +24262,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(932)).
-%patient: it_0022_003795 index:933
+
+%patient: it-0022-003795 index:933
 begin(model(933)).
 gender(f).
 race(white).
@@ -20593,8 +24289,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(933)).
-%patient: it_0028_005371 index:934
+
+%patient: it-0028-005371 index:934
 begin(model(934)).
 gender(f).
 race(white).
@@ -20613,8 +24314,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(934)).
-%patient: it_0028_005372 index:935
+
+%patient: it-0028-005372 index:935
 begin(model(935)).
 gender(f).
 race(white).
@@ -20633,8 +24337,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(935)).
-%patient: it_0028_005402 index:936
+
+%patient: it-0028-005402 index:936
 begin(model(936)).
 gender(f).
 race(white).
@@ -20655,8 +24362,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(936)).
-%patient: it_0028_005403 index:937
+
+%patient: it-0028-005403 index:937
 begin(model(937)).
 gender(f).
 race(white).
@@ -20674,8 +24384,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(937)).
-%patient: it_0028_005404 index:938
+
+%patient: it-0028-005404 index:938
 begin(model(938)).
 gender(f).
 race(white).
@@ -20694,8 +24407,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(938)).
-%patient: it_0028_005405 index:939
+
+%patient: it-0028-005405 index:939
 begin(model(939)).
 gender(f).
 race(white).
@@ -20713,9 +24429,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(939)).
-%patient: it_0028_005406 index:940
+
+%patient: it-0028-005406 index:940
 begin(model(940)).
 gender(f).
 race(white).
@@ -20734,8 +24452,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(940)).
-%patient: it_0028_005408 index:941
+
+%patient: it-0028-005408 index:941
 begin(model(941)).
 gender(m).
 race(white).
@@ -20756,8 +24477,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(941)).
-%patient: it_0030_005525 index:942
+
+%patient: it-0030-005525 index:942
 begin(model(942)).
 gender(f).
 race(white).
@@ -20779,8 +24502,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(942)).
-%patient: it_0030_005526 index:943
+
+%patient: it-0030-005526 index:943
 begin(model(943)).
 gender(m).
 race(white).
@@ -20800,9 +24526,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(943)).
-%patient: it_0030_005527 index:944
+
+%patient: it-0030-005527 index:944
 begin(model(944)).
 gender(f).
 race(white).
@@ -20820,9 +24549,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(944)).
-%patient: it_0030_005528 index:945
+
+%patient: it-0030-005528 index:945
 begin(model(945)).
 gender(f).
 race(white).
@@ -20846,8 +24577,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(945)).
-%patient: it_0030_005529 index:946
+
+%patient: it-0030-005529 index:946
 begin(model(946)).
 gender(f).
 race(white).
@@ -20866,8 +24600,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(946)).
-%patient: it_0030_005530 index:947
+
+%patient: it-0030-005530 index:947
 begin(model(947)).
 gender(f).
 race(white).
@@ -20887,8 +24624,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(947)).
-%patient: it_0030_005532 index:948
+
+%patient: it-0030-005532 index:948
 begin(model(948)).
 gender(f).
 race(white).
@@ -20906,9 +24646,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(948)).
-%patient: it_0030_005557 index:949
+
+%patient: it-0030-005557 index:949
 begin(model(949)).
 gender(m).
 race(white).
@@ -20929,8 +24672,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(949)).
-%patient: it_0030_005558 index:950
+
+%patient: it-0030-005558 index:950
 begin(model(950)).
 gender(f).
 race(white).
@@ -20952,9 +24699,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(950)).
-%patient: it_0030_005559 index:951
+
+%patient: it-0030-005559 index:951
 begin(model(951)).
 gender(f).
 race(white).
@@ -20974,8 +24723,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(951)).
-%patient: it_0030_005560 index:952
+
+%patient: it-0030-005560 index:952
 begin(model(952)).
 gender(m).
 race(white).
@@ -20998,8 +24750,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(952)).
-%patient: it_0030_005574 index:953
+
+%patient: it-0030-005574 index:953
 begin(model(953)).
 gender(m).
 race(white).
@@ -21019,8 +24774,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(953)).
-%patient: it_0030_005575 index:954
+
+%patient: it-0030-005575 index:954
 begin(model(954)).
 gender(f).
 race(white).
@@ -21041,8 +24799,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(954)).
-%patient: it_0030_005576 index:955
+
+%patient: it-0030-005576 index:955
 begin(model(955)).
 gender(f).
 race(white).
@@ -21060,9 +24821,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(955)).
-%patient: it_0030_005577 index:956
+
+%patient: it-0030-005577 index:956
 begin(model(956)).
 gender(f).
 race(white).
@@ -21080,8 +24844,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(956)).
-%patient: it_0030_005578 index:957
+
+%patient: it-0030-005578 index:957
 begin(model(957)).
 gender(f).
 race(white).
@@ -21097,8 +24865,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(957)).
-%patient: it_0030_005579 index:958
+
+%patient: it-0030-005579 index:958
 begin(model(958)).
 gender(f).
 race(white).
@@ -21121,9 +24892,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(958)).
-%patient: it_0030_005600 index:959
+
+%patient: it-0030-005600 index:959
 begin(model(959)).
 gender(f).
 race(white).
@@ -21143,8 +24916,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(959)).
-%patient: it_0042_003621 index:960
+
+%patient: it-0042-003621 index:960
 begin(model(960)).
 gender(f).
 race(white).
@@ -21165,9 +24941,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(960)).
-%patient: it_0042_003622 index:961
+
+%patient: it-0042-003622 index:961
 begin(model(961)).
 gender(f).
 race(white).
@@ -21187,9 +24968,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(961)).
-%patient: it_0042_003624 index:962
+
+%patient: it-0042-003624 index:962
 begin(model(962)).
 gender(f).
 race(white).
@@ -21211,9 +24998,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(962)).
-%patient: it_0042_003627 index:963
+
+%patient: it-0042-003627 index:963
 begin(model(963)).
 gender(f).
 race(white).
@@ -21244,9 +25036,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(963)).
-%patient: it_0042_003631 index:964
+
+%patient: it-0042-003631 index:964
 begin(model(964)).
 gender(f).
 race(white).
@@ -21275,8 +25069,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(964)).
-%patient: it_0042_003632 index:965
+
+%patient: it-0042-003632 index:965
 begin(model(965)).
 gender(f).
 race(white).
@@ -21303,10 +25100,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(965)).
-%patient: it_0042_003633 index:966
+
+%patient: it-0042-003633 index:966
 begin(model(966)).
 gender(f).
 race(white).
@@ -21339,8 +25138,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(966)).
-%patient: it_0042_003638 index:967
+
+%patient: it-0042-003638 index:967
 begin(model(967)).
 gender(f).
 race(white).
@@ -21358,9 +25160,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(967)).
-%patient: it_0042_003639 index:968
+
+%patient: it-0042-003639 index:968
 begin(model(968)).
 gender(f).
 race(white).
@@ -21380,9 +25187,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(968)).
-%patient: it_0042_003640 index:969
+
+%patient: it-0042-003640 index:969
 begin(model(969)).
 gender(m).
 race(white).
@@ -21401,9 +25213,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(969)).
-%patient: it_0042_003643 index:970
+
+%patient: it-0042-003643 index:970
 begin(model(970)).
 gender(f).
 race(white).
@@ -21421,9 +25239,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(970)).
-%patient: it_0042_003645 index:971
+
+%patient: it-0042-003645 index:971
 begin(model(971)).
 gender(f).
 race(white).
@@ -21443,10 +25266,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(971)).
-%patient: it_0042_003655 index:972
+
+%patient: it-0042-003655 index:972
 begin(model(972)).
 gender(m).
 race(white).
@@ -21463,9 +25291,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(972)).
-%patient: it_0042_003656 index:973
+
+%patient: it-0042-003656 index:973
 begin(model(973)).
 gender(m).
 race(white).
@@ -21485,9 +25318,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(973)).
-%patient: it_0042_003657 index:974
+
+%patient: it-0042-003657 index:974
 begin(model(974)).
 gender(f).
 race(white).
@@ -21507,10 +25345,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(974)).
-%patient: it_0042_003674 index:975
+
+%patient: it-0042-003674 index:975
 begin(model(975)).
 gender(m).
 race(white).
@@ -21530,10 +25372,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(975)).
-%patient: it_0042_003711 index:976
+
+%patient: it-0042-003711 index:976
 begin(model(976)).
 gender(m).
 race(white).
@@ -21555,9 +25401,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(976)).
-%patient: it_0042_003712 index:977
+
+%patient: it-0042-003712 index:977
 begin(model(977)).
 gender(f).
 race(white).
@@ -21580,9 +25431,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(977)).
-%patient: it_0042_003713 index:978
+
+%patient: it-0042-003713 index:978
 begin(model(978)).
 gender(f).
 race(white).
@@ -21602,9 +25458,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(978)).
-%patient: it_0042_003714 index:979
+
+%patient: it-0042-003714 index:979
 begin(model(979)).
 gender(f).
 race(white).
@@ -21625,9 +25486,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(979)).
-%patient: it_0042_003716 index:980
+
+%patient: it-0042-003716 index:980
 begin(model(980)).
 gender(f).
 race(white).
@@ -21652,9 +25518,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(980)).
-%patient: it_0042_003718 index:981
+
+%patient: it-0042-003718 index:981
 begin(model(981)).
 gender(m).
 race(white).
@@ -21675,9 +25546,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(981)).
-%patient: it_0042_003719 index:982
+
+%patient: it-0042-003719 index:982
 begin(model(982)).
 gender(m).
 race(white).
@@ -21699,10 +25576,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(982)).
-%patient: it_0042_003720 index:983
+
+%patient: it-0042-003720 index:983
 begin(model(983)).
 gender(f).
 race(white).
@@ -21724,10 +25605,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(983)).
-%patient: it_0042_003721 index:984
+
+%patient: it-0042-003721 index:984
 begin(model(984)).
 gender(f).
 race(white).
@@ -21749,9 +25634,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(984)).
-%patient: it_0042_003733 index:985
+
+%patient: it-0042-003733 index:985
 begin(model(985)).
 gender(f).
 race(white).
@@ -21773,9 +25663,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(985)).
-%patient: it_0042_003735 index:986
+
+%patient: it-0042-003735 index:986
 begin(model(986)).
 gender(f).
 race(white).
@@ -21798,9 +25693,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(986)).
-%patient: it_0042_003737 index:987
+
+%patient: it-0042-003737 index:987
 begin(model(987)).
 gender(f).
 race(white).
@@ -21820,9 +25720,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(987)).
-%patient: it_0042_003741 index:988
+
+%patient: it-0042-003741 index:988
 begin(model(988)).
 gender(f).
 race(white).
@@ -21842,9 +25747,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(988)).
-%patient: it_0042_003742 index:989
+
+%patient: it-0042-003742 index:989
 begin(model(989)).
 gender(f).
 race(white).
@@ -21866,9 +25776,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(989)).
-%patient: it_0042_003743 index:990
+
+%patient: it-0042-003743 index:990
 begin(model(990)).
 gender(f).
 race(white).
@@ -21888,9 +25803,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(990)).
-%patient: it_0042_003745 index:991
+
+%patient: it-0042-003745 index:991
 begin(model(991)).
 gender(f).
 race(white).
@@ -21912,9 +25833,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(991)).
-%patient: it_0042_003746 index:992
+
+%patient: it-0042-003746 index:992
 begin(model(992)).
 gender(f).
 race(white).
@@ -21937,9 +25863,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(992)).
-%patient: it_0043_003646 index:993
+
+%patient: it-0043-003646 index:993
 begin(model(993)).
 gender(f).
 race(white).
@@ -21965,10 +25896,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(993)).
-%patient: it_0043_003723 index:994
+
+%patient: it-0043-003723 index:994
 begin(model(994)).
 gender(f).
 race(white).
@@ -21990,9 +25925,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(994)).
-%patient: it_0043_003725 index:995
+
+%patient: it-0043-003725 index:995
 begin(model(995)).
 gender(f).
 race(white).
@@ -22013,8 +25952,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(995)).
-%patient: it_0043_003727 index:996
+
+%patient: it-0043-003727 index:996
 begin(model(996)).
 gender(m).
 race(white).
@@ -22037,9 +25981,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(996)).
-%patient: it_0043_003728 index:997
+
+%patient: it-0043-003728 index:997
 begin(model(997)).
 gender(m).
 race(white).
@@ -22060,8 +26008,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(997)).
-%patient: it_0043_003740 index:998
+
+%patient: it-0043-003740 index:998
 begin(model(998)).
 gender(f).
 race(white).
@@ -22082,8 +26035,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(998)).
-%patient: it_0043_003819 index:999
+
+%patient: it-0043-003819 index:999
 begin(model(999)).
 gender(m).
 race(white).
@@ -22102,8 +26061,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(999)).
-%patient: it_0043_003820 index:1000
+
+%patient: it-0043-003820 index:1000
 begin(model(1000)).
 gender(m).
 race(white).
@@ -22124,8 +26088,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1000)).
-%patient: it_0043_003821 index:1001
+
+%patient: it-0043-003821 index:1001
 begin(model(1001)).
 gender(m).
 race(white).
@@ -22146,9 +26116,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1001)).
-%patient: it_0043_003822 index:1002
+
+%patient: it-0043-003822 index:1002
 begin(model(1002)).
 gender(f).
 race(white).
@@ -22170,8 +26145,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1002)).
-%patient: it_0043_003823 index:1003
+
+%patient: it-0043-003823 index:1003
 begin(model(1003)).
 gender(m).
 race(white).
@@ -22188,8 +26168,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1003)).
-%patient: it_0043_003826 index:1004
+
+%patient: it-0043-003826 index:1004
 begin(model(1004)).
 gender(f).
 race(white).
@@ -22210,8 +26195,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1004)).
-%patient: it_0043_004589 index:1005
+
+%patient: it-0043-004589 index:1005
 begin(model(1005)).
 gender(m).
 race(white).
@@ -22233,8 +26224,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1005)).
-%patient: it_0043_004590 index:1006
+
+%patient: it-0043-004590 index:1006
 begin(model(1006)).
 gender(f).
 race(white).
@@ -22254,8 +26251,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1006)).
-%patient: it_0044_003663 index:1007
+
+%patient: it-0044-003663 index:1007
 begin(model(1007)).
 gender(f).
 race(white).
@@ -22282,8 +26284,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1007)).
-%patient: it_0044_003664 index:1008
+
+%patient: it-0044-003664 index:1008
 begin(model(1008)).
 gender(f).
 race(white).
@@ -22309,9 +26317,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1008)).
-%patient: it_0044_003703 index:1009
+
+%patient: it-0044-003703 index:1009
 begin(model(1009)).
 gender(f).
 race(white).
@@ -22328,9 +26340,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1009)).
-%patient: it_0044_003708 index:1010
+
+%patient: it-0044-003708 index:1010
 begin(model(1010)).
 gender(m).
 race(white).
@@ -22351,9 +26368,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1010)).
-%patient: it_0044_003709 index:1011
+
+%patient: it-0044-003709 index:1011
 begin(model(1011)).
 gender(f).
 race(white).
@@ -22373,8 +26395,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1011)).
-%patient: it_0044_004231 index:1012
+
+%patient: it-0044-004231 index:1012
 begin(model(1012)).
 gender(f).
 race(white).
@@ -22402,8 +26429,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1012)).
-%patient: it_0044_004232 index:1013
+
+%patient: it-0044-004232 index:1013
 begin(model(1013)).
 gender(f).
 race(white).
@@ -22433,9 +26466,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1013)).
-%patient: it_0044_004234 index:1014
+
+%patient: it-0044-004234 index:1014
 begin(model(1014)).
 gender(f).
 race(white).
@@ -22467,9 +26504,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1014)).
-%patient: it_0044_005215 index:1015
+
+%patient: it-0044-005215 index:1015
 begin(model(1015)).
 gender(f).
 race(white).
@@ -22496,8 +26538,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1015)).
-%patient: it_0044_005216 index:1016
+
+%patient: it-0044-005216 index:1016
 begin(model(1016)).
 gender(f).
 race(white).
@@ -22527,9 +26574,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1016)).
-%patient: it_0044_005217 index:1017
+
+%patient: it-0044-005217 index:1017
 begin(model(1017)).
 gender(f).
 race(white).
@@ -22555,8 +26607,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1017)).
-%patient: it_0044_005218 index:1018
+
+%patient: it-0044-005218 index:1018
 begin(model(1018)).
 gender(f).
 race(white).
@@ -22582,9 +26639,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1018)).
-%patient: it_0044_005739 index:1019
+
+%patient: it-0044-005739 index:1019
 begin(model(1019)).
 gender(f).
 mobcat(0).
@@ -22608,8 +26669,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1019)).
-%patient: it_0044_005740 index:1020
+
+%patient: it-0044-005740 index:1020
 begin(model(1020)).
 gender(m).
 mobcat(0).
@@ -22636,9 +26702,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1020)).
-%patient: it_0045_005288 index:1021
+
+%patient: it-0045-005288 index:1021
 begin(model(1021)).
 gender(f).
 race(black).
@@ -22661,9 +26732,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1021)).
-%patient: it_0045_005292 index:1022
+
+%patient: it-0045-005292 index:1022
 begin(model(1022)).
 gender(f).
 race(white).
@@ -22684,9 +26758,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1022)).
-%patient: it_0045_005295 index:1023
+
+%patient: it-0045-005295 index:1023
 begin(model(1023)).
 gender(m).
 race(white).
@@ -22709,9 +26788,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1023)).
-%patient: it_0045_005751 index:1024
+
+%patient: it-0045-005751 index:1024
 begin(model(1024)).
 gender(m).
 race(white).
@@ -22736,9 +26821,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1024)).
-%patient: it_0050_003685 index:1025
+
+%patient: it-0050-003685 index:1025
 begin(model(1025)).
 gender(m).
 race(white).
@@ -22761,9 +26852,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1025)).
-%patient: it_0050_003687 index:1026
+
+%patient: it-0050-003687 index:1026
 begin(model(1026)).
 gender(m).
 race(white).
@@ -22791,8 +26886,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1026)).
-%patient: it_0050_003688 index:1027
+
+%patient: it-0050-003688 index:1027
 begin(model(1027)).
 gender(m).
 race(white).
@@ -22816,9 +26916,14 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1027)).
-%patient: it_0050_003984 index:1028
+
+%patient: it-0050-003984 index:1028
 begin(model(1028)).
 gender(m).
 race(white).
@@ -22842,8 +26947,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1028)).
-%patient: it_0050_003985 index:1029
+
+%patient: it-0050-003985 index:1029
 begin(model(1029)).
 gender(m).
 race(white).
@@ -22869,8 +26979,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1029)).
-%patient: it_0050_004047 index:1030
+
+%patient: it-0050-004047 index:1030
 begin(model(1030)).
 gender(f).
 race(white).
@@ -22894,9 +27010,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1030)).
-%patient: it_0050_004048 index:1031
+
+%patient: it-0050-004048 index:1031
 begin(model(1031)).
 gender(f).
 race(white).
@@ -22919,8 +27039,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1031)).
-%patient: it_0050_004130 index:1032
+
+%patient: it-0050-004130 index:1032
 begin(model(1032)).
 gender(f).
 race(white).
@@ -22945,8 +27070,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1032)).
-%patient: it_0050_004131 index:1033
+
+%patient: it-0050-004131 index:1033
 begin(model(1033)).
 gender(f).
 race(white).
@@ -22972,9 +27102,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1033)).
-%patient: it_0050_004132 index:1034
+
+%patient: it-0050-004132 index:1034
 begin(model(1034)).
 gender(f).
 race(white).
@@ -23000,8 +27135,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1034)).
-%patient: it_0050_004228 index:1035
+
+%patient: it-0050-004228 index:1035
 begin(model(1035)).
 gender(f).
 race(white).
@@ -23028,8 +27169,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1035)).
-%patient: it_0050_005300 index:1036
+
+%patient: it-0050-005300 index:1036
 begin(model(1036)).
 gender(m).
 race(white).
@@ -23054,8 +27200,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1036)).
-%patient: it_0050_005610 index:1037
+
+%patient: it-0050-005610 index:1037
 begin(model(1037)).
 gender(f).
 race(white).
@@ -23086,9 +27237,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1037)).
-%patient: it_0050_005616 index:1038
+
+%patient: it-0050-005616 index:1038
 begin(model(1038)).
 gender(m).
 mobcat(0).
@@ -23110,8 +27266,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1038)).
-%patient: it_0050_005617 index:1039
+
+%patient: it-0050-005617 index:1039
 begin(model(1039)).
 gender(m).
 race(white).
@@ -23135,8 +27296,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1039)).
-%patient: it_0050_005618 index:1040
+
+%patient: it-0050-005618 index:1040
 begin(model(1040)).
 gender(m).
 race(white).
@@ -23161,8 +27327,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1040)).
-%patient: it_0050_005619 index:1041
+
+%patient: it-0050-005619 index:1041
 begin(model(1041)).
 gender(m).
 race(white).
@@ -23188,8 +27359,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1041)).
-%patient: it_0050_005776 index:1042
+
+%patient: it-0050-005776 index:1042
 begin(model(1042)).
 gender(m).
 race(white).
@@ -23215,8 +27391,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1042)).
-%patient: it_0050_005777 index:1043
+
+%patient: it-0050-005777 index:1043
 begin(model(1043)).
 gender(m).
 race(white).
@@ -23242,8 +27423,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1043)).
-%patient: it_0050_005778 index:1044
+
+%patient: it-0050-005778 index:1044
 begin(model(1044)).
 gender(f).
 race(white).
@@ -23268,8 +27454,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1044)).
-%patient: it_0050_005779 index:1045
+
+%patient: it-0050-005779 index:1045
 begin(model(1045)).
 gender(m).
 race(white).
@@ -23293,8 +27485,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1045)).
-%patient: it_0050_005780 index:1046
+
+%patient: it-0050-005780 index:1046
 begin(model(1046)).
 gender(f).
 race(white).
@@ -23321,8 +27518,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1046)).
-%patient: it_0050_005782 index:1047
+
+%patient: it-0050-005782 index:1047
 begin(model(1047)).
 gender(m).
 race(white).
@@ -23347,8 +27550,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1047)).
-%patient: it_0050_005783 index:1048
+
+%patient: it-0050-005783 index:1048
 begin(model(1048)).
 gender(f).
 race(white).
@@ -23377,8 +27585,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1048)).
-%patient: it_0050_005784 index:1049
+
+%patient: it-0050-005784 index:1049
 begin(model(1049)).
 gender(f).
 race(white).
@@ -23404,8 +27617,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1049)).
-%patient: it_0050_005785 index:1050
+
+%patient: it-0050-005785 index:1050
 begin(model(1050)).
 gender(f).
 race(white).
@@ -23433,8 +27651,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1050)).
-%patient: it_0050_005786 index:1051
+
+%patient: it-0050-005786 index:1051
 begin(model(1051)).
 gender(m).
 race(white).
@@ -23457,8 +27680,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1051)).
-%patient: it_0050_005788 index:1052
+
+%patient: it-0050-005788 index:1052
 begin(model(1052)).
 gender(f).
 race(white).
@@ -23484,9 +27712,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1052)).
-%patient: it_0052_003857 index:1053
+
+%patient: it-0052-003857 index:1053
 begin(model(1053)).
 gender(f).
 race(white).
@@ -23506,9 +27738,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1053)).
-%patient: it_0052_003859 index:1054
+
+%patient: it-0052-003859 index:1054
 begin(model(1054)).
 gender(f).
 race(white).
@@ -23527,10 +27765,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1054)).
-%patient: it_0052_005771 index:1055
+
+%patient: it-0052-005771 index:1055
 begin(model(1055)).
 gender(m).
 race(white).
@@ -23558,8 +27800,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1055)).
-%patient: it_0052_005772 index:1056
+
+%patient: it-0052-005772 index:1056
 begin(model(1056)).
 gender(m).
 race(white).
@@ -23588,8 +27835,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1056)).
-%patient: it_0052_005774 index:1057
+
+%patient: it-0052-005774 index:1057
 begin(model(1057)).
 gender(m).
 race(white).
@@ -23609,10 +27861,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1057)).
-%patient: it_0053_004254 index:1058
+
+%patient: it-0053-004254 index:1058
 begin(model(1058)).
 gender(f).
 race(white).
@@ -23628,9 +27884,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1058)).
-%patient: it_0053_004255 index:1059
+
+%patient: it-0053-004255 index:1059
 begin(model(1059)).
 gender(m).
 race(white).
@@ -23652,9 +27913,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1059)).
-%patient: it_0053_004256 index:1060
+
+%patient: it-0053-004256 index:1060
 begin(model(1060)).
 gender(m).
 race(white).
@@ -23673,9 +27939,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1060)).
-%patient: it_0061_000577 index:1061
+
+%patient: it-0061-000577 index:1061
 begin(model(1061)).
 gender(f).
 race(not available).
@@ -23700,10 +27971,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1061)).
-%patient: it_0061_000583 index:1062
+
+%patient: it-0061-000583 index:1062
 begin(model(1062)).
 gender(f).
 race(white).
@@ -23728,9 +28002,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1062)).
-%patient: it_0061_000584 index:1063
+
+%patient: it-0061-000584 index:1063
 begin(model(1063)).
 gender(m).
 race(white).
@@ -23756,10 +28034,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1063)).
-%patient: it_0061_000585 index:1064
+
+%patient: it-0061-000585 index:1064
 begin(model(1064)).
 gender(f).
 race(not available).
@@ -23780,9 +28062,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1064)).
-%patient: it_0061_000586 index:1065
+
+%patient: it-0061-000586 index:1065
 begin(model(1065)).
 gender(f).
 race(not available).
@@ -23805,9 +28092,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1065)).
-%patient: it_0061_000588 index:1066
+
+%patient: it-0061-000588 index:1066
 begin(model(1066)).
 gender(m).
 race(not available).
@@ -23829,10 +28120,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1066)).
-%patient: it_0061_000592 index:1067
+
+%patient: it-0061-000592 index:1067
 begin(model(1067)).
 gender(f).
 race(not available).
@@ -23856,9 +28150,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1067)).
-%patient: it_0061_000593 index:1068
+
+%patient: it-0061-000593 index:1068
 begin(model(1068)).
 gender(m).
 race(not available).
@@ -23880,9 +28178,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1068)).
-%patient: it_0061_000597 index:1069
+
+%patient: it-0061-000597 index:1069
 begin(model(1069)).
 gender(m).
 race(not available).
@@ -23905,9 +28207,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1069)).
-%patient: it_0061_000599 index:1070
+
+%patient: it-0061-000599 index:1070
 begin(model(1070)).
 gender(f).
 race(not available).
@@ -23931,10 +28237,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1070)).
-%patient: it_0061_000600 index:1071
+
+%patient: it-0061-000600 index:1071
 begin(model(1071)).
 gender(f).
 race(not available).
@@ -23958,9 +28268,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1071)).
-%patient: it_0061_000603 index:1072
+
+%patient: it-0061-000603 index:1072
 begin(model(1072)).
 gender(f).
 race(not available).
@@ -23983,9 +28297,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1072)).
-%patient: it_0061_000604 index:1073
+
+%patient: it-0061-000604 index:1073
 begin(model(1073)).
 gender(f).
 race(not available).
@@ -24005,9 +28323,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1073)).
-%patient: it_0061_000606 index:1074
+
+%patient: it-0061-000606 index:1074
 begin(model(1074)).
 gender(m).
 race(not available).
@@ -24028,9 +28350,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1074)).
-%patient: it_0061_000608 index:1075
+
+%patient: it-0061-000608 index:1075
 begin(model(1075)).
 gender(m).
 race(not available).
@@ -24055,9 +28380,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1075)).
-%patient: it_0061_000612 index:1076
+
+%patient: it-0061-000612 index:1076
 begin(model(1076)).
 gender(f).
 race(not available).
@@ -24084,10 +28414,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(1076)).
-%patient: it_0061_000617 index:1077
+
+%patient: it-0061-000617 index:1077
 begin(model(1077)).
 gender(f).
 race(not available).
@@ -24116,10 +28449,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(1).
 end(model(1077)).
-%patient: it_0061_000619 index:1078
+
+%patient: it-0061-000619 index:1078
 begin(model(1078)).
 gender(f).
 race(not available).
@@ -24143,9 +28479,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1078)).
-%patient: it_0061_000622 index:1079
+
+%patient: it-0061-000622 index:1079
 begin(model(1079)).
 gender(f).
 race(not available).
@@ -24173,9 +28513,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1079)).
-%patient: it_0061_000626 index:1080
+
+%patient: it-0061-000626 index:1080
 begin(model(1080)).
 gender(f).
 race(not available).
@@ -24197,10 +28541,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1080)).
-%patient: it_0061_000627 index:1081
+
+%patient: it-0061-000627 index:1081
 begin(model(1081)).
 gender(f).
 race(not available).
@@ -24222,9 +28569,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1081)).
-%patient: it_0061_000628 index:1082
+
+%patient: it-0061-000628 index:1082
 begin(model(1082)).
 gender(f).
 race(not available).
@@ -24246,9 +28595,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1082)).
-%patient: it_0061_000634 index:1083
+
+%patient: it-0061-000634 index:1083
 begin(model(1083)).
 gender(f).
 race(not available).
@@ -24267,9 +28620,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1083)).
-%patient: it_0061_000639 index:1084
+
+%patient: it-0061-000639 index:1084
 begin(model(1084)).
 gender(m).
 race(not available).
@@ -24292,10 +28649,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1084)).
-%patient: it_0061_000645 index:1085
+
+%patient: it-0061-000645 index:1085
 begin(model(1085)).
 gender(m).
 race(not available).
@@ -24321,9 +28681,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1085)).
-%patient: it_0061_000649 index:1086
+
+%patient: it-0061-000649 index:1086
 begin(model(1086)).
 gender(f).
 race(not available).
@@ -24343,10 +28707,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1086)).
-%patient: it_0061_000650 index:1087
+
+%patient: it-0061-000650 index:1087
 begin(model(1087)).
 gender(f).
 race(not available).
@@ -24373,9 +28738,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1087)).
-%patient: it_0061_000654 index:1088
+
+%patient: it-0061-000654 index:1088
 begin(model(1088)).
 gender(f).
 race(not available).
@@ -24397,9 +28766,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1088)).
-%patient: it_0061_000655 index:1089
+
+%patient: it-0061-000655 index:1089
 begin(model(1089)).
 gender(m).
 race(not available).
@@ -24423,9 +28797,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1089)).
-%patient: it_0061_000656 index:1090
+
+%patient: it-0061-000656 index:1090
 begin(model(1090)).
 gender(f).
 race(not available).
@@ -24448,10 +28826,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1090)).
-%patient: it_0061_000668 index:1091
+
+%patient: it-0061-000668 index:1091
 begin(model(1091)).
 gender(f).
 race(not available).
@@ -24476,10 +28856,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1091)).
-%patient: it_0061_000671 index:1092
+
+%patient: it-0061-000671 index:1092
 begin(model(1092)).
 gender(m).
 race(not available).
@@ -24503,9 +28887,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1092)).
-%patient: it_0061_000673 index:1093
+
+%patient: it-0061-000673 index:1093
 begin(model(1093)).
 gender(f).
 race(not available).
@@ -24529,9 +28917,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1093)).
-%patient: it_0061_003871 index:1094
+
+%patient: it-0061-003871 index:1094
 begin(model(1094)).
 gender(f).
 race(white).
@@ -24558,10 +28950,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1094)).
-%patient: it_0061_003872 index:1095
+
+%patient: it-0061-003872 index:1095
 begin(model(1095)).
 gender(f).
 race(white).
@@ -24591,8 +28987,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1095)).
-%patient: it_0061_003873 index:1096
+
+%patient: it-0061-003873 index:1096
 begin(model(1096)).
 gender(f).
 race(white).
@@ -24623,8 +29025,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1096)).
-%patient: it_0061_003874 index:1097
+
+%patient: it-0061-003874 index:1097
 begin(model(1097)).
 gender(f).
 race(white).
@@ -24653,8 +29057,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1097)).
-%patient: it_0061_003875 index:1098
+
+%patient: it-0061-003875 index:1098
 begin(model(1098)).
 gender(f).
 race(white).
@@ -24686,9 +29094,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+antipneumovaccine(1).
 end(model(1098)).
-%patient: it_0061_003876 index:1099
+
+%patient: it-0061-003876 index:1099
 begin(model(1099)).
 gender(f).
 race(white).
@@ -24714,10 +29124,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1099)).
-%patient: it_0061_003877 index:1100
+
+%patient: it-0061-003877 index:1100
 begin(model(1100)).
 gender(f).
 race(white).
@@ -24738,9 +29151,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1100)).
-%patient: it_0061_003879 index:1101
+
+%patient: it-0061-003879 index:1101
 begin(model(1101)).
 gender(m).
 race(white).
@@ -24770,9 +29186,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1101)).
-%patient: it_0061_003880 index:1102
+
+%patient: it-0061-003880 index:1102
 begin(model(1102)).
 gender(f).
 race(white).
@@ -24804,9 +29221,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1102)).
-%patient: it_0061_003881 index:1103
+
+%patient: it-0061-003881 index:1103
 begin(model(1103)).
 gender(f).
 race(white).
@@ -24840,9 +29258,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1103)).
-%patient: it_0061_003882 index:1104
+
+%patient: it-0061-003882 index:1104
 begin(model(1104)).
 gender(m).
 race(white).
@@ -24872,9 +29294,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1104)).
-%patient: it_0061_003885 index:1105
+
+%patient: it-0061-003885 index:1105
 begin(model(1105)).
 gender(f).
 race(white).
@@ -24900,8 +29326,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1105)).
-%patient: it_0061_003888 index:1106
+
+%patient: it-0061-003888 index:1106
 begin(model(1106)).
 gender(f).
 race(white).
@@ -24930,9 +29358,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1106)).
-%patient: it_0061_003889 index:1107
+
+%patient: it-0061-003889 index:1107
 begin(model(1107)).
 gender(f).
 race(white).
@@ -24965,9 +29395,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1107)).
-%patient: it_0061_003890 index:1108
+
+%patient: it-0061-003890 index:1108
 begin(model(1108)).
 gender(f).
 race(white).
@@ -24997,9 +29429,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1108)).
-%patient: it_0061_003936 index:1109
+
+%patient: it-0061-003936 index:1109
 begin(model(1109)).
 gender(f).
 race(white).
@@ -25018,9 +29452,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1109)).
-%patient: it_0061_003937 index:1110
+
+%patient: it-0061-003937 index:1110
 begin(model(1110)).
 gender(m).
 race(white).
@@ -25041,10 +29479,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1110)).
-%patient: it_0061_003938 index:1111
+
+%patient: it-0061-003938 index:1111
 begin(model(1111)).
 gender(f).
 race(white).
@@ -25067,9 +29508,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1111)).
-%patient: it_0061_003939 index:1112
+
+%patient: it-0061-003939 index:1112
 begin(model(1112)).
 gender(m).
 race(white).
@@ -25092,9 +29538,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1112)).
-%patient: it_0061_003940 index:1113
+
+%patient: it-0061-003940 index:1113
 begin(model(1113)).
 gender(m).
 race(white).
@@ -25122,9 +29573,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1113)).
-%patient: it_0061_003942 index:1114
+
+%patient: it-0061-003942 index:1114
 begin(model(1114)).
 gender(f).
 race(white).
@@ -25150,9 +29606,11 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
 end(model(1114)).
-%patient: it_0061_003943 index:1115
+
+%patient: it-0061-003943 index:1115
 begin(model(1115)).
 gender(m).
 race(white).
@@ -25181,9 +29639,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1115)).
-%patient: it_0061_003944 index:1116
+
+%patient: it-0061-003944 index:1116
 begin(model(1116)).
 gender(f).
 race(white).
@@ -25207,9 +29670,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1116)).
-%patient: it_0061_003945 index:1117
+
+%patient: it-0061-003945 index:1117
 begin(model(1117)).
 gender(f).
 race(white).
@@ -25233,9 +29700,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1117)).
-%patient: it_0061_003946 index:1118
+
+%patient: it-0061-003946 index:1118
 begin(model(1118)).
 gender(f).
 race(white).
@@ -25256,9 +29727,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1118)).
-%patient: it_0061_003947 index:1119
+
+%patient: it-0061-003947 index:1119
 begin(model(1119)).
 gender(f).
 race(white).
@@ -25279,10 +29754,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1119)).
-%patient: it_0061_003949 index:1120
+
+%patient: it-0061-003949 index:1120
 begin(model(1120)).
 gender(f).
 race(white).
@@ -25303,9 +29781,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1120)).
-%patient: it_0061_003950 index:1121
+
+%patient: it-0061-003950 index:1121
 begin(model(1121)).
 gender(f).
 race(white).
@@ -25327,8 +29806,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1121)).
-%patient: it_0061_003952 index:1122
+
+%patient: it-0061-003952 index:1122
 begin(model(1122)).
 gender(m).
 race(white).
@@ -25351,9 +29833,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1122)).
-%patient: it_0061_003953 index:1123
+
+%patient: it-0061-003953 index:1123
 begin(model(1123)).
 gender(f).
 race(white).
@@ -25374,9 +29858,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1123)).
-%patient: it_0061_003955 index:1124
+
+%patient: it-0061-003955 index:1124
 begin(model(1124)).
 gender(f).
 race(white).
@@ -25399,10 +29888,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1124)).
-%patient: it_0061_003956 index:1125
+
+%patient: it-0061-003956 index:1125
 begin(model(1125)).
 gender(f).
 race(white).
@@ -25430,10 +29923,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1125)).
-%patient: it_0061_003957 index:1126
+
+%patient: it-0061-003957 index:1126
 begin(model(1126)).
 gender(f).
 race(white).
@@ -25454,10 +29950,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1126)).
-%patient: it_0061_003958 index:1127
+
+%patient: it-0061-003958 index:1127
 begin(model(1127)).
 gender(f).
 race(white).
@@ -25478,9 +29978,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1127)).
-%patient: it_0061_003959 index:1128
+
+%patient: it-0061-003959 index:1128
 begin(model(1128)).
 gender(m).
 race(white).
@@ -25503,10 +30004,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1128)).
-%patient: it_0061_003960 index:1129
+
+%patient: it-0061-003960 index:1129
 begin(model(1129)).
 gender(f).
 race(white).
@@ -25527,9 +30032,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1129)).
-%patient: it_0061_003961 index:1130
+
+%patient: it-0061-003961 index:1130
 begin(model(1130)).
 gender(f).
 race(white).
@@ -25549,10 +30059,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1130)).
-%patient: it_0061_003962 index:1131
+
+%patient: it-0061-003962 index:1131
 begin(model(1131)).
 gender(f).
 race(white).
@@ -25576,9 +30089,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1131)).
-%patient: it_0061_003964 index:1132
+
+%patient: it-0061-003964 index:1132
 begin(model(1132)).
 gender(f).
 race(white).
@@ -25598,9 +30115,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1132)).
-%patient: it_0061_003965 index:1133
+
+%patient: it-0061-003965 index:1133
 begin(model(1133)).
 gender(f).
 race(white).
@@ -25622,10 +30143,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1133)).
-%patient: it_0061_003966 index:1134
+
+%patient: it-0061-003966 index:1134
 begin(model(1134)).
 gender(f).
 race(white).
@@ -25646,10 +30171,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1134)).
-%patient: it_0061_003967 index:1135
+
+%patient: it-0061-003967 index:1135
 begin(model(1135)).
 gender(m).
 race(white).
@@ -25675,10 +30203,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1135)).
-%patient: it_0061_003968 index:1136
+
+%patient: it-0061-003968 index:1136
 begin(model(1136)).
 gender(f).
 race(white).
@@ -25701,10 +30231,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1136)).
-%patient: it_0061_003969 index:1137
+
+%patient: it-0061-003969 index:1137
 begin(model(1137)).
 gender(m).
 race(white).
@@ -25720,9 +30253,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1137)).
-%patient: it_0061_003970 index:1138
+
+%patient: it-0061-003970 index:1138
 begin(model(1138)).
 gender(f).
 race(white).
@@ -25744,9 +30282,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1138)).
-%patient: it_0061_003971 index:1139
+
+%patient: it-0061-003971 index:1139
 begin(model(1139)).
 gender(f).
 race(white).
@@ -25770,10 +30312,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1139)).
-%patient: it_0061_003993 index:1140
+
+%patient: it-0061-003993 index:1140
 begin(model(1140)).
 gender(f).
 race(white).
@@ -25795,10 +30338,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1140)).
-%patient: it_0061_003994 index:1141
+
+%patient: it-0061-003994 index:1141
 begin(model(1141)).
 gender(f).
 race(white).
@@ -25821,9 +30367,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1141)).
-%patient: it_0061_003995 index:1142
+
+%patient: it-0061-003995 index:1142
 begin(model(1142)).
 gender(f).
 race(white).
@@ -25846,10 +30395,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(1142)).
-%patient: it_0061_003998 index:1143
+
+%patient: it-0061-003998 index:1143
 begin(model(1143)).
 gender(m).
 race(white).
@@ -25875,9 +30427,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1143)).
-%patient: it_0061_003999 index:1144
+
+%patient: it-0061-003999 index:1144
 begin(model(1144)).
 gender(m).
 race(white).
@@ -25899,9 +30455,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1144)).
-%patient: it_0061_004003 index:1145
+
+%patient: it-0061-004003 index:1145
 begin(model(1145)).
 gender(f).
 race(white).
@@ -25922,10 +30480,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1145)).
-%patient: it_0061_004005 index:1146
+
+%patient: it-0061-004005 index:1146
 begin(model(1146)).
 gender(f).
 race(white).
@@ -25948,9 +30509,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1146)).
-%patient: it_0061_004006 index:1147
+
+%patient: it-0061-004006 index:1147
 begin(model(1147)).
 gender(m).
 race(white).
@@ -25971,9 +30536,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1147)).
-%patient: it_0061_004007 index:1148
+
+%patient: it-0061-004007 index:1148
 begin(model(1148)).
 gender(f).
 race(white).
@@ -25996,9 +30565,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1148)).
-%patient: it_0061_004010 index:1149
+
+%patient: it-0061-004010 index:1149
 begin(model(1149)).
 gender(m).
 race(white).
@@ -26024,10 +30598,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1149)).
-%patient: it_0061_004011 index:1150
+
+%patient: it-0061-004011 index:1150
 begin(model(1150)).
 gender(m).
 race(white).
@@ -26048,9 +30626,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1150)).
-%patient: it_0061_004012 index:1151
+
+%patient: it-0061-004012 index:1151
 begin(model(1151)).
 gender(f).
 race(white).
@@ -26075,9 +30657,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+antipneumovaccine(1).
+testid(t).
 end(model(1151)).
-%patient: it_0061_004014 index:1152
+
+%patient: it-0061-004014 index:1152
 begin(model(1152)).
 gender(f).
 race(white).
@@ -26099,9 +30685,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1152)).
-%patient: it_0061_004019 index:1153
+
+%patient: it-0061-004019 index:1153
 begin(model(1153)).
 gender(m).
 race(white).
@@ -26127,9 +30717,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1153)).
-%patient: it_0061_004022 index:1154
+
+%patient: it-0061-004022 index:1154
 begin(model(1154)).
 gender(f).
 race(white).
@@ -26151,10 +30745,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
 testid(t).
 end(model(1154)).
-%patient: it_0061_004024 index:1155
+
+%patient: it-0061-004024 index:1155
 begin(model(1155)).
 gender(f).
 race(white).
@@ -26178,9 +30774,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1155)).
-%patient: it_0061_004025 index:1156
+
+%patient: it-0061-004025 index:1156
 begin(model(1156)).
 gender(m).
 race(other or unknown).
@@ -26202,9 +30802,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1156)).
-%patient: it_0061_004026 index:1157
+
+%patient: it-0061-004026 index:1157
 begin(model(1157)).
 gender(m).
 race(white).
@@ -26227,10 +30830,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1157)).
-%patient: it_0061_004027 index:1158
+
+%patient: it-0061-004027 index:1158
 begin(model(1158)).
 gender(f).
 race(white).
@@ -26253,9 +30859,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1158)).
-%patient: it_0061_004030 index:1159
+
+%patient: it-0061-004030 index:1159
 begin(model(1159)).
 gender(f).
 race(white).
@@ -26279,9 +30890,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1159)).
-%patient: it_0061_004031 index:1160
+
+%patient: it-0061-004031 index:1160
 begin(model(1160)).
 gender(f).
 race(white).
@@ -26304,9 +30919,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1160)).
-%patient: it_0061_004032 index:1161
+
+%patient: it-0061-004032 index:1161
 begin(model(1161)).
 gender(f).
 race(white).
@@ -26328,10 +30948,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1161)).
-%patient: it_0061_004033 index:1162
+
+%patient: it-0061-004033 index:1162
 begin(model(1162)).
 gender(f).
 race(white).
@@ -26354,9 +30977,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1162)).
-%patient: it_0061_004034 index:1163
+
+%patient: it-0061-004034 index:1163
 begin(model(1163)).
 gender(m).
 race(white).
@@ -26379,10 +31004,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1163)).
-%patient: it_0061_004037 index:1164
+
+%patient: it-0061-004037 index:1164
 begin(model(1164)).
 gender(f).
 race(white).
@@ -26405,9 +31031,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1164)).
-%patient: it_0061_004040 index:1165
+
+%patient: it-0061-004040 index:1165
 begin(model(1165)).
 gender(f).
 race(white).
@@ -26437,9 +31068,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1165)).
-%patient: it_0061_004041 index:1166
+
+%patient: it-0061-004041 index:1166
 begin(model(1166)).
 gender(m).
 race(white).
@@ -26459,9 +31094,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1166)).
-%patient: it_0061_004042 index:1167
+
+%patient: it-0061-004042 index:1167
 begin(model(1167)).
 gender(m).
 race(white).
@@ -26486,9 +31125,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1167)).
-%patient: it_0061_004043 index:1168
+
+%patient: it-0061-004043 index:1168
 begin(model(1168)).
 gender(m).
 race(white).
@@ -26507,10 +31150,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1168)).
-%patient: it_0061_004045 index:1169
+
+%patient: it-0061-004045 index:1169
 begin(model(1169)).
 gender(f).
 race(white).
@@ -26528,9 +31174,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1169)).
-%patient: it_0061_004092 index:1170
+
+%patient: it-0061-004092 index:1170
 begin(model(1170)).
 gender(f).
 race(white).
@@ -26550,10 +31201,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1170)).
-%patient: it_0061_004093 index:1171
+
+%patient: it-0061-004093 index:1171
 begin(model(1171)).
 gender(m).
 race(white).
@@ -26574,9 +31228,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1171)).
-%patient: it_0061_004095 index:1172
+
+%patient: it-0061-004095 index:1172
 begin(model(1172)).
 gender(f).
 race(white).
@@ -26596,9 +31252,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1172)).
-%patient: it_0061_004096 index:1173
+
+%patient: it-0061-004096 index:1173
 begin(model(1173)).
 gender(f).
 race(white).
@@ -26620,10 +31280,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1173)).
-%patient: it_0061_004097 index:1174
+
+%patient: it-0061-004097 index:1174
 begin(model(1174)).
 gender(f).
 race(white).
@@ -26643,9 +31306,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1174)).
-%patient: it_0061_004098 index:1175
+
+%patient: it-0061-004098 index:1175
 begin(model(1175)).
 gender(f).
 race(white).
@@ -26668,8 +31335,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1175)).
-%patient: it_0061_004099 index:1176
+
+%patient: it-0061-004099 index:1176
 begin(model(1176)).
 gender(m).
 race(white).
@@ -26695,9 +31366,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1176)).
-%patient: it_0061_004100 index:1177
+
+%patient: it-0061-004100 index:1177
 begin(model(1177)).
 gender(f).
 race(white).
@@ -26717,9 +31391,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1177)).
-%patient: it_0061_004102 index:1178
+
+%patient: it-0061-004102 index:1178
 begin(model(1178)).
 gender(m).
 race(white).
@@ -26744,9 +31422,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1178)).
-%patient: it_0061_004107 index:1179
+
+%patient: it-0061-004107 index:1179
 begin(model(1179)).
 gender(m).
 race(white).
@@ -26767,10 +31450,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1179)).
-%patient: it_0061_004109 index:1180
+
+%patient: it-0061-004109 index:1180
 begin(model(1180)).
 gender(f).
 race(white).
@@ -26797,9 +31484,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1180)).
-%patient: it_0061_004110 index:1181
+
+%patient: it-0061-004110 index:1181
 begin(model(1181)).
 gender(m).
 race(white).
@@ -26824,9 +31515,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1181)).
-%patient: it_0061_004112 index:1182
+
+%patient: it-0061-004112 index:1182
 begin(model(1182)).
 gender(f).
 race(white).
@@ -26850,9 +31545,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1182)).
-%patient: it_0061_004113 index:1183
+
+%patient: it-0061-004113 index:1183
 begin(model(1183)).
 gender(f).
 race(white).
@@ -26878,10 +31577,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1183)).
-%patient: it_0061_004114 index:1184
+
+%patient: it-0061-004114 index:1184
 begin(model(1184)).
 gender(f).
 race(white).
@@ -26902,9 +31605,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1184)).
-%patient: it_0061_004115 index:1185
+
+%patient: it-0061-004115 index:1185
 begin(model(1185)).
 gender(f).
 race(white).
@@ -26927,10 +31634,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1185)).
-%patient: it_0061_004116 index:1186
+
+%patient: it-0061-004116 index:1186
 begin(model(1186)).
 gender(f).
 race(white).
@@ -26949,9 +31659,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1186)).
-%patient: it_0061_004117 index:1187
+
+%patient: it-0061-004117 index:1187
 begin(model(1187)).
 gender(f).
 race(white).
@@ -26974,9 +31689,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1187)).
-%patient: it_0061_004119 index:1188
+
+%patient: it-0061-004119 index:1188
 begin(model(1188)).
 gender(f).
 race(white).
@@ -27000,9 +31719,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1188)).
-%patient: it_0061_004120 index:1189
+
+%patient: it-0061-004120 index:1189
 begin(model(1189)).
 gender(f).
 race(white).
@@ -27025,9 +31746,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1189)).
-%patient: it_0061_004121 index:1190
+
+%patient: it-0061-004121 index:1190
 begin(model(1190)).
 gender(f).
 race(white).
@@ -27049,10 +31774,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1190)).
-%patient: it_0061_004122 index:1191
+
+%patient: it-0061-004122 index:1191
 begin(model(1191)).
 gender(f).
 race(white).
@@ -27071,9 +31800,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1191)).
-%patient: it_0061_004126 index:1192
+
+%patient: it-0061-004126 index:1192
 begin(model(1192)).
 gender(m).
 race(white).
@@ -27092,8 +31826,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,1).
 end(model(1192)).
-%patient: it_0061_004127 index:1193
+
+%patient: it-0061-004127 index:1193
 begin(model(1193)).
 gender(f).
 race(white).
@@ -27115,9 +31851,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1193)).
-%patient: it_0061_004128 index:1194
+
+%patient: it-0061-004128 index:1194
 begin(model(1194)).
 gender(f).
 race(white).
@@ -27139,9 +31879,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1194)).
-%patient: it_0061_004150 index:1195
+
+%patient: it-0061-004150 index:1195
 begin(model(1195)).
 gender(f).
 race(white).
@@ -27161,9 +31905,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1195)).
-%patient: it_0061_004151 index:1196
+
+%patient: it-0061-004151 index:1196
 begin(model(1196)).
 gender(f).
 race(white).
@@ -27189,8 +31938,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1196)).
-%patient: it_0061_004154 index:1197
+
+%patient: it-0061-004154 index:1197
 begin(model(1197)).
 gender(m).
 race(white).
@@ -27220,8 +31975,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1197)).
-%patient: it_0061_004227 index:1198
+
+%patient: it-0061-004227 index:1198
 begin(model(1198)).
 gender(f).
 race(white).
@@ -27237,9 +31997,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1198)).
-%patient: it_0061_004284 index:1199
+
+%patient: it-0061-004284 index:1199
 begin(model(1199)).
 gender(f).
 race(white).
@@ -27259,9 +32024,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1199)).
-%patient: it_0061_004286 index:1200
+
+%patient: it-0061-004286 index:1200
 begin(model(1200)).
 gender(f).
 race(white).
@@ -27280,10 +32050,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1200)).
-%patient: it_0061_004288 index:1201
+
+%patient: it-0061-004288 index:1201
 begin(model(1201)).
 gender(f).
 race(white).
@@ -27301,9 +32075,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1201)).
-%patient: it_0061_004289 index:1202
+
+%patient: it-0061-004289 index:1202
 begin(model(1202)).
 gender(f).
 race(white).
@@ -27319,10 +32098,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1202)).
-%patient: it_0061_004291 index:1203
+
+%patient: it-0061-004291 index:1203
 begin(model(1203)).
 gender(f).
 race(white).
@@ -27339,9 +32122,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1203)).
-%patient: it_0061_004292 index:1204
+
+%patient: it-0061-004292 index:1204
 begin(model(1204)).
 gender(f).
 race(white).
@@ -27357,10 +32145,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1204)).
-%patient: it_0061_004293 index:1205
+
+%patient: it-0061-004293 index:1205
 begin(model(1205)).
 gender(f).
 race(white).
@@ -27380,9 +32173,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1205)).
-%patient: it_0061_004294 index:1206
+
+%patient: it-0061-004294 index:1206
 begin(model(1206)).
 gender(f).
 race(white).
@@ -27402,10 +32201,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1206)).
-%patient: it_0061_004295 index:1207
+
+%patient: it-0061-004295 index:1207
 begin(model(1207)).
 gender(m).
 race(white).
@@ -27422,9 +32225,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1207)).
-%patient: it_0061_004398 index:1208
+
+%patient: it-0061-004398 index:1208
 begin(model(1208)).
 gender(f).
 race(white).
@@ -27447,8 +32256,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1208)).
-%patient: it_0061_004399 index:1209
+
+%patient: it-0061-004399 index:1209
 begin(model(1209)).
 gender(f).
 race(white).
@@ -27473,8 +32285,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1209)).
-%patient: it_0061_004400 index:1210
+
+%patient: it-0061-004400 index:1210
 begin(model(1210)).
 gender(f).
 race(white).
@@ -27497,8 +32311,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(1).
+testid(t).
 end(model(1210)).
-%patient: it_0061_004401 index:1211
+
+%patient: it-0061-004401 index:1211
 begin(model(1211)).
 gender(f).
 race(white).
@@ -27522,8 +32340,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1211)).
-%patient: it_0061_004402 index:1212
+
+%patient: it-0061-004402 index:1212
 begin(model(1212)).
 gender(f).
 race(white).
@@ -27548,10 +32371,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1212)).
-%patient: it_0061_004403 index:1213
+
+%patient: it-0061-004403 index:1213
 begin(model(1213)).
 gender(m).
 race(white).
@@ -27576,10 +32400,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1213)).
-%patient: it_0061_004404 index:1214
+
+%patient: it-0061-004404 index:1214
 begin(model(1214)).
 gender(m).
 race(white).
@@ -27602,9 +32427,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1214)).
-%patient: it_0061_004406 index:1215
+
+%patient: it-0061-004406 index:1215
 begin(model(1215)).
 gender(f).
 race(white).
@@ -27626,9 +32453,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1215)).
-%patient: it_0061_004409 index:1216
+
+%patient: it-0061-004409 index:1216
 begin(model(1216)).
 gender(m).
 race(white).
@@ -27650,9 +32480,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(1216)).
-%patient: it_0061_004410 index:1217
+
+%patient: it-0061-004410 index:1217
 begin(model(1217)).
 gender(f).
 race(white).
@@ -27678,8 +32510,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1217)).
-%patient: it_0061_004411 index:1218
+
+%patient: it-0061-004411 index:1218
 begin(model(1218)).
 gender(f).
 race(white).
@@ -27706,8 +32543,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1218)).
-%patient: it_0061_004412 index:1219
+
+%patient: it-0061-004412 index:1219
 begin(model(1219)).
 gender(m).
 race(white).
@@ -27732,8 +32572,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1219)).
-%patient: it_0061_004413 index:1220
+
+%patient: it-0061-004413 index:1220
 begin(model(1220)).
 gender(f).
 race(white).
@@ -27753,9 +32595,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1220)).
-%patient: it_0061_004416 index:1221
+
+%patient: it-0061-004416 index:1221
 begin(model(1221)).
 gender(f).
 race(white).
@@ -27783,8 +32627,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1221)).
-%patient: it_0061_004417 index:1222
+
+%patient: it-0061-004417 index:1222
 begin(model(1222)).
 gender(f).
 race(white).
@@ -27806,9 +32655,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1222)).
-%patient: it_0061_004418 index:1223
+
+%patient: it-0061-004418 index:1223
 begin(model(1223)).
 gender(f).
 race(white).
@@ -27834,9 +32686,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1223)).
-%patient: it_0061_004419 index:1224
+
+%patient: it-0061-004419 index:1224
 begin(model(1224)).
 gender(f).
 race(white).
@@ -27861,8 +32716,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1224)).
-%patient: it_0061_004420 index:1225
+
+%patient: it-0061-004420 index:1225
 begin(model(1225)).
 gender(m).
 race(white).
@@ -27889,9 +32747,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1225)).
-%patient: it_0061_004421 index:1226
+
+%patient: it-0061-004421 index:1226
 begin(model(1226)).
 gender(f).
 race(white).
@@ -27911,8 +32771,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1226)).
-%patient: it_0061_004422 index:1227
+
+%patient: it-0061-004422 index:1227
 begin(model(1227)).
 gender(f).
 race(white).
@@ -27936,9 +32801,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1227)).
-%patient: it_0061_004423 index:1228
+
+%patient: it-0061-004423 index:1228
 begin(model(1228)).
 gender(m).
 race(white).
@@ -27959,10 +32825,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1228)).
-%patient: it_0061_004561 index:1229
+
+%patient: it-0061-004561 index:1229
 begin(model(1229)).
 gender(f).
 race(white).
@@ -27986,8 +32853,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1229)).
-%patient: it_0061_004563 index:1230
+
+%patient: it-0061-004563 index:1230
 begin(model(1230)).
 gender(f).
 race(white).
@@ -28011,9 +32882,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1230)).
-%patient: it_0061_004565 index:1231
+
+%patient: it-0061-004565 index:1231
 begin(model(1231)).
 gender(f).
 race(white).
@@ -28031,9 +32905,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1231)).
-%patient: it_0061_004566 index:1232
+
+%patient: it-0061-004566 index:1232
 begin(model(1232)).
 gender(f).
 race(white).
@@ -28059,8 +32934,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1232)).
-%patient: it_0061_004569 index:1233
+
+%patient: it-0061-004569 index:1233
 begin(model(1233)).
 gender(f).
 race(white).
@@ -28086,9 +32963,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1233)).
-%patient: it_0061_004663 index:1234
+
+%patient: it-0061-004663 index:1234
 begin(model(1234)).
 gender(m).
 race(white).
@@ -28118,8 +32998,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(1234)).
-%patient: it_0061_004710 index:1235
+
+%patient: it-0061-004710 index:1235
 begin(model(1235)).
 gender(f).
 race(white).
@@ -28146,8 +33030,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1235)).
-%patient: it_0061_004712 index:1236
+
+%patient: it-0061-004712 index:1236
 begin(model(1236)).
 gender(f).
 race(white).
@@ -28174,9 +33062,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 testid(t).
 end(model(1236)).
-%patient: it_0061_004713 index:1237
+
+%patient: it-0061-004713 index:1237
 begin(model(1237)).
 gender(f).
 race(white).
@@ -28198,8 +33089,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1237)).
-%patient: it_0061_004716 index:1238
+
+%patient: it-0061-004716 index:1238
 begin(model(1238)).
 gender(f).
 race(white).
@@ -28225,9 +33119,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1238)).
-%patient: it_0061_004720 index:1239
+
+%patient: it-0061-004720 index:1239
 begin(model(1239)).
 gender(f).
 race(white).
@@ -28251,9 +33149,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1239)).
-%patient: it_0061_004722 index:1240
+
+%patient: it-0061-004722 index:1240
 begin(model(1240)).
 gender(f).
 race(white).
@@ -28280,8 +33181,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1240)).
-%patient: it_0061_004725 index:1241
+
+%patient: it-0061-004725 index:1241
 begin(model(1241)).
 gender(f).
 race(white).
@@ -28300,9 +33205,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1241)).
-%patient: it_0061_004729 index:1242
+
+%patient: it-0061-004729 index:1242
 begin(model(1242)).
 gender(f).
 race(white).
@@ -28326,8 +33233,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1242)).
-%patient: it_0061_004730 index:1243
+
+%patient: it-0061-004730 index:1243
 begin(model(1243)).
 gender(f).
 race(white).
@@ -28357,8 +33269,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1243)).
-%patient: it_0061_004733 index:1244
+
+%patient: it-0061-004733 index:1244
 begin(model(1244)).
 gender(f).
 race(white).
@@ -28381,8 +33296,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1244)).
-%patient: it_0061_004735 index:1245
+
+%patient: it-0061-004735 index:1245
 begin(model(1245)).
 gender(m).
 race(white).
@@ -28409,8 +33328,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1245)).
-%patient: it_0061_004737 index:1246
+
+%patient: it-0061-004737 index:1246
 begin(model(1246)).
 gender(f).
 race(white).
@@ -28433,8 +33354,12 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(1246)).
-%patient: it_0061_004743 index:1247
+
+%patient: it-0061-004743 index:1247
 begin(model(1247)).
 gender(f).
 race(white).
@@ -28460,9 +33385,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1247)).
-%patient: it_0061_004744 index:1248
+
+%patient: it-0061-004744 index:1248
 begin(model(1248)).
 gender(f).
 race(white).
@@ -28488,8 +33417,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1248)).
-%patient: it_0061_004825 index:1249
+
+%patient: it-0061-004825 index:1249
 begin(model(1249)).
 gender(f).
 race(white).
@@ -28519,9 +33453,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1249)).
-%patient: it_0061_004826 index:1250
+
+%patient: it-0061-004826 index:1250
 begin(model(1250)).
 gender(f).
 race(white).
@@ -28554,8 +33492,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1250)).
-%patient: it_0061_004827 index:1251
+
+%patient: it-0061-004827 index:1251
 begin(model(1251)).
 gender(f).
 race(white).
@@ -28582,8 +33524,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1251)).
-%patient: it_0061_005723 index:1252
+
+%patient: it-0061-005723 index:1252
 begin(model(1252)).
 gender(f).
 race(white).
@@ -28608,9 +33554,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1252)).
-%patient: it_0061_006258 index:1253
+
+%patient: it-0061-006258 index:1253
 begin(model(1253)).
 gender(m).
 race(white).
@@ -28630,9 +33580,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1253)).
-%patient: it_0061_006443 index:1254
+
+%patient: it-0061-006443 index:1254
 begin(model(1254)).
 gender(m).
 race(white).
@@ -28658,8 +33612,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1254)).
-%patient: it_0061_006455 index:1255
+
+%patient: it-0061-006455 index:1255
 begin(model(1255)).
 gender(f).
 race(white).
@@ -28684,8 +33642,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1255)).
-%patient: it_0061_006456 index:1256
+
+%patient: it-0061-006456 index:1256
 begin(model(1256)).
 gender(f).
 race(white).
@@ -28708,8 +33669,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1256)).
-%patient: it_0061_006458 index:1257
+
+%patient: it-0061-006458 index:1257
 begin(model(1257)).
 gender(f).
 race(white).
@@ -28735,8 +33700,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1257)).
-%patient: it_0061_006460 index:1258
+
+%patient: it-0061-006460 index:1258
 begin(model(1258)).
 gender(f).
 race(white).
@@ -28761,9 +33730,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+antipneumovaccine(1).
 end(model(1258)).
-%patient: it_0061_006461 index:1259
+
+%patient: it-0061-006461 index:1259
 begin(model(1259)).
 gender(f).
 race(white).
@@ -28786,8 +33758,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(1).
 end(model(1259)).
-%patient: it_0061_006462 index:1260
+
+%patient: it-0061-006462 index:1260
 begin(model(1260)).
 gender(f).
 race(white).
@@ -28812,9 +33787,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1260)).
-%patient: it_0061_006463 index:1261
+
+%patient: it-0061-006463 index:1261
 begin(model(1261)).
 gender(f).
 race(white).
@@ -28836,9 +33814,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1261)).
-%patient: it_0061_006464 index:1262
+
+%patient: it-0061-006464 index:1262
 begin(model(1262)).
 gender(f).
 race(white).
@@ -28860,9 +33840,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1262)).
-%patient: it_0061_006465 index:1263
+
+%patient: it-0061-006465 index:1263
 begin(model(1263)).
 gender(f).
 race(white).
@@ -28887,9 +33870,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1263)).
-%patient: it_0061_006467 index:1264
+
+%patient: it-0061-006467 index:1264
 begin(model(1264)).
 gender(f).
 race(white).
@@ -28917,8 +33903,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1264)).
-%patient: it_0061_006468 index:1265
+
+%patient: it-0061-006468 index:1265
 begin(model(1265)).
 gender(f).
 race(white).
@@ -28945,9 +33935,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1265)).
-%patient: it_0061_006469 index:1266
+
+%patient: it-0061-006469 index:1266
 begin(model(1266)).
 gender(f).
 race(white).
@@ -28973,8 +33966,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1266)).
-%patient: it_0061_006470 index:1267
+
+%patient: it-0061-006470 index:1267
 begin(model(1267)).
 gender(f).
 race(white).
@@ -28997,9 +33994,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+antipneumovaccine(1).
 end(model(1267)).
-%patient: it_0061_006471 index:1268
+
+%patient: it-0061-006471 index:1268
 begin(model(1268)).
 gender(f).
 race(white).
@@ -29024,8 +34023,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1268)).
-%patient: it_0061_006472 index:1269
+
+%patient: it-0061-006472 index:1269
 begin(model(1269)).
 gender(f).
 race(white).
@@ -29047,9 +34051,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1269)).
-%patient: it_0061_006474 index:1270
+
+%patient: it-0061-006474 index:1270
 begin(model(1270)).
 gender(f).
 race(white).
@@ -29077,8 +34084,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1270)).
-%patient: it_0061_006475 index:1271
+
+%patient: it-0061-006475 index:1271
 begin(model(1271)).
 gender(f).
 race(white).
@@ -29102,8 +34111,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1271)).
-%patient: it_0061_006479 index:1272
+
+%patient: it-0061-006479 index:1272
 begin(model(1272)).
 gender(f).
 race(white).
@@ -29123,9 +34135,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1272)).
-%patient: it_0061_006482 index:1273
+
+%patient: it-0061-006482 index:1273
 begin(model(1273)).
 gender(f).
 race(white).
@@ -29146,8 +34160,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(1273)).
-%patient: it_0061_006483 index:1274
+
+%patient: it-0061-006483 index:1274
 begin(model(1274)).
 gender(f).
 race(black).
@@ -29171,9 +34188,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1274)).
-%patient: it_0061_006487 index:1275
+
+%patient: it-0061-006487 index:1275
 begin(model(1275)).
 gender(m).
 race(white).
@@ -29194,9 +34213,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1275)).
-%patient: it_0061_006488 index:1276
+
+%patient: it-0061-006488 index:1276
 begin(model(1276)).
 gender(m).
 race(white).
@@ -29219,9 +34240,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1276)).
-%patient: it_0061_006491 index:1277
+
+%patient: it-0061-006491 index:1277
 begin(model(1277)).
 gender(f).
 race(white).
@@ -29247,8 +34270,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1277)).
-%patient: it_0061_006492 index:1278
+
+%patient: it-0061-006492 index:1278
 begin(model(1278)).
 gender(f).
 race(white).
@@ -29272,8 +34300,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(1278)).
-%patient: it_0061_006493 index:1279
+
+%patient: it-0061-006493 index:1279
 begin(model(1279)).
 gender(f).
 race(white).
@@ -29298,9 +34330,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1279)).
-%patient: it_0061_006495 index:1280
+
+%patient: it-0061-006495 index:1280
 begin(model(1280)).
 gender(m).
 race(white).
@@ -29323,8 +34358,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1280)).
-%patient: it_0061_006496 index:1281
+
+%patient: it-0061-006496 index:1281
 begin(model(1281)).
 gender(f).
 race(white).
@@ -29346,8 +34385,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1281)).
-%patient: it_0061_006500 index:1282
+
+%patient: it-0061-006500 index:1282
 begin(model(1282)).
 gender(f).
 race(white).
@@ -29371,9 +34414,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1282)).
-%patient: it_0061_006501 index:1283
+
+%patient: it-0061-006501 index:1283
 begin(model(1283)).
 gender(f).
 race(white).
@@ -29396,9 +34442,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1283)).
-%patient: it_0061_006503 index:1284
+
+%patient: it-0061-006503 index:1284
 begin(model(1284)).
 gender(f).
 race(white).
@@ -29423,9 +34472,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1284)).
-%patient: it_0061_006505 index:1285
+
+%patient: it-0061-006505 index:1285
 begin(model(1285)).
 gender(f).
 race(white).
@@ -29447,8 +34500,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1285)).
-%patient: it_0061_006506 index:1286
+
+%patient: it-0061-006506 index:1286
 begin(model(1286)).
 gender(f).
 race(white).
@@ -29473,8 +34531,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1286)).
-%patient: it_0061_006507 index:1287
+
+%patient: it-0061-006507 index:1287
 begin(model(1287)).
 gender(f).
 race(white).
@@ -29500,8 +34560,12 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1287)).
-%patient: it_0061_006508 index:1288
+
+%patient: it-0061-006508 index:1288
 begin(model(1288)).
 gender(f).
 race(white).
@@ -29529,8 +34593,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1288)).
-%patient: it_0061_006516 index:1289
+
+%patient: it-0061-006516 index:1289
 begin(model(1289)).
 gender(f).
 race(white).
@@ -29554,9 +34622,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1289)).
-%patient: it_0061_006517 index:1290
+
+%patient: it-0061-006517 index:1290
 begin(model(1290)).
 gender(f).
 race(white).
@@ -29581,8 +34651,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1290)).
-%patient: it_0061_006519 index:1291
+
+%patient: it-0061-006519 index:1291
 begin(model(1291)).
 gender(f).
 race(white).
@@ -29606,10 +34678,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(1291)).
-%patient: it_0061_006523 index:1292
+
+%patient: it-0061-006523 index:1292
 begin(model(1292)).
 gender(f).
 race(white).
@@ -29633,9 +34707,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1292)).
-%patient: it_0061_006524 index:1293
+
+%patient: it-0061-006524 index:1293
 begin(model(1293)).
 gender(m).
 race(white).
@@ -29659,9 +34735,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1293)).
-%patient: it_0061_006525 index:1294
+
+%patient: it-0061-006525 index:1294
 begin(model(1294)).
 gender(m).
 race(white).
@@ -29682,8 +34760,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1294)).
-%patient: it_0061_006528 index:1295
+
+%patient: it-0061-006528 index:1295
 begin(model(1295)).
 gender(f).
 race(white).
@@ -29706,8 +34787,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1295)).
-%patient: it_0061_006529 index:1296
+
+%patient: it-0061-006529 index:1296
 begin(model(1296)).
 gender(f).
 race(white).
@@ -29735,8 +34820,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1296)).
-%patient: it_0061_006530 index:1297
+
+%patient: it-0061-006530 index:1297
 begin(model(1297)).
 gender(m).
 race(white).
@@ -29761,8 +34849,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1297)).
-%patient: it_0102_002722 index:1298
+
+%patient: it-0102-002722 index:1298
 begin(model(1298)).
 gender(f).
 race(white).
@@ -29783,9 +34873,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1298)).
-%patient: it_0102_003369 index:1299
+
+%patient: it-0102-003369 index:1299
 begin(model(1299)).
 gender(f).
 race(white).
@@ -29804,10 +34896,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1299)).
-%patient: it_0102_004134 index:1300
+
+%patient: it-0102-004134 index:1300
 begin(model(1300)).
 gender(f).
 race(white).
@@ -29825,10 +34919,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1300)).
-%patient: it_0102_004136 index:1301
+
+%patient: it-0102-004136 index:1301
 begin(model(1301)).
 gender(f).
 race(white).
@@ -29846,9 +34944,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1301)).
-%patient: it_0102_004139 index:1302
+
+%patient: it-0102-004139 index:1302
 begin(model(1302)).
 gender(m).
 race(white).
@@ -29864,10 +34967,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1302)).
-%patient: it_0103_005983 index:1303
+
+%patient: it-0103-005983 index:1303
 begin(model(1303)).
 gender(m).
 race(white).
@@ -29887,9 +34995,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1303)).
-%patient: it_0103_005989 index:1304
+
+%patient: it-0103-005989 index:1304
 begin(model(1304)).
 gender(f).
 race(white).
@@ -29908,9 +35022,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1304)).
-%patient: it_0103_005991 index:1305
+
+%patient: it-0103-005991 index:1305
 begin(model(1305)).
 gender(f).
 race(white).
@@ -29929,10 +35048,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1305)).
-%patient: it_0103_005996 index:1306
+
+%patient: it-0103-005996 index:1306
 begin(model(1306)).
 gender(m).
 race(white).
@@ -29956,9 +35079,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1306)).
-%patient: it_0103_006004 index:1307
+
+%patient: it-0103-006004 index:1307
 begin(model(1307)).
 gender(m).
 race(white).
@@ -29975,9 +35103,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1307)).
-%patient: it_0103_006006 index:1308
+
+%patient: it-0103-006006 index:1308
 begin(model(1308)).
 gender(m).
 race(white).
@@ -29996,9 +35130,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1308)).
-%patient: it_0103_006026 index:1309
+
+%patient: it-0103-006026 index:1309
 begin(model(1309)).
 gender(f).
 race(white).
@@ -30017,9 +35156,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1309)).
-%patient: it_0103_006035 index:1310
+
+%patient: it-0103-006035 index:1310
 begin(model(1310)).
 gender(m).
 race(white).
@@ -30039,9 +35184,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1310)).
-%patient: it_0103_006114 index:1311
+
+%patient: it-0103-006114 index:1311
 begin(model(1311)).
 gender(m).
 race(white).
@@ -30059,10 +35209,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1311)).
-%patient: it_0103_006139 index:1312
+
+%patient: it-0103-006139 index:1312
 begin(model(1312)).
 gender(f).
 race(white).
@@ -30081,9 +35235,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1312)).
-%patient: it_0106_006735 index:1313
+
+%patient: it-0106-006735 index:1313
 begin(model(1313)).
 gender(m).
 race(white).
@@ -30102,9 +35261,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1313)).
-%patient: it_0106_006736 index:1314
+
+%patient: it-0106-006736 index:1314
 begin(model(1314)).
 gender(f).
 race(white).
@@ -30122,9 +35286,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1314)).
-%patient: it_0106_006742 index:1315
+
+%patient: it-0106-006742 index:1315
 begin(model(1315)).
 gender(m).
 race(white).
@@ -30139,10 +35309,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1315)).
-%patient: it_0106_006748 index:1316
+
+%patient: it-0106-006748 index:1316
 begin(model(1316)).
 gender(m).
 race(white).
@@ -30161,10 +35335,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1316)).
-%patient: it_0106_006752 index:1317
+
+%patient: it-0106-006752 index:1317
 begin(model(1317)).
 gender(m).
 race(white).
@@ -30185,9 +35363,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1317)).
-%patient: it_0106_006753 index:1318
+
+%patient: it-0106-006753 index:1318
 begin(model(1318)).
 gender(m).
 race(white).
@@ -30205,9 +35389,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(1318)).
-%patient: it_0106_006756 index:1319
+
+%patient: it-0106-006756 index:1319
 begin(model(1319)).
 gender(f).
 race(white).
@@ -30225,9 +35413,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1319)).
-%patient: it_0106_006773 index:1320
+
+%patient: it-0106-006773 index:1320
 begin(model(1320)).
 gender(m).
 race(white).
@@ -30243,10 +35436,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1320)).
-%patient: it_0106_006774 index:1321
+
+%patient: it-0106-006774 index:1321
 begin(model(1321)).
 gender(m).
 race(white).
@@ -30268,10 +35466,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1321)).
-%patient: it_0106_006812 index:1322
+
+%patient: it-0106-006812 index:1322
 begin(model(1322)).
 gender(f).
 race(white).
@@ -30286,9 +35488,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1322)).
-%patient: it_0123_005650 index:1323
+
+%patient: it-0123-005650 index:1323
 begin(model(1323)).
 gender(f).
 race(white).
@@ -30312,9 +35519,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1323)).
-%patient: it_0123_005651 index:1324
+
+%patient: it-0123-005651 index:1324
 begin(model(1324)).
 gender(f).
 race(white).
@@ -30335,9 +35548,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1324)).
-%patient: it_0123_005653 index:1325
+
+%patient: it-0123-005653 index:1325
 begin(model(1325)).
 gender(f).
 race(white).
@@ -30360,9 +35578,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1325)).
-%patient: it_0123_005654 index:1326
+
+%patient: it-0123-005654 index:1326
 begin(model(1326)).
 gender(f).
 race(white).
@@ -30387,9 +35611,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1326)).
-%patient: it_0123_005657 index:1327
+
+%patient: it-0123-005657 index:1327
 begin(model(1327)).
 gender(f).
 race(white).
@@ -30410,9 +35639,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1327)).
-%patient: it_0123_005658 index:1328
+
+%patient: it-0123-005658 index:1328
 begin(model(1328)).
 gender(f).
 race(white).
@@ -30433,8 +35667,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1328)).
-%patient: it_0123_005659 index:1329
+
+%patient: it-0123-005659 index:1329
 begin(model(1329)).
 gender(m).
 race(white).
@@ -30454,10 +35694,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1329)).
-%patient: it_0123_005660 index:1330
+
+%patient: it-0123-005660 index:1330
 begin(model(1330)).
 gender(f).
 race(white).
@@ -30479,9 +35723,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+testid(t).
 end(model(1330)).
-%patient: it_0123_005693 index:1331
+
+%patient: it-0123-005693 index:1331
 begin(model(1331)).
 gender(f).
 race(white).
@@ -30502,10 +35751,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1331)).
-%patient: it_0123_005697 index:1332
+
+%patient: it-0123-005697 index:1332
 begin(model(1332)).
 gender(m).
 race(white).
@@ -30524,9 +35777,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1332)).
-%patient: it_0123_005698 index:1333
+
+%patient: it-0123-005698 index:1333
 begin(model(1333)).
 gender(f).
 race(white).
@@ -30548,10 +35806,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1333)).
-%patient: it_0123_005699 index:1334
+
+%patient: it-0123-005699 index:1334
 begin(model(1334)).
 gender(f).
 race(white).
@@ -30572,8 +35834,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1334)).
-%patient: it_0123_005700 index:1335
+
+%patient: it-0123-005700 index:1335
 begin(model(1335)).
 gender(f).
 race(white).
@@ -30597,9 +35865,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1335)).
-%patient: it_0123_005702 index:1336
+
+%patient: it-0123-005702 index:1336
 begin(model(1336)).
 gender(f).
 race(white).
@@ -30622,9 +35896,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1336)).
-%patient: it_0123_005704 index:1337
+
+%patient: it-0123-005704 index:1337
 begin(model(1337)).
 gender(f).
 race(white).
@@ -30644,9 +35923,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1337)).
-%patient: it_0123_005705 index:1338
+
+%patient: it-0123-005705 index:1338
 begin(model(1338)).
 gender(f).
 race(white).
@@ -30665,9 +35949,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1338)).
-%patient: it_0123_005706 index:1339
+
+%patient: it-0123-005706 index:1339
 begin(model(1339)).
 gender(m).
 race(white).
@@ -30690,10 +35980,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1339)).
-%patient: it_0123_005707 index:1340
+
+%patient: it-0123-005707 index:1340
 begin(model(1340)).
 gender(m).
 race(white).
@@ -30713,9 +36008,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1340)).
-%patient: it_0123_005709 index:1341
+
+%patient: it-0123-005709 index:1341
 begin(model(1341)).
 gender(m).
 race(white).
@@ -30736,10 +36036,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1341)).
-%patient: it_0123_005711 index:1342
+
+%patient: it-0123-005711 index:1342
 begin(model(1342)).
 gender(m).
 race(white).
@@ -30763,9 +36068,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1342)).
-%patient: it_0123_005712 index:1343
+
+%patient: it-0123-005712 index:1343
 begin(model(1343)).
 gender(f).
 race(white).
@@ -30791,9 +36102,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1343)).
-%patient: it_0123_005714 index:1344
+
+%patient: it-0123-005714 index:1344
 begin(model(1344)).
 gender(f).
 race(white).
@@ -30816,9 +36132,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1344)).
-%patient: it_0125_005951 index:1345
+
+%patient: it-0125-005951 index:1345
 begin(model(1345)).
 gender(f).
 race(white).
@@ -30842,9 +36163,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1345)).
-%patient: it_0125_005962 index:1346
+
+%patient: it-0125-005962 index:1346
 begin(model(1346)).
 gender(f).
 race(white).
@@ -30860,9 +36187,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1346)).
-%patient: it_0125_006039 index:1347
+
+%patient: it-0125-006039 index:1347
 begin(model(1347)).
 gender(f).
 race(white).
@@ -30881,9 +36213,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1347)).
-%patient: it_0125_006424 index:1348
+
+%patient: it-0125-006424 index:1348
 begin(model(1348)).
 gender(f).
 race(white).
@@ -30903,9 +36241,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1348)).
-%patient: it_0125_006432 index:1349
+
+%patient: it-0125-006432 index:1349
 begin(model(1349)).
 gender(m).
 race(white).
@@ -30931,9 +36274,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1349)).
-%patient: it_0126_004263 index:1350
+
+%patient: it-0126-004263 index:1350
 begin(model(1350)).
 gender(f).
 race(white).
@@ -30955,10 +36303,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1350)).
-%patient: it_0126_004281 index:1351
+
+%patient: it-0126-004281 index:1351
 begin(model(1351)).
 gender(f).
 race(white).
@@ -30981,9 +36330,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1351)).
-%patient: it_0126_004390 index:1352
+
+%patient: it-0126-004390 index:1352
 begin(model(1352)).
 gender(f).
 race(white).
@@ -31006,8 +36359,10 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1352)).
-%patient: it_0126_004395 index:1353
+
+%patient: it-0126-004395 index:1353
 begin(model(1353)).
 gender(f).
 race(white).
@@ -31030,9 +36385,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1353)).
-%patient: it_0126_004428 index:1354
+
+%patient: it-0126-004428 index:1354
 begin(model(1354)).
 gender(f).
 race(asian).
@@ -31058,9 +36416,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1354)).
-%patient: it_0126_004430 index:1355
+
+%patient: it-0126-004430 index:1355
 begin(model(1355)).
 gender(f).
 race(white).
@@ -31083,10 +36447,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1355)).
-%patient: it_0126_004570 index:1356
+
+%patient: it-0126-004570 index:1356
 begin(model(1356)).
 gender(m).
 race(white).
@@ -31108,9 +36473,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1356)).
-%patient: it_0126_004578 index:1357
+
+%patient: it-0126-004578 index:1357
 begin(model(1357)).
 gender(f).
 race(asian).
@@ -31132,10 +36502,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1357)).
-%patient: it_0126_004582 index:1358
+
+%patient: it-0126-004582 index:1358
 begin(model(1358)).
 gender(f).
 race(white).
@@ -31158,9 +36532,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(1).
 end(model(1358)).
-%patient: it_0126_004583 index:1359
+
+%patient: it-0126-004583 index:1359
 begin(model(1359)).
 gender(m).
 race(white).
@@ -31181,9 +36560,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1359)).
-%patient: it_0126_004875 index:1360
+
+%patient: it-0126-004875 index:1360
 begin(model(1360)).
 gender(f).
 race(white).
@@ -31209,9 +36593,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1360)).
-%patient: it_0126_004876 index:1361
+
+%patient: it-0126-004876 index:1361
 begin(model(1361)).
 gender(m).
 race(white).
@@ -31234,9 +36622,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1361)).
-%patient: it_0126_004877 index:1362
+
+%patient: it-0126-004877 index:1362
 begin(model(1362)).
 gender(f).
 race(white).
@@ -31262,9 +36654,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1362)).
-%patient: it_0126_004879 index:1363
+
+%patient: it-0126-004879 index:1363
 begin(model(1363)).
 gender(f).
 race(white).
@@ -31286,9 +36683,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1363)).
-%patient: it_0126_004900 index:1364
+
+%patient: it-0126-004900 index:1364
 begin(model(1364)).
 gender(f).
 race(white).
@@ -31313,8 +36715,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1364)).
-%patient: it_0126_004901 index:1365
+
+%patient: it-0126-004901 index:1365
 begin(model(1365)).
 gender(f).
 race(white).
@@ -31337,9 +36744,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1365)).
-%patient: it_0126_004902 index:1366
+
+%patient: it-0126-004902 index:1366
 begin(model(1366)).
 gender(f).
 race(white).
@@ -31362,9 +36774,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1366)).
-%patient: it_0126_004919 index:1367
+
+%patient: it-0126-004919 index:1367
 begin(model(1367)).
 gender(f).
 race(white).
@@ -31382,9 +36800,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1367)).
-%patient: it_0126_004930 index:1368
+
+%patient: it-0126-004930 index:1368
 begin(model(1368)).
 gender(f).
 race(white).
@@ -31410,9 +36833,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1368)).
-%patient: it_0126_004950 index:1369
+
+%patient: it-0126-004950 index:1369
 begin(model(1369)).
 gender(m).
 race(white).
@@ -31438,8 +36866,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1369)).
-%patient: it_0126_004960 index:1370
+
+%patient: it-0126-004960 index:1370
 begin(model(1370)).
 gender(m).
 race(white).
@@ -31458,10 +36891,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1370)).
-%patient: it_0126_004961 index:1371
+
+%patient: it-0126-004961 index:1371
 begin(model(1371)).
 gender(f).
 race(white).
@@ -31483,10 +36917,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1371)).
-%patient: it_0126_005029 index:1372
+
+%patient: it-0126-005029 index:1372
 begin(model(1372)).
 gender(m).
 race(white).
@@ -31508,9 +36947,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1372)).
-%patient: it_0126_005200 index:1373
+
+%patient: it-0126-005200 index:1373
 begin(model(1373)).
 gender(m).
 race(white).
@@ -31532,9 +36976,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1373)).
-%patient: it_0126_005342 index:1374
+
+%patient: it-0126-005342 index:1374
 begin(model(1374)).
 gender(f).
 race(white).
@@ -31554,9 +37004,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1374)).
-%patient: it_0126_005414 index:1375
+
+%patient: it-0126-005414 index:1375
 begin(model(1375)).
 gender(f).
 race(white).
@@ -31582,9 +37037,14 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1375)).
-%patient: it_0126_005420 index:1376
+
+%patient: it-0126-005420 index:1376
 begin(model(1376)).
 gender(m).
 race(white).
@@ -31606,9 +37066,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1376)).
-%patient: it_0126_005590 index:1377
+
+%patient: it-0126-005590 index:1377
 begin(model(1377)).
 gender(f).
 race(white).
@@ -31631,8 +37097,14 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1377)).
-%patient: it_0126_005592 index:1378
+
+%patient: it-0126-005592 index:1378
 begin(model(1378)).
 gender(f).
 race(white).
@@ -31654,9 +37126,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1378)).
-%patient: it_0126_005593 index:1379
+
+%patient: it-0126-005593 index:1379
 begin(model(1379)).
 gender(f).
 race(white).
@@ -31681,8 +37155,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1379)).
-%patient: it_0126_005611 index:1380
+
+%patient: it-0126-005611 index:1380
 begin(model(1380)).
 gender(f).
 race(white).
@@ -31703,10 +37183,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1380)).
-%patient: it_0126_005614 index:1381
+
+%patient: it-0126-005614 index:1381
 begin(model(1381)).
 gender(f).
 race(white).
@@ -31726,9 +37210,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1381)).
-%patient: it_0126_005620 index:1382
+
+%patient: it-0126-005620 index:1382
 begin(model(1382)).
 gender(f).
 race(white).
@@ -31747,9 +37237,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1382)).
-%patient: it_0126_006607 index:1383
+
+%patient: it-0126-006607 index:1383
 begin(model(1383)).
 gender(f).
 race(white).
@@ -31771,9 +37266,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1383)).
-%patient: it_0126_006608 index:1384
+
+%patient: it-0126-006608 index:1384
 begin(model(1384)).
 gender(f).
 race(white).
@@ -31797,8 +37294,12 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1384)).
-%patient: it_0126_006610 index:1385
+
+%patient: it-0126-006610 index:1385
 begin(model(1385)).
 gender(f).
 race(white).
@@ -31816,9 +37317,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1385)).
-%patient: it_0126_006611 index:1386
+
+%patient: it-0126-006611 index:1386
 begin(model(1386)).
 gender(m).
 race(white).
@@ -31840,10 +37343,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(1386)).
-%patient: it_0126_006613 index:1387
+
+%patient: it-0126-006613 index:1387
 begin(model(1387)).
 gender(f).
 race(white).
@@ -31862,8 +37367,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+testid(t).
 end(model(1387)).
-%patient: it_0126_006614 index:1388
+
+%patient: it-0126-006614 index:1388
 begin(model(1388)).
 gender(f).
 race(white).
@@ -31883,10 +37393,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1388)).
-%patient: it_0130_004425 index:1389
+
+%patient: it-0130-004425 index:1389
 begin(model(1389)).
 gender(f).
 mobcat(3).
@@ -31907,8 +37421,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1389)).
-%patient: it_0130_004581 index:1390
+
+%patient: it-0130-004581 index:1390
 begin(model(1390)).
 gender(f).
 mobcat(2).
@@ -31929,9 +37448,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1390)).
-%patient: it_0130_004633 index:1391
+
+%patient: it-0130-004633 index:1391
 begin(model(1391)).
 gender(f).
 mobcat(2).
@@ -31952,9 +37475,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1391)).
-%patient: it_0130_004643 index:1392
+
+%patient: it-0130-004643 index:1392
 begin(model(1392)).
 gender(f).
 mobcat(2).
@@ -31970,8 +37497,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1392)).
-%patient: it_0130_004651 index:1393
+
+%patient: it-0130-004651 index:1393
 begin(model(1393)).
 gender(f).
 mobcat(3).
@@ -31996,8 +37528,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1393)).
-%patient: it_0130_004659 index:1394
+
+%patient: it-0130-004659 index:1394
 begin(model(1394)).
 gender(m).
 mobcat(4).
@@ -32023,9 +37560,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1394)).
-%patient: it_0130_004660 index:1395
+
+%patient: it-0130-004660 index:1395
 begin(model(1395)).
 gender(f).
 mobcat(2).
@@ -32044,8 +37584,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1395)).
-%patient: it_0130_004662 index:1396
+
+%patient: it-0130-004662 index:1396
 begin(model(1396)).
 gender(f).
 mobcat(2).
@@ -32067,9 +37611,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1396)).
-%patient: it_0130_004665 index:1397
+
+%patient: it-0130-004665 index:1397
 begin(model(1397)).
 gender(m).
 mobcat(2).
@@ -32092,8 +37640,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1397)).
-%patient: it_0130_004667 index:1398
+
+%patient: it-0130-004667 index:1398
 begin(model(1398)).
 gender(f).
 mobcat(4).
@@ -32116,9 +37668,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1398)).
-%patient: it_0130_004740 index:1399
+
+%patient: it-0130-004740 index:1399
 begin(model(1399)).
 gender(f).
 mobcat(2).
@@ -32136,9 +37691,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1399)).
-%patient: it_0130_004748 index:1400
+
+%patient: it-0130-004748 index:1400
 begin(model(1400)).
 gender(f).
 mobcat(1).
@@ -32158,9 +37717,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1400)).
-%patient: it_0130_004833 index:1401
+
+%patient: it-0130-004833 index:1401
 begin(model(1401)).
 gender(f).
 mobcat(4).
@@ -32183,8 +37745,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1401)).
-%patient: it_0130_005115 index:1402
+
+%patient: it-0130-005115 index:1402
 begin(model(1402)).
 gender(m).
 mobcat(1).
@@ -32202,8 +37769,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1402)).
-%patient: it_0130_005117 index:1403
+
+%patient: it-0130-005117 index:1403
 begin(model(1403)).
 gender(f).
 mobcat(1).
@@ -32227,8 +37798,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1403)).
-%patient: it_0130_005120 index:1404
+
+%patient: it-0130-005120 index:1404
 begin(model(1404)).
 gender(f).
 mobcat(0).
@@ -32248,8 +37823,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1404)).
-%patient: it_0130_005122 index:1405
+
+%patient: it-0130-005122 index:1405
 begin(model(1405)).
 gender(m).
 mobcat(1).
@@ -32271,9 +37851,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1405)).
-%patient: it_0130_005124 index:1406
+
+%patient: it-0130-005124 index:1406
 begin(model(1406)).
 gender(f).
 mobcat(4).
@@ -32294,8 +37878,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1406)).
-%patient: it_0130_005125 index:1407
+
+%patient: it-0130-005125 index:1407
 begin(model(1407)).
 gender(m).
 mobcat(1).
@@ -32317,9 +37905,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1407)).
-%patient: it_0130_005126 index:1408
+
+%patient: it-0130-005126 index:1408
 begin(model(1408)).
 gender(f).
 mobcat(1).
@@ -32340,8 +37932,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
+vzvvaccine(0).
 end(model(1408)).
-%patient: it_0130_005127 index:1409
+
+%patient: it-0130-005127 index:1409
 begin(model(1409)).
 gender(f).
 mobcat(0).
@@ -32361,8 +37957,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1409)).
-%patient: it_0130_005128 index:1410
+
+%patient: it-0130-005128 index:1410
 begin(model(1410)).
 gender(f).
 mobcat(4).
@@ -32386,8 +37986,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1410)).
-%patient: it_0130_005129 index:1411
+
+%patient: it-0130-005129 index:1411
 begin(model(1411)).
 gender(m).
 mobcat(1).
@@ -32406,9 +38010,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1411)).
-%patient: it_0130_005202 index:1412
+
+%patient: it-0130-005202 index:1412
 begin(model(1412)).
 gender(f).
 mobcat(2).
@@ -32429,8 +38037,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1412)).
-%patient: it_0130_005204 index:1413
+
+%patient: it-0130-005204 index:1413
 begin(model(1413)).
 gender(f).
 mobcat(1).
@@ -32451,8 +38063,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1413)).
-%patient: it_0130_005205 index:1414
+
+%patient: it-0130-005205 index:1414
 begin(model(1414)).
 gender(f).
 mobcat(2).
@@ -32474,8 +38090,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1414)).
-%patient: it_0130_005206 index:1415
+
+%patient: it-0130-005206 index:1415
 begin(model(1415)).
 gender(f).
 mobcat(0).
@@ -32495,8 +38115,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1415)).
-%patient: it_0130_005219 index:1416
+
+%patient: it-0130-005219 index:1416
 begin(model(1416)).
 gender(f).
 mobcat(0).
@@ -32515,8 +38139,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1416)).
-%patient: it_0130_005220 index:1417
+
+%patient: it-0130-005220 index:1417
 begin(model(1417)).
 gender(f).
 mobcat(5).
@@ -32535,8 +38164,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1417)).
-%patient: it_0130_005299 index:1418
+
+%patient: it-0130-005299 index:1418
 begin(model(1418)).
 gender(f).
 mobcat(5).
@@ -32556,8 +38189,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1418)).
-%patient: it_0130_005305 index:1419
+
+%patient: it-0130-005305 index:1419
 begin(model(1419)).
 gender(m).
 mobcat(5).
@@ -32576,8 +38214,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1419)).
-%patient: it_0130_005306 index:1420
+
+%patient: it-0130-005306 index:1420
 begin(model(1420)).
 gender(f).
 mobcat(5).
@@ -32594,9 +38237,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1420)).
-%patient: it_0130_005339 index:1421
+
+%patient: it-0130-005339 index:1421
 begin(model(1421)).
 gender(f).
 mobcat(5).
@@ -32618,8 +38266,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1421)).
-%patient: it_0130_005340 index:1422
+
+%patient: it-0130-005340 index:1422
 begin(model(1422)).
 gender(f).
 mobcat(5).
@@ -32637,8 +38291,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1422)).
-%patient: it_0130_005359 index:1423
+
+%patient: it-0130-005359 index:1423
 begin(model(1423)).
 gender(m).
 mobcat(0).
@@ -32660,9 +38319,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1423)).
-%patient: it_0130_005361 index:1424
+
+%patient: it-0130-005361 index:1424
 begin(model(1424)).
 gender(f).
 mobcat(5).
@@ -32684,8 +38346,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1424)).
-%patient: it_0130_005362 index:1425
+
+%patient: it-0130-005362 index:1425
 begin(model(1425)).
 gender(m).
 mobcat(4).
@@ -32706,8 +38372,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1425)).
-%patient: it_0130_005363 index:1426
+
+%patient: it-0130-005363 index:1426
 begin(model(1426)).
 gender(f).
 mobcat(0).
@@ -32726,8 +38396,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1426)).
-%patient: it_0130_005364 index:1427
+
+%patient: it-0130-005364 index:1427
 begin(model(1427)).
 gender(f).
 mobcat(1).
@@ -32749,9 +38424,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1427)).
-%patient: it_0130_005373 index:1428
+
+%patient: it-0130-005373 index:1428
 begin(model(1428)).
 gender(f).
 mobcat(5).
@@ -32771,9 +38450,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1428)).
-%patient: it_0130_005378 index:1429
+
+%patient: it-0130-005378 index:1429
 begin(model(1429)).
 gender(f).
 mobcat(5).
@@ -32791,8 +38473,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1429)).
-%patient: it_0130_005386 index:1430
+
+%patient: it-0130-005386 index:1430
 begin(model(1430)).
 gender(m).
 mobcat(5).
@@ -32814,8 +38500,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1430)).
-%patient: it_0130_005388 index:1431
+
+%patient: it-0130-005388 index:1431
 begin(model(1431)).
 gender(f).
 mobcat(0).
@@ -32835,8 +38525,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1431)).
-%patient: it_0130_006107 index:1432
+
+%patient: it-0130-006107 index:1432
 begin(model(1432)).
 gender(f).
 mobcat(5).
@@ -32853,9 +38547,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1432)).
-%patient: it_0130_006108 index:1433
+
+%patient: it-0130-006108 index:1433
 begin(model(1433)).
 gender(f).
 mobcat(5).
@@ -32875,8 +38573,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1433)).
-%patient: it_0130_006223 index:1434
+
+%patient: it-0130-006223 index:1434
 begin(model(1434)).
 gender(f).
 mobcat(5).
@@ -32899,9 +38602,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1434)).
-%patient: it_0130_006228 index:1435
+
+%patient: it-0130-006228 index:1435
 begin(model(1435)).
 gender(f).
 mobcat(5).
@@ -32920,10 +38627,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
 end(model(1435)).
-%patient: it_0130_006615 index:1436
+
+%patient: it-0130-006615 index:1436
 begin(model(1436)).
 gender(f).
 mobcat(5).
@@ -32943,9 +38652,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1436)).
-%patient: it_0130_006616 index:1437
+
+%patient: it-0130-006616 index:1437
 begin(model(1437)).
 gender(f).
 mobcat(5).
@@ -32968,9 +38681,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1437)).
-%patient: it_0132_005624 index:1438
+
+%patient: it-0132-005624 index:1438
 begin(model(1438)).
 gender(f).
 race(white).
@@ -32996,8 +38714,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1438)).
-%patient: it_0132_005625 index:1439
+
+%patient: it-0132-005625 index:1439
 begin(model(1439)).
 gender(m).
 race(white).
@@ -33028,9 +38748,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1439)).
-%patient: it_0133_005892 index:1440
+
+%patient: it-0133-005892 index:1440
 begin(model(1440)).
 gender(f).
 race(white).
@@ -33052,10 +38773,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1440)).
-%patient: it_0133_005893 index:1441
+
+%patient: it-0133-005893 index:1441
 begin(model(1441)).
 gender(f).
 race(white).
@@ -33079,9 +38805,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1441)).
-%patient: it_0133_005894 index:1442
+
+%patient: it-0133-005894 index:1442
 begin(model(1442)).
 gender(f).
 race(white).
@@ -33100,9 +38831,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1442)).
-%patient: it_0133_005895 index:1443
+
+%patient: it-0133-005895 index:1443
 begin(model(1443)).
 gender(f).
 race(white).
@@ -33121,9 +38857,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1443)).
-%patient: it_0133_005897 index:1444
+
+%patient: it-0133-005897 index:1444
 begin(model(1444)).
 gender(f).
 race(white).
@@ -33142,9 +38883,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1444)).
-%patient: it_0133_005899 index:1445
+
+%patient: it-0133-005899 index:1445
 begin(model(1445)).
 gender(f).
 race(white).
@@ -33165,9 +38911,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1445)).
-%patient: it_0133_005900 index:1446
+
+%patient: it-0133-005900 index:1446
 begin(model(1446)).
 gender(f).
 race(white).
@@ -33185,9 +38936,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1446)).
-%patient: it_0133_005901 index:1447
+
+%patient: it-0133-005901 index:1447
 begin(model(1447)).
 gender(m).
 race(white).
@@ -33206,9 +38963,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1447)).
-%patient: it_0133_005903 index:1448
+
+%patient: it-0133-005903 index:1448
 begin(model(1448)).
 gender(m).
 race(white).
@@ -33233,9 +38995,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1448)).
-%patient: it_0133_005904 index:1449
+
+%patient: it-0133-005904 index:1449
 begin(model(1449)).
 gender(f).
 race(white).
@@ -33253,8 +39021,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1449)).
-%patient: it_0133_005905 index:1450
+
+%patient: it-0133-005905 index:1450
 begin(model(1450)).
 gender(f).
 race(white).
@@ -33273,10 +39047,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1450)).
-%patient: it_0133_005906 index:1451
+
+%patient: it-0133-005906 index:1451
 begin(model(1451)).
 gender(f).
 race(white).
@@ -33295,9 +39074,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1451)).
-%patient: it_0133_005907 index:1452
+
+%patient: it-0133-005907 index:1452
 begin(model(1452)).
 gender(f).
 race(white).
@@ -33316,10 +39101,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1452)).
-%patient: it_0133_005908 index:1453
+
+%patient: it-0133-005908 index:1453
 begin(model(1453)).
 gender(f).
 race(white).
@@ -33340,8 +39129,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1453)).
-%patient: it_0133_005909 index:1454
+
+%patient: it-0133-005909 index:1454
 begin(model(1454)).
 gender(f).
 race(white).
@@ -33365,9 +39159,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1454)).
-%patient: it_0133_005910 index:1455
+
+%patient: it-0133-005910 index:1455
 begin(model(1455)).
 gender(f).
 race(white).
@@ -33384,8 +39182,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1455)).
-%patient: it_0133_005911 index:1456
+
+%patient: it-0133-005911 index:1456
 begin(model(1456)).
 gender(f).
 race(white).
@@ -33403,8 +39207,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1456)).
-%patient: it_0133_005912 index:1457
+
+%patient: it-0133-005912 index:1457
 begin(model(1457)).
 gender(f).
 race(white).
@@ -33422,8 +39232,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1457)).
-%patient: it_0133_005913 index:1458
+
+%patient: it-0133-005913 index:1458
 begin(model(1458)).
 gender(f).
 race(white).
@@ -33448,9 +39263,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1458)).
-%patient: it_0133_005914 index:1459
+
+%patient: it-0133-005914 index:1459
 begin(model(1459)).
 gender(f).
 race(black).
@@ -33470,8 +39289,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1459)).
-%patient: it_0133_005915 index:1460
+
+%patient: it-0133-005915 index:1460
 begin(model(1460)).
 gender(m).
 race(white).
@@ -33495,8 +39319,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1460)).
-%patient: it_0133_005917 index:1461
+
+%patient: it-0133-005917 index:1461
 begin(model(1461)).
 gender(f).
 race(white).
@@ -33516,8 +39346,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1461)).
-%patient: it_0133_005918 index:1462
+
+%patient: it-0133-005918 index:1462
 begin(model(1462)).
 gender(f).
 race(white).
@@ -33540,8 +39375,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1462)).
-%patient: it_0133_005919 index:1463
+
+%patient: it-0133-005919 index:1463
 begin(model(1463)).
 gender(f).
 race(white).
@@ -33564,8 +39404,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1463)).
-%patient: it_0133_005920 index:1464
+
+%patient: it-0133-005920 index:1464
 begin(model(1464)).
 gender(f).
 race(white).
@@ -33592,9 +39438,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1464)).
-%patient: it_0133_005921 index:1465
+
+%patient: it-0133-005921 index:1465
 begin(model(1465)).
 gender(f).
 race(white).
@@ -33615,8 +39465,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1465)).
-%patient: it_0133_005923 index:1466
+
+%patient: it-0133-005923 index:1466
 begin(model(1466)).
 gender(f).
 race(white).
@@ -33638,8 +39493,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1466)).
-%patient: it_0133_005925 index:1467
+
+%patient: it-0133-005925 index:1467
 begin(model(1467)).
 gender(m).
 race(white).
@@ -33660,9 +39520,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1467)).
-%patient: it_0133_005926 index:1468
+
+%patient: it-0133-005926 index:1468
 begin(model(1468)).
 gender(f).
 race(white).
@@ -33684,8 +39548,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1468)).
-%patient: it_0133_005927 index:1469
+
+%patient: it-0133-005927 index:1469
 begin(model(1469)).
 gender(f).
 race(white).
@@ -33710,9 +39580,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1469)).
-%patient: it_0133_005928 index:1470
+
+%patient: it-0133-005928 index:1470
 begin(model(1470)).
 gender(f).
 race(white).
@@ -33731,8 +39605,14 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1470)).
-%patient: it_0133_005929 index:1471
+
+%patient: it-0133-005929 index:1471
 begin(model(1471)).
 gender(f).
 race(white).
@@ -33754,8 +39634,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1471)).
-%patient: it_0133_005930 index:1472
+
+%patient: it-0133-005930 index:1472
 begin(model(1472)).
 gender(f).
 race(white).
@@ -33778,8 +39663,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1472)).
-%patient: it_0133_005931 index:1473
+
+%patient: it-0133-005931 index:1473
 begin(model(1473)).
 gender(f).
 race(white).
@@ -33804,9 +39694,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1473)).
-%patient: it_0133_005932 index:1474
+
+%patient: it-0133-005932 index:1474
 begin(model(1474)).
 gender(f).
 race(white).
@@ -33826,9 +39721,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1474)).
-%patient: it_0133_005933 index:1475
+
+%patient: it-0133-005933 index:1475
 begin(model(1475)).
 gender(m).
 race(white).
@@ -33850,9 +39749,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1475)).
-%patient: it_0133_005934 index:1476
+
+%patient: it-0133-005934 index:1476
 begin(model(1476)).
 gender(f).
 race(white).
@@ -33875,8 +39778,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1476)).
-%patient: it_0133_005935 index:1477
+
+%patient: it-0133-005935 index:1477
 begin(model(1477)).
 gender(m).
 race(white).
@@ -33894,8 +39802,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1477)).
-%patient: it_0133_005937 index:1478
+
+%patient: it-0133-005937 index:1478
 begin(model(1478)).
 gender(f).
 race(white).
@@ -33915,8 +39828,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1478)).
-%patient: it_0133_005938 index:1479
+
+%patient: it-0133-005938 index:1479
 begin(model(1479)).
 gender(f).
 race(white).
@@ -33933,9 +39851,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1479)).
-%patient: it_0133_006052 index:1480
+
+%patient: it-0133-006052 index:1480
 begin(model(1480)).
 gender(m).
 race(white).
@@ -33956,9 +39879,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1480)).
-%patient: it_0133_006053 index:1481
+
+%patient: it-0133-006053 index:1481
 begin(model(1481)).
 gender(f).
 race(white).
@@ -33980,9 +39908,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1481)).
-%patient: it_0133_006055 index:1482
+
+%patient: it-0133-006055 index:1482
 begin(model(1482)).
 gender(f).
 race(white).
@@ -34001,9 +39934,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1482)).
-%patient: it_0133_006057 index:1483
+
+%patient: it-0133-006057 index:1483
 begin(model(1483)).
 gender(f).
 race(white).
@@ -34025,9 +39963,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1483)).
-%patient: it_0133_006059 index:1484
+
+%patient: it-0133-006059 index:1484
 begin(model(1484)).
 gender(f).
 race(white).
@@ -34045,9 +39989,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1484)).
-%patient: it_0133_006060 index:1485
+
+%patient: it-0133-006060 index:1485
 begin(model(1485)).
 gender(f).
 race(white).
@@ -34067,9 +40017,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1485)).
-%patient: it_0133_006061 index:1486
+
+%patient: it-0133-006061 index:1486
 begin(model(1486)).
 gender(m).
 race(white).
@@ -34089,9 +40045,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1486)).
-%patient: it_0133_006291 index:1487
+
+%patient: it-0133-006291 index:1487
 begin(model(1487)).
 gender(f).
 race(white).
@@ -34110,9 +40072,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1487)).
-%patient: it_0133_006292 index:1488
+
+%patient: it-0133-006292 index:1488
 begin(model(1488)).
 gender(f).
 mobcat(2).
@@ -34129,10 +40096,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1488)).
-%patient: it_0133_006293 index:1489
+
+%patient: it-0133-006293 index:1489
 begin(model(1489)).
 gender(f).
 race(white).
@@ -34150,9 +40121,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1489)).
-%patient: it_0133_006294 index:1490
+
+%patient: it-0133-006294 index:1490
 begin(model(1490)).
 gender(f).
 race(white).
@@ -34172,9 +40149,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1490)).
-%patient: it_0133_006295 index:1491
+
+%patient: it-0133-006295 index:1491
 begin(model(1491)).
 gender(f).
 race(white).
@@ -34192,10 +40174,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1491)).
-%patient: it_0133_006296 index:1492
+
+%patient: it-0133-006296 index:1492
 begin(model(1492)).
 gender(f).
 race(white).
@@ -34215,10 +40201,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1492)).
-%patient: it_0133_006297 index:1493
+
+%patient: it-0133-006297 index:1493
 begin(model(1493)).
 gender(f).
 race(white).
@@ -34235,9 +40225,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1493)).
-%patient: it_0133_006298 index:1494
+
+%patient: it-0133-006298 index:1494
 begin(model(1494)).
 gender(f).
 race(white).
@@ -34258,8 +40253,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1494)).
-%patient: it_0133_006299 index:1495
+
+%patient: it-0133-006299 index:1495
 begin(model(1495)).
 gender(f).
 race(white).
@@ -34276,9 +40277,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1495)).
-%patient: it_0133_006300 index:1496
+
+%patient: it-0133-006300 index:1496
 begin(model(1496)).
 gender(f).
 race(white).
@@ -34297,9 +40303,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1496)).
-%patient: it_0133_006302 index:1497
+
+%patient: it-0133-006302 index:1497
 begin(model(1497)).
 gender(f).
 race(white).
@@ -34317,8 +40329,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1497)).
-%patient: it_0133_006303 index:1498
+
+%patient: it-0133-006303 index:1498
 begin(model(1498)).
 gender(f).
 race(white).
@@ -34337,8 +40354,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1498)).
-%patient: it_0133_006304 index:1499
+
+%patient: it-0133-006304 index:1499
 begin(model(1499)).
 gender(f).
 race(white).
@@ -34355,9 +40377,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1499)).
-%patient: it_0133_006306 index:1500
+
+%patient: it-0133-006306 index:1500
 begin(model(1500)).
 gender(m).
 race(white).
@@ -34374,9 +40401,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1500)).
-%patient: it_0133_006307 index:1501
+
+%patient: it-0133-006307 index:1501
 begin(model(1501)).
 gender(m).
 race(white).
@@ -34393,9 +40425,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1501)).
-%patient: it_0133_006308 index:1502
+
+%patient: it-0133-006308 index:1502
 begin(model(1502)).
 gender(f).
 race(white).
@@ -34416,8 +40453,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1502)).
-%patient: it_0133_006310 index:1503
+
+%patient: it-0133-006310 index:1503
 begin(model(1503)).
 gender(f).
 race(white).
@@ -34434,9 +40476,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1503)).
-%patient: it_0133_006311 index:1504
+
+%patient: it-0133-006311 index:1504
 begin(model(1504)).
 gender(f).
 race(white).
@@ -34454,10 +40502,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1504)).
-%patient: it_0135_004360 index:1505
+
+%patient: it-0135-004360 index:1505
 begin(model(1505)).
 gender(f).
 race(white).
@@ -34475,9 +40528,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1505)).
-%patient: it_0135_004361 index:1506
+
+%patient: it-0135-004361 index:1506
 begin(model(1506)).
 gender(f).
 race(white).
@@ -34497,9 +40554,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1506)).
-%patient: it_0135_004362 index:1507
+
+%patient: it-0135-004362 index:1507
 begin(model(1507)).
 gender(m).
 race(white).
@@ -34516,9 +40576,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1507)).
-%patient: it_0135_004364 index:1508
+
+%patient: it-0135-004364 index:1508
 begin(model(1508)).
 gender(m).
 race(white).
@@ -34537,9 +40600,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1508)).
-%patient: it_0135_004634 index:1509
+
+%patient: it-0135-004634 index:1509
 begin(model(1509)).
 gender(m).
 race(white).
@@ -34559,8 +40625,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+antipneumovaccine(1).
 end(model(1509)).
-%patient: it_0135_004635 index:1510
+
+%patient: it-0135-004635 index:1510
 begin(model(1510)).
 gender(f).
 race(white).
@@ -34577,8 +40646,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1510)).
-%patient: it_0135_004636 index:1511
+
+%patient: it-0135-004636 index:1511
 begin(model(1511)).
 gender(m).
 race(white).
@@ -34595,8 +40667,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1511)).
-%patient: it_0135_004637 index:1512
+
+%patient: it-0135-004637 index:1512
 begin(model(1512)).
 gender(f).
 race(white).
@@ -34616,8 +40691,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1512)).
-%patient: it_0135_004639 index:1513
+
+%patient: it-0135-004639 index:1513
 begin(model(1513)).
 gender(f).
 race(white).
@@ -34634,9 +40713,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 testid(t).
 end(model(1513)).
-%patient: it_0135_004640 index:1514
+
+%patient: it-0135-004640 index:1514
 begin(model(1514)).
 gender(f).
 race(white).
@@ -34656,8 +40737,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1514)).
-%patient: it_0135_004642 index:1515
+
+%patient: it-0135-004642 index:1515
 begin(model(1515)).
 gender(m).
 race(white).
@@ -34677,9 +40762,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 testid(t).
 end(model(1515)).
-%patient: it_0135_004644 index:1516
+
+%patient: it-0135-004644 index:1516
 begin(model(1516)).
 gender(f).
 race(white).
@@ -34698,8 +40787,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+testid(t).
 end(model(1516)).
-%patient: it_0135_004645 index:1517
+
+%patient: it-0135-004645 index:1517
 begin(model(1517)).
 gender(m).
 race(white).
@@ -34718,9 +40812,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1517)).
-%patient: it_0135_004648 index:1518
+
+%patient: it-0135-004648 index:1518
 begin(model(1518)).
 gender(f).
 race(white).
@@ -34737,8 +40834,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+testid(t).
 end(model(1518)).
-%patient: it_0135_004652 index:1519
+
+%patient: it-0135-004652 index:1519
 begin(model(1519)).
 gender(f).
 race(white).
@@ -34756,8 +40858,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(1519)).
-%patient: it_0135_004654 index:1520
+
+%patient: it-0135-004654 index:1520
 begin(model(1520)).
 gender(f).
 race(white).
@@ -34776,8 +40882,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1520)).
-%patient: it_0135_004655 index:1521
+
+%patient: it-0135-004655 index:1521
 begin(model(1521)).
 gender(m).
 race(white).
@@ -34800,8 +40910,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(1521)).
-%patient: it_0136_005412 index:1522
+
+%patient: it-0136-005412 index:1522
 begin(model(1522)).
 gender(f).
 race(white).
@@ -34821,8 +40935,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1522)).
-%patient: it_0136_005510 index:1523
+
+%patient: it-0136-005510 index:1523
 begin(model(1523)).
 gender(f).
 race(white).
@@ -34840,9 +40957,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
 end(model(1523)).
-%patient: it_0136_005511 index:1524
+
+%patient: it-0136-005511 index:1524
 begin(model(1524)).
 gender(f).
 race(white).
@@ -34862,9 +40980,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 testid(t).
 end(model(1524)).
-%patient: it_0136_005512 index:1525
+
+%patient: it-0136-005512 index:1525
 begin(model(1525)).
 gender(f).
 race(white).
@@ -34885,8 +41005,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1525)).
-%patient: it_0136_005517 index:1526
+
+%patient: it-0136-005517 index:1526
 begin(model(1526)).
 gender(f).
 race(white).
@@ -34903,8 +41025,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1526)).
-%patient: it_0136_005518 index:1527
+
+%patient: it-0136-005518 index:1527
 begin(model(1527)).
 gender(m).
 race(white).
@@ -34925,8 +41049,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1527)).
-%patient: it_0136_005519 index:1528
+
+%patient: it-0136-005519 index:1528
 begin(model(1528)).
 gender(f).
 race(white).
@@ -34944,8 +41070,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1528)).
-%patient: it_0136_005520 index:1529
+
+%patient: it-0136-005520 index:1529
 begin(model(1529)).
 gender(f).
 race(white).
@@ -34961,9 +41089,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
 end(model(1529)).
-%patient: it_0136_005522 index:1530
+
+%patient: it-0136-005522 index:1530
 begin(model(1530)).
 gender(m).
 race(white).
@@ -34981,8 +41110,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1530)).
-%patient: it_0136_005608 index:1531
+
+%patient: it-0136-005608 index:1531
 begin(model(1531)).
 gender(f).
 race(white).
@@ -35005,8 +41136,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1531)).
-%patient: it_0138_004433 index:1532
+
+%patient: it-0138-004433 index:1532
 begin(model(1532)).
 gender(f).
 race(white).
@@ -35023,10 +41156,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1532)).
-%patient: it_0138_004449 index:1533
+
+%patient: it-0138-004449 index:1533
 begin(model(1533)).
 gender(f).
 race(white).
@@ -35045,9 +41182,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1533)).
-%patient: it_0138_004450 index:1534
+
+%patient: it-0138-004450 index:1534
 begin(model(1534)).
 gender(f).
 race(white).
@@ -35063,9 +41206,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1534)).
-%patient: it_0138_004451 index:1535
+
+%patient: it-0138-004451 index:1535
 begin(model(1535)).
 gender(m).
 race(white).
@@ -35085,9 +41233,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1535)).
-%patient: it_0138_004452 index:1536
+
+%patient: it-0138-004452 index:1536
 begin(model(1536)).
 gender(f).
 race(white).
@@ -35103,9 +41257,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1536)).
-%patient: it_0138_004453 index:1537
+
+%patient: it-0138-004453 index:1537
 begin(model(1537)).
 gender(f).
 race(white).
@@ -35126,9 +41286,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1537)).
-%patient: it_0138_004454 index:1538
+
+%patient: it-0138-004454 index:1538
 begin(model(1538)).
 gender(m).
 race(white).
@@ -35146,9 +41311,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1538)).
-%patient: it_0138_004456 index:1539
+
+%patient: it-0138-004456 index:1539
 begin(model(1539)).
 gender(f).
 race(white).
@@ -35164,9 +41335,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1539)).
-%patient: it_0138_004458 index:1540
+
+%patient: it-0138-004458 index:1540
 begin(model(1540)).
 gender(f).
 race(white).
@@ -35181,10 +41358,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1540)).
-%patient: it_0138_004459 index:1541
+
+%patient: it-0138-004459 index:1541
 begin(model(1541)).
 gender(f).
 race(white).
@@ -35199,9 +41380,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1541)).
-%patient: it_0138_004460 index:1542
+
+%patient: it-0138-004460 index:1542
 begin(model(1542)).
 gender(f).
 race(white).
@@ -35218,9 +41404,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1542)).
-%patient: it_0138_004461 index:1543
+
+%patient: it-0138-004461 index:1543
 begin(model(1543)).
 gender(f).
 race(white).
@@ -35237,9 +41428,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1543)).
-%patient: it_0138_004462 index:1544
+
+%patient: it-0138-004462 index:1544
 begin(model(1544)).
 gender(f).
 race(white).
@@ -35255,9 +41452,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1544)).
-%patient: it_0138_004465 index:1545
+
+%patient: it-0138-004465 index:1545
 begin(model(1545)).
 gender(f).
 race(white).
@@ -35276,9 +41479,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1545)).
-%patient: it_0138_004474 index:1546
+
+%patient: it-0138-004474 index:1546
 begin(model(1546)).
 gender(f).
 race(white).
@@ -35297,10 +41506,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1546)).
-%patient: it_0141_005369 index:1547
+
+%patient: it-0141-005369 index:1547
 begin(model(1547)).
 gender(f).
 race(white).
@@ -35323,8 +41536,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1547)).
-%patient: it_0141_005370 index:1548
+
+%patient: it-0141-005370 index:1548
 begin(model(1548)).
 gender(f).
 race(white).
@@ -35346,8 +41564,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1548)).
-%patient: it_0141_005374 index:1549
+
+%patient: it-0141-005374 index:1549
 begin(model(1549)).
 gender(m).
 race(white).
@@ -35367,8 +41591,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1549)).
-%patient: it_0141_005382 index:1550
+
+%patient: it-0141-005382 index:1550
 begin(model(1550)).
 gender(m).
 race(white).
@@ -35389,10 +41618,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1550)).
-%patient: it_0141_005389 index:1551
+
+%patient: it-0141-005389 index:1551
 begin(model(1551)).
 gender(f).
 race(white).
@@ -35412,8 +41646,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1551)).
-%patient: it_0141_005390 index:1552
+
+%patient: it-0141-005390 index:1552
 begin(model(1552)).
 gender(m).
 race(white).
@@ -35436,8 +41676,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1552)).
-%patient: it_0141_005391 index:1553
+
+%patient: it-0141-005391 index:1553
 begin(model(1553)).
 gender(f).
 race(white).
@@ -35458,8 +41703,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1553)).
-%patient: it_0141_005392 index:1554
+
+%patient: it-0141-005392 index:1554
 begin(model(1554)).
 gender(m).
 race(white).
@@ -35477,8 +41727,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1554)).
-%patient: it_0141_005489 index:1555
+
+%patient: it-0141-005489 index:1555
 begin(model(1555)).
 gender(f).
 race(white).
@@ -35496,9 +41751,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1555)).
-%patient: it_0141_005492 index:1556
+
+%patient: it-0141-005492 index:1556
 begin(model(1556)).
 gender(f).
 race(white).
@@ -35518,8 +41778,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1556)).
-%patient: it_0141_005498 index:1557
+
+%patient: it-0141-005498 index:1557
 begin(model(1557)).
 gender(f).
 race(white).
@@ -35541,8 +41806,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1557)).
-%patient: it_0141_005505 index:1558
+
+%patient: it-0141-005505 index:1558
 begin(model(1558)).
 gender(f).
 race(white).
@@ -35562,8 +41832,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1558)).
-%patient: it_0141_005506 index:1559
+
+%patient: it-0141-005506 index:1559
 begin(model(1559)).
 gender(f).
 race(white).
@@ -35585,8 +41860,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1559)).
-%patient: it_0141_005507 index:1560
+
+%patient: it-0141-005507 index:1560
 begin(model(1560)).
 gender(f).
 race(white).
@@ -35609,8 +41889,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1560)).
-%patient: it_0141_005768 index:1561
+
+%patient: it-0141-005768 index:1561
 begin(model(1561)).
 gender(f).
 race(white).
@@ -35630,8 +41915,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1561)).
-%patient: it_0141_005790 index:1562
+
+%patient: it-0141-005790 index:1562
 begin(model(1562)).
 gender(f).
 race(white).
@@ -35653,8 +41943,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1562)).
-%patient: it_0141_005791 index:1563
+
+%patient: it-0141-005791 index:1563
 begin(model(1563)).
 gender(f).
 race(white).
@@ -35674,8 +41969,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1563)).
-%patient: it_0141_005793 index:1564
+
+%patient: it-0141-005793 index:1564
 begin(model(1564)).
 gender(f).
 race(white).
@@ -35694,8 +41995,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1564)).
-%patient: it_0141_005795 index:1565
+
+%patient: it-0141-005795 index:1565
 begin(model(1565)).
 gender(m).
 race(white).
@@ -35714,9 +42020,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1565)).
-%patient: it_0141_005800 index:1566
+
+%patient: it-0141-005800 index:1566
 begin(model(1566)).
 gender(f).
 race(white).
@@ -35732,10 +42043,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1566)).
-%patient: it_0141_005803 index:1567
+
+%patient: it-0141-005803 index:1567
 begin(model(1567)).
 gender(f).
 race(white).
@@ -35753,9 +42068,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1567)).
-%patient: it_0141_005807 index:1568
+
+%patient: it-0141-005807 index:1568
 begin(model(1568)).
 gender(m).
 race(white).
@@ -35778,9 +42098,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1568)).
-%patient: it_0141_005816 index:1569
+
+%patient: it-0141-005816 index:1569
 begin(model(1569)).
 gender(m).
 race(white).
@@ -35801,9 +42126,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1569)).
-%patient: it_0141_006548 index:1570
+
+%patient: it-0141-006548 index:1570
 begin(model(1570)).
 gender(m).
 race(white).
@@ -35819,9 +42149,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1570)).
-%patient: it_0143_004086 index:1571
+
+%patient: it-0143-004086 index:1571
 begin(model(1571)).
 gender(m).
 race(white).
@@ -35848,9 +42184,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1571)).
-%patient: it_0143_004845 index:1572
+
+%patient: it-0143-004845 index:1572
 begin(model(1572)).
 gender(f).
 mobcat(5).
@@ -35866,8 +42206,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1572)).
-%patient: it_0143_004848 index:1573
+
+%patient: it-0143-004848 index:1573
 begin(model(1573)).
 gender(f).
 mobcat(1).
@@ -35887,8 +42229,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,1).
 end(model(1573)).
-%patient: it_0143_004852 index:1574
+
+%patient: it-0143-004852 index:1574
 begin(model(1574)).
 gender(f).
 mobcat(1).
@@ -35908,8 +42252,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1574)).
-%patient: it_0143_005245 index:1575
+
+%patient: it-0143-005245 index:1575
 begin(model(1575)).
 gender(f).
 mobcat(1).
@@ -35928,8 +42275,11 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1575)).
-%patient: it_0143_005250 index:1576
+
+%patient: it-0143-005250 index:1576
 begin(model(1576)).
 gender(f).
 mobcat(3).
@@ -35951,9 +42301,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 testid(t).
 end(model(1576)).
-%patient: it_0143_005263 index:1577
+
+%patient: it-0143-005263 index:1577
 begin(model(1577)).
 gender(f).
 mobcat(1).
@@ -35973,9 +42326,12 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 testid(t).
 end(model(1577)).
-%patient: it_0143_005266 index:1578
+
+%patient: it-0143-005266 index:1578
 begin(model(1578)).
 gender(f).
 mobcat(1).
@@ -35998,9 +42354,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1578)).
-%patient: it_0143_005268 index:1579
+
+%patient: it-0143-005268 index:1579
 begin(model(1579)).
 gender(f).
 mobcat(5).
@@ -36021,8 +42379,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1579)).
-%patient: it_0143_005271 index:1580
+
+%patient: it-0143-005271 index:1580
 begin(model(1580)).
 gender(f).
 mobcat(5).
@@ -36040,8 +42401,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1580)).
-%patient: it_0143_005272 index:1581
+
+%patient: it-0143-005272 index:1581
 begin(model(1581)).
 gender(f).
 mobcat(1).
@@ -36057,9 +42421,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 testid(t).
 end(model(1581)).
-%patient: it_0143_005274 index:1582
+
+%patient: it-0143-005274 index:1582
 begin(model(1582)).
 gender(f).
 mobcat(1).
@@ -36081,8 +42448,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1582)).
-%patient: it_0143_005275 index:1583
+
+%patient: it-0143-005275 index:1583
 begin(model(1583)).
 gender(f).
 mobcat(1).
@@ -36100,8 +42470,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1583)).
-%patient: it_0143_005277 index:1584
+
+%patient: it-0143-005277 index:1584
 begin(model(1584)).
 gender(f).
 mobcat(1).
@@ -36123,8 +42496,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1584)).
-%patient: it_0143_005281 index:1585
+
+%patient: it-0143-005281 index:1585
 begin(model(1585)).
 gender(m).
 mobcat(3).
@@ -36140,9 +42516,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(1585)).
-%patient: it_0143_005287 index:1586
+
+%patient: it-0143-005287 index:1586
 begin(model(1586)).
 gender(f).
 mobcat(0).
@@ -36157,8 +42535,10 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1586)).
-%patient: it_0143_005308 index:1587
+
+%patient: it-0143-005308 index:1587
 begin(model(1587)).
 gender(f).
 mobcat(1).
@@ -36177,9 +42557,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1587)).
-%patient: it_0143_005312 index:1588
+
+%patient: it-0143-005312 index:1588
 begin(model(1588)).
 gender(f).
 mobcat(1).
@@ -36198,8 +42579,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1588)).
-%patient: it_0143_005313 index:1589
+
+%patient: it-0143-005313 index:1589
 begin(model(1589)).
 gender(m).
 mobcat(5).
@@ -36216,9 +42599,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1589)).
-%patient: it_0143_005314 index:1590
+
+%patient: it-0143-005314 index:1590
 begin(model(1590)).
 gender(f).
 mobcat(1).
@@ -36237,8 +42621,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1590)).
-%patient: it_0143_005316 index:1591
+
+%patient: it-0143-005316 index:1591
 begin(model(1591)).
 gender(f).
 mobcat(3).
@@ -36261,8 +42647,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1591)).
-%patient: it_0143_005317 index:1592
+
+%patient: it-0143-005317 index:1592
 begin(model(1592)).
 gender(f).
 mobcat(1).
@@ -36284,9 +42672,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1592)).
-%patient: it_0143_005318 index:1593
+
+%patient: it-0143-005318 index:1593
 begin(model(1593)).
 gender(f).
 mobcat(0).
@@ -36305,9 +42694,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1593)).
-%patient: it_0143_005321 index:1594
+
+%patient: it-0143-005321 index:1594
 begin(model(1594)).
 gender(f).
 mobcat(1).
@@ -36326,8 +42716,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1594)).
-%patient: it_0143_005323 index:1595
+
+%patient: it-0143-005323 index:1595
 begin(model(1595)).
 gender(f).
 mobcat(1).
@@ -36347,8 +42739,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1595)).
-%patient: it_0143_005324 index:1596
+
+%patient: it-0143-005324 index:1596
 begin(model(1596)).
 gender(f).
 mobcat(2).
@@ -36366,8 +42760,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1596)).
-%patient: it_0143_005325 index:1597
+
+%patient: it-0143-005325 index:1597
 begin(model(1597)).
 gender(f).
 mobcat(1).
@@ -36389,8 +42785,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1597)).
-%patient: it_0143_005326 index:1598
+
+%patient: it-0143-005326 index:1598
 begin(model(1598)).
 gender(f).
 mobcat(1).
@@ -36412,8 +42810,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1598)).
-%patient: it_0143_005327 index:1599
+
+%patient: it-0143-005327 index:1599
 begin(model(1599)).
 gender(m).
 mobcat(0).
@@ -36430,8 +42830,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1599)).
-%patient: it_0143_005328 index:1600
+
+%patient: it-0143-005328 index:1600
 begin(model(1600)).
 gender(f).
 mobcat(2).
@@ -36451,8 +42853,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1600)).
-%patient: it_0143_005329 index:1601
+
+%patient: it-0143-005329 index:1601
 begin(model(1601)).
 gender(f).
 mobcat(2).
@@ -36473,8 +42878,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1601)).
-%patient: it_0143_005331 index:1602
+
+%patient: it-0143-005331 index:1602
 begin(model(1602)).
 gender(f).
 mobcat(1).
@@ -36497,8 +42904,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1602)).
-%patient: it_0143_005333 index:1603
+
+%patient: it-0143-005333 index:1603
 begin(model(1603)).
 gender(f).
 mobcat(0).
@@ -36518,9 +42928,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1603)).
-%patient: it_0143_005334 index:1604
+
+%patient: it-0143-005334 index:1604
 begin(model(1604)).
 gender(f).
 mobcat(1).
@@ -36544,8 +42955,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1604)).
-%patient: it_0143_005335 index:1605
+
+%patient: it-0143-005335 index:1605
 begin(model(1605)).
 gender(f).
 mobcat(0).
@@ -36565,8 +42978,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1605)).
-%patient: it_0143_005336 index:1606
+
+%patient: it-0143-005336 index:1606
 begin(model(1606)).
 gender(f).
 mobcat(1).
@@ -36584,8 +42999,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1606)).
-%patient: it_0143_005337 index:1607
+
+%patient: it-0143-005337 index:1607
 begin(model(1607)).
 gender(m).
 mobcat(1).
@@ -36604,9 +43021,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(1607)).
-%patient: it_0143_006149 index:1608
+
+%patient: it-0143-006149 index:1608
 begin(model(1608)).
 gender(f).
 mobcat(1).
@@ -36622,9 +43041,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1608)).
-%patient: it_0143_006150 index:1609
+
+%patient: it-0143-006150 index:1609
 begin(model(1609)).
 gender(f).
 mobcat(1).
@@ -36645,8 +43065,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1609)).
-%patient: it_0143_006159 index:1610
+
+%patient: it-0143-006159 index:1610
 begin(model(1610)).
 gender(f).
 mobcat(1).
@@ -36667,8 +43089,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1610)).
-%patient: it_0143_006160 index:1611
+
+%patient: it-0143-006160 index:1611
 begin(model(1611)).
 gender(f).
 mobcat(1).
@@ -36686,8 +43111,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1611)).
-%patient: it_0143_006161 index:1612
+
+%patient: it-0143-006161 index:1612
 begin(model(1612)).
 gender(f).
 mobcat(2).
@@ -36705,8 +43133,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1612)).
-%patient: it_0143_006162 index:1613
+
+%patient: it-0143-006162 index:1613
 begin(model(1613)).
 gender(m).
 mobcat(4).
@@ -36722,8 +43153,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1613)).
-%patient: it_0143_006163 index:1614
+
+%patient: it-0143-006163 index:1614
 begin(model(1614)).
 gender(m).
 mobcat(1).
@@ -36742,8 +43175,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1614)).
-%patient: it_0143_006164 index:1615
+
+%patient: it-0143-006164 index:1615
 begin(model(1615)).
 gender(f).
 mobcat(3).
@@ -36763,8 +43198,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1615)).
-%patient: it_0143_006165 index:1616
+
+%patient: it-0143-006165 index:1616
 begin(model(1616)).
 gender(f).
 mobcat(1).
@@ -36785,8 +43223,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1616)).
-%patient: it_0143_006183 index:1617
+
+%patient: it-0143-006183 index:1617
 begin(model(1617)).
 gender(m).
 mobcat(1).
@@ -36804,9 +43244,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1617)).
-%patient: it_0143_006185 index:1618
+
+%patient: it-0143-006185 index:1618
 begin(model(1618)).
 gender(f).
 mobcat(2).
@@ -36826,8 +43267,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1618)).
-%patient: it_0143_006189 index:1619
+
+%patient: it-0143-006189 index:1619
 begin(model(1619)).
 gender(f).
 mobcat(5).
@@ -36846,9 +43290,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1619)).
-%patient: it_0143_006192 index:1620
+
+%patient: it-0143-006192 index:1620
 begin(model(1620)).
 gender(f).
 mobcat(4).
@@ -36868,9 +43313,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1620)).
-%patient: it_0143_006193 index:1621
+
+%patient: it-0143-006193 index:1621
 begin(model(1621)).
 gender(f).
 mobcat(5).
@@ -36891,8 +43337,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1621)).
-%patient: it_0143_006194 index:1622
+
+%patient: it-0143-006194 index:1622
 begin(model(1622)).
 gender(f).
 mobcat(5).
@@ -36911,8 +43359,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1622)).
-%patient: it_0143_006196 index:1623
+
+%patient: it-0143-006196 index:1623
 begin(model(1623)).
 gender(f).
 mobcat(2).
@@ -36931,9 +43381,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1623)).
-%patient: it_0143_006199 index:1624
+
+%patient: it-0143-006199 index:1624
 begin(model(1624)).
 gender(f).
 mobcat(1).
@@ -36952,8 +43403,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1624)).
-%patient: it_0143_006200 index:1625
+
+%patient: it-0143-006200 index:1625
 begin(model(1625)).
 gender(f).
 mobcat(1).
@@ -36970,9 +43423,10 @@ who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1625)).
-%patient: it_0143_006201 index:1626
+
+%patient: it-0143-006201 index:1626
 begin(model(1626)).
 gender(m).
 mobcat(2).
@@ -36994,8 +43448,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1626)).
-%patient: it_0143_006202 index:1627
+
+%patient: it-0143-006202 index:1627
 begin(model(1627)).
 gender(f).
 mobcat(2).
@@ -37014,9 +43470,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1627)).
-%patient: it_0143_006204 index:1628
+
+%patient: it-0143-006204 index:1628
 begin(model(1628)).
 gender(f).
 mobcat(4).
@@ -37037,8 +43494,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1628)).
-%patient: it_0143_006207 index:1629
+
+%patient: it-0143-006207 index:1629
 begin(model(1629)).
 gender(m).
 mobcat(2).
@@ -37052,8 +43512,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1629)).
-%patient: it_0143_006278 index:1630
+
+%patient: it-0143-006278 index:1630
 begin(model(1630)).
 gender(f).
 mobcat(1).
@@ -37074,8 +43537,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1630)).
-%patient: it_0143_006279 index:1631
+
+%patient: it-0143-006279 index:1631
 begin(model(1631)).
 gender(f).
 mobcat(1).
@@ -37094,9 +43559,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1631)).
-%patient: it_0143_006281 index:1632
+
+%patient: it-0143-006281 index:1632
 begin(model(1632)).
 gender(f).
 mobcat(4).
@@ -37116,8 +43582,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1632)).
-%patient: it_0143_006284 index:1633
+
+%patient: it-0143-006284 index:1633
 begin(model(1633)).
 gender(f).
 mobcat(4).
@@ -37138,8 +43607,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1633)).
-%patient: it_0143_006285 index:1634
+
+%patient: it-0143-006285 index:1634
 begin(model(1634)).
 gender(m).
 mobcat(1).
@@ -37156,8 +43627,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1634)).
-%patient: it_0143_006286 index:1635
+
+%patient: it-0143-006286 index:1635
 begin(model(1635)).
 gender(f).
 mobcat(1).
@@ -37175,8 +43648,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1635)).
-%patient: it_0143_006621 index:1636
+
+%patient: it-0143-006621 index:1636
 begin(model(1636)).
 gender(f).
 mobcat(2).
@@ -37194,8 +43669,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1636)).
-%patient: it_0143_006624 index:1637
+
+%patient: it-0143-006624 index:1637
 begin(model(1637)).
 gender(m).
 mobcat(1).
@@ -37216,8 +43694,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1637)).
-%patient: it_0143_006625 index:1638
+
+%patient: it-0143-006625 index:1638
 begin(model(1638)).
 gender(f).
 race(white).
@@ -37238,8 +43718,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1638)).
-%patient: it_0143_006628 index:1639
+
+%patient: it-0143-006628 index:1639
 begin(model(1639)).
 gender(m).
 mobcat(5).
@@ -37259,9 +43741,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1639)).
-%patient: it_0143_006629 index:1640
+
+%patient: it-0143-006629 index:1640
 begin(model(1640)).
 gender(f).
 mobcat(5).
@@ -37278,8 +43761,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1640)).
-%patient: it_0143_006630 index:1641
+
+%patient: it-0143-006630 index:1641
 begin(model(1641)).
 gender(f).
 mobcat(5).
@@ -37298,8 +43783,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1641)).
-%patient: it_0143_006631 index:1642
+
+%patient: it-0143-006631 index:1642
 begin(model(1642)).
 gender(f).
 mobcat(5).
@@ -37316,8 +43803,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1642)).
-%patient: it_0143_006632 index:1643
+
+%patient: it-0143-006632 index:1643
 begin(model(1643)).
 gender(f).
 mobcat(5).
@@ -37336,8 +43825,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1643)).
-%patient: it_0143_006633 index:1644
+
+%patient: it-0143-006633 index:1644
 begin(model(1644)).
 gender(f).
 mobcat(1).
@@ -37360,9 +43851,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(1644)).
-%patient: it_0143_006634 index:1645
+
+%patient: it-0143-006634 index:1645
 begin(model(1645)).
 gender(f).
 mobcat(1).
@@ -37384,8 +43876,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1645)).
-%patient: it_0143_006635 index:1646
+
+%patient: it-0143-006635 index:1646
 begin(model(1646)).
 gender(f).
 mobcat(5).
@@ -37407,8 +43901,10 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1646)).
-%patient: it_0143_006637 index:1647
+
+%patient: it-0143-006637 index:1647
 begin(model(1647)).
 gender(m).
 mobcat(1).
@@ -37424,9 +43920,11 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(1647)).
-%patient: it_0143_006639 index:1648
+
+%patient: it-0143-006639 index:1648
 begin(model(1648)).
 gender(f).
 mobcat(5).
@@ -37447,8 +43945,10 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1648)).
-%patient: it_0143_006640 index:1649
+
+%patient: it-0143-006640 index:1649
 begin(model(1649)).
 gender(f).
 mobcat(1).
@@ -37467,8 +43967,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1649)).
-%patient: it_0143_006641 index:1650
+
+%patient: it-0143-006641 index:1650
 begin(model(1650)).
 gender(f).
 race(white).
@@ -37491,9 +43993,11 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(1650)).
-%patient: it_0143_006642 index:1651
+
+%patient: it-0143-006642 index:1651
 begin(model(1651)).
 gender(f).
 mobcat(1).
@@ -37512,8 +44016,11 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(1651)).
-%patient: it_0145_004572 index:1652
+
+%patient: it-0145-004572 index:1652
 begin(model(1652)).
 gender(m).
 race(white).
@@ -37539,9 +44046,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1652)).
-%patient: it_0145_004575 index:1653
+
+%patient: it-0145-004575 index:1653
 begin(model(1653)).
 gender(f).
 race(white).
@@ -37570,9 +44083,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1653)).
-%patient: it_0145_006867 index:1654
+
+%patient: it-0145-006867 index:1654
 begin(model(1654)).
 gender(f).
 race(white).
@@ -37591,10 +44109,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1654)).
-%patient: it_0145_006868 index:1655
+
+%patient: it-0145-006868 index:1655
 begin(model(1655)).
 gender(f).
 race(white).
@@ -37616,9 +44139,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1655)).
-%patient: it_0145_006871 index:1656
+
+%patient: it-0145-006871 index:1656
 begin(model(1656)).
 gender(f).
 race(white).
@@ -37641,10 +44169,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1656)).
-%patient: it_0145_006874 index:1657
+
+%patient: it-0145-006874 index:1657
 begin(model(1657)).
 gender(m).
 race(white).
@@ -37666,9 +44199,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1657)).
-%patient: it_0145_006875 index:1658
+
+%patient: it-0145-006875 index:1658
 begin(model(1658)).
 gender(f).
 race(white).
@@ -37689,9 +44228,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1658)).
-%patient: it_0145_006878 index:1659
+
+%patient: it-0145-006878 index:1659
 begin(model(1659)).
 gender(f).
 race(white).
@@ -37711,10 +44255,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1659)).
-%patient: it_0145_006879 index:1660
+
+%patient: it-0145-006879 index:1660
 begin(model(1660)).
 gender(f).
 race(white).
@@ -37736,9 +44284,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1660)).
-%patient: it_0145_006880 index:1661
+
+%patient: it-0145-006880 index:1661
 begin(model(1661)).
 gender(m).
 race(white).
@@ -37763,10 +44316,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1661)).
-%patient: it_0145_006881 index:1662
+
+%patient: it-0145-006881 index:1662
 begin(model(1662)).
 gender(f).
 race(white).
@@ -37786,9 +44343,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1662)).
-%patient: it_0145_006882 index:1663
+
+%patient: it-0145-006882 index:1663
 begin(model(1663)).
 gender(f).
 race(white).
@@ -37809,10 +44371,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1663)).
-%patient: it_0145_006884 index:1664
+
+%patient: it-0145-006884 index:1664
 begin(model(1664)).
 gender(f).
 race(white).
@@ -37832,9 +44399,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1664)).
-%patient: it_0145_006885 index:1665
+
+%patient: it-0145-006885 index:1665
 begin(model(1665)).
 gender(f).
 race(white).
@@ -37853,10 +44426,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1665)).
-%patient: it_0145_006886 index:1666
+
+%patient: it-0145-006886 index:1666
 begin(model(1666)).
 gender(f).
 race(white).
@@ -37878,9 +44455,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1666)).
-%patient: it_0145_006887 index:1667
+
+%patient: it-0145-006887 index:1667
 begin(model(1667)).
 gender(f).
 race(white).
@@ -37902,9 +44484,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1667)).
-%patient: it_0145_006888 index:1668
+
+%patient: it-0145-006888 index:1668
 begin(model(1668)).
 gender(f).
 race(white).
@@ -37923,9 +44511,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1668)).
-%patient: it_0145_006890 index:1669
+
+%patient: it-0145-006890 index:1669
 begin(model(1669)).
 gender(f).
 race(white).
@@ -37948,9 +44541,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1669)).
-%patient: it_0145_006895 index:1670
+
+%patient: it-0145-006895 index:1670
 begin(model(1670)).
 gender(m).
 race(white).
@@ -37974,9 +44572,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1670)).
-%patient: it_0148_005822 index:1671
+
+%patient: it-0148-005822 index:1671
 begin(model(1671)).
 gender(m).
 mobcat(3).
@@ -37997,10 +44600,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1671)).
-%patient: it_0148_006007 index:1672
+
+%patient: it-0148-006007 index:1672
 begin(model(1672)).
 gender(f).
 mobcat(3).
@@ -38021,8 +44628,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1672)).
-%patient: it_0151_005727 index:1673
+
+%patient: it-0151-005727 index:1673
 begin(model(1673)).
 gender(f).
 mobcat(2).
@@ -38039,9 +44651,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1673)).
-%patient: it_0152_004903 index:1674
+
+%patient: it-0152-004903 index:1674
 begin(model(1674)).
 gender(f).
 race(white).
@@ -38060,9 +44676,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1674)).
-%patient: it_0152_004904 index:1675
+
+%patient: it-0152-004904 index:1675
 begin(model(1675)).
 gender(f).
 race(white).
@@ -38078,10 +44696,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1675)).
-%patient: it_0152_004905 index:1676
+
+%patient: it-0152-004905 index:1676
 begin(model(1676)).
 gender(f).
 race(white).
@@ -38098,10 +44717,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(1676)).
-%patient: it_0152_004907 index:1677
+
+%patient: it-0152-004907 index:1677
 begin(model(1677)).
 gender(f).
 race(white).
@@ -38121,9 +44742,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1677)).
-%patient: it_0152_004908 index:1678
+
+%patient: it-0152-004908 index:1678
 begin(model(1678)).
 gender(f).
 race(white).
@@ -38140,9 +44764,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1678)).
-%patient: it_0152_004910 index:1679
+
+%patient: it-0152-004910 index:1679
 begin(model(1679)).
 gender(f).
 race(white).
@@ -38160,9 +44786,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1679)).
-%patient: it_0152_004911 index:1680
+
+%patient: it-0152-004911 index:1680
 begin(model(1680)).
 gender(f).
 race(white).
@@ -38179,9 +44807,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1680)).
-%patient: it_0152_004912 index:1681
+
+%patient: it-0152-004912 index:1681
 begin(model(1681)).
 gender(f).
 race(white).
@@ -38200,9 +44830,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1681)).
-%patient: it_0152_004913 index:1682
+
+%patient: it-0152-004913 index:1682
 begin(model(1682)).
 gender(f).
 race(white).
@@ -38221,10 +44854,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1682)).
-%patient: it_0152_004914 index:1683
+
+%patient: it-0152-004914 index:1683
 begin(model(1683)).
 gender(m).
 race(white).
@@ -38243,9 +44877,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1683)).
-%patient: it_0152_004915 index:1684
+
+%patient: it-0152-004915 index:1684
 begin(model(1684)).
 gender(f).
 race(white).
@@ -38267,9 +44904,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1684)).
-%patient: it_0152_004916 index:1685
+
+%patient: it-0152-004916 index:1685
 begin(model(1685)).
 gender(f).
 race(white).
@@ -38288,9 +44927,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1685)).
-%patient: it_0152_004917 index:1686
+
+%patient: it-0152-004917 index:1686
 begin(model(1686)).
 gender(m).
 race(white).
@@ -38309,10 +44950,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1686)).
-%patient: it_0152_004921 index:1687
+
+%patient: it-0152-004921 index:1687
 begin(model(1687)).
 gender(f).
 race(white).
@@ -38335,10 +44977,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1687)).
-%patient: it_0152_004922 index:1688
+
+%patient: it-0152-004922 index:1688
 begin(model(1688)).
 gender(f).
 race(white).
@@ -38358,9 +45001,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1688)).
-%patient: it_0152_004923 index:1689
+
+%patient: it-0152-004923 index:1689
 begin(model(1689)).
 gender(f).
 race(white).
@@ -38379,9 +45024,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1689)).
-%patient: it_0152_004924 index:1690
+
+%patient: it-0152-004924 index:1690
 begin(model(1690)).
 gender(f).
 race(white).
@@ -38399,9 +45047,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1690)).
-%patient: it_0152_004925 index:1691
+
+%patient: it-0152-004925 index:1691
 begin(model(1691)).
 gender(m).
 race(white).
@@ -38422,9 +45072,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1691)).
-%patient: it_0152_004926 index:1692
+
+%patient: it-0152-004926 index:1692
 begin(model(1692)).
 gender(f).
 race(white).
@@ -38442,9 +45094,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1692)).
-%patient: it_0152_004927 index:1693
+
+%patient: it-0152-004927 index:1693
 begin(model(1693)).
 gender(f).
 race(white).
@@ -38465,10 +45120,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1693)).
-%patient: it_0152_004928 index:1694
+
+%patient: it-0152-004928 index:1694
 begin(model(1694)).
 gender(f).
 race(white).
@@ -38488,9 +45144,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1694)).
-%patient: it_0152_004929 index:1695
+
+%patient: it-0152-004929 index:1695
 begin(model(1695)).
 gender(f).
 race(white).
@@ -38505,10 +45163,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1695)).
-%patient: it_0152_004959 index:1696
+
+%patient: it-0152-004959 index:1696
 begin(model(1696)).
 gender(m).
 race(white).
@@ -38528,9 +45187,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1696)).
-%patient: it_0152_004984 index:1697
+
+%patient: it-0152-004984 index:1697
 begin(model(1697)).
 gender(f).
 race(white).
@@ -38548,10 +45209,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1697)).
-%patient: it_0152_004987 index:1698
+
+%patient: it-0152-004987 index:1698
 begin(model(1698)).
 gender(f).
 race(white).
@@ -38571,9 +45233,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1698)).
-%patient: it_0152_004991 index:1699
+
+%patient: it-0152-004991 index:1699
 begin(model(1699)).
 gender(f).
 race(white).
@@ -38592,9 +45257,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1699)).
-%patient: it_0152_004994 index:1700
+
+%patient: it-0152-004994 index:1700
 begin(model(1700)).
 gender(f).
 race(white).
@@ -38611,10 +45279,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1700)).
-%patient: it_0152_004995 index:1701
+
+%patient: it-0152-004995 index:1701
 begin(model(1701)).
 gender(f).
 race(white).
@@ -38634,9 +45303,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+testid(t).
 end(model(1701)).
-%patient: it_0152_004997 index:1702
+
+%patient: it-0152-004997 index:1702
 begin(model(1702)).
 gender(f).
 race(white).
@@ -38656,9 +45328,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1702)).
-%patient: it_0152_005000 index:1703
+
+%patient: it-0152-005000 index:1703
 begin(model(1703)).
 gender(f).
 race(white).
@@ -38674,9 +45349,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1703)).
-%patient: it_0152_005001 index:1704
+
+%patient: it-0152-005001 index:1704
 begin(model(1704)).
 gender(f).
 race(white).
@@ -38693,9 +45370,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1704)).
-%patient: it_0152_005002 index:1705
+
+%patient: it-0152-005002 index:1705
 begin(model(1705)).
 gender(f).
 race(white).
@@ -38715,9 +45394,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1705)).
-%patient: it_0152_005004 index:1706
+
+%patient: it-0152-005004 index:1706
 begin(model(1706)).
 gender(f).
 race(white).
@@ -38738,9 +45419,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1706)).
-%patient: it_0152_005009 index:1707
+
+%patient: it-0152-005009 index:1707
 begin(model(1707)).
 gender(f).
 race(white).
@@ -38762,10 +45445,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1707)).
-%patient: it_0152_005013 index:1708
+
+%patient: it-0152-005013 index:1708
 begin(model(1708)).
 gender(f).
 race(white).
@@ -38783,9 +45467,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1708)).
-%patient: it_0152_005018 index:1709
+
+%patient: it-0152-005018 index:1709
 begin(model(1709)).
 gender(f).
 race(white).
@@ -38805,9 +45491,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1709)).
-%patient: it_0152_005021 index:1710
+
+%patient: it-0152-005021 index:1710
 begin(model(1710)).
 gender(m).
 race(white).
@@ -38826,10 +45514,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 testid(t).
 end(model(1710)).
-%patient: it_0152_005023 index:1711
+
+%patient: it-0152-005023 index:1711
 begin(model(1711)).
 gender(f).
 race(white).
@@ -38845,9 +45535,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1711)).
-%patient: it_0152_005036 index:1712
+
+%patient: it-0152-005036 index:1712
 begin(model(1712)).
 gender(m).
 race(white).
@@ -38868,9 +45561,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1712)).
-%patient: it_0152_005038 index:1713
+
+%patient: it-0152-005038 index:1713
 begin(model(1713)).
 gender(f).
 race(white).
@@ -38889,9 +45584,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1713)).
-%patient: it_0152_005041 index:1714
+
+%patient: it-0152-005041 index:1714
 begin(model(1714)).
 gender(f).
 race(white).
@@ -38906,10 +45603,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1714)).
-%patient: it_0152_005043 index:1715
+
+%patient: it-0152-005043 index:1715
 begin(model(1715)).
 gender(f).
 race(white).
@@ -38927,10 +45625,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1715)).
-%patient: it_0152_005045 index:1716
+
+%patient: it-0152-005045 index:1716
 begin(model(1716)).
 gender(f).
 race(white).
@@ -38951,9 +45650,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1716)).
-%patient: it_0152_005048 index:1717
+
+%patient: it-0152-005048 index:1717
 begin(model(1717)).
 gender(m).
 race(white).
@@ -38974,9 +45676,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1717)).
-%patient: it_0152_005050 index:1718
+
+%patient: it-0152-005050 index:1718
 begin(model(1718)).
 gender(m).
 race(white).
@@ -38997,10 +45702,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1718)).
-%patient: it_0152_005051 index:1719
+
+%patient: it-0152-005051 index:1719
 begin(model(1719)).
 gender(f).
 race(white).
@@ -39020,9 +45726,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+testid(t).
 end(model(1719)).
-%patient: it_0152_005052 index:1720
+
+%patient: it-0152-005052 index:1720
 begin(model(1720)).
 gender(m).
 race(white).
@@ -39041,9 +45750,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1720)).
-%patient: it_0152_005054 index:1721
+
+%patient: it-0152-005054 index:1721
 begin(model(1721)).
 gender(f).
 race(white).
@@ -39062,9 +45773,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1721)).
-%patient: it_0152_005055 index:1722
+
+%patient: it-0152-005055 index:1722
 begin(model(1722)).
 gender(f).
 race(white).
@@ -39084,9 +45797,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1722)).
-%patient: it_0152_005057 index:1723
+
+%patient: it-0152-005057 index:1723
 begin(model(1723)).
 gender(f).
 race(white).
@@ -39105,9 +45820,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1723)).
-%patient: it_0152_005058 index:1724
+
+%patient: it-0152-005058 index:1724
 begin(model(1724)).
 gender(f).
 race(white).
@@ -39127,10 +45845,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1724)).
-%patient: it_0152_005059 index:1725
+
+%patient: it-0152-005059 index:1725
 begin(model(1725)).
 gender(m).
 race(white).
@@ -39150,9 +45869,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1725)).
-%patient: it_0152_005064 index:1726
+
+%patient: it-0152-005064 index:1726
 begin(model(1726)).
 gender(m).
 race(white).
@@ -39167,10 +45888,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1726)).
-%patient: it_0152_005066 index:1727
+
+%patient: it-0152-005066 index:1727
 begin(model(1727)).
 gender(f).
 race(white).
@@ -39188,9 +45910,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1727)).
-%patient: it_0152_005068 index:1728
+
+%patient: it-0152-005068 index:1728
 begin(model(1728)).
 gender(f).
 race(white).
@@ -39210,9 +45935,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1728)).
-%patient: it_0152_005069 index:1729
+
+%patient: it-0152-005069 index:1729
 begin(model(1729)).
 gender(m).
 race(white).
@@ -39233,9 +45960,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1729)).
-%patient: it_0152_005082 index:1730
+
+%patient: it-0152-005082 index:1730
 begin(model(1730)).
 gender(f).
 race(white).
@@ -39251,9 +45980,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1730)).
-%patient: it_0152_005083 index:1731
+
+%patient: it-0152-005083 index:1731
 begin(model(1731)).
 gender(f).
 race(white).
@@ -39269,10 +46000,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1731)).
-%patient: it_0152_005088 index:1732
+
+%patient: it-0152-005088 index:1732
 begin(model(1732)).
 gender(f).
 race(white).
@@ -39291,9 +46023,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1732)).
-%patient: it_0152_005089 index:1733
+
+%patient: it-0152-005089 index:1733
 begin(model(1733)).
 gender(m).
 race(white).
@@ -39311,9 +46046,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1733)).
-%patient: it_0152_005141 index:1734
+
+%patient: it-0152-005141 index:1734
 begin(model(1734)).
 gender(f).
 race(white).
@@ -39330,9 +46067,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1734)).
-%patient: it_0152_005145 index:1735
+
+%patient: it-0152-005145 index:1735
 begin(model(1735)).
 gender(m).
 race(white).
@@ -39349,9 +46088,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1735)).
-%patient: it_0152_005146 index:1736
+
+%patient: it-0152-005146 index:1736
 begin(model(1736)).
 gender(f).
 race(white).
@@ -39366,9 +46107,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1736)).
-%patient: it_0152_005151 index:1737
+
+%patient: it-0152-005151 index:1737
 begin(model(1737)).
 gender(f).
 race(white).
@@ -39388,9 +46131,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1737)).
-%patient: it_0152_005160 index:1738
+
+%patient: it-0152-005160 index:1738
 begin(model(1738)).
 gender(m).
 race(white).
@@ -39410,9 +46156,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1738)).
-%patient: it_0152_005161 index:1739
+
+%patient: it-0152-005161 index:1739
 begin(model(1739)).
 gender(f).
 race(white).
@@ -39428,10 +46176,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1739)).
-%patient: it_0152_005162 index:1740
+
+%patient: it-0152-005162 index:1740
 begin(model(1740)).
 gender(f).
 race(white).
@@ -39452,9 +46201,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1740)).
-%patient: it_0152_005165 index:1741
+
+%patient: it-0152-005165 index:1741
 begin(model(1741)).
 gender(f).
 race(white).
@@ -39469,9 +46220,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1741)).
-%patient: it_0152_005166 index:1742
+
+%patient: it-0152-005166 index:1742
 begin(model(1742)).
 gender(f).
 race(white).
@@ -39491,10 +46244,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1742)).
-%patient: it_0152_005167 index:1743
+
+%patient: it-0152-005167 index:1743
 begin(model(1743)).
 gender(f).
 race(white).
@@ -39516,9 +46270,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1743)).
-%patient: it_0152_005169 index:1744
+
+%patient: it-0152-005169 index:1744
 begin(model(1744)).
 gender(f).
 race(white).
@@ -39539,9 +46296,11 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
 end(model(1744)).
-%patient: it_0152_005171 index:1745
+
+%patient: it-0152-005171 index:1745
 begin(model(1745)).
 gender(f).
 race(white).
@@ -39558,9 +46317,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1745)).
-%patient: it_0152_005172 index:1746
+
+%patient: it-0152-005172 index:1746
 begin(model(1746)).
 gender(f).
 race(white).
@@ -39578,10 +46340,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1746)).
-%patient: it_0152_005175 index:1747
+
+%patient: it-0152-005175 index:1747
 begin(model(1747)).
 gender(f).
 race(white).
@@ -39601,9 +46364,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1747)).
-%patient: it_0152_005178 index:1748
+
+%patient: it-0152-005178 index:1748
 begin(model(1748)).
 gender(f).
 race(white).
@@ -39622,9 +46387,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1748)).
-%patient: it_0152_005180 index:1749
+
+%patient: it-0152-005180 index:1749
 begin(model(1749)).
 gender(f).
 race(white).
@@ -39641,9 +46408,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1749)).
-%patient: it_0152_005182 index:1750
+
+%patient: it-0152-005182 index:1750
 begin(model(1750)).
 gender(f).
 race(white).
@@ -39662,10 +46431,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1750)).
-%patient: it_0152_005183 index:1751
+
+%patient: it-0152-005183 index:1751
 begin(model(1751)).
 gender(f).
 race(white).
@@ -39681,9 +46451,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1751)).
-%patient: it_0152_005189 index:1752
+
+%patient: it-0152-005189 index:1752
 begin(model(1752)).
 gender(f).
 race(white).
@@ -39702,10 +46475,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 testid(t).
 end(model(1752)).
-%patient: it_0152_005190 index:1753
+
+%patient: it-0152-005190 index:1753
 begin(model(1753)).
 gender(f).
 race(white).
@@ -39722,9 +46497,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1753)).
-%patient: it_0152_005191 index:1754
+
+%patient: it-0152-005191 index:1754
 begin(model(1754)).
 gender(m).
 race(white).
@@ -39741,10 +46518,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1754)).
-%patient: it_0152_005355 index:1755
+
+%patient: it-0152-005355 index:1755
 begin(model(1755)).
 gender(f).
 race(white).
@@ -39764,9 +46542,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1755)).
-%patient: it_0152_005375 index:1756
+
+%patient: it-0152-005375 index:1756
 begin(model(1756)).
 gender(f).
 race(white).
@@ -39787,10 +46567,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 testid(t).
 end(model(1756)).
-%patient: it_0152_005377 index:1757
+
+%patient: it-0152-005377 index:1757
 begin(model(1757)).
 gender(f).
 race(white).
@@ -39806,9 +46588,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1757)).
-%patient: it_0152_005380 index:1758
+
+%patient: it-0152-005380 index:1758
 begin(model(1758)).
 gender(f).
 race(white).
@@ -39826,9 +46610,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1758)).
-%patient: it_0152_005432 index:1759
+
+%patient: it-0152-005432 index:1759
 begin(model(1759)).
 gender(f).
 race(white).
@@ -39849,9 +46635,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1759)).
-%patient: it_0152_005434 index:1760
+
+%patient: it-0152-005434 index:1760
 begin(model(1760)).
 gender(f).
 race(white).
@@ -39868,10 +46656,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1760)).
-%patient: it_0152_005435 index:1761
+
+%patient: it-0152-005435 index:1761
 begin(model(1761)).
 gender(f).
 race(white).
@@ -39891,10 +46680,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(1761)).
-%patient: it_0152_005440 index:1762
+
+%patient: it-0152-005440 index:1762
 begin(model(1762)).
 gender(f).
 race(white).
@@ -39913,9 +46704,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1762)).
-%patient: it_0152_005442 index:1763
+
+%patient: it-0152-005442 index:1763
 begin(model(1763)).
 gender(f).
 race(white).
@@ -39933,9 +46727,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1763)).
-%patient: it_0152_005443 index:1764
+
+%patient: it-0152-005443 index:1764
 begin(model(1764)).
 gender(f).
 race(white).
@@ -39955,9 +46752,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1764)).
-%patient: it_0152_005444 index:1765
+
+%patient: it-0152-005444 index:1765
 begin(model(1765)).
 gender(f).
 race(white).
@@ -39974,9 +46773,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1765)).
-%patient: it_0152_005447 index:1766
+
+%patient: it-0152-005447 index:1766
 begin(model(1766)).
 gender(f).
 race(white).
@@ -39995,9 +46797,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1766)).
-%patient: it_0152_005448 index:1767
+
+%patient: it-0152-005448 index:1767
 begin(model(1767)).
 gender(f).
 race(white).
@@ -40019,10 +46823,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
 end(model(1767)).
-%patient: it_0152_005452 index:1768
+
+%patient: it-0152-005452 index:1768
 begin(model(1768)).
 gender(f).
 race(white).
@@ -40040,9 +46845,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1768)).
-%patient: it_0152_005454 index:1769
+
+%patient: it-0152-005454 index:1769
 begin(model(1769)).
 gender(f).
 race(white).
@@ -40060,9 +46867,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1769)).
-%patient: it_0152_005459 index:1770
+
+%patient: it-0152-005459 index:1770
 begin(model(1770)).
 gender(f).
 race(white).
@@ -40081,9 +46890,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1770)).
-%patient: it_0152_005461 index:1771
+
+%patient: it-0152-005461 index:1771
 begin(model(1771)).
 gender(m).
 race(white).
@@ -40102,10 +46913,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 testid(t).
 end(model(1771)).
-%patient: it_0152_005480 index:1772
+
+%patient: it-0152-005480 index:1772
 begin(model(1772)).
 gender(m).
 race(white).
@@ -40122,10 +46935,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1772)).
-%patient: it_0152_005484 index:1773
+
+%patient: it-0152-005484 index:1773
 begin(model(1773)).
 gender(f).
 race(white).
@@ -40141,10 +46955,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 testid(t).
 end(model(1773)).
-%patient: it_0152_005485 index:1774
+
+%patient: it-0152-005485 index:1774
 begin(model(1774)).
 gender(f).
 race(white).
@@ -40163,10 +46979,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(1774)).
-%patient: it_0152_005486 index:1775
+
+%patient: it-0152-005486 index:1775
 begin(model(1775)).
 gender(f).
 race(white).
@@ -40184,9 +47001,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1775)).
-%patient: it_0152_005490 index:1776
+
+%patient: it-0152-005490 index:1776
 begin(model(1776)).
 gender(m).
 race(white).
@@ -40204,9 +47023,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1776)).
-%patient: it_0152_005496 index:1777
+
+%patient: it-0152-005496 index:1777
 begin(model(1777)).
 gender(f).
 race(white).
@@ -40223,9 +47044,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1777)).
-%patient: it_0152_005500 index:1778
+
+%patient: it-0152-005500 index:1778
 begin(model(1778)).
 gender(f).
 race(white).
@@ -40242,9 +47065,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(1778)).
-%patient: it_0152_005533 index:1779
+
+%patient: it-0152-005533 index:1779
 begin(model(1779)).
 gender(f).
 race(white).
@@ -40266,9 +47091,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1779)).
-%patient: it_0152_005534 index:1780
+
+%patient: it-0152-005534 index:1780
 begin(model(1780)).
 gender(f).
 race(white).
@@ -40285,9 +47112,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1780)).
-%patient: it_0152_005536 index:1781
+
+%patient: it-0152-005536 index:1781
 begin(model(1781)).
 gender(f).
 race(white).
@@ -40306,9 +47135,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(1781)).
-%patient: it_0152_005539 index:1782
+
+%patient: it-0152-005539 index:1782
 begin(model(1782)).
 gender(f).
 race(white).
@@ -40328,9 +47160,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+testid(t).
 end(model(1782)).
-%patient: it_0152_005543 index:1783
+
+%patient: it-0152-005543 index:1783
 begin(model(1783)).
 gender(f).
 race(white).
@@ -40351,8 +47186,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(1783)).
-%patient: it_0152_005545 index:1784
+
+%patient: it-0152-005545 index:1784
 begin(model(1784)).
 gender(f).
 race(white).
@@ -40367,9 +47204,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1784)).
-%patient: it_0152_005549 index:1785
+
+%patient: it-0152-005549 index:1785
 begin(model(1785)).
 gender(f).
 race(white).
@@ -40385,9 +47224,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
 end(model(1785)).
-%patient: it_0164_006264 index:1786
+
+%patient: it-0164-006264 index:1786
 begin(model(1786)).
 gender(f).
 race(white).
@@ -40409,9 +47250,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1786)).
-%patient: it_0164_006326 index:1787
+
+%patient: it-0164-006326 index:1787
 begin(model(1787)).
 gender(f).
 race(white).
@@ -40428,9 +47274,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1787)).
-%patient: it_0164_006327 index:1788
+
+%patient: it-0164-006327 index:1788
 begin(model(1788)).
 gender(f).
 race(white).
@@ -40451,9 +47303,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1788)).
-%patient: it_0164_006360 index:1789
+
+%patient: it-0164-006360 index:1789
 begin(model(1789)).
 gender(m).
 race(white).
@@ -40473,9 +47330,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1789)).
-%patient: it_0164_006361 index:1790
+
+%patient: it-0164-006361 index:1790
 begin(model(1790)).
 gender(f).
 race(white).
@@ -40494,9 +47356,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1790)).
-%patient: it_0164_006371 index:1791
+
+%patient: it-0164-006371 index:1791
 begin(model(1791)).
 gender(f).
 race(white).
@@ -40515,9 +47382,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1791)).
-%patient: it_0164_006374 index:1792
+
+%patient: it-0164-006374 index:1792
 begin(model(1792)).
 gender(m).
 race(white).
@@ -40540,9 +47413,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1792)).
-%patient: it_0164_006380 index:1793
+
+%patient: it-0164-006380 index:1793
 begin(model(1793)).
 gender(m).
 race(white).
@@ -40560,9 +47438,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1793)).
-%patient: it_0164_006408 index:1794
+
+%patient: it-0164-006408 index:1794
 begin(model(1794)).
 gender(m).
 race(white).
@@ -40582,9 +47466,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1794)).
-%patient: it_0164_006410 index:1795
+
+%patient: it-0164-006410 index:1795
 begin(model(1795)).
 gender(f).
 race(white).
@@ -40604,10 +47493,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1795)).
-%patient: it_0164_006418 index:1796
+
+%patient: it-0164-006418 index:1796
 begin(model(1796)).
 gender(f).
 race(white).
@@ -40627,9 +47520,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1796)).
-%patient: it_0164_006435 index:1797
+
+%patient: it-0164-006435 index:1797
 begin(model(1797)).
 gender(f).
 race(white).
@@ -40651,10 +47549,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1797)).
-%patient: it_0164_006438 index:1798
+
+%patient: it-0164-006438 index:1798
 begin(model(1798)).
 gender(f).
 race(white).
@@ -40673,9 +47575,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1798)).
-%patient: it_0164_006442 index:1799
+
+%patient: it-0164-006442 index:1799
 begin(model(1799)).
 gender(f).
 race(white).
@@ -40698,9 +47606,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1799)).
-%patient: it_0164_006459 index:1800
+
+%patient: it-0164-006459 index:1800
 begin(model(1800)).
 gender(f).
 race(white).
@@ -40720,9 +47634,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1800)).
-%patient: it_0164_006494 index:1801
+
+%patient: it-0164-006494 index:1801
 begin(model(1801)).
 gender(f).
 race(white).
@@ -40741,9 +47660,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1801)).
-%patient: it_0164_006510 index:1802
+
+%patient: it-0164-006510 index:1802
 begin(model(1802)).
 gender(m).
 race(white).
@@ -40759,10 +47684,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1802)).
-%patient: it_0164_006511 index:1803
+
+%patient: it-0164-006511 index:1803
 begin(model(1803)).
 gender(f).
 race(white).
@@ -40782,9 +47711,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1803)).
-%patient: it_0164_006515 index:1804
+
+%patient: it-0164-006515 index:1804
 begin(model(1804)).
 gender(f).
 race(white).
@@ -40806,9 +47741,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1804)).
-%patient: it_0164_006533 index:1805
+
+%patient: it-0164-006533 index:1805
 begin(model(1805)).
 gender(f).
 race(white).
@@ -40831,9 +47771,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1805)).
-%patient: it_0164_006536 index:1806
+
+%patient: it-0164-006536 index:1806
 begin(model(1806)).
 gender(m).
 race(white).
@@ -40852,9 +47797,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1806)).
-%patient: it_0164_006538 index:1807
+
+%patient: it-0164-006538 index:1807
 begin(model(1807)).
 gender(m).
 race(white).
@@ -40874,9 +47824,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1807)).
-%patient: it_0164_006539 index:1808
+
+%patient: it-0164-006539 index:1808
 begin(model(1808)).
 gender(f).
 race(white).
@@ -40894,10 +47849,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1808)).
-%patient: it_0164_006540 index:1809
+
+%patient: it-0164-006540 index:1809
 begin(model(1809)).
 gender(f).
 race(white).
@@ -40917,9 +47877,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1809)).
-%patient: it_0164_006547 index:1810
+
+%patient: it-0164-006547 index:1810
 begin(model(1810)).
 gender(f).
 race(white).
@@ -40941,10 +47906,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1810)).
-%patient: it_0164_006552 index:1811
+
+%patient: it-0164-006552 index:1811
 begin(model(1811)).
 gender(f).
 race(white).
@@ -40966,9 +47936,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1811)).
-%patient: it_0164_006556 index:1812
+
+%patient: it-0164-006556 index:1812
 begin(model(1812)).
 gender(f).
 race(white).
@@ -40990,9 +47965,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1812)).
-%patient: it_0164_006560 index:1813
+
+%patient: it-0164-006560 index:1813
 begin(model(1813)).
 gender(f).
 race(white).
@@ -41013,10 +47993,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1813)).
-%patient: it_0164_006566 index:1814
+
+%patient: it-0164-006566 index:1814
 begin(model(1814)).
 gender(f).
 race(white).
@@ -41040,9 +48024,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1814)).
-%patient: it_0166_004954 index:1815
+
+%patient: it-0166-004954 index:1815
 begin(model(1815)).
 gender(f).
 race(white).
@@ -41062,9 +48051,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1815)).
-%patient: it_0166_004966 index:1816
+
+%patient: it-0166-004966 index:1816
 begin(model(1816)).
 gender(f).
 race(white).
@@ -41089,8 +48082,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1816)).
-%patient: it_0166_004967 index:1817
+
+%patient: it-0166-004967 index:1817
 begin(model(1817)).
 gender(f).
 race(white).
@@ -41112,9 +48110,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1817)).
-%patient: it_0166_004969 index:1818
+
+%patient: it-0166-004969 index:1818
 begin(model(1818)).
 gender(f).
 race(white).
@@ -41136,9 +48139,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1818)).
-%patient: it_0166_004971 index:1819
+
+%patient: it-0166-004971 index:1819
 begin(model(1819)).
 gender(f).
 race(white).
@@ -41165,8 +48173,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1819)).
-%patient: it_0166_004972 index:1820
+
+%patient: it-0166-004972 index:1820
 begin(model(1820)).
 gender(f).
 race(white).
@@ -41191,10 +48204,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1820)).
-%patient: it_0166_004974 index:1821
+
+%patient: it-0166-004974 index:1821
 begin(model(1821)).
 gender(f).
 race(white).
@@ -41219,9 +48237,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1821)).
-%patient: it_0166_004975 index:1822
+
+%patient: it-0166-004975 index:1822
 begin(model(1822)).
 gender(f).
 race(white).
@@ -41248,9 +48272,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1822)).
-%patient: it_0166_004977 index:1823
+
+%patient: it-0166-004977 index:1823
 begin(model(1823)).
 gender(f).
 race(white).
@@ -41277,8 +48306,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1823)).
-%patient: it_0166_005012 index:1824
+
+%patient: it-0166-005012 index:1824
 begin(model(1824)).
 gender(f).
 race(white).
@@ -41301,9 +48336,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1824)).
-%patient: it_0166_005014 index:1825
+
+%patient: it-0166-005014 index:1825
 begin(model(1825)).
 gender(f).
 race(white).
@@ -41330,8 +48370,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1825)).
-%patient: it_0166_005020 index:1826
+
+%patient: it-0166-005020 index:1826
 begin(model(1826)).
 gender(f).
 race(white).
@@ -41359,8 +48404,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1826)).
-%patient: it_0166_005026 index:1827
+
+%patient: it-0166-005026 index:1827
 begin(model(1827)).
 gender(f).
 race(white).
@@ -41385,10 +48435,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1827)).
-%patient: it_0166_005028 index:1828
+
+%patient: it-0166-005028 index:1828
 begin(model(1828)).
 gender(f).
 race(white).
@@ -41415,9 +48469,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(0).
 end(model(1828)).
-%patient: it_0166_005030 index:1829
+
+%patient: it-0166-005030 index:1829
 begin(model(1829)).
 gender(m).
 race(white).
@@ -41444,9 +48501,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1829)).
-%patient: it_0166_005031 index:1830
+
+%patient: it-0166-005031 index:1830
 begin(model(1830)).
 gender(m).
 race(white).
@@ -41473,9 +48535,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1830)).
-%patient: it_0166_005034 index:1831
+
+%patient: it-0166-005034 index:1831
 begin(model(1831)).
 gender(m).
 race(white).
@@ -41499,10 +48564,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
 testid(t).
 end(model(1831)).
-%patient: it_0166_005037 index:1832
+
+%patient: it-0166-005037 index:1832
 begin(model(1832)).
 gender(f).
 race(white).
@@ -41525,9 +48593,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(0).
 end(model(1832)).
-%patient: it_0166_005040 index:1833
+
+%patient: it-0166-005040 index:1833
 begin(model(1833)).
 gender(m).
 race(white).
@@ -41550,9 +48621,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1833)).
-%patient: it_0166_005076 index:1834
+
+%patient: it-0166-005076 index:1834
 begin(model(1834)).
 gender(f).
 race(white).
@@ -41579,8 +48655,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1834)).
-%patient: it_0166_005081 index:1835
+
+%patient: it-0166-005081 index:1835
 begin(model(1835)).
 gender(m).
 race(white).
@@ -41606,9 +48688,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1835)).
-%patient: it_0166_005085 index:1836
+
+%patient: it-0166-005085 index:1836
 begin(model(1836)).
 gender(f).
 race(white).
@@ -41631,9 +48718,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1836)).
-%patient: it_0166_005090 index:1837
+
+%patient: it-0166-005090 index:1837
 begin(model(1837)).
 gender(f).
 race(white).
@@ -41660,9 +48753,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1837)).
-%patient: it_0166_005092 index:1838
+
+%patient: it-0166-005092 index:1838
 begin(model(1838)).
 gender(m).
 race(white).
@@ -41687,9 +48786,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1838)).
-%patient: it_0166_005093 index:1839
+
+%patient: it-0166-005093 index:1839
 begin(model(1839)).
 gender(f).
 mobcat(3).
@@ -41712,9 +48816,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1839)).
-%patient: it_0166_005094 index:1840
+
+%patient: it-0166-005094 index:1840
 begin(model(1840)).
 gender(m).
 race(white).
@@ -41741,9 +48850,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1840)).
-%patient: it_0166_005102 index:1841
+
+%patient: it-0166-005102 index:1841
 begin(model(1841)).
 gender(f).
 race(white).
@@ -41771,9 +48886,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(0).
 end(model(1841)).
-%patient: it_0166_005103 index:1842
+
+%patient: it-0166-005103 index:1842
 begin(model(1842)).
 gender(f).
 race(white).
@@ -41803,9 +48921,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(1).
+testid(t).
 end(model(1842)).
-%patient: it_0166_005106 index:1843
+
+%patient: it-0166-005106 index:1843
 begin(model(1843)).
 gender(f).
 race(white).
@@ -41834,9 +48957,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1843)).
-%patient: it_0166_005108 index:1844
+
+%patient: it-0166-005108 index:1844
 begin(model(1844)).
 gender(m).
 race(white).
@@ -41867,9 +48995,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1844)).
-%patient: it_0166_005352 index:1845
+
+%patient: it-0166-005352 index:1845
 begin(model(1845)).
 gender(f).
 race(white).
@@ -41893,9 +49025,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1845)).
-%patient: it_0166_006218 index:1846
+
+%patient: it-0166-006218 index:1846
 begin(model(1846)).
 gender(f).
 race(white).
@@ -41919,9 +49057,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1846)).
-%patient: it_0166_006219 index:1847
+
+%patient: it-0166-006219 index:1847
 begin(model(1847)).
 gender(f).
 race(white).
@@ -41940,9 +49083,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1847)).
-%patient: it_0166_006221 index:1848
+
+%patient: it-0166-006221 index:1848
 begin(model(1848)).
 gender(f).
 race(white).
@@ -41958,9 +49106,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1848)).
-%patient: it_0166_006225 index:1849
+
+%patient: it-0166-006225 index:1849
 begin(model(1849)).
 gender(m).
 race(white).
@@ -41983,9 +49136,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1849)).
-%patient: it_0166_006227 index:1850
+
+%patient: it-0166-006227 index:1850
 begin(model(1850)).
 gender(f).
 race(white).
@@ -42003,9 +49161,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1850)).
-%patient: it_0166_006230 index:1851
+
+%patient: it-0166-006230 index:1851
 begin(model(1851)).
 gender(f).
 race(white).
@@ -42025,9 +49188,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1851)).
-%patient: it_0166_006231 index:1852
+
+%patient: it-0166-006231 index:1852
 begin(model(1852)).
 gender(f).
 race(white).
@@ -42044,9 +49213,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1852)).
-%patient: it_0166_006235 index:1853
+
+%patient: it-0166-006235 index:1853
 begin(model(1853)).
 gender(m).
 race(white).
@@ -42062,9 +49236,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1853)).
-%patient: it_0166_006240 index:1854
+
+%patient: it-0166-006240 index:1854
 begin(model(1854)).
 gender(f).
 race(white).
@@ -42086,9 +49265,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1854)).
-%patient: it_0166_006241 index:1855
+
+%patient: it-0166-006241 index:1855
 begin(model(1855)).
 gender(f).
 race(white).
@@ -42105,9 +49289,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1855)).
-%patient: it_0166_006243 index:1856
+
+%patient: it-0166-006243 index:1856
 begin(model(1856)).
 gender(f).
 race(white).
@@ -42128,9 +49317,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+vzvvaccine(0).
+testid(t).
 end(model(1856)).
-%patient: it_0166_006245 index:1857
+
+%patient: it-0166-006245 index:1857
 begin(model(1857)).
 gender(f).
 race(white).
@@ -42151,9 +49344,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1857)).
-%patient: it_0166_006246 index:1858
+
+%patient: it-0166-006246 index:1858
 begin(model(1858)).
 gender(f).
 race(white).
@@ -42174,10 +49372,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1858)).
-%patient: it_0166_006248 index:1859
+
+%patient: it-0166-006248 index:1859
 begin(model(1859)).
 gender(f).
 race(white).
@@ -42197,9 +49399,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1859)).
-%patient: it_0169_005984 index:1860
+
+%patient: it-0169-005984 index:1860
 begin(model(1860)).
 gender(f).
 race(white).
@@ -42221,9 +49428,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1860)).
-%patient: it_0169_006014 index:1861
+
+%patient: it-0169-006014 index:1861
 begin(model(1861)).
 gender(f).
 race(white).
@@ -42241,10 +49453,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1861)).
-%patient: it_0169_006015 index:1862
+
+%patient: it-0169-006015 index:1862
 begin(model(1862)).
 gender(m).
 race(white).
@@ -42262,9 +49478,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1862)).
-%patient: it_0169_006016 index:1863
+
+%patient: it-0169-006016 index:1863
 begin(model(1863)).
 gender(m).
 race(white).
@@ -42280,10 +49501,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1863)).
-%patient: it_0169_006099 index:1864
+
+%patient: it-0169-006099 index:1864
 begin(model(1864)).
 gender(m).
 race(white).
@@ -42304,9 +49529,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1864)).
-%patient: it_0169_006101 index:1865
+
+%patient: it-0169-006101 index:1865
 begin(model(1865)).
 gender(m).
 race(white).
@@ -42327,9 +49558,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1865)).
-%patient: it_0169_006103 index:1866
+
+%patient: it-0169-006103 index:1866
 begin(model(1866)).
 gender(f).
 race(white).
@@ -42349,9 +49585,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1866)).
-%patient: it_0169_006104 index:1867
+
+%patient: it-0169-006104 index:1867
 begin(model(1867)).
 gender(f).
 race(white).
@@ -42370,9 +49611,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1867)).
-%patient: it_0169_006105 index:1868
+
+%patient: it-0169-006105 index:1868
 begin(model(1868)).
 gender(f).
 race(white).
@@ -42394,10 +49640,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1868)).
-%patient: it_0169_006109 index:1869
+
+%patient: it-0169-006109 index:1869
 begin(model(1869)).
 gender(f).
 race(white).
@@ -42416,9 +49666,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1869)).
-%patient: it_0169_006110 index:1870
+
+%patient: it-0169-006110 index:1870
 begin(model(1870)).
 gender(f).
 race(white).
@@ -42438,10 +49694,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1870)).
-%patient: it_0169_006111 index:1871
+
+%patient: it-0169-006111 index:1871
 begin(model(1871)).
 gender(m).
 race(white).
@@ -42461,10 +49721,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1871)).
-%patient: it_0169_006112 index:1872
+
+%patient: it-0169-006112 index:1872
 begin(model(1872)).
 gender(f).
 race(white).
@@ -42485,9 +49749,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1872)).
-%patient: it_0169_006113 index:1873
+
+%patient: it-0169-006113 index:1873
 begin(model(1873)).
 gender(m).
 race(white).
@@ -42508,9 +49777,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1873)).
-%patient: it_0169_006445 index:1874
+
+%patient: it-0169-006445 index:1874
 begin(model(1874)).
 gender(f).
 race(white).
@@ -42526,10 +49801,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1874)).
-%patient: it_0169_006446 index:1875
+
+%patient: it-0169-006446 index:1875
 begin(model(1875)).
 gender(f).
 race(white).
@@ -42546,9 +49826,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1875)).
-%patient: it_0169_006448 index:1876
+
+%patient: it-0169-006448 index:1876
 begin(model(1876)).
 gender(m).
 race(white).
@@ -42566,9 +49852,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1876)).
-%patient: it_0169_006580 index:1877
+
+%patient: it-0169-006580 index:1877
 begin(model(1877)).
 gender(m).
 race(white).
@@ -42588,9 +49879,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1877)).
-%patient: it_0169_006583 index:1878
+
+%patient: it-0169-006583 index:1878
 begin(model(1878)).
 gender(f).
 race(white).
@@ -42610,10 +49906,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1878)).
-%patient: it_0169_006584 index:1879
+
+%patient: it-0169-006584 index:1879
 begin(model(1879)).
 gender(f).
 race(white).
@@ -42634,9 +49935,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1879)).
-%patient: it_0169_006586 index:1880
+
+%patient: it-0169-006586 index:1880
 begin(model(1880)).
 gender(f).
 race(white).
@@ -42657,9 +49963,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1880)).
-%patient: it_0169_006588 index:1881
+
+%patient: it-0169-006588 index:1881
 begin(model(1881)).
 gender(f).
 race(white).
@@ -42676,9 +49988,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1881)).
-%patient: it_0169_006589 index:1882
+
+%patient: it-0169-006589 index:1882
 begin(model(1882)).
 gender(m).
 race(white).
@@ -42699,9 +50016,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1882)).
-%patient: it_0169_006598 index:1883
+
+%patient: it-0169-006598 index:1883
 begin(model(1883)).
 gender(f).
 race(white).
@@ -42723,9 +50046,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1883)).
-%patient: it_0169_006600 index:1884
+
+%patient: it-0169-006600 index:1884
 begin(model(1884)).
 gender(f).
 race(white).
@@ -42744,10 +50073,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1884)).
-%patient: it_0169_006601 index:1885
+
+%patient: it-0169-006601 index:1885
 begin(model(1885)).
 gender(m).
 race(white).
@@ -42764,9 +50097,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1885)).
-%patient: it_0169_006604 index:1886
+
+%patient: it-0169-006604 index:1886
 begin(model(1886)).
 gender(f).
 race(white).
@@ -42788,10 +50126,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1886)).
-%patient: it_0170_006657 index:1887
+
+%patient: it-0170-006657 index:1887
 begin(model(1887)).
 gender(f).
 race(white).
@@ -42810,9 +50152,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1887)).
-%patient: it_0170_006658 index:1888
+
+%patient: it-0170-006658 index:1888
 begin(model(1888)).
 gender(f).
 race(white).
@@ -42831,10 +50178,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1888)).
-%patient: it_0170_006659 index:1889
+
+%patient: it-0170-006659 index:1889
 begin(model(1889)).
 gender(f).
 race(white).
@@ -42857,8 +50208,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1889)).
-%patient: it_0170_006669 index:1890
+
+%patient: it-0170-006669 index:1890
 begin(model(1890)).
 gender(f).
 race(white).
@@ -42876,9 +50232,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1890)).
-%patient: it_0170_006674 index:1891
+
+%patient: it-0170-006674 index:1891
 begin(model(1891)).
 gender(f).
 race(white).
@@ -42900,9 +50261,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1891)).
-%patient: it_0170_006678 index:1892
+
+%patient: it-0170-006678 index:1892
 begin(model(1892)).
 gender(f).
 race(white).
@@ -42924,10 +50290,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1892)).
-%patient: it_0170_006679 index:1893
+
+%patient: it-0170-006679 index:1893
 begin(model(1893)).
 gender(f).
 race(white).
@@ -42951,9 +50321,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1893)).
-%patient: it_0170_006682 index:1894
+
+%patient: it-0170-006682 index:1894
 begin(model(1894)).
 gender(m).
 race(white).
@@ -42973,9 +50348,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1894)).
-%patient: it_0170_006683 index:1895
+
+%patient: it-0170-006683 index:1895
 begin(model(1895)).
 gender(f).
 race(white).
@@ -42997,9 +50377,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1895)).
-%patient: it_0170_006684 index:1896
+
+%patient: it-0170-006684 index:1896
 begin(model(1896)).
 gender(m).
 race(white).
@@ -43017,9 +50402,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1896)).
-%patient: it_0170_006685 index:1897
+
+%patient: it-0170-006685 index:1897
 begin(model(1897)).
 gender(f).
 race(white).
@@ -43042,10 +50432,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1897)).
-%patient: it_0170_006686 index:1898
+
+%patient: it-0170-006686 index:1898
 begin(model(1898)).
 gender(m).
 race(white).
@@ -43064,9 +50458,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1898)).
-%patient: it_0170_006695 index:1899
+
+%patient: it-0170-006695 index:1899
 begin(model(1899)).
 gender(f).
 race(white).
@@ -43089,9 +50488,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1899)).
-%patient: it_0170_006700 index:1900
+
+%patient: it-0170-006700 index:1900
 begin(model(1900)).
 gender(f).
 race(white).
@@ -43111,9 +50515,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1900)).
-%patient: it_0170_006701 index:1901
+
+%patient: it-0170-006701 index:1901
 begin(model(1901)).
 gender(f).
 race(white).
@@ -43132,10 +50540,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(1901)).
-%patient: it_0170_006702 index:1902
+
+%patient: it-0170-006702 index:1902
 begin(model(1902)).
 gender(f).
 race(white).
@@ -43154,10 +50566,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1902)).
-%patient: it_0170_006704 index:1903
+
+%patient: it-0170-006704 index:1903
 begin(model(1903)).
 gender(f).
 race(white).
@@ -43178,9 +50594,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1903)).
-%patient: it_0171_006142 index:1904
+
+%patient: it-0171-006142 index:1904
 begin(model(1904)).
 gender(f).
 race(white).
@@ -43203,9 +50624,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1904)).
-%patient: it_0171_006203 index:1905
+
+%patient: it-0171-006203 index:1905
 begin(model(1905)).
 gender(f).
 race(white).
@@ -43224,9 +50650,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1905)).
-%patient: it_0171_006210 index:1906
+
+%patient: it-0171-006210 index:1906
 begin(model(1906)).
 gender(m).
 race(white).
@@ -43245,9 +50676,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1906)).
-%patient: it_0171_006211 index:1907
+
+%patient: it-0171-006211 index:1907
 begin(model(1907)).
 gender(m).
 race(white).
@@ -43266,9 +50703,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1907)).
-%patient: it_0171_006212 index:1908
+
+%patient: it-0171-006212 index:1908
 begin(model(1908)).
 gender(m).
 race(white).
@@ -43289,10 +50732,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1908)).
-%patient: it_0171_006213 index:1909
+
+%patient: it-0171-006213 index:1909
 begin(model(1909)).
 gender(m).
 race(white).
@@ -43312,10 +50759,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1909)).
-%patient: it_0171_006214 index:1910
+
+%patient: it-0171-006214 index:1910
 begin(model(1910)).
 gender(f).
 race(white).
@@ -43333,9 +50784,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1910)).
-%patient: it_0171_006216 index:1911
+
+%patient: it-0171-006216 index:1911
 begin(model(1911)).
 gender(m).
 race(white).
@@ -43352,9 +50808,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1911)).
-%patient: it_0171_006224 index:1912
+
+%patient: it-0171-006224 index:1912
 begin(model(1912)).
 gender(f).
 race(white).
@@ -43375,9 +50836,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1912)).
-%patient: it_0171_006232 index:1913
+
+%patient: it-0171-006232 index:1913
 begin(model(1913)).
 gender(f).
 race(white).
@@ -43398,10 +50864,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1913)).
-%patient: it_0171_006237 index:1914
+
+%patient: it-0171-006237 index:1914
 begin(model(1914)).
 gender(m).
 race(white).
@@ -43418,9 +50888,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1914)).
-%patient: it_0171_006259 index:1915
+
+%patient: it-0171-006259 index:1915
 begin(model(1915)).
 gender(m).
 race(white).
@@ -43437,10 +50912,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1915)).
-%patient: it_0171_006263 index:1916
+
+%patient: it-0171-006263 index:1916
 begin(model(1916)).
 gender(f).
 race(white).
@@ -43457,9 +50936,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1916)).
-%patient: it_0171_006340 index:1917
+
+%patient: it-0171-006340 index:1917
 begin(model(1917)).
 gender(f).
 race(white).
@@ -43478,9 +50962,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1917)).
-%patient: it_0171_006346 index:1918
+
+%patient: it-0171-006346 index:1918
 begin(model(1918)).
 gender(m).
 race(white).
@@ -43501,10 +50990,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1918)).
-%patient: it_0171_006353 index:1919
+
+%patient: it-0171-006353 index:1919
 begin(model(1919)).
 gender(m).
 race(white).
@@ -43524,9 +51017,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
 end(model(1919)).
-%patient: it_0171_006390 index:1920
+
+%patient: it-0171-006390 index:1920
 begin(model(1920)).
 gender(f).
 race(white).
@@ -43543,9 +51038,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1920)).
-%patient: it_0171_006393 index:1921
+
+%patient: it-0171-006393 index:1921
 begin(model(1921)).
 gender(f).
 race(white).
@@ -43564,10 +51064,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1921)).
-%patient: it_0171_006394 index:1922
+
+%patient: it-0171-006394 index:1922
 begin(model(1922)).
 gender(m).
 race(white).
@@ -43588,9 +51093,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1922)).
-%patient: it_0171_006395 index:1923
+
+%patient: it-0171-006395 index:1923
 begin(model(1923)).
 gender(f).
 race(white).
@@ -43611,9 +51121,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1923)).
-%patient: it_0171_006396 index:1924
+
+%patient: it-0171-006396 index:1924
 begin(model(1924)).
 gender(f).
 race(white).
@@ -43632,9 +51147,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1924)).
-%patient: it_0171_006397 index:1925
+
+%patient: it-0171-006397 index:1925
 begin(model(1925)).
 gender(f).
 race(white).
@@ -43653,9 +51173,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1925)).
-%patient: it_0171_006399 index:1926
+
+%patient: it-0171-006399 index:1926
 begin(model(1926)).
 gender(m).
 race(white).
@@ -43673,9 +51199,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1926)).
-%patient: it_0021_001585 index:1927
+
+%patient: it-0021-001585 index:1927
 begin(model(1927)).
 gender(f).
 race(white).
@@ -43698,8 +51229,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(1927)).
-%patient: it_0061_004152 index:1928
+
+%patient: it-0061-004152 index:1928
 begin(model(1928)).
 gender(f).
 race(white).
@@ -43726,8 +51259,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1928)).
-%patient: it_0061_004153 index:1929
+
+%patient: it-0061-004153 index:1929
 begin(model(1929)).
 gender(f).
 race(white).
@@ -43744,9 +51282,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1929)).
-%patient: it_0061_004219 index:1930
+
+%patient: it-0061-004219 index:1930
 begin(model(1930)).
 gender(f).
 race(white).
@@ -43762,9 +51304,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1930)).
-%patient: it_0061_004220 index:1931
+
+%patient: it-0061-004220 index:1931
 begin(model(1931)).
 gender(m).
 race(white).
@@ -43781,9 +51328,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1931)).
-%patient: it_0061_004222 index:1932
+
+%patient: it-0061-004222 index:1932
 begin(model(1932)).
 gender(f).
 race(white).
@@ -43802,9 +51354,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1932)).
-%patient: it_0061_004223 index:1933
+
+%patient: it-0061-004223 index:1933
 begin(model(1933)).
 gender(f).
 race(white).
@@ -43821,10 +51378,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1933)).
-%patient: it_0061_004225 index:1934
+
+%patient: it-0061-004225 index:1934
 begin(model(1934)).
 gender(f).
 race(white).
@@ -43839,9 +51400,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1934)).
-%patient: it_0061_004226 index:1935
+
+%patient: it-0061-004226 index:1935
 begin(model(1935)).
 gender(f).
 race(white).
@@ -43859,9 +51425,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1935)).
-%patient: it_0102_002150 index:1936
+
+%patient: it-0102-002150 index:1936
 begin(model(1936)).
 gender(f).
 race(white).
@@ -43882,9 +51454,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1936)).
-%patient: it_0102_002220 index:1937
+
+%patient: it-0102-002220 index:1937
 begin(model(1937)).
 gender(f).
 race(white).
@@ -43903,9 +51479,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1937)).
-%patient: it_0102_004159 index:1938
+
+%patient: it-0102-004159 index:1938
 begin(model(1938)).
 gender(m).
 race(white).
@@ -43926,8 +51505,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1938)).
-%patient: it_0102_004161 index:1939
+
+%patient: it-0102-004161 index:1939
 begin(model(1939)).
 gender(f).
 race(white).
@@ -43951,8 +51535,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1939)).
-%patient: it_0102_004162 index:1940
+
+%patient: it-0102-004162 index:1940
 begin(model(1940)).
 gender(f).
 race(white).
@@ -43973,9 +51562,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1940)).
-%patient: it_0103_005967 index:1941
+
+%patient: it-0103-005967 index:1941
 begin(model(1941)).
 gender(m).
 race(white).
@@ -43995,9 +51589,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1941)).
-%patient: it_0103_006124 index:1942
+
+%patient: it-0103-006124 index:1942
 begin(model(1942)).
 gender(f).
 race(white).
@@ -44017,9 +51616,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1942)).
-%patient: it_0103_006138 index:1943
+
+%patient: it-0103-006138 index:1943
 begin(model(1943)).
 gender(f).
 race(white).
@@ -44037,9 +51641,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1943)).
-%patient: it_0106_006749 index:1944
+
+%patient: it-0106-006749 index:1944
 begin(model(1944)).
 gender(f).
 race(white).
@@ -44058,9 +51667,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1944)).
-%patient: it_0106_006788 index:1945
+
+%patient: it-0106-006788 index:1945
 begin(model(1945)).
 gender(f).
 race(white).
@@ -44079,9 +51693,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1945)).
-%patient: it_0106_006790 index:1946
+
+%patient: it-0106-006790 index:1946
 begin(model(1946)).
 gender(m).
 race(white).
@@ -44101,9 +51721,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1946)).
-%patient: it_0106_006805 index:1947
+
+%patient: it-0106-006805 index:1947
 begin(model(1947)).
 gender(m).
 race(white).
@@ -44119,10 +51744,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1947)).
-%patient: it_0106_006807 index:1948
+
+%patient: it-0106-006807 index:1948
 begin(model(1948)).
 gender(f).
 race(white).
@@ -44141,10 +51770,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1948)).
-%patient: it_0125_005720 index:1949
+
+%patient: it-0125-005720 index:1949
 begin(model(1949)).
 gender(f).
 race(white).
@@ -44166,10 +51799,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1949)).
-%patient: it_0125_005950 index:1950
+
+%patient: it-0125-005950 index:1950
 begin(model(1950)).
 gender(m).
 race(white).
@@ -44191,9 +51828,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1950)).
-%patient: it_0125_006144 index:1951
+
+%patient: it-0125-006144 index:1951
 begin(model(1951)).
 gender(f).
 race(white).
@@ -44219,10 +51862,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1951)).
-%patient: it_0130_004629 index:1952
+
+%patient: it-0130-004629 index:1952
 begin(model(1952)).
 gender(m).
 mobcat(3).
@@ -44243,8 +51890,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1952)).
-%patient: it_0130_004631 index:1953
+
+%patient: it-0130-004631 index:1953
 begin(model(1953)).
 gender(f).
 mobcat(5).
@@ -44269,8 +51921,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1953)).
-%patient: it_0130_005354 index:1954
+
+%patient: it-0130-005354 index:1954
 begin(model(1954)).
 gender(f).
 mobcat(0).
@@ -44288,9 +51946,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(1954)).
-%patient: it_0133_005724 index:1955
+
+%patient: it-0133-005724 index:1955
 begin(model(1955)).
 gender(f).
 race(white).
@@ -44312,9 +51973,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1955)).
-%patient: it_0133_005726 index:1956
+
+%patient: it-0133-005726 index:1956
 begin(model(1956)).
 gender(m).
 race(white).
@@ -44337,10 +52003,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1956)).
-%patient: it_0133_005734 index:1957
+
+%patient: it-0133-005734 index:1957
 begin(model(1957)).
 gender(f).
 race(white).
@@ -44356,9 +52026,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1957)).
-%patient: it_0133_005896 index:1958
+
+%patient: it-0133-005896 index:1958
 begin(model(1958)).
 gender(m).
 race(white).
@@ -44374,9 +52050,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1958)).
-%patient: it_0137_005514 index:1959
+
+%patient: it-0137-005514 index:1959
 begin(model(1959)).
 gender(m).
 race(white).
@@ -44393,9 +52074,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1959)).
-%patient: it_0138_004467 index:1960
+
+%patient: it-0138-004467 index:1960
 begin(model(1960)).
 gender(f).
 race(white).
@@ -44412,9 +52098,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1960)).
-%patient: it_0143_005257 index:1961
+
+%patient: it-0143-005257 index:1961
 begin(model(1961)).
 gender(m).
 mobcat(1).
@@ -44433,8 +52125,12 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(1961)).
-%patient: it_0144_004574 index:1962
+
+%patient: it-0144-004574 index:1962
 begin(model(1962)).
 gender(f).
 race(white).
@@ -44466,10 +52162,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1962)).
-%patient: it_0019_000394 index:1963
+
+%patient: it-0019-000394 index:1963
 begin(model(1963)).
 gender(m).
 race(white).
@@ -44489,9 +52190,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(1963)).
-%patient: it_0019_003805 index:1964
+
+%patient: it-0019-003805 index:1964
 begin(model(1964)).
 gender(f).
 race(white).
@@ -44508,9 +52212,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1964)).
-%patient: it_0019_003806 index:1965
+
+%patient: it-0019-003806 index:1965
 begin(model(1965)).
 gender(m).
 race(white).
@@ -44527,9 +52236,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(1965)).
-%patient: it_0019_003808 index:1966
+
+%patient: it-0019-003808 index:1966
 begin(model(1966)).
 gender(f).
 race(white).
@@ -44546,9 +52261,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1966)).
-%patient: it_0019_003809 index:1967
+
+%patient: it-0019-003809 index:1967
 begin(model(1967)).
 gender(f).
 race(white).
@@ -44568,10 +52288,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1967)).
-%patient: it_0019_003810 index:1968
+
+%patient: it-0019-003810 index:1968
 begin(model(1968)).
 gender(f).
 race(white).
@@ -44592,10 +52316,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1968)).
-%patient: it_0019_003811 index:1969
+
+%patient: it-0019-003811 index:1969
 begin(model(1969)).
 gender(f).
 race(white).
@@ -44615,9 +52343,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1969)).
-%patient: it_0019_003812 index:1970
+
+%patient: it-0019-003812 index:1970
 begin(model(1970)).
 gender(f).
 race(white).
@@ -44635,9 +52368,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1970)).
-%patient: it_0019_003813 index:1971
+
+%patient: it-0019-003813 index:1971
 begin(model(1971)).
 gender(f).
 race(white).
@@ -44655,9 +52393,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1971)).
-%patient: it_0019_003814 index:1972
+
+%patient: it-0019-003814 index:1972
 begin(model(1972)).
 gender(f).
 race(white).
@@ -44676,10 +52419,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(1972)).
-%patient: it_0019_003815 index:1973
+
+%patient: it-0019-003815 index:1973
 begin(model(1973)).
 gender(f).
 race(white).
@@ -44697,9 +52445,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1973)).
-%patient: it_0019_003816 index:1974
+
+%patient: it-0019-003816 index:1974
 begin(model(1974)).
 gender(m).
 race(white).
@@ -44724,9 +52477,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1974)).
-%patient: it_0019_003817 index:1975
+
+%patient: it-0019-003817 index:1975
 begin(model(1975)).
 gender(f).
 race(white).
@@ -44746,10 +52504,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1975)).
-%patient: it_0103_005957 index:1976
+
+%patient: it-0103-005957 index:1976
 begin(model(1976)).
 gender(m).
 race(white).
@@ -44767,9 +52529,15 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1976)).
-%patient: it_0103_005960 index:1977
+
+%patient: it-0103-005960 index:1977
 begin(model(1977)).
 gender(f).
 race(white).
@@ -44789,10 +52557,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1977)).
-%patient: it_0103_005969 index:1978
+
+%patient: it-0103-005969 index:1978
 begin(model(1978)).
 gender(f).
 race(white).
@@ -44810,9 +52582,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(1978)).
-%patient: it_0103_006132 index:1979
+
+%patient: it-0103-006132 index:1979
 begin(model(1979)).
 gender(m).
 race(white).
@@ -44830,9 +52608,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1979)).
-%patient: it_0103_006134 index:1980
+
+%patient: it-0103-006134 index:1980
 begin(model(1980)).
 gender(m).
 race(white).
@@ -44849,9 +52632,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(1980)).
-%patient: it_0108_001803 index:1981
+
+%patient: it-0108-001803 index:1981
 begin(model(1981)).
 gender(f).
 race(white).
@@ -44872,8 +52660,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+vzvvaccine(0).
 end(model(1981)).
-%patient: it_0108_002668 index:1982
+
+%patient: it-0108-002668 index:1982
 begin(model(1982)).
 gender(m).
 race(white).
@@ -44892,9 +52683,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1982)).
-%patient: it_0108_002699 index:1983
+
+%patient: it-0108-002699 index:1983
 begin(model(1983)).
 gender(f).
 race(white).
@@ -44914,10 +52710,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1983)).
-%patient: it_0108_002708 index:1984
+
+%patient: it-0108-002708 index:1984
 begin(model(1984)).
 gender(f).
 race(white).
@@ -44938,8 +52738,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1984)).
-%patient: it_0108_002711 index:1985
+
+%patient: it-0108-002711 index:1985
 begin(model(1985)).
 gender(m).
 race(white).
@@ -44963,9 +52768,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(1985)).
-%patient: it_0116_004525 index:1986
+
+%patient: it-0116-004525 index:1986
 begin(model(1986)).
 gender(f).
 race(white).
@@ -44989,8 +52799,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1986)).
-%patient: it_0116_004527 index:1987
+
+%patient: it-0116-004527 index:1987
 begin(model(1987)).
 gender(f).
 race(white).
@@ -45012,9 +52827,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1987)).
-%patient: it_0116_004528 index:1988
+
+%patient: it-0116-004528 index:1988
 begin(model(1988)).
 gender(f).
 race(white).
@@ -45036,8 +52854,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1988)).
-%patient: it_0116_004584 index:1989
+
+%patient: it-0116-004584 index:1989
 begin(model(1989)).
 gender(f).
 race(white).
@@ -45059,9 +52881,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1989)).
-%patient: it_0116_004585 index:1990
+
+%patient: it-0116-004585 index:1990
 begin(model(1990)).
 gender(f).
 race(white).
@@ -45083,8 +52908,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1990)).
-%patient: it_0116_004594 index:1991
+
+%patient: it-0116-004594 index:1991
 begin(model(1991)).
 gender(f).
 race(white).
@@ -45103,9 +52932,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1991)).
-%patient: it_0116_004638 index:1992
+
+%patient: it-0116-004638 index:1992
 begin(model(1992)).
 gender(f).
 race(white).
@@ -45125,8 +52957,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(1992)).
-%patient: it_0116_004647 index:1993
+
+%patient: it-0116-004647 index:1993
 begin(model(1993)).
 gender(f).
 race(white).
@@ -45150,8 +52987,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1993)).
-%patient: it_0116_004653 index:1994
+
+%patient: it-0116-004653 index:1994
 begin(model(1994)).
 gender(f).
 race(white).
@@ -45173,9 +53014,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1994)).
-%patient: it_0116_004715 index:1995
+
+%patient: it-0116-004715 index:1995
 begin(model(1995)).
 gender(f).
 race(white).
@@ -45196,9 +53040,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1995)).
-%patient: it_0116_004878 index:1996
+
+%patient: it-0116-004878 index:1996
 begin(model(1996)).
 gender(f).
 race(white).
@@ -45219,9 +53067,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(1996)).
-%patient: it_0116_004957 index:1997
+
+%patient: it-0116-004957 index:1997
 begin(model(1997)).
 gender(f).
 race(white).
@@ -45244,8 +53096,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1997)).
-%patient: it_0116_004958 index:1998
+
+%patient: it-0116-004958 index:1998
 begin(model(1998)).
 gender(f).
 race(white).
@@ -45266,8 +53122,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1998)).
-%patient: it_0116_004963 index:1999
+
+%patient: it-0116-004963 index:1999
 begin(model(1999)).
 gender(f).
 race(white).
@@ -45290,9 +53150,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(1999)).
-%patient: it_0116_004964 index:2000
+
+%patient: it-0116-004964 index:2000
 begin(model(2000)).
 gender(f).
 race(white).
@@ -45314,8 +53177,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2000)).
-%patient: it_0116_004965 index:2001
+
+%patient: it-0116-004965 index:2001
 begin(model(2001)).
 gender(f).
 race(white).
@@ -45339,8 +53206,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2001)).
-%patient: it_0116_005061 index:2002
+
+%patient: it-0116-005061 index:2002
 begin(model(2002)).
 gender(f).
 race(white).
@@ -45362,9 +53233,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2002)).
-%patient: it_0116_005099 index:2003
+
+%patient: it-0116-005099 index:2003
 begin(model(2003)).
 gender(f).
 race(white).
@@ -45383,8 +53258,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2003)).
-%patient: it_0116_005176 index:2004
+
+%patient: it-0116-005176 index:2004
 begin(model(2004)).
 gender(f).
 race(white).
@@ -45405,8 +53284,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2004)).
-%patient: it_0116_005184 index:2005
+
+%patient: it-0116-005184 index:2005
 begin(model(2005)).
 gender(f).
 race(white).
@@ -45424,8 +53308,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2005)).
-%patient: it_0116_005193 index:2006
+
+%patient: it-0116-005193 index:2006
 begin(model(2006)).
 gender(f).
 race(white).
@@ -45446,8 +53334,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2006)).
-%patient: it_0116_005195 index:2007
+
+%patient: it-0116-005195 index:2007
 begin(model(2007)).
 gender(f).
 race(white).
@@ -45467,9 +53359,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2007)).
-%patient: it_0116_005196 index:2008
+
+%patient: it-0116-005196 index:2008
 begin(model(2008)).
 gender(f).
 race(white).
@@ -45489,9 +53384,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2008)).
-%patient: it_0116_005197 index:2009
+
+%patient: it-0116-005197 index:2009
 begin(model(2009)).
 gender(f).
 race(white).
@@ -45512,8 +53410,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2009)).
-%patient: it_0116_005343 index:2010
+
+%patient: it-0116-005343 index:2010
 begin(model(2010)).
 gender(f).
 race(white).
@@ -45532,8 +53434,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2010)).
-%patient: it_0116_005348 index:2011
+
+%patient: it-0116-005348 index:2011
 begin(model(2011)).
 gender(f).
 race(white).
@@ -45555,8 +53461,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2011)).
-%patient: it_0116_005349 index:2012
+
+%patient: it-0116-005349 index:2012
 begin(model(2012)).
 gender(f).
 race(white).
@@ -45579,8 +53490,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2012)).
-%patient: it_0116_005367 index:2013
+
+%patient: it-0116-005367 index:2013
 begin(model(2013)).
 gender(f).
 race(white).
@@ -45601,8 +53516,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2013)).
-%patient: it_0116_005376 index:2014
+
+%patient: it-0116-005376 index:2014
 begin(model(2014)).
 gender(f).
 race(white).
@@ -45625,8 +53545,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2014)).
-%patient: it_0125_003897 index:2015
+
+%patient: it-0125-003897 index:2015
 begin(model(2015)).
 gender(f).
 race(white).
@@ -45645,10 +53570,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2015)).
-%patient: it_0125_003975 index:2016
+
+%patient: it-0125-003975 index:2016
 begin(model(2016)).
 gender(f).
 race(white).
@@ -45671,10 +53600,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2016)).
-%patient: it_0125_003976 index:2017
+
+%patient: it-0125-003976 index:2017
 begin(model(2017)).
 gender(f).
 race(white).
@@ -45699,10 +53632,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2017)).
-%patient: it_0125_004355 index:2018
+
+%patient: it-0125-004355 index:2018
 begin(model(2018)).
 gender(f).
 race(white).
@@ -45722,9 +53659,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2018)).
-%patient: it_0125_004664 index:2019
+
+%patient: it-0125-004664 index:2019
 begin(model(2019)).
 gender(m).
 race(white).
@@ -45744,9 +53686,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2019)).
-%patient: it_0132_004962 index:2020
+
+%patient: it-0132-004962 index:2020
 begin(model(2020)).
 gender(f).
 race(white).
@@ -45771,8 +53718,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2020)).
-%patient: it_0132_005597 index:2021
+
+%patient: it-0132-005597 index:2021
 begin(model(2021)).
 gender(m).
 race(white).
@@ -45801,8 +53751,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(2021)).
-%patient: it_0133_005732 index:2022
+
+%patient: it-0133-005732 index:2022
 begin(model(2022)).
 gender(m).
 race(white).
@@ -45823,9 +53775,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2022)).
-%patient: it_0133_005738 index:2023
+
+%patient: it-0133-005738 index:2023
 begin(model(2023)).
 gender(m).
 race(white).
@@ -45843,9 +53800,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2023)).
-%patient: it_0133_005936 index:2024
+
+%patient: it-0133-005936 index:2024
 begin(model(2024)).
 gender(f).
 race(white).
@@ -45865,9 +53827,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2024)).
-%patient: it_0133_006050 index:2025
+
+%patient: it-0133-006050 index:2025
 begin(model(2025)).
 gender(f).
 race(white).
@@ -45885,9 +53852,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2025)).
-%patient: it_0133_006051 index:2026
+
+%patient: it-0133-006051 index:2026
 begin(model(2026)).
 gender(f).
 race(white).
@@ -45903,9 +53876,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2026)).
-%patient: it_0133_006054 index:2027
+
+%patient: it-0133-006054 index:2027
 begin(model(2027)).
 gender(f).
 race(white).
@@ -45922,9 +53900,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2027)).
-%patient: it_0133_006058 index:2028
+
+%patient: it-0133-006058 index:2028
 begin(model(2028)).
 gender(f).
 race(white).
@@ -45942,9 +53925,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2028)).
-%patient: it_0133_006062 index:2029
+
+%patient: it-0133-006062 index:2029
 begin(model(2029)).
 gender(f).
 mobcat(1).
@@ -45961,9 +53949,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2029)).
-%patient: it_0133_006063 index:2030
+
+%patient: it-0133-006063 index:2030
 begin(model(2030)).
 gender(f).
 race(white).
@@ -45981,9 +53975,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2030)).
-%patient: it_0138_004469 index:2031
+
+%patient: it-0138-004469 index:2031
 begin(model(2031)).
 gender(f).
 race(white).
@@ -46000,10 +54000,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2031)).
-%patient: it_0143_006252 index:2032
+
+%patient: it-0143-006252 index:2032
 begin(model(2032)).
 gender(m).
 race(white).
@@ -46021,9 +54025,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2032)).
-%patient: it_0143_006638 index:2033
+
+%patient: it-0143-006638 index:2033
 begin(model(2033)).
 gender(m).
 race(white).
@@ -46044,8 +54050,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
 end(model(2033)).
-%patient: it_0158_005944 index:2034
+
+%patient: it-0158-005944 index:2034
 begin(model(2034)).
 gender(m).
 race(white).
@@ -46070,9 +54078,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2034)).
-%patient: it_0158_005946 index:2035
+
+%patient: it-0158-005946 index:2035
 begin(model(2035)).
 gender(f).
 race(white).
@@ -46092,9 +54105,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2035)).
-%patient: it_0158_005947 index:2036
+
+%patient: it-0158-005947 index:2036
 begin(model(2036)).
 gender(f).
 race(white).
@@ -46114,10 +54130,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2036)).
-%patient: it_0158_006064 index:2037
+
+%patient: it-0158-006064 index:2037
 begin(model(2037)).
 gender(f).
 race(white).
@@ -46137,10 +54155,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2037)).
-%patient: it_0158_006082 index:2038
+
+%patient: it-0158-006082 index:2038
 begin(model(2038)).
 gender(f).
 race(white).
@@ -46162,9 +54182,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2038)).
-%patient: it_0158_006084 index:2039
+
+%patient: it-0158-006084 index:2039
 begin(model(2039)).
 gender(f).
 race(white).
@@ -46182,9 +54206,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2039)).
-%patient: it_0158_006085 index:2040
+
+%patient: it-0158-006085 index:2040
 begin(model(2040)).
 gender(m).
 race(white).
@@ -46206,9 +54234,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2040)).
-%patient: it_0158_006086 index:2041
+
+%patient: it-0158-006086 index:2041
 begin(model(2041)).
 gender(m).
 race(white).
@@ -46227,9 +54260,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2041)).
-%patient: it_0158_006087 index:2042
+
+%patient: it-0158-006087 index:2042
 begin(model(2042)).
 gender(f).
 race(white).
@@ -46252,9 +54287,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(2042)).
-%patient: it_0158_006089 index:2043
+
+%patient: it-0158-006089 index:2043
 begin(model(2043)).
 gender(f).
 race(white).
@@ -46273,10 +54312,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2043)).
-%patient: it_0158_006265 index:2044
+
+%patient: it-0158-006265 index:2044
 begin(model(2044)).
 gender(f).
 race(white).
@@ -46296,10 +54338,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2044)).
-%patient: it_0158_006266 index:2045
+
+%patient: it-0158-006266 index:2045
 begin(model(2045)).
 gender(f).
 race(white).
@@ -46318,9 +54364,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2045)).
-%patient: it_0020_000291 index:2046
+
+%patient: it-0020-000291 index:2046
 begin(model(2046)).
 gender(f).
 race(white).
@@ -46345,9 +54395,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2046)).
-%patient: it_0020_001253 index:2047
+
+%patient: it-0020-001253 index:2047
 begin(model(2047)).
 gender(f).
 race(white).
@@ -46373,10 +54428,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2047)).
-%patient: it_0020_003770 index:2048
+
+%patient: it-0020-003770 index:2048
 begin(model(2048)).
 gender(m).
 race(white).
@@ -46399,9 +54458,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2048)).
-%patient: it_0020_003771 index:2049
+
+%patient: it-0020-003771 index:2049
 begin(model(2049)).
 gender(m).
 race(white).
@@ -46420,9 +54484,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2049)).
-%patient: it_0020_003772 index:2050
+
+%patient: it-0020-003772 index:2050
 begin(model(2050)).
 gender(m).
 race(white).
@@ -46446,9 +54515,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2050)).
-%patient: it_0020_003773 index:2051
+
+%patient: it-0020-003773 index:2051
 begin(model(2051)).
 gender(f).
 race(white).
@@ -46469,9 +54543,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2051)).
-%patient: it_0020_003775 index:2052
+
+%patient: it-0020-003775 index:2052
 begin(model(2052)).
 gender(f).
 race(white).
@@ -46495,10 +54574,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2052)).
-%patient: it_0020_003777 index:2053
+
+%patient: it-0020-003777 index:2053
 begin(model(2053)).
 gender(f).
 race(white).
@@ -46521,10 +54605,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2053)).
-%patient: it_0020_003782 index:2054
+
+%patient: it-0020-003782 index:2054
 begin(model(2054)).
 gender(f).
 race(white).
@@ -46548,10 +54636,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2054)).
-%patient: it_0020_003783 index:2055
+
+%patient: it-0020-003783 index:2055
 begin(model(2055)).
 gender(f).
 race(white).
@@ -46573,10 +54666,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2055)).
-%patient: it_0020_003785 index:2056
+
+%patient: it-0020-003785 index:2056
 begin(model(2056)).
 gender(f).
 race(white).
@@ -46600,9 +54697,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2056)).
-%patient: it_0020_003786 index:2057
+
+%patient: it-0020-003786 index:2057
 begin(model(2057)).
 gender(f).
 race(white).
@@ -46625,9 +54728,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2057)).
-%patient: it_0020_003787 index:2058
+
+%patient: it-0020-003787 index:2058
 begin(model(2058)).
 gender(f).
 race(white).
@@ -46649,10 +54757,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2058)).
-%patient: it_0020_003797 index:2059
+
+%patient: it-0020-003797 index:2059
 begin(model(2059)).
 gender(f).
 race(white).
@@ -46674,9 +54786,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2059)).
-%patient: it_0020_003798 index:2060
+
+%patient: it-0020-003798 index:2060
 begin(model(2060)).
 gender(f).
 race(white).
@@ -46703,9 +54821,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2060)).
-%patient: it_0020_003800 index:2061
+
+%patient: it-0020-003800 index:2061
 begin(model(2061)).
 gender(m).
 race(white).
@@ -46729,10 +54852,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2061)).
-%patient: it_0020_003801 index:2062
+
+%patient: it-0020-003801 index:2062
 begin(model(2062)).
 gender(f).
 race(white).
@@ -46755,9 +54882,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2062)).
-%patient: it_0020_003802 index:2063
+
+%patient: it-0020-003802 index:2063
 begin(model(2063)).
 gender(f).
 race(white).
@@ -46785,10 +54917,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2063)).
-%patient: it_0020_003803 index:2064
+
+%patient: it-0020-003803 index:2064
 begin(model(2064)).
 gender(f).
 race(white).
@@ -46814,10 +54951,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2064)).
-%patient: it_0108_002669 index:2065
+
+%patient: it-0108-002669 index:2065
 begin(model(2065)).
 gender(m).
 race(white).
@@ -46836,10 +54978,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2065)).
-%patient: it_0108_002671 index:2066
+
+%patient: it-0108-002671 index:2066
 begin(model(2066)).
 gender(f).
 race(white).
@@ -46866,9 +55012,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+antipneumovaccine(1).
+testid(t).
 end(model(2066)).
-%patient: it_0108_002674 index:2067
+
+%patient: it-0108-002674 index:2067
 begin(model(2067)).
 gender(f).
 race(white).
@@ -46891,9 +55041,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2067)).
-%patient: it_0125_004661 index:2068
+
+%patient: it-0125-004661 index:2068
 begin(model(2068)).
 gender(m).
 race(white).
@@ -46911,9 +55066,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2068)).
-%patient: it_0125_005954 index:2069
+
+%patient: it-0125-005954 index:2069
 begin(model(2069)).
 gender(f).
 race(white).
@@ -46933,9 +55093,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2069)).
-%patient: it_0125_005964 index:2070
+
+%patient: it-0125-005964 index:2070
 begin(model(2070)).
 gender(f).
 race(white).
@@ -46956,9 +55121,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2070)).
-%patient: it_0132_005940 index:2071
+
+%patient: it-0132-005940 index:2071
 begin(model(2071)).
 gender(f).
 race(white).
@@ -46981,10 +55151,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(2071)).
-%patient: it_0134_004936 index:2072
+
+%patient: it-0134-004936 index:2072
 begin(model(2072)).
 gender(m).
 race(white).
@@ -47006,8 +55178,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2072)).
-%patient: it_0134_004939 index:2073
+
+%patient: it-0134-004939 index:2073
 begin(model(2073)).
 gender(f).
 race(white).
@@ -47026,8 +55202,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2073)).
-%patient: it_0134_004940 index:2074
+
+%patient: it-0134-004940 index:2074
 begin(model(2074)).
 gender(f).
 race(white).
@@ -47051,8 +55231,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2074)).
-%patient: it_0134_004941 index:2075
+
+%patient: it-0134-004941 index:2075
 begin(model(2075)).
 gender(f).
 race(white).
@@ -47073,8 +55257,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2075)).
-%patient: it_0134_004942 index:2076
+
+%patient: it-0134-004942 index:2076
 begin(model(2076)).
 gender(m).
 race(white).
@@ -47094,9 +55282,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 testid(t).
 end(model(2076)).
-%patient: it_0134_004944 index:2077
+
+%patient: it-0134-004944 index:2077
 begin(model(2077)).
 gender(m).
 race(white).
@@ -47115,8 +55307,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2077)).
-%patient: it_0134_004945 index:2078
+
+%patient: it-0134-004945 index:2078
 begin(model(2078)).
 gender(m).
 race(white).
@@ -47134,8 +55330,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2078)).
-%patient: it_0134_004946 index:2079
+
+%patient: it-0134-004946 index:2079
 begin(model(2079)).
 gender(f).
 race(white).
@@ -47156,8 +55356,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+testid(t).
 end(model(2079)).
-%patient: it_0134_004947 index:2080
+
+%patient: it-0134-004947 index:2080
 begin(model(2080)).
 gender(m).
 race(white).
@@ -47177,8 +55382,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2080)).
-%patient: it_0134_004948 index:2081
+
+%patient: it-0134-004948 index:2081
 begin(model(2081)).
 gender(f).
 race(white).
@@ -47198,8 +55407,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2081)).
-%patient: it_0134_004949 index:2082
+
+%patient: it-0134-004949 index:2082
 begin(model(2082)).
 gender(f).
 race(white).
@@ -47219,8 +55432,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+testid(t).
 end(model(2082)).
-%patient: it_0134_004951 index:2083
+
+%patient: it-0134-004951 index:2083
 begin(model(2083)).
 gender(f).
 race(white).
@@ -47240,8 +55458,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2083)).
-%patient: it_0134_005605 index:2084
+
+%patient: it-0134-005605 index:2084
 begin(model(2084)).
 gender(f).
 race(white).
@@ -47259,8 +55481,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2084)).
-%patient: it_0134_005606 index:2085
+
+%patient: it-0134-005606 index:2085
 begin(model(2085)).
 gender(f).
 race(white).
@@ -47278,8 +55503,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2085)).
-%patient: it_0138_004472 index:2086
+
+%patient: it-0138-004472 index:2086
 begin(model(2086)).
 gender(m).
 race(white).
@@ -47299,9 +55527,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2086)).
-%patient: it_0108_002689 index:2087
+
+%patient: it-0108-002689 index:2087
 begin(model(2087)).
 gender(f).
 race(white).
@@ -47321,9 +55554,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2087)).
-%patient: it_0108_002705 index:2088
+
+%patient: it-0108-002705 index:2088
 begin(model(2088)).
 gender(f).
 race(white).
@@ -47345,10 +55583,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2088)).
-%patient: it_0108_002707 index:2089
+
+%patient: it-0108-002707 index:2089
 begin(model(2089)).
 gender(m).
 race(white).
@@ -47370,9 +55613,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2089)).
-%patient: it_0108_002710 index:2090
+
+%patient: it-0108-002710 index:2090
 begin(model(2090)).
 gender(f).
 race(white).
@@ -47393,9 +55641,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2090)).
-%patient: it_0125_003997 index:2091
+
+%patient: it-0125-003997 index:2091
 begin(model(2091)).
 gender(f).
 race(white).
@@ -47419,9 +55673,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2091)).
-%patient: it_0125_004155 index:2092
+
+%patient: it-0125-004155 index:2092
 begin(model(2092)).
 gender(f).
 race(white).
@@ -47444,9 +55703,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2092)).
-%patient: it_0125_006145 index:2093
+
+%patient: it-0125-006145 index:2093
 begin(model(2093)).
 gender(f).
 race(white).
@@ -47467,9 +55731,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2093)).
-%patient: it_0132_005943 index:2094
+
+%patient: it-0132-005943 index:2094
 begin(model(2094)).
 gender(f).
 race(white).
@@ -47494,9 +55763,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2094)).
-%patient: it_0003_003755 index:2095
+
+%patient: it-0003-003755 index:2095
 begin(model(2095)).
 gender(f).
 race(white).
@@ -47519,10 +55790,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2095)).
-%patient: it_0018_003760 index:2096
+
+%patient: it-0018-003760 index:2096
 begin(model(2096)).
 gender(f).
 race(white).
@@ -47550,9 +55823,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2096)).
-%patient: it_0125_003790 index:2097
+
+%patient: it-0125-003790 index:2097
 begin(model(2097)).
 gender(f).
 race(white).
@@ -47576,10 +55855,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2097)).
-%patient: it_0125_003930 index:2098
+
+%patient: it-0125-003930 index:2098
 begin(model(2098)).
 gender(m).
 race(white).
@@ -47607,10 +55890,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2098)).
-%patient: it_0125_003932 index:2099
+
+%patient: it-0125-003932 index:2099
 begin(model(2099)).
 gender(f).
 race(white).
@@ -47633,8 +55920,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2099)).
-%patient: it_0125_004172 index:2100
+
+%patient: it-0125-004172 index:2100
 begin(model(2100)).
 gender(m).
 race(white).
@@ -47655,9 +55947,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2100)).
-%patient: it_0125_004275 index:2101
+
+%patient: it-0125-004275 index:2101
 begin(model(2101)).
 gender(f).
 race(white).
@@ -47677,9 +55974,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2101)).
-%patient: it_0125_006423 index:2102
+
+%patient: it-0125-006423 index:2102
 begin(model(2102)).
 gender(f).
 race(white).
@@ -47706,10 +56008,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2102)).
-%patient: it_0130_005203 index:2103
+
+%patient: it-0130-005203 index:2103
 begin(model(2103)).
 gender(f).
 mobcat(4).
@@ -47732,9 +56039,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2103)).
-%patient: it_0061_004738 index:2104
+
+%patient: it-0061-004738 index:2104
 begin(model(2104)).
 gender(f).
 race(white).
@@ -47762,8 +56072,12 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2104)).
-%patient: it_0125_004125 index:2105
+
+%patient: it-0125-004125 index:2105
 begin(model(2105)).
 gender(f).
 race(white).
@@ -47786,9 +56100,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2105)).
-%patient: it_0125_006048 index:2106
+
+%patient: it-0125-006048 index:2106
 begin(model(2106)).
 gender(f).
 race(white).
@@ -47811,9 +56131,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2106)).
-%patient: it_0003_000282 index:2107
+
+%patient: it-0003-000282 index:2107
 begin(model(2107)).
 gender(m).
 race(white).
@@ -47838,9 +56163,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2107)).
-%patient: it_0003_000283 index:2108
+
+%patient: it-0003-000283 index:2108
 begin(model(2108)).
 gender(f).
 race(white).
@@ -47867,9 +56197,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2108)).
-%patient: it_0003_001904 index:2109
+
+%patient: it-0003-001904 index:2109
 begin(model(2109)).
 gender(f).
 race(white).
@@ -47897,9 +56232,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2109)).
-%patient: it_0003_003753 index:2110
+
+%patient: it-0003-003753 index:2110
 begin(model(2110)).
 gender(f).
 race(white).
@@ -47924,9 +56264,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(2110)).
-%patient: it_0003_003759 index:2111
+
+%patient: it-0003-003759 index:2111
 begin(model(2111)).
 gender(f).
 race(white).
@@ -47953,10 +56297,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2111)).
-%patient: it_0003_003762 index:2112
+
+%patient: it-0003-003762 index:2112
 begin(model(2112)).
 gender(f).
 race(white).
@@ -47980,10 +56326,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2112)).
-%patient: it_0017_000279 index:2113
+
+%patient: it-0017-000279 index:2113
 begin(model(2113)).
 gender(f).
 race(white).
@@ -48010,9 +56358,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2113)).
-%patient: it_0018_000684 index:2114
+
+%patient: it-0018-000684 index:2114
 begin(model(2114)).
 gender(f).
 race(white).
@@ -48039,9 +56392,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2114)).
-%patient: it_0018_001900 index:2115
+
+%patient: it-0018-001900 index:2115
 begin(model(2115)).
 gender(f).
 race(white).
@@ -48067,9 +56426,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2115)).
-%patient: it_0018_003766 index:2116
+
+%patient: it-0018-003766 index:2116
 begin(model(2116)).
 gender(f).
 race(white).
@@ -48095,10 +56459,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2116)).
-%patient: it_0018_003767 index:2117
+
+%patient: it-0018-003767 index:2117
 begin(model(2117)).
 gender(m).
 race(white).
@@ -48127,10 +56495,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2117)).
-%patient: it_0108_002694 index:2118
+
+%patient: it-0108-002694 index:2118
 begin(model(2118)).
 gender(f).
 race(white).
@@ -48149,9 +56521,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2118)).
-%patient: it_0108_002706 index:2119
+
+%patient: it-0108-002706 index:2119
 begin(model(2119)).
 gender(f).
 race(white).
@@ -48172,9 +56549,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2119)).
-%patient: it_0108_002709 index:2120
+
+%patient: it-0108-002709 index:2120
 begin(model(2120)).
 gender(f).
 race(white).
@@ -48192,10 +56574,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2120)).
-%patient: it_0138_004468 index:2121
+
+%patient: it-0138-004468 index:2121
 begin(model(2121)).
 gender(f).
 race(white).
@@ -48215,10 +56601,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2121)).
-%patient: it_0138_004470 index:2122
+
+%patient: it-0138-004470 index:2122
 begin(model(2122)).
 gender(f).
 race(white).
@@ -48238,10 +56629,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2122)).
-%patient: it_0138_004471 index:2123
+
+%patient: it-0138-004471 index:2123
 begin(model(2123)).
 gender(f).
 race(white).
@@ -48259,9 +56655,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2123)).
-%patient: it_0138_004473 index:2124
+
+%patient: it-0138-004473 index:2124
 begin(model(2124)).
 gender(f).
 race(white).
@@ -48277,10 +56679,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2124)).
-%patient: it_0138_004475 index:2125
+
+%patient: it-0138-004475 index:2125
 begin(model(2125)).
 gender(f).
 race(white).
@@ -48297,10 +56703,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2125)).
-%patient: it_0138_004477 index:2126
+
+%patient: it-0138-004477 index:2126
 begin(model(2126)).
 gender(f).
 race(white).
@@ -48319,9 +56730,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2126)).
-%patient: it_0138_004480 index:2127
+
+%patient: it-0138-004480 index:2127
 begin(model(2127)).
 gender(f).
 race(white).
@@ -48337,10 +56753,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2127)).
-%patient: it_0138_004481 index:2128
+
+%patient: it-0138-004481 index:2128
 begin(model(2128)).
 gender(f).
 race(white).
@@ -48359,9 +56779,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2128)).
-%patient: it_0138_004483 index:2129
+
+%patient: it-0138-004483 index:2129
 begin(model(2129)).
 gender(f).
 race(white).
@@ -48380,9 +56805,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2129)).
-%patient: it_0138_004484 index:2130
+
+%patient: it-0138-004484 index:2130
 begin(model(2130)).
 gender(m).
 race(white).
@@ -48401,9 +56831,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2130)).
-%patient: it_0138_004485 index:2131
+
+%patient: it-0138-004485 index:2131
 begin(model(2131)).
 gender(f).
 race(white).
@@ -48420,10 +56855,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2131)).
-%patient: it_0141_006176 index:2132
+
+%patient: it-0141-006176 index:2132
 begin(model(2132)).
 gender(f).
 race(white).
@@ -48440,9 +56879,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2132)).
-%patient: it_0143_006255 index:2133
+
+%patient: it-0143-006255 index:2133
 begin(model(2133)).
 gender(f).
 race(white).
@@ -48461,9 +56906,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(2133)).
-%patient: it_0144_006857 index:2134
+
+%patient: it-0144-006857 index:2134
 begin(model(2134)).
 gender(f).
 race(white).
@@ -48483,9 +56931,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2134)).
-%patient: it_0144_006859 index:2135
+
+%patient: it-0144-006859 index:2135
 begin(model(2135)).
 gender(f).
 race(white).
@@ -48503,9 +56956,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2135)).
-%patient: it_0144_006861 index:2136
+
+%patient: it-0144-006861 index:2136
 begin(model(2136)).
 gender(f).
 race(white).
@@ -48526,9 +56984,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2136)).
-%patient: it_0144_006862 index:2137
+
+%patient: it-0144-006862 index:2137
 begin(model(2137)).
 gender(m).
 race(white).
@@ -48552,9 +57015,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2137)).
-%patient: it_0108_002700 index:2138
+
+%patient: it-0108-002700 index:2138
 begin(model(2138)).
 gender(f).
 race(white).
@@ -48577,9 +57045,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2138)).
-%patient: it_0137_005516 index:2139
+
+%patient: it-0137-005516 index:2139
 begin(model(2139)).
 gender(m).
 race(white).
@@ -48598,9 +57071,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2139)).
-%patient: it_0131_004348 index:2140
+
+%patient: it-0131-004348 index:2140
 begin(model(2140)).
 gender(f).
 race(white).
@@ -48620,9 +57098,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2140)).
-%patient: it_0131_004349 index:2141
+
+%patient: it-0131-004349 index:2141
 begin(model(2141)).
 gender(f).
 race(white).
@@ -48641,9 +57125,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2141)).
-%patient: it_0132_005942 index:2142
+
+%patient: it-0132-005942 index:2142
 begin(model(2142)).
 gender(m).
 race(white).
@@ -48666,9 +57155,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(2142)).
-%patient: it_0158_006088 index:2143
+
+%patient: it-0158-006088 index:2143
 begin(model(2143)).
 gender(f).
 race(white).
@@ -48686,9 +57178,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2143)).
-%patient: it_0131_004313 index:2144
+
+%patient: it-0131-004313 index:2144
 begin(model(2144)).
 gender(f).
 race(white).
@@ -48709,10 +57204,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
 end(model(2144)).
-%patient: it_0131_004317 index:2145
+
+%patient: it-0131-004317 index:2145
 begin(model(2145)).
 gender(f).
 race(white).
@@ -48734,9 +57230,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2145)).
-%patient: it_0131_004319 index:2146
+
+%patient: it-0131-004319 index:2146
 begin(model(2146)).
 gender(f).
 race(white).
@@ -48760,9 +57262,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2146)).
-%patient: it_0158_006068 index:2147
+
+%patient: it-0158-006068 index:2147
 begin(model(2147)).
 gender(f).
 race(white).
@@ -48783,10 +57291,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2147)).
-%patient: it_0158_006083 index:2148
+
+%patient: it-0158-006083 index:2148
 begin(model(2148)).
 gender(m).
 race(white).
@@ -48806,9 +57316,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+testid(t).
 end(model(2148)).
-%patient: it_0131_004347 index:2149
+
+%patient: it-0131-004347 index:2149
 begin(model(2149)).
 gender(m).
 race(white).
@@ -48826,9 +57340,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2149)).
-%patient: it_0158_005945 index:2150
+
+%patient: it-0158-005945 index:2150
 begin(model(2150)).
 gender(f).
 race(white).
@@ -48847,9 +57366,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2150)).
-%patient: it_0131_004297 index:2151
+
+%patient: it-0131-004297 index:2151
 begin(model(2151)).
 gender(f).
 race(white).
@@ -48873,9 +57397,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2151)).
-%patient: it_0131_004301 index:2152
+
+%patient: it-0131-004301 index:2152
 begin(model(2152)).
 gender(f).
 race(white).
@@ -48898,9 +57427,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2152)).
-%patient: it_0131_004303 index:2153
+
+%patient: it-0131-004303 index:2153
 begin(model(2153)).
 gender(f).
 race(white).
@@ -48919,9 +57454,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2153)).
-%patient: it_0131_004306 index:2154
+
+%patient: it-0131-004306 index:2154
 begin(model(2154)).
 gender(f).
 race(white).
@@ -48941,9 +57481,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2154)).
-%patient: it_0131_004308 index:2155
+
+%patient: it-0131-004308 index:2155
 begin(model(2155)).
 gender(f).
 race(white).
@@ -48964,10 +57510,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(2155)).
-%patient: it_0131_004315 index:2156
+
+%patient: it-0131-004315 index:2156
 begin(model(2156)).
 gender(f).
 race(white).
@@ -48991,9 +57539,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2156)).
-%patient: it_0131_004316 index:2157
+
+%patient: it-0131-004316 index:2157
 begin(model(2157)).
 gender(f).
 race(white).
@@ -49015,9 +57568,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2157)).
-%patient: it_0131_004343 index:2158
+
+%patient: it-0131-004343 index:2158
 begin(model(2158)).
 gender(f).
 race(white).
@@ -49039,9 +57597,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2158)).
-%patient: it_0131_004352 index:2159
+
+%patient: it-0131-004352 index:2159
 begin(model(2159)).
 gender(m).
 race(white).
@@ -49062,9 +57625,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2159)).
-%patient: it_0131_004320 index:2160
+
+%patient: it-0131-004320 index:2160
 begin(model(2160)).
 gender(f).
 race(white).
@@ -49082,10 +57647,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2160)).
-%patient: it_0131_004346 index:2161
+
+%patient: it-0131-004346 index:2161
 begin(model(2161)).
 gender(f).
 race(white).
@@ -49104,9 +57674,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2161)).
-%patient: it_0131_004351 index:2162
+
+%patient: it-0131-004351 index:2162
 begin(model(2162)).
 gender(f).
 race(white).
@@ -49128,10 +57703,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2162)).
-%patient: it_0138_004476 index:2163
+
+%patient: it-0138-004476 index:2163
 begin(model(2163)).
 gender(m).
 race(white).
@@ -49150,9 +57729,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2163)).
-%patient: it_0143_006249 index:2164
+
+%patient: it-0143-006249 index:2164
 begin(model(2164)).
 gender(f).
 race(white).
@@ -49171,9 +57756,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2164)).
-%patient: it_0131_004298 index:2165
+
+%patient: it-0131-004298 index:2165
 begin(model(2165)).
 gender(f).
 race(white).
@@ -49198,9 +57789,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(2165)).
-%patient: it_0042_003715 index:2166
+
+%patient: it-0042-003715 index:2166
 begin(model(2166)).
 gender(f).
 race(white).
@@ -49217,9 +57811,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2166)).
-%patient: it_0158_006066 index:2167
+
+%patient: it-0158-006066 index:2167
 begin(model(2167)).
 gender(m).
 race(white).
@@ -49239,9 +57835,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2167)).
-%patient: it_0143_003906 index:2168
+
+%patient: it-0143-003906 index:2168
 begin(model(2168)).
 gender(m).
 race(white).
@@ -49271,8 +57870,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2168)).
-%patient: it_0143_003909 index:2169
+
+%patient: it-0143-003909 index:2169
 begin(model(2169)).
 gender(f).
 race(white).
@@ -49306,8 +57909,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2169)).
-%patient: it_0143_003912 index:2170
+
+%patient: it-0143-003912 index:2170
 begin(model(2170)).
 gender(f).
 race(white).
@@ -49340,8 +57947,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2170)).
-%patient: it_0143_004049 index:2171
+
+%patient: it-0143-004049 index:2171
 begin(model(2171)).
 gender(m).
 race(white).
@@ -49366,8 +57977,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2171)).
-%patient: it_0143_004051 index:2172
+
+%patient: it-0143-004051 index:2172
 begin(model(2172)).
 gender(f).
 race(white).
@@ -49393,8 +58008,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2172)).
-%patient: it_0143_004052 index:2173
+
+%patient: it-0143-004052 index:2173
 begin(model(2173)).
 gender(m).
 race(white).
@@ -49419,8 +58039,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2173)).
-%patient: it_0143_004054 index:2174
+
+%patient: it-0143-004054 index:2174
 begin(model(2174)).
 gender(f).
 race(white).
@@ -49448,8 +58072,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2174)).
-%patient: it_0143_004055 index:2175
+
+%patient: it-0143-004055 index:2175
 begin(model(2175)).
 gender(f).
 race(white).
@@ -49476,8 +58105,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2175)).
-%patient: it_0143_004056 index:2176
+
+%patient: it-0143-004056 index:2176
 begin(model(2176)).
 gender(m).
 race(white).
@@ -49504,9 +58138,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2176)).
-%patient: it_0143_004058 index:2177
+
+%patient: it-0143-004058 index:2177
 begin(model(2177)).
 gender(f).
 race(white).
@@ -49536,8 +58174,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2177)).
-%patient: it_0143_004059 index:2178
+
+%patient: it-0143-004059 index:2178
 begin(model(2178)).
 gender(f).
 race(white).
@@ -49565,9 +58207,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2178)).
-%patient: it_0143_004060 index:2179
+
+%patient: it-0143-004060 index:2179
 begin(model(2179)).
 gender(f).
 race(white).
@@ -49596,8 +58242,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2179)).
-%patient: it_0143_004061 index:2180
+
+%patient: it-0143-004061 index:2180
 begin(model(2180)).
 gender(m).
 race(white).
@@ -49629,8 +58279,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2180)).
-%patient: it_0143_004062 index:2181
+
+%patient: it-0143-004062 index:2181
 begin(model(2181)).
 gender(f).
 race(white).
@@ -49658,8 +58312,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2181)).
-%patient: it_0143_004064 index:2182
+
+%patient: it-0143-004064 index:2182
 begin(model(2182)).
 gender(f).
 race(white).
@@ -49688,8 +58346,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2182)).
-%patient: it_0143_004065 index:2183
+
+%patient: it-0143-004065 index:2183
 begin(model(2183)).
 gender(m).
 race(white).
@@ -49719,9 +58381,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2183)).
-%patient: it_0143_004067 index:2184
+
+%patient: it-0143-004067 index:2184
 begin(model(2184)).
 gender(f).
 race(white).
@@ -49747,8 +58411,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2184)).
-%patient: it_0143_004069 index:2185
+
+%patient: it-0143-004069 index:2185
 begin(model(2185)).
 gender(f).
 race(white).
@@ -49776,8 +58444,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2185)).
-%patient: it_0143_004070 index:2186
+
+%patient: it-0143-004070 index:2186
 begin(model(2186)).
 gender(f).
 race(white).
@@ -49809,8 +58481,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2186)).
-%patient: it_0143_004071 index:2187
+
+%patient: it-0143-004071 index:2187
 begin(model(2187)).
 gender(m).
 race(white).
@@ -49841,8 +58516,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2187)).
-%patient: it_0143_004072 index:2188
+
+%patient: it-0143-004072 index:2188
 begin(model(2188)).
 gender(f).
 race(white).
@@ -49873,8 +58552,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2188)).
-%patient: it_0143_004240 index:2189
+
+%patient: it-0143-004240 index:2189
 begin(model(2189)).
 gender(f).
 race(white).
@@ -49906,9 +58589,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2189)).
-%patient: it_0143_004243 index:2190
+
+%patient: it-0143-004243 index:2190
 begin(model(2190)).
 gender(f).
 race(white).
@@ -49936,8 +58622,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2190)).
-%patient: it_0143_004244 index:2191
+
+%patient: it-0143-004244 index:2191
 begin(model(2191)).
 gender(f).
 race(white).
@@ -49963,8 +58653,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(2191)).
-%patient: it_0143_004245 index:2192
+
+%patient: it-0143-004245 index:2192
 begin(model(2192)).
 gender(f).
 race(white).
@@ -49991,9 +58685,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2192)).
-%patient: it_0150_006041 index:2193
+
+%patient: it-0150-006041 index:2193
 begin(model(2193)).
 gender(f).
 mobcat(5).
@@ -50007,10 +58705,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2193)).
-%patient: it_0151_005589 index:2194
+
+%patient: it-0151-005589 index:2194
 begin(model(2194)).
 gender(f).
 mobcat(1).
@@ -50029,9 +58732,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2194)).
-%patient: it_0061_006478 index:2195
+
+%patient: it-0061-006478 index:2195
 begin(model(2195)).
 gender(f).
 race(white).
@@ -50057,9 +58764,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2195)).
-%patient: it_0141_005817 index:2196
+
+%patient: it-0141-005817 index:2196
 begin(model(2196)).
 gender(m).
 race(white).
@@ -50079,9 +58790,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2196)).
-%patient: it_0128_004734 index:2197
+
+%patient: it-0128-004734 index:2197
 begin(model(2197)).
 gender(f).
 race(white).
@@ -50101,8 +58817,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2197)).
-%patient: it_0148_006008 index:2198
+
+%patient: it-0148-006008 index:2198
 begin(model(2198)).
 gender(f).
 mobcat(0).
@@ -50123,8 +58844,14 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2198)).
-%patient: it_0128_004344 index:2199
+
+%patient: it-0128-004344 index:2199
 begin(model(2199)).
 gender(f).
 race(white).
@@ -50139,8 +58866,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2199)).
-%patient: it_0128_004717 index:2200
+
+%patient: it-0128-004717 index:2200
 begin(model(2200)).
 gender(f).
 race(white).
@@ -50159,8 +58891,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2200)).
-%patient: it_0128_004719 index:2201
+
+%patient: it-0128-004719 index:2201
 begin(model(2201)).
 gender(f).
 race(white).
@@ -50181,8 +58918,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2201)).
-%patient: it_0128_004721 index:2202
+
+%patient: it-0128-004721 index:2202
 begin(model(2202)).
 gender(f).
 race(white).
@@ -50202,8 +58944,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2202)).
-%patient: it_0128_004723 index:2203
+
+%patient: it-0128-004723 index:2203
 begin(model(2203)).
 gender(f).
 race(white).
@@ -50224,9 +58971,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2203)).
-%patient: it_0128_004731 index:2204
+
+%patient: it-0128-004731 index:2204
 begin(model(2204)).
 gender(f).
 race(white).
@@ -50246,8 +58997,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2204)).
-%patient: it_0128_004739 index:2205
+
+%patient: it-0128-004739 index:2205
 begin(model(2205)).
 gender(m).
 race(white).
@@ -50264,8 +59020,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2205)).
-%patient: it_0129_004675 index:2206
+
+%patient: it-0129-004675 index:2206
 begin(model(2206)).
 gender(m).
 race(white).
@@ -50287,8 +59049,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2206)).
-%patient: it_0129_004676 index:2207
+
+%patient: it-0129-004676 index:2207
 begin(model(2207)).
 gender(f).
 race(white).
@@ -50306,8 +59074,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2207)).
-%patient: it_0129_004679 index:2208
+
+%patient: it-0129-004679 index:2208
 begin(model(2208)).
 gender(f).
 race(white).
@@ -50326,9 +59099,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2208)).
-%patient: it_0129_004680 index:2209
+
+%patient: it-0129-004680 index:2209
 begin(model(2209)).
 gender(f).
 race(white).
@@ -50349,9 +59126,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2209)).
-%patient: it_0129_004681 index:2210
+
+%patient: it-0129-004681 index:2210
 begin(model(2210)).
 gender(f).
 race(white).
@@ -50368,9 +59149,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2210)).
-%patient: it_0129_004683 index:2211
+
+%patient: it-0129-004683 index:2211
 begin(model(2211)).
 gender(f).
 race(white).
@@ -50390,8 +59175,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2211)).
-%patient: it_0129_004684 index:2212
+
+%patient: it-0129-004684 index:2212
 begin(model(2212)).
 gender(f).
 race(white).
@@ -50411,8 +59201,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2212)).
-%patient: it_0129_004746 index:2213
+
+%patient: it-0129-004746 index:2213
 begin(model(2213)).
 gender(f).
 race(white).
@@ -50433,8 +59228,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2213)).
-%patient: it_0129_004750 index:2214
+
+%patient: it-0129-004750 index:2214
 begin(model(2214)).
 gender(m).
 race(white).
@@ -50454,8 +59254,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2214)).
-%patient: it_0129_004751 index:2215
+
+%patient: it-0129-004751 index:2215
 begin(model(2215)).
 gender(m).
 race(white).
@@ -50474,8 +59279,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2215)).
-%patient: it_0129_004752 index:2216
+
+%patient: it-0129-004752 index:2216
 begin(model(2216)).
 gender(m).
 race(white).
@@ -50492,8 +59302,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2216)).
-%patient: it_0129_004753 index:2217
+
+%patient: it-0129-004753 index:2217
 begin(model(2217)).
 gender(f).
 race(white).
@@ -50512,8 +59328,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2217)).
-%patient: it_0129_004755 index:2218
+
+%patient: it-0129-004755 index:2218
 begin(model(2218)).
 gender(f).
 race(white).
@@ -50534,8 +59355,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2218)).
-%patient: it_0129_004758 index:2219
+
+%patient: it-0129-004758 index:2219
 begin(model(2219)).
 gender(f).
 race(white).
@@ -50558,8 +59385,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2219)).
-%patient: it_0165_005572 index:2220
+
+%patient: it-0165-005572 index:2220
 begin(model(2220)).
 gender(f).
 race(white).
@@ -50575,9 +59407,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2220)).
-%patient: it_0143_004074 index:2221
+
+%patient: it-0143-004074 index:2221
 begin(model(2221)).
 gender(f).
 race(white).
@@ -50604,8 +59441,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(1).
+testid(t).
 end(model(2221)).
-%patient: it_0143_004076 index:2222
+
+%patient: it-0143-004076 index:2222
 begin(model(2222)).
 gender(f).
 race(white).
@@ -50631,8 +59472,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2222)).
-%patient: it_0143_004077 index:2223
+
+%patient: it-0143-004077 index:2223
 begin(model(2223)).
 gender(f).
 race(white).
@@ -50658,8 +59504,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2223)).
-%patient: it_0143_004078 index:2224
+
+%patient: it-0143-004078 index:2224
 begin(model(2224)).
 gender(f).
 race(white).
@@ -50688,8 +59539,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2224)).
-%patient: it_0143_004079 index:2225
+
+%patient: it-0143-004079 index:2225
 begin(model(2225)).
 gender(m).
 race(white).
@@ -50718,8 +59573,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2225)).
-%patient: it_0143_004080 index:2226
+
+%patient: it-0143-004080 index:2226
 begin(model(2226)).
 gender(f).
 race(white).
@@ -50748,9 +59607,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2226)).
-%patient: it_0143_004084 index:2227
+
+%patient: it-0143-004084 index:2227
 begin(model(2227)).
 gender(m).
 race(white).
@@ -50767,9 +59629,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2227)).
-%patient: it_0143_004085 index:2228
+
+%patient: it-0143-004085 index:2228
 begin(model(2228)).
 gender(f).
 race(white).
@@ -50796,8 +59662,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2228)).
-%patient: it_0143_004088 index:2229
+
+%patient: it-0143-004088 index:2229
 begin(model(2229)).
 gender(m).
 race(white).
@@ -50818,8 +59688,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(1).
+testid(t).
 end(model(2229)).
-%patient: it_0143_004089 index:2230
+
+%patient: it-0143-004089 index:2230
 begin(model(2230)).
 gender(m).
 race(white).
@@ -50846,8 +59720,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2230)).
-%patient: it_0143_004091 index:2231
+
+%patient: it-0143-004091 index:2231
 begin(model(2231)).
 gender(f).
 race(white).
@@ -50876,8 +59754,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2231)).
-%patient: it_0143_004247 index:2232
+
+%patient: it-0143-004247 index:2232
 begin(model(2232)).
 gender(m).
 race(white).
@@ -50901,9 +59783,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2232)).
-%patient: it_0143_004270 index:2233
+
+%patient: it-0143-004270 index:2233
 begin(model(2233)).
 gender(f).
 race(white).
@@ -50929,8 +59815,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2233)).
-%patient: it_0143_004273 index:2234
+
+%patient: it-0143-004273 index:2234
 begin(model(2234)).
 gender(m).
 race(white).
@@ -50958,9 +59847,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2234)).
-%patient: it_0143_003903 index:2235
+
+%patient: it-0143-003903 index:2235
 begin(model(2235)).
 gender(f).
 race(white).
@@ -50992,9 +59883,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2235)).
-%patient: it_0147_004388 index:2236
+
+%patient: it-0147-004388 index:2236
 begin(model(2236)).
 gender(f).
 mobcat(4).
@@ -51013,8 +59908,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2236)).
-%patient: it_0147_004394 index:2237
+
+%patient: it-0147-004394 index:2237
 begin(model(2237)).
 gender(f).
 mobcat(4).
@@ -51035,9 +59935,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2237)).
-%patient: it_0147_004822 index:2238
+
+%patient: it-0147-004822 index:2238
 begin(model(2238)).
 gender(m).
 mobcat(3).
@@ -51056,9 +59960,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2238)).
-%patient: it_0147_004824 index:2239
+
+%patient: it-0147-004824 index:2239
 begin(model(2239)).
 gender(f).
 race(white).
@@ -51082,8 +59990,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2239)).
-%patient: it_0061_004149 index:2240
+
+%patient: it-0061-004149 index:2240
 begin(model(2240)).
 gender(f).
 race(white).
@@ -51106,9 +60020,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2240)).
-%patient: it_0148_005825 index:2241
+
+%patient: it-0148-005825 index:2241
 begin(model(2241)).
 gender(f).
 mobcat(2).
@@ -51126,9 +60044,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2241)).
-%patient: it_0061_004215 index:2242
+
+%patient: it-0061-004215 index:2242
 begin(model(2242)).
 gender(f).
 race(white).
@@ -51151,8 +60074,13 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2242)).
-%patient: it_0149_004274 index:2243
+
+%patient: it-0149-004274 index:2243
 begin(model(2243)).
 gender(f).
 race(white).
@@ -51172,9 +60100,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2243)).
-%patient: it_0149_004331 index:2244
+
+%patient: it-0149-004331 index:2244
 begin(model(2244)).
 gender(f).
 mobcat(1).
@@ -51197,8 +60129,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2244)).
-%patient: it_0149_004367 index:2245
+
+%patient: it-0149-004367 index:2245
 begin(model(2245)).
 gender(m).
 race(white).
@@ -51216,8 +60154,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2245)).
-%patient: it_0148_005580 index:2246
+
+%patient: it-0148-005580 index:2246
 begin(model(2246)).
 gender(m).
 mobcat(1).
@@ -51236,8 +60180,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2246)).
-%patient: it_0148_005584 index:2247
+
+%patient: it-0148-005584 index:2247
 begin(model(2247)).
 gender(f).
 mobcat(3).
@@ -51255,8 +60204,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2247)).
-%patient: it_0148_005586 index:2248
+
+%patient: it-0148-005586 index:2248
 begin(model(2248)).
 gender(f).
 mobcat(3).
@@ -51277,8 +60232,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2248)).
-%patient: it_0148_005820 index:2249
+
+%patient: it-0148-005820 index:2249
 begin(model(2249)).
 gender(f).
 mobcat(3).
@@ -51297,10 +60257,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2249)).
-%patient: it_0148_005821 index:2250
+
+%patient: it-0148-005821 index:2250
 begin(model(2250)).
 gender(f).
 mobcat(3).
@@ -51322,9 +60287,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2250)).
-%patient: it_0148_005823 index:2251
+
+%patient: it-0148-005823 index:2251
 begin(model(2251)).
 gender(m).
 mobcat(3).
@@ -51341,10 +60311,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2251)).
-%patient: it_0148_006010 index:2252
+
+%patient: it-0148-006010 index:2252
 begin(model(2252)).
 gender(m).
 mobcat(0).
@@ -51362,9 +60336,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2252)).
-%patient: it_0148_006012 index:2253
+
+%patient: it-0148-006012 index:2253
 begin(model(2253)).
 gender(f).
 mobcat(2).
@@ -51384,10 +60363,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2253)).
-%patient: it_0125_004931 index:2254
+
+%patient: it-0125-004931 index:2254
 begin(model(2254)).
 gender(m).
 race(white).
@@ -51407,9 +60390,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2254)).
-%patient: it_0125_005965 index:2255
+
+%patient: it-0125-005965 index:2255
 begin(model(2255)).
 gender(f).
 race(white).
@@ -51434,10 +60421,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2255)).
-%patient: it_0125_006422 index:2256
+
+%patient: it-0125-006422 index:2256
 begin(model(2256)).
 gender(m).
 race(white).
@@ -51456,9 +60447,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2256)).
-%patient: it_0125_006426 index:2257
+
+%patient: it-0125-006426 index:2257
 begin(model(2257)).
 gender(m).
 race(white).
@@ -51476,9 +60472,12 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2257)).
-%patient: it_0125_003792 index:2258
+
+%patient: it-0125-003792 index:2258
 begin(model(2258)).
 gender(m).
 race(white).
@@ -51505,9 +60504,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2258)).
-%patient: it_0125_003894 index:2259
+
+%patient: it-0125-003894 index:2259
 begin(model(2259)).
 gender(f).
 race(white).
@@ -51528,8 +60533,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2259)).
-%patient: it_0125_003789 index:2260
+
+%patient: it-0125-003789 index:2260
 begin(model(2260)).
 gender(m).
 race(white).
@@ -51548,9 +60558,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2260)).
-%patient: it_0125_003794 index:2261
+
+%patient: it-0125-003794 index:2261
 begin(model(2261)).
 gender(f).
 race(white).
@@ -51573,9 +60588,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2261)).
-%patient: it_0125_003893 index:2262
+
+%patient: it-0125-003893 index:2262
 begin(model(2262)).
 gender(f).
 race(white).
@@ -51599,9 +60619,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2262)).
-%patient: it_0125_003977 index:2263
+
+%patient: it-0125-003977 index:2263
 begin(model(2263)).
 gender(f).
 race(white).
@@ -51623,9 +60649,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2263)).
-%patient: it_0167_006776 index:2264
+
+%patient: it-0167-006776 index:2264
 begin(model(2264)).
 gender(f).
 race(white).
@@ -51642,10 +60673,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2264)).
-%patient: it_0167_006777 index:2265
+
+%patient: it-0167-006777 index:2265
 begin(model(2265)).
 gender(f).
 race(white).
@@ -51660,9 +60696,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2265)).
-%patient: it_0167_006779 index:2266
+
+%patient: it-0167-006779 index:2266
 begin(model(2266)).
 gender(f).
 race(white).
@@ -51678,10 +60719,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2266)).
-%patient: it_0167_006780 index:2267
+
+%patient: it-0167-006780 index:2267
 begin(model(2267)).
 gender(m).
 race(white).
@@ -51696,9 +60741,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2267)).
-%patient: it_0167_006781 index:2268
+
+%patient: it-0167-006781 index:2268
 begin(model(2268)).
 gender(m).
 race(white).
@@ -51716,9 +60767,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2268)).
-%patient: it_0167_006782 index:2269
+
+%patient: it-0167-006782 index:2269
 begin(model(2269)).
 gender(m).
 race(white).
@@ -51734,9 +60790,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2269)).
-%patient: it_0167_006783 index:2270
+
+%patient: it-0167-006783 index:2270
 begin(model(2270)).
 gender(m).
 race(white).
@@ -51753,9 +60814,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2270)).
-%patient: it_0167_006785 index:2271
+
+%patient: it-0167-006785 index:2271
 begin(model(2271)).
 gender(m).
 race(white).
@@ -51772,9 +60838,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2271)).
-%patient: it_0167_006801 index:2272
+
+%patient: it-0167-006801 index:2272
 begin(model(2272)).
 gender(f).
 race(white).
@@ -51791,10 +60862,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2272)).
-%patient: it_0167_006816 index:2273
+
+%patient: it-0167-006816 index:2273
 begin(model(2273)).
 gender(f).
 race(white).
@@ -51817,9 +60892,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2273)).
-%patient: it_0167_006818 index:2274
+
+%patient: it-0167-006818 index:2274
 begin(model(2274)).
 gender(m).
 race(white).
@@ -51837,9 +60917,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2274)).
-%patient: it_0167_006819 index:2275
+
+%patient: it-0167-006819 index:2275
 begin(model(2275)).
 gender(m).
 race(white).
@@ -51857,9 +60943,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2275)).
-%patient: it_0167_006821 index:2276
+
+%patient: it-0167-006821 index:2276
 begin(model(2276)).
 gender(f).
 race(white).
@@ -51879,9 +60970,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2276)).
-%patient: it_0167_006822 index:2277
+
+%patient: it-0167-006822 index:2277
 begin(model(2277)).
 gender(m).
 race(white).
@@ -51901,9 +60997,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(1).
+testid(t).
 end(model(2277)).
-%patient: it_0167_006824 index:2278
+
+%patient: it-0167-006824 index:2278
 begin(model(2278)).
 gender(m).
 race(white).
@@ -51921,10 +61023,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2278)).
-%patient: it_0167_006826 index:2279
+
+%patient: it-0167-006826 index:2279
 begin(model(2279)).
 gender(m).
 race(white).
@@ -51943,10 +61049,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2279)).
-%patient: it_0167_006827 index:2280
+
+%patient: it-0167-006827 index:2280
 begin(model(2280)).
 gender(m).
 race(white).
@@ -51962,9 +61072,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2280)).
-%patient: it_0167_006828 index:2281
+
+%patient: it-0167-006828 index:2281
 begin(model(2281)).
 gender(m).
 race(white).
@@ -51983,10 +61098,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2281)).
-%patient: it_0167_006831 index:2282
+
+%patient: it-0167-006831 index:2282
 begin(model(2282)).
 gender(f).
 race(white).
@@ -52002,9 +61122,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2282)).
-%patient: it_0167_006835 index:2283
+
+%patient: it-0167-006835 index:2283
 begin(model(2283)).
 gender(f).
 race(white).
@@ -52023,9 +61148,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(1).
 end(model(2283)).
-%patient: it_0167_006836 index:2284
+
+%patient: it-0167-006836 index:2284
 begin(model(2284)).
 gender(f).
 race(white).
@@ -52045,9 +61175,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2284)).
-%patient: it_0167_006837 index:2285
+
+%patient: it-0167-006837 index:2285
 begin(model(2285)).
 gender(f).
 race(white).
@@ -52064,9 +61199,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2285)).
-%patient: it_0167_006838 index:2286
+
+%patient: it-0167-006838 index:2286
 begin(model(2286)).
 gender(m).
 race(white).
@@ -52085,10 +61225,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(1).
 end(model(2286)).
-%patient: it_0164_006454 index:2287
+
+%patient: it-0164-006454 index:2287
 begin(model(2287)).
 gender(f).
 race(white).
@@ -52108,10 +61252,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2287)).
-%patient: it_0106_006732 index:2288
+
+%patient: it-0106-006732 index:2288
 begin(model(2288)).
 gender(m).
 mobcat(0).
@@ -52127,10 +61276,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2288)).
-%patient: it_0106_006734 index:2289
+
+%patient: it-0106-006734 index:2289
 begin(model(2289)).
 gender(m).
 race(white).
@@ -52147,9 +61301,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2289)).
-%patient: it_0106_006739 index:2290
+
+%patient: it-0106-006739 index:2290
 begin(model(2290)).
 gender(f).
 race(white).
@@ -52168,9 +61328,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2290)).
-%patient: it_0106_006743 index:2291
+
+%patient: it-0106-006743 index:2291
 begin(model(2291)).
 gender(f).
 race(white).
@@ -52185,9 +61350,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2291)).
-%patient: it_0106_006791 index:2292
+
+%patient: it-0106-006791 index:2292
 begin(model(2292)).
 gender(f).
 race(black).
@@ -52204,9 +61374,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2292)).
-%patient: it_0106_006793 index:2293
+
+%patient: it-0106-006793 index:2293
 begin(model(2293)).
 gender(m).
 race(white).
@@ -52222,10 +61398,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2293)).
-%patient: it_0106_006794 index:2294
+
+%patient: it-0106-006794 index:2294
 begin(model(2294)).
 gender(f).
 race(white).
@@ -52241,9 +61421,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2294)).
-%patient: it_0106_006797 index:2295
+
+%patient: it-0106-006797 index:2295
 begin(model(2295)).
 gender(m).
 race(white).
@@ -52259,9 +61445,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2295)).
-%patient: it_0106_006798 index:2296
+
+%patient: it-0106-006798 index:2296
 begin(model(2296)).
 gender(f).
 race(white).
@@ -52276,9 +61467,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2296)).
-%patient: it_0106_006802 index:2297
+
+%patient: it-0106-006802 index:2297
 begin(model(2297)).
 gender(f).
 race(white).
@@ -52298,9 +61494,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2297)).
-%patient: it_0106_006750 index:2298
+
+%patient: it-0106-006750 index:2298
 begin(model(2298)).
 gender(m).
 race(white).
@@ -52319,9 +61521,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2298)).
-%patient: it_0106_006754 index:2299
+
+%patient: it-0106-006754 index:2299
 begin(model(2299)).
 gender(m).
 race(white).
@@ -52338,9 +61545,14 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2299)).
-%patient: it_0106_006758 index:2300
+
+%patient: it-0106-006758 index:2300
 begin(model(2300)).
 gender(m).
 race(white).
@@ -52366,9 +61578,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2300)).
-%patient: it_0106_006760 index:2301
+
+%patient: it-0106-006760 index:2301
 begin(model(2301)).
 gender(m).
 race(white).
@@ -52387,9 +61604,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2301)).
-%patient: it_0106_006761 index:2302
+
+%patient: it-0106-006761 index:2302
 begin(model(2302)).
 gender(f).
 race(black).
@@ -52407,10 +61630,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2302)).
-%patient: it_0106_006762 index:2303
+
+%patient: it-0106-006762 index:2303
 begin(model(2303)).
 gender(m).
 race(white).
@@ -52427,9 +61654,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2303)).
-%patient: it_0106_006763 index:2304
+
+%patient: it-0106-006763 index:2304
 begin(model(2304)).
 gender(f).
 race(white).
@@ -52447,9 +61679,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2304)).
-%patient: it_0106_006764 index:2305
+
+%patient: it-0106-006764 index:2305
 begin(model(2305)).
 gender(m).
 race(white).
@@ -52467,9 +61705,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2305)).
-%patient: it_0106_006765 index:2306
+
+%patient: it-0106-006765 index:2306
 begin(model(2306)).
 gender(f).
 race(white).
@@ -52485,9 +61729,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2306)).
-%patient: it_0106_006766 index:2307
+
+%patient: it-0106-006766 index:2307
 begin(model(2307)).
 gender(f).
 race(white).
@@ -52508,9 +61757,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2307)).
-%patient: it_0106_006768 index:2308
+
+%patient: it-0106-006768 index:2308
 begin(model(2308)).
 gender(f).
 race(white).
@@ -52528,9 +61782,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2308)).
-%patient: it_0106_006770 index:2309
+
+%patient: it-0106-006770 index:2309
 begin(model(2309)).
 gender(m).
 race(white).
@@ -52553,9 +61812,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2309)).
-%patient: it_0106_006771 index:2310
+
+%patient: it-0106-006771 index:2310
 begin(model(2310)).
 gender(m).
 race(white).
@@ -52572,9 +61837,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2310)).
-%patient: it_0106_006795 index:2311
+
+%patient: it-0106-006795 index:2311
 begin(model(2311)).
 gender(m).
 race(white).
@@ -52594,10 +61864,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2311)).
-%patient: it_0106_006796 index:2312
+
+%patient: it-0106-006796 index:2312
 begin(model(2312)).
 gender(f).
 race(white).
@@ -52612,9 +61886,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2312)).
-%patient: it_0106_006810 index:2313
+
+%patient: it-0106-006810 index:2313
 begin(model(2313)).
 gender(f).
 race(white).
@@ -52632,9 +61911,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2313)).
-%patient: it_0106_006767 index:2314
+
+%patient: it-0106-006767 index:2314
 begin(model(2314)).
 gender(f).
 race(white).
@@ -52651,9 +61936,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2314)).
-%patient: it_0143_006251 index:2315
+
+%patient: it-0143-006251 index:2315
 begin(model(2315)).
 gender(f).
 race(white).
@@ -52675,9 +61966,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+testid(t).
 end(model(2315)).
-%patient: it_0126_005475 index:2316
+
+%patient: it-0126-005475 index:2316
 begin(model(2316)).
 gender(m).
 race(white).
@@ -52702,9 +61996,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2316)).
-%patient: it_0061_004002 index:2317
+
+%patient: it-0061-004002 index:2317
 begin(model(2317)).
 gender(f).
 race(white).
@@ -52724,9 +62022,12 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2317)).
-%patient: it_0143_003905 index:2318
+
+%patient: it-0143-003905 index:2318
 begin(model(2318)).
 gender(m).
 race(white).
@@ -52754,9 +62055,13 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2318)).
-%patient: it_0169_006155 index:2319
+
+%patient: it-0169-006155 index:2319
 begin(model(2319)).
 gender(f).
 race(white).
@@ -52775,9 +62080,15 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2319)).
-%patient: it_0125_006025 index:2320
+
+%patient: it-0125-006025 index:2320
 begin(model(2320)).
 gender(f).
 race(white).
@@ -52797,8 +62108,14 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2320)).
-%patient: it_0018_003764 index:2321
+
+%patient: it-0018-003764 index:2321
 begin(model(2321)).
 gender(f).
 race(white).
@@ -52825,8 +62142,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2321)).
-%patient: it_0133_005916 index:2322
+
+%patient: it-0133-005916 index:2322
 begin(model(2322)).
 gender(f).
 race(white).
@@ -52847,9 +62169,14 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2322)).
-%patient: it_0149_004257 index:2323
+
+%patient: it-0149-004257 index:2323
 begin(model(2323)).
 gender(f).
 race(white).
@@ -52868,10 +62195,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2323)).
-%patient: it_0169_005939 index:2324
+
+%patient: it-0169-005939 index:2324
 begin(model(2324)).
 gender(f).
 race(white).
@@ -52890,9 +62222,15 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2324)).
-%patient: it_0151_005629 index:2325
+
+%patient: it-0151-005629 index:2325
 begin(model(2325)).
 gender(f).
 mobcat(2).
@@ -52909,9 +62247,15 @@ who_f2(0).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2325)).
-%patient: it_0151_005729 index:2326
+
+%patient: it-0151-005729 index:2326
 begin(model(2326)).
 gender(m).
 mobcat(0).
@@ -52930,9 +62274,15 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2326)).
-%patient: it_0151_005587 index:2327
+
+%patient: it-0151-005587 index:2327
 begin(model(2327)).
 gender(m).
 mobcat(2).
@@ -52948,10 +62298,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2327)).
-%patient: it_0123_005695 index:2328
+
+%patient: it-0123-005695 index:2328
 begin(model(2328)).
 gender(m).
 race(white).
@@ -52970,9 +62324,14 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2328)).
-%patient: it_0151_005630 index:2329
+
+%patient: it-0151-005630 index:2329
 begin(model(2329)).
 gender(f).
 mobcat(1).
@@ -52991,10 +62350,14 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2329)).
-%patient: it_0126_005286 index:2330
+
+%patient: it-0126-005286 index:2330
 begin(model(2330)).
 gender(f).
 race(white).
@@ -53014,9 +62377,14 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2330)).
-%patient: it_0151_005767 index:2331
+
+%patient: it-0151-005767 index:2331
 begin(model(2331)).
 gender(f).
 mobcat(2).
@@ -53037,8 +62405,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2331)).
-%patient: it_0151_005811 index:2332
+
+%patient: it-0151-005811 index:2332
 begin(model(2332)).
 gender(f).
 mobcat(2).
@@ -53062,8 +62435,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2332)).
-%patient: it_0151_005812 index:2333
+
+%patient: it-0151-005812 index:2333
 begin(model(2333)).
 gender(m).
 mobcat(0).
@@ -53085,8 +62463,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2333)).
-%patient: it_0015_000678 index:2334
+
+%patient: it-0015-000678 index:2334
 begin(model(2334)).
 gender(f).
 race(white).
@@ -53112,9 +62495,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2334)).
-%patient: it_0015_003934 index:2335
+
+%patient: it-0015-003934 index:2335
 begin(model(2335)).
 gender(f).
 race(white).
@@ -53135,10 +62523,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2335)).
-%patient: it_0015_003862 index:2336
+
+%patient: it-0015-003862 index:2336
 begin(model(2336)).
 gender(m).
 race(white).
@@ -53161,9 +62553,15 @@ who_f2(0).
 who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2336)).
-%patient: it_0015_004046 index:2337
+
+%patient: it-0015-004046 index:2337
 begin(model(2337)).
 gender(f).
 race(white).
@@ -53184,10 +62582,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2337)).
-%patient: it_0125_006562 index:2338
+
+%patient: it-0125-006562 index:2338
 begin(model(2338)).
 gender(m).
 race(white).
@@ -53209,9 +62611,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2338)).
-%patient: it_0125_006561 index:2339
+
+%patient: it-0125-006561 index:2339
 begin(model(2339)).
 gender(m).
 race(white).
@@ -53232,9 +62640,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2339)).
-%patient: it_0167_006775 index:2340
+
+%patient: it-0167-006775 index:2340
 begin(model(2340)).
 gender(f).
 race(white).
@@ -53255,9 +62667,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(1).
 end(model(2340)).
-%patient: it_0167_006784 index:2341
+
+%patient: it-0167-006784 index:2341
 begin(model(2341)).
 gender(f).
 race(white).
@@ -53278,9 +62695,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2341)).
-%patient: it_0167_006792 index:2342
+
+%patient: it-0167-006792 index:2342
 begin(model(2342)).
 gender(m).
 race(white).
@@ -53299,9 +62721,15 @@ who_f2(0).
 who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2342)).
-%patient: it_0167_006820 index:2343
+
+%patient: it-0167-006820 index:2343
 begin(model(2343)).
 gender(f).
 race(white).
@@ -53317,9 +62745,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2343)).
-%patient: it_0167_006825 index:2344
+
+%patient: it-0167-006825 index:2344
 begin(model(2344)).
 gender(f).
 race(white).
@@ -53336,9 +62769,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2344)).
-%patient: it_0167_006829 index:2345
+
+%patient: it-0167-006829 index:2345
 begin(model(2345)).
 gender(m).
 race(white).
@@ -53355,9 +62793,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2345)).
-%patient: it_0166_006229 index:2346
+
+%patient: it-0166-006229 index:2346
 begin(model(2346)).
 gender(f).
 race(white).
@@ -53375,9 +62818,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2346)).
-%patient: it_0126_006605 index:2347
+
+%patient: it-0126-006605 index:2347
 begin(model(2347)).
 gender(f).
 race(white).
@@ -53396,9 +62845,12 @@ who_f2(0).
 who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+testid(t).
 end(model(2347)).
-%patient: it_0167_006833 index:2348
+
+%patient: it-0167-006833 index:2348
 begin(model(2348)).
 gender(f).
 race(white).
@@ -53418,9 +62870,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2348)).
-%patient: it_0015_003863 index:2349
+
+%patient: it-0015-003863 index:2349
 begin(model(2349)).
 gender(f).
 race(white).
@@ -53448,10 +62905,12 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
 testid(t).
 end(model(2349)).
-%patient: it_0143_004847 index:2350
+
+%patient: it-0143-004847 index:2350
 begin(model(2350)).
 gender(f).
 mobcat(1).
@@ -53471,9 +62930,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
 end(model(2350)).
-%patient: it_0130_004754 index:2351
+
+%patient: it-0130-004754 index:2351
 begin(model(2351)).
 gender(f).
 mobcat(2).
@@ -53491,9 +62952,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2351)).
-%patient: it_0166_006236 index:2352
+
+%patient: it-0166-006236 index:2352
 begin(model(2352)).
 gender(m).
 race(white).
@@ -53511,9 +62976,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2352)).
-%patient: it_0123_005694 index:2353
+
+%patient: it-0123-005694 index:2353
 begin(model(2353)).
 gender(m).
 race(white).
@@ -53536,9 +63007,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2353)).
-%patient: it_0166_005015 index:2354
+
+%patient: it-0166-005015 index:2354
 begin(model(2354)).
 gender(f).
 race(white).
@@ -53565,9 +63041,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2354)).
-%patient: it_0143_004853 index:2355
+
+%patient: it-0143-004853 index:2355
 begin(model(2355)).
 gender(f).
 mobcat(1).
@@ -53586,10 +63067,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2355)).
-%patient: it_0143_004855 index:2356
+
+%patient: it-0143-004855 index:2356
 begin(model(2356)).
 gender(f).
 mobcat(1).
@@ -53606,9 +63089,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2356)).
-%patient: it_0143_005256 index:2357
+
+%patient: it-0143-005256 index:2357
 begin(model(2357)).
 gender(f).
 mobcat(4).
@@ -53628,9 +63114,13 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(2357)).
-%patient: it_0143_005267 index:2358
+
+%patient: it-0143-005267 index:2358
 begin(model(2358)).
 gender(m).
 mobcat(1).
@@ -53651,9 +63141,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2358)).
-%patient: it_0143_005276 index:2359
+
+%patient: it-0143-005276 index:2359
 begin(model(2359)).
 gender(f).
 mobcat(5).
@@ -53670,9 +63163,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2359)).
-%patient: it_0143_005278 index:2360
+
+%patient: it-0143-005278 index:2360
 begin(model(2360)).
 gender(f).
 mobcat(4).
@@ -53690,9 +63186,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2360)).
-%patient: it_0143_005280 index:2361
+
+%patient: it-0143-005280 index:2361
 begin(model(2361)).
 gender(m).
 mobcat(3).
@@ -53714,9 +63213,13 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(2361)).
-%patient: it_0126_004943 index:2362
+
+%patient: it-0126-004943 index:2362
 begin(model(2362)).
 gender(f).
 race(white).
@@ -53736,9 +63239,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2362)).
-%patient: it_0143_004840 index:2363
+
+%patient: it-0143-004840 index:2363
 begin(model(2363)).
 gender(f).
 mobcat(3).
@@ -53760,9 +63267,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2363)).
-%patient: it_0143_004841 index:2364
+
+%patient: it-0143-004841 index:2364
 begin(model(2364)).
 gender(f).
 mobcat(5).
@@ -53779,10 +63291,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
 end(model(2364)).
-%patient: it_0143_005251 index:2365
+
+%patient: it-0143-005251 index:2365
 begin(model(2365)).
 gender(f).
 mobcat(1).
@@ -53799,9 +63312,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2365)).
-%patient: it_0143_005259 index:2366
+
+%patient: it-0143-005259 index:2366
 begin(model(2366)).
 gender(f).
 mobcat(1).
@@ -53820,10 +63336,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2366)).
-%patient: it_0143_004843 index:2367
+
+%patient: it-0143-004843 index:2367
 begin(model(2367)).
 gender(f).
 mobcat(1).
@@ -53840,9 +63358,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
 end(model(2367)).
-%patient: it_0143_004850 index:2368
+
+%patient: it-0143-004850 index:2368
 begin(model(2368)).
 gender(f).
 mobcat(4).
@@ -53862,10 +63382,13 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 testid(t).
 end(model(2368)).
-%patient: it_0143_005252 index:2369
+
+%patient: it-0143-005252 index:2369
 begin(model(2369)).
 gender(f).
 mobcat(1).
@@ -53888,9 +63411,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2369)).
-%patient: it_0143_005244 index:2370
+
+%patient: it-0143-005244 index:2370
 begin(model(2370)).
 gender(f).
 mobcat(1).
@@ -53911,9 +63437,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2370)).
-%patient: it_0126_005612 index:2371
+
+%patient: it-0126-005612 index:2371
 begin(model(2371)).
 gender(f).
 race(white).
@@ -53940,10 +63469,12 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+vzvvaccine(0).
 end(model(2371)).
-%patient: it_0151_005730 index:2372
+
+%patient: it-0151-005730 index:2372
 begin(model(2372)).
 gender(f).
 mobcat(2).
@@ -53965,9 +63496,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2372)).
-%patient: it_0126_005613 index:2373
+
+%patient: it-0126-005613 index:2373
 begin(model(2373)).
 gender(f).
 race(white).
@@ -53992,10 +63527,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2373)).
-%patient: it_0143_005255 index:2374
+
+%patient: it-0143-005255 index:2374
 begin(model(2374)).
 gender(f).
 mobcat(1).
@@ -54016,9 +63555,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2374)).
-%patient: it_0143_005264 index:2375
+
+%patient: it-0143-005264 index:2375
 begin(model(2375)).
 gender(f).
 mobcat(3).
@@ -54039,9 +63581,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
 end(model(2375)).
-%patient: it_0143_005283 index:2376
+
+%patient: it-0143-005283 index:2376
 begin(model(2376)).
 gender(f).
 mobcat(2).
@@ -54059,9 +63603,12 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2376)).
-%patient: it_0143_005307 index:2377
+
+%patient: it-0143-005307 index:2377
 begin(model(2377)).
 gender(f).
 mobcat(5).
@@ -54082,10 +63629,11 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
 end(model(2377)).
-%patient: it_0143_005311 index:2378
+
+%patient: it-0143-005311 index:2378
 begin(model(2378)).
 gender(f).
 mobcat(1).
@@ -54103,10 +63651,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
 end(model(2378)).
-%patient: it_0143_005320 index:2379
+
+%patient: it-0143-005320 index:2379
 begin(model(2379)).
 gender(m).
 mobcat(1).
@@ -54124,9 +63673,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
 end(model(2379)).
-%patient: it_0150_006044 index:2380
+
+%patient: it-0150-006044 index:2380
 begin(model(2380)).
 gender(f).
 mobcat(2).
@@ -54150,8 +63701,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2380)).
-%patient: it_0123_005656 index:2381
+
+%patient: it-0123-005656 index:2381
 begin(model(2381)).
 gender(f).
 race(white).
@@ -54172,10 +63728,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2381)).
-%patient: it_0123_005701 index:2382
+
+%patient: it-0123-005701 index:2382
 begin(model(2382)).
 gender(m).
 race(white).
@@ -54201,9 +63761,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2382)).
-%patient: it_0123_005715 index:2383
+
+%patient: it-0123-005715 index:2383
 begin(model(2383)).
 gender(f).
 race(white).
@@ -54228,8 +63793,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2383)).
-%patient: it_0130_004656 index:2384
+
+%patient: it-0130-004656 index:2384
 begin(model(2384)).
 gender(f).
 mobcat(1).
@@ -54250,9 +63820,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2384)).
-%patient: it_0166_004935 index:2385
+
+%patient: it-0166-004935 index:2385
 begin(model(2385)).
 gender(f).
 race(white).
@@ -54275,10 +63849,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2385)).
-%patient: it_0166_005109 index:2386
+
+%patient: it-0166-005109 index:2386
 begin(model(2386)).
 gender(f).
 race(white).
@@ -54306,9 +63884,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(1).
+testid(t).
 end(model(2386)).
-%patient: it_0166_005119 index:2387
+
+%patient: it-0166-005119 index:2387
 begin(model(2387)).
 gender(f).
 race(white).
@@ -54334,9 +63917,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2387)).
-%patient: it_0130_004832 index:2388
+
+%patient: it-0130-004832 index:2388
 begin(model(2388)).
 gender(f).
 mobcat(3).
@@ -54356,9 +63944,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2388)).
-%patient: it_0166_005097 index:2389
+
+%patient: it-0166-005097 index:2389
 begin(model(2389)).
 gender(f).
 race(white).
@@ -54384,9 +63978,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2389)).
-%patient: it_0166_005116 index:2390
+
+%patient: it-0166-005116 index:2390
 begin(model(2390)).
 gender(f).
 race(white).
@@ -54413,9 +64012,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2390)).
-%patient: it_0166_006233 index:2391
+
+%patient: it-0166-006233 index:2391
 begin(model(2391)).
 gender(m).
 race(white).
@@ -54437,9 +64041,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2391)).
-%patient: it_0130_004885 index:2392
+
+%patient: it-0130-004885 index:2392
 begin(model(2392)).
 gender(f).
 mobcat(3).
@@ -54462,9 +64072,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2392)).
-%patient: it_0130_004657 index:2393
+
+%patient: it-0130-004657 index:2393
 begin(model(2393)).
 gender(f).
 mobcat(4).
@@ -54487,10 +64101,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2393)).
-%patient: it_0130_004834 index:2394
+
+%patient: it-0130-004834 index:2394
 begin(model(2394)).
 gender(f).
 mobcat(2).
@@ -54510,9 +64127,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2394)).
-%patient: it_0130_004836 index:2395
+
+%patient: it-0130-004836 index:2395
 begin(model(2395)).
 gender(f).
 mobcat(2).
@@ -54534,9 +64156,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2395)).
-%patient: it_0130_006268 index:2396
+
+%patient: it-0130-006268 index:2396
 begin(model(2396)).
 gender(f).
 mobcat(2).
@@ -54554,9 +64181,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2396)).
-%patient: it_0130_004821 index:2397
+
+%patient: it-0130-004821 index:2397
 begin(model(2397)).
 gender(m).
 mobcat(0).
@@ -54572,9 +64204,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2397)).
-%patient: it_0130_004370 index:2398
+
+%patient: it-0130-004370 index:2398
 begin(model(2398)).
 gender(m).
 mobcat(3).
@@ -54597,9 +64235,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2398)).
-%patient: it_0130_004427 index:2399
+
+%patient: it-0130-004427 index:2399
 begin(model(2399)).
 gender(m).
 mobcat(2).
@@ -54620,9 +64263,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2399)).
-%patient: it_0130_004887 index:2400
+
+%patient: it-0130-004887 index:2400
 begin(model(2400)).
 gender(f).
 mobcat(4).
@@ -54643,9 +64292,13 @@ who_f2(0).
 who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2400)).
-%patient: it_0126_004953 index:2401
+
+%patient: it-0126-004953 index:2401
 begin(model(2401)).
 gender(f).
 race(white).
@@ -54675,8 +64328,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2401)).
-%patient: it_0130_004666 index:2402
+
+%patient: it-0130-004666 index:2402
 begin(model(2402)).
 gender(f).
 mobcat(2).
@@ -54699,8 +64357,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2402)).
-%patient: it_0130_005214 index:2403
+
+%patient: it-0130-005214 index:2403
 begin(model(2403)).
 gender(f).
 mobcat(4).
@@ -54720,9 +64383,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2403)).
-%patient: it_0166_005098 index:2404
+
+%patient: it-0166-005098 index:2404
 begin(model(2404)).
 gender(f).
 race(white).
@@ -54751,10 +64418,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
 testid(t).
 end(model(2404)).
-%patient: it_0143_005260 index:2405
+
+%patient: it-0143-005260 index:2405
 begin(model(2405)).
 gender(m).
 mobcat(2).
@@ -54773,10 +64444,13 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
 testid(t).
 end(model(2405)).
-%patient: it_0130_005304 index:2406
+
+%patient: it-0130-005304 index:2406
 begin(model(2406)).
 gender(m).
 mobcat(5).
@@ -54796,9 +64470,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2406)).
-%patient: it_0166_006234 index:2407
+
+%patient: it-0166-006234 index:2407
 begin(model(2407)).
 gender(f).
 race(white).
@@ -54814,10 +64493,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2407)).
-%patient: it_0123_005655 index:2408
+
+%patient: it-0123-005655 index:2408
 begin(model(2408)).
 gender(f).
 race(white).
@@ -54836,9 +64519,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2408)).
-%patient: it_0130_004646 index:2409
+
+%patient: it-0130-004646 index:2409
 begin(model(2409)).
 gender(f).
 mobcat(3).
@@ -54861,8 +64549,12 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2409)).
-%patient: it_0130_004426 index:2410
+
+%patient: it-0130-004426 index:2410
 begin(model(2410)).
 gender(m).
 mobcat(0).
@@ -54880,10 +64572,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2410)).
-%patient: it_0021_004873 index:2411
+
+%patient: it-0021-004873 index:2411
 begin(model(2411)).
 gender(m).
 race(white).
@@ -54913,10 +64610,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
 end(model(2411)).
-%patient: it_0042_003694 index:2412
+
+%patient: it-0042-003694 index:2412
 begin(model(2412)).
 gender(f).
 race(white).
@@ -54940,9 +64638,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2412)).
-%patient: it_0130_005341 index:2413
+
+%patient: it-0130-005341 index:2413
 begin(model(2413)).
 gender(f).
 mobcat(5).
@@ -54961,9 +64664,15 @@ who_f2(1).
 who_f3(1).
 who_f4(2).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2413)).
-%patient: it_0130_005356 index:2414
+
+%patient: it-0130-005356 index:2414
 begin(model(2414)).
 gender(f).
 mobcat(0).
@@ -54984,10 +64693,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2414)).
-%patient: it_0021_003843 index:2415
+
+%patient: it-0021-003843 index:2415
 begin(model(2415)).
 gender(f).
 race(white).
@@ -55012,10 +64724,12 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2415)).
-%patient: it_0103_006115 index:2416
+
+%patient: it-0103-006115 index:2416
 begin(model(2416)).
 gender(f).
 race(white).
@@ -55034,8 +64748,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2416)).
-%patient: it_0130_005385 index:2417
+
+%patient: it-0130-005385 index:2417
 begin(model(2417)).
 gender(f).
 mobcat(2).
@@ -55057,9 +64776,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2417)).
-%patient: it_0149_004323 index:2418
+
+%patient: it-0149-004323 index:2418
 begin(model(2418)).
 gender(f).
 race(white).
@@ -55082,8 +64805,13 @@ who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2418)).
-%patient: it_0021_004586 index:2419
+
+%patient: it-0021-004586 index:2419
 begin(model(2419)).
 gender(f).
 race(white).
@@ -55115,9 +64843,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
 end(model(2419)).
-%patient: it_0042_003636 index:2420
+
+%patient: it-0042-003636 index:2420
 begin(model(2420)).
 gender(f).
 race(white).
@@ -55144,9 +64874,11 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
 end(model(2420)).
-%patient: it_0123_005652 index:2421
+
+%patient: it-0123-005652 index:2421
 begin(model(2421)).
 gender(f).
 race(white).
@@ -55172,9 +64904,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2421)).
-%patient: it_0149_004276 index:2422
+
+%patient: it-0149-004276 index:2422
 begin(model(2422)).
 gender(f).
 race(white).
@@ -55196,9 +64933,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2422)).
-%patient: it_0149_004277 index:2423
+
+%patient: it-0149-004277 index:2423
 begin(model(2423)).
 gender(f).
 race(white).
@@ -55218,8 +64960,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2423)).
-%patient: it_0149_004356 index:2424
+
+%patient: it-0149-004356 index:2424
 begin(model(2424)).
 gender(f).
 race(white).
@@ -55238,9 +64985,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2424)).
-%patient: it_0149_004368 index:2425
+
+%patient: it-0149-004368 index:2425
 begin(model(2425)).
 gender(m).
 mobcat(3).
@@ -55266,8 +65017,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2425)).
-%patient: it_0149_004366 index:2426
+
+%patient: it-0149-004366 index:2426
 begin(model(2426)).
 gender(f).
 mobcat(3).
@@ -55292,8 +65049,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2426)).
-%patient: it_0149_004321 index:2427
+
+%patient: it-0149-004321 index:2427
 begin(model(2427)).
 gender(m).
 mobcat(0).
@@ -55313,9 +65075,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2427)).
-%patient: it_0042_003729 index:2428
+
+%patient: it-0042-003729 index:2428
 begin(model(2428)).
 gender(f).
 race(white).
@@ -55336,9 +65103,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2428)).
-%patient: it_0062_000202 index:2429
+
+%patient: it-0062-000202 index:2429
 begin(model(2429)).
 gender(f).
 race(white).
@@ -55358,10 +65130,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(2429)).
-%patient: it_0062_000658 index:2430
+
+%patient: it-0062-000658 index:2430
 begin(model(2430)).
 gender(f).
 race(white).
@@ -55379,9 +65154,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2430)).
-%patient: it_0062_000971 index:2431
+
+%patient: it-0062-000971 index:2431
 begin(model(2431)).
 gender(f).
 race(white).
@@ -55398,9 +65178,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2431)).
-%patient: it_0062_000972 index:2432
+
+%patient: it-0062-000972 index:2432
 begin(model(2432)).
 gender(m).
 race(white).
@@ -55416,9 +65202,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2432)).
-%patient: it_0062_000979 index:2433
+
+%patient: it-0062-000979 index:2433
 begin(model(2433)).
 gender(f).
 race(white).
@@ -55434,9 +65225,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2433)).
-%patient: it_0062_001785 index:2434
+
+%patient: it-0062-001785 index:2434
 begin(model(2434)).
 gender(f).
 race(white).
@@ -55454,10 +65250,12 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2434)).
-%patient: it_0062_001807 index:2435
+
+%patient: it-0062-001807 index:2435
 begin(model(2435)).
 gender(f).
 race(white).
@@ -55473,9 +65271,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2435)).
-%patient: it_0062_001810 index:2436
+
+%patient: it-0062-001810 index:2436
 begin(model(2436)).
 gender(m).
 race(white).
@@ -55493,9 +65295,13 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2436)).
-%patient: it_0062_001811 index:2437
+
+%patient: it-0062-001811 index:2437
 begin(model(2437)).
 gender(m).
 race(white).
@@ -55512,10 +65318,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2437)).
-%patient: it_0062_002172 index:2438
+
+%patient: it-0062-002172 index:2438
 begin(model(2438)).
 gender(f).
 race(white).
@@ -55533,9 +65343,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2438)).
-%patient: it_0062_002299 index:2439
+
+%patient: it-0062-002299 index:2439
 begin(model(2439)).
 gender(m).
 race(white).
@@ -55552,9 +65368,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2439)).
-%patient: it_0062_002303 index:2440
+
+%patient: it-0062-002303 index:2440
 begin(model(2440)).
 gender(f).
 race(white).
@@ -55572,9 +65393,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2440)).
-%patient: it_0021_003829 index:2441
+
+%patient: it-0021-003829 index:2441
 begin(model(2441)).
 gender(m).
 race(white).
@@ -55596,8 +65423,11 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2441)).
-%patient: it_0149_004359 index:2442
+
+%patient: it-0149-004359 index:2442
 begin(model(2442)).
 gender(m).
 race(white).
@@ -55620,10 +65450,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2442)).
-%patient: it_0143_004083 index:2443
+
+%patient: it-0143-004083 index:2443
 begin(model(2443)).
 gender(f).
 race(white).
@@ -55652,8 +65486,11 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2443)).
-%patient: it_0151_005628 index:2444
+
+%patient: it-0151-005628 index:2444
 begin(model(2444)).
 gender(f).
 mobcat(0).
@@ -55674,8 +65511,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2444)).
-%patient: it_0151_005588 index:2445
+
+%patient: it-0151-005588 index:2445
 begin(model(2445)).
 gender(f).
 mobcat(3).
@@ -55692,9 +65534,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2445)).
-%patient: it_0143_004261 index:2446
+
+%patient: it-0143-004261 index:2446
 begin(model(2446)).
 gender(m).
 race(white).
@@ -55722,8 +65568,11 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+testid(t).
 end(model(2446)).
-%patient: it_0150_006031 index:2447
+
+%patient: it-0150-006031 index:2447
 begin(model(2447)).
 gender(f).
 mobcat(1).
@@ -55743,8 +65592,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2447)).
-%patient: it_0150_006037 index:2448
+
+%patient: it-0150-006037 index:2448
 begin(model(2448)).
 gender(f).
 mobcat(1).
@@ -55763,9 +65618,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2448)).
-%patient: it_0150_006038 index:2449
+
+%patient: it-0150-006038 index:2449
 begin(model(2449)).
 gender(f).
 mobcat(9).
@@ -55785,9 +65645,11 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
 end(model(2449)).
-%patient: it_0150_006036 index:2450
+
+%patient: it-0150-006036 index:2450
 begin(model(2450)).
 gender(f).
 mobcat(1).
@@ -55802,9 +65664,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2450)).
-%patient: it_0150_006043 index:2451
+
+%patient: it-0150-006043 index:2451
 begin(model(2451)).
 gender(f).
 mobcat(2).
@@ -55825,9 +65693,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2451)).
-%patient: it_0150_006047 index:2452
+
+%patient: it-0150-006047 index:2452
 begin(model(2452)).
 gender(m).
 mobcat(1).
@@ -55848,9 +65722,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2452)).
-%patient: it_0150_006040 index:2453
+
+%patient: it-0150-006040 index:2453
 begin(model(2453)).
 gender(f).
 mobcat(1).
@@ -55873,10 +65753,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2453)).
-%patient: it_0150_006028 index:2454
+
+%patient: it-0150-006028 index:2454
 begin(model(2454)).
 gender(f).
 mobcat(1).
@@ -55896,9 +65780,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2454)).
-%patient: it_0150_006033 index:2455
+
+%patient: it-0150-006033 index:2455
 begin(model(2455)).
 gender(m).
 mobcat(4).
@@ -55916,10 +65805,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2455)).
-%patient: it_0150_006042 index:2456
+
+%patient: it-0150-006042 index:2456
 begin(model(2456)).
 gender(f).
 mobcat(2).
@@ -55936,10 +65830,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2456)).
-%patient: it_0130_004431 index:2457
+
+%patient: it-0130-004431 index:2457
 begin(model(2457)).
 gender(m).
 mobcat(1).
@@ -55956,9 +65855,14 @@ who_f2(9).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2457)).
-%patient: it_0051_006694 index:2458
+
+%patient: it-0051-006694 index:2458
 begin(model(2458)).
 gender(f).
 race(white).
@@ -55979,8 +65883,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2458)).
-%patient: it_0164_006384 index:2459
+
+%patient: it-0164-006384 index:2459
 begin(model(2459)).
 gender(f).
 race(white).
@@ -55999,9 +65909,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2459)).
-%patient: it_0106_006787 index:2460
+
+%patient: it-0106-006787 index:2460
 begin(model(2460)).
 gender(m).
 race(white).
@@ -56017,9 +65933,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2460)).
-%patient: it_0106_006804 index:2461
+
+%patient: it-0106-006804 index:2461
 begin(model(2461)).
 gender(m).
 race(white).
@@ -56034,9 +65955,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2461)).
-%patient: it_0106_006809 index:2462
+
+%patient: it-0106-006809 index:2462
 begin(model(2462)).
 gender(m).
 race(white).
@@ -56051,9 +65976,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2462)).
-%patient: it_0106_006737 index:2463
+
+%patient: it-0106-006737 index:2463
 begin(model(2463)).
 gender(f).
 race(white).
@@ -56075,9 +66005,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2463)).
-%patient: it_0106_006759 index:2464
+
+%patient: it-0106-006759 index:2464
 begin(model(2464)).
 gender(f).
 race(white).
@@ -56101,9 +66036,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2464)).
-%patient: it_0106_006772 index:2465
+
+%patient: it-0106-006772 index:2465
 begin(model(2465)).
 gender(m).
 race(white).
@@ -56125,9 +66065,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2465)).
-%patient: it_0106_006806 index:2466
+
+%patient: it-0106-006806 index:2466
 begin(model(2466)).
 gender(f).
 race(white).
@@ -56145,10 +66091,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2466)).
-%patient: it_0106_006813 index:2467
+
+%patient: it-0106-006813 index:2467
 begin(model(2467)).
 gender(m).
 race(white).
@@ -56163,9 +66113,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2467)).
-%patient: it_0116_004371 index:2468
+
+%patient: it-0116-004371 index:2468
 begin(model(2468)).
 gender(f).
 race(white).
@@ -56187,8 +66142,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2468)).
-%patient: it_0125_003974 index:2469
+
+%patient: it-0125-003974 index:2469
 begin(model(2469)).
 gender(f).
 race(white).
@@ -56208,10 +66168,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2469)).
-%patient: it_0106_006744 index:2470
+
+%patient: it-0106-006744 index:2470
 begin(model(2470)).
 gender(m).
 race(white).
@@ -56231,8 +66196,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2470)).
-%patient: it_0106_006745 index:2471
+
+%patient: it-0106-006745 index:2471
 begin(model(2471)).
 gender(f).
 race(white).
@@ -56250,9 +66221,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2471)).
-%patient: it_0051_006324 index:2472
+
+%patient: it-0051-006324 index:2472
 begin(model(2472)).
 gender(f).
 race(white).
@@ -56272,8 +66247,13 @@ who_f3(9).
 who_f4(1).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2472)).
-%patient: it_0130_005303 index:2473
+
+%patient: it-0130-005303 index:2473
 begin(model(2473)).
 gender(m).
 mobcat(5).
@@ -56292,9 +66272,15 @@ who_f2(0).
 who_f3(0).
 who_f4(2).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2473)).
-%patient: it_0150_006034 index:2474
+
+%patient: it-0150-006034 index:2474
 begin(model(2474)).
 gender(f).
 mobcat(1).
@@ -56314,9 +66300,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2474)).
-%patient: it_0016_003681 index:2475
+
+%patient: it-0016-003681 index:2475
 begin(model(2475)).
 gender(f).
 race(white).
@@ -56343,8 +66334,12 @@ who_f3(9).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2475)).
-%patient: it_0021_004251 index:2476
+
+%patient: it-0021-004251 index:2476
 begin(model(2476)).
 gender(m).
 race(white).
@@ -56367,8 +66362,11 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
 end(model(2476)).
-%patient: it_0016_000555 index:2477
+
+%patient: it-0016-000555 index:2477
 begin(model(2477)).
 gender(m).
 race(white).
@@ -56397,8 +66395,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2477)).
-%patient: it_0016_003678 index:2478
+
+%patient: it-0016-003678 index:2478
 begin(model(2478)).
 gender(m).
 race(white).
@@ -56423,9 +66426,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2478)).
-%patient: it_0016_003659 index:2479
+
+%patient: it-0016-003659 index:2479
 begin(model(2479)).
 gender(f).
 race(white).
@@ -56452,8 +66460,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2479)).
-%patient: it_0016_003670 index:2480
+
+%patient: it-0016-003670 index:2480
 begin(model(2480)).
 gender(f).
 race(white).
@@ -56480,9 +66493,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2480)).
-%patient: it_0016_002430 index:2481
+
+%patient: it-0016-002430 index:2481
 begin(model(2481)).
 gender(m).
 race(white).
@@ -56512,8 +66529,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2481)).
-%patient: it_0016_003679 index:2482
+
+%patient: it-0016-003679 index:2482
 begin(model(2482)).
 gender(m).
 race(white).
@@ -56538,9 +66560,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
 end(model(2482)).
-%patient: it_0016_000366 index:2483
+
+%patient: it-0016-000366 index:2483
 begin(model(2483)).
 gender(f).
 race(white).
@@ -56569,8 +66592,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2483)).
-%patient: it_0016_003668 index:2484
+
+%patient: it-0016-003668 index:2484
 begin(model(2484)).
 gender(f).
 race(white).
@@ -56597,9 +66625,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2484)).
-%patient: it_0016_003682 index:2485
+
+%patient: it-0016-003682 index:2485
 begin(model(2485)).
 gender(f).
 race(white).
@@ -56628,8 +66660,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2485)).
-%patient: it_0016_003658 index:2486
+
+%patient: it-0016-003658 index:2486
 begin(model(2486)).
 gender(f).
 race(white).
@@ -56658,8 +66695,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2486)).
-%patient: it_0018_000306 index:2487
+
+%patient: it-0018-000306 index:2487
 begin(model(2487)).
 gender(f).
 race(white).
@@ -56686,9 +66728,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2487)).
-%patient: it_0116_004529 index:2488
+
+%patient: it-0116-004529 index:2488
 begin(model(2488)).
 gender(f).
 race(white).
@@ -56708,8 +66753,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2488)).
-%patient: it_0116_004560 index:2489
+
+%patient: it-0116-004560 index:2489
 begin(model(2489)).
 gender(f).
 race(white).
@@ -56729,8 +66778,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2489)).
-%patient: it_0021_001769 index:2490
+
+%patient: it-0021-001769 index:2490
 begin(model(2490)).
 gender(f).
 race(white).
@@ -56759,8 +66813,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(2490)).
-%patient: it_0021_003847 index:2491
+
+%patient: it-0021-003847 index:2491
 begin(model(2491)).
 gender(f).
 race(white).
@@ -56788,9 +66844,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(2491)).
-%patient: it_0021_000287 index:2492
+
+%patient: it-0021-000287 index:2492
 begin(model(2492)).
 gender(f).
 race(white).
@@ -56820,8 +66879,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
 end(model(2492)).
-%patient: it_0021_001893 index:2493
+
+%patient: it-0021-001893 index:2493
 begin(model(2493)).
 gender(f).
 race(white).
@@ -56849,9 +66910,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
 end(model(2493)).
-%patient: it_0021_003834 index:2494
+
+%patient: it-0021-003834 index:2494
 begin(model(2494)).
 gender(f).
 race(white).
@@ -56875,10 +66937,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
 testid(t).
 end(model(2494)).
-%patient: it_0021_003835 index:2495
+
+%patient: it-0021-003835 index:2495
 begin(model(2495)).
 gender(m).
 race(white).
@@ -56906,8 +66971,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2495)).
-%patient: it_0021_003844 index:2496
+
+%patient: it-0021-003844 index:2496
 begin(model(2496)).
 gender(f).
 race(white).
@@ -56937,9 +67007,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2496)).
-%patient: it_0021_003849 index:2497
+
+%patient: it-0021-003849 index:2497
 begin(model(2497)).
 gender(f).
 race(white).
@@ -56967,9 +67043,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+testid(t).
 end(model(2497)).
-%patient: it_0116_004880 index:2498
+
+%patient: it-0116-004880 index:2498
 begin(model(2498)).
 gender(f).
 race(white).
@@ -56990,8 +67069,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2498)).
-%patient: it_0021_000239 index:2499
+
+%patient: it-0021-000239 index:2499
 begin(model(2499)).
 gender(f).
 race(white).
@@ -57019,9 +67103,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
 end(model(2499)).
-%patient: it_0116_004526 index:2500
+
+%patient: it-0116-004526 index:2500
 begin(model(2500)).
 gender(f).
 race(white).
@@ -57045,8 +67132,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2500)).
-%patient: it_0116_004571 index:2501
+
+%patient: it-0116-004571 index:2501
 begin(model(2501)).
 gender(f).
 race(white).
@@ -57066,9 +67157,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2501)).
-%patient: it_0116_004881 index:2502
+
+%patient: it-0116-004881 index:2502
 begin(model(2502)).
 gender(f).
 race(white).
@@ -57092,9 +67187,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2502)).
-%patient: it_0116_005095 index:2503
+
+%patient: it-0116-005095 index:2503
 begin(model(2503)).
 gender(f).
 race(white).
@@ -57118,8 +67216,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2503)).
-%patient: it_0116_005346 index:2504
+
+%patient: it-0116-005346 index:2504
 begin(model(2504)).
 gender(f).
 race(white).
@@ -57142,9 +67245,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2504)).
-%patient: it_0116_005366 index:2505
+
+%patient: it-0116-005366 index:2505
 begin(model(2505)).
 gender(f).
 race(white).
@@ -57168,8 +67274,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2505)).
-%patient: it_0116_004593 index:2506
+
+%patient: it-0116-004593 index:2506
 begin(model(2506)).
 gender(f).
 race(white).
@@ -57188,8 +67298,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2506)).
-%patient: it_0116_004650 index:2507
+
+%patient: it-0116-004650 index:2507
 begin(model(2507)).
 gender(f).
 race(white).
@@ -57212,8 +67326,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(2).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2507)).
-%patient: it_0129_004747 index:2508
+
+%patient: it-0129-004747 index:2508
 begin(model(2508)).
 gender(f).
 race(white).
@@ -57233,9 +67351,15 @@ who_f2(9).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2508)).
-%patient: it_0128_004714 index:2509
+
+%patient: it-0128-004714 index:2509
 begin(model(2509)).
 gender(f).
 race(white).
@@ -57259,9 +67383,14 @@ who_f2(9).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(2).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2509)).
-%patient: it_0125_005725 index:2510
+
+%patient: it-0125-005725 index:2510
 begin(model(2510)).
 gender(f).
 race(white).
@@ -57282,9 +67411,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2510)).
-%patient: it_0016_000358 index:2511
+
+%patient: it-0016-000358 index:2511
 begin(model(2511)).
 gender(m).
 race(white).
@@ -57307,8 +67441,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2511)).
-%patient: it_0021_000688 index:2512
+
+%patient: it-0021-000688 index:2512
 begin(model(2512)).
 gender(f).
 race(white).
@@ -57334,8 +67473,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2512)).
-%patient: it_0022_002416 index:2513
+
+%patient: it-0022-002416 index:2513
 begin(model(2513)).
 gender(m).
 race(white).
@@ -57355,8 +67500,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2513)).
-%patient: it_0022_002417 index:2514
+
+%patient: it-0022-002417 index:2514
 begin(model(2514)).
 gender(m).
 race(white).
@@ -57376,8 +67526,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2514)).
-%patient: it_0130_004724 index:2515
+
+%patient: it-0130-004724 index:2515
 begin(model(2515)).
 gender(f).
 mobcat(2).
@@ -57395,9 +67551,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2515)).
-%patient: it_0130_005397 index:2516
+
+%patient: it-0130-005397 index:2516
 begin(model(2516)).
 gender(f).
 mobcat(1).
@@ -57419,9 +67578,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
-testid(t).
+covidvaccine(1,3).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2516)).
-%patient: it_0151_005813 index:2517
+
+%patient: it-0151-005813 index:2517
 begin(model(2517)).
 gender(m).
 mobcat(1).
@@ -57442,8 +67604,14 @@ who_f3(1).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2517)).
-%patient: it_0130_006535 index:2518
+
+%patient: it-0130-006535 index:2518
 begin(model(2518)).
 gender(m).
 mobcat(0).
@@ -57462,9 +67630,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+testid(t).
 end(model(2518)).
-%patient: it_0125_004265 index:2519
+
+%patient: it-0125-004265 index:2519
 begin(model(2519)).
 gender(f).
 race(white).
@@ -57485,9 +67657,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2519)).
-%patient: it_0151_005766 index:2520
+
+%patient: it-0151-005766 index:2520
 begin(model(2520)).
 gender(m).
 mobcat(3).
@@ -57507,9 +67684,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2520)).
-%patient: it_0147_004823 index:2521
+
+%patient: it-0147-004823 index:2521
 begin(model(2521)).
 gender(m).
 race(white).
@@ -57530,9 +67711,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2521)).
-%patient: it_0149_004354 index:2522
+
+%patient: it-0149-004354 index:2522
 begin(model(2522)).
 gender(m).
 mobcat(3).
@@ -57552,8 +67737,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2522)).
-%patient: it_0149_004369 index:2523
+
+%patient: it-0149-004369 index:2523
 begin(model(2523)).
 gender(m).
 mobcat(2).
@@ -57575,8 +67765,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2523)).
-%patient: it_0148_005828 index:2524
+
+%patient: it-0148-005828 index:2524
 begin(model(2524)).
 gender(m).
 mobcat(2).
@@ -57597,9 +67792,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(3).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2524)).
-%patient: it_0148_006009 index:2525
+
+%patient: it-0148-006009 index:2525
 begin(model(2525)).
 gender(m).
 mobcat(3).
@@ -57619,9 +67818,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2525)).
-%patient: it_0130_005383 index:2526
+
+%patient: it-0130-005383 index:2526
 begin(model(2526)).
 gender(m).
 mobcat(0).
@@ -57642,10 +67846,12 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(3).
-pos.
-testid(t).
+neg.
+covidvaccine(1,3).
+vzvvaccine(0).
 end(model(2526)).
-%patient: it_0149_004279 index:2527
+
+%patient: it-0149-004279 index:2527
 begin(model(2527)).
 gender(f).
 race(white).
@@ -57666,8 +67872,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2527)).
-%patient: it_0125_006130 index:2528
+
+%patient: it-0125-006130 index:2528
 begin(model(2528)).
 gender(f).
 race(white).
@@ -57691,9 +67902,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(3).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2528)).
-%patient: it_0016_002498 index:2529
+
+%patient: it-0016-002498 index:2529
 begin(model(2529)).
 gender(m).
 race(white).
@@ -57721,8 +67937,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2529)).
-%patient: it_0141_005815 index:2530
+
+%patient: it-0141-005815 index:2530
 begin(model(2530)).
 gender(f).
 race(white).
@@ -57743,9 +67964,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2530)).
-%patient: it_0016_003669 index:2531
+
+%patient: it-0016-003669 index:2531
 begin(model(2531)).
 gender(f).
 race(white).
@@ -57775,8 +68002,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2531)).
-%patient: it_0021_003841 index:2532
+
+%patient: it-0021-003841 index:2532
 begin(model(2532)).
 gender(f).
 race(white).
@@ -57803,9 +68035,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2532)).
-%patient: it_0021_003845 index:2533
+
+%patient: it-0021-003845 index:2533
 begin(model(2533)).
 gender(m).
 race(white).
@@ -57832,8 +68069,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(3).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2533)).
-%patient: it_0155_004177 index:2534
+
+%patient: it-0155-004177 index:2534
 begin(model(2534)).
 gender(m).
 mobcat(0).
@@ -57847,9 +68090,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2534)).
-%patient: it_0152_004998 index:2535
+
+%patient: it-0152-004998 index:2535
 begin(model(2535)).
 gender(m).
 race(white).
@@ -57868,9 +68116,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2535)).
-%patient: it_0017_003022 index:2536
+
+%patient: it-0017-003022 index:2536
 begin(model(2536)).
 gender(f).
 race(white).
@@ -57888,8 +68137,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2536)).
-%patient: it_0016_003680 index:2537
+
+%patient: it-0016-003680 index:2537
 begin(model(2537)).
 gender(f).
 race(white).
@@ -57913,8 +68165,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2537)).
-%patient: it_0021_003848 index:2538
+
+%patient: it-0021-003848 index:2538
 begin(model(2538)).
 gender(f).
 race(white).
@@ -57940,8 +68198,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
 end(model(2538)).
-%patient: it_0042_003629 index:2539
+
+%patient: it-0042-003629 index:2539
 begin(model(2539)).
 gender(m).
 race(white).
@@ -57966,8 +68226,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(2539)).
-%patient: it_0042_005207 index:2540
+
+%patient: it-0042-005207 index:2540
 begin(model(2540)).
 gender(m).
 race(asian).
@@ -57986,8 +68249,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2540)).
-%patient: it_0044_003667 index:2541
+
+%patient: it-0044-003667 index:2541
 begin(model(2541)).
 gender(m).
 race(white).
@@ -58012,9 +68280,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2541)).
-%patient: it_0143_006187 index:2542
+
+%patient: it-0143-006187 index:2542
 begin(model(2542)).
 gender(f).
 mobcat(4).
@@ -58032,9 +68304,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2542)).
-%patient: it_0147_004391 index:2543
+
+%patient: it-0147-004391 index:2543
 begin(model(2543)).
 gender(m).
 mobcat(2).
@@ -58055,8 +68328,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2543)).
-%patient: it_0052_003861 index:2544
+
+%patient: it-0052-003861 index:2544
 begin(model(2544)).
 gender(f).
 race(white).
@@ -58074,8 +68352,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2544)).
-%patient: it_0102_002000 index:2545
+
+%patient: it-0102-002000 index:2545
 begin(model(2545)).
 gender(m).
 race(white).
@@ -58095,8 +68378,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2545)).
-%patient: it_0127_006847 index:2546
+
+%patient: it-0127-006847 index:2546
 begin(model(2546)).
 gender(m).
 race(white).
@@ -58116,9 +68404,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2546)).
-%patient: it_0139_006729 index:2547
+
+%patient: it-0139-006729 index:2547
 begin(model(2547)).
 gender(f).
 race(white).
@@ -58139,9 +68432,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2547)).
-%patient: it_0132_005627 index:2548
+
+%patient: it-0132-005627 index:2548
 begin(model(2548)).
 gender(m).
 race(white).
@@ -58165,9 +68462,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2548)).
-%patient: it_0132_003858 index:2549
+
+%patient: it-0132-003858 index:2549
 begin(model(2549)).
 gender(f).
 race(white).
@@ -58189,8 +68487,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2549)).
-%patient: it_0052_003689 index:2550
+
+%patient: it-0052-003689 index:2550
 begin(model(2550)).
 gender(m).
 race(white).
@@ -58212,8 +68516,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2550)).
-%patient: it_0139_006730 index:2551
+
+%patient: it-0139-006730 index:2551
 begin(model(2551)).
 gender(m).
 race(white).
@@ -58236,8 +68545,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2551)).
-%patient: it_0139_006731 index:2552
+
+%patient: it-0139-006731 index:2552
 begin(model(2552)).
 gender(m).
 race(white).
@@ -58257,9 +68572,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2552)).
-%patient: it_0017_003752 index:2553
+
+%patient: it-0017-003752 index:2553
 begin(model(2553)).
 gender(f).
 race(white).
@@ -58283,8 +68603,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2553)).
-%patient: it_0020_003796 index:2554
+
+%patient: it-0020-003796 index:2554
 begin(model(2554)).
 gender(m).
 race(white).
@@ -58305,9 +68631,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2554)).
-%patient: it_0043_003739 index:2555
+
+%patient: it-0043-003739 index:2555
 begin(model(2555)).
 gender(m).
 race(white).
@@ -58326,9 +68657,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2555)).
-%patient: it_0043_003825 index:2556
+
+%patient: it-0043-003825 index:2556
 begin(model(2556)).
 gender(f).
 race(white).
@@ -58348,8 +68683,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2556)).
-%patient: it_0052_003692 index:2557
+
+%patient: it-0052-003692 index:2557
 begin(model(2557)).
 gender(f).
 race(white).
@@ -58377,9 +68718,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2557)).
-%patient: it_0143_005332 index:2558
+
+%patient: it-0143-005332 index:2558
 begin(model(2558)).
 gender(m).
 mobcat(3).
@@ -58399,9 +68744,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
 testid(t).
 end(model(2558)).
-%patient: it_0143_006186 index:2559
+
+%patient: it-0143-006186 index:2559
 begin(model(2559)).
 gender(f).
 mobcat(0).
@@ -58425,8 +68772,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(2559)).
-%patient: it_0144_006865 index:2560
+
+%patient: it-0144-006865 index:2560
 begin(model(2560)).
 gender(m).
 race(white).
@@ -58446,8 +68796,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2560)).
-%patient: it_0050_003686 index:2561
+
+%patient: it-0050-003686 index:2561
 begin(model(2561)).
 gender(m).
 race(white).
@@ -58474,8 +68829,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2561)).
-%patient: it_0143_006188 index:2562
+
+%patient: it-0143-006188 index:2562
 begin(model(2562)).
 gender(f).
 mobcat(4).
@@ -58494,8 +68855,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
 end(model(2562)).
-%patient: it_0045_003684 index:2563
+
+%patient: it-0045-003684 index:2563
 begin(model(2563)).
 gender(f).
 race(white).
@@ -58516,9 +68879,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2563)).
-%patient: it_0045_005296 index:2564
+
+%patient: it-0045-005296 index:2564
 begin(model(2564)).
 gender(f).
 race(white).
@@ -58539,9 +68906,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2564)).
-%patient: it_0050_005789 index:2565
+
+%patient: it-0050-005789 index:2565
 begin(model(2565)).
 gender(m).
 race(white).
@@ -58561,8 +68932,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2565)).
-%patient: it_0052_005773 index:2566
+
+%patient: it-0052-005773 index:2566
 begin(model(2566)).
 gender(f).
 race(white).
@@ -58586,9 +68962,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2566)).
-%patient: it_0143_004068 index:2567
+
+%patient: it-0143-004068 index:2567
 begin(model(2567)).
 gender(f).
 race(white).
@@ -58614,9 +68994,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2567)).
-%patient: it_0143_004262 index:2568
+
+%patient: it-0143-004262 index:2568
 begin(model(2568)).
 gender(f).
 race(white).
@@ -58643,8 +69027,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
 end(model(2568)).
-%patient: it_0143_004266 index:2569
+
+%patient: it-0143-004266 index:2569
 begin(model(2569)).
 gender(f).
 race(white).
@@ -58669,8 +69055,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2569)).
-%patient: it_0143_006205 index:2570
+
+%patient: it-0143-006205 index:2570
 begin(model(2570)).
 gender(f).
 mobcat(1).
@@ -58687,8 +69076,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
 end(model(2570)).
-%patient: it_0144_004573 index:2571
+
+%patient: it-0144-004573 index:2571
 begin(model(2571)).
 gender(m).
 race(white).
@@ -58714,9 +69105,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2571)).
-%patient: it_0155_004206 index:2572
+
+%patient: it-0155-004206 index:2572
 begin(model(2572)).
 gender(f).
 race(white).
@@ -58734,9 +69129,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2572)).
-%patient: it_0052_003854 index:2573
+
+%patient: it-0052-003854 index:2573
 begin(model(2573)).
 gender(f).
 race(white).
@@ -58756,8 +69152,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2573)).
-%patient: it_0132_005941 index:2574
+
+%patient: it-0132-005941 index:2574
 begin(model(2574)).
 gender(f).
 race(white).
@@ -58784,8 +69186,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
 end(model(2574)).
-%patient: it_0155_004213 index:2575
+
+%patient: it-0155-004213 index:2575
 begin(model(2575)).
 gender(m).
 race(white).
@@ -58806,9 +69210,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2575)).
-%patient: it_0132_004280 index:2576
+
+%patient: it-0132-004280 index:2576
 begin(model(2576)).
 gender(f).
 race(white).
@@ -58832,8 +69240,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2576)).
-%patient: it_0158_006078 index:2577
+
+%patient: it-0158-006078 index:2577
 begin(model(2577)).
 gender(m).
 race(white).
@@ -58856,9 +69268,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2577)).
-%patient: it_0045_003683 index:2578
+
+%patient: it-0045-003683 index:2578
 begin(model(2578)).
 gender(m).
 race(white).
@@ -58885,9 +69298,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2578)).
-%patient: it_0139_006728 index:2579
+
+%patient: it-0139-006728 index:2579
 begin(model(2579)).
 gender(m).
 race(white).
@@ -58907,9 +69325,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2579)).
-%patient: it_0139_006740 index:2580
+
+%patient: it-0139-006740 index:2580
 begin(model(2580)).
 gender(f).
 race(white).
@@ -58929,8 +69351,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2580)).
-%patient: it_0021_003836 index:2581
+
+%patient: it-0021-003836 index:2581
 begin(model(2581)).
 gender(m).
 race(white).
@@ -58953,8 +69381,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2581)).
-%patient: it_0144_006864 index:2582
+
+%patient: it-0144-006864 index:2582
 begin(model(2582)).
 gender(f).
 race(white).
@@ -58976,8 +69409,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2582)).
-%patient: it_0169_006102 index:2583
+
+%patient: it-0169-006102 index:2583
 begin(model(2583)).
 gender(f).
 race(white).
@@ -58996,8 +69435,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2583)).
-%patient: it_0171_006217 index:2584
+
+%patient: it-0171-006217 index:2584
 begin(model(2584)).
 gender(m).
 race(white).
@@ -59019,8 +69464,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2584)).
-%patient: it_0021_004587 index:2585
+
+%patient: it-0021-004587 index:2585
 begin(model(2585)).
 gender(m).
 race(white).
@@ -59048,8 +69499,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
 end(model(2585)).
-%patient: it_0045_005290 index:2586
+
+%patient: it-0045-005290 index:2586
 begin(model(2586)).
 gender(f).
 race(white).
@@ -59071,8 +69524,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2586)).
-%patient: it_0045_005293 index:2587
+
+%patient: it-0045-005293 index:2587
 begin(model(2587)).
 gender(f).
 race(white).
@@ -59096,9 +69554,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2587)).
-%patient: it_0053_005302 index:2588
+
+%patient: it-0053-005302 index:2588
 begin(model(2588)).
 gender(m).
 race(asian).
@@ -59122,9 +69584,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2588)).
-%patient: it_0123_005692 index:2589
+
+%patient: it-0123-005692 index:2589
 begin(model(2589)).
 gender(f).
 race(white).
@@ -59142,8 +69608,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2589)).
-%patient: it_0045_005297 index:2590
+
+%patient: it-0045-005297 index:2590
 begin(model(2590)).
 gender(f).
 race(white).
@@ -59161,9 +69632,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2590)).
-%patient: it_0143_005319 index:2591
+
+%patient: it-0143-005319 index:2591
 begin(model(2591)).
 gender(f).
 mobcat(1).
@@ -59185,9 +69661,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2591)).
-%patient: it_0158_005410 index:2592
+
+%patient: it-0158-005410 index:2592
 begin(model(2592)).
 gender(m).
 race(white).
@@ -59206,9 +69683,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2592)).
-%patient: it_0148_005581 index:2593
+
+%patient: it-0148-005581 index:2593
 begin(model(2593)).
 gender(f).
 mobcat(2).
@@ -59227,9 +69708,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2593)).
-%patient: it_0143_004057 index:2594
+
+%patient: it-0143-004057 index:2594
 begin(model(2594)).
 gender(f).
 race(white).
@@ -59259,9 +69744,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2594)).
-%patient: it_0132_005596 index:2595
+
+%patient: it-0132-005596 index:2595
 begin(model(2595)).
 gender(f).
 race(white).
@@ -59287,8 +69775,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2595)).
-%patient: it_0020_003779 index:2596
+
+%patient: it-0020-003779 index:2596
 begin(model(2596)).
 gender(f).
 race(white).
@@ -59315,8 +69806,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2596)).
-%patient: it_0018_000286 index:2597
+
+%patient: it-0018-000286 index:2597
 begin(model(2597)).
 gender(f).
 race(white).
@@ -59341,8 +69837,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(2597)).
-%patient: it_0020_003784 index:2598
+
+%patient: it-0020-003784 index:2598
 begin(model(2598)).
 gender(f).
 race(white).
@@ -59370,8 +69870,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2598)).
-%patient: it_0053_004250 index:2599
+
+%patient: it-0053-004250 index:2599
 begin(model(2599)).
 gender(m).
 race(white).
@@ -59391,8 +69897,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2599)).
-%patient: it_0164_006323 index:2600
+
+%patient: it-0164-006323 index:2600
 begin(model(2600)).
 gender(m).
 race(white).
@@ -59415,8 +69927,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2600)).
-%patient: it_0169_006585 index:2601
+
+%patient: it-0169-006585 index:2601
 begin(model(2601)).
 gender(m).
 race(white).
@@ -59438,8 +69955,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2601)).
-%patient: it_0147_004389 index:2602
+
+%patient: it-0147-004389 index:2602
 begin(model(2602)).
 gender(f).
 mobcat(0).
@@ -59457,8 +69979,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(4).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2602)).
-%patient: it_0061_004221 index:2603
+
+%patient: it-0061-004221 index:2603
 begin(model(2603)).
 gender(m).
 race(white).
@@ -59477,9 +70004,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2603)).
-%patient: it_0061_004287 index:2604
+
+%patient: it-0061-004287 index:2604
 begin(model(2604)).
 gender(m).
 race(white).
@@ -59499,9 +70031,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2604)).
-%patient: it_0061_004285 index:2605
+
+%patient: it-0061-004285 index:2605
 begin(model(2605)).
 gender(f).
 race(white).
@@ -59522,10 +70059,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2605)).
-%patient: it_0021_003837 index:2606
+
+%patient: it-0021-003837 index:2606
 begin(model(2606)).
 gender(m).
 race(white).
@@ -59548,10 +70089,12 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
-neg.
+pos.
+covidvaccine(0,3).
 testid(t).
 end(model(2606)).
-%patient: it_0141_006169 index:2607
+
+%patient: it-0141-006169 index:2607
 begin(model(2607)).
 gender(m).
 race(white).
@@ -59573,9 +70116,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2607)).
-%patient: it_0166_005017 index:2608
+
+%patient: it-0166-005017 index:2608
 begin(model(2608)).
 gender(f).
 race(white).
@@ -59600,9 +70148,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
-neg.
+pos.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2608)).
-%patient: it_0116_004704 index:2609
+
+%patient: it-0116-004704 index:2609
 begin(model(2609)).
 gender(f).
 race(white).
@@ -59623,9 +70176,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2609)).
-%patient: it_0116_005150 index:2610
+
+%patient: it-0116-005150 index:2610
 begin(model(2610)).
 gender(f).
 race(white).
@@ -59648,9 +70204,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2610)).
-%patient: it_0116_005188 index:2611
+
+%patient: it-0116-005188 index:2611
 begin(model(2611)).
 gender(f).
 race(white).
@@ -59673,9 +70232,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(4).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2611)).
-%patient: it_0052_003860 index:2612
+
+%patient: it-0052-003860 index:2612
 begin(model(2612)).
 gender(m).
 race(white).
@@ -59693,9 +70255,14 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(4).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2612)).
-%patient: it_0017_005473 index:2613
+
+%patient: it-0017-005473 index:2613
 begin(model(2613)).
 gender(m).
 race(white).
@@ -59713,8 +70280,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2613)).
-%patient: it_0042_003634 index:2614
+
+%patient: it-0042-003634 index:2614
 begin(model(2614)).
 gender(f).
 race(white).
@@ -59737,8 +70307,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,1).
 end(model(2614)).
-%patient: it_0042_003635 index:2615
+
+%patient: it-0042-003635 index:2615
 begin(model(2615)).
 gender(f).
 race(white).
@@ -59763,8 +70335,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,1).
 end(model(2615)).
-%patient: it_0167_006823 index:2616
+
+%patient: it-0167-006823 index:2616
 begin(model(2616)).
 gender(f).
 race(white).
@@ -59784,9 +70358,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(1,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2616)).
-%patient: it_0042_003637 index:2617
+
+%patient: it-0042-003637 index:2617
 begin(model(2617)).
 gender(f).
 race(white).
@@ -59808,8 +70386,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2617)).
-%patient: it_0017_003892 index:2618
+
+%patient: it-0017-003892 index:2618
 begin(model(2618)).
 gender(f).
 race(white).
@@ -59830,8 +70413,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
 end(model(2618)).
-%patient: it_0017_003757 index:2619
+
+%patient: it-0017-003757 index:2619
 begin(model(2619)).
 gender(m).
 race(white).
@@ -59857,9 +70442,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2619)).
-%patient: it_0166_005019 index:2620
+
+%patient: it-0166-005019 index:2620
 begin(model(2620)).
 gender(f).
 race(white).
@@ -59885,8 +70475,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2620)).
-%patient: it_0171_006349 index:2621
+
+%patient: it-0171-006349 index:2621
 begin(model(2621)).
 gender(f).
 race(white).
@@ -59904,9 +70499,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(1,2).
 end(model(2621)).
-%patient: it_0017_003751 index:2622
+
+%patient: it-0017-003751 index:2622
 begin(model(2622)).
 gender(m).
 race(white).
@@ -59927,9 +70523,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2622)).
-%patient: it_0017_003754 index:2623
+
+%patient: it-0017-003754 index:2623
 begin(model(2623)).
 gender(m).
 race(white).
@@ -59955,8 +70552,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2623)).
-%patient: it_0042_003630 index:2624
+
+%patient: it-0042-003630 index:2624
 begin(model(2624)).
 gender(f).
 race(white).
@@ -59982,9 +70584,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
 end(model(2624)).
-%patient: it_0042_005208 index:2625
+
+%patient: it-0042-005208 index:2625
 begin(model(2625)).
 gender(m).
 race(white).
@@ -60007,8 +70611,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2625)).
-%patient: it_0126_005118 index:2626
+
+%patient: it-0126-005118 index:2626
 begin(model(2626)).
 gender(f).
 race(white).
@@ -60034,8 +70643,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2626)).
-%patient: it_0166_005114 index:2627
+
+%patient: it-0166-005114 index:2627
 begin(model(2627)).
 gender(f).
 race(white).
@@ -60055,8 +70670,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2627)).
-%patient: it_0042_005426 index:2628
+
+%patient: it-0042-005426 index:2628
 begin(model(2628)).
 gender(f).
 race(white).
@@ -60079,9 +70698,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2628)).
-%patient: it_0017_004828 index:2629
+
+%patient: it-0017-004828 index:2629
 begin(model(2629)).
 gender(f).
 race(white).
@@ -60102,8 +70725,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
 end(model(2629)).
-%patient: it_0109_006019 index:2630
+
+%patient: it-0109-006019 index:2630
 begin(model(2630)).
 gender(f).
 race(white).
@@ -60127,8 +70752,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2630)).
-%patient: it_0148_006011 index:2631
+
+%patient: it-0148-006011 index:2631
 begin(model(2631)).
 gender(m).
 mobcat(2).
@@ -60148,8 +70776,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2631)).
-%patient: it_0126_006606 index:2632
+
+%patient: it-0126-006606 index:2632
 begin(model(2632)).
 gender(f).
 race(white).
@@ -60172,8 +70805,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2632)).
-%patient: it_0051_006660 index:2633
+
+%patient: it-0051-006660 index:2633
 begin(model(2633)).
 gender(f).
 race(white).
@@ -60195,8 +70833,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2633)).
-%patient: it_0166_005032 index:2634
+
+%patient: it-0166-005032 index:2634
 begin(model(2634)).
 gender(f).
 race(white).
@@ -60220,8 +70864,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2634)).
-%patient: it_0166_005027 index:2635
+
+%patient: it-0166-005027 index:2635
 begin(model(2635)).
 gender(f).
 race(black).
@@ -60243,9 +70893,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2635)).
-%patient: it_0166_005039 index:2636
+
+%patient: it-0166-005039 index:2636
 begin(model(2636)).
 gender(f).
 race(white).
@@ -60269,8 +70922,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(2636)).
-%patient: it_0166_005100 index:2637
+
+%patient: it-0166-005100 index:2637
 begin(model(2637)).
 gender(f).
 race(white).
@@ -60288,8 +70946,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2637)).
-%patient: it_0166_005101 index:2638
+
+%patient: it-0166-005101 index:2638
 begin(model(2638)).
 gender(f).
 race(white).
@@ -60311,9 +70973,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
-testid(t).
+covidvaccine(1,2).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2638)).
-%patient: it_0166_005104 index:2639
+
+%patient: it-0166-005104 index:2639
 begin(model(2639)).
 gender(f).
 race(white).
@@ -60339,8 +71004,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2639)).
-%patient: it_0166_005107 index:2640
+
+%patient: it-0166-005107 index:2640
 begin(model(2640)).
 gender(m).
 race(white).
@@ -60362,9 +71031,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
 testid(t).
 end(model(2640)).
-%patient: it_0166_005112 index:2641
+
+%patient: it-0166-005112 index:2641
 begin(model(2641)).
 gender(f).
 race(white).
@@ -60387,8 +71060,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2641)).
-%patient: it_0148_005827 index:2642
+
+%patient: it-0148-005827 index:2642
 begin(model(2642)).
 gender(m).
 mobcat(1).
@@ -60406,8 +71083,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2642)).
-%patient: it_0017_004365 index:2643
+
+%patient: it-0017-004365 index:2643
 begin(model(2643)).
 gender(m).
 race(white).
@@ -60432,8 +71114,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(0,3).
 end(model(2643)).
-%patient: it_0166_004955 index:2644
+
+%patient: it-0166-004955 index:2644
 begin(model(2644)).
 gender(f).
 race(white).
@@ -60457,8 +71141,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2644)).
-%patient: it_0166_004934 index:2645
+
+%patient: it-0166-004934 index:2645
 begin(model(2645)).
 gender(m).
 race(white).
@@ -60486,9 +71175,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2645)).
-%patient: it_0166_005111 index:2646
+
+%patient: it-0166-005111 index:2646
 begin(model(2646)).
 gender(f).
 race(white).
@@ -60512,8 +71206,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(5).
 neg.
+covidvaccine(1,3).
+fluvaccine(0).
 end(model(2646)).
-%patient: it_0106_006799 index:2647
+
+%patient: it-0106-006799 index:2647
 begin(model(2647)).
 gender(f).
 race(white).
@@ -60531,9 +71228,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(5).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2647)).
-%patient: it_0111_005876 index:2648
+
+%patient: it-0111-005876 index:2648
 begin(model(2648)).
 gender(m).
 race(white).
@@ -60546,8 +71248,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2648)).
-%patient: it_0165_005573 index:2649
+
+%patient: it-0165-005573 index:2649
 begin(model(2649)).
 gender(f).
 race(white).
@@ -60560,8 +71268,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2649)).
-%patient: it_0110_006618 index:2650
+
+%patient: it-0110-006618 index:2650
 begin(model(2650)).
 gender(f).
 race(white).
@@ -60571,9 +71282,9 @@ numberdoses(1).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
 end(model(2650)).
-%patient: it_0110_006619 index:2651
+
+%patient: it-0110-006619 index:2651
 begin(model(2651)).
 gender(f).
 race(white).
@@ -60583,8 +71294,10 @@ numberdoses(1).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
+testid(t).
 end(model(2651)).
-%patient: it_0110_006620 index:2652
+
+%patient: it-0110-006620 index:2652
 begin(model(2652)).
 gender(f).
 race(white).
@@ -60594,9 +71307,9 @@ numberdoses(1).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
 end(model(2652)).
-%patient: it_0154_004788 index:2653
+
+%patient: it-0154-004788 index:2653
 begin(model(2653)).
 gender(m).
 race(white).
@@ -60607,9 +71320,10 @@ antis_0(4.81).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2653)).
-%patient: it_0155_006572 index:2654
+
+%patient: it-0155-006572 index:2654
 begin(model(2654)).
 gender(m).
 mobcat(9).
@@ -60618,8 +71332,10 @@ numberdoses(1).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
+testid(t).
 end(model(2654)).
-%patient: it_0152_005047 index:2655
+
+%patient: it-0152-005047 index:2655
 begin(model(2655)).
 gender(f).
 race(white).
@@ -60632,8 +71348,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(2655)).
-%patient: it_0152_005181 index:2656
+
+%patient: it-0152-005181 index:2656
 begin(model(2656)).
 gender(m).
 race(white).
@@ -60646,9 +71365,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2656)).
-%patient: it_0152_005455 index:2657
+
+%patient: it-0152-005455 index:2657
 begin(model(2657)).
 gender(f).
 race(white).
@@ -60661,9 +71381,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2657)).
-%patient: it_0152_005462 index:2658
+
+%patient: it-0152-005462 index:2658
 begin(model(2658)).
 gender(f).
 race(white).
@@ -60676,8 +71397,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2658)).
-%patient: it_0152_005154 index:2659
+
+%patient: it-0152-005154 index:2659
 begin(model(2659)).
 gender(f).
 race(white).
@@ -60690,8 +71414,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
 end(model(2659)).
-%patient: it_0152_005540 index:2660
+
+%patient: it-0152-005540 index:2660
 begin(model(2660)).
 gender(m).
 race(white).
@@ -60704,9 +71430,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2660)).
-%patient: it_0152_005142 index:2661
+
+%patient: it-0152-005142 index:2661
 begin(model(2661)).
 gender(m).
 race(white).
@@ -60719,8 +71446,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2661)).
-%patient: it_0152_005446 index:2662
+
+%patient: it-0152-005446 index:2662
 begin(model(2662)).
 gender(f).
 race(white).
@@ -60733,8 +71462,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2662)).
-%patient: it_0152_005478 index:2663
+
+%patient: it-0152-005478 index:2663
 begin(model(2663)).
 gender(f).
 race(white).
@@ -60747,9 +71479,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2663)).
-%patient: it_0152_004906 index:2664
+
+%patient: it-0152-004906 index:2664
 begin(model(2664)).
 gender(f).
 race(white).
@@ -60762,8 +71495,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2664)).
-%patient: it_0152_005060 index:2665
+
+%patient: it-0152-005060 index:2665
 begin(model(2665)).
 gender(m).
 race(white).
@@ -60776,8 +71511,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2665)).
-%patient: it_0152_005071 index:2666
+
+%patient: it-0152-005071 index:2666
 begin(model(2666)).
 gender(f).
 race(white).
@@ -60790,8 +71527,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2666)).
-%patient: it_0152_005074 index:2667
+
+%patient: it-0152-005074 index:2667
 begin(model(2667)).
 gender(m).
 race(white).
@@ -60804,9 +71543,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(2667)).
-%patient: it_0152_005077 index:2668
+
+%patient: it-0152-005077 index:2668
 begin(model(2668)).
 gender(f).
 race(white).
@@ -60819,8 +71560,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2668)).
-%patient: it_0152_005143 index:2669
+
+%patient: it-0152-005143 index:2669
 begin(model(2669)).
 gender(m).
 race(white).
@@ -60833,9 +71576,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2669)).
-%patient: it_0152_005179 index:2670
+
+%patient: it-0152-005179 index:2670
 begin(model(2670)).
 gender(f).
 race(white).
@@ -60848,8 +71592,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2670)).
-%patient: it_0152_005439 index:2671
+
+%patient: it-0152-005439 index:2671
 begin(model(2671)).
 gender(m).
 race(white).
@@ -60862,8 +71609,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2671)).
-%patient: it_0152_005451 index:2672
+
+%patient: it-0152-005451 index:2672
 begin(model(2672)).
 gender(m).
 race(white).
@@ -60876,9 +71625,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2672)).
-%patient: it_0152_005458 index:2673
+
+%patient: it-0152-005458 index:2673
 begin(model(2673)).
 gender(m).
 race(white).
@@ -60891,8 +71641,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2673)).
-%patient: it_0152_005546 index:2674
+
+%patient: it-0152-005546 index:2674
 begin(model(2674)).
 gender(m).
 race(white).
@@ -60905,9 +71658,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2674)).
-%patient: it_0152_004892 index:2675
+
+%patient: it-0152-004892 index:2675
 begin(model(2675)).
 gender(m).
 race(white).
@@ -60921,9 +71675,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2675)).
-%patient: it_0152_005499 index:2676
+
+%patient: it-0152-005499 index:2676
 begin(model(2676)).
 gender(f).
 race(white).
@@ -60936,8 +71691,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2676)).
-%patient: it_0152_005538 index:2677
+
+%patient: it-0152-005538 index:2677
 begin(model(2677)).
 gender(f).
 race(white).
@@ -60950,9 +71708,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2677)).
-%patient: it_0155_004175 index:2678
+
+%patient: it-0155-004175 index:2678
 begin(model(2678)).
 gender(f).
 race(white).
@@ -60966,8 +71725,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2678)).
-%patient: it_0155_006579 index:2679
+
+%patient: it-0155-006579 index:2679
 begin(model(2679)).
 gender(f).
 race(white).
@@ -60980,8 +71745,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2679)).
-%patient: it_0108_006546 index:2680
+
+%patient: it-0108-006546 index:2680
 begin(model(2680)).
 gender(f).
 race(white).
@@ -60993,9 +71763,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2680)).
-%patient: it_0155_004166 index:2681
+
+%patient: it-0155-004166 index:2681
 begin(model(2681)).
 gender(f).
 race(white).
@@ -61007,9 +71781,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2681)).
-%patient: it_0155_004168 index:2682
+
+%patient: it-0155-004168 index:2682
 begin(model(2682)).
 gender(f).
 race(white).
@@ -61022,9 +71801,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2682)).
-%patient: it_0155_004169 index:2683
+
+%patient: it-0155-004169 index:2683
 begin(model(2683)).
 gender(f).
 race(white).
@@ -61036,10 +71820,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2683)).
-%patient: it_0155_004171 index:2684
+
+%patient: it-0155-004171 index:2684
 begin(model(2684)).
 gender(f).
 race(white).
@@ -61052,9 +71841,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2684)).
-%patient: it_0155_004174 index:2685
+
+%patient: it-0155-004174 index:2685
 begin(model(2685)).
 gender(m).
 race(white).
@@ -61067,9 +71861,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2685)).
-%patient: it_0155_004176 index:2686
+
+%patient: it-0155-004176 index:2686
 begin(model(2686)).
 gender(f).
 race(white).
@@ -61081,9 +71880,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2686)).
-%patient: it_0155_004178 index:2687
+
+%patient: it-0155-004178 index:2687
 begin(model(2687)).
 gender(f).
 race(white).
@@ -61095,9 +71899,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2687)).
-%patient: it_0155_004182 index:2688
+
+%patient: it-0155-004182 index:2688
 begin(model(2688)).
 gender(f).
 race(white).
@@ -61109,9 +71918,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2688)).
-%patient: it_0155_004185 index:2689
+
+%patient: it-0155-004185 index:2689
 begin(model(2689)).
 gender(f).
 race(white).
@@ -61123,9 +71937,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2689)).
-%patient: it_0155_004189 index:2690
+
+%patient: it-0155-004189 index:2690
 begin(model(2690)).
 gender(m).
 race(white).
@@ -61137,9 +71956,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2690)).
-%patient: it_0155_004191 index:2691
+
+%patient: it-0155-004191 index:2691
 begin(model(2691)).
 gender(f).
 race(white).
@@ -61151,9 +71975,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2691)).
-%patient: it_0155_004195 index:2692
+
+%patient: it-0155-004195 index:2692
 begin(model(2692)).
 gender(f).
 race(white).
@@ -61166,9 +71995,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2692)).
-%patient: it_0155_004197 index:2693
+
+%patient: it-0155-004197 index:2693
 begin(model(2693)).
 gender(m).
 race(white).
@@ -61180,9 +72015,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2693)).
-%patient: it_0155_004167 index:2694
+
+%patient: it-0155-004167 index:2694
 begin(model(2694)).
 gender(f).
 race(white).
@@ -61194,9 +72034,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2694)).
-%patient: it_0155_004170 index:2695
+
+%patient: it-0155-004170 index:2695
 begin(model(2695)).
 gender(f).
 race(white).
@@ -61209,10 +72054,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2695)).
-%patient: it_0155_004173 index:2696
+
+%patient: it-0155-004173 index:2696
 begin(model(2696)).
 gender(f).
 race(white).
@@ -61224,9 +72073,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2696)).
-%patient: it_0155_004183 index:2697
+
+%patient: it-0155-004183 index:2697
 begin(model(2697)).
 gender(f).
 race(white).
@@ -61238,9 +72092,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2697)).
-%patient: it_0155_004186 index:2698
+
+%patient: it-0155-004186 index:2698
 begin(model(2698)).
 gender(f).
 race(white).
@@ -61253,9 +72112,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2698)).
-%patient: it_0155_004192 index:2699
+
+%patient: it-0155-004192 index:2699
 begin(model(2699)).
 gender(f).
 race(white).
@@ -61267,10 +72131,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2699)).
-%patient: it_0155_004193 index:2700
+
+%patient: it-0155-004193 index:2700
 begin(model(2700)).
 gender(m).
 race(white).
@@ -61282,9 +72151,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2700)).
-%patient: it_0155_004179 index:2701
+
+%patient: it-0155-004179 index:2701
 begin(model(2701)).
 gender(f).
 race(white).
@@ -61296,10 +72170,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2701)).
-%patient: it_0155_004180 index:2702
+
+%patient: it-0155-004180 index:2702
 begin(model(2702)).
 gender(f).
 race(white).
@@ -61311,10 +72189,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2702)).
-%patient: it_0155_004181 index:2703
+
+%patient: it-0155-004181 index:2703
 begin(model(2703)).
 gender(f).
 race(white).
@@ -61326,10 +72208,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2703)).
-%patient: it_0155_004184 index:2704
+
+%patient: it-0155-004184 index:2704
 begin(model(2704)).
 gender(f).
 race(white).
@@ -61342,10 +72228,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2704)).
-%patient: it_0155_004187 index:2705
+
+%patient: it-0155-004187 index:2705
 begin(model(2705)).
 gender(f).
 race(white).
@@ -61357,9 +72247,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2705)).
-%patient: it_0155_004196 index:2706
+
+%patient: it-0155-004196 index:2706
 begin(model(2706)).
 gender(m).
 race(white).
@@ -61371,10 +72266,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2706)).
-%patient: it_0155_004198 index:2707
+
+%patient: it-0155-004198 index:2707
 begin(model(2707)).
 gender(f).
 race(white).
@@ -61386,10 +72285,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2707)).
-%patient: it_0155_004188 index:2708
+
+%patient: it-0155-004188 index:2708
 begin(model(2708)).
 gender(f).
 race(white).
@@ -61401,9 +72304,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2708)).
-%patient: it_0155_004200 index:2709
+
+%patient: it-0155-004200 index:2709
 begin(model(2709)).
 gender(m).
 race(white).
@@ -61415,10 +72323,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2709)).
-%patient: it_0155_004201 index:2710
+
+%patient: it-0155-004201 index:2710
 begin(model(2710)).
 gender(f).
 race(white).
@@ -61430,9 +72342,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2710)).
-%patient: it_0155_004202 index:2711
+
+%patient: it-0155-004202 index:2711
 begin(model(2711)).
 gender(m).
 mobcat(9).
@@ -61443,9 +72360,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2711)).
-%patient: it_0143_004259 index:2712
+
+%patient: it-0143-004259 index:2712
 begin(model(2712)).
 gender(m).
 race(white).
@@ -61461,9 +72383,9 @@ mmsumrev(4).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
 end(model(2712)).
-%patient: it_0152_005466 index:2713
+
+%patient: it-0152-005466 index:2713
 begin(model(2713)).
 gender(f).
 race(white).
@@ -61483,8 +72405,11 @@ deltaantis612(39675.0).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2713)).
-%patient: it_0128_004706 index:2714
+
+%patient: it-0128-004706 index:2714
 begin(model(2714)).
 gender(f).
 race(white).
@@ -61500,9 +72425,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2714)).
-%patient: it_0128_004709 index:2715
+
+%patient: it-0128-004709 index:2715
 begin(model(2715)).
 gender(m).
 race(white).
@@ -61521,8 +72450,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2715)).
-%patient: it_0152_005156 index:2716
+
+%patient: it-0152-005156 index:2716
 begin(model(2716)).
 gender(f).
 race(white).
@@ -61540,8 +72474,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2716)).
-%patient: it_0152_005441 index:2717
+
+%patient: it-0152-005441 index:2717
 begin(model(2717)).
 gender(m).
 race(white).
@@ -61559,8 +72496,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2717)).
-%patient: it_0152_005467 index:2718
+
+%patient: it-0152-005467 index:2718
 begin(model(2718)).
 gender(f).
 race(white).
@@ -61587,9 +72526,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2718)).
-%patient: it_0152_005469 index:2719
+
+%patient: it-0152-005469 index:2719
 begin(model(2719)).
 gender(f).
 race(white).
@@ -61608,8 +72548,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(2719)).
-%patient: it_0152_005471 index:2720
+
+%patient: it-0152-005471 index:2720
 begin(model(2720)).
 gender(f).
 race(white).
@@ -61633,8 +72576,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2720)).
-%patient: it_0152_005468 index:2721
+
+%patient: it-0152-005468 index:2721
 begin(model(2721)).
 gender(f).
 race(white).
@@ -61658,8 +72603,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+testid(t).
 end(model(2721)).
-%patient: it_0020_003799 index:2722
+
+%patient: it-0020-003799 index:2722
 begin(model(2722)).
 gender(m).
 race(white).
@@ -61678,8 +72626,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2722)).
-%patient: it_0039_003788 index:2723
+
+%patient: it-0039-003788 index:2723
 begin(model(2723)).
 gender(m).
 race(white).
@@ -61696,8 +72650,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2723)).
-%patient: it_0062_000536 index:2724
+
+%patient: it-0062-000536 index:2724
 begin(model(2724)).
 gender(f).
 race(white).
@@ -61715,9 +72674,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2724)).
-%patient: it_0062_002174 index:2725
+
+%patient: it-0062-002174 index:2725
 begin(model(2725)).
 gender(m).
 race(white).
@@ -61733,9 +72696,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2725)).
-%patient: it_0062_002217 index:2726
+
+%patient: it-0062-002217 index:2726
 begin(model(2726)).
 gender(f).
 race(white).
@@ -61755,8 +72721,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2726)).
-%patient: it_0140_006436 index:2727
+
+%patient: it-0140-006436 index:2727
 begin(model(2727)).
 gender(f).
 race(white).
@@ -61781,8 +72752,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(1,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2727)).
-%patient: it_0140_006437 index:2728
+
+%patient: it-0140-006437 index:2728
 begin(model(2728)).
 gender(m).
 race(white).
@@ -61810,9 +72786,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(1,1).
+fluvaccine(1).
 end(model(2728)).
-%patient: it_0140_006439 index:2729
+
+%patient: it-0140-006439 index:2729
 begin(model(2729)).
 gender(m).
 race(white).
@@ -61834,8 +72812,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2729)).
-%patient: it_0140_006441 index:2730
+
+%patient: it-0140-006441 index:2730
 begin(model(2730)).
 gender(m).
 race(white).
@@ -61857,8 +72841,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2730)).
-%patient: it_0140_006537 index:2731
+
+%patient: it-0140-006537 index:2731
 begin(model(2731)).
 gender(f).
 race(white).
@@ -61883,9 +72871,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2731)).
-%patient: it_0140_006582 index:2732
+
+%patient: it-0140-006582 index:2732
 begin(model(2732)).
 gender(f).
 race(white).
@@ -61908,8 +72897,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2732)).
-%patient: it_0159_006077 index:2733
+
+%patient: it-0159-006077 index:2733
 begin(model(2733)).
 gender(m).
 race(white).
@@ -61928,8 +72922,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2733)).
-%patient: it_0159_006312 index:2734
+
+%patient: it-0159-006312 index:2734
 begin(model(2734)).
 gender(m).
 race(white).
@@ -61950,9 +72947,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2734)).
-%patient: it_0159_006313 index:2735
+
+%patient: it-0159-006313 index:2735
 begin(model(2735)).
 gender(f).
 race(white).
@@ -61972,9 +72970,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2735)).
-%patient: it_0159_006314 index:2736
+
+%patient: it-0159-006314 index:2736
 begin(model(2736)).
 gender(f).
 race(white).
@@ -61992,8 +72991,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2736)).
-%patient: it_0159_006315 index:2737
+
+%patient: it-0159-006315 index:2737
 begin(model(2737)).
 gender(m).
 race(white).
@@ -62011,8 +73012,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2737)).
-%patient: it_0159_006316 index:2738
+
+%patient: it-0159-006316 index:2738
 begin(model(2738)).
 gender(f).
 race(white).
@@ -62031,8 +73035,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2738)).
-%patient: it_0159_006317 index:2739
+
+%patient: it-0159-006317 index:2739
 begin(model(2739)).
 gender(f).
 race(white).
@@ -62053,9 +73059,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2739)).
-%patient: it_0159_006411 index:2740
+
+%patient: it-0159-006411 index:2740
 begin(model(2740)).
 gender(m).
 race(white).
@@ -62078,9 +73085,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2740)).
-%patient: it_0159_006412 index:2741
+
+%patient: it-0159-006412 index:2741
 begin(model(2741)).
 gender(m).
 race(white).
@@ -62099,9 +73107,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2741)).
-%patient: it_0159_006413 index:2742
+
+%patient: it-0159-006413 index:2742
 begin(model(2742)).
 gender(f).
 race(white).
@@ -62122,9 +73131,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2742)).
-%patient: it_0159_006414 index:2743
+
+%patient: it-0159-006414 index:2743
 begin(model(2743)).
 gender(f).
 race(white).
@@ -62145,8 +73155,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2743)).
-%patient: it_0159_006415 index:2744
+
+%patient: it-0159-006415 index:2744
 begin(model(2744)).
 gender(m).
 race(white).
@@ -62169,8 +73181,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2744)).
-%patient: it_0159_006558 index:2745
+
+%patient: it-0159-006558 index:2745
 begin(model(2745)).
 gender(f).
 race(white).
@@ -62189,9 +73203,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2745)).
-%patient: it_0159_006559 index:2746
+
+%patient: it-0159-006559 index:2746
 begin(model(2746)).
 gender(m).
 race(white).
@@ -62211,8 +73226,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2746)).
-%patient: it_0159_006563 index:2747
+
+%patient: it-0159-006563 index:2747
 begin(model(2747)).
 gender(m).
 race(white).
@@ -62232,9 +73250,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2747)).
-%patient: it_0159_006564 index:2748
+
+%patient: it-0159-006564 index:2748
 begin(model(2748)).
 gender(f).
 race(white).
@@ -62256,9 +73275,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2748)).
-%patient: it_0159_006565 index:2749
+
+%patient: it-0159-006565 index:2749
 begin(model(2749)).
 gender(f).
 race(white).
@@ -62280,8 +73300,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2749)).
-%patient: it_0159_006567 index:2750
+
+%patient: it-0159-006567 index:2750
 begin(model(2750)).
 gender(f).
 race(white).
@@ -62301,8 +73323,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2750)).
-%patient: it_0159_006568 index:2751
+
+%patient: it-0159-006568 index:2751
 begin(model(2751)).
 gender(f).
 race(white).
@@ -62323,9 +73347,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2751)).
-%patient: it_0159_006569 index:2752
+
+%patient: it-0159-006569 index:2752
 begin(model(2752)).
 gender(m).
 race(white).
@@ -62345,8 +73370,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2752)).
-%patient: it_0159_006570 index:2753
+
+%patient: it-0159-006570 index:2753
 begin(model(2753)).
 gender(f).
 race(white).
@@ -62372,8 +73399,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2753)).
-%patient: it_0159_006591 index:2754
+
+%patient: it-0159-006591 index:2754
 begin(model(2754)).
 gender(f).
 race(white).
@@ -62390,8 +73420,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2754)).
-%patient: it_0159_006593 index:2755
+
+%patient: it-0159-006593 index:2755
 begin(model(2755)).
 gender(f).
 race(white).
@@ -62411,9 +73443,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2755)).
-%patient: it_0159_006595 index:2756
+
+%patient: it-0159-006595 index:2756
 begin(model(2756)).
 gender(f).
 race(white).
@@ -62431,8 +73464,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2756)).
-%patient: it_0159_006596 index:2757
+
+%patient: it-0159-006596 index:2757
 begin(model(2757)).
 gender(f).
 race(white).
@@ -62455,8 +73490,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2757)).
-%patient: it_0159_006597 index:2758
+
+%patient: it-0159-006597 index:2758
 begin(model(2758)).
 gender(f).
 race(white).
@@ -62477,9 +73515,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2758)).
-%patient: it_0159_006599 index:2759
+
+%patient: it-0159-006599 index:2759
 begin(model(2759)).
 gender(f).
 race(white).
@@ -62501,8 +73540,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2759)).
-%patient: it_0120_005633 index:2760
+
+%patient: it-0120-005633 index:2760
 begin(model(2760)).
 gender(f).
 race(white).
@@ -62520,9 +73561,13 @@ excovidtot.
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2760)).
-%patient: it_0146_005419 index:2761
+
+%patient: it-0146-005419 index:2761
 begin(model(2761)).
 gender(f).
 race(white).
@@ -62538,8 +73583,12 @@ antis_0(4.81).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2761)).
-%patient: it_0155_006576 index:2762
+
+%patient: it-0155-006576 index:2762
 begin(model(2762)).
 gender(m).
 race(white).
@@ -62556,9 +73605,13 @@ mmsumrev(3).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(2,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2762)).
-%patient: it_0167_006832 index:2763
+
+%patient: it-0167-006832 index:2763
 begin(model(2763)).
 gender(f).
 race(white).
@@ -62572,8 +73625,13 @@ mmsumrev(3).
 who_f1(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(1,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2763)).
-%patient: it_0111_002381 index:2764
+
+%patient: it-0111-002381 index:2764
 begin(model(2764)).
 gender(f).
 race(white).
@@ -62592,8 +73650,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2764)).
-%patient: it_0111_006098 index:2765
+
+%patient: it-0111-006098 index:2765
 begin(model(2765)).
 gender(f).
 mobcat(1).
@@ -62611,8 +73675,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2765)).
-%patient: it_0111_005865 index:2766
+
+%patient: it-0111-005865 index:2766
 begin(model(2766)).
 gender(m).
 race(white).
@@ -62629,9 +73698,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2766)).
-%patient: it_0111_002733 index:2767
+
+%patient: it-0111-002733 index:2767
 begin(model(2767)).
 gender(f).
 race(white).
@@ -62653,8 +73723,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2767)).
-%patient: it_0111_003222 index:2768
+
+%patient: it-0111-003222 index:2768
 begin(model(2768)).
 gender(f).
 race(white).
@@ -62676,8 +73751,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2768)).
-%patient: it_0111_005621 index:2769
+
+%patient: it-0111-005621 index:2769
 begin(model(2769)).
 gender(m).
 race(white).
@@ -62696,9 +73776,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
 testid(t).
 end(model(2769)).
-%patient: it_0111_006065 index:2770
+
+%patient: it-0111-006065 index:2770
 begin(model(2770)).
 gender(m).
 race(white).
@@ -62721,8 +73803,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2770)).
-%patient: it_0111_006070 index:2771
+
+%patient: it-0111-006070 index:2771
 begin(model(2771)).
 gender(f).
 race(black).
@@ -62744,8 +73831,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2771)).
-%patient: it_0111_006071 index:2772
+
+%patient: it-0111-006071 index:2772
 begin(model(2772)).
 gender(m).
 race(black).
@@ -62766,8 +73858,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2772)).
-%patient: it_0111_006072 index:2773
+
+%patient: it-0111-006072 index:2773
 begin(model(2773)).
 gender(f).
 race(black).
@@ -62788,8 +73884,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2773)).
-%patient: it_0111_006073 index:2774
+
+%patient: it-0111-006073 index:2774
 begin(model(2774)).
 gender(f).
 race(black).
@@ -62814,8 +73916,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2774)).
-%patient: it_0111_006074 index:2775
+
+%patient: it-0111-006074 index:2775
 begin(model(2775)).
 gender(f).
 mobcat(4).
@@ -62836,8 +73944,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2775)).
-%patient: it_0111_006075 index:2776
+
+%patient: it-0111-006075 index:2776
 begin(model(2776)).
 gender(f).
 race(white).
@@ -62857,9 +73970,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2776)).
-%patient: it_0111_006076 index:2777
+
+%patient: it-0111-006076 index:2777
 begin(model(2777)).
 gender(f).
 race(white).
@@ -62879,9 +73997,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+antipneumovaccine(0).
 end(model(2777)).
-%patient: it_0111_006090 index:2778
+
+%patient: it-0111-006090 index:2778
 begin(model(2778)).
 gender(f).
 race(white).
@@ -62900,9 +74020,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2778)).
-%patient: it_0111_006091 index:2779
+
+%patient: it-0111-006091 index:2779
 begin(model(2779)).
 gender(m).
 race(white).
@@ -62923,8 +74047,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2779)).
-%patient: it_0111_006092 index:2780
+
+%patient: it-0111-006092 index:2780
 begin(model(2780)).
 gender(f).
 race(white).
@@ -62948,8 +74077,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2780)).
-%patient: it_0111_006093 index:2781
+
+%patient: it-0111-006093 index:2781
 begin(model(2781)).
 gender(f).
 race(white).
@@ -62967,8 +74100,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2781)).
-%patient: it_0111_006094 index:2782
+
+%patient: it-0111-006094 index:2782
 begin(model(2782)).
 gender(f).
 race(white).
@@ -62989,8 +74127,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2782)).
-%patient: it_0111_006095 index:2783
+
+%patient: it-0111-006095 index:2783
 begin(model(2783)).
 gender(f).
 race(white).
@@ -63011,8 +74154,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2783)).
-%patient: it_0111_006097 index:2784
+
+%patient: it-0111-006097 index:2784
 begin(model(2784)).
 gender(m).
 race(white).
@@ -63030,8 +74179,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2784)).
-%patient: it_0111_006100 index:2785
+
+%patient: it-0111-006100 index:2785
 begin(model(2785)).
 gender(f).
 race(white).
@@ -63051,8 +74205,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2785)).
-%patient: it_0111_006172 index:2786
+
+%patient: it-0111-006172 index:2786
 begin(model(2786)).
 gender(f).
 race(white).
@@ -63073,8 +74232,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2786)).
-%patient: it_0111_006175 index:2787
+
+%patient: it-0111-006175 index:2787
 begin(model(2787)).
 gender(m).
 race(white).
@@ -63092,8 +74256,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2787)).
-%patient: it_0111_006177 index:2788
+
+%patient: it-0111-006177 index:2788
 begin(model(2788)).
 gender(f).
 race(white).
@@ -63114,8 +74283,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2788)).
-%patient: it_0111_006179 index:2789
+
+%patient: it-0111-006179 index:2789
 begin(model(2789)).
 gender(m).
 race(white).
@@ -63138,8 +74312,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2789)).
-%patient: it_0111_006181 index:2790
+
+%patient: it-0111-006181 index:2790
 begin(model(2790)).
 gender(f).
 race(white).
@@ -63160,9 +74339,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2790)).
-%patient: it_0111_006220 index:2791
+
+%patient: it-0111-006220 index:2791
 begin(model(2791)).
 gender(m).
 race(white).
@@ -63180,8 +74363,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2791)).
-%patient: it_0111_006269 index:2792
+
+%patient: it-0111-006269 index:2792
 begin(model(2792)).
 gender(f).
 race(white).
@@ -63201,8 +74389,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2792)).
-%patient: it_0111_006271 index:2793
+
+%patient: it-0111-006271 index:2793
 begin(model(2793)).
 gender(f).
 race(white).
@@ -63223,9 +74416,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2793)).
-%patient: it_0111_006318 index:2794
+
+%patient: it-0111-006318 index:2794
 begin(model(2794)).
 gender(f).
 race(white).
@@ -63246,8 +74444,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2794)).
-%patient: it_0111_006319 index:2795
+
+%patient: it-0111-006319 index:2795
 begin(model(2795)).
 gender(f).
 race(white).
@@ -63267,8 +74470,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2795)).
-%patient: it_0111_006320 index:2796
+
+%patient: it-0111-006320 index:2796
 begin(model(2796)).
 gender(f).
 race(white).
@@ -63287,9 +74495,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2796)).
-%patient: it_0111_006321 index:2797
+
+%patient: it-0111-006321 index:2797
 begin(model(2797)).
 gender(m).
 race(white).
@@ -63309,8 +74522,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2797)).
-%patient: it_0111_006322 index:2798
+
+%patient: it-0111-006322 index:2798
 begin(model(2798)).
 gender(m).
 race(white).
@@ -63331,8 +74549,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2798)).
-%patient: it_0111_006328 index:2799
+
+%patient: it-0111-006328 index:2799
 begin(model(2799)).
 gender(m).
 race(white).
@@ -63348,8 +74571,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(2799)).
-%patient: it_0111_006329 index:2800
+
+%patient: it-0111-006329 index:2800
 begin(model(2800)).
 gender(m).
 race(white).
@@ -63370,9 +74597,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
 end(model(2800)).
-%patient: it_0111_006330 index:2801
+
+%patient: it-0111-006330 index:2801
 begin(model(2801)).
 gender(f).
 race(white).
@@ -63387,8 +74616,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2801)).
-%patient: it_0111_006331 index:2802
+
+%patient: it-0111-006331 index:2802
 begin(model(2802)).
 gender(m).
 race(white).
@@ -63410,9 +74643,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2802)).
-%patient: it_0111_006332 index:2803
+
+%patient: it-0111-006332 index:2803
 begin(model(2803)).
 gender(f).
 race(white).
@@ -63427,9 +74664,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2803)).
-%patient: it_0111_006333 index:2804
+
+%patient: it-0111-006333 index:2804
 begin(model(2804)).
 gender(m).
 race(white).
@@ -63450,8 +74692,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2804)).
-%patient: it_0111_006334 index:2805
+
+%patient: it-0111-006334 index:2805
 begin(model(2805)).
 gender(m).
 race(white).
@@ -63473,8 +74721,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2805)).
-%patient: it_0111_006335 index:2806
+
+%patient: it-0111-006335 index:2806
 begin(model(2806)).
 gender(f).
 race(white).
@@ -63492,8 +74745,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2806)).
-%patient: it_0111_006336 index:2807
+
+%patient: it-0111-006336 index:2807
 begin(model(2807)).
 gender(f).
 race(white).
@@ -63514,8 +74772,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2807)).
-%patient: it_0111_006337 index:2808
+
+%patient: it-0111-006337 index:2808
 begin(model(2808)).
 gender(f).
 race(white).
@@ -63533,8 +74796,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2808)).
-%patient: it_0111_006338 index:2809
+
+%patient: it-0111-006338 index:2809
 begin(model(2809)).
 gender(f).
 race(white).
@@ -63556,8 +74824,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2809)).
-%patient: it_0111_006339 index:2810
+
+%patient: it-0111-006339 index:2810
 begin(model(2810)).
 gender(f).
 race(white).
@@ -63577,8 +74851,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+testid(t).
 end(model(2810)).
-%patient: it_0111_006341 index:2811
+
+%patient: it-0111-006341 index:2811
 begin(model(2811)).
 gender(f).
 race(white).
@@ -63599,8 +74878,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2811)).
-%patient: it_0111_006342 index:2812
+
+%patient: it-0111-006342 index:2812
 begin(model(2812)).
 gender(m).
 race(white).
@@ -63619,9 +74904,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2812)).
-%patient: it_0111_006345 index:2813
+
+%patient: it-0111-006345 index:2813
 begin(model(2813)).
 gender(m).
 race(white).
@@ -63640,9 +74929,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
 testid(t).
 end(model(2813)).
-%patient: it_0111_006347 index:2814
+
+%patient: it-0111-006347 index:2814
 begin(model(2814)).
 gender(m).
 race(white).
@@ -63659,9 +74952,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2814)).
-%patient: it_0111_006350 index:2815
+
+%patient: it-0111-006350 index:2815
 begin(model(2815)).
 gender(m).
 race(white).
@@ -63679,8 +74977,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2815)).
-%patient: it_0111_006351 index:2816
+
+%patient: it-0111-006351 index:2816
 begin(model(2816)).
 gender(f).
 race(white).
@@ -63699,8 +75002,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2816)).
-%patient: it_0111_006354 index:2817
+
+%patient: it-0111-006354 index:2817
 begin(model(2817)).
 gender(f).
 race(white).
@@ -63717,9 +75025,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2817)).
-%patient: it_0111_006356 index:2818
+
+%patient: it-0111-006356 index:2818
 begin(model(2818)).
 gender(f).
 race(white).
@@ -63739,9 +75051,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2818)).
-%patient: it_0111_006362 index:2819
+
+%patient: it-0111-006362 index:2819
 begin(model(2819)).
 gender(f).
 race(white).
@@ -63762,9 +75079,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2819)).
-%patient: it_0111_006364 index:2820
+
+%patient: it-0111-006364 index:2820
 begin(model(2820)).
 gender(f).
 race(white).
@@ -63788,8 +75110,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2820)).
-%patient: it_0111_006365 index:2821
+
+%patient: it-0111-006365 index:2821
 begin(model(2821)).
 gender(m).
 race(white).
@@ -63806,8 +75133,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2821)).
-%patient: it_0111_006366 index:2822
+
+%patient: it-0111-006366 index:2822
 begin(model(2822)).
 gender(f).
 race(white).
@@ -63829,8 +75161,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2822)).
-%patient: it_0111_006368 index:2823
+
+%patient: it-0111-006368 index:2823
 begin(model(2823)).
 gender(f).
 race(white).
@@ -63851,8 +75188,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2823)).
-%patient: it_0111_006369 index:2824
+
+%patient: it-0111-006369 index:2824
 begin(model(2824)).
 gender(f).
 race(white).
@@ -63869,9 +75211,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2824)).
-%patient: it_0111_006513 index:2825
+
+%patient: it-0111-006513 index:2825
 begin(model(2825)).
 gender(m).
 race(white).
@@ -63887,8 +75233,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(2825)).
-%patient: it_0111_006514 index:2826
+
+%patient: it-0111-006514 index:2826
 begin(model(2826)).
 gender(m).
 race(white).
@@ -63906,8 +75256,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2826)).
-%patient: it_0126_004271 index:2827
+
+%patient: it-0126-004271 index:2827
 begin(model(2827)).
 gender(f).
 race(white).
@@ -63930,9 +75286,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2827)).
-%patient: it_0126_004999 index:2828
+
+%patient: it-0126-004999 index:2828
 begin(model(2828)).
 gender(f).
 race(white).
@@ -63959,8 +75319,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2828)).
-%patient: it_0140_005622 index:2829
+
+%patient: it-0140-005622 index:2829
 begin(model(2829)).
 gender(f).
 race(white).
@@ -63983,9 +75349,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(1,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2829)).
-%patient: it_0140_005623 index:2830
+
+%patient: it-0140-005623 index:2830
 begin(model(2830)).
 gender(f).
 race(white).
@@ -64013,8 +75384,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+vzvvaccine(0).
+testid(t).
 end(model(2830)).
-%patient: it_0143_005310 index:2831
+
+%patient: it-0143-005310 index:2831
 begin(model(2831)).
 gender(f).
 mobcat(4).
@@ -64035,9 +75410,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2831)).
-%patient: it_0108_002702 index:2832
+
+%patient: it-0108-002702 index:2832
 begin(model(2832)).
 gender(f).
 race(white).
@@ -64059,8 +75435,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2832)).
-%patient: it_0111_006272 index:2833
+
+%patient: it-0111-006272 index:2833
 begin(model(2833)).
 gender(m).
 race(white).
@@ -64083,8 +75464,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2833)).
-%patient: it_0111_006275 index:2834
+
+%patient: it-0111-006275 index:2834
 begin(model(2834)).
 gender(f).
 race(white).
@@ -64101,10 +75487,13 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2834)).
-%patient: it_0111_006348 index:2835
+
+%patient: it-0111-006348 index:2835
 begin(model(2835)).
 gender(f).
 race(white).
@@ -64123,8 +75512,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(2835)).
-%patient: it_0111_006358 index:2836
+
+%patient: it-0111-006358 index:2836
 begin(model(2836)).
 gender(f).
 race(white).
@@ -64146,9 +75539,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
 end(model(2836)).
-%patient: it_0102_005199 index:2837
+
+%patient: it-0102-005199 index:2837
 begin(model(2837)).
 gender(f).
 race(white).
@@ -64172,8 +75568,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2837)).
-%patient: it_0111_005792 index:2838
+
+%patient: it-0111-005792 index:2838
 begin(model(2838)).
 gender(f).
 race(white).
@@ -64194,8 +75595,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2838)).
-%patient: it_0111_005794 index:2839
+
+%patient: it-0111-005794 index:2839
 begin(model(2839)).
 gender(m).
 race(white).
@@ -64216,9 +75623,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2839)).
-%patient: it_0111_005796 index:2840
+
+%patient: it-0111-005796 index:2840
 begin(model(2840)).
 gender(f).
 race(white).
@@ -64234,9 +75646,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2840)).
-%patient: it_0111_005797 index:2841
+
+%patient: it-0111-005797 index:2841
 begin(model(2841)).
 gender(f).
 race(white).
@@ -64255,9 +75671,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2841)).
-%patient: it_0111_005798 index:2842
+
+%patient: it-0111-005798 index:2842
 begin(model(2842)).
 gender(f).
 race(white).
@@ -64279,8 +75699,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2842)).
-%patient: it_0111_005799 index:2843
+
+%patient: it-0111-005799 index:2843
 begin(model(2843)).
 gender(m).
 race(white).
@@ -64299,8 +75725,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2843)).
-%patient: it_0111_005801 index:2844
+
+%patient: it-0111-005801 index:2844
 begin(model(2844)).
 gender(f).
 race(white).
@@ -64319,9 +75750,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2844)).
-%patient: it_0111_005802 index:2845
+
+%patient: it-0111-005802 index:2845
 begin(model(2845)).
 gender(f).
 race(white).
@@ -64341,8 +75776,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2845)).
-%patient: it_0111_005804 index:2846
+
+%patient: it-0111-005804 index:2846
 begin(model(2846)).
 gender(f).
 race(white).
@@ -64361,9 +75798,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2846)).
-%patient: it_0111_005805 index:2847
+
+%patient: it-0111-005805 index:2847
 begin(model(2847)).
 gender(f).
 race(white).
@@ -64382,8 +75821,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2847)).
-%patient: it_0111_005806 index:2848
+
+%patient: it-0111-005806 index:2848
 begin(model(2848)).
 gender(f).
 race(white).
@@ -64401,8 +75846,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2848)).
-%patient: it_0111_005808 index:2849
+
+%patient: it-0111-005808 index:2849
 begin(model(2849)).
 gender(f).
 race(white).
@@ -64424,9 +75874,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2849)).
-%patient: it_0111_005809 index:2850
+
+%patient: it-0111-005809 index:2850
 begin(model(2850)).
 gender(f).
 race(black).
@@ -64448,8 +75902,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2850)).
-%patient: it_0111_005853 index:2851
+
+%patient: it-0111-005853 index:2851
 begin(model(2851)).
 gender(f).
 race(white).
@@ -64467,8 +75927,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2851)).
-%patient: it_0111_005854 index:2852
+
+%patient: it-0111-005854 index:2852
 begin(model(2852)).
 gender(f).
 race(white).
@@ -64491,8 +75956,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2852)).
-%patient: it_0111_005855 index:2853
+
+%patient: it-0111-005855 index:2853
 begin(model(2853)).
 gender(f).
 race(white).
@@ -64510,8 +75981,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2853)).
-%patient: it_0111_005856 index:2854
+
+%patient: it-0111-005856 index:2854
 begin(model(2854)).
 gender(f).
 race(white).
@@ -64527,8 +76003,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2854)).
-%patient: it_0111_005857 index:2855
+
+%patient: it-0111-005857 index:2855
 begin(model(2855)).
 gender(f).
 race(white).
@@ -64548,9 +76029,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2855)).
-%patient: it_0111_005858 index:2856
+
+%patient: it-0111-005858 index:2856
 begin(model(2856)).
 gender(f).
 race(white).
@@ -64571,9 +76057,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2856)).
-%patient: it_0111_005859 index:2857
+
+%patient: it-0111-005859 index:2857
 begin(model(2857)).
 gender(f).
 race(white).
@@ -64593,9 +76083,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2857)).
-%patient: it_0111_005860 index:2858
+
+%patient: it-0111-005860 index:2858
 begin(model(2858)).
 gender(f).
 race(white).
@@ -64614,8 +76109,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2858)).
-%patient: it_0111_005861 index:2859
+
+%patient: it-0111-005861 index:2859
 begin(model(2859)).
 gender(f).
 race(white).
@@ -64632,8 +76132,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2859)).
-%patient: it_0111_005862 index:2860
+
+%patient: it-0111-005862 index:2860
 begin(model(2860)).
 gender(f).
 race(white).
@@ -64654,9 +76159,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2860)).
-%patient: it_0111_005863 index:2861
+
+%patient: it-0111-005863 index:2861
 begin(model(2861)).
 gender(m).
 race(white).
@@ -64674,8 +76183,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2861)).
-%patient: it_0111_005864 index:2862
+
+%patient: it-0111-005864 index:2862
 begin(model(2862)).
 gender(m).
 race(white).
@@ -64694,8 +76209,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2862)).
-%patient: it_0111_005866 index:2863
+
+%patient: it-0111-005866 index:2863
 begin(model(2863)).
 gender(m).
 race(white).
@@ -64715,8 +76236,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2863)).
-%patient: it_0111_005868 index:2864
+
+%patient: it-0111-005868 index:2864
 begin(model(2864)).
 gender(m).
 race(white).
@@ -64734,8 +76257,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2864)).
-%patient: it_0111_005874 index:2865
+
+%patient: it-0111-005874 index:2865
 begin(model(2865)).
 gender(m).
 race(white).
@@ -64756,8 +76284,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2865)).
-%patient: it_0124_005132 index:2866
+
+%patient: it-0124-005132 index:2866
 begin(model(2866)).
 gender(m).
 race(white).
@@ -64774,9 +76307,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2866)).
-%patient: it_0102_004163 index:2867
+
+%patient: it-0102-004163 index:2867
 begin(model(2867)).
 gender(f).
 race(white).
@@ -64800,8 +76337,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2867)).
-%patient: it_0106_006741 index:2868
+
+%patient: it-0106-006741 index:2868
 begin(model(2868)).
 gender(m).
 race(white).
@@ -64821,9 +76363,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2868)).
-%patient: it_0111_005852 index:2869
+
+%patient: it-0111-005852 index:2869
 begin(model(2869)).
 gender(f).
 race(black).
@@ -64844,8 +76390,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2869)).
-%patient: it_0111_005873 index:2870
+
+%patient: it-0111-005873 index:2870
 begin(model(2870)).
 gender(m).
 race(white).
@@ -64866,9 +76417,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2870)).
-%patient: it_0124_004886 index:2871
+
+%patient: it-0124-004886 index:2871
 begin(model(2871)).
 gender(m).
 race(white).
@@ -64884,8 +76439,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2871)).
-%patient: it_0124_005279 index:2872
+
+%patient: it-0124-005279 index:2872
 begin(model(2872)).
 gender(f).
 race(white).
@@ -64905,8 +76466,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2872)).
-%patient: it_0146_005228 index:2873
+
+%patient: it-0146-005228 index:2873
 begin(model(2873)).
 gender(f).
 race(white).
@@ -64927,9 +76494,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2873)).
-%patient: it_0111_005781 index:2874
+
+%patient: it-0111-005781 index:2874
 begin(model(2874)).
 gender(f).
 race(white).
@@ -64950,8 +76521,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(2874)).
-%patient: it_0111_005870 index:2875
+
+%patient: it-0111-005870 index:2875
 begin(model(2875)).
 gender(m).
 race(white).
@@ -64969,9 +76544,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(2875)).
-%patient: it_0111_005871 index:2876
+
+%patient: it-0111-005871 index:2876
 begin(model(2876)).
 gender(m).
 race(white).
@@ -64990,8 +76568,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2876)).
-%patient: it_0111_005872 index:2877
+
+%patient: it-0111-005872 index:2877
 begin(model(2877)).
 gender(m).
 race(white).
@@ -65008,8 +76591,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2877)).
-%patient: it_0124_004888 index:2878
+
+%patient: it-0124-004888 index:2878
 begin(model(2878)).
 gender(m).
 race(white).
@@ -65028,8 +76617,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2878)).
-%patient: it_0124_005130 index:2879
+
+%patient: it-0124-005130 index:2879
 begin(model(2879)).
 gender(f).
 race(white).
@@ -65047,8 +76641,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2879)).
-%patient: it_0124_005135 index:2880
+
+%patient: it-0124-005135 index:2880
 begin(model(2880)).
 gender(f).
 race(white).
@@ -65068,9 +76667,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2880)).
-%patient: it_0124_005136 index:2881
+
+%patient: it-0124-005136 index:2881
 begin(model(2881)).
 gender(f).
 race(white).
@@ -65090,8 +76693,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2881)).
-%patient: it_0124_005137 index:2882
+
+%patient: it-0124-005137 index:2882
 begin(model(2882)).
 gender(f).
 race(white).
@@ -65115,8 +76723,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2882)).
-%patient: it_0124_005138 index:2883
+
+%patient: it-0124-005138 index:2883
 begin(model(2883)).
 gender(m).
 race(white).
@@ -65139,9 +76752,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2883)).
-%patient: it_0124_005139 index:2884
+
+%patient: it-0124-005139 index:2884
 begin(model(2884)).
 gender(f).
 race(white).
@@ -65158,8 +76775,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2884)).
-%patient: it_0124_005140 index:2885
+
+%patient: it-0124-005140 index:2885
 begin(model(2885)).
 gender(m).
 race(white).
@@ -65182,8 +76804,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2885)).
-%patient: it_0124_005240 index:2886
+
+%patient: it-0124-005240 index:2886
 begin(model(2886)).
 gender(m).
 race(white).
@@ -65203,8 +76830,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2886)).
-%patient: it_0124_005241 index:2887
+
+%patient: it-0124-005241 index:2887
 begin(model(2887)).
 gender(m).
 race(white).
@@ -65228,8 +76861,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2887)).
-%patient: it_0124_005253 index:2888
+
+%patient: it-0124-005253 index:2888
 begin(model(2888)).
 gender(m).
 race(white).
@@ -65248,9 +76886,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2888)).
-%patient: it_0124_005262 index:2889
+
+%patient: it-0124-005262 index:2889
 begin(model(2889)).
 gender(f).
 race(white).
@@ -65271,8 +76913,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2889)).
-%patient: it_0124_004882 index:2890
+
+%patient: it-0124-004882 index:2890
 begin(model(2890)).
 gender(f).
 race(white).
@@ -65289,8 +76936,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2890)).
-%patient: it_0137_005430 index:2891
+
+%patient: it-0137-005430 index:2891
 begin(model(2891)).
 gender(m).
 race(white).
@@ -65309,9 +76962,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2891)).
-%patient: it_0125_003929 index:2892
+
+%patient: it-0125-003929 index:2892
 begin(model(2892)).
 gender(f).
 race(white).
@@ -65332,8 +76986,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2892)).
-%patient: it_0125_006428 index:2893
+
+%patient: it-0125-006428 index:2893
 begin(model(2893)).
 gender(f).
 race(white).
@@ -65359,9 +77018,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+vzvvaccine(0).
 end(model(2893)).
-%patient: it_0125_004883 index:2894
+
+%patient: it-0125-004883 index:2894
 begin(model(2894)).
 gender(m).
 race(white).
@@ -65387,9 +77049,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2894)).
-%patient: it_0039_000388 index:2895
+
+%patient: it-0039-000388 index:2895
 begin(model(2895)).
 gender(f).
 race(white).
@@ -65411,8 +77078,12 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2895)).
-%patient: it_0039_003853 index:2896
+
+%patient: it-0039-003853 index:2896
 begin(model(2896)).
 gender(f).
 race(white).
@@ -65433,8 +77104,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2896)).
-%patient: it_0042_003625 index:2897
+
+%patient: it-0042-003625 index:2897
 begin(model(2897)).
 gender(f).
 race(white).
@@ -65455,9 +77131,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2897)).
-%patient: it_0125_004628 index:2898
+
+%patient: it-0125-004628 index:2898
 begin(model(2898)).
 gender(f).
 race(white).
@@ -65479,8 +77160,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2898)).
-%patient: it_0126_005121 index:2899
+
+%patient: it-0126-005121 index:2899
 begin(model(2899)).
 gender(m).
 race(white).
@@ -65505,8 +77191,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2899)).
-%patient: it_0126_005194 index:2900
+
+%patient: it-0126-005194 index:2900
 begin(model(2900)).
 gender(f).
 race(white).
@@ -65528,8 +77219,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2900)).
-%patient: it_0126_005198 index:2901
+
+%patient: it-0126-005198 index:2901
 begin(model(2901)).
 gender(f).
 race(white).
@@ -65551,8 +77247,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2901)).
-%patient: it_0126_005201 index:2902
+
+%patient: it-0126-005201 index:2902
 begin(model(2902)).
 gender(f).
 race(white).
@@ -65576,9 +77277,14 @@ who_f2(1).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2902)).
-%patient: it_0126_005345 index:2903
+
+%patient: it-0126-005345 index:2903
 begin(model(2903)).
 gender(f).
 race(white).
@@ -65603,9 +77309,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2903)).
-%patient: it_0152_004990 index:2904
+
+%patient: it-0152-004990 index:2904
 begin(model(2904)).
 gender(f).
 race(white).
@@ -65623,8 +77333,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2904)).
-%patient: it_0152_005011 index:2905
+
+%patient: it-0152-005011 index:2905
 begin(model(2905)).
 gender(f).
 race(white).
@@ -65643,8 +77355,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(2905)).
-%patient: it_0152_005493 index:2906
+
+%patient: it-0152-005493 index:2906
 begin(model(2906)).
 gender(m).
 race(white).
@@ -65663,8 +77378,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
 end(model(2906)).
-%patient: it_0152_005504 index:2907
+
+%patient: it-0152-005504 index:2907
 begin(model(2907)).
 gender(f).
 race(white).
@@ -65682,8 +77399,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
+testid(t).
 end(model(2907)).
-%patient: it_0169_006156 index:2908
+
+%patient: it-0169-006156 index:2908
 begin(model(2908)).
 gender(f).
 race(white).
@@ -65706,8 +77426,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2908)).
-%patient: it_0171_006260 index:2909
+
+%patient: it-0171-006260 index:2909
 begin(model(2909)).
 gender(f).
 race(white).
@@ -65727,8 +77453,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2909)).
-%patient: it_0109_005949 index:2910
+
+%patient: it-0109-005949 index:2910
 begin(model(2910)).
 gender(f).
 race(white).
@@ -65748,8 +77479,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2910)).
-%patient: it_0109_006018 index:2911
+
+%patient: it-0109-006018 index:2911
 begin(model(2911)).
 gender(m).
 race(white).
@@ -65772,9 +77505,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(2911)).
-%patient: it_0129_004237 index:2912
+
+%patient: it-0129-004237 index:2912
 begin(model(2912)).
 gender(m).
 race(white).
@@ -65791,8 +77526,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2912)).
-%patient: it_0129_004668 index:2913
+
+%patient: it-0129-004668 index:2913
 begin(model(2913)).
 gender(f).
 race(white).
@@ -65812,8 +77552,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2913)).
-%patient: it_0129_004669 index:2914
+
+%patient: it-0129-004669 index:2914
 begin(model(2914)).
 gender(f).
 race(white).
@@ -65834,9 +77579,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2914)).
-%patient: it_0129_004670 index:2915
+
+%patient: it-0129-004670 index:2915
 begin(model(2915)).
 gender(f).
 race(white).
@@ -65853,8 +77603,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2915)).
-%patient: it_0129_004671 index:2916
+
+%patient: it-0129-004671 index:2916
 begin(model(2916)).
 gender(f).
 race(white).
@@ -65876,9 +77632,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2916)).
-%patient: it_0129_004749 index:2917
+
+%patient: it-0129-004749 index:2917
 begin(model(2917)).
 gender(m).
 race(white).
@@ -65903,8 +77663,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2917)).
-%patient: it_0129_004756 index:2918
+
+%patient: it-0129-004756 index:2918
 begin(model(2918)).
 gender(f).
 race(white).
@@ -65923,8 +77688,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2918)).
-%patient: it_0129_004757 index:2919
+
+%patient: it-0129-004757 index:2919
 begin(model(2919)).
 gender(f).
 race(white).
@@ -65949,8 +77720,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2919)).
-%patient: it_0137_005515 index:2920
+
+%patient: it-0137-005515 index:2920
 begin(model(2920)).
 gender(f).
 race(white).
@@ -65973,8 +77750,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2920)).
-%patient: it_0138_004464 index:2921
+
+%patient: it-0138-004464 index:2921
 begin(model(2921)).
 gender(f).
 race(white).
@@ -65992,8 +77775,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2921)).
-%patient: it_0109_006017 index:2922
+
+%patient: it-0109-006017 index:2922
 begin(model(2922)).
 gender(f).
 race(white).
@@ -66017,8 +77805,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2922)).
-%patient: it_0109_006020 index:2923
+
+%patient: it-0109-006020 index:2923
 begin(model(2923)).
 gender(f).
 race(white).
@@ -66037,8 +77828,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2923)).
-%patient: it_0125_005722 index:2924
+
+%patient: it-0125-005722 index:2924
 begin(model(2924)).
 gender(m).
 race(white).
@@ -66061,8 +77857,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2924)).
-%patient: it_0126_005411 index:2925
+
+%patient: it-0126-005411 index:2925
 begin(model(2925)).
 gender(f).
 race(white).
@@ -66081,8 +77879,14 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2925)).
-%patient: it_0126_005599 index:2926
+
+%patient: it-0126-005599 index:2926
 begin(model(2926)).
 gender(f).
 race(white).
@@ -66103,8 +77907,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2926)).
-%patient: it_0126_005604 index:2927
+
+%patient: it-0126-005604 index:2927
 begin(model(2927)).
 gender(m).
 race(white).
@@ -66126,9 +77935,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2927)).
-%patient: it_0126_006447 index:2928
+
+%patient: it-0126-006447 index:2928
 begin(model(2928)).
 gender(f).
 race(white).
@@ -66145,8 +77958,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(2928)).
-%patient: it_0143_004258 index:2929
+
+%patient: it-0143-004258 index:2929
 begin(model(2929)).
 gender(f).
 race(white).
@@ -66165,8 +77980,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
 end(model(2929)).
-%patient: it_0152_005479 index:2930
+
+%patient: it-0152-005479 index:2930
 begin(model(2930)).
 gender(f).
 race(white).
@@ -66183,8 +78000,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,1).
 end(model(2930)).
-%patient: it_0152_005481 index:2931
+
+%patient: it-0152-005481 index:2931
 begin(model(2931)).
 gender(m).
 race(white).
@@ -66203,9 +78022,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
 end(model(2931)).
-%patient: it_0146_004494 index:2932
+
+%patient: it-0146-004494 index:2932
 begin(model(2932)).
 gender(f).
 race(white).
@@ -66226,9 +78046,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2932)).
-%patient: it_0132_005595 index:2933
+
+%patient: it-0132-005595 index:2933
 begin(model(2933)).
 gender(f).
 race(white).
@@ -66250,9 +78074,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2933)).
-%patient: it_0126_004588 index:2934
+
+%patient: it-0126-004588 index:2934
 begin(model(2934)).
 gender(f).
 race(white).
@@ -66276,9 +78101,10 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(2934)).
-%patient: it_0126_004592 index:2935
+
+%patient: it-0126-004592 index:2935
 begin(model(2935)).
 gender(f).
 race(white).
@@ -66300,8 +78126,11 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
 end(model(2935)).
-%patient: it_0126_006609 index:2936
+
+%patient: it-0126-006609 index:2936
 begin(model(2936)).
 gender(f).
 race(white).
@@ -66319,8 +78148,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(2936)).
-%patient: it_0103_005970 index:2937
+
+%patient: it-0103-005970 index:2937
 begin(model(2937)).
 gender(f).
 race(white).
@@ -66342,9 +78175,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2937)).
-%patient: it_0103_006135 index:2938
+
+%patient: it-0103-006135 index:2938
 begin(model(2938)).
 gender(m).
 race(white).
@@ -66364,8 +78203,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2938)).
-%patient: it_0103_005966 index:2939
+
+%patient: it-0103-005966 index:2939
 begin(model(2939)).
 gender(f).
 race(white).
@@ -66388,9 +78232,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2939)).
-%patient: it_0103_005992 index:2940
+
+%patient: it-0103-005992 index:2940
 begin(model(2940)).
 gender(f).
 race(white).
@@ -66411,9 +78261,15 @@ who_f2(0).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2940)).
-%patient: it_0137_005497 index:2941
+
+%patient: it-0137-005497 index:2941
 begin(model(2941)).
 gender(f).
 race(white).
@@ -66434,9 +78290,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2941)).
-%patient: it_0039_003856 index:2942
+
+%patient: it-0039-003856 index:2942
 begin(model(2942)).
 gender(f).
 race(white).
@@ -66458,8 +78316,13 @@ who_f3(4).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2942)).
-%patient: it_0146_006407 index:2943
+
+%patient: it-0146-006407 index:2943
 begin(model(2943)).
 gender(f).
 race(white).
@@ -66481,8 +78344,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2943)).
-%patient: it_0155_006578 index:2944
+
+%patient: it-0155-006578 index:2944
 begin(model(2944)).
 gender(m).
 race(white).
@@ -66501,8 +78369,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2944)).
-%patient: it_0121_005679 index:2945
+
+%patient: it-0121-005679 index:2945
 begin(model(2945)).
 gender(f).
 race(white).
@@ -66526,8 +78400,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2945)).
-%patient: it_0121_005685 index:2946
+
+%patient: it-0121-005685 index:2946
 begin(model(2946)).
 gender(m).
 race(white).
@@ -66549,9 +78429,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2946)).
-%patient: it_0121_005686 index:2947
+
+%patient: it-0121-005686 index:2947
 begin(model(2947)).
 gender(f).
 race(white).
@@ -66573,8 +78458,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2947)).
-%patient: it_0103_005968 index:2948
+
+%patient: it-0103-005968 index:2948
 begin(model(2948)).
 gender(m).
 race(white).
@@ -66595,10 +78485,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2948)).
-%patient: it_0121_005671 index:2949
+
+%patient: it-0121-005671 index:2949
 begin(model(2949)).
 gender(f).
 race(white).
@@ -66616,8 +78510,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2949)).
-%patient: it_0121_005673 index:2950
+
+%patient: it-0121-005673 index:2950
 begin(model(2950)).
 gender(f).
 race(white).
@@ -66643,8 +78543,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2950)).
-%patient: it_0121_005674 index:2951
+
+%patient: it-0121-005674 index:2951
 begin(model(2951)).
 gender(f).
 race(white).
@@ -66665,8 +78571,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2951)).
-%patient: it_0121_005675 index:2952
+
+%patient: it-0121-005675 index:2952
 begin(model(2952)).
 gender(f).
 race(white).
@@ -66687,8 +78598,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2952)).
-%patient: it_0121_005676 index:2953
+
+%patient: it-0121-005676 index:2953
 begin(model(2953)).
 gender(f).
 race(white).
@@ -66705,8 +78621,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2953)).
-%patient: it_0121_005677 index:2954
+
+%patient: it-0121-005677 index:2954
 begin(model(2954)).
 gender(m).
 race(white).
@@ -66728,8 +78649,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2954)).
-%patient: it_0121_005678 index:2955
+
+%patient: it-0121-005678 index:2955
 begin(model(2955)).
 gender(f).
 race(white).
@@ -66748,8 +78674,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2955)).
-%patient: it_0121_005680 index:2956
+
+%patient: it-0121-005680 index:2956
 begin(model(2956)).
 gender(m).
 race(white).
@@ -66771,8 +78702,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2956)).
-%patient: it_0121_005681 index:2957
+
+%patient: it-0121-005681 index:2957
 begin(model(2957)).
 gender(f).
 race(white).
@@ -66792,8 +78728,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2957)).
-%patient: it_0121_005682 index:2958
+
+%patient: it-0121-005682 index:2958
 begin(model(2958)).
 gender(m).
 race(white).
@@ -66815,8 +78756,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2958)).
-%patient: it_0121_005683 index:2959
+
+%patient: it-0121-005683 index:2959
 begin(model(2959)).
 gender(f).
 race(white).
@@ -66837,8 +78783,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2959)).
-%patient: it_0121_005684 index:2960
+
+%patient: it-0121-005684 index:2960
 begin(model(2960)).
 gender(f).
 race(white).
@@ -66860,8 +78812,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2960)).
-%patient: it_0121_005687 index:2961
+
+%patient: it-0121-005687 index:2961
 begin(model(2961)).
 gender(f).
 race(white).
@@ -66882,8 +78840,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2961)).
-%patient: it_0121_005688 index:2962
+
+%patient: it-0121-005688 index:2962
 begin(model(2962)).
 gender(f).
 race(white).
@@ -66906,8 +78870,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2962)).
-%patient: it_0121_005689 index:2963
+
+%patient: it-0121-005689 index:2963
 begin(model(2963)).
 gender(m).
 race(white).
@@ -66933,8 +78902,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2963)).
-%patient: it_0121_005690 index:2964
+
+%patient: it-0121-005690 index:2964
 begin(model(2964)).
 gender(m).
 race(white).
@@ -66956,8 +78930,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2964)).
-%patient: it_0126_005594 index:2965
+
+%patient: it-0126-005594 index:2965
 begin(model(2965)).
 gender(f).
 race(white).
@@ -66982,8 +78961,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2965)).
-%patient: it_0128_004736 index:2966
+
+%patient: it-0128-004736 index:2966
 begin(model(2966)).
 gender(m).
 race(white).
@@ -67005,9 +78989,13 @@ who_f3(0).
 who_f4(4).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2966)).
-%patient: it_0031_005603 index:2967
+
+%patient: it-0031-005603 index:2967
 begin(model(2967)).
 gender(f).
 race(white).
@@ -67026,9 +79014,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(2967)).
-%patient: it_0039_003923 index:2968
+
+%patient: it-0039-003923 index:2968
 begin(model(2968)).
 gender(m).
 race(white).
@@ -67051,8 +79041,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2968)).
-%patient: it_0120_005631 index:2969
+
+%patient: it-0120-005631 index:2969
 begin(model(2969)).
 gender(f).
 race(white).
@@ -67074,9 +79069,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2969)).
-%patient: it_0120_005632 index:2970
+
+%patient: it-0120-005632 index:2970
 begin(model(2970)).
 gender(f).
 race(white).
@@ -67097,8 +79096,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2970)).
-%patient: it_0120_005633 index:2971
+
+%patient: it-0120-005633 index:2971
 begin(model(2971)).
 gender(f).
 race(white).
@@ -67120,9 +79124,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2971)).
-%patient: it_0120_005634 index:2972
+
+%patient: it-0120-005634 index:2972
 begin(model(2972)).
 gender(f).
 race(white).
@@ -67143,8 +79151,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2972)).
-%patient: it_0120_005635 index:2973
+
+%patient: it-0120-005635 index:2973
 begin(model(2973)).
 gender(f).
 race(white).
@@ -67164,9 +79177,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2973)).
-%patient: it_0120_005636 index:2974
+
+%patient: it-0120-005636 index:2974
 begin(model(2974)).
 gender(f).
 race(white).
@@ -67185,8 +79202,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2974)).
-%patient: it_0120_005637 index:2975
+
+%patient: it-0120-005637 index:2975
 begin(model(2975)).
 gender(f).
 race(white).
@@ -67208,8 +79230,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2975)).
-%patient: it_0120_005638 index:2976
+
+%patient: it-0120-005638 index:2976
 begin(model(2976)).
 gender(f).
 race(white).
@@ -67228,9 +79255,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2976)).
-%patient: it_0120_005639 index:2977
+
+%patient: it-0120-005639 index:2977
 begin(model(2977)).
 gender(f).
 race(white).
@@ -67250,8 +79282,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2977)).
-%patient: it_0120_005640 index:2978
+
+%patient: it-0120-005640 index:2978
 begin(model(2978)).
 gender(f).
 race(white).
@@ -67271,8 +79308,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2978)).
-%patient: it_0120_005641 index:2979
+
+%patient: it-0120-005641 index:2979
 begin(model(2979)).
 gender(f).
 race(white).
@@ -67290,9 +79332,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2979)).
-%patient: it_0120_005642 index:2980
+
+%patient: it-0120-005642 index:2980
 begin(model(2980)).
 gender(m).
 race(white).
@@ -67316,9 +79362,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2980)).
-%patient: it_0120_005643 index:2981
+
+%patient: it-0120-005643 index:2981
 begin(model(2981)).
 gender(f).
 race(white).
@@ -67341,9 +79392,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2981)).
-%patient: it_0120_005644 index:2982
+
+%patient: it-0120-005644 index:2982
 begin(model(2982)).
 gender(f).
 race(white).
@@ -67364,9 +79420,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2982)).
-%patient: it_0120_005645 index:2983
+
+%patient: it-0120-005645 index:2983
 begin(model(2983)).
 gender(m).
 race(white).
@@ -67384,8 +79445,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2983)).
-%patient: it_0120_005646 index:2984
+
+%patient: it-0120-005646 index:2984
 begin(model(2984)).
 gender(f).
 race(white).
@@ -67405,9 +79471,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(2984)).
-%patient: it_0120_005647 index:2985
+
+%patient: it-0120-005647 index:2985
 begin(model(2985)).
 gender(f).
 race(white).
@@ -67427,8 +79498,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2985)).
-%patient: it_0120_005648 index:2986
+
+%patient: it-0120-005648 index:2986
 begin(model(2986)).
 gender(f).
 race(white).
@@ -67448,9 +79525,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2986)).
-%patient: it_0120_005649 index:2987
+
+%patient: it-0120-005649 index:2987
 begin(model(2987)).
 gender(m).
 race(white).
@@ -67473,8 +79554,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(2987)).
-%patient: it_0121_005672 index:2988
+
+%patient: it-0121-005672 index:2988
 begin(model(2988)).
 gender(m).
 race(white).
@@ -67497,8 +79584,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2988)).
-%patient: it_0125_006425 index:2989
+
+%patient: it-0125-006425 index:2989
 begin(model(2989)).
 gender(m).
 race(white).
@@ -67522,8 +79614,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(2989)).
-%patient: it_0138_004457 index:2990
+
+%patient: it-0138-004457 index:2990
 begin(model(2990)).
 gender(f).
 race(white).
@@ -67541,8 +79639,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2990)).
-%patient: it_0142_006367 index:2991
+
+%patient: it-0142-006367 index:2991
 begin(model(2991)).
 gender(m).
 race(white).
@@ -67564,9 +79667,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(2991)).
-%patient: it_0142_006370 index:2992
+
+%patient: it-0142-006370 index:2992
 begin(model(2992)).
 gender(m).
 race(white).
@@ -67590,9 +79698,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2992)).
-%patient: it_0142_006372 index:2993
+
+%patient: it-0142-006372 index:2993
 begin(model(2993)).
 gender(m).
 race(white).
@@ -67615,9 +79727,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2993)).
-%patient: it_0142_006373 index:2994
+
+%patient: it-0142-006373 index:2994
 begin(model(2994)).
 gender(f).
 race(white).
@@ -67641,8 +79757,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2994)).
-%patient: it_0142_006377 index:2995
+
+%patient: it-0142-006377 index:2995
 begin(model(2995)).
 gender(m).
 race(white).
@@ -67663,8 +79784,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2995)).
-%patient: it_0142_006379 index:2996
+
+%patient: it-0142-006379 index:2996
 begin(model(2996)).
 gender(f).
 race(white).
@@ -67683,8 +79809,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2996)).
-%patient: it_0142_006381 index:2997
+
+%patient: it-0142-006381 index:2997
 begin(model(2997)).
 gender(f).
 race(white).
@@ -67709,8 +79840,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(2997)).
-%patient: it_0142_006383 index:2998
+
+%patient: it-0142-006383 index:2998
 begin(model(2998)).
 gender(f).
 race(white).
@@ -67738,8 +79874,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2998)).
-%patient: it_0142_006385 index:2999
+
+%patient: it-0142-006385 index:2999
 begin(model(2999)).
 gender(f).
 race(white).
@@ -67760,8 +79901,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(2999)).
-%patient: it_0142_006386 index:3000
+
+%patient: it-0142-006386 index:3000
 begin(model(3000)).
 gender(f).
 race(white).
@@ -67783,9 +79929,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3000)).
-%patient: it_0142_006387 index:3001
+
+%patient: it-0142-006387 index:3001
 begin(model(3001)).
 gender(f).
 race(white).
@@ -67812,9 +79963,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3001)).
-%patient: it_0142_006389 index:3002
+
+%patient: it-0142-006389 index:3002
 begin(model(3002)).
 gender(f).
 race(white).
@@ -67832,8 +79988,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3002)).
-%patient: it_0142_006391 index:3003
+
+%patient: it-0142-006391 index:3003
 begin(model(3003)).
 gender(f).
 race(white).
@@ -67854,8 +80015,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3003)).
-%patient: it_0142_006392 index:3004
+
+%patient: it-0142-006392 index:3004
 begin(model(3004)).
 gender(f).
 race(white).
@@ -67882,8 +80048,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3004)).
-%patient: it_0142_006587 index:3005
+
+%patient: it-0142-006587 index:3005
 begin(model(3005)).
 gender(m).
 race(white).
@@ -67907,8 +80078,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3005)).
-%patient: it_0142_006594 index:3006
+
+%patient: it-0142-006594 index:3006
 begin(model(3006)).
 gender(m).
 race(white).
@@ -67933,8 +80109,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3006)).
-%patient: it_0146_004516 index:3007
+
+%patient: it-0146-004516 index:3007
 begin(model(3007)).
 gender(f).
 race(white).
@@ -67955,8 +80137,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3007)).
-%patient: it_0146_004517 index:3008
+
+%patient: it-0146-004517 index:3008
 begin(model(3008)).
 gender(f).
 race(white).
@@ -67973,9 +80161,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3008)).
-%patient: it_0146_004518 index:3009
+
+%patient: it-0146-004518 index:3009
 begin(model(3009)).
 gender(f).
 race(white).
@@ -67997,8 +80189,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3009)).
-%patient: it_0146_004519 index:3010
+
+%patient: it-0146-004519 index:3010
 begin(model(3010)).
 gender(f).
 race(white).
@@ -68019,8 +80216,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3010)).
-%patient: it_0146_004520 index:3011
+
+%patient: it-0146-004520 index:3011
 begin(model(3011)).
 gender(m).
 race(white).
@@ -68044,8 +80246,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3011)).
-%patient: it_0146_004521 index:3012
+
+%patient: it-0146-004521 index:3012
 begin(model(3012)).
 gender(f).
 race(white).
@@ -68062,8 +80270,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3012)).
-%patient: it_0146_004522 index:3013
+
+%patient: it-0146-004522 index:3013
 begin(model(3013)).
 gender(f).
 race(white).
@@ -68081,8 +80294,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3013)).
-%patient: it_0146_004523 index:3014
+
+%patient: it-0146-004523 index:3014
 begin(model(3014)).
 gender(f).
 race(white).
@@ -68099,8 +80317,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3014)).
-%patient: it_0146_004524 index:3015
+
+%patient: it-0146-004524 index:3015
 begin(model(3015)).
 gender(f).
 race(white).
@@ -68121,9 +80344,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(3015)).
-%patient: it_0146_005231 index:3016
+
+%patient: it-0146-005231 index:3016
 begin(model(3016)).
 gender(m).
 race(white).
@@ -68147,9 +80371,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3016)).
-%patient: it_0146_005232 index:3017
+
+%patient: it-0146-005232 index:3017
 begin(model(3017)).
 gender(f).
 race(white).
@@ -68170,8 +80399,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3017)).
-%patient: it_0146_005233 index:3018
+
+%patient: it-0146-005233 index:3018
 begin(model(3018)).
 gender(f).
 race(white).
@@ -68192,8 +80427,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3018)).
-%patient: it_0146_005234 index:3019
+
+%patient: it-0146-005234 index:3019
 begin(model(3019)).
 gender(f).
 race(white).
@@ -68218,9 +80459,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3019)).
-%patient: it_0152_005007 index:3020
+
+%patient: it-0152-005007 index:3020
 begin(model(3020)).
 gender(f).
 race(white).
@@ -68240,9 +80485,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(3020)).
-%patient: it_0152_005148 index:3021
+
+%patient: it-0152-005148 index:3021
 begin(model(3021)).
 gender(f).
 race(white).
@@ -68263,8 +80509,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(3021)).
-%patient: it_0152_005185 index:3022
+
+%patient: it-0152-005185 index:3022
 begin(model(3022)).
 gender(m).
 race(white).
@@ -68287,9 +80535,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(3022)).
-%patient: it_0152_005192 index:3023
+
+%patient: it-0152-005192 index:3023
 begin(model(3023)).
 gender(f).
 race(white).
@@ -68310,9 +80559,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(3023)).
-%patient: it_0152_005436 index:3024
+
+%patient: it-0152-005436 index:3024
 begin(model(3024)).
 gender(f).
 race(white).
@@ -68331,9 +80581,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 testid(t).
 end(model(3024)).
-%patient: it_0152_005438 index:3025
+
+%patient: it-0152-005438 index:3025
 begin(model(3025)).
 gender(m).
 race(white).
@@ -68355,8 +80607,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(3025)).
-%patient: it_0152_005453 index:3026
+
+%patient: it-0152-005453 index:3026
 begin(model(3026)).
 gender(m).
 race(white).
@@ -68379,8 +80633,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(3026)).
-%patient: it_0152_005551 index:3027
+
+%patient: it-0152-005551 index:3027
 begin(model(3027)).
 gender(f).
 race(white).
@@ -68401,9 +80657,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
 end(model(3027)).
-%patient: it_0031_003928 index:3028
+
+%patient: it-0031-003928 index:3028
 begin(model(3028)).
 gender(f).
 race(white).
@@ -68421,8 +80678,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3028)).
-%patient: it_0031_003989 index:3029
+
+%patient: it-0031-003989 index:3029
 begin(model(3029)).
 gender(f).
 race(white).
@@ -68442,8 +80704,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3029)).
-%patient: it_0031_004123 index:3030
+
+%patient: it-0031-004123 index:3030
 begin(model(3030)).
 gender(f).
 race(white).
@@ -68466,8 +80733,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3030)).
-%patient: it_0031_004135 index:3031
+
+%patient: it-0031-004135 index:3031
 begin(model(3031)).
 gender(f).
 race(white).
@@ -68487,9 +80759,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3031)).
-%patient: it_0031_004137 index:3032
+
+%patient: it-0031-004137 index:3032
 begin(model(3032)).
 gender(f).
 race(white).
@@ -68505,8 +80781,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(3032)).
-%patient: it_0031_004140 index:3033
+
+%patient: it-0031-004140 index:3033
 begin(model(3033)).
 gender(f).
 race(white).
@@ -68526,9 +80805,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3033)).
-%patient: it_0031_004141 index:3034
+
+%patient: it-0031-004141 index:3034
 begin(model(3034)).
 gender(f).
 race(white).
@@ -68547,9 +80828,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 testid(t).
 end(model(3034)).
-%patient: it_0031_004142 index:3035
+
+%patient: it-0031-004142 index:3035
 begin(model(3035)).
 gender(f).
 race(white).
@@ -68568,8 +80852,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3035)).
-%patient: it_0031_004143 index:3036
+
+%patient: it-0031-004143 index:3036
 begin(model(3036)).
 gender(f).
 race(white).
@@ -68588,8 +80875,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+testid(t).
 end(model(3036)).
-%patient: it_0031_004144 index:3037
+
+%patient: it-0031-004144 index:3037
 begin(model(3037)).
 gender(m).
 race(white).
@@ -68608,8 +80899,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3037)).
-%patient: it_0031_004145 index:3038
+
+%patient: it-0031-004145 index:3038
 begin(model(3038)).
 gender(m).
 race(white).
@@ -68629,9 +80923,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3038)).
-%patient: it_0031_005718 index:3039
+
+%patient: it-0031-005718 index:3039
 begin(model(3039)).
 gender(f).
 race(white).
@@ -68648,9 +80944,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3039)).
-%patient: it_0146_004490 index:3040
+
+%patient: it-0146-004490 index:3040
 begin(model(3040)).
 gender(f).
 race(white).
@@ -68668,8 +80966,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3040)).
-%patient: it_0146_004491 index:3041
+
+%patient: it-0146-004491 index:3041
 begin(model(3041)).
 gender(m).
 race(white).
@@ -68688,8 +80991,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3041)).
-%patient: it_0146_004499 index:3042
+
+%patient: it-0146-004499 index:3042
 begin(model(3042)).
 gender(f).
 race(white).
@@ -68709,8 +81017,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3042)).
-%patient: it_0146_004500 index:3043
+
+%patient: it-0146-004500 index:3043
 begin(model(3043)).
 gender(m).
 race(white).
@@ -68731,8 +81044,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3043)).
-%patient: it_0146_004501 index:3044
+
+%patient: it-0146-004501 index:3044
 begin(model(3044)).
 gender(f).
 race(white).
@@ -68753,9 +81071,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3044)).
-%patient: it_0146_004502 index:3045
+
+%patient: it-0146-004502 index:3045
 begin(model(3045)).
 gender(f).
 race(white).
@@ -68771,8 +81093,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3045)).
-%patient: it_0146_004503 index:3046
+
+%patient: it-0146-004503 index:3046
 begin(model(3046)).
 gender(m).
 race(white).
@@ -68794,8 +81122,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3046)).
-%patient: it_0146_004504 index:3047
+
+%patient: it-0146-004504 index:3047
 begin(model(3047)).
 gender(m).
 race(white).
@@ -68814,9 +81147,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3047)).
-%patient: it_0146_004505 index:3048
+
+%patient: it-0146-004505 index:3048
 begin(model(3048)).
 gender(m).
 race(white).
@@ -68833,9 +81170,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3048)).
-%patient: it_0146_006554 index:3049
+
+%patient: it-0146-006554 index:3049
 begin(model(3049)).
 gender(f).
 race(white).
@@ -68851,9 +81193,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3049)).
-%patient: it_0166_005033 index:3050
+
+%patient: it-0166-005033 index:3050
 begin(model(3050)).
 gender(f).
 race(white).
@@ -68876,8 +81222,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(1,2).
+fluvaccine(1).
+antipneumovaccine(1).
 end(model(3050)).
-%patient: it_0152_005470 index:3051
+
+%patient: it-0152-005470 index:3051
 begin(model(3051)).
 gender(f).
 race(white).
@@ -68902,8 +81252,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+testid(t).
 end(model(3051)).
-%patient: it_0155_004165 index:3052
+
+%patient: it-0155-004165 index:3052
 begin(model(3052)).
 gender(m).
 mobcat(1).
@@ -68922,8 +81275,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3052)).
-%patient: it_0155_006571 index:3053
+
+%patient: it-0155-006571 index:3053
 begin(model(3053)).
 gender(f).
 race(white).
@@ -68943,8 +81301,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3053)).
-%patient: it_0155_006577 index:3054
+
+%patient: it-0155-006577 index:3054
 begin(model(3054)).
 gender(m).
 race(white).
@@ -68962,9 +81325,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3054)).
-%patient: it_0125_006376 index:3055
+
+%patient: it-0125-006376 index:3055
 begin(model(3055)).
 gender(f).
 race(white).
@@ -68989,9 +81356,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3055)).
-%patient: it_0146_005238 index:3056
+
+%patient: it-0146-005238 index:3056
 begin(model(3056)).
 gender(f).
 race(white).
@@ -69008,8 +81379,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3056)).
-%patient: it_0146_005239 index:3057
+
+%patient: it-0146-005239 index:3057
 begin(model(3057)).
 gender(f).
 race(white).
@@ -69026,9 +81402,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3057)).
-%patient: it_0146_006406 index:3058
+
+%patient: it-0146-006406 index:3058
 begin(model(3058)).
 gender(f).
 race(white).
@@ -69046,9 +81427,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3058)).
-%patient: it_0146_006409 index:3059
+
+%patient: it-0146-006409 index:3059
 begin(model(3059)).
 gender(f).
 race(white).
@@ -69066,9 +81451,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3059)).
-%patient: it_0155_004209 index:3060
+
+%patient: it-0155-004209 index:3060
 begin(model(3060)).
 gender(m).
 race(white).
@@ -69088,8 +81477,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3060)).
-%patient: it_0155_004211 index:3061
+
+%patient: it-0155-004211 index:3061
 begin(model(3061)).
 gender(f).
 race(white).
@@ -69109,8 +81503,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3061)).
-%patient: it_0155_004212 index:3062
+
+%patient: it-0155-004212 index:3062
 begin(model(3062)).
 gender(m).
 race(white).
@@ -69128,9 +81527,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3062)).
-%patient: it_0125_005958 index:3063
+
+%patient: it-0125-005958 index:3063
 begin(model(3063)).
 gender(f).
 race(white).
@@ -69155,8 +81557,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3063)).
-%patient: it_0137_005513 index:3064
+
+%patient: it-0137-005513 index:3064
 begin(model(3064)).
 gender(f).
 race(white).
@@ -69178,8 +81585,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(3064)).
-%patient: it_0146_004492 index:3065
+
+%patient: it-0146-004492 index:3065
 begin(model(3065)).
 gender(f).
 race(white).
@@ -69196,9 +81605,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3065)).
-%patient: it_0138_004455 index:3066
+
+%patient: it-0138-004455 index:3066
 begin(model(3066)).
 gender(m).
 race(white).
@@ -69218,8 +81632,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3066)).
-%patient: it_0146_005422 index:3067
+
+%patient: it-0146-005422 index:3067
 begin(model(3067)).
 gender(m).
 race(white).
@@ -69240,9 +81659,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3067)).
-%patient: it_0146_005417 index:3068
+
+%patient: it-0146-005417 index:3068
 begin(model(3068)).
 gender(f).
 race(white).
@@ -69264,8 +81687,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3068)).
-%patient: it_0146_005418 index:3069
+
+%patient: it-0146-005418 index:3069
 begin(model(3069)).
 gender(f).
 race(white).
@@ -69287,9 +81715,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3069)).
-%patient: it_0146_005421 index:3070
+
+%patient: it-0146-005421 index:3070
 begin(model(3070)).
 gender(f).
 race(white).
@@ -69314,9 +81746,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3070)).
-%patient: it_0146_005424 index:3071
+
+%patient: it-0146-005424 index:3071
 begin(model(3071)).
 gender(m).
 race(white).
@@ -69334,8 +81771,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3071)).
-%patient: it_0146_005425 index:3072
+
+%patient: it-0146-005425 index:3072
 begin(model(3072)).
 gender(f).
 race(white).
@@ -69360,9 +81803,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3072)).
-%patient: it_0146_005428 index:3073
+
+%patient: it-0146-005428 index:3073
 begin(model(3073)).
 gender(f).
 race(white).
@@ -69385,8 +81832,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3073)).
-%patient: it_0146_005429 index:3074
+
+%patient: it-0146-005429 index:3074
 begin(model(3074)).
 gender(f).
 race(white).
@@ -69414,8 +81866,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3074)).
-%patient: it_0146_006405 index:3075
+
+%patient: it-0146-006405 index:3075
 begin(model(3075)).
 gender(f).
 race(white).
@@ -69433,8 +81890,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3075)).
-%patient: it_0147_004387 index:3076
+
+%patient: it-0147-004387 index:3076
 begin(model(3076)).
 gender(f).
 race(white).
@@ -69456,9 +81918,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3076)).
-%patient: it_0146_005416 index:3077
+
+%patient: it-0146-005416 index:3077
 begin(model(3077)).
 gender(f).
 race(white).
@@ -69480,8 +81946,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3077)).
-%patient: it_0146_005423 index:3078
+
+%patient: it-0146-005423 index:3078
 begin(model(3078)).
 gender(f).
 race(white).
@@ -69503,8 +81974,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3078)).
-%patient: it_0168_005716 index:3079
+
+%patient: it-0168-005716 index:3079
 begin(model(3079)).
 gender(f).
 race(white).
@@ -69526,8 +82003,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3079)).
-%patient: it_0146_005415 index:3080
+
+%patient: it-0146-005415 index:3080
 begin(model(3080)).
 gender(f).
 race(white).
@@ -69550,8 +82032,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3080)).
-%patient: it_0146_005235 index:3081
+
+%patient: it-0146-005235 index:3081
 begin(model(3081)).
 gender(f).
 race(white).
@@ -69570,9 +82057,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3081)).
-%patient: it_0146_005236 index:3082
+
+%patient: it-0146-005236 index:3082
 begin(model(3082)).
 gender(m).
 race(white).
@@ -69593,8 +82085,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3082)).
-%patient: it_0146_005237 index:3083
+
+%patient: it-0146-005237 index:3083
 begin(model(3083)).
 gender(m).
 race(white).
@@ -69612,8 +82109,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3083)).
-%patient: it_0020_005472 index:3084
+
+%patient: it-0020-005472 index:3084
 begin(model(3084)).
 gender(f).
 race(white).
@@ -69641,9 +82143,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
 end(model(3084)).
-%patient: it_0146_006402 index:3085
+
+%patient: it-0146-006402 index:3085
 begin(model(3085)).
 gender(f).
 race(white).
@@ -69663,9 +82166,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3085)).
-%patient: it_0143_004269 index:3086
+
+%patient: it-0143-004269 index:3086
 begin(model(3086)).
 gender(m).
 race(white).
@@ -69693,8 +82201,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
 end(model(3086)).
-%patient: it_0146_006400 index:3087
+
+%patient: it-0146-006400 index:3087
 begin(model(3087)).
 gender(f).
 race(white).
@@ -69711,8 +82221,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3087)).
-%patient: it_0061_004147 index:3088
+
+%patient: it-0061-004147 index:3088
 begin(model(3088)).
 gender(m).
 race(white).
@@ -69739,8 +82254,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3088)).
-%patient: it_0020_000288 index:3089
+
+%patient: it-0020-000288 index:3089
 begin(model(3089)).
 gender(f).
 race(white).
@@ -69767,8 +82287,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3089)).
-%patient: it_0146_005221 index:3090
+
+%patient: it-0146-005221 index:3090
 begin(model(3090)).
 gender(f).
 race(white).
@@ -69787,8 +82312,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3090)).
-%patient: it_0146_005222 index:3091
+
+%patient: it-0146-005222 index:3091
 begin(model(3091)).
 gender(f).
 race(white).
@@ -69812,9 +82342,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3091)).
-%patient: it_0146_005225 index:3092
+
+%patient: it-0146-005225 index:3092
 begin(model(3092)).
 gender(f).
 race(white).
@@ -69833,8 +82368,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3092)).
-%patient: it_0146_005226 index:3093
+
+%patient: it-0146-005226 index:3093
 begin(model(3093)).
 gender(m).
 race(white).
@@ -69853,8 +82394,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3093)).
-%patient: it_0146_005227 index:3094
+
+%patient: it-0146-005227 index:3094
 begin(model(3094)).
 gender(m).
 race(white).
@@ -69878,8 +82425,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3094)).
-%patient: it_0146_005223 index:3095
+
+%patient: it-0146-005223 index:3095
 begin(model(3095)).
 gender(f).
 race(white).
@@ -69902,8 +82455,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3095)).
-%patient: it_0146_005224 index:3096
+
+%patient: it-0146-005224 index:3096
 begin(model(3096)).
 gender(m).
 race(white).
@@ -69922,9 +82480,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3096)).
-%patient: it_0146_005229 index:3097
+
+%patient: it-0146-005229 index:3097
 begin(model(3097)).
 gender(m).
 race(white).
@@ -69943,8 +82505,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3097)).
-%patient: it_0146_005230 index:3098
+
+%patient: it-0146-005230 index:3098
 begin(model(3098)).
 gender(f).
 race(white).
@@ -69968,8 +82535,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3098)).
-%patient: it_0166_006226 index:3099
+
+%patient: it-0166-006226 index:3099
 begin(model(3099)).
 gender(m).
 race(white).
@@ -69988,9 +82560,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(1,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3099)).
-%patient: it_0039_003983 index:3100
+
+%patient: it-0039-003983 index:3100
 begin(model(3100)).
 gender(f).
 race(white).
@@ -70013,8 +82590,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3100)).
-%patient: it_0039_000389 index:3101
+
+%patient: it-0039-000389 index:3101
 begin(model(3101)).
 gender(m).
 race(white).
@@ -70038,8 +82621,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3101)).
-%patient: it_0039_000390 index:3102
+
+%patient: it-0039-000390 index:3102
 begin(model(3102)).
 gender(f).
 race(white).
@@ -70062,9 +82649,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3102)).
-%patient: it_0039_000391 index:3103
+
+%patient: it-0039-000391 index:3103
 begin(model(3103)).
 gender(m).
 race(white).
@@ -70092,8 +82682,12 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3103)).
-%patient: it_0039_000392 index:3104
+
+%patient: it-0039-000392 index:3104
 begin(model(3104)).
 gender(m).
 race(white).
@@ -70116,8 +82710,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3104)).
-%patient: it_0039_003747 index:3105
+
+%patient: it-0039-003747 index:3105
 begin(model(3105)).
 gender(f).
 race(white).
@@ -70146,9 +82745,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3105)).
-%patient: it_0039_003818 index:3106
+
+%patient: it-0039-003818 index:3106
 begin(model(3106)).
 gender(m).
 race(white).
@@ -70175,8 +82778,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(3106)).
-%patient: it_0039_003931 index:3107
+
+%patient: it-0039-003931 index:3107
 begin(model(3107)).
 gender(f).
 race(white).
@@ -70203,9 +82809,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(3107)).
-%patient: it_0039_003935 index:3108
+
+%patient: it-0039-003935 index:3108
 begin(model(3108)).
 gender(f).
 race(white).
@@ -70230,9 +82838,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3108)).
-%patient: it_0039_003973 index:3109
+
+%patient: it-0039-003973 index:3109
 begin(model(3109)).
 gender(f).
 race(white).
@@ -70257,8 +82870,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(3109)).
-%patient: it_0039_003979 index:3110
+
+%patient: it-0039-003979 index:3110
 begin(model(3110)).
 gender(f).
 race(white).
@@ -70283,9 +82899,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3110)).
-%patient: it_0039_003855 index:3111
+
+%patient: it-0039-003855 index:3111
 begin(model(3111)).
 gender(m).
 race(white).
@@ -70311,8 +82931,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
 end(model(3111)).
-%patient: it_0019_002666 index:3112
+
+%patient: it-0019-002666 index:3112
 begin(model(3112)).
 gender(m).
 race(white).
@@ -70333,9 +82956,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3112)).
-%patient: it_0016_003677 index:3113
+
+%patient: it-0016-003677 index:3113
 begin(model(3113)).
 gender(m).
 race(white).
@@ -70359,9 +82986,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3113)).
-%patient: it_0103_006117 index:3114
+
+%patient: it-0103-006117 index:3114
 begin(model(3114)).
 gender(f).
 race(white).
@@ -70380,8 +83012,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3114)).
-%patient: it_0138_004479 index:3115
+
+%patient: it-0138-004479 index:3115
 begin(model(3115)).
 gender(m).
 race(white).
@@ -70399,8 +83036,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3115)).
-%patient: it_0168_005365 index:3116
+
+%patient: it-0168-005365 index:3116
 begin(model(3116)).
 gender(f).
 race(white).
@@ -70420,8 +83062,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3116)).
-%patient: it_0168_005463 index:3117
+
+%patient: it-0168-005463 index:3117
 begin(model(3117)).
 gender(f).
 race(white).
@@ -70441,9 +83088,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3117)).
-%patient: it_0168_005661 index:3118
+
+%patient: it-0168-005661 index:3118
 begin(model(3118)).
 gender(f).
 race(white).
@@ -70463,9 +83114,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3118)).
-%patient: it_0168_005663 index:3119
+
+%patient: it-0168-005663 index:3119
 begin(model(3119)).
 gender(m).
 race(white).
@@ -70487,8 +83142,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3119)).
-%patient: it_0168_005664 index:3120
+
+%patient: it-0168-005664 index:3120
 begin(model(3120)).
 gender(f).
 race(white).
@@ -70508,8 +83168,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3120)).
-%patient: it_0168_005665 index:3121
+
+%patient: it-0168-005665 index:3121
 begin(model(3121)).
 gender(f).
 race(white).
@@ -70528,8 +83193,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3121)).
-%patient: it_0168_005667 index:3122
+
+%patient: it-0168-005667 index:3122
 begin(model(3122)).
 gender(f).
 race(white).
@@ -70551,9 +83221,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3122)).
-%patient: it_0168_005668 index:3123
+
+%patient: it-0168-005668 index:3123
 begin(model(3123)).
 gender(m).
 race(white).
@@ -70576,9 +83250,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3123)).
-%patient: it_0168_005669 index:3124
+
+%patient: it-0168-005669 index:3124
 begin(model(3124)).
 gender(m).
 race(white).
@@ -70601,9 +83279,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3124)).
-%patient: it_0168_005670 index:3125
+
+%patient: it-0168-005670 index:3125
 begin(model(3125)).
 gender(f).
 race(white).
@@ -70624,8 +83307,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3125)).
-%patient: it_0168_005717 index:3126
+
+%patient: it-0168-005717 index:3126
 begin(model(3126)).
 gender(f).
 race(white).
@@ -70648,8 +83336,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3126)).
-%patient: it_0168_005731 index:3127
+
+%patient: it-0168-005731 index:3127
 begin(model(3127)).
 gender(f).
 race(white).
@@ -70673,8 +83366,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3127)).
-%patient: it_0168_005737 index:3128
+
+%patient: it-0168-005737 index:3128
 begin(model(3128)).
 gender(f).
 race(white).
@@ -70695,8 +83394,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3128)).
-%patient: it_0168_005753 index:3129
+
+%patient: it-0168-005753 index:3129
 begin(model(3129)).
 gender(m).
 race(white).
@@ -70716,8 +83420,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3129)).
-%patient: it_0168_005754 index:3130
+
+%patient: it-0168-005754 index:3130
 begin(model(3130)).
 gender(f).
 race(white).
@@ -70737,9 +83446,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3130)).
-%patient: it_0168_005757 index:3131
+
+%patient: it-0168-005757 index:3131
 begin(model(3131)).
 gender(f).
 race(white).
@@ -70760,8 +83473,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3131)).
-%patient: it_0168_005760 index:3132
+
+%patient: it-0168-005760 index:3132
 begin(model(3132)).
 gender(f).
 race(white).
@@ -70780,8 +83499,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3132)).
-%patient: it_0168_005763 index:3133
+
+%patient: it-0168-005763 index:3133
 begin(model(3133)).
 gender(f).
 race(white).
@@ -70805,8 +83529,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3133)).
-%patient: it_0123_005691 index:3134
+
+%patient: it-0123-005691 index:3134
 begin(model(3134)).
 gender(f).
 race(white).
@@ -70831,8 +83560,14 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3134)).
-%patient: it_0123_005703 index:3135
+
+%patient: it-0123-005703 index:3135
 begin(model(3135)).
 gender(f).
 race(white).
@@ -70854,9 +83589,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3135)).
-%patient: it_0146_004514 index:3136
+
+%patient: it-0146-004514 index:3136
 begin(model(3136)).
 gender(m).
 race(white).
@@ -70874,8 +83613,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3136)).
-%patient: it_0103_005978 index:3137
+
+%patient: it-0103-005978 index:3137
 begin(model(3137)).
 gender(f).
 race(white).
@@ -70893,9 +83637,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3137)).
-%patient: it_0103_005979 index:3138
+
+%patient: it-0103-005979 index:3138
 begin(model(3138)).
 gender(f).
 race(white).
@@ -70916,9 +83665,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3138)).
-%patient: it_0031_004146 index:3139
+
+%patient: it-0031-004146 index:3139
 begin(model(3139)).
 gender(f).
 race(white).
@@ -70939,9 +83693,12 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 testid(t).
 end(model(3139)).
-%patient: it_0031_004157 index:3140
+
+%patient: it-0031-004157 index:3140
 begin(model(3140)).
 gender(f).
 race(white).
@@ -70963,9 +83720,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3140)).
-%patient: it_0031_004158 index:3141
+
+%patient: it-0031-004158 index:3141
 begin(model(3141)).
 gender(f).
 race(white).
@@ -70984,8 +83743,11 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
 end(model(3141)).
-%patient: it_0031_005524 index:3142
+
+%patient: it-0031-005524 index:3142
 begin(model(3142)).
 gender(f).
 race(white).
@@ -71008,8 +83770,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3142)).
-%patient: it_0051_006691 index:3143
+
+%patient: it-0051-006691 index:3143
 begin(model(3143)).
 gender(m).
 race(white).
@@ -71029,9 +83796,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3143)).
-%patient: it_0051_006696 index:3144
+
+%patient: it-0051-006696 index:3144
 begin(model(3144)).
 gender(f).
 race(white).
@@ -71051,10 +83823,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3144)).
-%patient: it_0061_004217 index:3145
+
+%patient: it-0061-004217 index:3145
 begin(model(3145)).
 gender(f).
 race(white).
@@ -71072,10 +83848,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3145)).
-%patient: it_0061_006486 index:3146
+
+%patient: it-0061-006486 index:3146
 begin(model(3146)).
 gender(f).
 race(white).
@@ -71101,8 +83881,13 @@ who_f3(1).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+testid(t).
 end(model(3146)).
-%patient: it_0106_006757 index:3147
+
+%patient: it-0106-006757 index:3147
 begin(model(3147)).
 gender(m).
 race(white).
@@ -71124,9 +83909,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3147)).
-%patient: it_0125_004156 index:3148
+
+%patient: it-0125-004156 index:3148
 begin(model(3148)).
 gender(f).
 race(white).
@@ -71146,9 +83937,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3148)).
-%patient: it_0138_004478 index:3149
+
+%patient: it-0138-004478 index:3149
 begin(model(3149)).
 gender(f).
 race(white).
@@ -71169,9 +83966,13 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3149)).
-%patient: it_0146_004486 index:3150
+
+%patient: it-0146-004486 index:3150
 begin(model(3150)).
 gender(m).
 race(white).
@@ -71190,10 +83991,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3150)).
-%patient: it_0146_004487 index:3151
+
+%patient: it-0146-004487 index:3151
 begin(model(3151)).
 gender(f).
 race(white).
@@ -71211,9 +84016,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3151)).
-%patient: it_0146_004488 index:3152
+
+%patient: it-0146-004488 index:3152
 begin(model(3152)).
 gender(m).
 race(white).
@@ -71233,10 +84043,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3152)).
-%patient: it_0146_004489 index:3153
+
+%patient: it-0146-004489 index:3153
 begin(model(3153)).
 gender(f).
 race(white).
@@ -71254,9 +84069,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3153)).
-%patient: it_0146_004493 index:3154
+
+%patient: it-0146-004493 index:3154
 begin(model(3154)).
 gender(m).
 race(white).
@@ -71278,9 +84099,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3154)).
-%patient: it_0146_004495 index:3155
+
+%patient: it-0146-004495 index:3155
 begin(model(3155)).
 gender(f).
 race(white).
@@ -71302,10 +84129,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3155)).
-%patient: it_0146_004496 index:3156
+
+%patient: it-0146-004496 index:3156
 begin(model(3156)).
 gender(f).
 race(white).
@@ -71326,10 +84157,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3156)).
-%patient: it_0146_004497 index:3157
+
+%patient: it-0146-004497 index:3157
 begin(model(3157)).
 gender(f).
 race(white).
@@ -71347,10 +84182,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3157)).
-%patient: it_0146_004498 index:3158
+
+%patient: it-0146-004498 index:3158
 begin(model(3158)).
 gender(f).
 race(white).
@@ -71366,9 +84205,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3158)).
-%patient: it_0146_004506 index:3159
+
+%patient: it-0146-004506 index:3159
 begin(model(3159)).
 gender(f).
 race(white).
@@ -71385,9 +84229,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3159)).
-%patient: it_0146_004507 index:3160
+
+%patient: it-0146-004507 index:3160
 begin(model(3160)).
 gender(f).
 race(white).
@@ -71404,9 +84253,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3160)).
-%patient: it_0146_004508 index:3161
+
+%patient: it-0146-004508 index:3161
 begin(model(3161)).
 gender(m).
 race(white).
@@ -71423,9 +84278,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3161)).
-%patient: it_0146_004509 index:3162
+
+%patient: it-0146-004509 index:3162
 begin(model(3162)).
 gender(f).
 race(white).
@@ -71440,9 +84301,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3162)).
-%patient: it_0146_004510 index:3163
+
+%patient: it-0146-004510 index:3163
 begin(model(3163)).
 gender(f).
 race(white).
@@ -71461,9 +84327,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3163)).
-%patient: it_0146_004511 index:3164
+
+%patient: it-0146-004511 index:3164
 begin(model(3164)).
 gender(f).
 race(white).
@@ -71481,9 +84352,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3164)).
-%patient: it_0146_004512 index:3165
+
+%patient: it-0146-004512 index:3165
 begin(model(3165)).
 gender(m).
 race(white).
@@ -71503,10 +84379,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3165)).
-%patient: it_0146_004513 index:3166
+
+%patient: it-0146-004513 index:3166
 begin(model(3166)).
 gender(m).
 race(white).
@@ -71528,9 +84408,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3166)).
-%patient: it_0146_006401 index:3167
+
+%patient: it-0146-006401 index:3167
 begin(model(3167)).
 gender(f).
 race(white).
@@ -71549,10 +84435,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3167)).
-%patient: it_0155_004207 index:3168
+
+%patient: it-0155-004207 index:3168
 begin(model(3168)).
 gender(f).
 race(white).
@@ -71573,9 +84464,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3168)).
-%patient: it_0155_004208 index:3169
+
+%patient: it-0155-004208 index:3169
 begin(model(3169)).
 gender(f).
 race(white).
@@ -71591,9 +84487,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3169)).
-%patient: it_0155_004210 index:3170
+
+%patient: it-0155-004210 index:3170
 begin(model(3170)).
 gender(m).
 race(white).
@@ -71612,9 +84513,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3170)).
-%patient: it_0169_006440 index:3171
+
+%patient: it-0169-006440 index:3171
 begin(model(3171)).
 gender(f).
 race(white).
@@ -71634,10 +84540,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3171)).
-%patient: it_0169_006590 index:3172
+
+%patient: it-0169-006590 index:3172
 begin(model(3172)).
 gender(f).
 race(white).
@@ -71657,9 +84567,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3172)).
-%patient: it_0171_006261 index:3173
+
+%patient: it-0171-006261 index:3173
 begin(model(3173)).
 gender(m).
 race(white).
@@ -71677,9 +84592,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3173)).
-%patient: it_0061_004216 index:3174
+
+%patient: it-0061-004216 index:3174
 begin(model(3174)).
 gender(f).
 race(white).
@@ -71697,8 +84617,14 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3174)).
-%patient: it_0103_006129 index:3175
+
+%patient: it-0103-006129 index:3175
 begin(model(3175)).
 gender(f).
 race(white).
@@ -71720,9 +84646,14 @@ who_f2(1).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3175)).
-%patient: it_0103_006133 index:3176
+
+%patient: it-0103-006133 index:3176
 begin(model(3176)).
 gender(m).
 race(white).
@@ -71742,10 +84673,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3176)).
-%patient: it_0108_002684 index:3177
+
+%patient: it-0108-002684 index:3177
 begin(model(3177)).
 gender(f).
 race(white).
@@ -71765,9 +84700,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3177)).
-%patient: it_0125_006431 index:3178
+
+%patient: it-0125-006431 index:3178
 begin(model(3178)).
 gender(f).
 race(white).
@@ -71791,10 +84731,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3178)).
-%patient: it_0061_004214 index:3179
+
+%patient: it-0061-004214 index:3179
 begin(model(3179)).
 gender(f).
 race(white).
@@ -71811,10 +84755,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3179)).
-%patient: it_0103_005959 index:3180
+
+%patient: it-0103-005959 index:3180
 begin(model(3180)).
 gender(f).
 race(white).
@@ -71834,9 +84782,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3180)).
-%patient: it_0103_006128 index:3181
+
+%patient: it-0103-006128 index:3181
 begin(model(3181)).
 gender(f).
 race(white).
@@ -71861,9 +84814,15 @@ who_f2(1).
 who_f3(1).
 who_f4(0).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3181)).
-%patient: it_0103_006136 index:3182
+
+%patient: it-0103-006136 index:3182
 begin(model(3182)).
 gender(f).
 race(white).
@@ -71886,10 +84845,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3182)).
-%patient: it_0108_002693 index:3183
+
+%patient: it-0108-002693 index:3183
 begin(model(3183)).
 gender(m).
 race(white).
@@ -71908,9 +84871,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3183)).
-%patient: it_0125_004630 index:3184
+
+%patient: it-0125-004630 index:3184
 begin(model(3184)).
 gender(m).
 race(white).
@@ -71932,10 +84900,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3184)).
-%patient: it_0125_005952 index:3185
+
+%patient: it-0125-005952 index:3185
 begin(model(3185)).
 gender(f).
 race(white).
@@ -71957,10 +84929,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3185)).
-%patient: it_0020_000230 index:3186
+
+%patient: it-0020-000230 index:3186
 begin(model(3186)).
 gender(f).
 race(white).
@@ -71985,9 +84962,13 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3186)).
-%patient: it_0020_003769 index:3187
+
+%patient: it-0020-003769 index:3187
 begin(model(3187)).
 gender(m).
 race(white).
@@ -72010,9 +84991,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3187)).
-%patient: it_0108_002696 index:3188
+
+%patient: it-0108-002696 index:3188
 begin(model(3188)).
 gender(f).
 race(white).
@@ -72034,9 +85021,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3188)).
-%patient: it_0155_004164 index:3189
+
+%patient: it-0155-004164 index:3189
 begin(model(3189)).
 gender(f).
 race(white).
@@ -72057,9 +85049,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3189)).
-%patient: it_0155_004199 index:3190
+
+%patient: it-0155-004199 index:3190
 begin(model(3190)).
 gender(f).
 race(white).
@@ -72076,10 +85074,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3190)).
-%patient: it_0155_004203 index:3191
+
+%patient: it-0155-004203 index:3191
 begin(model(3191)).
 gender(f).
 mobcat(3).
@@ -72098,10 +85100,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3191)).
-%patient: it_0155_004204 index:3192
+
+%patient: it-0155-004204 index:3192
 begin(model(3192)).
 gender(f).
 race(white).
@@ -72121,9 +85127,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3192)).
-%patient: it_0155_004205 index:3193
+
+%patient: it-0155-004205 index:3193
 begin(model(3193)).
 gender(f).
 race(white).
@@ -72139,9 +85150,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3193)).
-%patient: it_0051_006698 index:3194
+
+%patient: it-0051-006698 index:3194
 begin(model(3194)).
 gender(f).
 race(white).
@@ -72161,10 +85177,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3194)).
-%patient: it_0051_006697 index:3195
+
+%patient: it-0051-006697 index:3195
 begin(model(3195)).
 gender(f).
 race(white).
@@ -72184,10 +85205,14 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
-testid(t).
+pos.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3195)).
-%patient: it_0146_004515 index:3196
+
+%patient: it-0146-004515 index:3196
 begin(model(3196)).
 gender(m).
 race(white).
@@ -72207,9 +85232,15 @@ who_f2(0).
 who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
-neg.
+pos.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3196)).
-%patient: it_0129_004672 index:3197
+
+%patient: it-0129-004672 index:3197
 begin(model(3197)).
 gender(m).
 race(white).
@@ -72231,8 +85262,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3197)).
-%patient: it_0129_004682 index:3198
+
+%patient: it-0129-004682 index:3198
 begin(model(3198)).
 gender(f).
 race(white).
@@ -72251,9 +85287,13 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3198)).
-%patient: it_0143_003924 index:3199
+
+%patient: it-0143-003924 index:3199
 begin(model(3199)).
 gender(f).
 race(white).
@@ -72273,8 +85313,10 @@ who_f3(0).
 who_f4(0).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
 end(model(3199)).
-%patient: it_0152_005550 index:3200
+
+%patient: it-0152-005550 index:3200
 begin(model(3200)).
 gender(f).
 race(white).
@@ -72293,8 +85335,10 @@ who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
 end(model(3200)).
-%patient: it_0051_006644 index:3201
+
+%patient: it-0051-006644 index:3201
 begin(model(3201)).
 gender(f).
 race(white).
@@ -72313,9 +85357,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3201)).
-%patient: it_0051_006687 index:3202
+
+%patient: it-0051-006687 index:3202
 begin(model(3202)).
 gender(m).
 race(white).
@@ -72338,8 +85387,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3202)).
-%patient: it_0051_006672 index:3203
+
+%patient: it-0051-006672 index:3203
 begin(model(3203)).
 gender(f).
 race(white).
@@ -72358,8 +85413,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3203)).
-%patient: it_0051_006653 index:3204
+
+%patient: it-0051-006653 index:3204
 begin(model(3204)).
 gender(m).
 race(white).
@@ -72380,8 +85441,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3204)).
-%patient: it_0051_006652 index:3205
+
+%patient: it-0051-006652 index:3205
 begin(model(3205)).
 gender(m).
 race(white).
@@ -72403,8 +85470,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3205)).
-%patient: it_0051_006665 index:3206
+
+%patient: it-0051-006665 index:3206
 begin(model(3206)).
 gender(f).
 race(white).
@@ -72423,9 +85496,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3206)).
-%patient: it_0051_006664 index:3207
+
+%patient: it-0051-006664 index:3207
 begin(model(3207)).
 gender(f).
 race(white).
@@ -72446,8 +85523,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3207)).
-%patient: it_0051_006654 index:3208
+
+%patient: it-0051-006654 index:3208
 begin(model(3208)).
 gender(f).
 race(white).
@@ -72465,9 +85548,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3208)).
-%patient: it_0051_006676 index:3209
+
+%patient: it-0051-006676 index:3209
 begin(model(3209)).
 gender(m).
 race(white).
@@ -72489,8 +85576,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3209)).
-%patient: it_0051_006693 index:3210
+
+%patient: it-0051-006693 index:3210
 begin(model(3210)).
 gender(m).
 race(white).
@@ -72509,8 +85602,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3210)).
-%patient: it_0126_005521 index:3211
+
+%patient: it-0126-005521 index:3211
 begin(model(3211)).
 gender(m).
 race(white).
@@ -72529,8 +85627,13 @@ who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3211)).
-%patient: it_0168_005609 index:3212
+
+%patient: it-0168-005609 index:3212
 begin(model(3212)).
 gender(f).
 race(white).
@@ -72550,10 +85653,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3212)).
-%patient: it_0168_005662 index:3213
+
+%patient: it-0168-005662 index:3213
 begin(model(3213)).
 gender(f).
 race(white).
@@ -72573,10 +85681,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3213)).
-%patient: it_0168_005666 index:3214
+
+%patient: it-0168-005666 index:3214
 begin(model(3214)).
 gender(m).
 race(white).
@@ -72595,10 +85707,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3214)).
-%patient: it_0168_005728 index:3215
+
+%patient: it-0168-005728 index:3215
 begin(model(3215)).
 gender(m).
 race(white).
@@ -72616,9 +85732,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3215)).
-%patient: it_0168_005733 index:3216
+
+%patient: it-0168-005733 index:3216
 begin(model(3216)).
 gender(f).
 race(white).
@@ -72640,10 +85761,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3216)).
-%patient: it_0168_005735 index:3217
+
+%patient: it-0168-005735 index:3217
 begin(model(3217)).
 gender(f).
 race(white).
@@ -72667,9 +85793,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3217)).
-%patient: it_0168_005736 index:3218
+
+%patient: it-0168-005736 index:3218
 begin(model(3218)).
 gender(f).
 race(white).
@@ -72690,10 +85822,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3218)).
-%patient: it_0168_005755 index:3219
+
+%patient: it-0168-005755 index:3219
 begin(model(3219)).
 gender(m).
 race(white).
@@ -72715,9 +85851,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3219)).
-%patient: it_0168_005756 index:3220
+
+%patient: it-0168-005756 index:3220
 begin(model(3220)).
 gender(f).
 race(white).
@@ -72737,9 +85878,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3220)).
-%patient: it_0168_005758 index:3221
+
+%patient: it-0168-005758 index:3221
 begin(model(3221)).
 gender(f).
 race(white).
@@ -72760,9 +85906,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3221)).
-%patient: it_0168_005759 index:3222
+
+%patient: it-0168-005759 index:3222
 begin(model(3222)).
 gender(f).
 race(white).
@@ -72784,9 +85935,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
+testid(t).
 end(model(3222)).
-%patient: it_0168_005762 index:3223
+
+%patient: it-0168-005762 index:3223
 begin(model(3223)).
 gender(f).
 race(white).
@@ -72807,10 +85964,15 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3223)).
-%patient: it_0168_005764 index:3224
+
+%patient: it-0168-005764 index:3224
 begin(model(3224)).
 gender(f).
 race(white).
@@ -72830,9 +85992,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3224)).
-%patient: it_0168_005765 index:3225
+
+%patient: it-0168-005765 index:3225
 begin(model(3225)).
 gender(f).
 race(white).
@@ -72853,9 +86020,14 @@ who_f2(1).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3225)).
-%patient: it_0168_005474 index:3226
+
+%patient: it-0168-005474 index:3226
 begin(model(3226)).
 gender(f).
 race(white).
@@ -72877,9 +86049,14 @@ who_f2(0).
 who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3226)).
-%patient: it_0151_005769 index:3227
+
+%patient: it-0151-005769 index:3227
 begin(model(3227)).
 gender(f).
 mobcat(0).
@@ -72896,9 +86073,13 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3227)).
-%patient: it_0168_005761 index:3228
+
+%patient: it-0168-005761 index:3228
 begin(model(3228)).
 gender(f).
 race(white).
@@ -72923,8 +86104,13 @@ who_f3(1).
 who_f4(9).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3228)).
-%patient: it_0123_005696 index:3229
+
+%patient: it-0123-005696 index:3229
 begin(model(3229)).
 gender(m).
 race(white).
@@ -72943,9 +86129,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3229)).
-%patient: it_0143_005261 index:3230
+
+%patient: it-0143-005261 index:3230
 begin(model(3230)).
 gender(f).
 mobcat(4).
@@ -72968,9 +86160,13 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(3230)).
-%patient: it_0143_005243 index:3231
+
+%patient: it-0143-005243 index:3231
 begin(model(3231)).
 gender(f).
 mobcat(1).
@@ -72992,9 +86188,13 @@ who_f2(0).
 who_f3(1).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+testid(t).
 end(model(3231)).
-%patient: it_0166_005096 index:3232
+
+%patient: it-0166-005096 index:3232
 begin(model(3232)).
 gender(f).
 race(white).
@@ -73018,10 +86218,14 @@ who_f2(0).
 who_f3(0).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(1,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3232)).
-%patient: it_0125_003895 index:3233
+
+%patient: it-0125-003895 index:3233
 begin(model(3233)).
 gender(f).
 race(white).
@@ -73045,8 +86249,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3233)).
-%patient: it_0125_003991 index:3234
+
+%patient: it-0125-003991 index:3234
 begin(model(3234)).
 gender(m).
 race(white).
@@ -73069,8 +86278,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3234)).
-%patient: it_0051_006778 index:3235
+
+%patient: it-0051-006778 index:3235
 begin(model(3235)).
 gender(f).
 race(white).
@@ -73091,10 +86305,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3235)).
-%patient: it_0051_006663 index:3236
+
+%patient: it-0051-006663 index:3236
 begin(model(3236)).
 gender(f).
 race(white).
@@ -73115,9 +86333,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3236)).
-%patient: it_0051_006452 index:3237
+
+%patient: it-0051-006452 index:3237
 begin(model(3237)).
 gender(m).
 race(white).
@@ -73135,9 +86359,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3237)).
-%patient: it_0051_006420 index:3238
+
+%patient: it-0051-006420 index:3238
 begin(model(3238)).
 gender(m).
 race(white).
@@ -73155,8 +86384,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3238)).
-%patient: it_0051_006656 index:3239
+
+%patient: it-0051-006656 index:3239
 begin(model(3239)).
 gender(f).
 race(white).
@@ -73177,8 +86411,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3239)).
-%patient: it_0051_006647 index:3240
+
+%patient: it-0051-006647 index:3240
 begin(model(3240)).
 gender(f).
 race(white).
@@ -73200,9 +86439,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3240)).
-%patient: it_0051_006650 index:3241
+
+%patient: it-0051-006650 index:3241
 begin(model(3241)).
 gender(f).
 race(white).
@@ -73224,8 +86468,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3241)).
-%patient: it_0051_006673 index:3242
+
+%patient: it-0051-006673 index:3242
 begin(model(3242)).
 gender(f).
 race(white).
@@ -73243,8 +86493,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3242)).
-%patient: it_0051_006667 index:3243
+
+%patient: it-0051-006667 index:3243
 begin(model(3243)).
 gender(f).
 race(white).
@@ -73268,8 +86523,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3243)).
-%patient: it_0106_006692 index:3244
+
+%patient: it-0106-006692 index:3244
 begin(model(3244)).
 gender(f).
 race(white).
@@ -73292,8 +86553,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3244)).
-%patient: it_0051_006643 index:3245
+
+%patient: it-0051-006643 index:3245
 begin(model(3245)).
 gender(f).
 race(white).
@@ -73314,8 +86580,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3245)).
-%patient: it_0051_006688 index:3246
+
+%patient: it-0051-006688 index:3246
 begin(model(3246)).
 gender(f).
 race(white).
@@ -73335,10 +86607,14 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3246)).
-%patient: it_0051_006649 index:3247
+
+%patient: it-0051-006649 index:3247
 begin(model(3247)).
 gender(f).
 race(white).
@@ -73358,10 +86634,15 @@ who_f2(0).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3247)).
-%patient: it_0051_006662 index:3248
+
+%patient: it-0051-006662 index:3248
 begin(model(3248)).
 gender(f).
 race(white).
@@ -73381,8 +86662,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3248)).
-%patient: it_0051_006453 index:3249
+
+%patient: it-0051-006453 index:3249
 begin(model(3249)).
 gender(f).
 race(white).
@@ -73406,8 +86693,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3249)).
-%patient: it_0051_006645 index:3250
+
+%patient: it-0051-006645 index:3250
 begin(model(3250)).
 gender(m).
 race(white).
@@ -73428,9 +86720,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3250)).
-%patient: it_0051_006661 index:3251
+
+%patient: it-0051-006661 index:3251
 begin(model(3251)).
 gender(m).
 race(white).
@@ -73450,8 +86746,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3251)).
-%patient: it_0051_006675 index:3252
+
+%patient: it-0051-006675 index:3252
 begin(model(3252)).
 gender(m).
 race(white).
@@ -73472,9 +86773,12 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
 end(model(3252)).
-%patient: it_0051_006651 index:3253
+
+%patient: it-0051-006651 index:3253
 begin(model(3253)).
 gender(f).
 race(white).
@@ -73495,9 +86799,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3253)).
-%patient: it_0051_006449 index:3254
+
+%patient: it-0051-006449 index:3254
 begin(model(3254)).
 gender(f).
 race(white).
@@ -73519,9 +86827,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3254)).
-%patient: it_0051_006646 index:3255
+
+%patient: it-0051-006646 index:3255
 begin(model(3255)).
 gender(f).
 race(white).
@@ -73543,8 +86855,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3255)).
-%patient: it_0051_006648 index:3256
+
+%patient: it-0051-006648 index:3256
 begin(model(3256)).
 gender(f).
 race(white).
@@ -73563,9 +86880,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
-testid(t).
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3256)).
-%patient: it_0051_006325 index:3257
+
+%patient: it-0051-006325 index:3257
 begin(model(3257)).
 gender(f).
 race(white).
@@ -73586,8 +86907,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3257)).
-%patient: it_0051_006451 index:3258
+
+%patient: it-0051-006451 index:3258
 begin(model(3258)).
 gender(f).
 race(white).
@@ -73607,8 +86933,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3258)).
-%patient: it_0051_006690 index:3259
+
+%patient: it-0051-006690 index:3259
 begin(model(3259)).
 gender(f).
 race(white).
@@ -73631,8 +86962,13 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3259)).
-%patient: it_0051_006655 index:3260
+
+%patient: it-0051-006655 index:3260
 begin(model(3260)).
 gender(f).
 race(white).
@@ -73655,9 +86991,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,3).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3260)).
-%patient: it_0051_006699 index:3261
+
+%patient: it-0051-006699 index:3261
 begin(model(3261)).
 gender(f).
 race(white).
@@ -73678,8 +87019,14 @@ who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
 neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3261)).
-%patient: it_0128_004726 index:3262
+
+%patient: it-0128-004726 index:3262
 begin(model(3262)).
 gender(f).
 race(white).
@@ -73696,10 +87043,15 @@ who_f2(9).
 who_f3(0).
 who_f4(1).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 testid(t).
 end(model(3262)).
-%patient: it_0111_006512 index:3263
+
+%patient: it-0111-006512 index:3263
 begin(model(3263)).
 gender(m).
 race(white).
@@ -73717,9 +87069,15 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3263)).
-%patient: it_0124_005134 index:3264
+
+%patient: it-0124-005134 index:3264
 begin(model(3264)).
 gender(f).
 race(white).
@@ -73738,9 +87096,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(1).
+vzvvaccine(0).
 end(model(3264)).
-%patient: it_0124_005249 index:3265
+
+%patient: it-0124-005249 index:3265
 begin(model(3265)).
 gender(f).
 race(white).
@@ -73761,9 +87124,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3265)).
-%patient: it_0124_005254 index:3266
+
+%patient: it-0124-005254 index:3266
 begin(model(3266)).
 gender(f).
 race(white).
@@ -73781,9 +87149,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3266)).
-%patient: it_0124_005284 index:3267
+
+%patient: it-0124-005284 index:3267
 begin(model(3267)).
 gender(f).
 race(white).
@@ -73805,9 +87178,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3267)).
-%patient: it_0111_005869 index:3268
+
+%patient: it-0111-005869 index:3268
 begin(model(3268)).
 gender(m).
 race(white).
@@ -73824,9 +87202,15 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3268)).
-%patient: it_0124_005133 index:3269
+
+%patient: it-0124-005133 index:3269
 begin(model(3269)).
 gender(f).
 race(white).
@@ -73849,10 +87233,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3269)).
-%patient: it_0124_005269 index:3270
+
+%patient: it-0124-005269 index:3270
 begin(model(3270)).
 gender(f).
 race(white).
@@ -73871,9 +87259,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,2).
+fluvaccine(1).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3270)).
-%patient: it_0111_006069 index:3271
+
+%patient: it-0111-006069 index:3271
 begin(model(3271)).
 gender(f).
 race(black).
@@ -73890,10 +87283,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(1).
+vzvvaccine(0).
 testid(t).
 end(model(3271)).
-%patient: it_0111_006274 index:3272
+
+%patient: it-0111-006274 index:3272
 begin(model(3272)).
 gender(f).
 race(white).
@@ -73915,9 +87312,15 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
+testid(t).
 end(model(3272)).
-%patient: it_0111_006352 index:3273
+
+%patient: it-0111-006352 index:3273
 begin(model(3273)).
 gender(f).
 race(white).
@@ -73934,9 +87337,14 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
+neg.
+covidvaccine(0,1).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3273)).
-%patient: it_0111_006270 index:3274
+
+%patient: it-0111-006270 index:3274
 begin(model(3274)).
 gender(f).
 race(white).
@@ -73958,6 +87366,9 @@ who_f2(9).
 who_f3(9).
 who_f4(9).
 typeofoutcome_updated(9).
-pos.
-testid(t).
+neg.
+covidvaccine(0,2).
+fluvaccine(0).
+antipneumovaccine(0).
+vzvvaccine(0).
 end(model(3274)).

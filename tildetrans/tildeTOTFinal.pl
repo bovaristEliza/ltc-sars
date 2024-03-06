@@ -5840,7 +5840,7 @@ end(model(265)).
 %patient: it_0061_000672 index:266
 begin(model(266)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(2).
@@ -6328,7 +6328,7 @@ end(model(286)).
 %patient: it_0061_000651 index:287
 begin(model(287)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(1).
@@ -7163,7 +7163,7 @@ end(model(321)).
 %patient: it_0061_000621 index:322
 begin(model(322)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(2).
@@ -7830,7 +7830,7 @@ end(model(351)).
 %patient: it_0152_004981 index:352
 begin(model(352)).
 gender(m).
-race(other or unknown).
+race(other).
 mobcat(1).
 pa3mcat(4).
 numberdoses(2).
@@ -9121,7 +9121,7 @@ end(model(406)).
 %patient: it_0061_000591 index:407
 begin(model(407)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(2).
@@ -9150,7 +9150,7 @@ end(model(407)).
 %patient: it_0061_000641 index:408
 begin(model(408)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(2).
@@ -10120,7 +10120,7 @@ end(model(448)).
 %patient: it_0141_005818 index:449
 begin(model(449)).
 gender(f).
-race(other or unknown).
+race(other).
 mobcat(0).
 pa3mcat(2).
 numberdoses(3).
@@ -10685,7 +10685,7 @@ end(model(472)).
 %patient: it_0061_000614 index:473
 begin(model(473)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -11040,7 +11040,7 @@ end(model(487)).
 %patient: it_0061_000618 index:488
 begin(model(488)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -16272,7 +16272,7 @@ end(model(749)).
 %patient: it_0152_004897 index:750
 begin(model(750)).
 gender(m).
-race(other or unknown).
+race(other).
 mobcat(9).
 pa3mcat(9).
 numberdoses(2).
@@ -23678,7 +23678,7 @@ end(model(1060)).
 %patient: it_0061_000577 index:1061
 begin(model(1061)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -23762,7 +23762,7 @@ end(model(1063)).
 %patient: it_0061_000585 index:1064
 begin(model(1064)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(2).
 pa3mcat(0).
 numberdoses(3).
@@ -23785,7 +23785,7 @@ end(model(1064)).
 %patient: it_0061_000586 index:1065
 begin(model(1065)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -23810,7 +23810,7 @@ end(model(1065)).
 %patient: it_0061_000588 index:1066
 begin(model(1066)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -23835,7 +23835,7 @@ end(model(1066)).
 %patient: it_0061_000592 index:1067
 begin(model(1067)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -23861,7 +23861,7 @@ end(model(1067)).
 %patient: it_0061_000593 index:1068
 begin(model(1068)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -23885,7 +23885,7 @@ end(model(1068)).
 %patient: it_0061_000597 index:1069
 begin(model(1069)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -23910,7 +23910,7 @@ end(model(1069)).
 %patient: it_0061_000599 index:1070
 begin(model(1070)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -23937,7 +23937,7 @@ end(model(1070)).
 %patient: it_0061_000600 index:1071
 begin(model(1071)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -23963,7 +23963,7 @@ end(model(1071)).
 %patient: it_0061_000603 index:1072
 begin(model(1072)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -23988,7 +23988,7 @@ end(model(1072)).
 %patient: it_0061_000604 index:1073
 begin(model(1073)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -24010,7 +24010,7 @@ end(model(1073)).
 %patient: it_0061_000606 index:1074
 begin(model(1074)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(2).
@@ -24033,7 +24033,7 @@ end(model(1074)).
 %patient: it_0061_000608 index:1075
 begin(model(1075)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24060,7 +24060,7 @@ end(model(1075)).
 %patient: it_0061_000612 index:1076
 begin(model(1076)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24090,7 +24090,7 @@ end(model(1076)).
 %patient: it_0061_000617 index:1077
 begin(model(1077)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24122,7 +24122,7 @@ end(model(1077)).
 %patient: it_0061_000619 index:1078
 begin(model(1078)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -24148,7 +24148,7 @@ end(model(1078)).
 %patient: it_0061_000622 index:1079
 begin(model(1079)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24178,7 +24178,7 @@ end(model(1079)).
 %patient: it_0061_000626 index:1080
 begin(model(1080)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24203,7 +24203,7 @@ end(model(1080)).
 %patient: it_0061_000627 index:1081
 begin(model(1081)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24227,7 +24227,7 @@ end(model(1081)).
 %patient: it_0061_000628 index:1082
 begin(model(1082)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24251,7 +24251,7 @@ end(model(1082)).
 %patient: it_0061_000634 index:1083
 begin(model(1083)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -24272,7 +24272,7 @@ end(model(1083)).
 %patient: it_0061_000639 index:1084
 begin(model(1084)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -24298,7 +24298,7 @@ end(model(1084)).
 %patient: it_0061_000645 index:1085
 begin(model(1085)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24326,7 +24326,7 @@ end(model(1085)).
 %patient: it_0061_000649 index:1086
 begin(model(1086)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24349,7 +24349,7 @@ end(model(1086)).
 %patient: it_0061_000650 index:1087
 begin(model(1087)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24378,7 +24378,7 @@ end(model(1087)).
 %patient: it_0061_000654 index:1088
 begin(model(1088)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(3).
 pa3mcat(4).
 numberdoses(3).
@@ -24402,7 +24402,7 @@ end(model(1088)).
 %patient: it_0061_000655 index:1089
 begin(model(1089)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(0).
 pa3mcat(0).
 numberdoses(3).
@@ -24428,7 +24428,7 @@ end(model(1089)).
 %patient: it_0061_000656 index:1090
 begin(model(1090)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24454,7 +24454,7 @@ end(model(1090)).
 %patient: it_0061_000668 index:1091
 begin(model(1091)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24482,7 +24482,7 @@ end(model(1091)).
 %patient: it_0061_000671 index:1092
 begin(model(1092)).
 gender(m).
-race(not available).
+race(notavailable).
 mobcat(1).
 pa3mcat(4).
 numberdoses(3).
@@ -24508,7 +24508,7 @@ end(model(1092)).
 %patient: it_0061_000673 index:1093
 begin(model(1093)).
 gender(f).
-race(not available).
+race(notavailable).
 mobcat(2).
 pa3mcat(0).
 numberdoses(3).
@@ -26183,7 +26183,7 @@ end(model(1155)).
 %patient: it_0061_004025 index:1156
 begin(model(1156)).
 gender(m).
-race(other or unknown).
+race(other).
 mobcat(2).
 pa3mcat(0).
 numberdoses(3).

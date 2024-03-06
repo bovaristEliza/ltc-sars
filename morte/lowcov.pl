@@ -66,7 +66,7 @@ who_f2(it_0141_005393,0).
 who_f3(it_0141_005393,0).
 who_f4(it_0141_005393,1).
 typeofoutcome_updated(it_0141_005393,0).
-patient(it_0141_005393,pos).
+patient(it_0141_005393,neg).
 covidvaccine(it_0141_005393,0,3).
 fluvaccine(it_0141_005393,1).
 antipneumovaccine(it_0141_005393,1).
@@ -92,7 +92,7 @@ who_f2(it_0141_005394,0).
 who_f3(it_0141_005394,0).
 who_f4(it_0141_005394,1).
 typeofoutcome_updated(it_0141_005394,0).
-patient(it_0141_005394,pos).
+patient(it_0141_005394,neg).
 covidvaccine(it_0141_005394,0,3).
 fluvaccine(it_0141_005394,1).
 antipneumovaccine(it_0141_005394,0).
@@ -119,7 +119,7 @@ who_f2(it_0141_005399,0).
 who_f3(it_0141_005399,0).
 who_f4(it_0141_005399,1).
 typeofoutcome_updated(it_0141_005399,0).
-patient(it_0141_005399,pos).
+patient(it_0141_005399,neg).
 covidvaccine(it_0141_005399,0,3).
 fluvaccine(it_0141_005399,1).
 antipneumovaccine(it_0141_005399,1).
@@ -144,7 +144,7 @@ who_f2(it_0103_006123,9).
 who_f3(it_0103_006123,1).
 who_f4(it_0103_006123,1).
 typeofoutcome_updated(it_0103_006123,0).
-patient(it_0103_006123,pos).
+patient(it_0103_006123,neg).
 covidvaccine(it_0103_006123,0,2).
 fluvaccine(it_0103_006123,1).
 antipneumovaccine(it_0103_006123,1).
@@ -168,7 +168,7 @@ who_f2(it_0103_006137,1).
 who_f3(it_0103_006137,1).
 who_f4(it_0103_006137,1).
 typeofoutcome_updated(it_0103_006137,0).
-patient(it_0103_006137,pos).
+patient(it_0103_006137,neg).
 covidvaccine(it_0103_006137,0,2).
 fluvaccine(it_0103_006137,1).
 antipneumovaccine(it_0103_006137,1).
@@ -200,7 +200,7 @@ who_f2(it_0155_006575,9).
 who_f3(it_0155_006575,9).
 who_f4(it_0155_006575,9).
 typeofoutcome_updated(it_0155_006575,1).
-patient(it_0155_006575,neg).
+patient(it_0155_006575,pos).
 covidvaccine(it_0155_006575,0,1).
 fluvaccine(it_0155_006575,0).
 antipneumovaccine(it_0155_006575,0).
@@ -217,7 +217,7 @@ who_f2(it_0062_004334,9).
 who_f3(it_0062_004334,9).
 who_f4(it_0062_004334,9).
 typeofoutcome_updated(it_0062_004334,1).
-patient(it_0062_004334,neg).
+patient(it_0062_004334,pos).
 covidvaccine(it_0062_004334,0,2).
 fluvaccine(it_0062_004334,1).
 antipneumovaccine(it_0062_004334,0).
@@ -235,7 +235,7 @@ who_f2(it_0153_004773,9).
 who_f3(it_0153_004773,9).
 who_f4(it_0153_004773,9).
 typeofoutcome_updated(it_0153_004773,1).
-patient(it_0153_004773,neg).
+patient(it_0153_004773,pos).
 covidvaccine(it_0153_004773,0,2).
 
 %patient: it-0153-004782 index:11
@@ -250,7 +250,7 @@ who_f2(it_0153_004782,9).
 who_f3(it_0153_004782,9).
 who_f4(it_0153_004782,9).
 typeofoutcome_updated(it_0153_004782,1).
-patient(it_0153_004782,neg).
+patient(it_0153_004782,pos).
 covidvaccine(it_0153_004782,0,2).
 
 %patient: it-0154-004816 index:12
@@ -265,7 +265,7 @@ who_f2(it_0154_004816,9).
 who_f3(it_0154_004816,9).
 who_f4(it_0154_004816,9).
 typeofoutcome_updated(it_0154_004816,1).
-patient(it_0154_004816,neg).
+patient(it_0154_004816,pos).
 covidvaccine(it_0154_004816,0,2).
 
 %patient: it-0154-004817 index:13
@@ -280,7 +280,7 @@ who_f2(it_0154_004817,9).
 who_f3(it_0154_004817,9).
 who_f4(it_0154_004817,9).
 typeofoutcome_updated(it_0154_004817,1).
-patient(it_0154_004817,neg).
+patient(it_0154_004817,pos).
 covidvaccine(it_0154_004817,0,2).
 
 %patient: it-0044-003650 index:14
@@ -298,7 +298,7 @@ who_f2(it_0044_003650,9).
 who_f3(it_0044_003650,9).
 who_f4(it_0044_003650,9).
 typeofoutcome_updated(it_0044_003650,1).
-patient(it_0044_003650,neg).
+patient(it_0044_003650,pos).
 covidvaccine(it_0044_003650,0,2).
 fluvaccine(it_0044_003650,0).
 antipneumovaccine(it_0044_003650,0).
@@ -315,7 +315,7 @@ who_f2(it_0062_004335,0).
 who_f3(it_0062_004335,9).
 who_f4(it_0062_004335,9).
 typeofoutcome_updated(it_0062_004335,1).
-patient(it_0062_004335,neg).
+patient(it_0062_004335,pos).
 covidvaccine(it_0062_004335,0,2).
 fluvaccine(it_0062_004335,1).
 antipneumovaccine(it_0062_004335,0).
@@ -332,7 +332,7 @@ who_f2(it_0062_004382,0).
 who_f3(it_0062_004382,9).
 who_f4(it_0062_004382,9).
 typeofoutcome_updated(it_0062_004382,1).
-patient(it_0062_004382,neg).
+patient(it_0062_004382,pos).
 covidvaccine(it_0062_004382,0,2).
 fluvaccine(it_0062_004382,1).
 antipneumovaccine(it_0062_004382,0).
@@ -349,7 +349,7 @@ who_f2(it_0062_004386,0).
 who_f3(it_0062_004386,9).
 who_f4(it_0062_004386,9).
 typeofoutcome_updated(it_0062_004386,1).
-patient(it_0062_004386,neg).
+patient(it_0062_004386,pos).
 covidvaccine(it_0062_004386,0,2).
 fluvaccine(it_0062_004386,1).
 antipneumovaccine(it_0062_004386,0).
@@ -366,7 +366,7 @@ who_f2(it_0062_004441,0).
 who_f3(it_0062_004441,9).
 who_f4(it_0062_004441,9).
 typeofoutcome_updated(it_0062_004441,1).
-patient(it_0062_004441,neg).
+patient(it_0062_004441,pos).
 covidvaccine(it_0062_004441,0,2).
 fluvaccine(it_0062_004441,1).
 antipneumovaccine(it_0062_004441,0).
@@ -384,7 +384,7 @@ who_f2(it_0155_004194,0).
 who_f3(it_0155_004194,9).
 who_f4(it_0155_004194,9).
 typeofoutcome_updated(it_0155_004194,1).
-patient(it_0155_004194,neg).
+patient(it_0155_004194,pos).
 covidvaccine(it_0155_004194,0,2).
 fluvaccine(it_0155_004194,1).
 antipneumovaccine(it_0155_004194,0).
@@ -401,7 +401,7 @@ who_f2(it_0129_004686,0).
 who_f3(it_0129_004686,9).
 who_f4(it_0129_004686,9).
 typeofoutcome_updated(it_0129_004686,1).
-patient(it_0129_004686,neg).
+patient(it_0129_004686,pos).
 covidvaccine(it_0129_004686,0,2).
 fluvaccine(it_0129_004686,1).
 antipneumovaccine(it_0129_004686,0).
@@ -419,7 +419,7 @@ who_f2(it_0143_004854,0).
 who_f3(it_0143_004854,9).
 who_f4(it_0143_004854,9).
 typeofoutcome_updated(it_0143_004854,1).
-patient(it_0143_004854,neg).
+patient(it_0143_004854,pos).
 covidvaccine(it_0143_004854,0,1).
 
 %patient: it-0153-004775 index:22
@@ -436,7 +436,7 @@ who_f2(it_0153_004775,0).
 who_f3(it_0153_004775,9).
 who_f4(it_0153_004775,9).
 typeofoutcome_updated(it_0153_004775,1).
-patient(it_0153_004775,neg).
+patient(it_0153_004775,pos).
 covidvaccine(it_0153_004775,0,2).
 
 %patient: it-0154-004791 index:23
@@ -453,7 +453,7 @@ who_f2(it_0154_004791,0).
 who_f3(it_0154_004791,9).
 who_f4(it_0154_004791,9).
 typeofoutcome_updated(it_0154_004791,1).
-patient(it_0154_004791,neg).
+patient(it_0154_004791,pos).
 covidvaccine(it_0154_004791,0,2).
 
 %patient: it-0154-004804 index:24
@@ -467,7 +467,7 @@ who_f2(it_0154_004804,0).
 who_f3(it_0154_004804,9).
 who_f4(it_0154_004804,9).
 typeofoutcome_updated(it_0154_004804,1).
-patient(it_0154_004804,neg).
+patient(it_0154_004804,pos).
 covidvaccine(it_0154_004804,0,2).
 
 %patient: it-0154-004815 index:25
@@ -484,7 +484,7 @@ who_f2(it_0154_004815,0).
 who_f3(it_0154_004815,9).
 who_f4(it_0154_004815,9).
 typeofoutcome_updated(it_0154_004815,1).
-patient(it_0154_004815,neg).
+patient(it_0154_004815,pos).
 covidvaccine(it_0154_004815,0,2).
 
 %patient: it-0003-003761 index:26
@@ -503,7 +503,7 @@ who_f2(it_0003_003761,0).
 who_f3(it_0003_003761,0).
 who_f4(it_0003_003761,9).
 typeofoutcome_updated(it_0003_003761,1).
-patient(it_0003_003761,neg).
+patient(it_0003_003761,pos).
 covidvaccine(it_0003_003761,0,2).
 fluvaccine(it_0003_003761,1).
 
@@ -518,7 +518,7 @@ who_f2(it_0062_004328,0).
 who_f3(it_0062_004328,0).
 who_f4(it_0062_004328,9).
 typeofoutcome_updated(it_0062_004328,1).
-patient(it_0062_004328,neg).
+patient(it_0062_004328,pos).
 covidvaccine(it_0062_004328,0,2).
 fluvaccine(it_0062_004328,1).
 antipneumovaccine(it_0062_004328,0).
@@ -535,7 +535,7 @@ who_f2(it_0062_004377,0).
 who_f3(it_0062_004377,0).
 who_f4(it_0062_004377,9).
 typeofoutcome_updated(it_0062_004377,1).
-patient(it_0062_004377,neg).
+patient(it_0062_004377,pos).
 covidvaccine(it_0062_004377,0,2).
 fluvaccine(it_0062_004377,0).
 antipneumovaccine(it_0062_004377,0).
@@ -552,7 +552,7 @@ who_f2(it_0062_004440,0).
 who_f3(it_0062_004440,0).
 who_f4(it_0062_004440,9).
 typeofoutcome_updated(it_0062_004440,1).
-patient(it_0062_004440,neg).
+patient(it_0062_004440,pos).
 covidvaccine(it_0062_004440,0,2).
 fluvaccine(it_0062_004440,1).
 antipneumovaccine(it_0062_004440,0).
@@ -569,7 +569,7 @@ who_f2(it_0155_004190,0).
 who_f3(it_0155_004190,0).
 who_f4(it_0155_004190,9).
 typeofoutcome_updated(it_0155_004190,1).
-patient(it_0155_004190,neg).
+patient(it_0155_004190,pos).
 covidvaccine(it_0155_004190,0,2).
 fluvaccine(it_0155_004190,0).
 antipneumovaccine(it_0155_004190,0).
@@ -591,7 +591,7 @@ who_f2(it_0153_004763,0).
 who_f3(it_0153_004763,0).
 who_f4(it_0153_004763,9).
 typeofoutcome_updated(it_0153_004763,1).
-patient(it_0153_004763,neg).
+patient(it_0153_004763,pos).
 covidvaccine(it_0153_004763,0,2).
 
 %patient: it-0153-004765 index:32
@@ -606,7 +606,7 @@ who_f2(it_0153_004765,0).
 who_f3(it_0153_004765,0).
 who_f4(it_0153_004765,9).
 typeofoutcome_updated(it_0153_004765,1).
-patient(it_0153_004765,neg).
+patient(it_0153_004765,pos).
 covidvaccine(it_0153_004765,0,2).
 
 %patient: it-0153-004766 index:33
@@ -623,7 +623,7 @@ who_f2(it_0153_004766,0).
 who_f3(it_0153_004766,0).
 who_f4(it_0153_004766,9).
 typeofoutcome_updated(it_0153_004766,1).
-patient(it_0153_004766,neg).
+patient(it_0153_004766,pos).
 covidvaccine(it_0153_004766,0,2).
 
 %patient: it-0153-004776 index:34
@@ -640,7 +640,7 @@ who_f2(it_0153_004776,0).
 who_f3(it_0153_004776,0).
 who_f4(it_0153_004776,9).
 typeofoutcome_updated(it_0153_004776,1).
-patient(it_0153_004776,neg).
+patient(it_0153_004776,pos).
 covidvaccine(it_0153_004776,0,2).
 
 %patient: it-0154-004789 index:35
@@ -659,7 +659,7 @@ who_f2(it_0154_004789,0).
 who_f3(it_0154_004789,0).
 who_f4(it_0154_004789,9).
 typeofoutcome_updated(it_0154_004789,1).
-patient(it_0154_004789,neg).
+patient(it_0154_004789,pos).
 covidvaccine(it_0154_004789,0,2).
 
 %patient: it-0154-004809 index:36
@@ -678,7 +678,7 @@ who_f2(it_0154_004809,0).
 who_f3(it_0154_004809,0).
 who_f4(it_0154_004809,9).
 typeofoutcome_updated(it_0154_004809,1).
-patient(it_0154_004809,neg).
+patient(it_0154_004809,pos).
 covidvaccine(it_0154_004809,0,2).
 
 %patient: it-0154-004810 index:37
@@ -697,7 +697,7 @@ who_f2(it_0154_004810,0).
 who_f3(it_0154_004810,0).
 who_f4(it_0154_004810,9).
 typeofoutcome_updated(it_0154_004810,1).
-patient(it_0154_004810,neg).
+patient(it_0154_004810,pos).
 covidvaccine(it_0154_004810,0,2).
 
 %patient: it-0062-004330 index:38
@@ -711,7 +711,7 @@ who_f2(it_0062_004330,0).
 who_f3(it_0062_004330,0).
 who_f4(it_0062_004330,9).
 typeofoutcome_updated(it_0062_004330,1).
-patient(it_0062_004330,neg).
+patient(it_0062_004330,pos).
 covidvaccine(it_0062_004330,0,3).
 fluvaccine(it_0062_004330,1).
 antipneumovaccine(it_0062_004330,0).
@@ -728,7 +728,7 @@ who_f2(it_0062_004337,0).
 who_f3(it_0062_004337,0).
 who_f4(it_0062_004337,9).
 typeofoutcome_updated(it_0062_004337,1).
-patient(it_0062_004337,neg).
+patient(it_0062_004337,pos).
 covidvaccine(it_0062_004337,0,3).
 fluvaccine(it_0062_004337,1).
 antipneumovaccine(it_0062_004337,0).
@@ -745,7 +745,7 @@ who_f2(it_0062_004383,0).
 who_f3(it_0062_004383,0).
 who_f4(it_0062_004383,9).
 typeofoutcome_updated(it_0062_004383,1).
-patient(it_0062_004383,neg).
+patient(it_0062_004383,pos).
 covidvaccine(it_0062_004383,0,3).
 fluvaccine(it_0062_004383,1).
 antipneumovaccine(it_0062_004383,0).
@@ -762,7 +762,7 @@ who_f2(it_0062_004434,0).
 who_f3(it_0062_004434,0).
 who_f4(it_0062_004434,9).
 typeofoutcome_updated(it_0062_004434,1).
-patient(it_0062_004434,neg).
+patient(it_0062_004434,pos).
 covidvaccine(it_0062_004434,0,3).
 antipneumovaccine(it_0062_004434,0).
 vzvvaccine(it_0062_004434,0).
@@ -778,7 +778,7 @@ who_f2(it_0062_004446,0).
 who_f3(it_0062_004446,0).
 who_f4(it_0062_004446,9).
 typeofoutcome_updated(it_0062_004446,1).
-patient(it_0062_004446,neg).
+patient(it_0062_004446,pos).
 covidvaccine(it_0062_004446,0,3).
 fluvaccine(it_0062_004446,1).
 antipneumovaccine(it_0062_004446,0).
@@ -800,7 +800,7 @@ who_f2(it_0154_004811,0).
 who_f3(it_0154_004811,0).
 who_f4(it_0154_004811,9).
 typeofoutcome_updated(it_0154_004811,1).
-patient(it_0154_004811,neg).
+patient(it_0154_004811,pos).
 covidvaccine(it_0154_004811,0,3).
 
 %patient: it-0165-005571 index:44
@@ -817,7 +817,7 @@ who_f2(it_0165_005571,9).
 who_f3(it_0165_005571,0).
 who_f4(it_0165_005571,9).
 typeofoutcome_updated(it_0165_005571,1).
-patient(it_0165_005571,neg).
+patient(it_0165_005571,pos).
 covidvaccine(it_0165_005571,0,2).
 fluvaccine(it_0165_005571,1).
 antipneumovaccine(it_0165_005571,0).
@@ -837,7 +837,7 @@ who_f2(it_0129_004689,9).
 who_f3(it_0129_004689,0).
 who_f4(it_0129_004689,9).
 typeofoutcome_updated(it_0129_004689,1).
-patient(it_0129_004689,neg).
+patient(it_0129_004689,pos).
 covidvaccine(it_0129_004689,0,2).
 fluvaccine(it_0129_004689,1).
 antipneumovaccine(it_0129_004689,0).
@@ -861,7 +861,7 @@ who_f2(it_0152_005046,0).
 who_f3(it_0152_005046,0).
 who_f4(it_0152_005046,9).
 typeofoutcome_updated(it_0152_005046,1).
-patient(it_0152_005046,neg).
+patient(it_0152_005046,pos).
 covidvaccine(it_0152_005046,0,2).
 
 %patient: it-0152-005075 index:47
@@ -878,7 +878,7 @@ who_f2(it_0152_005075,0).
 who_f3(it_0152_005075,0).
 who_f4(it_0152_005075,9).
 typeofoutcome_updated(it_0152_005075,1).
-patient(it_0152_005075,neg).
+patient(it_0152_005075,pos).
 covidvaccine(it_0152_005075,0,2).
 
 %patient: it-0152-004996 index:48
@@ -895,7 +895,7 @@ who_f2(it_0152_004996,0).
 who_f3(it_0152_004996,0).
 who_f4(it_0152_004996,9).
 typeofoutcome_updated(it_0152_004996,1).
-patient(it_0152_004996,neg).
+patient(it_0152_004996,pos).
 covidvaccine(it_0152_004996,0,2).
 
 %patient: it-0143-005322 index:49
@@ -911,7 +911,7 @@ who_f2(it_0143_005322,0).
 who_f3(it_0143_005322,1).
 who_f4(it_0143_005322,9).
 typeofoutcome_updated(it_0143_005322,1).
-patient(it_0143_005322,neg).
+patient(it_0143_005322,pos).
 covidvaccine(it_0143_005322,0,2).
 
 %patient: it-0152-005552 index:50
@@ -929,7 +929,7 @@ who_f2(it_0152_005552,0).
 who_f3(it_0152_005552,0).
 who_f4(it_0152_005552,0).
 typeofoutcome_updated(it_0152_005552,1).
-patient(it_0152_005552,neg).
+patient(it_0152_005552,pos).
 covidvaccine(it_0152_005552,0,2).
 
 %patient: it-0165-005565 index:51
@@ -948,7 +948,7 @@ who_f2(it_0165_005565,9).
 who_f3(it_0165_005565,0).
 who_f4(it_0165_005565,4).
 typeofoutcome_updated(it_0165_005565,1).
-patient(it_0165_005565,neg).
+patient(it_0165_005565,pos).
 covidvaccine(it_0165_005565,0,2).
 fluvaccine(it_0165_005565,1).
 antipneumovaccine(it_0165_005565,0).
@@ -968,7 +968,7 @@ who_f2(it_0129_004677,0).
 who_f3(it_0129_004677,9).
 who_f4(it_0129_004677,9).
 typeofoutcome_updated(it_0129_004677,1).
-patient(it_0129_004677,neg).
+patient(it_0129_004677,pos).
 covidvaccine(it_0129_004677,0,2).
 fluvaccine(it_0129_004677,1).
 antipneumovaccine(it_0129_004677,0).
@@ -1012,7 +1012,7 @@ who_f2(it_0045_005291,9).
 who_f3(it_0045_005291,9).
 who_f4(it_0045_005291,9).
 typeofoutcome_updated(it_0045_005291,1).
-patient(it_0045_005291,neg).
+patient(it_0045_005291,pos).
 covidvaccine(it_0045_005291,0,1).
 fluvaccine(it_0045_005291,0).
 antipneumovaccine(it_0045_005291,0).
@@ -1034,7 +1034,7 @@ who_f2(it_0155_006574,9).
 who_f3(it_0155_006574,9).
 who_f4(it_0155_006574,9).
 typeofoutcome_updated(it_0155_006574,1).
-patient(it_0155_006574,neg).
+patient(it_0155_006574,pos).
 covidvaccine(it_0155_006574,0,2).
 fluvaccine(it_0155_006574,0).
 antipneumovaccine(it_0155_006574,0).
@@ -1054,7 +1054,7 @@ mmsumrev(it_0108_002691,3).
 excovidtot(it_0108_002691).
 who_f1(it_0108_002691,9).
 typeofoutcome_updated(it_0108_002691,1).
-patient(it_0108_002691,neg).
+patient(it_0108_002691,pos).
 covidvaccine(it_0108_002691,0,2).
 fluvaccine(it_0108_002691,1).
 antipneumovaccine(it_0108_002691,0).
@@ -1082,7 +1082,7 @@ who_f2(it_0143_004090,9).
 who_f3(it_0143_004090,9).
 who_f4(it_0143_004090,9).
 typeofoutcome_updated(it_0143_004090,1).
-patient(it_0143_004090,neg).
+patient(it_0143_004090,pos).
 covidvaccine(it_0143_004090,0,1).
 
 %patient: it-0017-003758 index:58
@@ -1109,7 +1109,7 @@ who_f2(it_0017_003758,9).
 who_f3(it_0017_003758,9).
 who_f4(it_0017_003758,9).
 typeofoutcome_updated(it_0017_003758,1).
-patient(it_0017_003758,neg).
+patient(it_0017_003758,pos).
 covidvaccine(it_0017_003758,0,1).
 fluvaccine(it_0017_003758,1).
 antipneumovaccine(it_0017_003758,0).
@@ -1136,7 +1136,7 @@ who_f2(it_0020_003778,9).
 who_f3(it_0020_003778,9).
 who_f4(it_0020_003778,9).
 typeofoutcome_updated(it_0020_003778,1).
-patient(it_0020_003778,neg).
+patient(it_0020_003778,pos).
 covidvaccine(it_0020_003778,0,1).
 fluvaccine(it_0020_003778,1).
 antipneumovaccine(it_0020_003778,0).
@@ -1163,7 +1163,7 @@ who_f2(it_0021_003839,9).
 who_f3(it_0021_003839,9).
 who_f4(it_0021_003839,9).
 typeofoutcome_updated(it_0021_003839,1).
-patient(it_0021_003839,neg).
+patient(it_0021_003839,pos).
 covidvaccine(it_0021_003839,0,1).
 fluvaccine(it_0021_003839,1).
 antipneumovaccine(it_0021_003839,0).
@@ -1183,7 +1183,7 @@ who_f2(it_0030_005601,9).
 who_f3(it_0030_005601,9).
 who_f4(it_0030_005601,9).
 typeofoutcome_updated(it_0030_005601,1).
-patient(it_0030_005601,neg).
+patient(it_0030_005601,pos).
 covidvaccine(it_0030_005601,0,1).
 
 %patient: it-0043-005210 index:62
@@ -1209,7 +1209,7 @@ who_f2(it_0043_005210,9).
 who_f3(it_0043_005210,9).
 who_f4(it_0043_005210,9).
 typeofoutcome_updated(it_0043_005210,1).
-patient(it_0043_005210,neg).
+patient(it_0043_005210,pos).
 covidvaccine(it_0043_005210,0,1).
 fluvaccine(it_0043_005210,0).
 antipneumovaccine(it_0043_005210,0).
@@ -1232,7 +1232,7 @@ who_f2(it_0045_005747,9).
 who_f3(it_0045_005747,9).
 who_f4(it_0045_005747,9).
 typeofoutcome_updated(it_0045_005747,1).
-patient(it_0045_005747,neg).
+patient(it_0045_005747,pos).
 covidvaccine(it_0045_005747,0,1).
 fluvaccine(it_0045_005747,0).
 antipneumovaccine(it_0045_005747,0).
@@ -1257,7 +1257,7 @@ who_f2(it_0132_004283,9).
 who_f3(it_0132_004283,9).
 who_f4(it_0132_004283,9).
 typeofoutcome_updated(it_0132_004283,1).
-patient(it_0132_004283,neg).
+patient(it_0132_004283,pos).
 covidvaccine(it_0132_004283,0,1).
 
 %patient: it-0134-004938 index:65
@@ -1276,7 +1276,7 @@ who_f2(it_0134_004938,9).
 who_f3(it_0134_004938,9).
 who_f4(it_0134_004938,9).
 typeofoutcome_updated(it_0134_004938,1).
-patient(it_0134_004938,neg).
+patient(it_0134_004938,pos).
 covidvaccine(it_0134_004938,0,1).
 fluvaccine(it_0134_004938,0).
 antipneumovaccine(it_0134_004938,0).
@@ -1296,7 +1296,7 @@ who_f2(it_0136_006416,9).
 who_f3(it_0136_006416,9).
 who_f4(it_0136_006416,9).
 typeofoutcome_updated(it_0136_006416,1).
-patient(it_0136_006416,neg).
+patient(it_0136_006416,pos).
 covidvaccine(it_0136_006416,0,1).
 
 %patient: it-0136-006417 index:67
@@ -1317,7 +1317,7 @@ who_f2(it_0136_006417,9).
 who_f3(it_0136_006417,9).
 who_f4(it_0136_006417,9).
 typeofoutcome_updated(it_0136_006417,1).
-patient(it_0136_006417,neg).
+patient(it_0136_006417,pos).
 covidvaccine(it_0136_006417,0,2).
 
 %patient: it-0143-005258 index:68
@@ -1337,7 +1337,7 @@ who_f2(it_0143_005258,9).
 who_f3(it_0143_005258,9).
 who_f4(it_0143_005258,9).
 typeofoutcome_updated(it_0143_005258,1).
-patient(it_0143_005258,neg).
+patient(it_0143_005258,pos).
 covidvaccine(it_0143_005258,0,1).
 
 %patient: it-0143-005270 index:69
@@ -1356,7 +1356,7 @@ who_f2(it_0143_005270,9).
 who_f3(it_0143_005270,9).
 who_f4(it_0143_005270,9).
 typeofoutcome_updated(it_0143_005270,1).
-patient(it_0143_005270,neg).
+patient(it_0143_005270,pos).
 covidvaccine(it_0143_005270,0,1).
 
 %patient: it-0143-006190 index:70
@@ -1375,7 +1375,7 @@ who_f2(it_0143_006190,9).
 who_f3(it_0143_006190,9).
 who_f4(it_0143_006190,9).
 typeofoutcome_updated(it_0143_006190,1).
-patient(it_0143_006190,neg).
+patient(it_0143_006190,pos).
 covidvaccine(it_0143_006190,0,1).
 
 %patient: it-0143-006198 index:71
@@ -1399,7 +1399,7 @@ who_f2(it_0143_006198,9).
 who_f3(it_0143_006198,9).
 who_f4(it_0143_006198,9).
 typeofoutcome_updated(it_0143_006198,1).
-patient(it_0143_006198,neg).
+patient(it_0143_006198,pos).
 covidvaccine(it_0143_006198,0,1).
 
 %patient: it-0143-006280 index:72
@@ -1420,7 +1420,7 @@ who_f2(it_0143_006280,9).
 who_f3(it_0143_006280,9).
 who_f4(it_0143_006280,9).
 typeofoutcome_updated(it_0143_006280,1).
-patient(it_0143_006280,neg).
+patient(it_0143_006280,pos).
 covidvaccine(it_0143_006280,0,1).
 
 %patient: it-0144-006854 index:73
@@ -1447,7 +1447,7 @@ who_f2(it_0144_006854,9).
 who_f3(it_0144_006854,9).
 who_f4(it_0144_006854,9).
 typeofoutcome_updated(it_0144_006854,1).
-patient(it_0144_006854,neg).
+patient(it_0144_006854,pos).
 covidvaccine(it_0144_006854,0,1).
 fluvaccine(it_0144_006854,0).
 antipneumovaccine(it_0144_006854,0).
@@ -1471,7 +1471,7 @@ who_f2(it_0145_006866,9).
 who_f3(it_0145_006866,9).
 who_f4(it_0145_006866,9).
 typeofoutcome_updated(it_0145_006866,1).
-patient(it_0145_006866,neg).
+patient(it_0145_006866,pos).
 covidvaccine(it_0145_006866,0,2).
 fluvaccine(it_0145_006866,0).
 antipneumovaccine(it_0145_006866,0).
@@ -1497,7 +1497,7 @@ who_f2(it_0145_006892,9).
 who_f3(it_0145_006892,9).
 who_f4(it_0145_006892,9).
 typeofoutcome_updated(it_0145_006892,1).
-patient(it_0145_006892,neg).
+patient(it_0145_006892,pos).
 covidvaccine(it_0145_006892,0,1).
 fluvaccine(it_0145_006892,0).
 antipneumovaccine(it_0145_006892,0).
@@ -1527,7 +1527,7 @@ who_f2(it_0166_004978,9).
 who_f3(it_0166_004978,9).
 who_f4(it_0166_004978,9).
 typeofoutcome_updated(it_0166_004978,1).
-patient(it_0166_004978,neg).
+patient(it_0166_004978,pos).
 covidvaccine(it_0166_004978,1,1).
 fluvaccine(it_0166_004978,1).
 antipneumovaccine(it_0166_004978,1).
@@ -1548,7 +1548,7 @@ who_f2(it_0167_006817,9).
 who_f3(it_0167_006817,9).
 who_f4(it_0167_006817,9).
 typeofoutcome_updated(it_0167_006817,1).
-patient(it_0167_006817,neg).
+patient(it_0167_006817,pos).
 covidvaccine(it_0167_006817,1,1).
 fluvaccine(it_0167_006817,0).
 antipneumovaccine(it_0167_006817,0).
@@ -1603,7 +1603,7 @@ who_f2(it_0061_006522,9).
 who_f3(it_0061_006522,9).
 who_f4(it_0061_006522,9).
 typeofoutcome_updated(it_0061_006522,1).
-patient(it_0061_006522,neg).
+patient(it_0061_006522,pos).
 covidvaccine(it_0061_006522,0,1).
 
 %patient: it-0061-006526 index:80
@@ -1626,7 +1626,7 @@ who_f2(it_0061_006526,9).
 who_f3(it_0061_006526,9).
 who_f4(it_0061_006526,9).
 typeofoutcome_updated(it_0061_006526,1).
-patient(it_0061_006526,neg).
+patient(it_0061_006526,pos).
 covidvaccine(it_0061_006526,0,1).
 
 %patient: it-0061-006521 index:81
@@ -1646,7 +1646,7 @@ who_f2(it_0061_006521,0).
 who_f3(it_0061_006521,9).
 who_f4(it_0061_006521,9).
 typeofoutcome_updated(it_0061_006521,1).
-patient(it_0061_006521,neg).
+patient(it_0061_006521,pos).
 covidvaccine(it_0061_006521,0,1).
 
 %patient: it-0143-004260 index:82
@@ -1672,7 +1672,7 @@ who_f2(it_0143_004260,4).
 who_f3(it_0143_004260,9).
 who_f4(it_0143_004260,9).
 typeofoutcome_updated(it_0143_004260,1).
-patient(it_0143_004260,neg).
+patient(it_0143_004260,pos).
 covidvaccine(it_0143_004260,0,1).
 
 %patient: it-0061-004397 index:83
@@ -1717,7 +1717,7 @@ who_f2(it_0061_004028,0).
 who_f3(it_0061_004028,9).
 who_f4(it_0061_004028,9).
 typeofoutcome_updated(it_0061_004028,1).
-patient(it_0061_004028,neg).
+patient(it_0061_004028,pos).
 covidvaccine(it_0061_004028,0,1).
 
 %patient: it-0143-006250 index:85
@@ -1741,7 +1741,7 @@ who_f2(it_0143_006250,4).
 who_f3(it_0143_006250,9).
 who_f4(it_0143_006250,9).
 typeofoutcome_updated(it_0143_006250,1).
-patient(it_0143_006250,neg).
+patient(it_0143_006250,pos).
 covidvaccine(it_0143_006250,0,1).
 
 %patient: it-0061-004567 index:86
@@ -1769,7 +1769,7 @@ who_f2(it_0061_004567,0).
 who_f3(it_0061_004567,9).
 who_f4(it_0061_004567,9).
 typeofoutcome_updated(it_0061_004567,1).
-patient(it_0061_004567,neg).
+patient(it_0061_004567,pos).
 covidvaccine(it_0061_004567,0,1).
 fluvaccine(it_0061_004567,1).
 antipneumovaccine(it_0061_004567,1).
@@ -1797,7 +1797,7 @@ who_f2(it_0061_006489,0).
 who_f3(it_0061_006489,9).
 who_f4(it_0061_006489,9).
 typeofoutcome_updated(it_0061_006489,1).
-patient(it_0061_006489,neg).
+patient(it_0061_006489,pos).
 covidvaccine(it_0061_006489,0,1).
 
 %patient: it-0147-004393 index:88
@@ -1819,7 +1819,7 @@ who_f2(it_0147_004393,9).
 who_f3(it_0147_004393,9).
 who_f4(it_0147_004393,9).
 typeofoutcome_updated(it_0147_004393,1).
-patient(it_0147_004393,neg).
+patient(it_0147_004393,pos).
 covidvaccine(it_0147_004393,0,2).
 
 %patient: it-0061-006531 index:89
@@ -1872,7 +1872,7 @@ who_f2(it_0061_006497,0).
 who_f3(it_0061_006497,9).
 who_f4(it_0061_006497,9).
 typeofoutcome_updated(it_0061_006497,1).
-patient(it_0061_006497,neg).
+patient(it_0061_006497,pos).
 covidvaccine(it_0061_006497,0,1).
 
 %patient: it-0143-004053 index:91
@@ -1893,7 +1893,7 @@ who_f2(it_0143_004053,4).
 who_f3(it_0143_004053,9).
 who_f4(it_0143_004053,9).
 typeofoutcome_updated(it_0143_004053,1).
-patient(it_0143_004053,neg).
+patient(it_0143_004053,pos).
 covidvaccine(it_0143_004053,0,1).
 fluvaccine(it_0143_004053,1).
 antipneumovaccine(it_0143_004053,1).
@@ -1918,7 +1918,7 @@ who_f2(it_0003_000968,9).
 who_f3(it_0003_000968,9).
 who_f4(it_0003_000968,9).
 typeofoutcome_updated(it_0003_000968,1).
-patient(it_0003_000968,neg).
+patient(it_0003_000968,pos).
 covidvaccine(it_0003_000968,0,2).
 fluvaccine(it_0003_000968,1).
 
@@ -1938,7 +1938,7 @@ who_f2(it_0042_003660,9).
 who_f3(it_0042_003660,9).
 who_f4(it_0042_003660,9).
 typeofoutcome_updated(it_0042_003660,1).
-patient(it_0042_003660,neg).
+patient(it_0042_003660,pos).
 covidvaccine(it_0042_003660,0,2).
 fluvaccine(it_0042_003660,1).
 antipneumovaccine(it_0042_003660,0).
@@ -1965,7 +1965,7 @@ who_f2(it_0021_003838,9).
 who_f3(it_0021_003838,9).
 who_f4(it_0021_003838,9).
 typeofoutcome_updated(it_0021_003838,1).
-patient(it_0021_003838,neg).
+patient(it_0021_003838,pos).
 covidvaccine(it_0021_003838,0,2).
 fluvaccine(it_0021_003838,1).
 
@@ -1990,7 +1990,7 @@ who_f2(it_0022_000205,9).
 who_f3(it_0022_000205,9).
 who_f4(it_0022_000205,9).
 typeofoutcome_updated(it_0022_000205,1).
-patient(it_0022_000205,neg).
+patient(it_0022_000205,pos).
 covidvaccine(it_0022_000205,0,2).
 fluvaccine(it_0022_000205,0).
 antipneumovaccine(it_0022_000205,0).
@@ -2018,7 +2018,7 @@ who_f2(it_0043_005211,9).
 who_f3(it_0043_005211,9).
 who_f4(it_0043_005211,9).
 typeofoutcome_updated(it_0043_005211,1).
-patient(it_0043_005211,neg).
+patient(it_0043_005211,pos).
 covidvaccine(it_0043_005211,0,2).
 fluvaccine(it_0043_005211,1).
 antipneumovaccine(it_0043_005211,0).
@@ -2041,7 +2041,7 @@ who_f2(it_0045_005294,9).
 who_f3(it_0045_005294,9).
 who_f4(it_0045_005294,9).
 typeofoutcome_updated(it_0045_005294,1).
-patient(it_0045_005294,neg).
+patient(it_0045_005294,pos).
 covidvaccine(it_0045_005294,0,2).
 fluvaccine(it_0045_005294,0).
 antipneumovaccine(it_0045_005294,0).
@@ -2069,7 +2069,7 @@ who_f2(it_0061_004407,9).
 who_f3(it_0061_004407,9).
 who_f4(it_0061_004407,9).
 typeofoutcome_updated(it_0061_004407,1).
-patient(it_0061_004407,neg).
+patient(it_0061_004407,pos).
 covidvaccine(it_0061_004407,0,2).
 
 %patient: it-0106-006811 index:99
@@ -2086,7 +2086,7 @@ who_f2(it_0106_006811,9).
 who_f3(it_0106_006811,9).
 who_f4(it_0106_006811,9).
 typeofoutcome_updated(it_0106_006811,1).
-patient(it_0106_006811,neg).
+patient(it_0106_006811,pos).
 covidvaccine(it_0106_006811,0,2).
 fluvaccine(it_0106_006811,1).
 antipneumovaccine(it_0106_006811,1).
@@ -2112,7 +2112,7 @@ who_f2(it_0108_002670,0).
 who_f3(it_0108_002670,9).
 who_f4(it_0108_002670,9).
 typeofoutcome_updated(it_0108_002670,1).
-patient(it_0108_002670,neg).
+patient(it_0108_002670,pos).
 covidvaccine(it_0108_002670,0,2).
 fluvaccine(it_0108_002670,1).
 antipneumovaccine(it_0108_002670,0).
@@ -2136,7 +2136,7 @@ who_f2(it_0127_006713,9).
 who_f3(it_0127_006713,9).
 who_f4(it_0127_006713,9).
 typeofoutcome_updated(it_0127_006713,1).
-patient(it_0127_006713,neg).
+patient(it_0127_006713,pos).
 covidvaccine(it_0127_006713,0,2).
 fluvaccine(it_0127_006713,1).
 antipneumovaccine(it_0127_006713,1).
@@ -2158,7 +2158,7 @@ who_f2(it_0127_006724,9).
 who_f3(it_0127_006724,9).
 who_f4(it_0127_006724,9).
 typeofoutcome_updated(it_0127_006724,1).
-patient(it_0127_006724,neg).
+patient(it_0127_006724,pos).
 covidvaccine(it_0127_006724,0,2).
 fluvaccine(it_0127_006724,1).
 antipneumovaccine(it_0127_006724,0).
@@ -2184,7 +2184,7 @@ who_f2(it_0144_006860,9).
 who_f3(it_0144_006860,9).
 who_f4(it_0144_006860,9).
 typeofoutcome_updated(it_0144_006860,1).
-patient(it_0144_006860,neg).
+patient(it_0144_006860,pos).
 covidvaccine(it_0144_006860,0,2).
 fluvaccine(it_0144_006860,1).
 antipneumovaccine(it_0144_006860,0).
@@ -2211,7 +2211,7 @@ who_f2(it_0043_003644,9).
 who_f3(it_0043_003644,9).
 who_f4(it_0043_003644,9).
 typeofoutcome_updated(it_0043_003644,1).
-patient(it_0043_003644,neg).
+patient(it_0043_003644,pos).
 covidvaccine(it_0043_003644,0,2).
 fluvaccine(it_0043_003644,1).
 antipneumovaccine(it_0043_003644,0).
@@ -2238,7 +2238,7 @@ who_f2(it_0043_003648,9).
 who_f3(it_0043_003648,9).
 who_f4(it_0043_003648,9).
 typeofoutcome_updated(it_0043_003648,1).
-patient(it_0043_003648,neg).
+patient(it_0043_003648,pos).
 covidvaccine(it_0043_003648,0,2).
 fluvaccine(it_0043_003648,0).
 antipneumovaccine(it_0043_003648,0).
@@ -2267,7 +2267,7 @@ who_f2(it_0044_003649,9).
 who_f3(it_0044_003649,9).
 who_f4(it_0044_003649,9).
 typeofoutcome_updated(it_0044_003649,1).
-patient(it_0044_003649,neg).
+patient(it_0044_003649,pos).
 covidvaccine(it_0044_003649,0,2).
 fluvaccine(it_0044_003649,0).
 antipneumovaccine(it_0044_003649,0).
@@ -2295,7 +2295,7 @@ who_f2(it_0044_003662,9).
 who_f3(it_0044_003662,9).
 who_f4(it_0044_003662,9).
 typeofoutcome_updated(it_0044_003662,1).
-patient(it_0044_003662,neg).
+patient(it_0044_003662,pos).
 covidvaccine(it_0044_003662,0,2).
 fluvaccine(it_0044_003662,1).
 antipneumovaccine(it_0044_003662,0).
@@ -2318,7 +2318,7 @@ who_f2(it_0052_003690,9).
 who_f3(it_0052_003690,9).
 who_f4(it_0052_003690,9).
 typeofoutcome_updated(it_0052_003690,1).
-patient(it_0052_003690,neg).
+patient(it_0052_003690,pos).
 covidvaccine(it_0052_003690,0,2).
 fluvaccine(it_0052_003690,0).
 antipneumovaccine(it_0052_003690,0).
@@ -2348,7 +2348,7 @@ who_f2(it_0144_006856,9).
 who_f3(it_0144_006856,9).
 who_f4(it_0144_006856,9).
 typeofoutcome_updated(it_0144_006856,1).
-patient(it_0144_006856,neg).
+patient(it_0144_006856,pos).
 covidvaccine(it_0144_006856,0,2).
 fluvaccine(it_0144_006856,1).
 antipneumovaccine(it_0144_006856,0).
@@ -2372,7 +2372,7 @@ who_f2(it_0149_004326,9).
 who_f3(it_0149_004326,9).
 who_f4(it_0149_004326,9).
 typeofoutcome_updated(it_0149_004326,1).
-patient(it_0149_004326,neg).
+patient(it_0149_004326,pos).
 covidvaccine(it_0149_004326,0,2).
 fluvaccine(it_0149_004326,1).
 antipneumovaccine(it_0149_004326,1).
@@ -2395,7 +2395,7 @@ who_f2(it_0151_005770,9).
 who_f3(it_0151_005770,9).
 who_f4(it_0151_005770,9).
 typeofoutcome_updated(it_0151_005770,1).
-patient(it_0151_005770,neg).
+patient(it_0151_005770,pos).
 covidvaccine(it_0151_005770,0,2).
 fluvaccine(it_0151_005770,1).
 antipneumovaccine(it_0151_005770,1).
@@ -2418,7 +2418,7 @@ who_f2(it_0148_005826,9).
 who_f3(it_0148_005826,9).
 who_f4(it_0148_005826,9).
 typeofoutcome_updated(it_0148_005826,1).
-patient(it_0148_005826,neg).
+patient(it_0148_005826,pos).
 covidvaccine(it_0148_005826,0,2).
 fluvaccine(it_0148_005826,1).
 antipneumovaccine(it_0148_005826,0).
@@ -2440,7 +2440,7 @@ who_f2(it_0136_006419,9).
 who_f3(it_0136_006419,9).
 who_f4(it_0136_006419,9).
 typeofoutcome_updated(it_0136_006419,1).
-patient(it_0136_006419,neg).
+patient(it_0136_006419,pos).
 covidvaccine(it_0136_006419,0,2).
 
 %patient: it-0166-004979 index:114
@@ -2467,7 +2467,7 @@ who_f2(it_0166_004979,9).
 who_f3(it_0166_004979,9).
 who_f4(it_0166_004979,9).
 typeofoutcome_updated(it_0166_004979,1).
-patient(it_0166_004979,neg).
+patient(it_0166_004979,pos).
 covidvaccine(it_0166_004979,1,2).
 fluvaccine(it_0166_004979,1).
 antipneumovaccine(it_0166_004979,1).
@@ -2498,7 +2498,7 @@ who_f2(it_0143_004264,4).
 who_f3(it_0143_004264,9).
 who_f4(it_0143_004264,9).
 typeofoutcome_updated(it_0143_004264,1).
-patient(it_0143_004264,neg).
+patient(it_0143_004264,pos).
 covidvaccine(it_0143_004264,0,2).
 
 %patient: it-0061-006476 index:116
@@ -2547,7 +2547,7 @@ who_f2(it_0108_002697,0).
 who_f3(it_0108_002697,9).
 who_f4(it_0108_002697,9).
 typeofoutcome_updated(it_0108_002697,1).
-patient(it_0108_002697,neg).
+patient(it_0108_002697,pos).
 covidvaccine(it_0108_002697,0,2).
 fluvaccine(it_0108_002697,1).
 antipneumovaccine(it_0108_002697,0).
@@ -2571,7 +2571,7 @@ who_f2(it_0043_003726,0).
 who_f3(it_0043_003726,9).
 who_f4(it_0043_003726,9).
 typeofoutcome_updated(it_0043_003726,1).
-patient(it_0043_003726,neg).
+patient(it_0043_003726,pos).
 covidvaccine(it_0043_003726,0,2).
 fluvaccine(it_0043_003726,0).
 antipneumovaccine(it_0043_003726,0).
@@ -2595,7 +2595,7 @@ who_f2(it_0051_006689,0).
 who_f3(it_0051_006689,9).
 who_f4(it_0051_006689,9).
 typeofoutcome_updated(it_0051_006689,1).
-patient(it_0051_006689,neg).
+patient(it_0051_006689,pos).
 covidvaccine(it_0051_006689,0,2).
 fluvaccine(it_0051_006689,1).
 antipneumovaccine(it_0051_006689,1).
@@ -2625,7 +2625,7 @@ who_f2(it_0003_000280,0).
 who_f3(it_0003_000280,9).
 who_f4(it_0003_000280,9).
 typeofoutcome_updated(it_0003_000280,1).
-patient(it_0003_000280,neg).
+patient(it_0003_000280,pos).
 covidvaccine(it_0003_000280,0,2).
 fluvaccine(it_0003_000280,1).
 antipneumovaccine(it_0003_000280,0).
@@ -2650,7 +2650,7 @@ who_f2(it_0015_003925,9).
 who_f3(it_0015_003925,9).
 who_f4(it_0015_003925,9).
 typeofoutcome_updated(it_0015_003925,1).
-patient(it_0015_003925,neg).
+patient(it_0015_003925,pos).
 covidvaccine(it_0015_003925,0,2).
 fluvaccine(it_0015_003925,1).
 antipneumovaccine(it_0015_003925,0).
@@ -2677,7 +2677,7 @@ who_f2(it_0016_002497,9).
 who_f3(it_0016_002497,9).
 who_f4(it_0016_002497,9).
 typeofoutcome_updated(it_0016_002497,1).
-patient(it_0016_002497,neg).
+patient(it_0016_002497,pos).
 covidvaccine(it_0016_002497,0,2).
 fluvaccine(it_0016_002497,0).
 antipneumovaccine(it_0016_002497,0).
@@ -2700,7 +2700,7 @@ who_f2(it_0017_002667,3).
 who_f3(it_0017_002667,9).
 who_f4(it_0017_002667,9).
 typeofoutcome_updated(it_0017_002667,1).
-patient(it_0017_002667,neg).
+patient(it_0017_002667,pos).
 covidvaccine(it_0017_002667,0,2).
 
 %patient: it-0020-000969 index:124
@@ -2723,7 +2723,7 @@ who_f2(it_0020_000969,0).
 who_f3(it_0020_000969,9).
 who_f4(it_0020_000969,9).
 typeofoutcome_updated(it_0020_000969,1).
-patient(it_0020_000969,neg).
+patient(it_0020_000969,pos).
 covidvaccine(it_0020_000969,0,2).
 fluvaccine(it_0020_000969,1).
 antipneumovaccine(it_0020_000969,0).
@@ -2751,7 +2751,7 @@ who_f2(it_0020_003029,0).
 who_f3(it_0020_003029,9).
 who_f4(it_0020_003029,9).
 typeofoutcome_updated(it_0020_003029,1).
-patient(it_0020_003029,neg).
+patient(it_0020_003029,pos).
 covidvaccine(it_0020_003029,0,2).
 fluvaccine(it_0020_003029,1).
 antipneumovaccine(it_0020_003029,0).
@@ -2779,7 +2779,7 @@ who_f2(it_0020_003776,0).
 who_f3(it_0020_003776,9).
 who_f4(it_0020_003776,9).
 typeofoutcome_updated(it_0020_003776,1).
-patient(it_0020_003776,neg).
+patient(it_0020_003776,pos).
 covidvaccine(it_0020_003776,0,2).
 fluvaccine(it_0020_003776,1).
 antipneumovaccine(it_0020_003776,0).
@@ -2808,7 +2808,7 @@ who_f2(it_0021_000295,0).
 who_f3(it_0021_000295,9).
 who_f4(it_0021_000295,9).
 typeofoutcome_updated(it_0021_000295,1).
-patient(it_0021_000295,neg).
+patient(it_0021_000295,pos).
 covidvaccine(it_0021_000295,0,2).
 fluvaccine(it_0021_000295,1).
 antipneumovaccine(it_0021_000295,0).
@@ -2833,7 +2833,7 @@ who_f2(it_0021_003850,0).
 who_f3(it_0021_003850,9).
 who_f4(it_0021_003850,9).
 typeofoutcome_updated(it_0021_003850,1).
-patient(it_0021_003850,neg).
+patient(it_0021_003850,pos).
 covidvaccine(it_0021_003850,0,2).
 fluvaccine(it_0021_003850,0).
 
@@ -2858,7 +2858,7 @@ who_f2(it_0042_003661,0).
 who_f3(it_0042_003661,9).
 who_f4(it_0042_003661,9).
 typeofoutcome_updated(it_0042_003661,1).
-patient(it_0042_003661,neg).
+patient(it_0042_003661,pos).
 covidvaccine(it_0042_003661,0,2).
 fluvaccine(it_0042_003661,1).
 antipneumovaccine(it_0042_003661,0).
@@ -2885,7 +2885,7 @@ who_f2(it_0042_003671,0).
 who_f3(it_0042_003671,9).
 who_f4(it_0042_003671,9).
 typeofoutcome_updated(it_0042_003671,1).
-patient(it_0042_003671,neg).
+patient(it_0042_003671,pos).
 covidvaccine(it_0042_003671,0,2).
 fluvaccine(it_0042_003671,1).
 antipneumovaccine(it_0042_003671,0).
@@ -2910,7 +2910,7 @@ who_f2(it_0042_003710,0).
 who_f3(it_0042_003710,9).
 who_f4(it_0042_003710,9).
 typeofoutcome_updated(it_0042_003710,1).
-patient(it_0042_003710,neg).
+patient(it_0042_003710,pos).
 covidvaccine(it_0042_003710,0,2).
 fluvaccine(it_0042_003710,1).
 
@@ -2934,7 +2934,7 @@ who_f2(it_0042_003736,0).
 who_f3(it_0042_003736,9).
 who_f4(it_0042_003736,9).
 typeofoutcome_updated(it_0042_003736,1).
-patient(it_0042_003736,neg).
+patient(it_0042_003736,pos).
 covidvaccine(it_0042_003736,0,2).
 fluvaccine(it_0042_003736,1).
 antipneumovaccine(it_0042_003736,0).
@@ -2961,7 +2961,7 @@ who_f2(it_0042_004267,0).
 who_f3(it_0042_004267,9).
 who_f4(it_0042_004267,9).
 typeofoutcome_updated(it_0042_004267,1).
-patient(it_0042_004267,neg).
+patient(it_0042_004267,pos).
 covidvaccine(it_0042_004267,0,2).
 fluvaccine(it_0042_004267,1).
 antipneumovaccine(it_0042_004267,0).
@@ -2987,7 +2987,7 @@ who_f2(it_0043_004591,0).
 who_f3(it_0043_004591,9).
 who_f4(it_0043_004591,9).
 typeofoutcome_updated(it_0043_004591,1).
-patient(it_0043_004591,neg).
+patient(it_0043_004591,pos).
 covidvaccine(it_0043_004591,0,2).
 fluvaccine(it_0043_004591,0).
 antipneumovaccine(it_0043_004591,0).
@@ -3018,7 +3018,7 @@ who_f2(it_0052_003691,0).
 who_f3(it_0052_003691,9).
 who_f4(it_0052_003691,9).
 typeofoutcome_updated(it_0052_003691,1).
-patient(it_0052_003691,neg).
+patient(it_0052_003691,pos).
 covidvaccine(it_0052_003691,0,2).
 fluvaccine(it_0052_003691,0).
 antipneumovaccine(it_0052_003691,0).
@@ -3085,7 +3085,7 @@ who_f2(it_0061_004290,4).
 who_f3(it_0061_004290,9).
 who_f4(it_0061_004290,9).
 typeofoutcome_updated(it_0061_004290,1).
-patient(it_0061_004290,neg).
+patient(it_0061_004290,pos).
 covidvaccine(it_0061_004290,0,2).
 fluvaccine(it_0061_004290,1).
 antipneumovaccine(it_0061_004290,0).
@@ -3138,7 +3138,7 @@ who_f2(it_0106_006738,0).
 who_f3(it_0106_006738,9).
 who_f4(it_0106_006738,9).
 typeofoutcome_updated(it_0106_006738,1).
-patient(it_0106_006738,neg).
+patient(it_0106_006738,pos).
 covidvaccine(it_0106_006738,0,2).
 fluvaccine(it_0106_006738,1).
 antipneumovaccine(it_0106_006738,1).
@@ -3160,7 +3160,7 @@ who_f2(it_0106_006746,0).
 who_f3(it_0106_006746,9).
 who_f4(it_0106_006746,9).
 typeofoutcome_updated(it_0106_006746,1).
-patient(it_0106_006746,neg).
+patient(it_0106_006746,pos).
 covidvaccine(it_0106_006746,0,2).
 fluvaccine(it_0106_006746,1).
 antipneumovaccine(it_0106_006746,1).
@@ -3184,7 +3184,7 @@ who_f2(it_0106_006769,0).
 who_f3(it_0106_006769,9).
 who_f4(it_0106_006769,9).
 typeofoutcome_updated(it_0106_006769,1).
-patient(it_0106_006769,neg).
+patient(it_0106_006769,pos).
 covidvaccine(it_0106_006769,0,2).
 fluvaccine(it_0106_006769,1).
 antipneumovaccine(it_0106_006769,1).
@@ -3210,7 +3210,7 @@ who_f2(it_0135_004641,0).
 who_f3(it_0135_004641,9).
 who_f4(it_0135_004641,9).
 typeofoutcome_updated(it_0135_004641,1).
-patient(it_0135_004641,neg).
+patient(it_0135_004641,pos).
 covidvaccine(it_0135_004641,0,2).
 fluvaccine(it_0135_004641,1).
 antipneumovaccine(it_0135_004641,0).
@@ -3231,7 +3231,7 @@ who_f2(it_0136_005523,0).
 who_f3(it_0136_005523,9).
 who_f4(it_0136_005523,9).
 typeofoutcome_updated(it_0136_005523,1).
-patient(it_0136_005523,neg).
+patient(it_0136_005523,pos).
 covidvaccine(it_0136_005523,0,2).
 
 %patient: it-0143-006277 index:145
@@ -3252,7 +3252,7 @@ who_f2(it_0143_006277,0).
 who_f3(it_0143_006277,9).
 who_f4(it_0143_006277,9).
 typeofoutcome_updated(it_0143_006277,1).
-patient(it_0143_006277,neg).
+patient(it_0143_006277,pos).
 covidvaccine(it_0143_006277,0,1).
 
 %patient: it-0144-006858 index:146
@@ -3275,7 +3275,7 @@ who_f2(it_0144_006858,0).
 who_f3(it_0144_006858,9).
 who_f4(it_0144_006858,9).
 typeofoutcome_updated(it_0144_006858,1).
-patient(it_0144_006858,neg).
+patient(it_0144_006858,pos).
 covidvaccine(it_0144_006858,0,2).
 fluvaccine(it_0144_006858,1).
 antipneumovaccine(it_0144_006858,0).
@@ -3302,7 +3302,7 @@ who_f2(it_0164_006509,0).
 who_f3(it_0164_006509,9).
 who_f4(it_0164_006509,9).
 typeofoutcome_updated(it_0164_006509,1).
-patient(it_0164_006509,neg).
+patient(it_0164_006509,pos).
 covidvaccine(it_0164_006509,0,2).
 fluvaccine(it_0164_006509,1).
 antipneumovaccine(it_0164_006509,0).
@@ -3328,7 +3328,7 @@ who_f2(it_0166_004968,0).
 who_f3(it_0166_004968,9).
 who_f4(it_0166_004968,9).
 typeofoutcome_updated(it_0166_004968,1).
-patient(it_0166_004968,neg).
+patient(it_0166_004968,pos).
 covidvaccine(it_0166_004968,1,2).
 fluvaccine(it_0166_004968,1).
 antipneumovaccine(it_0166_004968,1).
@@ -3355,7 +3355,7 @@ who_f2(it_0166_004970,0).
 who_f3(it_0166_004970,9).
 who_f4(it_0166_004970,9).
 typeofoutcome_updated(it_0166_004970,1).
-patient(it_0166_004970,neg).
+patient(it_0166_004970,pos).
 covidvaccine(it_0166_004970,1,1).
 fluvaccine(it_0166_004970,1).
 antipneumovaccine(it_0166_004970,0).
@@ -3384,7 +3384,7 @@ who_f2(it_0166_004976,0).
 who_f3(it_0166_004976,9).
 who_f4(it_0166_004976,9).
 typeofoutcome_updated(it_0166_004976,1).
-patient(it_0166_004976,neg).
+patient(it_0166_004976,pos).
 covidvaccine(it_0166_004976,1,2).
 fluvaccine(it_0166_004976,1).
 antipneumovaccine(it_0166_004976,1).
@@ -3415,7 +3415,7 @@ who_f2(it_0166_005010,0).
 who_f3(it_0166_005010,9).
 who_f4(it_0166_005010,9).
 typeofoutcome_updated(it_0166_005010,1).
-patient(it_0166_005010,neg).
+patient(it_0166_005010,pos).
 covidvaccine(it_0166_005010,1,2).
 fluvaccine(it_0166_005010,1).
 antipneumovaccine(it_0166_005010,1).
@@ -3442,7 +3442,7 @@ who_f2(it_0166_005024,0).
 who_f3(it_0166_005024,9).
 who_f4(it_0166_005024,9).
 typeofoutcome_updated(it_0166_005024,1).
-patient(it_0166_005024,neg).
+patient(it_0166_005024,pos).
 covidvaccine(it_0166_005024,1,2).
 fluvaccine(it_0166_005024,1).
 antipneumovaccine(it_0166_005024,1).
@@ -3471,7 +3471,7 @@ who_f2(it_0166_005105,0).
 who_f3(it_0166_005105,9).
 who_f4(it_0166_005105,9).
 typeofoutcome_updated(it_0166_005105,1).
-patient(it_0166_005105,neg).
+patient(it_0166_005105,pos).
 covidvaccine(it_0166_005105,1,2).
 fluvaccine(it_0166_005105,0).
 antipneumovaccine(it_0166_005105,0).
@@ -3497,7 +3497,7 @@ who_f2(it_0166_005110,0).
 who_f3(it_0166_005110,9).
 who_f4(it_0166_005110,9).
 typeofoutcome_updated(it_0166_005110,1).
-patient(it_0166_005110,neg).
+patient(it_0166_005110,pos).
 covidvaccine(it_0166_005110,1,2).
 fluvaccine(it_0166_005110,1).
 antipneumovaccine(it_0166_005110,1).
@@ -3519,7 +3519,7 @@ who_f2(it_0166_006239,0).
 who_f3(it_0166_006239,9).
 who_f4(it_0166_006239,9).
 typeofoutcome_updated(it_0166_006239,1).
-patient(it_0166_006239,neg).
+patient(it_0166_006239,pos).
 covidvaccine(it_0166_006239,1,2).
 fluvaccine(it_0166_006239,1).
 antipneumovaccine(it_0166_006239,0).
@@ -3542,7 +3542,7 @@ who_f2(it_0166_006242,0).
 who_f3(it_0166_006242,9).
 who_f4(it_0166_006242,9).
 typeofoutcome_updated(it_0166_006242,1).
-patient(it_0166_006242,neg).
+patient(it_0166_006242,pos).
 covidvaccine(it_0166_006242,1,2).
 fluvaccine(it_0166_006242,1).
 antipneumovaccine(it_0166_006242,1).
@@ -3566,7 +3566,7 @@ who_f2(it_0167_006834,0).
 who_f3(it_0167_006834,9).
 who_f4(it_0167_006834,9).
 typeofoutcome_updated(it_0167_006834,1).
-patient(it_0167_006834,neg).
+patient(it_0167_006834,pos).
 covidvaccine(it_0167_006834,0,2).
 fluvaccine(it_0167_006834,0).
 antipneumovaccine(it_0167_006834,0).
@@ -3591,7 +3591,7 @@ who_f2(it_0167_006839,0).
 who_f3(it_0167_006839,9).
 who_f4(it_0167_006839,9).
 typeofoutcome_updated(it_0167_006839,1).
-patient(it_0167_006839,neg).
+patient(it_0167_006839,pos).
 covidvaccine(it_0167_006839,0,2).
 fluvaccine(it_0167_006839,1).
 antipneumovaccine(it_0167_006839,0).
@@ -3622,7 +3622,7 @@ who_f2(it_0170_006681,0).
 who_f3(it_0170_006681,9).
 who_f4(it_0170_006681,9).
 typeofoutcome_updated(it_0170_006681,1).
-patient(it_0170_006681,neg).
+patient(it_0170_006681,pos).
 covidvaccine(it_0170_006681,0,2).
 fluvaccine(it_0170_006681,1).
 antipneumovaccine(it_0170_006681,1).
@@ -3654,7 +3654,7 @@ who_f2(it_0170_006703,0).
 who_f3(it_0170_006703,9).
 who_f4(it_0170_006703,9).
 typeofoutcome_updated(it_0170_006703,1).
-patient(it_0170_006703,neg).
+patient(it_0170_006703,pos).
 covidvaccine(it_0170_006703,0,2).
 fluvaccine(it_0170_006703,1).
 antipneumovaccine(it_0170_006703,1).
@@ -3678,7 +3678,7 @@ who_f2(it_0171_006153,0).
 who_f3(it_0171_006153,9).
 who_f4(it_0171_006153,9).
 typeofoutcome_updated(it_0171_006153,1).
-patient(it_0171_006153,neg).
+patient(it_0171_006153,pos).
 covidvaccine(it_0171_006153,0,2).
 fluvaccine(it_0171_006153,1).
 antipneumovaccine(it_0171_006153,0).
@@ -3705,7 +3705,7 @@ who_f2(it_0021_000683,0).
 who_f3(it_0021_000683,9).
 who_f4(it_0021_000683,9).
 typeofoutcome_updated(it_0021_000683,1).
-patient(it_0021_000683,neg).
+patient(it_0021_000683,pos).
 covidvaccine(it_0021_000683,0,2).
 fluvaccine(it_0021_000683,0).
 
@@ -3732,7 +3732,7 @@ who_f2(it_0042_005427,0).
 who_f3(it_0042_005427,9).
 who_f4(it_0042_005427,9).
 typeofoutcome_updated(it_0042_005427,1).
-patient(it_0042_005427,neg).
+patient(it_0042_005427,pos).
 covidvaccine(it_0042_005427,0,2).
 fluvaccine(it_0042_005427,0).
 antipneumovaccine(it_0042_005427,0).
@@ -3755,7 +3755,7 @@ who_f2(it_0043_003724,9).
 who_f3(it_0043_003724,9).
 who_f4(it_0043_003724,9).
 typeofoutcome_updated(it_0043_003724,1).
-patient(it_0043_003724,neg).
+patient(it_0043_003724,pos).
 covidvaccine(it_0043_003724,0,2).
 fluvaccine(it_0043_003724,1).
 antipneumovaccine(it_0043_003724,0).
@@ -3778,7 +3778,7 @@ who_f2(it_0050_004238,0).
 who_f3(it_0050_004238,9).
 who_f4(it_0050_004238,9).
 typeofoutcome_updated(it_0050_004238,1).
-patient(it_0050_004238,neg).
+patient(it_0050_004238,pos).
 covidvaccine(it_0050_004238,0,2).
 fluvaccine(it_0050_004238,1).
 antipneumovaccine(it_0050_004238,0).
@@ -3806,7 +3806,7 @@ who_f2(it_0052_003693,0).
 who_f3(it_0052_003693,9).
 who_f4(it_0052_003693,9).
 typeofoutcome_updated(it_0052_003693,1).
-patient(it_0052_003693,neg).
+patient(it_0052_003693,pos).
 covidvaccine(it_0052_003693,0,1).
 fluvaccine(it_0052_003693,0).
 antipneumovaccine(it_0052_003693,0).
@@ -3827,7 +3827,7 @@ who_f2(it_0061_006484,0).
 who_f3(it_0061_006484,9).
 who_f4(it_0061_006484,9).
 typeofoutcome_updated(it_0061_006484,1).
-patient(it_0061_006484,neg).
+patient(it_0061_006484,pos).
 covidvaccine(it_0061_006484,0,2).
 
 %patient: it-0102-004138 index:168
@@ -3873,7 +3873,7 @@ who_f2(it_0106_006803,0).
 who_f3(it_0106_006803,9).
 who_f4(it_0106_006803,9).
 typeofoutcome_updated(it_0106_006803,1).
-patient(it_0106_006803,neg).
+patient(it_0106_006803,pos).
 covidvaccine(it_0106_006803,0,2).
 fluvaccine(it_0106_006803,1).
 antipneumovaccine(it_0106_006803,0).
@@ -3898,7 +3898,7 @@ who_f2(it_0127_006842,0).
 who_f3(it_0127_006842,9).
 who_f4(it_0127_006842,9).
 typeofoutcome_updated(it_0127_006842,1).
-patient(it_0127_006842,neg).
+patient(it_0127_006842,pos).
 covidvaccine(it_0127_006842,0,2).
 fluvaccine(it_0127_006842,1).
 antipneumovaccine(it_0127_006842,0).
@@ -3920,7 +3920,7 @@ who_f2(it_0127_006848,0).
 who_f3(it_0127_006848,9).
 who_f4(it_0127_006848,9).
 typeofoutcome_updated(it_0127_006848,1).
-patient(it_0127_006848,neg).
+patient(it_0127_006848,pos).
 covidvaccine(it_0127_006848,0,2).
 fluvaccine(it_0127_006848,1).
 antipneumovaccine(it_0127_006848,0).
@@ -3947,7 +3947,7 @@ who_f2(it_0129_004678,0).
 who_f3(it_0129_004678,9).
 who_f4(it_0129_004678,9).
 typeofoutcome_updated(it_0129_004678,1).
-patient(it_0129_004678,neg).
+patient(it_0129_004678,pos).
 covidvaccine(it_0129_004678,0,2).
 fluvaccine(it_0129_004678,0).
 antipneumovaccine(it_0129_004678,0).
@@ -3970,7 +3970,7 @@ who_f2(it_0133_006301,0).
 who_f3(it_0133_006301,9).
 who_f4(it_0133_006301,9).
 typeofoutcome_updated(it_0133_006301,1).
-patient(it_0133_006301,neg).
+patient(it_0133_006301,pos).
 covidvaccine(it_0133_006301,0,2).
 fluvaccine(it_0133_006301,1).
 antipneumovaccine(it_0133_006301,1).
@@ -3998,7 +3998,7 @@ who_f2(it_0133_006309,9).
 who_f3(it_0133_006309,9).
 who_f4(it_0133_006309,9).
 typeofoutcome_updated(it_0133_006309,1).
-patient(it_0133_006309,neg).
+patient(it_0133_006309,pos).
 covidvaccine(it_0133_006309,0,2).
 fluvaccine(it_0133_006309,1).
 antipneumovaccine(it_0133_006309,1).
@@ -4021,7 +4021,7 @@ who_f2(it_0141_005501,4).
 who_f3(it_0141_005501,9).
 who_f4(it_0141_005501,9).
 typeofoutcome_updated(it_0141_005501,1).
-patient(it_0141_005501,neg).
+patient(it_0141_005501,pos).
 covidvaccine(it_0141_005501,0,2).
 fluvaccine(it_0141_005501,1).
 antipneumovaccine(it_0141_005501,1).
@@ -4043,7 +4043,7 @@ who_f2(it_0141_006001,4).
 who_f3(it_0141_006001,9).
 who_f4(it_0141_006001,9).
 typeofoutcome_updated(it_0141_006001,1).
-patient(it_0141_006001,neg).
+patient(it_0141_006001,pos).
 covidvaccine(it_0141_006001,0,2).
 fluvaccine(it_0141_006001,1).
 antipneumovaccine(it_0141_006001,1).
@@ -4070,7 +4070,7 @@ who_f2(it_0141_006174,4).
 who_f3(it_0141_006174,9).
 who_f4(it_0141_006174,9).
 typeofoutcome_updated(it_0141_006174,1).
-patient(it_0141_006174,neg).
+patient(it_0141_006174,pos).
 covidvaccine(it_0141_006174,0,2).
 fluvaccine(it_0141_006174,0).
 antipneumovaccine(it_0141_006174,0).
@@ -4098,7 +4098,7 @@ who_f2(it_0141_006180,0).
 who_f3(it_0141_006180,9).
 who_f4(it_0141_006180,9).
 typeofoutcome_updated(it_0141_006180,1).
-patient(it_0141_006180,neg).
+patient(it_0141_006180,pos).
 covidvaccine(it_0141_006180,0,2).
 fluvaccine(it_0141_006180,0).
 antipneumovaccine(it_0141_006180,0).
@@ -4120,7 +4120,7 @@ who_f2(it_0156_004898,0).
 who_f3(it_0156_004898,9).
 who_f4(it_0156_004898,9).
 typeofoutcome_updated(it_0156_004898,1).
-patient(it_0156_004898,neg).
+patient(it_0156_004898,pos).
 covidvaccine(it_0156_004898,0,2).
 fluvaccine(it_0156_004898,0).
 antipneumovaccine(it_0156_004898,0).
@@ -4148,7 +4148,7 @@ who_f2(it_0020_004830,0).
 who_f3(it_0020_004830,9).
 who_f4(it_0020_004830,9).
 typeofoutcome_updated(it_0020_004830,1).
-patient(it_0020_004830,neg).
+patient(it_0020_004830,pos).
 covidvaccine(it_0020_004830,0,2).
 
 %patient: it-0030-005531 index:181
@@ -4166,7 +4166,7 @@ who_f2(it_0030_005531,0).
 who_f3(it_0030_005531,9).
 who_f4(it_0030_005531,9).
 typeofoutcome_updated(it_0030_005531,1).
-patient(it_0030_005531,neg).
+patient(it_0030_005531,pos).
 covidvaccine(it_0030_005531,0,2).
 fluvaccine(it_0030_005531,1).
 
@@ -4193,7 +4193,7 @@ who_f2(it_0044_004230,0).
 who_f3(it_0044_004230,9).
 who_f4(it_0044_004230,9).
 typeofoutcome_updated(it_0044_004230,1).
-patient(it_0044_004230,neg).
+patient(it_0044_004230,pos).
 covidvaccine(it_0044_004230,0,1).
 fluvaccine(it_0044_004230,0).
 antipneumovaccine(it_0044_004230,0).
@@ -4218,7 +4218,7 @@ who_f2(it_0044_005741,0).
 who_f3(it_0044_005741,9).
 who_f4(it_0044_005741,9).
 typeofoutcome_updated(it_0044_005741,1).
-patient(it_0044_005741,neg).
+patient(it_0044_005741,pos).
 covidvaccine(it_0044_005741,0,1).
 fluvaccine(it_0044_005741,1).
 antipneumovaccine(it_0044_005741,0).
@@ -4245,7 +4245,7 @@ who_f2(it_0044_005742,0).
 who_f3(it_0044_005742,9).
 who_f4(it_0044_005742,9).
 typeofoutcome_updated(it_0044_005742,1).
-patient(it_0044_005742,neg).
+patient(it_0044_005742,pos).
 covidvaccine(it_0044_005742,0,1).
 fluvaccine(it_0044_005742,1).
 antipneumovaccine(it_0044_005742,0).
@@ -4272,7 +4272,7 @@ who_f2(it_0050_004133,1).
 who_f3(it_0050_004133,9).
 who_f4(it_0050_004133,9).
 typeofoutcome_updated(it_0050_004133,1).
-patient(it_0050_004133,neg).
+patient(it_0050_004133,pos).
 covidvaccine(it_0050_004133,0,1).
 fluvaccine(it_0050_004133,1).
 antipneumovaccine(it_0050_004133,0).
@@ -4298,7 +4298,7 @@ who_f2(it_0050_005298,1).
 who_f3(it_0050_005298,9).
 who_f4(it_0050_005298,9).
 typeofoutcome_updated(it_0050_005298,1).
-patient(it_0050_005298,neg).
+patient(it_0050_005298,pos).
 covidvaccine(it_0050_005298,0,1).
 fluvaccine(it_0050_005298,1).
 antipneumovaccine(it_0050_005298,0).
@@ -4328,7 +4328,7 @@ who_f2(it_0050_005787,0).
 who_f3(it_0050_005787,9).
 who_f4(it_0050_005787,9).
 typeofoutcome_updated(it_0050_005787,1).
-patient(it_0050_005787,neg).
+patient(it_0050_005787,pos).
 covidvaccine(it_0050_005787,0,1).
 fluvaccine(it_0050_005787,1).
 antipneumovaccine(it_0050_005787,0).
@@ -4347,7 +4347,7 @@ who_f2(it_0053_004248,0).
 who_f3(it_0053_004248,9).
 who_f4(it_0053_004248,9).
 typeofoutcome_updated(it_0053_004248,1).
-patient(it_0053_004248,neg).
+patient(it_0053_004248,pos).
 covidvaccine(it_0053_004248,0,2).
 fluvaccine(it_0053_004248,0).
 antipneumovaccine(it_0053_004248,0).
@@ -4373,7 +4373,7 @@ who_f2(it_0053_005775,1).
 who_f3(it_0053_005775,9).
 who_f4(it_0053_005775,9).
 typeofoutcome_updated(it_0053_005775,1).
-patient(it_0053_005775,neg).
+patient(it_0053_005775,pos).
 covidvaccine(it_0053_005775,0,1).
 fluvaccine(it_0053_005775,0).
 antipneumovaccine(it_0053_005775,0).
@@ -4397,7 +4397,7 @@ who_f2(it_0116_004576,0).
 who_f3(it_0116_004576,9).
 who_f4(it_0116_004576,9).
 typeofoutcome_updated(it_0116_004576,1).
-patient(it_0116_004576,neg).
+patient(it_0116_004576,pos).
 covidvaccine(it_0116_004576,0,2).
 fluvaccine(it_0116_004576,1).
 antipneumovaccine(it_0116_004576,1).
@@ -4423,7 +4423,7 @@ who_f2(it_0116_004579,0).
 who_f3(it_0116_004579,9).
 who_f4(it_0116_004579,9).
 typeofoutcome_updated(it_0116_004579,1).
-patient(it_0116_004579,neg).
+patient(it_0116_004579,pos).
 covidvaccine(it_0116_004579,0,2).
 fluvaccine(it_0116_004579,1).
 antipneumovaccine(it_0116_004579,1).
@@ -4448,7 +4448,7 @@ who_f2(it_0116_005368,0).
 who_f3(it_0116_005368,9).
 who_f4(it_0116_005368,9).
 typeofoutcome_updated(it_0116_005368,1).
-patient(it_0116_005368,neg).
+patient(it_0116_005368,pos).
 covidvaccine(it_0116_005368,0,2).
 fluvaccine(it_0116_005368,1).
 antipneumovaccine(it_0116_005368,1).
@@ -4475,7 +4475,7 @@ who_f2(it_0126_005347,0).
 who_f3(it_0126_005347,9).
 who_f4(it_0126_005347,9).
 typeofoutcome_updated(it_0126_005347,1).
-patient(it_0126_005347,neg).
+patient(it_0126_005347,pos).
 covidvaccine(it_0126_005347,0,2).
 fluvaccine(it_0126_005347,1).
 antipneumovaccine(it_0126_005347,1).
@@ -4505,7 +4505,7 @@ who_f2(it_0126_005409,0).
 who_f3(it_0126_005409,9).
 who_f4(it_0126_005409,9).
 typeofoutcome_updated(it_0126_005409,1).
-patient(it_0126_005409,neg).
+patient(it_0126_005409,pos).
 covidvaccine(it_0126_005409,0,2).
 fluvaccine(it_0126_005409,1).
 antipneumovaccine(it_0126_005409,1).
@@ -4528,7 +4528,7 @@ who_f2(it_0127_006720,0).
 who_f3(it_0127_006720,9).
 who_f4(it_0127_006720,9).
 typeofoutcome_updated(it_0127_006720,1).
-patient(it_0127_006720,neg).
+patient(it_0127_006720,pos).
 covidvaccine(it_0127_006720,0,2).
 fluvaccine(it_0127_006720,1).
 antipneumovaccine(it_0127_006720,1).
@@ -4551,7 +4551,7 @@ who_f2(it_0127_006722,0).
 who_f3(it_0127_006722,9).
 who_f4(it_0127_006722,9).
 typeofoutcome_updated(it_0127_006722,1).
-patient(it_0127_006722,neg).
+patient(it_0127_006722,pos).
 covidvaccine(it_0127_006722,0,2).
 fluvaccine(it_0127_006722,1).
 antipneumovaccine(it_0127_006722,0).
@@ -4576,7 +4576,7 @@ who_f2(it_0127_006726,0).
 who_f3(it_0127_006726,9).
 who_f4(it_0127_006726,9).
 typeofoutcome_updated(it_0127_006726,1).
-patient(it_0127_006726,neg).
+patient(it_0127_006726,pos).
 covidvaccine(it_0127_006726,0,2).
 fluvaccine(it_0127_006726,1).
 antipneumovaccine(it_0127_006726,0).
@@ -4600,7 +4600,7 @@ who_f2(it_0130_005338,1).
 who_f3(it_0130_005338,9).
 who_f4(it_0130_005338,9).
 typeofoutcome_updated(it_0130_005338,1).
-patient(it_0130_005338,neg).
+patient(it_0130_005338,pos).
 covidvaccine(it_0130_005338,1,2).
 
 %patient: it-0134-004952 index:199
@@ -4622,7 +4622,7 @@ who_f2(it_0134_004952,0).
 who_f3(it_0134_004952,9).
 who_f4(it_0134_004952,9).
 typeofoutcome_updated(it_0134_004952,1).
-patient(it_0134_004952,neg).
+patient(it_0134_004952,pos).
 covidvaccine(it_0134_004952,0,1).
 fluvaccine(it_0134_004952,0).
 antipneumovaccine(it_0134_004952,0).
@@ -4648,7 +4648,7 @@ who_f2(it_0142_006375,0).
 who_f3(it_0142_006375,9).
 who_f4(it_0142_006375,9).
 typeofoutcome_updated(it_0142_006375,1).
-patient(it_0142_006375,neg).
+patient(it_0142_006375,pos).
 covidvaccine(it_0142_006375,0,2).
 fluvaccine(it_0142_006375,0).
 antipneumovaccine(it_0142_006375,0).
@@ -4675,7 +4675,7 @@ who_f2(it_0143_003917,4).
 who_f3(it_0143_003917,9).
 who_f4(it_0143_003917,9).
 typeofoutcome_updated(it_0143_003917,1).
-patient(it_0143_003917,neg).
+patient(it_0143_003917,pos).
 covidvaccine(it_0143_003917,0,1).
 fluvaccine(it_0143_003917,1).
 antipneumovaccine(it_0143_003917,1).
@@ -4699,7 +4699,7 @@ who_f2(it_0143_003920,4).
 who_f3(it_0143_003920,9).
 who_f4(it_0143_003920,9).
 typeofoutcome_updated(it_0143_003920,1).
-patient(it_0143_003920,neg).
+patient(it_0143_003920,pos).
 covidvaccine(it_0143_003920,0,1).
 
 %patient: it-0143-004082 index:203
@@ -4723,7 +4723,7 @@ who_f2(it_0143_004082,4).
 who_f3(it_0143_004082,9).
 who_f4(it_0143_004082,9).
 typeofoutcome_updated(it_0143_004082,1).
-patient(it_0143_004082,neg).
+patient(it_0143_004082,pos).
 covidvaccine(it_0143_004082,0,1).
 fluvaccine(it_0143_004082,0).
 antipneumovaccine(it_0143_004082,1).
@@ -4749,7 +4749,7 @@ who_f2(it_0144_004577,0).
 who_f3(it_0144_004577,9).
 who_f4(it_0144_004577,9).
 typeofoutcome_updated(it_0144_004577,1).
-patient(it_0144_004577,neg).
+patient(it_0144_004577,pos).
 covidvaccine(it_0144_004577,0,2).
 fluvaccine(it_0144_004577,0).
 antipneumovaccine(it_0144_004577,0).
@@ -4776,7 +4776,7 @@ who_f2(it_0145_006870,0).
 who_f3(it_0145_006870,9).
 who_f4(it_0145_006870,9).
 typeofoutcome_updated(it_0145_006870,1).
-patient(it_0145_006870,neg).
+patient(it_0145_006870,pos).
 covidvaccine(it_0145_006870,0,2).
 fluvaccine(it_0145_006870,0).
 antipneumovaccine(it_0145_006870,0).
@@ -4803,7 +4803,7 @@ who_f2(it_0145_006872,0).
 who_f3(it_0145_006872,9).
 who_f4(it_0145_006872,9).
 typeofoutcome_updated(it_0145_006872,1).
-patient(it_0145_006872,neg).
+patient(it_0145_006872,pos).
 covidvaccine(it_0145_006872,0,2).
 fluvaccine(it_0145_006872,1).
 antipneumovaccine(it_0145_006872,0).
@@ -4830,7 +4830,7 @@ who_f2(it_0145_006877,0).
 who_f3(it_0145_006877,9).
 who_f4(it_0145_006877,9).
 typeofoutcome_updated(it_0145_006877,1).
-patient(it_0145_006877,neg).
+patient(it_0145_006877,pos).
 covidvaccine(it_0145_006877,0,2).
 fluvaccine(it_0145_006877,0).
 antipneumovaccine(it_0145_006877,0).
@@ -4855,7 +4855,7 @@ who_f2(it_0145_006891,0).
 who_f3(it_0145_006891,9).
 who_f4(it_0145_006891,9).
 typeofoutcome_updated(it_0145_006891,1).
-patient(it_0145_006891,neg).
+patient(it_0145_006891,pos).
 covidvaccine(it_0145_006891,0,2).
 fluvaccine(it_0145_006891,0).
 antipneumovaccine(it_0145_006891,0).
@@ -4881,7 +4881,7 @@ who_f2(it_0145_006893,0).
 who_f3(it_0145_006893,9).
 who_f4(it_0145_006893,9).
 typeofoutcome_updated(it_0145_006893,1).
-patient(it_0145_006893,neg).
+patient(it_0145_006893,pos).
 covidvaccine(it_0145_006893,0,2).
 fluvaccine(it_0145_006893,0).
 antipneumovaccine(it_0145_006893,0).
@@ -4908,7 +4908,7 @@ who_f2(it_0145_006894,0).
 who_f3(it_0145_006894,9).
 who_f4(it_0145_006894,9).
 typeofoutcome_updated(it_0145_006894,1).
-patient(it_0145_006894,neg).
+patient(it_0145_006894,pos).
 covidvaccine(it_0145_006894,0,2).
 fluvaccine(it_0145_006894,0).
 antipneumovaccine(it_0145_006894,0).
@@ -4930,7 +4930,7 @@ who_f2(it_0167_006815,0).
 who_f3(it_0167_006815,9).
 who_f4(it_0167_006815,9).
 typeofoutcome_updated(it_0167_006815,1).
-patient(it_0167_006815,neg).
+patient(it_0167_006815,pos).
 covidvaccine(it_0167_006815,0,2).
 fluvaccine(it_0167_006815,1).
 antipneumovaccine(it_0167_006815,0).
@@ -4956,7 +4956,7 @@ who_f2(it_0169_006592,0).
 who_f3(it_0169_006592,9).
 who_f4(it_0169_006592,9).
 typeofoutcome_updated(it_0169_006592,1).
-patient(it_0169_006592,neg).
+patient(it_0169_006592,pos).
 covidvaccine(it_0169_006592,1,2).
 fluvaccine(it_0169_006592,1).
 antipneumovaccine(it_0169_006592,0).
@@ -4992,7 +4992,7 @@ who_f2(it_0042_003696,0).
 who_f3(it_0042_003696,9).
 who_f4(it_0042_003696,9).
 typeofoutcome_updated(it_0042_003696,1).
-patient(it_0042_003696,neg).
+patient(it_0042_003696,pos).
 covidvaccine(it_0042_003696,0,2).
 fluvaccine(it_0042_003696,0).
 antipneumovaccine(it_0042_003696,0).
@@ -5017,7 +5017,7 @@ who_f2(it_0044_003701,9).
 who_f3(it_0044_003701,9).
 who_f4(it_0044_003701,9).
 typeofoutcome_updated(it_0044_003701,1).
-patient(it_0044_003701,neg).
+patient(it_0044_003701,pos).
 covidvaccine(it_0044_003701,0,2).
 fluvaccine(it_0044_003701,0).
 antipneumovaccine(it_0044_003701,0).
@@ -5041,7 +5041,7 @@ who_f2(it_0044_003704,9).
 who_f3(it_0044_003704,9).
 who_f4(it_0044_003704,9).
 typeofoutcome_updated(it_0044_003704,1).
-patient(it_0044_003704,neg).
+patient(it_0044_003704,pos).
 covidvaccine(it_0044_003704,0,2).
 fluvaccine(it_0044_003704,1).
 antipneumovaccine(it_0044_003704,0).
@@ -5062,7 +5062,7 @@ who_f2(it_0044_003705,9).
 who_f3(it_0044_003705,9).
 who_f4(it_0044_003705,9).
 typeofoutcome_updated(it_0044_003705,1).
-patient(it_0044_003705,neg).
+patient(it_0044_003705,pos).
 covidvaccine(it_0044_003705,0,2).
 fluvaccine(it_0044_003705,1).
 antipneumovaccine(it_0044_003705,0).
@@ -5089,7 +5089,7 @@ who_f2(it_0061_004039,0).
 who_f3(it_0061_004039,0).
 who_f4(it_0061_004039,9).
 typeofoutcome_updated(it_0061_004039,1).
-patient(it_0061_004039,neg).
+patient(it_0061_004039,pos).
 covidvaccine(it_0061_004039,0,2).
 fluvaccine(it_0061_004039,1).
 antipneumovaccine(it_0061_004039,1).
@@ -5114,7 +5114,7 @@ who_f2(it_0143_006197,0).
 who_f3(it_0143_006197,9).
 who_f4(it_0143_006197,9).
 typeofoutcome_updated(it_0143_006197,1).
-patient(it_0143_006197,neg).
+patient(it_0143_006197,pos).
 covidvaccine(it_0143_006197,0,1).
 
 %patient: it-0143-006282 index:219
@@ -5135,7 +5135,7 @@ who_f2(it_0143_006282,0).
 who_f3(it_0143_006282,9).
 who_f4(it_0143_006282,9).
 typeofoutcome_updated(it_0143_006282,1).
-patient(it_0143_006282,neg).
+patient(it_0143_006282,pos).
 covidvaccine(it_0143_006282,0,1).
 
 %patient: it-0155-006573 index:220
@@ -5158,7 +5158,7 @@ who_f2(it_0155_006573,0).
 who_f3(it_0155_006573,9).
 who_f4(it_0155_006573,9).
 typeofoutcome_updated(it_0155_006573,1).
-patient(it_0155_006573,neg).
+patient(it_0155_006573,pos).
 covidvaccine(it_0155_006573,0,2).
 fluvaccine(it_0155_006573,0).
 antipneumovaccine(it_0155_006573,0).
@@ -5186,7 +5186,7 @@ who_f2(it_0108_002704,0).
 who_f3(it_0108_002704,9).
 who_f4(it_0108_002704,9).
 typeofoutcome_updated(it_0108_002704,1).
-patient(it_0108_002704,neg).
+patient(it_0108_002704,pos).
 covidvaccine(it_0108_002704,0,2).
 fluvaccine(it_0108_002704,1).
 antipneumovaccine(it_0108_002704,0).
@@ -5209,7 +5209,7 @@ who_f2(it_0143_004851,1).
 who_f3(it_0143_004851,9).
 who_f4(it_0143_004851,9).
 typeofoutcome_updated(it_0143_004851,1).
-patient(it_0143_004851,neg).
+patient(it_0143_004851,pos).
 covidvaccine(it_0143_004851,0,1).
 
 %patient: it-0143-005265 index:223
@@ -5231,7 +5231,7 @@ who_f2(it_0143_005265,0).
 who_f3(it_0143_005265,9).
 who_f4(it_0143_005265,9).
 typeofoutcome_updated(it_0143_005265,1).
-patient(it_0143_005265,neg).
+patient(it_0143_005265,pos).
 covidvaccine(it_0143_005265,0,1).
 
 %patient: it-0143-005273 index:224
@@ -5252,7 +5252,7 @@ who_f2(it_0143_005273,0).
 who_f3(it_0143_005273,9).
 who_f4(it_0143_005273,9).
 typeofoutcome_updated(it_0143_005273,1).
-patient(it_0143_005273,neg).
+patient(it_0143_005273,pos).
 covidvaccine(it_0143_005273,0,1).
 fluvaccine(it_0143_005273,0).
 
@@ -5276,7 +5276,7 @@ who_f2(it_0143_005282,0).
 who_f3(it_0143_005282,9).
 who_f4(it_0143_005282,9).
 typeofoutcome_updated(it_0143_005282,1).
-patient(it_0143_005282,neg).
+patient(it_0143_005282,pos).
 covidvaccine(it_0143_005282,0,1).
 fluvaccine(it_0143_005282,0).
 
@@ -5322,7 +5322,7 @@ who_f2(it_0131_004311,0).
 who_f3(it_0131_004311,9).
 who_f4(it_0131_004311,9).
 typeofoutcome_updated(it_0131_004311,1).
-patient(it_0131_004311,neg).
+patient(it_0131_004311,pos).
 covidvaccine(it_0131_004311,0,2).
 fluvaccine(it_0131_004311,0).
 antipneumovaccine(it_0131_004311,0).
@@ -5343,7 +5343,7 @@ who_f2(it_0131_004345,0).
 who_f3(it_0131_004345,9).
 who_f4(it_0131_004345,9).
 typeofoutcome_updated(it_0131_004345,1).
-patient(it_0131_004345,neg).
+patient(it_0131_004345,pos).
 covidvaccine(it_0131_004345,0,2).
 fluvaccine(it_0131_004345,0).
 antipneumovaccine(it_0131_004345,0).
@@ -5368,7 +5368,7 @@ who_f2(it_0143_006254,4).
 who_f3(it_0143_006254,9).
 who_f4(it_0143_006254,9).
 typeofoutcome_updated(it_0143_006254,1).
-patient(it_0143_006254,neg).
+patient(it_0143_006254,pos).
 covidvaccine(it_0143_006254,0,2).
 
 %patient: it-0158-006079 index:230
@@ -5391,7 +5391,7 @@ who_f2(it_0158_006079,0).
 who_f3(it_0158_006079,9).
 who_f4(it_0158_006079,9).
 typeofoutcome_updated(it_0158_006079,1).
-patient(it_0158_006079,neg).
+patient(it_0158_006079,pos).
 covidvaccine(it_0158_006079,0,2).
 fluvaccine(it_0158_006079,1).
 
@@ -5418,7 +5418,7 @@ who_f2(it_0158_006080,0).
 who_f3(it_0158_006080,9).
 who_f4(it_0158_006080,9).
 typeofoutcome_updated(it_0158_006080,1).
-patient(it_0158_006080,neg).
+patient(it_0158_006080,pos).
 covidvaccine(it_0158_006080,0,2).
 fluvaccine(it_0158_006080,1).
 
@@ -5451,7 +5451,7 @@ who_f2(it_0061_003878,0).
 who_f3(it_0061_003878,0).
 who_f4(it_0061_003878,9).
 typeofoutcome_updated(it_0061_003878,1).
-patient(it_0061_003878,neg).
+patient(it_0061_003878,pos).
 covidvaccine(it_0061_003878,0,2).
 
 %patient: it-0143-004087 index:233
@@ -5475,7 +5475,7 @@ who_f2(it_0143_004087,4).
 who_f3(it_0143_004087,0).
 who_f4(it_0143_004087,9).
 typeofoutcome_updated(it_0143_004087,1).
-patient(it_0143_004087,neg).
+patient(it_0143_004087,pos).
 covidvaccine(it_0143_004087,0,1).
 fluvaccine(it_0143_004087,1).
 antipneumovaccine(it_0143_004087,1).
@@ -5519,7 +5519,7 @@ who_f2(it_0044_003707,0).
 who_f3(it_0044_003707,9).
 who_f4(it_0044_003707,9).
 typeofoutcome_updated(it_0044_003707,1).
-patient(it_0044_003707,neg).
+patient(it_0044_003707,pos).
 covidvaccine(it_0044_003707,0,2).
 fluvaccine(it_0044_003707,0).
 antipneumovaccine(it_0044_003707,0).
@@ -5546,7 +5546,7 @@ who_f2(it_0043_003647,0).
 who_f3(it_0043_003647,9).
 who_f4(it_0043_003647,9).
 typeofoutcome_updated(it_0043_003647,1).
-patient(it_0043_003647,neg).
+patient(it_0043_003647,pos).
 covidvaccine(it_0043_003647,0,2).
 fluvaccine(it_0043_003647,1).
 antipneumovaccine(it_0043_003647,0).
@@ -5571,7 +5571,7 @@ who_f2(it_0045_005749,0).
 who_f3(it_0045_005749,9).
 who_f4(it_0045_005749,9).
 typeofoutcome_updated(it_0045_005749,1).
-patient(it_0045_005749,neg).
+patient(it_0045_005749,pos).
 covidvaccine(it_0045_005749,0,2).
 fluvaccine(it_0045_005749,1).
 antipneumovaccine(it_0045_005749,0).
@@ -5595,7 +5595,7 @@ who_f2(it_0028_005407,0).
 who_f3(it_0028_005407,9).
 who_f4(it_0028_005407,9).
 typeofoutcome_updated(it_0028_005407,1).
-patient(it_0028_005407,neg).
+patient(it_0028_005407,pos).
 covidvaccine(it_0028_005407,0,2).
 
 %patient: it-0042-003628 index:239
@@ -5622,7 +5622,7 @@ who_f2(it_0042_003628,0).
 who_f3(it_0042_003628,9).
 who_f4(it_0042_003628,9).
 typeofoutcome_updated(it_0042_003628,1).
-patient(it_0042_003628,neg).
+patient(it_0042_003628,pos).
 covidvaccine(it_0042_003628,0,2).
 
 %patient: it-0031-004160 index:240
@@ -5643,7 +5643,7 @@ who_f2(it_0031_004160,0).
 who_f3(it_0031_004160,0).
 who_f4(it_0031_004160,9).
 typeofoutcome_updated(it_0031_004160,1).
-patient(it_0031_004160,neg).
+patient(it_0031_004160,pos).
 covidvaccine(it_0031_004160,0,2).
 fluvaccine(it_0031_004160,1).
 
@@ -5672,7 +5672,7 @@ who_f2(it_0061_006499,0).
 who_f3(it_0061_006499,1).
 who_f4(it_0061_006499,9).
 typeofoutcome_updated(it_0061_006499,1).
-patient(it_0061_006499,neg).
+patient(it_0061_006499,pos).
 covidvaccine(it_0061_006499,0,1).
 fluvaccine(it_0061_006499,1).
 antipneumovaccine(it_0061_006499,1).
@@ -5728,7 +5728,7 @@ who_f2(it_0061_006502,0).
 who_f3(it_0061_006502,1).
 who_f4(it_0061_006502,9).
 typeofoutcome_updated(it_0061_006502,1).
-patient(it_0061_006502,neg).
+patient(it_0061_006502,pos).
 covidvaccine(it_0061_006502,0,1).
 fluvaccine(it_0061_006502,1).
 antipneumovaccine(it_0061_006502,1).
@@ -5757,7 +5757,7 @@ who_f2(it_0061_003891,0).
 who_f3(it_0061_003891,0).
 who_f4(it_0061_003891,9).
 typeofoutcome_updated(it_0061_003891,1).
-patient(it_0061_003891,neg).
+patient(it_0061_003891,pos).
 covidvaccine(it_0061_003891,0,2).
 
 %patient: it-0061-004008 index:245
@@ -5809,7 +5809,7 @@ who_f2(it_0143_003918,4).
 who_f3(it_0143_003918,0).
 who_f4(it_0143_003918,9).
 typeofoutcome_updated(it_0143_003918,1).
-patient(it_0143_003918,neg).
+patient(it_0143_003918,pos).
 covidvaccine(it_0143_003918,0,2).
 
 %patient: it-0061-003972 index:247
@@ -5863,7 +5863,7 @@ who_f2(it_0061_004415,0).
 who_f3(it_0061_004415,1).
 who_f4(it_0061_004415,9).
 typeofoutcome_updated(it_0061_004415,1).
-patient(it_0061_004415,neg).
+patient(it_0061_004415,pos).
 covidvaccine(it_0061_004415,0,1).
 
 %patient: it-0061-003951 index:249
@@ -5884,7 +5884,7 @@ who_f2(it_0061_003951,0).
 who_f3(it_0061_003951,0).
 who_f4(it_0061_003951,9).
 typeofoutcome_updated(it_0061_003951,1).
-patient(it_0061_003951,neg).
+patient(it_0061_003951,pos).
 covidvaccine(it_0061_003951,0,2).
 
 %patient: it-0061-004015 index:250
@@ -5909,7 +5909,7 @@ who_f2(it_0061_004015,0).
 who_f3(it_0061_004015,0).
 who_f4(it_0061_004015,9).
 typeofoutcome_updated(it_0061_004015,1).
-patient(it_0061_004015,neg).
+patient(it_0061_004015,pos).
 covidvaccine(it_0061_004015,0,1).
 
 %patient: it-0103-005971 index:251
@@ -5956,7 +5956,7 @@ who_f2(it_0061_006473,0).
 who_f3(it_0061_006473,0).
 who_f4(it_0061_006473,9).
 typeofoutcome_updated(it_0061_006473,1).
-patient(it_0061_006473,neg).
+patient(it_0061_006473,pos).
 covidvaccine(it_0061_006473,0,2).
 
 %patient: it-0061-003941 index:253
@@ -6004,7 +6004,7 @@ who_f2(it_0143_006157,0).
 who_f3(it_0143_006157,1).
 who_f4(it_0143_006157,9).
 typeofoutcome_updated(it_0143_006157,1).
-patient(it_0143_006157,neg).
+patient(it_0143_006157,pos).
 covidvaccine(it_0143_006157,0,1).
 
 %patient: it-0143-006253 index:255
@@ -6024,7 +6024,7 @@ who_f2(it_0143_006253,0).
 who_f3(it_0143_006253,4).
 who_f4(it_0143_006253,9).
 typeofoutcome_updated(it_0143_006253,1).
-patient(it_0143_006253,neg).
+patient(it_0143_006253,pos).
 covidvaccine(it_0143_006253,0,2).
 
 %patient: it-0061-003992 index:256
@@ -6044,7 +6044,7 @@ who_f2(it_0061_003992,0).
 who_f3(it_0061_003992,0).
 who_f4(it_0061_003992,9).
 typeofoutcome_updated(it_0061_003992,1).
-patient(it_0061_003992,neg).
+patient(it_0061_003992,pos).
 covidvaccine(it_0061_003992,0,2).
 
 %patient: it-0061-006498 index:257
@@ -6069,7 +6069,7 @@ who_f2(it_0061_006498,0).
 who_f3(it_0061_006498,0).
 who_f4(it_0061_006498,9).
 typeofoutcome_updated(it_0061_006498,1).
-patient(it_0061_006498,neg).
+patient(it_0061_006498,pos).
 covidvaccine(it_0061_006498,0,2).
 
 %patient: it-0061-004103 index:258
@@ -6113,7 +6113,7 @@ who_f2(it_0141_006551,4).
 who_f3(it_0141_006551,4).
 who_f4(it_0141_006551,9).
 typeofoutcome_updated(it_0141_006551,1).
-patient(it_0141_006551,neg).
+patient(it_0141_006551,pos).
 covidvaccine(it_0141_006551,0,2).
 fluvaccine(it_0141_006551,1).
 antipneumovaccine(it_0141_006551,0).
@@ -6141,7 +6141,7 @@ who_f2(it_0130_006106,0).
 who_f3(it_0130_006106,4).
 who_f4(it_0130_006106,9).
 typeofoutcome_updated(it_0130_006106,1).
-patient(it_0130_006106,neg).
+patient(it_0130_006106,pos).
 covidvaccine(it_0130_006106,1,2).
 fluvaccine(it_0130_006106,1).
 antipneumovaccine(it_0130_006106,1).
@@ -6170,7 +6170,7 @@ who_f2(it_0061_004111,0).
 who_f3(it_0061_004111,0).
 who_f4(it_0061_004111,9).
 typeofoutcome_updated(it_0061_004111,1).
-patient(it_0061_004111,neg).
+patient(it_0061_004111,pos).
 covidvaccine(it_0061_004111,0,2).
 antipneumovaccine(it_0061_004111,1).
 
@@ -6219,7 +6219,7 @@ who_f2(it_0051_006421,0).
 who_f3(it_0051_006421,0).
 who_f4(it_0051_006421,9).
 typeofoutcome_updated(it_0051_006421,1).
-patient(it_0051_006421,neg).
+patient(it_0051_006421,pos).
 covidvaccine(it_0051_006421,0,2).
 fluvaccine(it_0051_006421,1).
 antipneumovaccine(it_0051_006421,0).
@@ -6244,7 +6244,7 @@ who_f2(it_0051_006434,0).
 who_f3(it_0051_006434,0).
 who_f4(it_0051_006434,9).
 typeofoutcome_updated(it_0051_006434,1).
-patient(it_0051_006434,neg).
+patient(it_0051_006434,pos).
 covidvaccine(it_0051_006434,0,2).
 fluvaccine(it_0051_006434,1).
 antipneumovaccine(it_0051_006434,0).
@@ -6269,7 +6269,7 @@ who_f2(it_0051_006666,0).
 who_f3(it_0051_006666,0).
 who_f4(it_0051_006666,9).
 typeofoutcome_updated(it_0051_006666,1).
-patient(it_0051_006666,neg).
+patient(it_0051_006666,pos).
 covidvaccine(it_0051_006666,0,2).
 fluvaccine(it_0051_006666,1).
 antipneumovaccine(it_0051_006666,0).
@@ -6297,7 +6297,7 @@ who_f2(it_0061_000672,0).
 who_f3(it_0061_000672,0).
 who_f4(it_0061_000672,9).
 typeofoutcome_updated(it_0061_000672,1).
-patient(it_0061_000672,neg).
+patient(it_0061_000672,pos).
 covidvaccine(it_0061_000672,0,2).
 fluvaccine(it_0061_000672,1).
 antipneumovaccine(it_0061_000672,1).
@@ -6325,7 +6325,7 @@ who_f2(it_0061_004568,0).
 who_f3(it_0061_004568,1).
 who_f4(it_0061_004568,9).
 typeofoutcome_updated(it_0061_004568,1).
-patient(it_0061_004568,neg).
+patient(it_0061_004568,pos).
 covidvaccine(it_0061_004568,0,1).
 fluvaccine(it_0061_004568,1).
 
@@ -6344,7 +6344,7 @@ who_f2(it_0147_004392,9).
 who_f3(it_0147_004392,9).
 who_f4(it_0147_004392,9).
 typeofoutcome_updated(it_0147_004392,1).
-patient(it_0147_004392,neg).
+patient(it_0147_004392,pos).
 covidvaccine(it_0147_004392,0,2).
 fluvaccine(it_0147_004392,1).
 antipneumovaccine(it_0147_004392,0).
@@ -6364,7 +6364,7 @@ who_f2(it_0106_006786,0).
 who_f3(it_0106_006786,0).
 who_f4(it_0106_006786,9).
 typeofoutcome_updated(it_0106_006786,1).
-patient(it_0106_006786,neg).
+patient(it_0106_006786,pos).
 covidvaccine(it_0106_006786,0,2).
 fluvaccine(it_0106_006786,1).
 antipneumovaccine(it_0106_006786,1).
@@ -6388,7 +6388,7 @@ who_f2(it_0043_003698,9).
 who_f3(it_0043_003698,0).
 who_f4(it_0043_003698,9).
 typeofoutcome_updated(it_0043_003698,1).
-patient(it_0043_003698,neg).
+patient(it_0043_003698,pos).
 covidvaccine(it_0043_003698,0,2).
 fluvaccine(it_0043_003698,1).
 antipneumovaccine(it_0043_003698,0).
@@ -6415,7 +6415,7 @@ who_f2(it_0043_003699,9).
 who_f3(it_0043_003699,0).
 who_f4(it_0043_003699,9).
 typeofoutcome_updated(it_0043_003699,1).
-patient(it_0043_003699,neg).
+patient(it_0043_003699,pos).
 covidvaccine(it_0043_003699,0,2).
 fluvaccine(it_0043_003699,0).
 antipneumovaccine(it_0043_003699,0).
@@ -6439,7 +6439,7 @@ who_f2(it_0051_006450,0).
 who_f3(it_0051_006450,0).
 who_f4(it_0051_006450,9).
 typeofoutcome_updated(it_0051_006450,1).
-patient(it_0051_006450,neg).
+patient(it_0051_006450,pos).
 covidvaccine(it_0051_006450,0,2).
 fluvaccine(it_0051_006450,1).
 antipneumovaccine(it_0051_006450,0).
@@ -6462,7 +6462,7 @@ who_f2(it_0051_006670,0).
 who_f3(it_0051_006670,0).
 who_f4(it_0051_006670,9).
 typeofoutcome_updated(it_0051_006670,1).
-patient(it_0051_006670,neg).
+patient(it_0051_006670,pos).
 covidvaccine(it_0051_006670,0,2).
 fluvaccine(it_0051_006670,1).
 antipneumovaccine(it_0051_006670,0).
@@ -6490,7 +6490,7 @@ who_f2(it_0061_006466,0).
 who_f3(it_0061_006466,1).
 who_f4(it_0061_006466,9).
 typeofoutcome_updated(it_0061_006466,1).
-patient(it_0061_006466,neg).
+patient(it_0061_006466,pos).
 covidvaccine(it_0061_006466,0,1).
 fluvaccine(it_0061_006466,1).
 
@@ -6533,7 +6533,7 @@ who_f2(it_0103_006131,0).
 who_f3(it_0103_006131,0).
 who_f4(it_0103_006131,9).
 typeofoutcome_updated(it_0103_006131,1).
-patient(it_0103_006131,neg).
+patient(it_0103_006131,pos).
 covidvaccine(it_0103_006131,0,2).
 fluvaccine(it_0103_006131,1).
 antipneumovaccine(it_0103_006131,1).
@@ -6562,7 +6562,7 @@ who_f2(it_0106_006789,0).
 who_f3(it_0106_006789,0).
 who_f4(it_0106_006789,9).
 typeofoutcome_updated(it_0106_006789,1).
-patient(it_0106_006789,neg).
+patient(it_0106_006789,pos).
 covidvaccine(it_0106_006789,0,2).
 fluvaccine(it_0106_006789,1).
 antipneumovaccine(it_0106_006789,1).
@@ -6587,7 +6587,7 @@ who_f2(it_0143_003919,0).
 who_f3(it_0143_003919,4).
 who_f4(it_0143_003919,9).
 typeofoutcome_updated(it_0143_003919,1).
-patient(it_0143_003919,neg).
+patient(it_0143_003919,pos).
 covidvaccine(it_0143_003919,0,2).
 
 %patient: it-0130-004432 index:279
@@ -6612,7 +6612,7 @@ who_f2(it_0130_004432,0).
 who_f3(it_0130_004432,4).
 who_f4(it_0130_004432,9).
 typeofoutcome_updated(it_0130_004432,1).
-patient(it_0130_004432,neg).
+patient(it_0130_004432,pos).
 covidvaccine(it_0130_004432,1,2).
 fluvaccine(it_0130_004432,1).
 antipneumovaccine(it_0130_004432,0).
@@ -6633,7 +6633,7 @@ who_f2(it_0051_006671,0).
 who_f3(it_0051_006671,0).
 who_f4(it_0051_006671,9).
 typeofoutcome_updated(it_0051_006671,1).
-patient(it_0051_006671,neg).
+patient(it_0051_006671,pos).
 covidvaccine(it_0051_006671,0,2).
 fluvaccine(it_0051_006671,1).
 antipneumovaccine(it_0051_006671,0).
@@ -6737,7 +6737,7 @@ who_f2(it_0130_004632,0).
 who_f3(it_0130_004632,4).
 who_f4(it_0130_004632,9).
 typeofoutcome_updated(it_0130_004632,1).
-patient(it_0130_004632,neg).
+patient(it_0130_004632,pos).
 covidvaccine(it_0130_004632,1,2).
 fluvaccine(it_0130_004632,1).
 vzvvaccine(it_0130_004632,0).
@@ -6763,7 +6763,7 @@ who_f2(it_0130_006267,0).
 who_f3(it_0130_006267,4).
 who_f4(it_0130_006267,9).
 typeofoutcome_updated(it_0130_006267,1).
-patient(it_0130_006267,neg).
+patient(it_0130_006267,pos).
 covidvaccine(it_0130_006267,1,2).
 fluvaccine(it_0130_006267,1).
 antipneumovaccine(it_0130_006267,1).
@@ -6797,7 +6797,7 @@ who_f2(it_0143_003904,0).
 who_f3(it_0143_003904,4).
 who_f4(it_0143_003904,9).
 typeofoutcome_updated(it_0143_003904,1).
-patient(it_0143_003904,neg).
+patient(it_0143_003904,pos).
 covidvaccine(it_0143_003904,0,1).
 fluvaccine(it_0143_003904,1).
 antipneumovaccine(it_0143_003904,1).
@@ -6830,7 +6830,7 @@ who_f2(it_0061_000651,1).
 who_f3(it_0061_000651,1).
 who_f4(it_0061_000651,9).
 typeofoutcome_updated(it_0061_000651,1).
-patient(it_0061_000651,neg).
+patient(it_0061_000651,pos).
 covidvaccine(it_0061_000651,0,1).
 fluvaccine(it_0061_000651,1).
 antipneumovaccine(it_0061_000651,1).
@@ -6882,7 +6882,7 @@ who_f2(it_0061_004732,0).
 who_f3(it_0061_004732,1).
 who_f4(it_0061_004732,9).
 typeofoutcome_updated(it_0061_004732,1).
-patient(it_0061_004732,neg).
+patient(it_0061_004732,pos).
 covidvaccine(it_0061_004732,0,1).
 fluvaccine(it_0061_004732,1).
 antipneumovaccine(it_0061_004732,1).
@@ -6908,7 +6908,7 @@ who_f2(it_0061_004405,0).
 who_f3(it_0061_004405,1).
 who_f4(it_0061_004405,9).
 typeofoutcome_updated(it_0061_004405,1).
-patient(it_0061_004405,neg).
+patient(it_0061_004405,pos).
 covidvaccine(it_0061_004405,0,1).
 fluvaccine(it_0061_004405,1).
 antipneumovaccine(it_0061_004405,1).
@@ -6938,7 +6938,7 @@ who_f2(it_0143_004073,4).
 who_f3(it_0143_004073,4).
 who_f4(it_0143_004073,9).
 typeofoutcome_updated(it_0143_004073,1).
-patient(it_0143_004073,neg).
+patient(it_0143_004073,pos).
 covidvaccine(it_0143_004073,0,1).
 fluvaccine(it_0143_004073,1).
 antipneumovaccine(it_0143_004073,1).
@@ -6962,7 +6962,7 @@ who_f2(it_0150_006046,0).
 who_f3(it_0150_006046,0).
 who_f4(it_0150_006046,9).
 typeofoutcome_updated(it_0150_006046,1).
-patient(it_0150_006046,neg).
+patient(it_0150_006046,pos).
 covidvaccine(it_0150_006046,0,2).
 fluvaccine(it_0150_006046,1).
 antipneumovaccine(it_0150_006046,1).
@@ -6986,7 +6986,7 @@ who_f2(it_0156_004899,0).
 who_f3(it_0156_004899,0).
 who_f4(it_0156_004899,9).
 typeofoutcome_updated(it_0156_004899,1).
-patient(it_0156_004899,neg).
+patient(it_0156_004899,pos).
 covidvaccine(it_0156_004899,0,2).
 fluvaccine(it_0156_004899,0).
 antipneumovaccine(it_0156_004899,0).
@@ -7012,7 +7012,7 @@ who_f2(it_0131_004350,0).
 who_f3(it_0131_004350,0).
 who_f4(it_0131_004350,9).
 typeofoutcome_updated(it_0131_004350,1).
-patient(it_0131_004350,neg).
+patient(it_0131_004350,pos).
 covidvaccine(it_0131_004350,0,2).
 fluvaccine(it_0131_004350,0).
 antipneumovaccine(it_0131_004350,0).
@@ -7040,7 +7040,7 @@ who_f2(it_0061_006532,0).
 who_f3(it_0061_006532,0).
 who_f4(it_0061_006532,9).
 typeofoutcome_updated(it_0061_006532,1).
-patient(it_0061_006532,neg).
+patient(it_0061_006532,pos).
 covidvaccine(it_0061_006532,0,1).
 
 %patient: it-0061-004218 index:296
@@ -7064,7 +7064,7 @@ who_f2(it_0061_004218,9).
 who_f3(it_0061_004218,0).
 who_f4(it_0061_004218,9).
 typeofoutcome_updated(it_0061_004218,1).
-patient(it_0061_004218,neg).
+patient(it_0061_004218,pos).
 covidvaccine(it_0061_004218,0,2).
 fluvaccine(it_0061_004218,1).
 antipneumovaccine(it_0061_004218,0).
@@ -7092,7 +7092,7 @@ who_f2(it_0061_006504,0).
 who_f3(it_0061_006504,1).
 who_f4(it_0061_006504,9).
 typeofoutcome_updated(it_0061_006504,1).
-patient(it_0061_006504,neg).
+patient(it_0061_006504,pos).
 covidvaccine(it_0061_006504,0,1).
 fluvaccine(it_0061_006504,1).
 antipneumovaccine(it_0061_006504,1).
@@ -7116,7 +7116,7 @@ who_f2(it_0061_004044,0).
 who_f3(it_0061_004044,0).
 who_f4(it_0061_004044,9).
 typeofoutcome_updated(it_0061_004044,1).
-patient(it_0061_004044,neg).
+patient(it_0061_004044,pos).
 covidvaccine(it_0061_004044,0,1).
 
 %patient: it-0125-006125 index:299
@@ -7142,7 +7142,7 @@ who_f2(it_0125_006125,0).
 who_f3(it_0125_006125,0).
 who_f4(it_0125_006125,9).
 typeofoutcome_updated(it_0125_006125,1).
-patient(it_0125_006125,neg).
+patient(it_0125_006125,pos).
 covidvaccine(it_0125_006125,0,2).
 fluvaccine(it_0125_006125,1).
 antipneumovaccine(it_0125_006125,0).
@@ -7166,7 +7166,7 @@ who_f2(it_0133_006049,0).
 who_f3(it_0133_006049,0).
 who_f4(it_0133_006049,9).
 typeofoutcome_updated(it_0133_006049,1).
-patient(it_0133_006049,neg).
+patient(it_0133_006049,pos).
 covidvaccine(it_0133_006049,0,2).
 fluvaccine(it_0133_006049,1).
 antipneumovaccine(it_0133_006049,0).
@@ -7190,7 +7190,7 @@ who_f2(it_0128_004728,0).
 who_f3(it_0128_004728,0).
 who_f4(it_0128_004728,9).
 typeofoutcome_updated(it_0128_004728,1).
-patient(it_0128_004728,neg).
+patient(it_0128_004728,pos).
 covidvaccine(it_0128_004728,0,2).
 fluvaccine(it_0128_004728,1).
 antipneumovaccine(it_0128_004728,0).
@@ -7214,7 +7214,7 @@ who_f2(it_0129_004673,0).
 who_f3(it_0129_004673,0).
 who_f4(it_0129_004673,9).
 typeofoutcome_updated(it_0129_004673,1).
-patient(it_0129_004673,neg).
+patient(it_0129_004673,pos).
 covidvaccine(it_0129_004673,0,2).
 fluvaccine(it_0129_004673,1).
 antipneumovaccine(it_0129_004673,0).
@@ -7240,7 +7240,7 @@ who_f2(it_0129_004674,0).
 who_f3(it_0129_004674,0).
 who_f4(it_0129_004674,9).
 typeofoutcome_updated(it_0129_004674,1).
-patient(it_0129_004674,neg).
+patient(it_0129_004674,pos).
 covidvaccine(it_0129_004674,0,2).
 fluvaccine(it_0129_004674,1).
 antipneumovaccine(it_0129_004674,0).
@@ -7265,7 +7265,7 @@ who_f2(it_0141_006178,0).
 who_f3(it_0141_006178,4).
 who_f4(it_0141_006178,9).
 typeofoutcome_updated(it_0141_006178,1).
-patient(it_0141_006178,neg).
+patient(it_0141_006178,pos).
 covidvaccine(it_0141_006178,0,2).
 fluvaccine(it_0141_006178,0).
 antipneumovaccine(it_0141_006178,0).
@@ -7289,7 +7289,7 @@ who_f2(it_0143_006209,0).
 who_f3(it_0143_006209,0).
 who_f4(it_0143_006209,9).
 typeofoutcome_updated(it_0143_006209,1).
-patient(it_0143_006209,neg).
+patient(it_0143_006209,pos).
 covidvaccine(it_0143_006209,0,1).
 
 %patient: it-0145-006897 index:306
@@ -7308,7 +7308,7 @@ who_f2(it_0145_006897,0).
 who_f3(it_0145_006897,0).
 who_f4(it_0145_006897,9).
 typeofoutcome_updated(it_0145_006897,1).
-patient(it_0145_006897,neg).
+patient(it_0145_006897,pos).
 covidvaccine(it_0145_006897,0,2).
 fluvaccine(it_0145_006897,0).
 antipneumovaccine(it_0145_006897,0).
@@ -7336,7 +7336,7 @@ who_f2(it_0003_000261,0).
 who_f3(it_0003_000261,0).
 who_f4(it_0003_000261,9).
 typeofoutcome_updated(it_0003_000261,1).
-patient(it_0003_000261,neg).
+patient(it_0003_000261,pos).
 covidvaccine(it_0003_000261,0,2).
 fluvaccine(it_0003_000261,1).
 antipneumovaccine(it_0003_000261,0).
@@ -7370,7 +7370,7 @@ who_f2(it_0016_002665,0).
 who_f3(it_0016_002665,0).
 who_f4(it_0016_002665,9).
 typeofoutcome_updated(it_0016_002665,1).
-patient(it_0016_002665,neg).
+patient(it_0016_002665,pos).
 covidvaccine(it_0016_002665,0,2).
 fluvaccine(it_0016_002665,1).
 antipneumovaccine(it_0016_002665,0).
@@ -7401,7 +7401,7 @@ who_f2(it_0018_003763,0).
 who_f3(it_0018_003763,0).
 who_f4(it_0018_003763,9).
 typeofoutcome_updated(it_0018_003763,1).
-patient(it_0018_003763,neg).
+patient(it_0018_003763,pos).
 covidvaccine(it_0018_003763,0,2).
 fluvaccine(it_0018_003763,1).
 antipneumovaccine(it_0018_003763,0).
@@ -7429,7 +7429,7 @@ who_f2(it_0020_003780,0).
 who_f3(it_0020_003780,0).
 who_f4(it_0020_003780,9).
 typeofoutcome_updated(it_0020_003780,1).
-patient(it_0020_003780,neg).
+patient(it_0020_003780,pos).
 covidvaccine(it_0020_003780,0,2).
 fluvaccine(it_0020_003780,1).
 antipneumovaccine(it_0020_003780,0).
@@ -7457,7 +7457,7 @@ who_f2(it_0020_003781,0).
 who_f3(it_0020_003781,0).
 who_f4(it_0020_003781,9).
 typeofoutcome_updated(it_0020_003781,1).
-patient(it_0020_003781,neg).
+patient(it_0020_003781,pos).
 covidvaccine(it_0020_003781,0,2).
 fluvaccine(it_0020_003781,1).
 antipneumovaccine(it_0020_003781,0).
@@ -7487,7 +7487,7 @@ who_f2(it_0020_003804,0).
 who_f3(it_0020_003804,0).
 who_f4(it_0020_003804,9).
 typeofoutcome_updated(it_0020_003804,1).
-patient(it_0020_003804,neg).
+patient(it_0020_003804,pos).
 covidvaccine(it_0020_003804,0,2).
 fluvaccine(it_0020_003804,1).
 antipneumovaccine(it_0020_003804,0).
@@ -7511,7 +7511,7 @@ who_f2(it_0022_003744,0).
 who_f3(it_0022_003744,0).
 who_f4(it_0022_003744,9).
 typeofoutcome_updated(it_0022_003744,1).
-patient(it_0022_003744,neg).
+patient(it_0022_003744,pos).
 covidvaccine(it_0022_003744,0,2).
 fluvaccine(it_0022_003744,0).
 antipneumovaccine(it_0022_003744,0).
@@ -7532,7 +7532,7 @@ who_f2(it_0042_003626,0).
 who_f3(it_0042_003626,0).
 who_f4(it_0042_003626,9).
 typeofoutcome_updated(it_0042_003626,1).
-patient(it_0042_003626,neg).
+patient(it_0042_003626,pos).
 covidvaccine(it_0042_003626,0,2).
 fluvaccine(it_0042_003626,1).
 antipneumovaccine(it_0042_003626,0).
@@ -7559,7 +7559,7 @@ who_f2(it_0042_003642,0).
 who_f3(it_0042_003642,0).
 who_f4(it_0042_003642,9).
 typeofoutcome_updated(it_0042_003642,1).
-patient(it_0042_003642,neg).
+patient(it_0042_003642,pos).
 covidvaccine(it_0042_003642,0,2).
 fluvaccine(it_0042_003642,1).
 antipneumovaccine(it_0042_003642,0).
@@ -7587,7 +7587,7 @@ who_f2(it_0042_003651,0).
 who_f3(it_0042_003651,0).
 who_f4(it_0042_003651,9).
 typeofoutcome_updated(it_0042_003651,1).
-patient(it_0042_003651,neg).
+patient(it_0042_003651,pos).
 covidvaccine(it_0042_003651,0,2).
 fluvaccine(it_0042_003651,1).
 antipneumovaccine(it_0042_003651,0).
@@ -7610,7 +7610,7 @@ who_f2(it_0042_003652,9).
 who_f3(it_0042_003652,1).
 who_f4(it_0042_003652,9).
 typeofoutcome_updated(it_0042_003652,1).
-patient(it_0042_003652,neg).
+patient(it_0042_003652,pos).
 covidvaccine(it_0042_003652,0,2).
 fluvaccine(it_0042_003652,0).
 antipneumovaccine(it_0042_003652,0).
@@ -7633,7 +7633,7 @@ who_f2(it_0042_003653,0).
 who_f3(it_0042_003653,0).
 who_f4(it_0042_003653,9).
 typeofoutcome_updated(it_0042_003653,1).
-patient(it_0042_003653,neg).
+patient(it_0042_003653,pos).
 covidvaccine(it_0042_003653,0,2).
 fluvaccine(it_0042_003653,1).
 antipneumovaccine(it_0042_003653,0).
@@ -7660,7 +7660,7 @@ who_f2(it_0042_003717,0).
 who_f3(it_0042_003717,0).
 who_f4(it_0042_003717,9).
 typeofoutcome_updated(it_0042_003717,1).
-patient(it_0042_003717,neg).
+patient(it_0042_003717,pos).
 covidvaccine(it_0042_003717,0,2).
 fluvaccine(it_0042_003717,1).
 antipneumovaccine(it_0042_003717,0).
@@ -7688,7 +7688,7 @@ who_f2(it_0042_003730,0).
 who_f3(it_0042_003730,0).
 who_f4(it_0042_003730,9).
 typeofoutcome_updated(it_0042_003730,1).
-patient(it_0042_003730,neg).
+patient(it_0042_003730,pos).
 covidvaccine(it_0042_003730,0,2).
 fluvaccine(it_0042_003730,0).
 antipneumovaccine(it_0042_003730,0).
@@ -7711,7 +7711,7 @@ who_f2(it_0042_003732,0).
 who_f3(it_0042_003732,0).
 who_f4(it_0042_003732,9).
 typeofoutcome_updated(it_0042_003732,1).
-patient(it_0042_003732,neg).
+patient(it_0042_003732,pos).
 covidvaccine(it_0042_003732,0,2).
 fluvaccine(it_0042_003732,1).
 antipneumovaccine(it_0042_003732,0).
@@ -7737,7 +7737,7 @@ who_f2(it_0061_000621,0).
 who_f3(it_0061_000621,0).
 who_f4(it_0061_000621,9).
 typeofoutcome_updated(it_0061_000621,1).
-patient(it_0061_000621,neg).
+patient(it_0061_000621,pos).
 covidvaccine(it_0061_000621,0,2).
 
 %patient: it-0061-004016 index:323
@@ -7763,7 +7763,7 @@ who_f2(it_0061_004016,0).
 who_f3(it_0061_004016,0).
 who_f4(it_0061_004016,9).
 typeofoutcome_updated(it_0061_004016,1).
-patient(it_0061_004016,neg).
+patient(it_0061_004016,pos).
 covidvaccine(it_0061_004016,0,2).
 fluvaccine(it_0061_004016,1).
 antipneumovaccine(it_0061_004016,1).
@@ -7784,7 +7784,7 @@ who_f2(it_0061_004101,0).
 who_f3(it_0061_004101,0).
 who_f4(it_0061_004101,9).
 typeofoutcome_updated(it_0061_004101,1).
-patient(it_0061_004101,neg).
+patient(it_0061_004101,pos).
 covidvaccine(it_0061_004101,0,1).
 
 %patient: it-0106-006808 index:325
@@ -7805,7 +7805,7 @@ who_f2(it_0106_006808,0).
 who_f3(it_0106_006808,0).
 who_f4(it_0106_006808,9).
 typeofoutcome_updated(it_0106_006808,1).
-patient(it_0106_006808,neg).
+patient(it_0106_006808,pos).
 covidvaccine(it_0106_006808,0,2).
 fluvaccine(it_0106_006808,1).
 antipneumovaccine(it_0106_006808,1).
@@ -7828,7 +7828,7 @@ who_f2(it_0108_002680,0).
 who_f3(it_0108_002680,0).
 who_f4(it_0108_002680,9).
 typeofoutcome_updated(it_0108_002680,1).
-patient(it_0108_002680,neg).
+patient(it_0108_002680,pos).
 covidvaccine(it_0108_002680,0,2).
 fluvaccine(it_0108_002680,1).
 antipneumovaccine(it_0108_002680,0).
@@ -7850,7 +7850,7 @@ who_f2(it_0127_006714,0).
 who_f3(it_0127_006714,0).
 who_f4(it_0127_006714,9).
 typeofoutcome_updated(it_0127_006714,1).
-patient(it_0127_006714,neg).
+patient(it_0127_006714,pos).
 covidvaccine(it_0127_006714,0,2).
 fluvaccine(it_0127_006714,1).
 antipneumovaccine(it_0127_006714,1).
@@ -7872,7 +7872,7 @@ who_f2(it_0127_006721,0).
 who_f3(it_0127_006721,0).
 who_f4(it_0127_006721,9).
 typeofoutcome_updated(it_0127_006721,1).
-patient(it_0127_006721,neg).
+patient(it_0127_006721,pos).
 covidvaccine(it_0127_006721,0,2).
 fluvaccine(it_0127_006721,1).
 antipneumovaccine(it_0127_006721,1).
@@ -7893,7 +7893,7 @@ who_f2(it_0127_006727,0).
 who_f3(it_0127_006727,0).
 who_f4(it_0127_006727,9).
 typeofoutcome_updated(it_0127_006727,1).
-patient(it_0127_006727,neg).
+patient(it_0127_006727,pos).
 covidvaccine(it_0127_006727,0,2).
 fluvaccine(it_0127_006727,1).
 antipneumovaccine(it_0127_006727,1).
@@ -7920,7 +7920,7 @@ who_f2(it_0133_006056,0).
 who_f3(it_0133_006056,0).
 who_f4(it_0133_006056,9).
 typeofoutcome_updated(it_0133_006056,1).
-patient(it_0133_006056,neg).
+patient(it_0133_006056,pos).
 covidvaccine(it_0133_006056,0,2).
 fluvaccine(it_0133_006056,1).
 antipneumovaccine(it_0133_006056,1).
@@ -7941,7 +7941,7 @@ who_f2(it_0135_004358,0).
 who_f3(it_0135_004358,0).
 who_f4(it_0135_004358,9).
 typeofoutcome_updated(it_0135_004358,1).
-patient(it_0135_004358,neg).
+patient(it_0135_004358,pos).
 covidvaccine(it_0135_004358,0,2).
 fluvaccine(it_0135_004358,1).
 
@@ -7962,7 +7962,7 @@ who_f2(it_0135_004649,0).
 who_f3(it_0135_004649,0).
 who_f4(it_0135_004649,9).
 typeofoutcome_updated(it_0135_004649,1).
-patient(it_0135_004649,neg).
+patient(it_0135_004649,pos).
 covidvaccine(it_0135_004649,0,2).
 fluvaccine(it_0135_004649,1).
 antipneumovaccine(it_0135_004649,0).
@@ -7982,7 +7982,7 @@ who_f2(it_0136_005413,0).
 who_f3(it_0136_005413,0).
 who_f4(it_0136_005413,9).
 typeofoutcome_updated(it_0136_005413,1).
-patient(it_0136_005413,neg).
+patient(it_0136_005413,pos).
 covidvaccine(it_0136_005413,0,2).
 
 %patient: it-0142-006388 index:334
@@ -8011,7 +8011,7 @@ who_f2(it_0142_006388,0).
 who_f3(it_0142_006388,0).
 who_f4(it_0142_006388,9).
 typeofoutcome_updated(it_0142_006388,1).
-patient(it_0142_006388,neg).
+patient(it_0142_006388,pos).
 covidvaccine(it_0142_006388,0,2).
 fluvaccine(it_0142_006388,1).
 antipneumovaccine(it_0142_006388,0).
@@ -8036,7 +8036,7 @@ who_f2(it_0143_006158,0).
 who_f3(it_0143_006158,0).
 who_f4(it_0143_006158,9).
 typeofoutcome_updated(it_0143_006158,1).
-patient(it_0143_006158,neg).
+patient(it_0143_006158,pos).
 covidvaccine(it_0143_006158,0,1).
 
 %patient: it-0143-006184 index:336
@@ -8054,7 +8054,7 @@ who_f2(it_0143_006184,0).
 who_f3(it_0143_006184,0).
 who_f4(it_0143_006184,9).
 typeofoutcome_updated(it_0143_006184,1).
-patient(it_0143_006184,neg).
+patient(it_0143_006184,pos).
 covidvaccine(it_0143_006184,0,1).
 
 %patient: it-0143-006191 index:337
@@ -8072,7 +8072,7 @@ who_f2(it_0143_006191,0).
 who_f3(it_0143_006191,0).
 who_f4(it_0143_006191,9).
 typeofoutcome_updated(it_0143_006191,1).
-patient(it_0143_006191,neg).
+patient(it_0143_006191,pos).
 covidvaccine(it_0143_006191,0,1).
 
 %patient: it-0143-006195 index:338
@@ -8095,7 +8095,7 @@ who_f2(it_0143_006195,0).
 who_f3(it_0143_006195,0).
 who_f4(it_0143_006195,9).
 typeofoutcome_updated(it_0143_006195,1).
-patient(it_0143_006195,neg).
+patient(it_0143_006195,pos).
 covidvaccine(it_0143_006195,0,1).
 
 %patient: it-0143-006206 index:339
@@ -8119,7 +8119,7 @@ who_f2(it_0143_006206,0).
 who_f3(it_0143_006206,0).
 who_f4(it_0143_006206,9).
 typeofoutcome_updated(it_0143_006206,1).
-patient(it_0143_006206,neg).
+patient(it_0143_006206,pos).
 covidvaccine(it_0143_006206,0,1).
 
 %patient: it-0143-006256 index:340
@@ -8142,7 +8142,7 @@ who_f2(it_0143_006256,4).
 who_f3(it_0143_006256,4).
 who_f4(it_0143_006256,9).
 typeofoutcome_updated(it_0143_006256,1).
-patient(it_0143_006256,neg).
+patient(it_0143_006256,pos).
 covidvaccine(it_0143_006256,0,2).
 
 %patient: it-0143-006283 index:341
@@ -8166,7 +8166,7 @@ who_f2(it_0143_006283,0).
 who_f3(it_0143_006283,0).
 who_f4(it_0143_006283,9).
 typeofoutcome_updated(it_0143_006283,1).
-patient(it_0143_006283,neg).
+patient(it_0143_006283,pos).
 covidvaccine(it_0143_006283,0,1).
 
 %patient: it-0143-006626 index:342
@@ -8187,7 +8187,7 @@ who_f2(it_0143_006626,0).
 who_f3(it_0143_006626,0).
 who_f4(it_0143_006626,9).
 typeofoutcome_updated(it_0143_006626,1).
-patient(it_0143_006626,neg).
+patient(it_0143_006626,pos).
 covidvaccine(it_0143_006626,0,1).
 
 %patient: it-0144-006855 index:343
@@ -8213,7 +8213,7 @@ who_f2(it_0144_006855,0).
 who_f3(it_0144_006855,0).
 who_f4(it_0144_006855,9).
 typeofoutcome_updated(it_0144_006855,1).
-patient(it_0144_006855,neg).
+patient(it_0144_006855,pos).
 covidvaccine(it_0144_006855,0,2).
 fluvaccine(it_0144_006855,1).
 antipneumovaccine(it_0144_006855,0).
@@ -8241,7 +8241,7 @@ who_f2(it_0144_006863,0).
 who_f3(it_0144_006863,0).
 who_f4(it_0144_006863,9).
 typeofoutcome_updated(it_0144_006863,1).
-patient(it_0144_006863,neg).
+patient(it_0144_006863,pos).
 covidvaccine(it_0144_006863,0,2).
 fluvaccine(it_0144_006863,1).
 antipneumovaccine(it_0144_006863,0).
@@ -8268,7 +8268,7 @@ who_f2(it_0145_006869,0).
 who_f3(it_0145_006869,0).
 who_f4(it_0145_006869,9).
 typeofoutcome_updated(it_0145_006869,1).
-patient(it_0145_006869,neg).
+patient(it_0145_006869,pos).
 covidvaccine(it_0145_006869,0,2).
 fluvaccine(it_0145_006869,1).
 antipneumovaccine(it_0145_006869,0).
@@ -8298,7 +8298,7 @@ who_f2(it_0145_006876,0).
 who_f3(it_0145_006876,0).
 who_f4(it_0145_006876,9).
 typeofoutcome_updated(it_0145_006876,1).
-patient(it_0145_006876,neg).
+patient(it_0145_006876,pos).
 covidvaccine(it_0145_006876,0,2).
 fluvaccine(it_0145_006876,1).
 antipneumovaccine(it_0145_006876,0).
@@ -8326,7 +8326,7 @@ who_f2(it_0145_006883,0).
 who_f3(it_0145_006883,0).
 who_f4(it_0145_006883,9).
 typeofoutcome_updated(it_0145_006883,1).
-patient(it_0145_006883,neg).
+patient(it_0145_006883,pos).
 covidvaccine(it_0145_006883,0,2).
 fluvaccine(it_0145_006883,1).
 antipneumovaccine(it_0145_006883,0).
@@ -8351,7 +8351,7 @@ who_f2(it_0145_006896,0).
 who_f3(it_0145_006896,0).
 who_f4(it_0145_006896,9).
 typeofoutcome_updated(it_0145_006896,1).
-patient(it_0145_006896,neg).
+patient(it_0145_006896,pos).
 covidvaccine(it_0145_006896,0,2).
 fluvaccine(it_0145_006896,1).
 antipneumovaccine(it_0145_006896,0).
@@ -8376,7 +8376,7 @@ who_f2(it_0152_004909,0).
 who_f3(it_0152_004909,0).
 who_f4(it_0152_004909,9).
 typeofoutcome_updated(it_0152_004909,1).
-patient(it_0152_004909,neg).
+patient(it_0152_004909,pos).
 covidvaccine(it_0152_004909,0,2).
 
 %patient: it-0152-004918 index:350
@@ -8397,7 +8397,7 @@ who_f2(it_0152_004918,0).
 who_f3(it_0152_004918,0).
 who_f4(it_0152_004918,9).
 typeofoutcome_updated(it_0152_004918,1).
-patient(it_0152_004918,neg).
+patient(it_0152_004918,pos).
 covidvaccine(it_0152_004918,0,2).
 
 %patient: it-0152-004980 index:351
@@ -8417,7 +8417,7 @@ who_f2(it_0152_004980,0).
 who_f3(it_0152_004980,0).
 who_f4(it_0152_004980,9).
 typeofoutcome_updated(it_0152_004980,1).
-patient(it_0152_004980,neg).
+patient(it_0152_004980,pos).
 covidvaccine(it_0152_004980,0,2).
 
 %patient: it-0152-004981 index:352
@@ -8440,7 +8440,7 @@ who_f2(it_0152_004981,0).
 who_f3(it_0152_004981,0).
 who_f4(it_0152_004981,9).
 typeofoutcome_updated(it_0152_004981,1).
-patient(it_0152_004981,neg).
+patient(it_0152_004981,pos).
 covidvaccine(it_0152_004981,0,2).
 
 %patient: it-0152-005049 index:353
@@ -8465,7 +8465,7 @@ who_f2(it_0152_005049,0).
 who_f3(it_0152_005049,0).
 who_f4(it_0152_005049,9).
 typeofoutcome_updated(it_0152_005049,1).
-patient(it_0152_005049,neg).
+patient(it_0152_005049,pos).
 covidvaccine(it_0152_005049,0,2).
 
 %patient: it-0152-005186 index:354
@@ -8487,7 +8487,7 @@ who_f2(it_0152_005186,0).
 who_f3(it_0152_005186,0).
 who_f4(it_0152_005186,9).
 typeofoutcome_updated(it_0152_005186,1).
-patient(it_0152_005186,neg).
+patient(it_0152_005186,pos).
 covidvaccine(it_0152_005186,0,2).
 
 %patient: it-0152-005401 index:355
@@ -8508,7 +8508,7 @@ who_f2(it_0152_005401,0).
 who_f3(it_0152_005401,0).
 who_f4(it_0152_005401,9).
 typeofoutcome_updated(it_0152_005401,1).
-patient(it_0152_005401,neg).
+patient(it_0152_005401,pos).
 covidvaccine(it_0152_005401,0,2).
 
 %patient: it-0152-005433 index:356
@@ -8530,7 +8530,7 @@ who_f2(it_0152_005433,0).
 who_f3(it_0152_005433,0).
 who_f4(it_0152_005433,9).
 typeofoutcome_updated(it_0152_005433,1).
-patient(it_0152_005433,neg).
+patient(it_0152_005433,pos).
 covidvaccine(it_0152_005433,0,2).
 
 %patient: it-0152-005488 index:357
@@ -8548,7 +8548,7 @@ who_f2(it_0152_005488,0).
 who_f3(it_0152_005488,0).
 who_f4(it_0152_005488,9).
 typeofoutcome_updated(it_0152_005488,1).
-patient(it_0152_005488,neg).
+patient(it_0152_005488,pos).
 covidvaccine(it_0152_005488,0,2).
 
 %patient: it-0164-006343 index:358
@@ -8572,7 +8572,7 @@ who_f2(it_0164_006343,0).
 who_f3(it_0164_006343,0).
 who_f4(it_0164_006343,9).
 typeofoutcome_updated(it_0164_006343,1).
-patient(it_0164_006343,neg).
+patient(it_0164_006343,pos).
 covidvaccine(it_0164_006343,0,2).
 fluvaccine(it_0164_006343,1).
 antipneumovaccine(it_0164_006343,1).
@@ -8599,7 +8599,7 @@ who_f2(it_0164_006404,0).
 who_f3(it_0164_006404,0).
 who_f4(it_0164_006404,9).
 typeofoutcome_updated(it_0164_006404,1).
-patient(it_0164_006404,neg).
+patient(it_0164_006404,pos).
 covidvaccine(it_0164_006404,0,2).
 fluvaccine(it_0164_006404,1).
 antipneumovaccine(it_0164_006404,1).
@@ -8621,7 +8621,7 @@ who_f2(it_0164_006543,0).
 who_f3(it_0164_006543,0).
 who_f4(it_0164_006543,9).
 typeofoutcome_updated(it_0164_006543,1).
-patient(it_0164_006543,neg).
+patient(it_0164_006543,pos).
 covidvaccine(it_0164_006543,0,2).
 fluvaccine(it_0164_006543,1).
 antipneumovaccine(it_0164_006543,1).
@@ -8647,7 +8647,7 @@ who_f2(it_0167_006830,0).
 who_f3(it_0167_006830,0).
 who_f4(it_0167_006830,9).
 typeofoutcome_updated(it_0167_006830,1).
-patient(it_0167_006830,neg).
+patient(it_0167_006830,pos).
 covidvaccine(it_0167_006830,0,2).
 fluvaccine(it_0167_006830,1).
 antipneumovaccine(it_0167_006830,0).
@@ -8671,7 +8671,7 @@ who_f2(it_0169_005981,0).
 who_f3(it_0169_005981,0).
 who_f4(it_0169_005981,9).
 typeofoutcome_updated(it_0169_005981,1).
-patient(it_0169_005981,neg).
+patient(it_0169_005981,pos).
 covidvaccine(it_0169_005981,0,2).
 fluvaccine(it_0169_005981,1).
 antipneumovaccine(it_0169_005981,0).
@@ -8696,7 +8696,7 @@ who_f2(it_0169_006603,0).
 who_f3(it_0169_006603,0).
 who_f4(it_0169_006603,9).
 typeofoutcome_updated(it_0169_006603,1).
-patient(it_0169_006603,neg).
+patient(it_0169_006603,pos).
 covidvaccine(it_0169_006603,0,2).
 fluvaccine(it_0169_006603,1).
 antipneumovaccine(it_0169_006603,0).
@@ -8723,7 +8723,7 @@ who_f2(it_0171_006141,0).
 who_f3(it_0171_006141,0).
 who_f4(it_0171_006141,9).
 typeofoutcome_updated(it_0171_006141,1).
-patient(it_0171_006141,neg).
+patient(it_0171_006141,pos).
 covidvaccine(it_0171_006141,0,2).
 fluvaccine(it_0171_006141,1).
 antipneumovaccine(it_0171_006141,0).
@@ -8748,7 +8748,7 @@ who_f2(it_0171_006154,0).
 who_f3(it_0171_006154,0).
 who_f4(it_0171_006154,9).
 typeofoutcome_updated(it_0171_006154,1).
-patient(it_0171_006154,neg).
+patient(it_0171_006154,pos).
 covidvaccine(it_0171_006154,0,2).
 fluvaccine(it_0171_006154,1).
 antipneumovaccine(it_0171_006154,0).
@@ -8771,7 +8771,7 @@ who_f2(it_0171_006398,0).
 who_f3(it_0171_006398,0).
 who_f4(it_0171_006398,9).
 typeofoutcome_updated(it_0171_006398,1).
-patient(it_0171_006398,neg).
+patient(it_0171_006398,pos).
 covidvaccine(it_0171_006398,0,2).
 fluvaccine(it_0171_006398,1).
 antipneumovaccine(it_0171_006398,0).
@@ -8797,7 +8797,7 @@ who_f2(it_0031_005602,0).
 who_f3(it_0031_005602,0).
 who_f4(it_0031_005602,9).
 typeofoutcome_updated(it_0031_005602,1).
-patient(it_0031_005602,neg).
+patient(it_0031_005602,pos).
 covidvaccine(it_0031_005602,0,2).
 fluvaccine(it_0031_005602,1).
 antipneumovaccine(it_0031_005602,0).
@@ -8822,7 +8822,7 @@ who_f2(it_0123_005708,0).
 who_f3(it_0123_005708,0).
 who_f4(it_0123_005708,9).
 typeofoutcome_updated(it_0123_005708,1).
-patient(it_0123_005708,neg).
+patient(it_0123_005708,pos).
 covidvaccine(it_0123_005708,0,2).
 fluvaccine(it_0123_005708,1).
 antipneumovaccine(it_0123_005708,0).
@@ -8846,7 +8846,7 @@ who_f2(it_0127_006708,0).
 who_f3(it_0127_006708,0).
 who_f4(it_0127_006708,9).
 typeofoutcome_updated(it_0127_006708,1).
-patient(it_0127_006708,neg).
+patient(it_0127_006708,pos).
 covidvaccine(it_0127_006708,0,2).
 fluvaccine(it_0127_006708,1).
 antipneumovaccine(it_0127_006708,0).
@@ -8871,7 +8871,7 @@ who_f2(it_0127_006850,0).
 who_f3(it_0127_006850,0).
 who_f4(it_0127_006850,9).
 typeofoutcome_updated(it_0127_006850,1).
-patient(it_0127_006850,neg).
+patient(it_0127_006850,pos).
 covidvaccine(it_0127_006850,0,2).
 fluvaccine(it_0127_006850,1).
 antipneumovaccine(it_0127_006850,0).
@@ -8901,7 +8901,7 @@ who_f2(it_0130_004580,0).
 who_f3(it_0130_004580,4).
 who_f4(it_0130_004580,9).
 typeofoutcome_updated(it_0130_004580,1).
-patient(it_0130_004580,neg).
+patient(it_0130_004580,pos).
 covidvaccine(it_0130_004580,1,2).
 fluvaccine(it_0130_004580,1).
 antipneumovaccine(it_0130_004580,0).
@@ -8925,7 +8925,7 @@ who_f2(it_0143_005330,0).
 who_f3(it_0143_005330,0).
 who_f4(it_0143_005330,9).
 typeofoutcome_updated(it_0143_005330,1).
-patient(it_0143_005330,neg).
+patient(it_0143_005330,pos).
 covidvaccine(it_0143_005330,0,1).
 
 %patient: it-0166-004973 index:373
@@ -8950,7 +8950,7 @@ who_f2(it_0166_004973,0).
 who_f3(it_0166_004973,0).
 who_f4(it_0166_004973,9).
 typeofoutcome_updated(it_0166_004973,1).
-patient(it_0166_004973,neg).
+patient(it_0166_004973,pos).
 covidvaccine(it_0166_004973,1,2).
 fluvaccine(it_0166_004973,0).
 antipneumovaccine(it_0166_004973,0).
@@ -8977,7 +8977,7 @@ who_f2(it_0052_005744,0).
 who_f3(it_0052_005744,0).
 who_f4(it_0052_005744,9).
 typeofoutcome_updated(it_0052_005744,1).
-patient(it_0052_005744,neg).
+patient(it_0052_005744,pos).
 covidvaccine(it_0052_005744,0,2).
 fluvaccine(it_0052_005744,0).
 antipneumovaccine(it_0052_005744,0).
@@ -9005,7 +9005,7 @@ who_f2(it_0053_005745,0).
 who_f3(it_0053_005745,0).
 who_f4(it_0053_005745,9).
 typeofoutcome_updated(it_0053_005745,1).
-patient(it_0053_005745,neg).
+patient(it_0053_005745,pos).
 covidvaccine(it_0053_005745,0,2).
 fluvaccine(it_0053_005745,0).
 antipneumovaccine(it_0053_005745,0).
@@ -9032,7 +9032,7 @@ who_f2(it_0116_004530,0).
 who_f3(it_0116_004530,0).
 who_f4(it_0116_004530,9).
 typeofoutcome_updated(it_0116_004530,1).
-patient(it_0116_004530,neg).
+patient(it_0116_004530,pos).
 covidvaccine(it_0116_004530,0,2).
 fluvaccine(it_0116_004530,1).
 antipneumovaccine(it_0116_004530,1).
@@ -9055,7 +9055,7 @@ who_f2(it_0116_004956,0).
 who_f3(it_0116_004956,0).
 who_f4(it_0116_004956,9).
 typeofoutcome_updated(it_0116_004956,1).
-patient(it_0116_004956,neg).
+patient(it_0116_004956,pos).
 covidvaccine(it_0116_004956,0,2).
 fluvaccine(it_0116_004956,1).
 antipneumovaccine(it_0116_004956,1).
@@ -9083,7 +9083,7 @@ who_f2(it_0123_005710,0).
 who_f3(it_0123_005710,0).
 who_f4(it_0123_005710,9).
 typeofoutcome_updated(it_0123_005710,1).
-patient(it_0123_005710,neg).
+patient(it_0123_005710,pos).
 covidvaccine(it_0123_005710,0,2).
 fluvaccine(it_0123_005710,1).
 antipneumovaccine(it_0123_005710,0).
@@ -9110,7 +9110,7 @@ who_f2(it_0123_005713,0).
 who_f3(it_0123_005713,0).
 who_f4(it_0123_005713,9).
 typeofoutcome_updated(it_0123_005713,1).
-patient(it_0123_005713,neg).
+patient(it_0123_005713,pos).
 covidvaccine(it_0123_005713,0,2).
 fluvaccine(it_0123_005713,1).
 antipneumovaccine(it_0123_005713,0).
@@ -9133,7 +9133,7 @@ who_f2(it_0125_006430,0).
 who_f3(it_0125_006430,0).
 who_f4(it_0125_006430,9).
 typeofoutcome_updated(it_0125_006430,1).
-patient(it_0125_006430,neg).
+patient(it_0125_006430,pos).
 covidvaccine(it_0125_006430,0,2).
 fluvaccine(it_0125_006430,1).
 vzvvaccine(it_0125_006430,0).
@@ -9157,7 +9157,7 @@ who_f2(it_0130_005395,0).
 who_f3(it_0130_005395,0).
 who_f4(it_0130_005395,9).
 typeofoutcome_updated(it_0130_005395,1).
-patient(it_0130_005395,neg).
+patient(it_0130_005395,pos).
 covidvaccine(it_0130_005395,1,2).
 fluvaccine(it_0130_005395,1).
 vzvvaccine(it_0130_005395,0).
@@ -9187,7 +9187,7 @@ who_f2(it_0143_004050,0).
 who_f3(it_0143_004050,0).
 who_f4(it_0143_004050,9).
 typeofoutcome_updated(it_0143_004050,1).
-patient(it_0143_004050,neg).
+patient(it_0143_004050,pos).
 covidvaccine(it_0143_004050,0,2).
 fluvaccine(it_0143_004050,1).
 antipneumovaccine(it_0143_004050,1).
@@ -9210,7 +9210,7 @@ who_f2(it_0152_004890,0).
 who_f3(it_0152_004890,0).
 who_f4(it_0152_004890,9).
 typeofoutcome_updated(it_0152_004890,1).
-patient(it_0152_004890,neg).
+patient(it_0152_004890,pos).
 covidvaccine(it_0152_004890,0,1).
 
 %patient: it-0020-004829 index:384
@@ -9234,7 +9234,7 @@ who_f2(it_0020_004829,0).
 who_f3(it_0020_004829,0).
 who_f4(it_0020_004829,9).
 typeofoutcome_updated(it_0020_004829,1).
-patient(it_0020_004829,neg).
+patient(it_0020_004829,pos).
 covidvaccine(it_0020_004829,0,2).
 
 %patient: it-0021-003852 index:385
@@ -9262,7 +9262,7 @@ who_f2(it_0021_003852,0).
 who_f3(it_0021_003852,0).
 who_f4(it_0021_003852,9).
 typeofoutcome_updated(it_0021_003852,1).
-patient(it_0021_003852,neg).
+patient(it_0021_003852,pos).
 covidvaccine(it_0021_003852,0,2).
 
 %patient: it-0044-004233 index:386
@@ -9284,7 +9284,7 @@ who_f2(it_0044_004233,9).
 who_f3(it_0044_004233,0).
 who_f4(it_0044_004233,9).
 typeofoutcome_updated(it_0044_004233,1).
-patient(it_0044_004233,neg).
+patient(it_0044_004233,pos).
 covidvaccine(it_0044_004233,0,1).
 fluvaccine(it_0044_004233,0).
 antipneumovaccine(it_0044_004233,0).
@@ -9314,7 +9314,7 @@ who_f2(it_0044_004235,0).
 who_f3(it_0044_004235,0).
 who_f4(it_0044_004235,9).
 typeofoutcome_updated(it_0044_004235,1).
-patient(it_0044_004235,neg).
+patient(it_0044_004235,pos).
 covidvaccine(it_0044_004235,0,1).
 fluvaccine(it_0044_004235,1).
 antipneumovaccine(it_0044_004235,0).
@@ -9340,7 +9340,7 @@ who_f2(it_0108_002695,0).
 who_f3(it_0108_002695,0).
 who_f4(it_0108_002695,9).
 typeofoutcome_updated(it_0108_002695,1).
-patient(it_0108_002695,neg).
+patient(it_0108_002695,pos).
 covidvaccine(it_0108_002695,0,2).
 fluvaccine(it_0108_002695,1).
 antipneumovaccine(it_0108_002695,0).
@@ -9367,7 +9367,7 @@ who_f2(it_0143_004849,0).
 who_f3(it_0143_004849,1).
 who_f4(it_0143_004849,9).
 typeofoutcome_updated(it_0143_004849,1).
-patient(it_0143_004849,neg).
+patient(it_0143_004849,pos).
 covidvaccine(it_0143_004849,0,1).
 fluvaccine(it_0143_004849,0).
 
@@ -9390,7 +9390,7 @@ who_f2(it_0143_004857,0).
 who_f3(it_0143_004857,1).
 who_f4(it_0143_004857,9).
 typeofoutcome_updated(it_0143_004857,1).
-patient(it_0143_004857,neg).
+patient(it_0143_004857,pos).
 covidvaccine(it_0143_004857,0,1).
 fluvaccine(it_0143_004857,0).
 
@@ -9413,7 +9413,7 @@ who_f2(it_0143_005247,0).
 who_f3(it_0143_005247,1).
 who_f4(it_0143_005247,9).
 typeofoutcome_updated(it_0143_005247,1).
-patient(it_0143_005247,neg).
+patient(it_0143_005247,pos).
 covidvaccine(it_0143_005247,0,1).
 fluvaccine(it_0143_005247,0).
 
@@ -9432,7 +9432,7 @@ who_f2(it_0143_006622,0).
 who_f3(it_0143_006622,1).
 who_f4(it_0143_006622,9).
 typeofoutcome_updated(it_0143_006622,1).
-patient(it_0143_006622,neg).
+patient(it_0143_006622,pos).
 covidvaccine(it_0143_006622,0,1).
 
 %patient: it-0169-006433 index:393
@@ -9450,7 +9450,7 @@ who_f2(it_0169_006433,0).
 who_f3(it_0169_006433,0).
 who_f4(it_0169_006433,9).
 typeofoutcome_updated(it_0169_006433,1).
-patient(it_0169_006433,neg).
+patient(it_0169_006433,pos).
 covidvaccine(it_0169_006433,0,2).
 fluvaccine(it_0169_006433,1).
 antipneumovaccine(it_0169_006433,0).
@@ -9474,7 +9474,7 @@ who_f2(it_0061_004224,0).
 who_f3(it_0061_004224,4).
 who_f4(it_0061_004224,9).
 typeofoutcome_updated(it_0061_004224,1).
-patient(it_0061_004224,neg).
+patient(it_0061_004224,pos).
 covidvaccine(it_0061_004224,0,2).
 fluvaccine(it_0061_004224,1).
 antipneumovaccine(it_0061_004224,0).
@@ -9528,7 +9528,7 @@ who_f2(it_0125_004268,0).
 who_f3(it_0125_004268,0).
 who_f4(it_0125_004268,9).
 typeofoutcome_updated(it_0125_004268,1).
-patient(it_0125_004268,neg).
+patient(it_0125_004268,pos).
 covidvaccine(it_0125_004268,0,2).
 fluvaccine(it_0125_004268,1).
 antipneumovaccine(it_0125_004268,1).
@@ -9553,7 +9553,7 @@ who_f2(it_0125_004278,0).
 who_f3(it_0125_004278,0).
 who_f4(it_0125_004278,9).
 typeofoutcome_updated(it_0125_004278,1).
-patient(it_0125_004278,neg).
+patient(it_0125_004278,pos).
 covidvaccine(it_0125_004278,0,2).
 fluvaccine(it_0125_004278,1).
 antipneumovaccine(it_0125_004278,1).
@@ -9580,7 +9580,7 @@ who_f2(it_0132_005626,0).
 who_f3(it_0132_005626,0).
 who_f4(it_0132_005626,9).
 typeofoutcome_updated(it_0132_005626,1).
-patient(it_0132_005626,neg).
+patient(it_0132_005626,pos).
 covidvaccine(it_0132_005626,0,2).
 
 %patient: it-0125-004124 index:399
@@ -9608,7 +9608,7 @@ who_f2(it_0125_004124,0).
 who_f3(it_0125_004124,0).
 who_f4(it_0125_004124,9).
 typeofoutcome_updated(it_0125_004124,1).
-patient(it_0125_004124,neg).
+patient(it_0125_004124,pos).
 covidvaccine(it_0125_004124,0,2).
 fluvaccine(it_0125_004124,1).
 antipneumovaccine(it_0125_004124,1).
@@ -9634,7 +9634,7 @@ who_f2(it_0166_005072,0).
 who_f3(it_0166_005072,0).
 who_f4(it_0166_005072,9).
 typeofoutcome_updated(it_0166_005072,1).
-patient(it_0166_005072,neg).
+patient(it_0166_005072,pos).
 covidvaccine(it_0166_005072,1,2).
 fluvaccine(it_0166_005072,1).
 antipneumovaccine(it_0166_005072,1).
@@ -9696,7 +9696,7 @@ who_f2(it_0126_005344,0).
 who_f3(it_0126_005344,0).
 who_f4(it_0126_005344,9).
 typeofoutcome_updated(it_0126_005344,1).
-patient(it_0126_005344,neg).
+patient(it_0126_005344,pos).
 covidvaccine(it_0126_005344,0,2).
 fluvaccine(it_0126_005344,1).
 antipneumovaccine(it_0126_005344,1).
@@ -9728,7 +9728,7 @@ who_f2(it_0143_003915,0).
 who_f3(it_0143_003915,4).
 who_f4(it_0143_003915,9).
 typeofoutcome_updated(it_0143_003915,1).
-patient(it_0143_003915,neg).
+patient(it_0143_003915,pos).
 covidvaccine(it_0143_003915,0,2).
 
 %patient: it-0148-005582 index:404
@@ -9749,7 +9749,7 @@ who_f2(it_0148_005582,9).
 who_f3(it_0148_005582,0).
 who_f4(it_0148_005582,9).
 typeofoutcome_updated(it_0148_005582,1).
-patient(it_0148_005582,neg).
+patient(it_0148_005582,pos).
 covidvaccine(it_0148_005582,0,2).
 fluvaccine(it_0148_005582,1).
 antipneumovaccine(it_0148_005582,0).
@@ -9771,7 +9771,7 @@ who_f2(it_0171_006355,0).
 who_f3(it_0171_006355,0).
 who_f4(it_0171_006355,9).
 typeofoutcome_updated(it_0171_006355,1).
-patient(it_0171_006355,neg).
+patient(it_0171_006355,pos).
 covidvaccine(it_0171_006355,1,3).
 
 %patient: it-0016-003675 index:406
@@ -9797,7 +9797,7 @@ who_f2(it_0016_003675,0).
 who_f3(it_0016_003675,0).
 who_f4(it_0016_003675,9).
 typeofoutcome_updated(it_0016_003675,1).
-patient(it_0016_003675,neg).
+patient(it_0016_003675,pos).
 covidvaccine(it_0016_003675,0,2).
 fluvaccine(it_0016_003675,0).
 antipneumovaccine(it_0016_003675,0).
@@ -9829,7 +9829,7 @@ who_f2(it_0061_000591,1).
 who_f3(it_0061_000591,0).
 who_f4(it_0061_000591,0).
 typeofoutcome_updated(it_0061_000591,1).
-patient(it_0061_000591,neg).
+patient(it_0061_000591,pos).
 covidvaccine(it_0061_000591,0,2).
 antipneumovaccine(it_0061_000591,1).
 
@@ -9857,7 +9857,7 @@ who_f2(it_0061_000641,0).
 who_f3(it_0061_000641,0).
 who_f4(it_0061_000641,0).
 typeofoutcome_updated(it_0061_000641,1).
-patient(it_0061_000641,neg).
+patient(it_0061_000641,pos).
 covidvaccine(it_0061_000641,0,2).
 fluvaccine(it_0061_000641,1).
 antipneumovaccine(it_0061_000641,1).
@@ -9880,7 +9880,7 @@ who_f2(it_0130_005289,0).
 who_f3(it_0130_005289,0).
 who_f4(it_0130_005289,4).
 typeofoutcome_updated(it_0130_005289,1).
-patient(it_0130_005289,neg).
+patient(it_0130_005289,pos).
 covidvaccine(it_0130_005289,1,2).
 fluvaccine(it_0130_005289,1).
 antipneumovaccine(it_0130_005289,1).
@@ -9904,7 +9904,7 @@ who_f2(it_0141_006182,0).
 who_f3(it_0141_006182,4).
 who_f4(it_0141_006182,9).
 typeofoutcome_updated(it_0141_006182,1).
-patient(it_0141_006182,neg).
+patient(it_0141_006182,pos).
 covidvaccine(it_0141_006182,0,2).
 fluvaccine(it_0141_006182,0).
 antipneumovaccine(it_0141_006182,0).
@@ -9929,7 +9929,7 @@ who_f2(it_0061_006480,0).
 who_f3(it_0061_006480,1).
 who_f4(it_0061_006480,1).
 typeofoutcome_updated(it_0061_006480,1).
-patient(it_0061_006480,neg).
+patient(it_0061_006480,pos).
 covidvaccine(it_0061_006480,0,2).
 fluvaccine(it_0061_006480,1).
 antipneumovaccine(it_0061_006480,1).
@@ -9959,7 +9959,7 @@ who_f2(it_0061_006457,0).
 who_f3(it_0061_006457,1).
 who_f4(it_0061_006457,1).
 typeofoutcome_updated(it_0061_006457,1).
-patient(it_0061_006457,neg).
+patient(it_0061_006457,pos).
 covidvaccine(it_0061_006457,0,1).
 antipneumovaccine(it_0061_006457,1).
 
@@ -9989,7 +9989,7 @@ who_f2(it_0143_004066,0).
 who_f3(it_0143_004066,0).
 who_f4(it_0143_004066,9).
 typeofoutcome_updated(it_0143_004066,1).
-patient(it_0143_004066,neg).
+patient(it_0143_004066,pos).
 covidvaccine(it_0143_004066,0,2).
 fluvaccine(it_0143_004066,1).
 antipneumovaccine(it_0143_004066,1).
@@ -10013,7 +10013,7 @@ who_f2(it_0061_000581,0).
 who_f3(it_0061_000581,0).
 who_f4(it_0061_000581,0).
 typeofoutcome_updated(it_0061_000581,1).
-patient(it_0061_000581,neg).
+patient(it_0061_000581,pos).
 covidvaccine(it_0061_000581,0,2).
 
 %patient: it-0061-004038 index:415
@@ -10036,7 +10036,7 @@ who_f2(it_0061_004038,0).
 who_f3(it_0061_004038,0).
 who_f4(it_0061_004038,0).
 typeofoutcome_updated(it_0061_004038,1).
-patient(it_0061_004038,neg).
+patient(it_0061_004038,pos).
 covidvaccine(it_0061_004038,0,2).
 fluvaccine(it_0061_004038,1).
 
@@ -10062,7 +10062,7 @@ who_f2(it_0152_004837,0).
 who_f3(it_0152_004837,0).
 who_f4(it_0152_004837,9).
 typeofoutcome_updated(it_0152_004837,1).
-patient(it_0152_004837,neg).
+patient(it_0152_004837,pos).
 covidvaccine(it_0152_004837,0,3).
 
 %patient: it-0143-004842 index:417
@@ -10083,7 +10083,7 @@ who_f2(it_0143_004842,0).
 who_f3(it_0143_004842,0).
 who_f4(it_0143_004842,9).
 typeofoutcome_updated(it_0143_004842,1).
-patient(it_0143_004842,neg).
+patient(it_0143_004842,pos).
 covidvaccine(it_0143_004842,0,2).
 
 %patient: it-0143-004844 index:418
@@ -10107,7 +10107,7 @@ who_f2(it_0143_004844,0).
 who_f3(it_0143_004844,0).
 who_f4(it_0143_004844,9).
 typeofoutcome_updated(it_0143_004844,1).
-patient(it_0143_004844,neg).
+patient(it_0143_004844,pos).
 covidvaccine(it_0143_004844,0,2).
 fluvaccine(it_0143_004844,0).
 
@@ -10127,7 +10127,7 @@ who_f2(it_0152_005008,0).
 who_f3(it_0152_005008,1).
 who_f4(it_0152_005008,9).
 typeofoutcome_updated(it_0152_005008,1).
-patient(it_0152_005008,neg).
+patient(it_0152_005008,pos).
 covidvaccine(it_0152_005008,0,2).
 
 %patient: it-0134-004937 index:420
@@ -10148,7 +10148,7 @@ who_f2(it_0134_004937,0).
 who_f3(it_0134_004937,0).
 who_f4(it_0134_004937,9).
 typeofoutcome_updated(it_0134_004937,1).
-patient(it_0134_004937,neg).
+patient(it_0134_004937,pos).
 covidvaccine(it_0134_004937,0,2).
 fluvaccine(it_0134_004937,0).
 antipneumovaccine(it_0134_004937,0).
@@ -10170,7 +10170,7 @@ who_f2(it_0061_003996,0).
 who_f3(it_0061_003996,0).
 who_f4(it_0061_003996,0).
 typeofoutcome_updated(it_0061_003996,1).
-patient(it_0061_003996,neg).
+patient(it_0061_003996,pos).
 covidvaccine(it_0061_003996,0,2).
 fluvaccine(it_0061_003996,1).
 antipneumovaccine(it_0061_003996,1).
@@ -10198,7 +10198,7 @@ who_f2(it_0132_004282,0).
 who_f3(it_0132_004282,0).
 who_f4(it_0132_004282,9).
 typeofoutcome_updated(it_0132_004282,1).
-patient(it_0132_004282,neg).
+patient(it_0132_004282,pos).
 covidvaccine(it_0132_004282,0,3).
 fluvaccine(it_0132_004282,1).
 
@@ -10222,7 +10222,7 @@ who_f2(it_0164_006363,0).
 who_f3(it_0164_006363,0).
 who_f4(it_0164_006363,9).
 typeofoutcome_updated(it_0164_006363,1).
-patient(it_0164_006363,neg).
+patient(it_0164_006363,pos).
 covidvaccine(it_0164_006363,1,3).
 fluvaccine(it_0164_006363,1).
 antipneumovaccine(it_0164_006363,0).
@@ -10246,7 +10246,7 @@ who_f2(it_0143_004839,0).
 who_f3(it_0143_004839,0).
 who_f4(it_0143_004839,9).
 typeofoutcome_updated(it_0143_004839,1).
-patient(it_0143_004839,neg).
+patient(it_0143_004839,pos).
 covidvaccine(it_0143_004839,0,2).
 
 %patient: it-0143-004856 index:425
@@ -10266,7 +10266,7 @@ who_f2(it_0143_004856,0).
 who_f3(it_0143_004856,1).
 who_f4(it_0143_004856,9).
 typeofoutcome_updated(it_0143_004856,1).
-patient(it_0143_004856,neg).
+patient(it_0143_004856,pos).
 covidvaccine(it_0143_004856,0,2).
 fluvaccine(it_0143_004856,0).
 
@@ -10288,7 +10288,7 @@ who_f2(it_0143_005246,0).
 who_f3(it_0143_005246,1).
 who_f4(it_0143_005246,9).
 typeofoutcome_updated(it_0143_005246,1).
-patient(it_0143_005246,neg).
+patient(it_0143_005246,pos).
 covidvaccine(it_0143_005246,0,2).
 fluvaccine(it_0143_005246,0).
 
@@ -10317,7 +10317,7 @@ who_f2(it_0052_005743,0).
 who_f3(it_0052_005743,0).
 who_f4(it_0052_005743,9).
 typeofoutcome_updated(it_0052_005743,1).
-patient(it_0052_005743,neg).
+patient(it_0052_005743,pos).
 covidvaccine(it_0052_005743,0,3).
 fluvaccine(it_0052_005743,0).
 antipneumovaccine(it_0052_005743,0).
@@ -10341,7 +10341,7 @@ who_f2(it_0143_006151,0).
 who_f3(it_0143_006151,1).
 who_f4(it_0143_006151,9).
 typeofoutcome_updated(it_0143_006151,1).
-patient(it_0143_006151,neg).
+patient(it_0143_006151,pos).
 covidvaccine(it_0143_006151,0,2).
 
 %patient: it-0125-005721 index:429
@@ -10362,7 +10362,7 @@ who_f2(it_0125_005721,0).
 who_f3(it_0125_005721,0).
 who_f4(it_0125_005721,9).
 typeofoutcome_updated(it_0125_005721,1).
-patient(it_0125_005721,neg).
+patient(it_0125_005721,pos).
 covidvaccine(it_0125_005721,0,3).
 
 %patient: it-0061-004009 index:430
@@ -10386,7 +10386,7 @@ who_f2(it_0061_004009,0).
 who_f3(it_0061_004009,0).
 who_f4(it_0061_004009,0).
 typeofoutcome_updated(it_0061_004009,1).
-patient(it_0061_004009,neg).
+patient(it_0061_004009,pos).
 covidvaccine(it_0061_004009,0,2).
 fluvaccine(it_0061_004009,1).
 antipneumovaccine(it_0061_004009,1).
@@ -10412,7 +10412,7 @@ who_f2(it_0061_004036,0).
 who_f3(it_0061_004036,0).
 who_f4(it_0061_004036,0).
 typeofoutcome_updated(it_0061_004036,1).
-patient(it_0061_004036,neg).
+patient(it_0061_004036,pos).
 covidvaccine(it_0061_004036,0,2).
 fluvaccine(it_0061_004036,1).
 
@@ -10433,7 +10433,7 @@ who_f2(it_0143_005309,0).
 who_f3(it_0143_005309,1).
 who_f4(it_0143_005309,9).
 typeofoutcome_updated(it_0143_005309,1).
-patient(it_0143_005309,neg).
+patient(it_0143_005309,pos).
 covidvaccine(it_0143_005309,0,2).
 
 %patient: it-0166-006244 index:433
@@ -10457,7 +10457,7 @@ who_f2(it_0166_006244,0).
 who_f3(it_0166_006244,0).
 who_f4(it_0166_006244,9).
 typeofoutcome_updated(it_0166_006244,1).
-patient(it_0166_006244,neg).
+patient(it_0166_006244,pos).
 covidvaccine(it_0166_006244,1,3).
 fluvaccine(it_0166_006244,1).
 antipneumovaccine(it_0166_006244,1).
@@ -10482,7 +10482,7 @@ who_f2(it_0130_005209,0).
 who_f3(it_0130_005209,0).
 who_f4(it_0130_005209,4).
 typeofoutcome_updated(it_0130_005209,1).
-patient(it_0130_005209,neg).
+patient(it_0130_005209,pos).
 covidvaccine(it_0130_005209,1,2).
 fluvaccine(it_0130_005209,1).
 vzvvaccine(it_0130_005209,0).
@@ -10509,7 +10509,7 @@ who_f2(it_0061_004021,0).
 who_f3(it_0061_004021,0).
 who_f4(it_0061_004021,0).
 typeofoutcome_updated(it_0061_004021,1).
-patient(it_0061_004021,neg).
+patient(it_0061_004021,pos).
 covidvaccine(it_0061_004021,0,2).
 fluvaccine(it_0061_004021,1).
 antipneumovaccine(it_0061_004021,1).
@@ -10530,7 +10530,7 @@ who_f2(it_0143_006208,0).
 who_f3(it_0143_006208,0).
 who_f4(it_0143_006208,9).
 typeofoutcome_updated(it_0143_006208,1).
-patient(it_0143_006208,neg).
+patient(it_0143_006208,pos).
 covidvaccine(it_0143_006208,0,2).
 
 %patient: it-0130-004820 index:437
@@ -10553,7 +10553,7 @@ who_f2(it_0130_004820,0).
 who_f3(it_0130_004820,0).
 who_f4(it_0130_004820,0).
 typeofoutcome_updated(it_0130_004820,1).
-patient(it_0130_004820,neg).
+patient(it_0130_004820,pos).
 covidvaccine(it_0130_004820,1,2).
 fluvaccine(it_0130_004820,1).
 antipneumovaccine(it_0130_004820,1).
@@ -10583,7 +10583,7 @@ who_f2(it_0166_005022,0).
 who_f3(it_0166_005022,0).
 who_f4(it_0166_005022,9).
 typeofoutcome_updated(it_0166_005022,1).
-patient(it_0166_005022,neg).
+patient(it_0166_005022,pos).
 covidvaccine(it_0166_005022,1,3).
 fluvaccine(it_0166_005022,1).
 antipneumovaccine(it_0166_005022,1).
@@ -10614,7 +10614,7 @@ who_f2(it_0166_005035,0).
 who_f3(it_0166_005035,0).
 who_f4(it_0166_005035,9).
 typeofoutcome_updated(it_0166_005035,1).
-patient(it_0166_005035,neg).
+patient(it_0166_005035,pos).
 covidvaccine(it_0166_005035,1,3).
 fluvaccine(it_0166_005035,1).
 antipneumovaccine(it_0166_005035,1).
@@ -10639,7 +10639,7 @@ who_f2(it_0166_005042,0).
 who_f3(it_0166_005042,0).
 who_f4(it_0166_005042,9).
 typeofoutcome_updated(it_0166_005042,1).
-patient(it_0166_005042,neg).
+patient(it_0166_005042,pos).
 covidvaccine(it_0166_005042,1,3).
 fluvaccine(it_0166_005042,1).
 antipneumovaccine(it_0166_005042,1).
@@ -10668,7 +10668,7 @@ who_f2(it_0166_005044,0).
 who_f3(it_0166_005044,0).
 who_f4(it_0166_005044,9).
 typeofoutcome_updated(it_0166_005044,1).
-patient(it_0166_005044,neg).
+patient(it_0166_005044,pos).
 covidvaccine(it_0166_005044,1,3).
 fluvaccine(it_0166_005044,0).
 antipneumovaccine(it_0166_005044,0).
@@ -10693,7 +10693,7 @@ who_f2(it_0166_006247,0).
 who_f3(it_0166_006247,0).
 who_f4(it_0166_006247,9).
 typeofoutcome_updated(it_0166_006247,1).
-patient(it_0166_006247,neg).
+patient(it_0166_006247,pos).
 covidvaccine(it_0166_006247,1,3).
 fluvaccine(it_0166_006247,1).
 antipneumovaccine(it_0166_006247,1).
@@ -10723,7 +10723,7 @@ who_f2(it_0166_005005,0).
 who_f3(it_0166_005005,0).
 who_f4(it_0166_005005,9).
 typeofoutcome_updated(it_0166_005005,1).
-patient(it_0166_005005,neg).
+patient(it_0166_005005,pos).
 covidvaccine(it_0166_005005,1,3).
 fluvaccine(it_0166_005005,1).
 antipneumovaccine(it_0166_005005,1).
@@ -10750,7 +10750,7 @@ who_f2(it_0166_005113,0).
 who_f3(it_0166_005113,0).
 who_f4(it_0166_005113,9).
 typeofoutcome_updated(it_0166_005113,1).
-patient(it_0166_005113,neg).
+patient(it_0166_005113,pos).
 covidvaccine(it_0166_005113,1,3).
 fluvaccine(it_0166_005113,0).
 antipneumovaccine(it_0166_005113,0).
@@ -10777,7 +10777,7 @@ who_f2(it_0143_005248,0).
 who_f3(it_0143_005248,1).
 who_f4(it_0143_005248,9).
 typeofoutcome_updated(it_0143_005248,1).
-patient(it_0143_005248,neg).
+patient(it_0143_005248,pos).
 covidvaccine(it_0143_005248,0,2).
 fluvaccine(it_0143_005248,0).
 
@@ -10808,7 +10808,7 @@ who_f2(it_0061_003886,1).
 who_f3(it_0061_003886,1).
 who_f4(it_0061_003886,1).
 typeofoutcome_updated(it_0061_003886,1).
-patient(it_0061_003886,neg).
+patient(it_0061_003886,pos).
 covidvaccine(it_0061_003886,0,1).
 
 %patient: it-0141-006002 index:447
@@ -10829,7 +10829,7 @@ who_f2(it_0141_006002,0).
 who_f3(it_0141_006002,0).
 who_f4(it_0141_006002,9).
 typeofoutcome_updated(it_0141_006002,1).
-patient(it_0141_006002,neg).
+patient(it_0141_006002,pos).
 covidvaccine(it_0141_006002,0,3).
 fluvaccine(it_0141_006002,0).
 antipneumovaccine(it_0141_006002,0).
@@ -10877,7 +10877,7 @@ who_f2(it_0141_005818,0).
 who_f3(it_0141_005818,0).
 who_f4(it_0141_005818,9).
 typeofoutcome_updated(it_0141_005818,1).
-patient(it_0141_005818,neg).
+patient(it_0141_005818,pos).
 covidvaccine(it_0141_005818,0,3).
 fluvaccine(it_0141_005818,1).
 antipneumovaccine(it_0141_005818,0).
@@ -10904,7 +10904,7 @@ who_f2(it_0061_004414,0).
 who_f3(it_0061_004414,1).
 who_f4(it_0061_004414,1).
 typeofoutcome_updated(it_0061_004414,1).
-patient(it_0061_004414,neg).
+patient(it_0061_004414,pos).
 covidvaccine(it_0061_004414,0,1).
 fluvaccine(it_0061_004414,1).
 antipneumovaccine(it_0061_004414,1).
@@ -10933,7 +10933,7 @@ who_f2(it_0003_000284,0).
 who_f3(it_0003_000284,0).
 who_f4(it_0003_000284,9).
 typeofoutcome_updated(it_0003_000284,1).
-patient(it_0003_000284,neg).
+patient(it_0003_000284,pos).
 covidvaccine(it_0003_000284,0,3).
 fluvaccine(it_0003_000284,1).
 antipneumovaccine(it_0003_000284,0).
@@ -10962,7 +10962,7 @@ who_f2(it_0061_004742,0).
 who_f3(it_0061_004742,1).
 who_f4(it_0061_004742,1).
 typeofoutcome_updated(it_0061_004742,1).
-patient(it_0061_004742,neg).
+patient(it_0061_004742,pos).
 covidvaccine(it_0061_004742,0,2).
 fluvaccine(it_0061_004742,1).
 antipneumovaccine(it_0061_004742,1).
@@ -10984,7 +10984,7 @@ who_f2(it_0130_004884,0).
 who_f3(it_0130_004884,0).
 who_f4(it_0130_004884,9).
 typeofoutcome_updated(it_0130_004884,1).
-patient(it_0130_004884,neg).
+patient(it_0130_004884,pos).
 covidvaccine(it_0130_004884,1,3).
 fluvaccine(it_0130_004884,1).
 vzvvaccine(it_0130_004884,0).
@@ -11030,7 +11030,7 @@ who_f2(it_0062_000974,0).
 who_f3(it_0062_000974,0).
 who_f4(it_0062_000974,9).
 typeofoutcome_updated(it_0062_000974,1).
-patient(it_0062_000974,neg).
+patient(it_0062_000974,pos).
 covidvaccine(it_0062_000974,0,3).
 fluvaccine(it_0062_000974,1).
 antipneumovaccine(it_0062_000974,0).
@@ -11061,7 +11061,7 @@ who_f2(it_0061_003883,1).
 who_f3(it_0061_003883,1).
 who_f4(it_0061_003883,1).
 typeofoutcome_updated(it_0061_003883,1).
-patient(it_0061_003883,neg).
+patient(it_0061_003883,pos).
 covidvaccine(it_0061_003883,0,1).
 fluvaccine(it_0061_003883,1).
 antipneumovaccine(it_0061_003883,1).
@@ -11088,7 +11088,7 @@ who_f2(it_0141_005387,0).
 who_f3(it_0141_005387,0).
 who_f4(it_0141_005387,9).
 typeofoutcome_updated(it_0141_005387,1).
-patient(it_0141_005387,neg).
+patient(it_0141_005387,pos).
 covidvaccine(it_0141_005387,0,2).
 fluvaccine(it_0141_005387,1).
 antipneumovaccine(it_0141_005387,0).
@@ -11109,7 +11109,7 @@ who_f2(it_0136_005509,0).
 who_f3(it_0136_005509,0).
 who_f4(it_0136_005509,9).
 typeofoutcome_updated(it_0136_005509,1).
-patient(it_0136_005509,neg).
+patient(it_0136_005509,pos).
 covidvaccine(it_0136_005509,0,3).
 
 %patient: it-0170-006677 index:459
@@ -11128,7 +11128,7 @@ who_f2(it_0170_006677,0).
 who_f3(it_0170_006677,0).
 who_f4(it_0170_006677,9).
 typeofoutcome_updated(it_0170_006677,1).
-patient(it_0170_006677,neg).
+patient(it_0170_006677,pos).
 covidvaccine(it_0170_006677,0,3).
 fluvaccine(it_0170_006677,1).
 antipneumovaccine(it_0170_006677,1).
@@ -11156,7 +11156,7 @@ who_f2(it_0170_006680,0).
 who_f3(it_0170_006680,0).
 who_f4(it_0170_006680,9).
 typeofoutcome_updated(it_0170_006680,1).
-patient(it_0170_006680,neg).
+patient(it_0170_006680,pos).
 covidvaccine(it_0170_006680,0,3).
 fluvaccine(it_0170_006680,1).
 antipneumovaccine(it_0170_006680,1).
@@ -11178,7 +11178,7 @@ who_f2(it_0061_006527,0).
 who_f3(it_0061_006527,0).
 who_f4(it_0061_006527,0).
 typeofoutcome_updated(it_0061_006527,1).
-patient(it_0061_006527,neg).
+patient(it_0061_006527,pos).
 covidvaccine(it_0061_006527,0,3).
 
 %patient: it-0061-004741 index:462
@@ -11201,7 +11201,7 @@ who_f2(it_0061_004741,0).
 who_f3(it_0061_004741,1).
 who_f4(it_0061_004741,1).
 typeofoutcome_updated(it_0061_004741,1).
-patient(it_0061_004741,neg).
+patient(it_0061_004741,pos).
 covidvaccine(it_0061_004741,0,1).
 
 %patient: it-0061-003887 index:463
@@ -11230,7 +11230,7 @@ who_f2(it_0061_003887,0).
 who_f3(it_0061_003887,0).
 who_f4(it_0061_003887,0).
 typeofoutcome_updated(it_0061_003887,1).
-patient(it_0061_003887,neg).
+patient(it_0061_003887,pos).
 covidvaccine(it_0061_003887,0,3).
 
 %patient: it-0166-006222 index:464
@@ -11252,7 +11252,7 @@ who_f2(it_0166_006222,0).
 who_f3(it_0166_006222,0).
 who_f4(it_0166_006222,9).
 typeofoutcome_updated(it_0166_006222,1).
-patient(it_0166_006222,neg).
+patient(it_0166_006222,pos).
 covidvaccine(it_0166_006222,1,3).
 fluvaccine(it_0166_006222,1).
 antipneumovaccine(it_0166_006222,1).
@@ -11285,7 +11285,7 @@ who_f2(it_0015_002603,0).
 who_f3(it_0015_002603,0).
 who_f4(it_0015_002603,9).
 typeofoutcome_updated(it_0015_002603,1).
-patient(it_0015_002603,neg).
+patient(it_0015_002603,pos).
 covidvaccine(it_0015_002603,0,3).
 
 %patient: it-0015-003926 index:466
@@ -11314,7 +11314,7 @@ who_f2(it_0015_003926,0).
 who_f3(it_0015_003926,0).
 who_f4(it_0015_003926,9).
 typeofoutcome_updated(it_0015_003926,1).
-patient(it_0015_003926,neg).
+patient(it_0015_003926,pos).
 covidvaccine(it_0015_003926,0,3).
 fluvaccine(it_0015_003926,1).
 antipneumovaccine(it_0015_003926,0).
@@ -11348,7 +11348,7 @@ who_f2(it_0015_003987,0).
 who_f3(it_0015_003987,0).
 who_f4(it_0015_003987,9).
 typeofoutcome_updated(it_0015_003987,1).
-patient(it_0015_003987,neg).
+patient(it_0015_003987,pos).
 covidvaccine(it_0015_003987,0,3).
 fluvaccine(it_0015_003987,1).
 antipneumovaccine(it_0015_003987,0).
@@ -11372,7 +11372,7 @@ who_f2(it_0042_003641,0).
 who_f3(it_0042_003641,0).
 who_f4(it_0042_003641,9).
 typeofoutcome_updated(it_0042_003641,1).
-patient(it_0042_003641,neg).
+patient(it_0042_003641,pos).
 covidvaccine(it_0042_003641,0,3).
 fluvaccine(it_0042_003641,1).
 antipneumovaccine(it_0042_003641,0).
@@ -11396,7 +11396,7 @@ who_f2(it_0061_004108,0).
 who_f3(it_0061_004108,0).
 who_f4(it_0061_004108,0).
 typeofoutcome_updated(it_0061_004108,1).
-patient(it_0061_004108,neg).
+patient(it_0061_004108,pos).
 covidvaccine(it_0061_004108,0,2).
 fluvaccine(it_0061_004108,1).
 antipneumovaccine(it_0061_004108,1).
@@ -11418,7 +11418,7 @@ who_f2(it_0053_004253,0).
 who_f3(it_0053_004253,0).
 who_f4(it_0053_004253,9).
 typeofoutcome_updated(it_0053_004253,1).
-patient(it_0053_004253,neg).
+patient(it_0053_004253,pos).
 covidvaccine(it_0053_004253,0,3).
 fluvaccine(it_0053_004253,0).
 antipneumovaccine(it_0053_004253,0).
@@ -11442,7 +11442,7 @@ who_f2(it_0143_006287,0).
 who_f3(it_0143_006287,0).
 who_f4(it_0143_006287,9).
 typeofoutcome_updated(it_0143_006287,1).
-patient(it_0143_006287,neg).
+patient(it_0143_006287,pos).
 covidvaccine(it_0143_006287,0,2).
 
 %patient: it-0143-006636 index:472
@@ -11463,7 +11463,7 @@ who_f2(it_0143_006636,0).
 who_f3(it_0143_006636,0).
 who_f4(it_0143_006636,9).
 typeofoutcome_updated(it_0143_006636,1).
-patient(it_0143_006636,neg).
+patient(it_0143_006636,pos).
 covidvaccine(it_0143_006636,0,2).
 
 %patient: it-0061-000614 index:473
@@ -11490,7 +11490,7 @@ who_f2(it_0061_000614,0).
 who_f3(it_0061_000614,0).
 who_f4(it_0061_000614,0).
 typeofoutcome_updated(it_0061_000614,1).
-patient(it_0061_000614,neg).
+patient(it_0061_000614,pos).
 covidvaccine(it_0061_000614,0,3).
 fluvaccine(it_0061_000614,1).
 antipneumovaccine(it_0061_000614,1).
@@ -11539,7 +11539,7 @@ who_f2(it_0061_004396,0).
 who_f3(it_0061_004396,0).
 who_f4(it_0061_004396,0).
 typeofoutcome_updated(it_0061_004396,1).
-patient(it_0061_004396,neg).
+patient(it_0061_004396,pos).
 covidvaccine(it_0061_004396,0,2).
 
 %patient: it-0143-006148 index:476
@@ -11557,7 +11557,7 @@ who_f2(it_0143_006148,0).
 who_f3(it_0143_006148,0).
 who_f4(it_0143_006148,9).
 typeofoutcome_updated(it_0143_006148,1).
-patient(it_0143_006148,neg).
+patient(it_0143_006148,pos).
 covidvaccine(it_0143_006148,0,2).
 
 %patient: it-0133-006290 index:477
@@ -11581,7 +11581,7 @@ who_f2(it_0133_006290,0).
 who_f3(it_0133_006290,0).
 who_f4(it_0133_006290,9).
 typeofoutcome_updated(it_0133_006290,1).
-patient(it_0133_006290,neg).
+patient(it_0133_006290,pos).
 covidvaccine(it_0133_006290,0,3).
 fluvaccine(it_0133_006290,1).
 antipneumovaccine(it_0133_006290,1).
@@ -11607,7 +11607,7 @@ who_f2(it_0130_004429,0).
 who_f3(it_0130_004429,0).
 who_f4(it_0130_004429,4).
 typeofoutcome_updated(it_0130_004429,1).
-patient(it_0130_004429,neg).
+patient(it_0130_004429,pos).
 covidvaccine(it_0130_004429,1,3).
 fluvaccine(it_0130_004429,0).
 antipneumovaccine(it_0130_004429,0).
@@ -11635,7 +11635,7 @@ who_f2(it_0061_004564,0).
 who_f3(it_0061_004564,0).
 who_f4(it_0061_004564,0).
 typeofoutcome_updated(it_0061_004564,1).
-patient(it_0061_004564,neg).
+patient(it_0061_004564,pos).
 covidvaccine(it_0061_004564,0,3).
 
 %patient: it-0152-005091 index:480
@@ -11654,7 +11654,7 @@ who_f2(it_0152_005091,0).
 who_f3(it_0152_005091,0).
 who_f4(it_0152_005091,0).
 typeofoutcome_updated(it_0152_005091,1).
-patient(it_0152_005091,neg).
+patient(it_0152_005091,pos).
 covidvaccine(it_0152_005091,0,1).
 
 %patient: it-0130-004835 index:481
@@ -11680,7 +11680,7 @@ who_f2(it_0130_004835,0).
 who_f3(it_0130_004835,0).
 who_f4(it_0130_004835,0).
 typeofoutcome_updated(it_0130_004835,1).
-patient(it_0130_004835,neg).
+patient(it_0130_004835,pos).
 covidvaccine(it_0130_004835,1,3).
 fluvaccine(it_0130_004835,1).
 vzvvaccine(it_0130_004835,0).
@@ -11708,7 +11708,7 @@ who_f2(it_0061_006518,0).
 who_f3(it_0061_006518,1).
 who_f4(it_0061_006518,1).
 typeofoutcome_updated(it_0061_006518,1).
-patient(it_0061_006518,neg).
+patient(it_0061_006518,pos).
 covidvaccine(it_0061_006518,0,2).
 fluvaccine(it_0061_006518,1).
 
@@ -11735,7 +11735,7 @@ who_f2(it_0061_004408,0).
 who_f3(it_0061_004408,1).
 who_f4(it_0061_004408,1).
 typeofoutcome_updated(it_0061_004408,1).
-patient(it_0061_004408,neg).
+patient(it_0061_004408,pos).
 covidvaccine(it_0061_004408,0,2).
 
 %patient: it-0171-006146 index:484
@@ -11756,7 +11756,7 @@ who_f2(it_0171_006146,0).
 who_f3(it_0171_006146,0).
 who_f4(it_0171_006146,9).
 typeofoutcome_updated(it_0171_006146,1).
-patient(it_0171_006146,neg).
+patient(it_0171_006146,pos).
 covidvaccine(it_0171_006146,0,3).
 fluvaccine(it_0171_006146,1).
 antipneumovaccine(it_0171_006146,0).
@@ -11782,7 +11782,7 @@ who_f2(it_0125_003990,0).
 who_f3(it_0125_003990,0).
 who_f4(it_0125_003990,9).
 typeofoutcome_updated(it_0125_003990,1).
-patient(it_0125_003990,neg).
+patient(it_0125_003990,pos).
 covidvaccine(it_0125_003990,0,3).
 fluvaccine(it_0125_003990,1).
 antipneumovaccine(it_0125_003990,1).
@@ -11809,7 +11809,7 @@ who_f2(it_0061_006481,0).
 who_f3(it_0061_006481,1).
 who_f4(it_0061_006481,1).
 typeofoutcome_updated(it_0061_006481,1).
-patient(it_0061_006481,neg).
+patient(it_0061_006481,pos).
 covidvaccine(it_0061_006481,0,1).
 fluvaccine(it_0061_006481,1).
 antipneumovaccine(it_0061_006481,1).
@@ -11858,7 +11858,7 @@ who_f2(it_0061_000618,0).
 who_f3(it_0061_000618,0).
 who_f4(it_0061_000618,0).
 typeofoutcome_updated(it_0061_000618,1).
-patient(it_0061_000618,neg).
+patient(it_0061_000618,pos).
 covidvaccine(it_0061_000618,0,3).
 fluvaccine(it_0061_000618,1).
 antipneumovaccine(it_0061_000618,1).
@@ -11885,7 +11885,7 @@ who_f2(it_0061_004718,0).
 who_f3(it_0061_004718,1).
 who_f4(it_0061_004718,1).
 typeofoutcome_updated(it_0061_004718,1).
-patient(it_0061_004718,neg).
+patient(it_0061_004718,pos).
 covidvaccine(it_0061_004718,0,2).
 fluvaccine(it_0061_004718,1).
 antipneumovaccine(it_0061_004718,1).
@@ -11930,7 +11930,7 @@ who_f2(it_0130_004889,0).
 who_f3(it_0130_004889,0).
 who_f4(it_0130_004889,0).
 typeofoutcome_updated(it_0130_004889,1).
-patient(it_0130_004889,neg).
+patient(it_0130_004889,pos).
 covidvaccine(it_0130_004889,1,3).
 fluvaccine(it_0130_004889,1).
 vzvvaccine(it_0130_004889,0).
@@ -11951,7 +11951,7 @@ who_f2(it_0061_006520,0).
 who_f3(it_0061_006520,0).
 who_f4(it_0061_006520,0).
 typeofoutcome_updated(it_0061_006520,1).
-patient(it_0061_006520,neg).
+patient(it_0061_006520,pos).
 covidvaccine(it_0061_006520,0,3).
 
 %patient: it-0061-006477 index:493
@@ -11977,7 +11977,7 @@ who_f2(it_0061_006477,0).
 who_f3(it_0061_006477,1).
 who_f4(it_0061_006477,1).
 typeofoutcome_updated(it_0061_006477,1).
-patient(it_0061_006477,neg).
+patient(it_0061_006477,pos).
 covidvaccine(it_0061_006477,0,2).
 fluvaccine(it_0061_006477,1).
 antipneumovaccine(it_0061_006477,1).
@@ -12006,7 +12006,7 @@ who_f2(it_0061_006490,0).
 who_f3(it_0061_006490,1).
 who_f4(it_0061_006490,1).
 typeofoutcome_updated(it_0061_006490,1).
-patient(it_0061_006490,neg).
+patient(it_0061_006490,pos).
 covidvaccine(it_0061_006490,0,2).
 fluvaccine(it_0061_006490,1).
 antipneumovaccine(it_0061_006490,1).
@@ -12030,7 +12030,7 @@ who_f2(it_0130_004658,0).
 who_f3(it_0130_004658,0).
 who_f4(it_0130_004658,4).
 typeofoutcome_updated(it_0130_004658,1).
-patient(it_0130_004658,neg).
+patient(it_0130_004658,pos).
 covidvaccine(it_0130_004658,1,3).
 fluvaccine(it_0130_004658,1).
 antipneumovaccine(it_0130_004658,0).
@@ -12083,7 +12083,7 @@ who_f2(it_0130_004831,0).
 who_f3(it_0130_004831,0).
 who_f4(it_0130_004831,4).
 typeofoutcome_updated(it_0130_004831,1).
-patient(it_0130_004831,neg).
+patient(it_0130_004831,pos).
 covidvaccine(it_0130_004831,1,3).
 fluvaccine(it_0130_004831,1).
 antipneumovaccine(it_0130_004831,1).
@@ -12112,7 +12112,7 @@ who_f2(it_0061_006444,0).
 who_f3(it_0061_006444,1).
 who_f4(it_0061_006444,1).
 typeofoutcome_updated(it_0061_006444,1).
-patient(it_0061_006444,neg).
+patient(it_0061_006444,pos).
 covidvaccine(it_0061_006444,0,2).
 fluvaccine(it_0061_006444,1).
 antipneumovaccine(it_0061_006444,1).
@@ -12137,7 +12137,7 @@ who_f2(it_0061_003963,0).
 who_f3(it_0061_003963,0).
 who_f4(it_0061_003963,0).
 typeofoutcome_updated(it_0061_003963,1).
-patient(it_0061_003963,neg).
+patient(it_0061_003963,pos).
 covidvaccine(it_0061_003963,0,3).
 fluvaccine(it_0061_003963,1).
 antipneumovaccine(it_0061_003963,1).
@@ -12163,7 +12163,7 @@ who_f2(it_0061_004106,0).
 who_f3(it_0061_004106,0).
 who_f4(it_0061_004106,0).
 typeofoutcome_updated(it_0061_004106,1).
-patient(it_0061_004106,neg).
+patient(it_0061_004106,pos).
 covidvaccine(it_0061_004106,0,3).
 fluvaccine(it_0061_004106,1).
 antipneumovaccine(it_0061_004106,1).
@@ -12189,7 +12189,7 @@ who_f2(it_0061_004562,0).
 who_f3(it_0061_004562,0).
 who_f4(it_0061_004562,0).
 typeofoutcome_updated(it_0061_004562,1).
-patient(it_0061_004562,neg).
+patient(it_0061_004562,pos).
 covidvaccine(it_0061_004562,0,3).
 fluvaccine(it_0061_004562,1).
 
@@ -12209,7 +12209,7 @@ who_f2(it_0130_005384,0).
 who_f3(it_0130_005384,0).
 who_f4(it_0130_005384,4).
 typeofoutcome_updated(it_0130_005384,1).
-patient(it_0130_005384,neg).
+patient(it_0130_005384,pos).
 covidvaccine(it_0130_005384,1,3).
 fluvaccine(it_0130_005384,1).
 vzvvaccine(it_0130_005384,0).
@@ -12234,7 +12234,7 @@ who_f2(it_0061_004727,0).
 who_f3(it_0061_004727,0).
 who_f4(it_0061_004727,0).
 typeofoutcome_updated(it_0061_004727,1).
-patient(it_0061_004727,neg).
+patient(it_0061_004727,pos).
 covidvaccine(it_0061_004727,0,3).
 
 %patient: it-0061-004004 index:504
@@ -12272,7 +12272,7 @@ who_f2(it_0106_006751,0).
 who_f3(it_0106_006751,0).
 who_f4(it_0106_006751,0).
 typeofoutcome_updated(it_0106_006751,1).
-patient(it_0106_006751,neg).
+patient(it_0106_006751,pos).
 covidvaccine(it_0106_006751,0,3).
 fluvaccine(it_0106_006751,1).
 antipneumovaccine(it_0106_006751,1).
@@ -12299,7 +12299,7 @@ who_f2(it_0061_004017,0).
 who_f3(it_0061_004017,0).
 who_f4(it_0061_004017,0).
 typeofoutcome_updated(it_0061_004017,1).
-patient(it_0061_004017,neg).
+patient(it_0061_004017,pos).
 covidvaccine(it_0061_004017,0,3).
 fluvaccine(it_0061_004017,1).
 
@@ -12324,7 +12324,7 @@ who_f2(it_0015_000685,0).
 who_f3(it_0015_000685,0).
 who_f4(it_0015_000685,0).
 typeofoutcome_updated(it_0015_000685,1).
-patient(it_0015_000685,neg).
+patient(it_0015_000685,pos).
 covidvaccine(it_0015_000685,0,3).
 fluvaccine(it_0015_000685,1).
 antipneumovaccine(it_0015_000685,0).
@@ -12356,7 +12356,7 @@ who_f2(it_0015_001261,0).
 who_f3(it_0015_001261,0).
 who_f4(it_0015_001261,0).
 typeofoutcome_updated(it_0015_001261,1).
-patient(it_0015_001261,neg).
+patient(it_0015_001261,pos).
 covidvaccine(it_0015_001261,0,3).
 fluvaccine(it_0015_001261,1).
 antipneumovaccine(it_0015_001261,0).
@@ -12388,7 +12388,7 @@ who_f2(it_0015_003896,0).
 who_f3(it_0015_003896,0).
 who_f4(it_0015_003896,0).
 typeofoutcome_updated(it_0015_003896,1).
-patient(it_0015_003896,neg).
+patient(it_0015_003896,pos).
 covidvaccine(it_0015_003896,0,3).
 fluvaccine(it_0015_003896,1).
 antipneumovaccine(it_0015_003896,0).
@@ -12420,7 +12420,7 @@ who_f2(it_0015_003933,0).
 who_f3(it_0015_003933,0).
 who_f4(it_0015_003933,0).
 typeofoutcome_updated(it_0015_003933,1).
-patient(it_0015_003933,neg).
+patient(it_0015_003933,pos).
 covidvaccine(it_0015_003933,0,3).
 fluvaccine(it_0015_003933,1).
 antipneumovaccine(it_0015_003933,0).
@@ -12445,7 +12445,7 @@ who_f2(it_0022_003748,0).
 who_f3(it_0022_003748,0).
 who_f4(it_0022_003748,0).
 typeofoutcome_updated(it_0022_003748,1).
-patient(it_0022_003748,neg).
+patient(it_0022_003748,pos).
 covidvaccine(it_0022_003748,0,3).
 fluvaccine(it_0022_003748,0).
 antipneumovaccine(it_0022_003748,0).
@@ -12471,7 +12471,7 @@ who_f2(it_0043_003722,9).
 who_f3(it_0043_003722,0).
 who_f4(it_0043_003722,0).
 typeofoutcome_updated(it_0043_003722,1).
-patient(it_0043_003722,neg).
+patient(it_0043_003722,pos).
 covidvaccine(it_0043_003722,0,3).
 fluvaccine(it_0043_003722,1).
 antipneumovaccine(it_0043_003722,0).
@@ -12494,7 +12494,7 @@ who_f2(it_0043_003824,9).
 who_f3(it_0043_003824,0).
 who_f4(it_0043_003824,0).
 typeofoutcome_updated(it_0043_003824,1).
-patient(it_0043_003824,neg).
+patient(it_0043_003824,pos).
 covidvaccine(it_0043_003824,0,3).
 fluvaccine(it_0043_003824,0).
 antipneumovaccine(it_0043_003824,0).
@@ -12519,7 +12519,7 @@ who_f2(it_0044_003700,9).
 who_f3(it_0044_003700,0).
 who_f4(it_0044_003700,0).
 typeofoutcome_updated(it_0044_003700,1).
-patient(it_0044_003700,neg).
+patient(it_0044_003700,pos).
 covidvaccine(it_0044_003700,0,2).
 fluvaccine(it_0044_003700,0).
 antipneumovaccine(it_0044_003700,0).
@@ -12550,7 +12550,7 @@ who_f2(it_0050_004229,1).
 who_f3(it_0050_004229,0).
 who_f4(it_0050_004229,0).
 typeofoutcome_updated(it_0050_004229,1).
-patient(it_0050_004229,neg).
+patient(it_0050_004229,pos).
 covidvaccine(it_0050_004229,0,2).
 fluvaccine(it_0050_004229,0).
 antipneumovaccine(it_0050_004229,0).
@@ -12582,7 +12582,7 @@ who_f2(it_0061_003884,1).
 who_f3(it_0061_003884,1).
 who_f4(it_0061_003884,1).
 typeofoutcome_updated(it_0061_003884,1).
-patient(it_0061_003884,neg).
+patient(it_0061_003884,pos).
 covidvaccine(it_0061_003884,0,2).
 fluvaccine(it_0061_003884,1).
 antipneumovaccine(it_0061_003884,1).
@@ -12604,7 +12604,7 @@ who_f2(it_0102_004148,0).
 who_f3(it_0102_004148,0).
 who_f4(it_0102_004148,0).
 typeofoutcome_updated(it_0102_004148,1).
-patient(it_0102_004148,neg).
+patient(it_0102_004148,pos).
 covidvaccine(it_0102_004148,0,3).
 fluvaccine(it_0102_004148,1).
 antipneumovaccine(it_0102_004148,0).
@@ -12633,7 +12633,7 @@ who_f2(it_0126_004252,0).
 who_f3(it_0126_004252,0).
 who_f4(it_0126_004252,0).
 typeofoutcome_updated(it_0126_004252,1).
-patient(it_0126_004252,neg).
+patient(it_0126_004252,pos).
 covidvaccine(it_0126_004252,0,3).
 fluvaccine(it_0126_004252,1).
 antipneumovaccine(it_0126_004252,0).
@@ -12657,7 +12657,7 @@ who_f2(it_0126_005598,0).
 who_f3(it_0126_005598,0).
 who_f4(it_0126_005598,0).
 typeofoutcome_updated(it_0126_005598,1).
-patient(it_0126_005598,neg).
+patient(it_0126_005598,pos).
 covidvaccine(it_0126_005598,0,3).
 fluvaccine(it_0126_005598,1).
 antipneumovaccine(it_0126_005598,0).
@@ -12685,7 +12685,7 @@ who_f2(it_0126_005615,1).
 who_f3(it_0126_005615,1).
 who_f4(it_0126_005615,1).
 typeofoutcome_updated(it_0126_005615,1).
-patient(it_0126_005615,neg).
+patient(it_0126_005615,pos).
 covidvaccine(it_0126_005615,0,3).
 fluvaccine(it_0126_005615,1).
 antipneumovaccine(it_0126_005615,1).
@@ -12714,7 +12714,7 @@ who_f2(it_0126_006612,0).
 who_f3(it_0126_006612,0).
 who_f4(it_0126_006612,0).
 typeofoutcome_updated(it_0126_006612,1).
-patient(it_0126_006612,neg).
+patient(it_0126_006612,pos).
 covidvaccine(it_0126_006612,0,3).
 fluvaccine(it_0126_006612,1).
 antipneumovaccine(it_0126_006612,1).
@@ -12740,7 +12740,7 @@ who_f2(it_0130_004812,0).
 who_f3(it_0130_004812,0).
 who_f4(it_0130_004812,0).
 typeofoutcome_updated(it_0130_004812,1).
-patient(it_0130_004812,neg).
+patient(it_0130_004812,pos).
 covidvaccine(it_0130_004812,1,3).
 fluvaccine(it_0130_004812,1).
 vzvvaccine(it_0130_004812,0).
@@ -12760,7 +12760,7 @@ who_f2(it_0152_004992,0).
 who_f3(it_0152_004992,0).
 who_f4(it_0152_004992,0).
 typeofoutcome_updated(it_0152_004992,1).
-patient(it_0152_004992,neg).
+patient(it_0152_004992,pos).
 covidvaccine(it_0152_004992,0,2).
 
 %patient: it-0152-004993 index:524
@@ -12780,7 +12780,7 @@ who_f2(it_0152_004993,0).
 who_f3(it_0152_004993,0).
 who_f4(it_0152_004993,0).
 typeofoutcome_updated(it_0152_004993,1).
-patient(it_0152_004993,neg).
+patient(it_0152_004993,pos).
 covidvaccine(it_0152_004993,0,2).
 
 %patient: it-0152-005053 index:525
@@ -12803,7 +12803,7 @@ who_f2(it_0152_005053,0).
 who_f3(it_0152_005053,0).
 who_f4(it_0152_005053,0).
 typeofoutcome_updated(it_0152_005053,1).
-patient(it_0152_005053,neg).
+patient(it_0152_005053,pos).
 covidvaccine(it_0152_005053,0,2).
 
 %patient: it-0152-005086 index:526
@@ -12825,7 +12825,7 @@ who_f2(it_0152_005086,0).
 who_f3(it_0152_005086,0).
 who_f4(it_0152_005086,0).
 typeofoutcome_updated(it_0152_005086,1).
-patient(it_0152_005086,neg).
+patient(it_0152_005086,pos).
 covidvaccine(it_0152_005086,0,2).
 
 %patient: it-0152-005155 index:527
@@ -12845,7 +12845,7 @@ who_f2(it_0152_005155,0).
 who_f3(it_0152_005155,0).
 who_f4(it_0152_005155,0).
 typeofoutcome_updated(it_0152_005155,1).
-patient(it_0152_005155,neg).
+patient(it_0152_005155,pos).
 covidvaccine(it_0152_005155,0,2).
 
 %patient: it-0152-005158 index:528
@@ -12865,7 +12865,7 @@ who_f2(it_0152_005158,0).
 who_f3(it_0152_005158,0).
 who_f4(it_0152_005158,0).
 typeofoutcome_updated(it_0152_005158,1).
-patient(it_0152_005158,neg).
+patient(it_0152_005158,pos).
 covidvaccine(it_0152_005158,0,3).
 
 %patient: it-0152-005187 index:529
@@ -12886,7 +12886,7 @@ who_f2(it_0152_005187,0).
 who_f3(it_0152_005187,0).
 who_f4(it_0152_005187,0).
 typeofoutcome_updated(it_0152_005187,1).
-patient(it_0152_005187,neg).
+patient(it_0152_005187,pos).
 covidvaccine(it_0152_005187,0,2).
 
 %patient: it-0152-005357 index:530
@@ -12903,7 +12903,7 @@ who_f2(it_0152_005357,0).
 who_f3(it_0152_005357,0).
 who_f4(it_0152_005357,0).
 typeofoutcome_updated(it_0152_005357,1).
-patient(it_0152_005357,neg).
+patient(it_0152_005357,pos).
 covidvaccine(it_0152_005357,0,3).
 
 %patient: it-0152-005431 index:531
@@ -12920,7 +12920,7 @@ who_f2(it_0152_005431,0).
 who_f3(it_0152_005431,0).
 who_f4(it_0152_005431,0).
 typeofoutcome_updated(it_0152_005431,1).
-patient(it_0152_005431,neg).
+patient(it_0152_005431,pos).
 covidvaccine(it_0152_005431,0,3).
 
 %patient: it-0152-005450 index:532
@@ -12939,7 +12939,7 @@ who_f2(it_0152_005450,0).
 who_f3(it_0152_005450,0).
 who_f4(it_0152_005450,0).
 typeofoutcome_updated(it_0152_005450,1).
-patient(it_0152_005450,neg).
+patient(it_0152_005450,pos).
 covidvaccine(it_0152_005450,0,2).
 
 %patient: it-0152-005491 index:533
@@ -12961,7 +12961,7 @@ who_f2(it_0152_005491,0).
 who_f3(it_0152_005491,0).
 who_f4(it_0152_005491,0).
 typeofoutcome_updated(it_0152_005491,1).
-patient(it_0152_005491,neg).
+patient(it_0152_005491,pos).
 covidvaccine(it_0152_005491,0,3).
 
 %patient: it-0171-006143 index:534
@@ -12982,7 +12982,7 @@ who_f2(it_0171_006143,0).
 who_f3(it_0171_006143,0).
 who_f4(it_0171_006143,0).
 typeofoutcome_updated(it_0171_006143,1).
-patient(it_0171_006143,neg).
+patient(it_0171_006143,pos).
 covidvaccine(it_0171_006143,0,3).
 fluvaccine(it_0171_006143,1).
 antipneumovaccine(it_0171_006143,0).
@@ -13008,7 +13008,7 @@ who_f2(it_0171_006215,0).
 who_f3(it_0171_006215,0).
 who_f4(it_0171_006215,0).
 typeofoutcome_updated(it_0171_006215,1).
-patient(it_0171_006215,neg).
+patient(it_0171_006215,pos).
 covidvaccine(it_0171_006215,0,3).
 fluvaccine(it_0171_006215,1).
 antipneumovaccine(it_0171_006215,0).
@@ -13032,7 +13032,7 @@ who_f2(it_0171_006262,0).
 who_f3(it_0171_006262,0).
 who_f4(it_0171_006262,0).
 typeofoutcome_updated(it_0171_006262,1).
-patient(it_0171_006262,neg).
+patient(it_0171_006262,pos).
 covidvaccine(it_0171_006262,0,3).
 fluvaccine(it_0171_006262,1).
 antipneumovaccine(it_0171_006262,0).
@@ -13055,7 +13055,7 @@ who_f2(it_0106_006814,0).
 who_f3(it_0106_006814,0).
 who_f4(it_0106_006814,0).
 typeofoutcome_updated(it_0106_006814,1).
-patient(it_0106_006814,neg).
+patient(it_0106_006814,pos).
 covidvaccine(it_0106_006814,0,3).
 fluvaccine(it_0106_006814,1).
 antipneumovaccine(it_0106_006814,0).
@@ -13081,7 +13081,7 @@ who_f2(it_0116_005350,0).
 who_f3(it_0116_005350,0).
 who_f4(it_0116_005350,0).
 typeofoutcome_updated(it_0116_005350,1).
-patient(it_0116_005350,neg).
+patient(it_0116_005350,pos).
 covidvaccine(it_0116_005350,0,3).
 fluvaccine(it_0116_005350,1).
 antipneumovaccine(it_0116_005350,1).
@@ -13109,7 +13109,7 @@ who_f2(it_0143_004063,0).
 who_f3(it_0143_004063,0).
 who_f4(it_0143_004063,4).
 typeofoutcome_updated(it_0143_004063,1).
-patient(it_0143_004063,neg).
+patient(it_0143_004063,pos).
 covidvaccine(it_0143_004063,0,2).
 fluvaccine(it_0143_004063,1).
 antipneumovaccine(it_0143_004063,1).
@@ -13133,7 +13133,7 @@ who_f2(it_0152_004988,0).
 who_f3(it_0152_004988,0).
 who_f4(it_0152_004988,0).
 typeofoutcome_updated(it_0152_004988,1).
-patient(it_0152_004988,neg).
+patient(it_0152_004988,pos).
 covidvaccine(it_0152_004988,0,2).
 
 %patient: it-0003-000516 index:541
@@ -13159,7 +13159,7 @@ who_f2(it_0003_000516,0).
 who_f3(it_0003_000516,0).
 who_f4(it_0003_000516,0).
 typeofoutcome_updated(it_0003_000516,1).
-patient(it_0003_000516,neg).
+patient(it_0003_000516,pos).
 covidvaccine(it_0003_000516,0,3).
 fluvaccine(it_0003_000516,1).
 antipneumovaccine(it_0003_000516,0).
@@ -13182,7 +13182,7 @@ who_f2(it_0061_006257,0).
 who_f3(it_0061_006257,9).
 who_f4(it_0061_006257,0).
 typeofoutcome_updated(it_0061_006257,1).
-patient(it_0061_006257,neg).
+patient(it_0061_006257,pos).
 covidvaccine(it_0061_006257,0,3).
 fluvaccine(it_0061_006257,1).
 antipneumovaccine(it_0061_006257,0).
@@ -13234,7 +13234,7 @@ who_f2(it_0125_004353,1).
 who_f3(it_0125_004353,1).
 who_f4(it_0125_004353,9).
 typeofoutcome_updated(it_0125_004353,1).
-patient(it_0125_004353,neg).
+patient(it_0125_004353,pos).
 covidvaccine(it_0125_004353,0,3).
 fluvaccine(it_0125_004353,1).
 antipneumovaccine(it_0125_004353,0).
@@ -13346,7 +13346,7 @@ who_f2(it_0130_005078,0).
 who_f3(it_0130_005078,0).
 who_f4(it_0130_005078,1).
 typeofoutcome_updated(it_0130_005078,1).
-patient(it_0130_005078,neg).
+patient(it_0130_005078,pos).
 covidvaccine(it_0130_005078,0,2).
 fluvaccine(it_0130_005078,1).
 antipneumovaccine(it_0130_005078,1).
@@ -13373,7 +13373,7 @@ who_f2(it_0051_006668,0).
 who_f3(it_0051_006668,0).
 who_f4(it_0051_006668,1).
 typeofoutcome_updated(it_0051_006668,1).
-patient(it_0051_006668,neg).
+patient(it_0051_006668,pos).
 covidvaccine(it_0051_006668,0,2).
 fluvaccine(it_0051_006668,1).
 antipneumovaccine(it_0051_006668,0).
@@ -13465,7 +13465,7 @@ who_f2(it_0106_006747,0).
 who_f3(it_0106_006747,0).
 who_f4(it_0106_006747,0).
 typeofoutcome_updated(it_0106_006747,1).
-patient(it_0106_006747,neg).
+patient(it_0106_006747,pos).
 covidvaccine(it_0106_006747,0,2).
 fluvaccine(it_0106_006747,1).
 antipneumovaccine(it_0106_006747,1).
@@ -14620,7 +14620,7 @@ who_f2(it_0062_004329,0).
 who_f3(it_0062_004329,0).
 who_f4(it_0062_004329,1).
 typeofoutcome_updated(it_0062_004329,2).
-patient(it_0062_004329,pos).
+patient(it_0062_004329,neg).
 covidvaccine(it_0062_004329,0,3).
 fluvaccine(it_0062_004329,1).
 antipneumovaccine(it_0062_004329,0).
@@ -14638,7 +14638,7 @@ who_f2(it_0062_004324,0).
 who_f3(it_0062_004324,0).
 who_f4(it_0062_004324,1).
 typeofoutcome_updated(it_0062_004324,2).
-patient(it_0062_004324,pos).
+patient(it_0062_004324,neg).
 covidvaccine(it_0062_004324,0,3).
 fluvaccine(it_0062_004324,1).
 antipneumovaccine(it_0062_004324,0).
@@ -14656,7 +14656,7 @@ who_f2(it_0062_004325,0).
 who_f3(it_0062_004325,0).
 who_f4(it_0062_004325,1).
 typeofoutcome_updated(it_0062_004325,2).
-patient(it_0062_004325,pos).
+patient(it_0062_004325,neg).
 covidvaccine(it_0062_004325,0,3).
 fluvaccine(it_0062_004325,1).
 antipneumovaccine(it_0062_004325,0).
@@ -14674,7 +14674,7 @@ who_f2(it_0062_004327,0).
 who_f3(it_0062_004327,0).
 who_f4(it_0062_004327,1).
 typeofoutcome_updated(it_0062_004327,2).
-patient(it_0062_004327,pos).
+patient(it_0062_004327,neg).
 covidvaccine(it_0062_004327,0,3).
 fluvaccine(it_0062_004327,1).
 antipneumovaccine(it_0062_004327,0).
@@ -14692,7 +14692,7 @@ who_f2(it_0062_004332,0).
 who_f3(it_0062_004332,0).
 who_f4(it_0062_004332,1).
 typeofoutcome_updated(it_0062_004332,2).
-patient(it_0062_004332,pos).
+patient(it_0062_004332,neg).
 covidvaccine(it_0062_004332,0,3).
 fluvaccine(it_0062_004332,1).
 antipneumovaccine(it_0062_004332,0).
@@ -14710,7 +14710,7 @@ who_f2(it_0062_004333,0).
 who_f3(it_0062_004333,0).
 who_f4(it_0062_004333,1).
 typeofoutcome_updated(it_0062_004333,2).
-patient(it_0062_004333,pos).
+patient(it_0062_004333,neg).
 covidvaccine(it_0062_004333,0,3).
 fluvaccine(it_0062_004333,1).
 antipneumovaccine(it_0062_004333,0).
@@ -14728,7 +14728,7 @@ who_f2(it_0062_004336,0).
 who_f3(it_0062_004336,0).
 who_f4(it_0062_004336,1).
 typeofoutcome_updated(it_0062_004336,2).
-patient(it_0062_004336,pos).
+patient(it_0062_004336,neg).
 covidvaccine(it_0062_004336,0,3).
 fluvaccine(it_0062_004336,1).
 antipneumovaccine(it_0062_004336,0).
@@ -14746,7 +14746,7 @@ who_f2(it_0062_004338,0).
 who_f3(it_0062_004338,0).
 who_f4(it_0062_004338,1).
 typeofoutcome_updated(it_0062_004338,2).
-patient(it_0062_004338,pos).
+patient(it_0062_004338,neg).
 covidvaccine(it_0062_004338,0,3).
 fluvaccine(it_0062_004338,1).
 antipneumovaccine(it_0062_004338,0).
@@ -14764,7 +14764,7 @@ who_f2(it_0062_004339,0).
 who_f3(it_0062_004339,0).
 who_f4(it_0062_004339,1).
 typeofoutcome_updated(it_0062_004339,2).
-patient(it_0062_004339,pos).
+patient(it_0062_004339,neg).
 covidvaccine(it_0062_004339,0,3).
 fluvaccine(it_0062_004339,1).
 antipneumovaccine(it_0062_004339,0).
@@ -14782,7 +14782,7 @@ who_f2(it_0062_004340,0).
 who_f3(it_0062_004340,0).
 who_f4(it_0062_004340,1).
 typeofoutcome_updated(it_0062_004340,2).
-patient(it_0062_004340,pos).
+patient(it_0062_004340,neg).
 covidvaccine(it_0062_004340,0,3).
 fluvaccine(it_0062_004340,1).
 antipneumovaccine(it_0062_004340,0).
@@ -14800,7 +14800,7 @@ who_f2(it_0062_004341,0).
 who_f3(it_0062_004341,0).
 who_f4(it_0062_004341,1).
 typeofoutcome_updated(it_0062_004341,2).
-patient(it_0062_004341,pos).
+patient(it_0062_004341,neg).
 covidvaccine(it_0062_004341,0,3).
 fluvaccine(it_0062_004341,1).
 antipneumovaccine(it_0062_004341,0).
@@ -14818,7 +14818,7 @@ who_f2(it_0062_004342,0).
 who_f3(it_0062_004342,0).
 who_f4(it_0062_004342,1).
 typeofoutcome_updated(it_0062_004342,2).
-patient(it_0062_004342,pos).
+patient(it_0062_004342,neg).
 covidvaccine(it_0062_004342,0,3).
 fluvaccine(it_0062_004342,1).
 antipneumovaccine(it_0062_004342,0).
@@ -14836,7 +14836,7 @@ who_f2(it_0062_004372,0).
 who_f3(it_0062_004372,0).
 who_f4(it_0062_004372,1).
 typeofoutcome_updated(it_0062_004372,2).
-patient(it_0062_004372,pos).
+patient(it_0062_004372,neg).
 covidvaccine(it_0062_004372,0,3).
 fluvaccine(it_0062_004372,1).
 antipneumovaccine(it_0062_004372,0).
@@ -14854,7 +14854,7 @@ who_f2(it_0062_004374,0).
 who_f3(it_0062_004374,0).
 who_f4(it_0062_004374,1).
 typeofoutcome_updated(it_0062_004374,2).
-patient(it_0062_004374,pos).
+patient(it_0062_004374,neg).
 covidvaccine(it_0062_004374,0,3).
 fluvaccine(it_0062_004374,1).
 antipneumovaccine(it_0062_004374,0).
@@ -14872,7 +14872,7 @@ who_f2(it_0062_004375,0).
 who_f3(it_0062_004375,0).
 who_f4(it_0062_004375,1).
 typeofoutcome_updated(it_0062_004375,2).
-patient(it_0062_004375,pos).
+patient(it_0062_004375,neg).
 covidvaccine(it_0062_004375,0,3).
 fluvaccine(it_0062_004375,0).
 antipneumovaccine(it_0062_004375,0).
@@ -14890,7 +14890,7 @@ who_f2(it_0062_004376,0).
 who_f3(it_0062_004376,0).
 who_f4(it_0062_004376,1).
 typeofoutcome_updated(it_0062_004376,2).
-patient(it_0062_004376,pos).
+patient(it_0062_004376,neg).
 covidvaccine(it_0062_004376,0,3).
 fluvaccine(it_0062_004376,1).
 antipneumovaccine(it_0062_004376,0).
@@ -14908,7 +14908,7 @@ who_f2(it_0062_004378,0).
 who_f3(it_0062_004378,0).
 who_f4(it_0062_004378,1).
 typeofoutcome_updated(it_0062_004378,2).
-patient(it_0062_004378,pos).
+patient(it_0062_004378,neg).
 covidvaccine(it_0062_004378,0,3).
 fluvaccine(it_0062_004378,1).
 antipneumovaccine(it_0062_004378,0).
@@ -14926,7 +14926,7 @@ who_f2(it_0062_004379,0).
 who_f3(it_0062_004379,0).
 who_f4(it_0062_004379,1).
 typeofoutcome_updated(it_0062_004379,2).
-patient(it_0062_004379,pos).
+patient(it_0062_004379,neg).
 covidvaccine(it_0062_004379,0,3).
 fluvaccine(it_0062_004379,1).
 antipneumovaccine(it_0062_004379,0).
@@ -14944,7 +14944,7 @@ who_f2(it_0062_004380,0).
 who_f3(it_0062_004380,0).
 who_f4(it_0062_004380,1).
 typeofoutcome_updated(it_0062_004380,2).
-patient(it_0062_004380,pos).
+patient(it_0062_004380,neg).
 covidvaccine(it_0062_004380,0,3).
 fluvaccine(it_0062_004380,1).
 antipneumovaccine(it_0062_004380,0).
@@ -14962,7 +14962,7 @@ who_f2(it_0062_004381,0).
 who_f3(it_0062_004381,0).
 who_f4(it_0062_004381,1).
 typeofoutcome_updated(it_0062_004381,2).
-patient(it_0062_004381,pos).
+patient(it_0062_004381,neg).
 covidvaccine(it_0062_004381,0,3).
 fluvaccine(it_0062_004381,1).
 antipneumovaccine(it_0062_004381,0).
@@ -14980,7 +14980,7 @@ who_f2(it_0062_004384,0).
 who_f3(it_0062_004384,0).
 who_f4(it_0062_004384,1).
 typeofoutcome_updated(it_0062_004384,2).
-patient(it_0062_004384,pos).
+patient(it_0062_004384,neg).
 covidvaccine(it_0062_004384,0,3).
 fluvaccine(it_0062_004384,1).
 antipneumovaccine(it_0062_004384,0).
@@ -14998,7 +14998,7 @@ who_f2(it_0062_004385,0).
 who_f3(it_0062_004385,0).
 who_f4(it_0062_004385,1).
 typeofoutcome_updated(it_0062_004385,2).
-patient(it_0062_004385,pos).
+patient(it_0062_004385,neg).
 covidvaccine(it_0062_004385,0,3).
 fluvaccine(it_0062_004385,1).
 antipneumovaccine(it_0062_004385,0).
@@ -15016,7 +15016,7 @@ who_f2(it_0062_004435,0).
 who_f3(it_0062_004435,0).
 who_f4(it_0062_004435,1).
 typeofoutcome_updated(it_0062_004435,2).
-patient(it_0062_004435,pos).
+patient(it_0062_004435,neg).
 covidvaccine(it_0062_004435,0,3).
 fluvaccine(it_0062_004435,1).
 antipneumovaccine(it_0062_004435,0).
@@ -15034,7 +15034,7 @@ who_f2(it_0062_004436,0).
 who_f3(it_0062_004436,0).
 who_f4(it_0062_004436,1).
 typeofoutcome_updated(it_0062_004436,2).
-patient(it_0062_004436,pos).
+patient(it_0062_004436,neg).
 covidvaccine(it_0062_004436,0,3).
 fluvaccine(it_0062_004436,1).
 antipneumovaccine(it_0062_004436,0).
@@ -15052,7 +15052,7 @@ who_f2(it_0062_004437,0).
 who_f3(it_0062_004437,0).
 who_f4(it_0062_004437,1).
 typeofoutcome_updated(it_0062_004437,2).
-patient(it_0062_004437,pos).
+patient(it_0062_004437,neg).
 covidvaccine(it_0062_004437,0,3).
 fluvaccine(it_0062_004437,1).
 antipneumovaccine(it_0062_004437,0).
@@ -15070,7 +15070,7 @@ who_f2(it_0062_004438,0).
 who_f3(it_0062_004438,0).
 who_f4(it_0062_004438,1).
 typeofoutcome_updated(it_0062_004438,2).
-patient(it_0062_004438,pos).
+patient(it_0062_004438,neg).
 covidvaccine(it_0062_004438,0,3).
 fluvaccine(it_0062_004438,1).
 antipneumovaccine(it_0062_004438,0).
@@ -15088,7 +15088,7 @@ who_f2(it_0062_004439,0).
 who_f3(it_0062_004439,0).
 who_f4(it_0062_004439,1).
 typeofoutcome_updated(it_0062_004439,2).
-patient(it_0062_004439,pos).
+patient(it_0062_004439,neg).
 covidvaccine(it_0062_004439,0,3).
 fluvaccine(it_0062_004439,1).
 antipneumovaccine(it_0062_004439,0).
@@ -15106,7 +15106,7 @@ who_f2(it_0062_004442,0).
 who_f3(it_0062_004442,0).
 who_f4(it_0062_004442,1).
 typeofoutcome_updated(it_0062_004442,2).
-patient(it_0062_004442,pos).
+patient(it_0062_004442,neg).
 covidvaccine(it_0062_004442,0,3).
 fluvaccine(it_0062_004442,1).
 antipneumovaccine(it_0062_004442,0).
@@ -15124,7 +15124,7 @@ who_f2(it_0062_004443,0).
 who_f3(it_0062_004443,0).
 who_f4(it_0062_004443,1).
 typeofoutcome_updated(it_0062_004443,2).
-patient(it_0062_004443,pos).
+patient(it_0062_004443,neg).
 covidvaccine(it_0062_004443,0,3).
 fluvaccine(it_0062_004443,1).
 antipneumovaccine(it_0062_004443,0).
@@ -15142,7 +15142,7 @@ who_f2(it_0062_004445,0).
 who_f3(it_0062_004445,0).
 who_f4(it_0062_004445,1).
 typeofoutcome_updated(it_0062_004445,2).
-patient(it_0062_004445,pos).
+patient(it_0062_004445,neg).
 covidvaccine(it_0062_004445,0,3).
 fluvaccine(it_0062_004445,1).
 antipneumovaccine(it_0062_004445,0).
@@ -15160,7 +15160,7 @@ who_f2(it_0062_004447,0).
 who_f3(it_0062_004447,0).
 who_f4(it_0062_004447,1).
 typeofoutcome_updated(it_0062_004447,2).
-patient(it_0062_004447,pos).
+patient(it_0062_004447,neg).
 covidvaccine(it_0062_004447,0,3).
 fluvaccine(it_0062_004447,1).
 antipneumovaccine(it_0062_004447,0).
@@ -15178,7 +15178,7 @@ who_f2(it_0062_004448,0).
 who_f3(it_0062_004448,0).
 who_f4(it_0062_004448,1).
 typeofoutcome_updated(it_0062_004448,2).
-patient(it_0062_004448,pos).
+patient(it_0062_004448,neg).
 covidvaccine(it_0062_004448,0,3).
 fluvaccine(it_0062_004448,1).
 antipneumovaccine(it_0062_004448,0).
@@ -15196,7 +15196,7 @@ who_f2(it_0062_004373,0).
 who_f3(it_0062_004373,0).
 who_f4(it_0062_004373,1).
 typeofoutcome_updated(it_0062_004373,2).
-patient(it_0062_004373,pos).
+patient(it_0062_004373,neg).
 covidvaccine(it_0062_004373,0,3).
 fluvaccine(it_0062_004373,1).
 antipneumovaccine(it_0062_004373,0).
@@ -16435,7 +16435,7 @@ who_f2(it_0165_005566,0).
 who_f3(it_0165_005566,0).
 who_f4(it_0165_005566,1).
 typeofoutcome_updated(it_0165_005566,2).
-patient(it_0165_005566,pos).
+patient(it_0165_005566,neg).
 covidvaccine(it_0165_005566,0,2).
 fluvaccine(it_0165_005566,1).
 antipneumovaccine(it_0165_005566,0).
@@ -16459,7 +16459,7 @@ who_f2(it_0128_004708,0).
 who_f3(it_0128_004708,0).
 who_f4(it_0128_004708,1).
 typeofoutcome_updated(it_0128_004708,2).
-patient(it_0128_004708,pos).
+patient(it_0128_004708,neg).
 covidvaccine(it_0128_004708,0,2).
 fluvaccine(it_0128_004708,1).
 antipneumovaccine(it_0128_004708,0).
@@ -16482,7 +16482,7 @@ who_f2(it_0165_005562,0).
 who_f3(it_0165_005562,0).
 who_f4(it_0165_005562,1).
 typeofoutcome_updated(it_0165_005562,2).
-patient(it_0165_005562,pos).
+patient(it_0165_005562,neg).
 covidvaccine(it_0165_005562,0,2).
 fluvaccine(it_0165_005562,1).
 antipneumovaccine(it_0165_005562,0).
@@ -16523,7 +16523,7 @@ who_f2(it_0062_004318,0).
 who_f3(it_0062_004318,0).
 who_f4(it_0062_004318,1).
 typeofoutcome_updated(it_0062_004318,2).
-patient(it_0062_004318,pos).
+patient(it_0062_004318,neg).
 covidvaccine(it_0062_004318,0,3).
 fluvaccine(it_0062_004318,1).
 antipneumovaccine(it_0062_004318,0).
@@ -18018,7 +18018,7 @@ who_f2(it_0130_004424,1).
 who_f3(it_0130_004424,1).
 who_f4(it_0130_004424,1).
 typeofoutcome_updated(it_0130_004424,2).
-patient(it_0130_004424,pos).
+patient(it_0130_004424,neg).
 covidvaccine(it_0130_004424,0,2).
 fluvaccine(it_0130_004424,1).
 antipneumovaccine(it_0130_004424,0).
@@ -18172,7 +18172,7 @@ who_f2(it_0103_006121,9).
 who_f3(it_0103_006121,1).
 who_f4(it_0103_006121,1).
 typeofoutcome_updated(it_0103_006121,2).
-patient(it_0103_006121,pos).
+patient(it_0103_006121,neg).
 covidvaccine(it_0103_006121,0,3).
 fluvaccine(it_0103_006121,1).
 antipneumovaccine(it_0103_006121,1).
@@ -18239,7 +18239,7 @@ who_f2(it_0103_005961,1).
 who_f3(it_0103_005961,1).
 who_f4(it_0103_005961,1).
 typeofoutcome_updated(it_0103_005961,2).
-patient(it_0103_005961,pos).
+patient(it_0103_005961,neg).
 covidvaccine(it_0103_005961,0,3).
 fluvaccine(it_0103_005961,1).
 antipneumovaccine(it_0103_005961,1).
@@ -18266,7 +18266,7 @@ who_f2(it_0103_005973,1).
 who_f3(it_0103_005973,1).
 who_f4(it_0103_005973,1).
 typeofoutcome_updated(it_0103_005973,2).
-patient(it_0103_005973,pos).
+patient(it_0103_005973,neg).
 covidvaccine(it_0103_005973,0,3).
 fluvaccine(it_0103_005973,1).
 antipneumovaccine(it_0103_005973,1).
@@ -18290,7 +18290,7 @@ who_f2(it_0103_005974,1).
 who_f3(it_0103_005974,1).
 who_f4(it_0103_005974,1).
 typeofoutcome_updated(it_0103_005974,2).
-patient(it_0103_005974,pos).
+patient(it_0103_005974,neg).
 covidvaccine(it_0103_005974,0,3).
 fluvaccine(it_0103_005974,1).
 antipneumovaccine(it_0103_005974,1).
@@ -18314,7 +18314,7 @@ who_f2(it_0103_005977,1).
 who_f3(it_0103_005977,1).
 who_f4(it_0103_005977,1).
 typeofoutcome_updated(it_0103_005977,2).
-patient(it_0103_005977,pos).
+patient(it_0103_005977,neg).
 covidvaccine(it_0103_005977,0,3).
 fluvaccine(it_0103_005977,1).
 antipneumovaccine(it_0103_005977,1).
@@ -18365,7 +18365,7 @@ who_f2(it_0103_006023,9).
 who_f3(it_0103_006023,1).
 who_f4(it_0103_006023,1).
 typeofoutcome_updated(it_0103_006023,2).
-patient(it_0103_006023,pos).
+patient(it_0103_006023,neg).
 covidvaccine(it_0103_006023,0,3).
 fluvaccine(it_0103_006023,1).
 antipneumovaccine(it_0103_006023,1).
@@ -18391,7 +18391,7 @@ who_f2(it_0103_006024,9).
 who_f3(it_0103_006024,1).
 who_f4(it_0103_006024,1).
 typeofoutcome_updated(it_0103_006024,2).
-patient(it_0103_006024,pos).
+patient(it_0103_006024,neg).
 covidvaccine(it_0103_006024,0,3).
 fluvaccine(it_0103_006024,1).
 antipneumovaccine(it_0103_006024,1).
@@ -18413,7 +18413,7 @@ who_f2(it_0103_006116,1).
 who_f3(it_0103_006116,1).
 who_f4(it_0103_006116,1).
 typeofoutcome_updated(it_0103_006116,2).
-patient(it_0103_006116,pos).
+patient(it_0103_006116,neg).
 covidvaccine(it_0103_006116,0,3).
 fluvaccine(it_0103_006116,1).
 antipneumovaccine(it_0103_006116,1).
@@ -18436,7 +18436,7 @@ who_f2(it_0103_006118,9).
 who_f3(it_0103_006118,1).
 who_f4(it_0103_006118,1).
 typeofoutcome_updated(it_0103_006118,2).
-patient(it_0103_006118,pos).
+patient(it_0103_006118,neg).
 covidvaccine(it_0103_006118,0,3).
 fluvaccine(it_0103_006118,1).
 antipneumovaccine(it_0103_006118,1).
@@ -18487,7 +18487,7 @@ who_f2(it_0103_006120,1).
 who_f3(it_0103_006120,1).
 who_f4(it_0103_006120,1).
 typeofoutcome_updated(it_0103_006120,2).
-patient(it_0103_006120,pos).
+patient(it_0103_006120,neg).
 covidvaccine(it_0103_006120,0,3).
 fluvaccine(it_0103_006120,1).
 antipneumovaccine(it_0103_006120,1).
@@ -18511,7 +18511,7 @@ who_f2(it_0103_006126,1).
 who_f3(it_0103_006126,1).
 who_f4(it_0103_006126,1).
 typeofoutcome_updated(it_0103_006126,2).
-patient(it_0103_006126,pos).
+patient(it_0103_006126,neg).
 covidvaccine(it_0103_006126,0,3).
 fluvaccine(it_0103_006126,1).
 antipneumovaccine(it_0103_006126,1).
@@ -18539,7 +18539,7 @@ who_f2(it_0103_006898,9).
 who_f3(it_0103_006898,1).
 who_f4(it_0103_006898,1).
 typeofoutcome_updated(it_0103_006898,2).
-patient(it_0103_006898,pos).
+patient(it_0103_006898,neg).
 covidvaccine(it_0103_006898,0,3).
 fluvaccine(it_0103_006898,1).
 antipneumovaccine(it_0103_006898,0).
@@ -18688,7 +18688,7 @@ who_f2(it_0152_005494,1).
 who_f3(it_0152_005494,1).
 who_f4(it_0152_005494,1).
 typeofoutcome_updated(it_0152_005494,2).
-patient(it_0152_005494,pos).
+patient(it_0152_005494,neg).
 covidvaccine(it_0152_005494,0,3).
 
 %patient: it-0044-003672 index:802
@@ -19584,7 +19584,7 @@ who_f2(it_0103_005998,9).
 who_f3(it_0103_005998,1).
 who_f4(it_0103_005998,1).
 typeofoutcome_updated(it_0103_005998,2).
-patient(it_0103_005998,pos).
+patient(it_0103_005998,neg).
 covidvaccine(it_0103_005998,0,3).
 fluvaccine(it_0103_005998,1).
 antipneumovaccine(it_0103_005998,1).
@@ -19633,7 +19633,7 @@ who_f2(it_0103_006022,9).
 who_f3(it_0103_006022,1).
 who_f4(it_0103_006022,1).
 typeofoutcome_updated(it_0103_006022,2).
-patient(it_0103_006022,pos).
+patient(it_0103_006022,neg).
 covidvaccine(it_0103_006022,0,3).
 fluvaccine(it_0103_006022,1).
 antipneumovaccine(it_0103_006022,1).
@@ -26886,7 +26886,7 @@ who_f2(it_0061_003936,1).
 who_f3(it_0061_003936,1).
 who_f4(it_0061_003936,1).
 typeofoutcome_updated(it_0061_003936,2).
-patient(it_0061_003936,pos).
+patient(it_0061_003936,neg).
 covidvaccine(it_0061_003936,0,2).
 fluvaccine(it_0061_003936,1).
 antipneumovaccine(it_0061_003936,1).
@@ -26938,7 +26938,7 @@ who_f2(it_0061_003938,1).
 who_f3(it_0061_003938,1).
 who_f4(it_0061_003938,1).
 typeofoutcome_updated(it_0061_003938,2).
-patient(it_0061_003938,pos).
+patient(it_0061_003938,neg).
 covidvaccine(it_0061_003938,0,2).
 fluvaccine(it_0061_003938,1).
 antipneumovaccine(it_0061_003938,1).
@@ -27027,7 +27027,7 @@ who_f2(it_0061_003942,1).
 who_f3(it_0061_003942,1).
 who_f4(it_0061_003942,1).
 typeofoutcome_updated(it_0061_003942,2).
-patient(it_0061_003942,pos).
+patient(it_0061_003942,neg).
 covidvaccine(it_0061_003942,0,2).
 
 %patient: it-0061-003943 index:1115
@@ -27058,7 +27058,7 @@ who_f2(it_0061_003943,1).
 who_f3(it_0061_003943,1).
 who_f4(it_0061_003943,1).
 typeofoutcome_updated(it_0061_003943,2).
-patient(it_0061_003943,pos).
+patient(it_0061_003943,neg).
 covidvaccine(it_0061_003943,0,2).
 fluvaccine(it_0061_003943,1).
 antipneumovaccine(it_0061_003943,1).
@@ -27139,7 +27139,7 @@ who_f2(it_0061_003946,1).
 who_f3(it_0061_003946,1).
 who_f4(it_0061_003946,1).
 typeofoutcome_updated(it_0061_003946,2).
-patient(it_0061_003946,pos).
+patient(it_0061_003946,neg).
 covidvaccine(it_0061_003946,0,2).
 fluvaccine(it_0061_003946,1).
 antipneumovaccine(it_0061_003946,1).
@@ -27344,7 +27344,7 @@ who_f2(it_0061_003957,1).
 who_f3(it_0061_003957,1).
 who_f4(it_0061_003957,1).
 typeofoutcome_updated(it_0061_003957,2).
-patient(it_0061_003957,pos).
+patient(it_0061_003957,neg).
 covidvaccine(it_0061_003957,0,2).
 fluvaccine(it_0061_003957,1).
 antipneumovaccine(it_0061_003957,1).
@@ -27621,7 +27621,7 @@ who_f2(it_0061_003969,1).
 who_f3(it_0061_003969,1).
 who_f4(it_0061_003969,1).
 typeofoutcome_updated(it_0061_003969,2).
-patient(it_0061_003969,pos).
+patient(it_0061_003969,neg).
 covidvaccine(it_0061_003969,0,2).
 fluvaccine(it_0061_003969,1).
 antipneumovaccine(it_0061_003969,1).
@@ -27726,7 +27726,7 @@ who_f2(it_0061_003994,1).
 who_f3(it_0061_003994,1).
 who_f4(it_0061_003994,1).
 typeofoutcome_updated(it_0061_003994,2).
-patient(it_0061_003994,pos).
+patient(it_0061_003994,neg).
 covidvaccine(it_0061_003994,0,2).
 
 %patient: it-0061-003995 index:1142
@@ -27881,7 +27881,7 @@ who_f2(it_0061_004006,1).
 who_f3(it_0061_004006,1).
 who_f4(it_0061_004006,1).
 typeofoutcome_updated(it_0061_004006,2).
-patient(it_0061_004006,pos).
+patient(it_0061_004006,neg).
 covidvaccine(it_0061_004006,0,2).
 fluvaccine(it_0061_004006,1).
 antipneumovaccine(it_0061_004006,1).
@@ -27908,7 +27908,7 @@ who_f2(it_0061_004007,1).
 who_f3(it_0061_004007,1).
 who_f4(it_0061_004007,1).
 typeofoutcome_updated(it_0061_004007,2).
-patient(it_0061_004007,pos).
+patient(it_0061_004007,neg).
 covidvaccine(it_0061_004007,0,2).
 fluvaccine(it_0061_004007,1).
 antipneumovaccine(it_0061_004007,1).
@@ -28017,7 +28017,7 @@ who_f2(it_0061_004014,1).
 who_f3(it_0061_004014,1).
 who_f4(it_0061_004014,1).
 typeofoutcome_updated(it_0061_004014,2).
-patient(it_0061_004014,pos).
+patient(it_0061_004014,neg).
 covidvaccine(it_0061_004014,0,2).
 fluvaccine(it_0061_004014,1).
 antipneumovaccine(it_0061_004014,1).
@@ -28047,7 +28047,7 @@ who_f2(it_0061_004019,1).
 who_f3(it_0061_004019,1).
 who_f4(it_0061_004019,1).
 typeofoutcome_updated(it_0061_004019,2).
-patient(it_0061_004019,pos).
+patient(it_0061_004019,neg).
 covidvaccine(it_0061_004019,0,2).
 fluvaccine(it_0061_004019,1).
 antipneumovaccine(it_0061_004019,1).
@@ -28073,7 +28073,7 @@ who_f2(it_0061_004022,1).
 who_f3(it_0061_004022,1).
 who_f4(it_0061_004022,1).
 typeofoutcome_updated(it_0061_004022,2).
-patient(it_0061_004022,pos).
+patient(it_0061_004022,neg).
 covidvaccine(it_0061_004022,0,2).
 
 %patient: it-0061-004024 index:1155
@@ -28491,7 +28491,7 @@ who_f2(it_0061_004092,1).
 who_f3(it_0061_004092,1).
 who_f4(it_0061_004092,1).
 typeofoutcome_updated(it_0061_004092,2).
-patient(it_0061_004092,pos).
+patient(it_0061_004092,neg).
 covidvaccine(it_0061_004092,0,2).
 fluvaccine(it_0061_004092,1).
 antipneumovaccine(it_0061_004092,1).
@@ -28809,7 +28809,7 @@ who_f2(it_0061_004112,1).
 who_f3(it_0061_004112,1).
 who_f4(it_0061_004112,1).
 typeofoutcome_updated(it_0061_004112,2).
-patient(it_0061_004112,pos).
+patient(it_0061_004112,neg).
 covidvaccine(it_0061_004112,0,2).
 fluvaccine(it_0061_004112,1).
 antipneumovaccine(it_0061_004112,1).
@@ -28993,7 +28993,7 @@ who_f2(it_0061_004120,1).
 who_f3(it_0061_004120,1).
 who_f4(it_0061_004120,1).
 typeofoutcome_updated(it_0061_004120,2).
-patient(it_0061_004120,pos).
+patient(it_0061_004120,neg).
 covidvaccine(it_0061_004120,0,2).
 fluvaccine(it_0061_004120,1).
 antipneumovaccine(it_0061_004120,1).
@@ -29019,7 +29019,7 @@ who_f2(it_0061_004121,1).
 who_f3(it_0061_004121,1).
 who_f4(it_0061_004121,1).
 typeofoutcome_updated(it_0061_004121,2).
-patient(it_0061_004121,pos).
+patient(it_0061_004121,neg).
 covidvaccine(it_0061_004121,0,2).
 fluvaccine(it_0061_004121,1).
 antipneumovaccine(it_0061_004121,1).
@@ -29088,7 +29088,7 @@ who_f2(it_0061_004127,1).
 who_f3(it_0061_004127,1).
 who_f4(it_0061_004127,1).
 typeofoutcome_updated(it_0061_004127,2).
-patient(it_0061_004127,pos).
+patient(it_0061_004127,neg).
 covidvaccine(it_0061_004127,0,2).
 fluvaccine(it_0061_004127,1).
 antipneumovaccine(it_0061_004127,1).
@@ -29114,7 +29114,7 @@ who_f2(it_0061_004128,1).
 who_f3(it_0061_004128,1).
 who_f4(it_0061_004128,1).
 typeofoutcome_updated(it_0061_004128,2).
-patient(it_0061_004128,pos).
+patient(it_0061_004128,neg).
 covidvaccine(it_0061_004128,0,2).
 fluvaccine(it_0061_004128,1).
 antipneumovaccine(it_0061_004128,1).
@@ -31999,7 +31999,7 @@ who_f2(it_0103_005989,1).
 who_f3(it_0103_005989,1).
 who_f4(it_0103_005989,1).
 typeofoutcome_updated(it_0103_005989,2).
-patient(it_0103_005989,pos).
+patient(it_0103_005989,neg).
 covidvaccine(it_0103_005989,0,3).
 fluvaccine(it_0103_005989,1).
 antipneumovaccine(it_0103_005989,1).
@@ -32023,7 +32023,7 @@ who_f2(it_0103_005991,1).
 who_f3(it_0103_005991,1).
 who_f4(it_0103_005991,1).
 typeofoutcome_updated(it_0103_005991,2).
-patient(it_0103_005991,pos).
+patient(it_0103_005991,neg).
 covidvaccine(it_0103_005991,0,3).
 fluvaccine(it_0103_005991,1).
 antipneumovaccine(it_0103_005991,1).
@@ -34173,7 +34173,7 @@ who_f2(it_0126_006614,1).
 who_f3(it_0126_006614,1).
 who_f4(it_0126_006614,1).
 typeofoutcome_updated(it_0126_006614,2).
-patient(it_0126_006614,pos).
+patient(it_0126_006614,neg).
 covidvaccine(it_0126_006614,0,3).
 fluvaccine(it_0126_006614,1).
 antipneumovaccine(it_0126_006614,1).
@@ -41368,7 +41368,7 @@ who_f2(it_0152_004995,1).
 who_f3(it_0152_004995,1).
 who_f4(it_0152_004995,1).
 typeofoutcome_updated(it_0152_004995,2).
-patient(it_0152_004995,pos).
+patient(it_0152_004995,neg).
 covidvaccine(it_0152_004995,0,3).
 
 %patient: it-0152-004997 index:1702
@@ -41749,7 +41749,7 @@ who_f2(it_0152_005051,1).
 who_f3(it_0152_005051,1).
 who_f4(it_0152_005051,1).
 typeofoutcome_updated(it_0152_005051,2).
-patient(it_0152_005051,pos).
+patient(it_0152_005051,neg).
 covidvaccine(it_0152_005051,0,3).
 
 %patient: it-0152-005052 index:1720
@@ -42263,7 +42263,7 @@ who_f2(it_0152_005169,1).
 who_f3(it_0152_005169,1).
 who_f4(it_0152_005169,1).
 typeofoutcome_updated(it_0152_005169,2).
-patient(it_0152_005169,pos).
+patient(it_0152_005169,neg).
 covidvaccine(it_0152_005169,0,3).
 
 %patient: it-0152-005171 index:1745
@@ -46654,7 +46654,7 @@ who_f2(it_0171_006394,1).
 who_f3(it_0171_006394,1).
 who_f4(it_0171_006394,1).
 typeofoutcome_updated(it_0171_006394,2).
-patient(it_0171_006394,pos).
+patient(it_0171_006394,neg).
 covidvaccine(it_0171_006394,0,3).
 fluvaccine(it_0171_006394,1).
 antipneumovaccine(it_0171_006394,1).
@@ -47109,7 +47109,7 @@ who_f2(it_0103_005967,1).
 who_f3(it_0103_005967,1).
 who_f4(it_0103_005967,1).
 typeofoutcome_updated(it_0103_005967,2).
-patient(it_0103_005967,pos).
+patient(it_0103_005967,neg).
 covidvaccine(it_0103_005967,0,3).
 fluvaccine(it_0103_005967,1).
 antipneumovaccine(it_0103_005967,1).
@@ -47970,7 +47970,7 @@ who_f2(it_0103_005957,1).
 who_f3(it_0103_005957,1).
 who_f4(it_0103_005957,1).
 typeofoutcome_updated(it_0103_005957,2).
-patient(it_0103_005957,pos).
+patient(it_0103_005957,neg).
 covidvaccine(it_0103_005957,0,3).
 fluvaccine(it_0103_005957,1).
 antipneumovaccine(it_0103_005957,1).
@@ -47995,7 +47995,7 @@ who_f2(it_0103_005960,1).
 who_f3(it_0103_005960,1).
 who_f4(it_0103_005960,1).
 typeofoutcome_updated(it_0103_005960,2).
-patient(it_0103_005960,pos).
+patient(it_0103_005960,neg).
 covidvaccine(it_0103_005960,0,3).
 fluvaccine(it_0103_005960,1).
 antipneumovaccine(it_0103_005960,1).
@@ -48041,7 +48041,7 @@ who_f2(it_0103_006132,1).
 who_f3(it_0103_006132,1).
 who_f4(it_0103_006132,1).
 typeofoutcome_updated(it_0103_006132,2).
-patient(it_0103_006132,pos).
+patient(it_0103_006132,neg).
 covidvaccine(it_0103_006132,0,3).
 fluvaccine(it_0103_006132,1).
 antipneumovaccine(it_0103_006132,1).
@@ -55198,7 +55198,7 @@ who_f2(it_0125_004931,1).
 who_f3(it_0125_004931,1).
 who_f4(it_0125_004931,1).
 typeofoutcome_updated(it_0125_004931,2).
-patient(it_0125_004931,pos).
+patient(it_0125_004931,neg).
 covidvaccine(it_0125_004931,0,3).
 fluvaccine(it_0125_004931,1).
 vzvvaccine(it_0125_004931,0).
@@ -55227,7 +55227,7 @@ who_f2(it_0125_005965,0).
 who_f3(it_0125_005965,0).
 who_f4(it_0125_005965,1).
 typeofoutcome_updated(it_0125_005965,2).
-patient(it_0125_005965,pos).
+patient(it_0125_005965,neg).
 covidvaccine(it_0125_005965,0,3).
 fluvaccine(it_0125_005965,0).
 antipneumovaccine(it_0125_005965,0).
@@ -55251,7 +55251,7 @@ who_f2(it_0125_006422,0).
 who_f3(it_0125_006422,0).
 who_f4(it_0125_006422,1).
 typeofoutcome_updated(it_0125_006422,2).
-patient(it_0125_006422,pos).
+patient(it_0125_006422,neg).
 covidvaccine(it_0125_006422,0,3).
 fluvaccine(it_0125_006422,1).
 antipneumovaccine(it_0125_006422,0).
@@ -55274,7 +55274,7 @@ who_f2(it_0125_006426,0).
 who_f3(it_0125_006426,0).
 who_f4(it_0125_006426,1).
 typeofoutcome_updated(it_0125_006426,2).
-patient(it_0125_006426,pos).
+patient(it_0125_006426,neg).
 covidvaccine(it_0125_006426,0,3).
 fluvaccine(it_0125_006426,1).
 
@@ -55304,7 +55304,7 @@ who_f2(it_0125_003792,0).
 who_f3(it_0125_003792,0).
 who_f4(it_0125_003792,1).
 typeofoutcome_updated(it_0125_003792,2).
-patient(it_0125_003792,pos).
+patient(it_0125_003792,neg).
 covidvaccine(it_0125_003792,0,3).
 fluvaccine(it_0125_003792,1).
 antipneumovaccine(it_0125_003792,1).
@@ -55353,7 +55353,7 @@ who_f2(it_0125_003789,0).
 who_f3(it_0125_003789,0).
 who_f4(it_0125_003789,1).
 typeofoutcome_updated(it_0125_003789,2).
-patient(it_0125_003789,pos).
+patient(it_0125_003789,neg).
 covidvaccine(it_0125_003789,0,3).
 fluvaccine(it_0125_003789,1).
 antipneumovaccine(it_0125_003789,1).
@@ -55381,7 +55381,7 @@ who_f2(it_0125_003794,0).
 who_f3(it_0125_003794,0).
 who_f4(it_0125_003794,1).
 typeofoutcome_updated(it_0125_003794,2).
-patient(it_0125_003794,pos).
+patient(it_0125_003794,neg).
 covidvaccine(it_0125_003794,0,3).
 fluvaccine(it_0125_003794,1).
 antipneumovaccine(it_0125_003794,1).
@@ -55410,7 +55410,7 @@ who_f2(it_0125_003893,0).
 who_f3(it_0125_003893,0).
 who_f4(it_0125_003893,1).
 typeofoutcome_updated(it_0125_003893,2).
-patient(it_0125_003893,pos).
+patient(it_0125_003893,neg).
 covidvaccine(it_0125_003893,0,3).
 fluvaccine(it_0125_003893,1).
 antipneumovaccine(it_0125_003893,1).
@@ -55437,7 +55437,7 @@ who_f2(it_0125_003977,0).
 who_f3(it_0125_003977,0).
 who_f4(it_0125_003977,1).
 typeofoutcome_updated(it_0125_003977,2).
-patient(it_0125_003977,pos).
+patient(it_0125_003977,neg).
 covidvaccine(it_0125_003977,0,3).
 fluvaccine(it_0125_003977,1).
 antipneumovaccine(it_0125_003977,1).
@@ -56631,7 +56631,7 @@ who_f2(it_0143_006251,1).
 who_f3(it_0143_006251,1).
 who_f4(it_0143_006251,1).
 typeofoutcome_updated(it_0143_006251,2).
-patient(it_0143_006251,pos).
+patient(it_0143_006251,neg).
 covidvaccine(it_0143_006251,0,3).
 
 %patient: it-0126-005475 index:2316
@@ -56682,7 +56682,7 @@ who_f2(it_0061_004002,1).
 who_f3(it_0061_004002,1).
 who_f4(it_0061_004002,1).
 typeofoutcome_updated(it_0061_004002,2).
-patient(it_0061_004002,pos).
+patient(it_0061_004002,neg).
 covidvaccine(it_0061_004002,0,2).
 fluvaccine(it_0061_004002,1).
 
@@ -56713,7 +56713,7 @@ who_f2(it_0143_003905,1).
 who_f3(it_0143_003905,1).
 who_f4(it_0143_003905,1).
 typeofoutcome_updated(it_0143_003905,2).
-patient(it_0143_003905,pos).
+patient(it_0143_003905,neg).
 covidvaccine(it_0143_003905,0,1).
 fluvaccine(it_0143_003905,1).
 antipneumovaccine(it_0143_003905,1).
@@ -56736,7 +56736,7 @@ who_f2(it_0169_006155,1).
 who_f3(it_0169_006155,1).
 who_f4(it_0169_006155,1).
 typeofoutcome_updated(it_0169_006155,2).
-patient(it_0169_006155,pos).
+patient(it_0169_006155,neg).
 covidvaccine(it_0169_006155,0,3).
 fluvaccine(it_0169_006155,1).
 antipneumovaccine(it_0169_006155,0).
@@ -56840,7 +56840,7 @@ who_f2(it_0149_004257,1).
 who_f3(it_0149_004257,1).
 who_f4(it_0149_004257,9).
 typeofoutcome_updated(it_0149_004257,2).
-patient(it_0149_004257,pos).
+patient(it_0149_004257,neg).
 covidvaccine(it_0149_004257,0,3).
 fluvaccine(it_0149_004257,1).
 antipneumovaccine(it_0149_004257,1).
@@ -56864,7 +56864,7 @@ who_f2(it_0169_005939,1).
 who_f3(it_0169_005939,1).
 who_f4(it_0169_005939,1).
 typeofoutcome_updated(it_0169_005939,2).
-patient(it_0169_005939,pos).
+patient(it_0169_005939,neg).
 covidvaccine(it_0169_005939,0,3).
 fluvaccine(it_0169_005939,1).
 antipneumovaccine(it_0169_005939,0).
@@ -56886,7 +56886,7 @@ who_f2(it_0151_005629,0).
 who_f3(it_0151_005629,1).
 who_f4(it_0151_005629,9).
 typeofoutcome_updated(it_0151_005629,2).
-patient(it_0151_005629,pos).
+patient(it_0151_005629,neg).
 covidvaccine(it_0151_005629,0,3).
 fluvaccine(it_0151_005629,1).
 antipneumovaccine(it_0151_005629,1).
@@ -56910,7 +56910,7 @@ who_f2(it_0151_005729,1).
 who_f3(it_0151_005729,1).
 who_f4(it_0151_005729,1).
 typeofoutcome_updated(it_0151_005729,2).
-patient(it_0151_005729,pos).
+patient(it_0151_005729,neg).
 covidvaccine(it_0151_005729,0,2).
 fluvaccine(it_0151_005729,1).
 antipneumovaccine(it_0151_005729,1).
@@ -56931,7 +56931,7 @@ who_f2(it_0151_005587,1).
 who_f3(it_0151_005587,1).
 who_f4(it_0151_005587,1).
 typeofoutcome_updated(it_0151_005587,2).
-patient(it_0151_005587,pos).
+patient(it_0151_005587,neg).
 covidvaccine(it_0151_005587,0,2).
 fluvaccine(it_0151_005587,1).
 antipneumovaccine(it_0151_005587,0).
@@ -56955,7 +56955,7 @@ who_f2(it_0123_005695,0).
 who_f3(it_0123_005695,1).
 who_f4(it_0123_005695,1).
 typeofoutcome_updated(it_0123_005695,2).
-patient(it_0123_005695,pos).
+patient(it_0123_005695,neg).
 covidvaccine(it_0123_005695,0,3).
 fluvaccine(it_0123_005695,0).
 antipneumovaccine(it_0123_005695,0).
@@ -56979,7 +56979,7 @@ who_f2(it_0151_005630,0).
 who_f3(it_0151_005630,1).
 who_f4(it_0151_005630,1).
 typeofoutcome_updated(it_0151_005630,2).
-patient(it_0151_005630,pos).
+patient(it_0151_005630,neg).
 covidvaccine(it_0151_005630,0,3).
 fluvaccine(it_0151_005630,1).
 antipneumovaccine(it_0151_005630,1).
@@ -57004,7 +57004,7 @@ who_f2(it_0126_005286,0).
 who_f3(it_0126_005286,1).
 who_f4(it_0126_005286,1).
 typeofoutcome_updated(it_0126_005286,2).
-patient(it_0126_005286,pos).
+patient(it_0126_005286,neg).
 covidvaccine(it_0126_005286,0,3).
 fluvaccine(it_0126_005286,1).
 antipneumovaccine(it_0126_005286,1).
@@ -57114,7 +57114,7 @@ who_f2(it_0015_000678,0).
 who_f3(it_0015_000678,0).
 who_f4(it_0015_000678,1).
 typeofoutcome_updated(it_0015_000678,2).
-patient(it_0015_000678,pos).
+patient(it_0015_000678,neg).
 covidvaccine(it_0015_000678,0,2).
 fluvaccine(it_0015_000678,1).
 antipneumovaccine(it_0015_000678,0).
@@ -57140,7 +57140,7 @@ who_f2(it_0015_003934,0).
 who_f3(it_0015_003934,0).
 who_f4(it_0015_003934,1).
 typeofoutcome_updated(it_0015_003934,2).
-patient(it_0015_003934,pos).
+patient(it_0015_003934,neg).
 covidvaccine(it_0015_003934,0,2).
 fluvaccine(it_0015_003934,1).
 antipneumovaccine(it_0015_003934,0).
@@ -57168,7 +57168,7 @@ who_f2(it_0015_003862,0).
 who_f3(it_0015_003862,9).
 who_f4(it_0015_003862,1).
 typeofoutcome_updated(it_0015_003862,2).
-patient(it_0015_003862,pos).
+patient(it_0015_003862,neg).
 covidvaccine(it_0015_003862,0,2).
 fluvaccine(it_0015_003862,1).
 antipneumovaccine(it_0015_003862,0).
@@ -57194,7 +57194,7 @@ who_f2(it_0015_004046,0).
 who_f3(it_0015_004046,0).
 who_f4(it_0015_004046,1).
 typeofoutcome_updated(it_0015_004046,2).
-patient(it_0015_004046,pos).
+patient(it_0015_004046,neg).
 covidvaccine(it_0015_004046,0,3).
 fluvaccine(it_0015_004046,1).
 antipneumovaccine(it_0015_004046,0).
@@ -57221,7 +57221,7 @@ who_f2(it_0125_006562,0).
 who_f3(it_0125_006562,0).
 who_f4(it_0125_006562,1).
 typeofoutcome_updated(it_0125_006562,2).
-patient(it_0125_006562,pos).
+patient(it_0125_006562,neg).
 covidvaccine(it_0125_006562,0,3).
 fluvaccine(it_0125_006562,0).
 antipneumovaccine(it_0125_006562,0).
@@ -57247,7 +57247,7 @@ who_f2(it_0125_006561,0).
 who_f3(it_0125_006561,0).
 who_f4(it_0125_006561,1).
 typeofoutcome_updated(it_0125_006561,2).
-patient(it_0125_006561,pos).
+patient(it_0125_006561,neg).
 covidvaccine(it_0125_006561,0,2).
 antipneumovaccine(it_0125_006561,0).
 vzvvaccine(it_0125_006561,0).
@@ -57272,7 +57272,7 @@ who_f2(it_0167_006775,0).
 who_f3(it_0167_006775,0).
 who_f4(it_0167_006775,1).
 typeofoutcome_updated(it_0167_006775,2).
-patient(it_0167_006775,pos).
+patient(it_0167_006775,neg).
 covidvaccine(it_0167_006775,1,3).
 fluvaccine(it_0167_006775,1).
 antipneumovaccine(it_0167_006775,1).
@@ -57298,7 +57298,7 @@ who_f2(it_0167_006784,0).
 who_f3(it_0167_006784,0).
 who_f4(it_0167_006784,1).
 typeofoutcome_updated(it_0167_006784,2).
-patient(it_0167_006784,pos).
+patient(it_0167_006784,neg).
 covidvaccine(it_0167_006784,0,3).
 fluvaccine(it_0167_006784,0).
 antipneumovaccine(it_0167_006784,0).
@@ -57322,7 +57322,7 @@ who_f2(it_0167_006792,0).
 who_f3(it_0167_006792,9).
 who_f4(it_0167_006792,1).
 typeofoutcome_updated(it_0167_006792,2).
-patient(it_0167_006792,pos).
+patient(it_0167_006792,neg).
 covidvaccine(it_0167_006792,1,3).
 fluvaccine(it_0167_006792,0).
 antipneumovaccine(it_0167_006792,0).
@@ -57343,7 +57343,7 @@ who_f2(it_0167_006820,0).
 who_f3(it_0167_006820,0).
 who_f4(it_0167_006820,1).
 typeofoutcome_updated(it_0167_006820,2).
-patient(it_0167_006820,pos).
+patient(it_0167_006820,neg).
 covidvaccine(it_0167_006820,1,3).
 fluvaccine(it_0167_006820,0).
 antipneumovaccine(it_0167_006820,0).
@@ -57365,7 +57365,7 @@ who_f2(it_0167_006825,0).
 who_f3(it_0167_006825,0).
 who_f4(it_0167_006825,1).
 typeofoutcome_updated(it_0167_006825,2).
-patient(it_0167_006825,pos).
+patient(it_0167_006825,neg).
 covidvaccine(it_0167_006825,1,3).
 fluvaccine(it_0167_006825,0).
 antipneumovaccine(it_0167_006825,0).
@@ -57387,7 +57387,7 @@ who_f2(it_0167_006829,0).
 who_f3(it_0167_006829,0).
 who_f4(it_0167_006829,1).
 typeofoutcome_updated(it_0167_006829,2).
-patient(it_0167_006829,pos).
+patient(it_0167_006829,neg).
 covidvaccine(it_0167_006829,0,3).
 fluvaccine(it_0167_006829,0).
 antipneumovaccine(it_0167_006829,0).
@@ -57410,7 +57410,7 @@ who_f2(it_0166_006229,0).
 who_f3(it_0166_006229,0).
 who_f4(it_0166_006229,1).
 typeofoutcome_updated(it_0166_006229,2).
-patient(it_0166_006229,pos).
+patient(it_0166_006229,neg).
 covidvaccine(it_0166_006229,1,3).
 fluvaccine(it_0166_006229,1).
 antipneumovaccine(it_0166_006229,1).
@@ -57434,7 +57434,7 @@ who_f2(it_0126_006605,0).
 who_f3(it_0126_006605,9).
 who_f4(it_0126_006605,1).
 typeofoutcome_updated(it_0126_006605,2).
-patient(it_0126_006605,pos).
+patient(it_0126_006605,neg).
 covidvaccine(it_0126_006605,0,3).
 
 %patient: it-0167-006833 index:2348
@@ -57456,7 +57456,7 @@ who_f2(it_0167_006833,0).
 who_f3(it_0167_006833,0).
 who_f4(it_0167_006833,1).
 typeofoutcome_updated(it_0167_006833,2).
-patient(it_0167_006833,pos).
+patient(it_0167_006833,neg).
 covidvaccine(it_0167_006833,0,3).
 fluvaccine(it_0167_006833,0).
 antipneumovaccine(it_0167_006833,0).
@@ -57489,7 +57489,7 @@ who_f2(it_0015_003863,0).
 who_f3(it_0015_003863,0).
 who_f4(it_0015_003863,1).
 typeofoutcome_updated(it_0015_003863,2).
-patient(it_0015_003863,pos).
+patient(it_0015_003863,neg).
 covidvaccine(it_0015_003863,0,3).
 
 %patient: it-0143-004847 index:2350
@@ -57511,7 +57511,7 @@ who_f2(it_0143_004847,0).
 who_f3(it_0143_004847,0).
 who_f4(it_0143_004847,1).
 typeofoutcome_updated(it_0143_004847,2).
-patient(it_0143_004847,pos).
+patient(it_0143_004847,neg).
 covidvaccine(it_0143_004847,0,2).
 
 %patient: it-0130-004754 index:2351
@@ -57531,7 +57531,7 @@ who_f2(it_0130_004754,0).
 who_f3(it_0130_004754,0).
 who_f4(it_0130_004754,1).
 typeofoutcome_updated(it_0130_004754,2).
-patient(it_0130_004754,pos).
+patient(it_0130_004754,neg).
 covidvaccine(it_0130_004754,1,3).
 antipneumovaccine(it_0130_004754,0).
 vzvvaccine(it_0130_004754,0).
@@ -57553,7 +57553,7 @@ who_f2(it_0166_006236,0).
 who_f3(it_0166_006236,0).
 who_f4(it_0166_006236,1).
 typeofoutcome_updated(it_0166_006236,2).
-patient(it_0166_006236,pos).
+patient(it_0166_006236,neg).
 covidvaccine(it_0166_006236,0,3).
 fluvaccine(it_0166_006236,1).
 antipneumovaccine(it_0166_006236,0).
@@ -57581,7 +57581,7 @@ who_f2(it_0123_005694,0).
 who_f3(it_0123_005694,0).
 who_f4(it_0123_005694,1).
 typeofoutcome_updated(it_0123_005694,2).
-patient(it_0123_005694,pos).
+patient(it_0123_005694,neg).
 covidvaccine(it_0123_005694,0,3).
 fluvaccine(it_0123_005694,0).
 antipneumovaccine(it_0123_005694,0).
@@ -57613,7 +57613,7 @@ who_f2(it_0166_005015,0).
 who_f3(it_0166_005015,0).
 who_f4(it_0166_005015,1).
 typeofoutcome_updated(it_0166_005015,2).
-patient(it_0166_005015,pos).
+patient(it_0166_005015,neg).
 covidvaccine(it_0166_005015,1,3).
 fluvaccine(it_0166_005015,1).
 antipneumovaccine(it_0166_005015,1).
@@ -57637,7 +57637,7 @@ who_f2(it_0143_004853,0).
 who_f3(it_0143_004853,1).
 who_f4(it_0143_004853,1).
 typeofoutcome_updated(it_0143_004853,2).
-patient(it_0143_004853,pos).
+patient(it_0143_004853,neg).
 covidvaccine(it_0143_004853,0,2).
 fluvaccine(it_0143_004853,0).
 
@@ -57657,7 +57657,7 @@ who_f2(it_0143_004855,0).
 who_f3(it_0143_004855,1).
 who_f4(it_0143_004855,1).
 typeofoutcome_updated(it_0143_004855,2).
-patient(it_0143_004855,pos).
+patient(it_0143_004855,neg).
 covidvaccine(it_0143_004855,0,2).
 fluvaccine(it_0143_004855,0).
 
@@ -57680,7 +57680,7 @@ who_f2(it_0143_005256,0).
 who_f3(it_0143_005256,1).
 who_f4(it_0143_005256,1).
 typeofoutcome_updated(it_0143_005256,2).
-patient(it_0143_005256,pos).
+patient(it_0143_005256,neg).
 covidvaccine(it_0143_005256,0,2).
 fluvaccine(it_0143_005256,0).
 
@@ -57704,7 +57704,7 @@ who_f2(it_0143_005267,0).
 who_f3(it_0143_005267,1).
 who_f4(it_0143_005267,1).
 typeofoutcome_updated(it_0143_005267,2).
-patient(it_0143_005267,pos).
+patient(it_0143_005267,neg).
 covidvaccine(it_0143_005267,0,2).
 fluvaccine(it_0143_005267,0).
 
@@ -57724,7 +57724,7 @@ who_f2(it_0143_005276,0).
 who_f3(it_0143_005276,1).
 who_f4(it_0143_005276,1).
 typeofoutcome_updated(it_0143_005276,2).
-patient(it_0143_005276,pos).
+patient(it_0143_005276,neg).
 covidvaccine(it_0143_005276,0,2).
 fluvaccine(it_0143_005276,0).
 
@@ -57745,7 +57745,7 @@ who_f2(it_0143_005278,0).
 who_f3(it_0143_005278,1).
 who_f4(it_0143_005278,1).
 typeofoutcome_updated(it_0143_005278,2).
-patient(it_0143_005278,pos).
+patient(it_0143_005278,neg).
 covidvaccine(it_0143_005278,0,2).
 fluvaccine(it_0143_005278,0).
 
@@ -57770,7 +57770,7 @@ who_f2(it_0143_005280,0).
 who_f3(it_0143_005280,1).
 who_f4(it_0143_005280,1).
 typeofoutcome_updated(it_0143_005280,2).
-patient(it_0143_005280,pos).
+patient(it_0143_005280,neg).
 covidvaccine(it_0143_005280,0,2).
 fluvaccine(it_0143_005280,0).
 
@@ -57793,7 +57793,7 @@ who_f2(it_0126_004943,0).
 who_f3(it_0126_004943,0).
 who_f4(it_0126_004943,1).
 typeofoutcome_updated(it_0126_004943,2).
-patient(it_0126_004943,pos).
+patient(it_0126_004943,neg).
 covidvaccine(it_0126_004943,0,3).
 fluvaccine(it_0126_004943,1).
 vzvvaccine(it_0126_004943,0).
@@ -57819,7 +57819,7 @@ who_f2(it_0143_004840,0).
 who_f3(it_0143_004840,0).
 who_f4(it_0143_004840,1).
 typeofoutcome_updated(it_0143_004840,2).
-patient(it_0143_004840,pos).
+patient(it_0143_004840,neg).
 covidvaccine(it_0143_004840,0,2).
 fluvaccine(it_0143_004840,0).
 antipneumovaccine(it_0143_004840,0).
@@ -57841,7 +57841,7 @@ who_f2(it_0143_004841,0).
 who_f3(it_0143_004841,0).
 who_f4(it_0143_004841,1).
 typeofoutcome_updated(it_0143_004841,2).
-patient(it_0143_004841,pos).
+patient(it_0143_004841,neg).
 covidvaccine(it_0143_004841,0,2).
 
 %patient: it-0143-005251 index:2365
@@ -57860,7 +57860,7 @@ who_f2(it_0143_005251,0).
 who_f3(it_0143_005251,1).
 who_f4(it_0143_005251,1).
 typeofoutcome_updated(it_0143_005251,2).
-patient(it_0143_005251,pos).
+patient(it_0143_005251,neg).
 covidvaccine(it_0143_005251,0,2).
 fluvaccine(it_0143_005251,0).
 
@@ -57882,7 +57882,7 @@ who_f2(it_0143_005259,0).
 who_f3(it_0143_005259,1).
 who_f4(it_0143_005259,1).
 typeofoutcome_updated(it_0143_005259,2).
-patient(it_0143_005259,pos).
+patient(it_0143_005259,neg).
 covidvaccine(it_0143_005259,0,2).
 fluvaccine(it_0143_005259,0).
 
@@ -57902,7 +57902,7 @@ who_f2(it_0143_004843,0).
 who_f3(it_0143_004843,0).
 who_f4(it_0143_004843,1).
 typeofoutcome_updated(it_0143_004843,2).
-patient(it_0143_004843,pos).
+patient(it_0143_004843,neg).
 covidvaccine(it_0143_004843,0,2).
 
 %patient: it-0143-004850 index:2368
@@ -57924,7 +57924,7 @@ who_f2(it_0143_004850,0).
 who_f3(it_0143_004850,1).
 who_f4(it_0143_004850,1).
 typeofoutcome_updated(it_0143_004850,2).
-patient(it_0143_004850,pos).
+patient(it_0143_004850,neg).
 covidvaccine(it_0143_004850,0,2).
 fluvaccine(it_0143_004850,0).
 
@@ -57950,7 +57950,7 @@ who_f2(it_0143_005252,0).
 who_f3(it_0143_005252,1).
 who_f4(it_0143_005252,1).
 typeofoutcome_updated(it_0143_005252,2).
-patient(it_0143_005252,pos).
+patient(it_0143_005252,neg).
 covidvaccine(it_0143_005252,0,2).
 fluvaccine(it_0143_005252,0).
 
@@ -57974,7 +57974,7 @@ who_f2(it_0143_005244,0).
 who_f3(it_0143_005244,1).
 who_f4(it_0143_005244,1).
 typeofoutcome_updated(it_0143_005244,2).
-patient(it_0143_005244,pos).
+patient(it_0143_005244,neg).
 covidvaccine(it_0143_005244,0,2).
 fluvaccine(it_0143_005244,0).
 
@@ -58004,7 +58004,7 @@ who_f2(it_0126_005612,0).
 who_f3(it_0126_005612,0).
 who_f4(it_0126_005612,1).
 typeofoutcome_updated(it_0126_005612,2).
-patient(it_0126_005612,pos).
+patient(it_0126_005612,neg).
 covidvaccine(it_0126_005612,0,3).
 vzvvaccine(it_0126_005612,0).
 
@@ -58058,7 +58058,7 @@ who_f2(it_0126_005613,0).
 who_f3(it_0126_005613,0).
 who_f4(it_0126_005613,1).
 typeofoutcome_updated(it_0126_005613,2).
-patient(it_0126_005613,pos).
+patient(it_0126_005613,neg).
 covidvaccine(it_0126_005613,0,3).
 fluvaccine(it_0126_005613,1).
 antipneumovaccine(it_0126_005613,1).
@@ -58084,7 +58084,7 @@ who_f2(it_0143_005255,0).
 who_f3(it_0143_005255,1).
 who_f4(it_0143_005255,1).
 typeofoutcome_updated(it_0143_005255,2).
-patient(it_0143_005255,pos).
+patient(it_0143_005255,neg).
 covidvaccine(it_0143_005255,0,2).
 fluvaccine(it_0143_005255,0).
 
@@ -58108,7 +58108,7 @@ who_f2(it_0143_005264,0).
 who_f3(it_0143_005264,0).
 who_f4(it_0143_005264,1).
 typeofoutcome_updated(it_0143_005264,2).
-patient(it_0143_005264,pos).
+patient(it_0143_005264,neg).
 covidvaccine(it_0143_005264,0,2).
 
 %patient: it-0143-005283 index:2376
@@ -58128,7 +58128,7 @@ who_f2(it_0143_005283,0).
 who_f3(it_0143_005283,1).
 who_f4(it_0143_005283,1).
 typeofoutcome_updated(it_0143_005283,2).
-patient(it_0143_005283,pos).
+patient(it_0143_005283,neg).
 covidvaccine(it_0143_005283,0,2).
 fluvaccine(it_0143_005283,0).
 
@@ -58152,7 +58152,7 @@ who_f2(it_0143_005307,0).
 who_f3(it_0143_005307,1).
 who_f4(it_0143_005307,1).
 typeofoutcome_updated(it_0143_005307,2).
-patient(it_0143_005307,pos).
+patient(it_0143_005307,neg).
 covidvaccine(it_0143_005307,0,2).
 
 %patient: it-0143-005311 index:2378
@@ -58172,7 +58172,7 @@ who_f2(it_0143_005311,0).
 who_f3(it_0143_005311,0).
 who_f4(it_0143_005311,1).
 typeofoutcome_updated(it_0143_005311,2).
-patient(it_0143_005311,pos).
+patient(it_0143_005311,neg).
 covidvaccine(it_0143_005311,0,2).
 
 %patient: it-0143-005320 index:2379
@@ -58192,7 +58192,7 @@ who_f2(it_0143_005320,0).
 who_f3(it_0143_005320,0).
 who_f4(it_0143_005320,1).
 typeofoutcome_updated(it_0143_005320,2).
-patient(it_0143_005320,pos).
+patient(it_0143_005320,neg).
 covidvaccine(it_0143_005320,0,2).
 
 %patient: it-0150-006044 index:2380
@@ -58217,7 +58217,7 @@ who_f2(it_0150_006044,0).
 who_f3(it_0150_006044,0).
 who_f4(it_0150_006044,0).
 typeofoutcome_updated(it_0150_006044,2).
-patient(it_0150_006044,pos).
+patient(it_0150_006044,neg).
 covidvaccine(it_0150_006044,0,3).
 fluvaccine(it_0150_006044,1).
 antipneumovaccine(it_0150_006044,1).
@@ -58243,7 +58243,7 @@ who_f2(it_0123_005656,0).
 who_f3(it_0123_005656,0).
 who_f4(it_0123_005656,1).
 typeofoutcome_updated(it_0123_005656,2).
-patient(it_0123_005656,pos).
+patient(it_0123_005656,neg).
 covidvaccine(it_0123_005656,0,3).
 fluvaccine(it_0123_005656,0).
 antipneumovaccine(it_0123_005656,0).
@@ -58274,7 +58274,7 @@ who_f2(it_0123_005701,0).
 who_f3(it_0123_005701,0).
 who_f4(it_0123_005701,1).
 typeofoutcome_updated(it_0123_005701,2).
-patient(it_0123_005701,pos).
+patient(it_0123_005701,neg).
 covidvaccine(it_0123_005701,0,3).
 fluvaccine(it_0123_005701,1).
 antipneumovaccine(it_0123_005701,0).
@@ -58329,7 +58329,7 @@ who_f2(it_0130_004656,0).
 who_f3(it_0130_004656,0).
 who_f4(it_0130_004656,1).
 typeofoutcome_updated(it_0130_004656,2).
-patient(it_0130_004656,pos).
+patient(it_0130_004656,neg).
 covidvaccine(it_0130_004656,1,3).
 fluvaccine(it_0130_004656,1).
 vzvvaccine(it_0130_004656,0).
@@ -58356,7 +58356,7 @@ who_f2(it_0166_004935,0).
 who_f3(it_0166_004935,0).
 who_f4(it_0166_004935,1).
 typeofoutcome_updated(it_0166_004935,2).
-patient(it_0166_004935,pos).
+patient(it_0166_004935,neg).
 covidvaccine(it_0166_004935,1,3).
 fluvaccine(it_0166_004935,1).
 antipneumovaccine(it_0166_004935,0).
@@ -58389,7 +58389,7 @@ who_f2(it_0166_005109,0).
 who_f3(it_0166_005109,0).
 who_f4(it_0166_005109,1).
 typeofoutcome_updated(it_0166_005109,2).
-patient(it_0166_005109,pos).
+patient(it_0166_005109,neg).
 covidvaccine(it_0166_005109,1,3).
 fluvaccine(it_0166_005109,0).
 antipneumovaccine(it_0166_005109,1).
@@ -58419,7 +58419,7 @@ who_f2(it_0166_005119,0).
 who_f3(it_0166_005119,0).
 who_f4(it_0166_005119,1).
 typeofoutcome_updated(it_0166_005119,2).
-patient(it_0166_005119,pos).
+patient(it_0166_005119,neg).
 covidvaccine(it_0166_005119,1,3).
 fluvaccine(it_0166_005119,1).
 antipneumovaccine(it_0166_005119,0).
@@ -58444,7 +58444,7 @@ who_f2(it_0130_004832,0).
 who_f3(it_0130_004832,0).
 who_f4(it_0130_004832,1).
 typeofoutcome_updated(it_0130_004832,2).
-patient(it_0130_004832,pos).
+patient(it_0130_004832,neg).
 covidvaccine(it_0130_004832,1,3).
 fluvaccine(it_0130_004832,1).
 antipneumovaccine(it_0130_004832,1).
@@ -58475,7 +58475,7 @@ who_f2(it_0166_005097,0).
 who_f3(it_0166_005097,0).
 who_f4(it_0166_005097,1).
 typeofoutcome_updated(it_0166_005097,2).
-patient(it_0166_005097,pos).
+patient(it_0166_005097,neg).
 covidvaccine(it_0166_005097,1,3).
 fluvaccine(it_0166_005097,0).
 antipneumovaccine(it_0166_005097,0).
@@ -58507,7 +58507,7 @@ who_f2(it_0166_005116,0).
 who_f3(it_0166_005116,0).
 who_f4(it_0166_005116,1).
 typeofoutcome_updated(it_0166_005116,2).
-patient(it_0166_005116,pos).
+patient(it_0166_005116,neg).
 covidvaccine(it_0166_005116,1,3).
 fluvaccine(it_0166_005116,0).
 antipneumovaccine(it_0166_005116,0).
@@ -58534,7 +58534,7 @@ who_f2(it_0166_006233,0).
 who_f3(it_0166_006233,0).
 who_f4(it_0166_006233,1).
 typeofoutcome_updated(it_0166_006233,2).
-patient(it_0166_006233,pos).
+patient(it_0166_006233,neg).
 covidvaccine(it_0166_006233,1,3).
 fluvaccine(it_0166_006233,1).
 antipneumovaccine(it_0166_006233,0).
@@ -58562,7 +58562,7 @@ who_f2(it_0130_004885,0).
 who_f3(it_0130_004885,0).
 who_f4(it_0130_004885,1).
 typeofoutcome_updated(it_0130_004885,2).
-patient(it_0130_004885,pos).
+patient(it_0130_004885,neg).
 covidvaccine(it_0130_004885,1,3).
 fluvaccine(it_0130_004885,1).
 vzvvaccine(it_0130_004885,0).
@@ -58589,7 +58589,7 @@ who_f2(it_0130_004657,0).
 who_f3(it_0130_004657,0).
 who_f4(it_0130_004657,1).
 typeofoutcome_updated(it_0130_004657,2).
-patient(it_0130_004657,pos).
+patient(it_0130_004657,neg).
 covidvaccine(it_0130_004657,1,3).
 fluvaccine(it_0130_004657,1).
 vzvvaccine(it_0130_004657,0).
@@ -58613,7 +58613,7 @@ who_f2(it_0130_004834,0).
 who_f3(it_0130_004834,0).
 who_f4(it_0130_004834,1).
 typeofoutcome_updated(it_0130_004834,2).
-patient(it_0130_004834,pos).
+patient(it_0130_004834,neg).
 covidvaccine(it_0130_004834,1,3).
 fluvaccine(it_0130_004834,1).
 antipneumovaccine(it_0130_004834,0).
@@ -58640,7 +58640,7 @@ who_f2(it_0130_004836,0).
 who_f3(it_0130_004836,0).
 who_f4(it_0130_004836,1).
 typeofoutcome_updated(it_0130_004836,2).
-patient(it_0130_004836,pos).
+patient(it_0130_004836,neg).
 covidvaccine(it_0130_004836,1,3).
 fluvaccine(it_0130_004836,1).
 antipneumovaccine(it_0130_004836,1).
@@ -58663,7 +58663,7 @@ who_f2(it_0130_006268,0).
 who_f3(it_0130_006268,0).
 who_f4(it_0130_006268,1).
 typeofoutcome_updated(it_0130_006268,2).
-patient(it_0130_006268,pos).
+patient(it_0130_006268,neg).
 covidvaccine(it_0130_006268,1,3).
 fluvaccine(it_0130_006268,1).
 vzvvaccine(it_0130_006268,0).
@@ -58683,7 +58683,7 @@ who_f2(it_0130_004821,0).
 who_f3(it_0130_004821,0).
 who_f4(it_0130_004821,1).
 typeofoutcome_updated(it_0130_004821,2).
-patient(it_0130_004821,pos).
+patient(it_0130_004821,neg).
 covidvaccine(it_0130_004821,1,3).
 fluvaccine(it_0130_004821,1).
 antipneumovaccine(it_0130_004821,0).
@@ -58711,7 +58711,7 @@ who_f2(it_0130_004370,0).
 who_f3(it_0130_004370,0).
 who_f4(it_0130_004370,1).
 typeofoutcome_updated(it_0130_004370,2).
-patient(it_0130_004370,pos).
+patient(it_0130_004370,neg).
 covidvaccine(it_0130_004370,1,3).
 fluvaccine(it_0130_004370,1).
 antipneumovaccine(it_0130_004370,0).
@@ -58737,7 +58737,7 @@ who_f2(it_0130_004427,0).
 who_f3(it_0130_004427,0).
 who_f4(it_0130_004427,1).
 typeofoutcome_updated(it_0130_004427,2).
-patient(it_0130_004427,pos).
+patient(it_0130_004427,neg).
 covidvaccine(it_0130_004427,1,3).
 fluvaccine(it_0130_004427,1).
 antipneumovaccine(it_0130_004427,0).
@@ -58763,7 +58763,7 @@ who_f2(it_0130_004887,0).
 who_f3(it_0130_004887,9).
 who_f4(it_0130_004887,1).
 typeofoutcome_updated(it_0130_004887,2).
-patient(it_0130_004887,pos).
+patient(it_0130_004887,neg).
 covidvaccine(it_0130_004887,1,3).
 fluvaccine(it_0130_004887,1).
 vzvvaccine(it_0130_004887,0).
@@ -58847,7 +58847,7 @@ who_f2(it_0130_005214,0).
 who_f3(it_0130_005214,0).
 who_f4(it_0130_005214,1).
 typeofoutcome_updated(it_0130_005214,2).
-patient(it_0130_005214,pos).
+patient(it_0130_005214,neg).
 covidvaccine(it_0130_005214,1,3).
 fluvaccine(it_0130_005214,1).
 vzvvaccine(it_0130_005214,0).
@@ -58880,7 +58880,7 @@ who_f2(it_0166_005098,0).
 who_f3(it_0166_005098,0).
 who_f4(it_0166_005098,1).
 typeofoutcome_updated(it_0166_005098,2).
-patient(it_0166_005098,pos).
+patient(it_0166_005098,neg).
 covidvaccine(it_0166_005098,1,3).
 fluvaccine(it_0166_005098,0).
 antipneumovaccine(it_0166_005098,0).
@@ -58903,7 +58903,7 @@ who_f2(it_0143_005260,0).
 who_f3(it_0143_005260,1).
 who_f4(it_0143_005260,1).
 typeofoutcome_updated(it_0143_005260,2).
-patient(it_0143_005260,pos).
+patient(it_0143_005260,neg).
 covidvaccine(it_0143_005260,0,2).
 fluvaccine(it_0143_005260,0).
 
@@ -58926,7 +58926,7 @@ who_f2(it_0130_005304,0).
 who_f3(it_0130_005304,0).
 who_f4(it_0130_005304,1).
 typeofoutcome_updated(it_0130_005304,2).
-patient(it_0130_005304,pos).
+patient(it_0130_005304,neg).
 covidvaccine(it_0130_005304,1,3).
 fluvaccine(it_0130_005304,1).
 antipneumovaccine(it_0130_005304,1).
@@ -58947,7 +58947,7 @@ who_f2(it_0166_006234,0).
 who_f3(it_0166_006234,0).
 who_f4(it_0166_006234,1).
 typeofoutcome_updated(it_0166_006234,2).
-patient(it_0166_006234,pos).
+patient(it_0166_006234,neg).
 covidvaccine(it_0166_006234,1,3).
 antipneumovaccine(it_0166_006234,0).
 vzvvaccine(it_0166_006234,0).
@@ -58970,7 +58970,7 @@ who_f2(it_0123_005655,0).
 who_f3(it_0123_005655,0).
 who_f4(it_0123_005655,1).
 typeofoutcome_updated(it_0123_005655,2).
-patient(it_0123_005655,pos).
+patient(it_0123_005655,neg).
 covidvaccine(it_0123_005655,1,3).
 fluvaccine(it_0123_005655,1).
 antipneumovaccine(it_0123_005655,0).
@@ -59019,7 +59019,7 @@ who_f2(it_0130_004426,0).
 who_f3(it_0130_004426,0).
 who_f4(it_0130_004426,1).
 typeofoutcome_updated(it_0130_004426,2).
-patient(it_0130_004426,pos).
+patient(it_0130_004426,neg).
 covidvaccine(it_0130_004426,1,3).
 fluvaccine(it_0130_004426,0).
 antipneumovaccine(it_0130_004426,0).
@@ -59054,7 +59054,7 @@ who_f2(it_0021_004873,0).
 who_f3(it_0021_004873,0).
 who_f4(it_0021_004873,1).
 typeofoutcome_updated(it_0021_004873,2).
-patient(it_0021_004873,pos).
+patient(it_0021_004873,neg).
 covidvaccine(it_0021_004873,0,3).
 
 %patient: it-0042-003694 index:2412
@@ -59080,7 +59080,7 @@ who_f2(it_0042_003694,0).
 who_f3(it_0042_003694,0).
 who_f4(it_0042_003694,1).
 typeofoutcome_updated(it_0042_003694,2).
-patient(it_0042_003694,pos).
+patient(it_0042_003694,neg).
 covidvaccine(it_0042_003694,0,3).
 fluvaccine(it_0042_003694,1).
 antipneumovaccine(it_0042_003694,0).
@@ -59104,7 +59104,7 @@ who_f2(it_0130_005341,1).
 who_f3(it_0130_005341,1).
 who_f4(it_0130_005341,2).
 typeofoutcome_updated(it_0130_005341,2).
-patient(it_0130_005341,pos).
+patient(it_0130_005341,neg).
 covidvaccine(it_0130_005341,1,3).
 fluvaccine(it_0130_005341,1).
 antipneumovaccine(it_0130_005341,1).
@@ -59130,7 +59130,7 @@ who_f2(it_0130_005356,0).
 who_f3(it_0130_005356,0).
 who_f4(it_0130_005356,1).
 typeofoutcome_updated(it_0130_005356,2).
-patient(it_0130_005356,pos).
+patient(it_0130_005356,neg).
 covidvaccine(it_0130_005356,1,3).
 fluvaccine(it_0130_005356,1).
 vzvvaccine(it_0130_005356,0).
@@ -59159,7 +59159,7 @@ who_f2(it_0021_003843,0).
 who_f3(it_0021_003843,0).
 who_f4(it_0021_003843,1).
 typeofoutcome_updated(it_0021_003843,2).
-patient(it_0021_003843,pos).
+patient(it_0021_003843,neg).
 covidvaccine(it_0021_003843,0,3).
 fluvaccine(it_0021_003843,1).
 
@@ -59207,7 +59207,7 @@ who_f2(it_0130_005385,0).
 who_f3(it_0130_005385,0).
 who_f4(it_0130_005385,1).
 typeofoutcome_updated(it_0130_005385,2).
-patient(it_0130_005385,pos).
+patient(it_0130_005385,neg).
 covidvaccine(it_0130_005385,1,3).
 fluvaccine(it_0130_005385,1).
 vzvvaccine(it_0130_005385,0).
@@ -59270,7 +59270,7 @@ who_f2(it_0021_004586,0).
 who_f3(it_0021_004586,0).
 who_f4(it_0021_004586,1).
 typeofoutcome_updated(it_0021_004586,2).
-patient(it_0021_004586,pos).
+patient(it_0021_004586,neg).
 covidvaccine(it_0021_004586,0,3).
 
 %patient: it-0042-003636 index:2420
@@ -59299,7 +59299,7 @@ who_f2(it_0042_003636,0).
 who_f3(it_0042_003636,0).
 who_f4(it_0042_003636,1).
 typeofoutcome_updated(it_0042_003636,2).
-patient(it_0042_003636,pos).
+patient(it_0042_003636,neg).
 covidvaccine(it_0042_003636,0,3).
 
 %patient: it-0123-005652 index:2421
@@ -59327,7 +59327,7 @@ who_f2(it_0123_005652,0).
 who_f3(it_0123_005652,0).
 who_f4(it_0123_005652,1).
 typeofoutcome_updated(it_0123_005652,2).
-patient(it_0123_005652,pos).
+patient(it_0123_005652,neg).
 covidvaccine(it_0123_005652,0,3).
 fluvaccine(it_0123_005652,1).
 antipneumovaccine(it_0123_005652,0).
@@ -59509,7 +59509,7 @@ who_f2(it_0042_003729,0).
 who_f3(it_0042_003729,0).
 who_f4(it_0042_003729,1).
 typeofoutcome_updated(it_0042_003729,2).
-patient(it_0042_003729,pos).
+patient(it_0042_003729,neg).
 covidvaccine(it_0042_003729,0,3).
 fluvaccine(it_0042_003729,1).
 antipneumovaccine(it_0042_003729,0).
@@ -59534,7 +59534,7 @@ who_f2(it_0062_000202,0).
 who_f3(it_0062_000202,0).
 who_f4(it_0062_000202,1).
 typeofoutcome_updated(it_0062_000202,2).
-patient(it_0062_000202,pos).
+patient(it_0062_000202,neg).
 covidvaccine(it_0062_000202,0,3).
 fluvaccine(it_0062_000202,1).
 
@@ -59555,7 +59555,7 @@ who_f2(it_0062_000658,0).
 who_f3(it_0062_000658,0).
 who_f4(it_0062_000658,1).
 typeofoutcome_updated(it_0062_000658,2).
-patient(it_0062_000658,pos).
+patient(it_0062_000658,neg).
 covidvaccine(it_0062_000658,0,3).
 fluvaccine(it_0062_000658,1).
 antipneumovaccine(it_0062_000658,0).
@@ -59577,7 +59577,7 @@ who_f2(it_0062_000971,0).
 who_f3(it_0062_000971,0).
 who_f4(it_0062_000971,1).
 typeofoutcome_updated(it_0062_000971,2).
-patient(it_0062_000971,pos).
+patient(it_0062_000971,neg).
 covidvaccine(it_0062_000971,0,3).
 fluvaccine(it_0062_000971,1).
 antipneumovaccine(it_0062_000971,0).
@@ -59598,7 +59598,7 @@ who_f2(it_0062_000972,0).
 who_f3(it_0062_000972,0).
 who_f4(it_0062_000972,1).
 typeofoutcome_updated(it_0062_000972,2).
-patient(it_0062_000972,pos).
+patient(it_0062_000972,neg).
 covidvaccine(it_0062_000972,0,3).
 fluvaccine(it_0062_000972,1).
 antipneumovaccine(it_0062_000972,0).
@@ -59619,7 +59619,7 @@ who_f2(it_0062_000979,0).
 who_f3(it_0062_000979,0).
 who_f4(it_0062_000979,1).
 typeofoutcome_updated(it_0062_000979,2).
-patient(it_0062_000979,pos).
+patient(it_0062_000979,neg).
 covidvaccine(it_0062_000979,0,3).
 fluvaccine(it_0062_000979,1).
 antipneumovaccine(it_0062_000979,0).
@@ -59642,7 +59642,7 @@ who_f2(it_0062_001785,0).
 who_f3(it_0062_001785,0).
 who_f4(it_0062_001785,1).
 typeofoutcome_updated(it_0062_001785,2).
-patient(it_0062_001785,pos).
+patient(it_0062_001785,neg).
 covidvaccine(it_0062_001785,0,3).
 fluvaccine(it_0062_001785,1).
 
@@ -59661,7 +59661,7 @@ who_f2(it_0062_001807,0).
 who_f3(it_0062_001807,0).
 who_f4(it_0062_001807,1).
 typeofoutcome_updated(it_0062_001807,2).
-patient(it_0062_001807,pos).
+patient(it_0062_001807,neg).
 covidvaccine(it_0062_001807,0,3).
 antipneumovaccine(it_0062_001807,0).
 vzvvaccine(it_0062_001807,0).
@@ -59683,7 +59683,7 @@ who_f2(it_0062_001810,0).
 who_f3(it_0062_001810,0).
 who_f4(it_0062_001810,1).
 typeofoutcome_updated(it_0062_001810,2).
-patient(it_0062_001810,pos).
+patient(it_0062_001810,neg).
 covidvaccine(it_0062_001810,0,3).
 antipneumovaccine(it_0062_001810,0).
 vzvvaccine(it_0062_001810,0).
@@ -59704,7 +59704,7 @@ who_f2(it_0062_001811,0).
 who_f3(it_0062_001811,0).
 who_f4(it_0062_001811,1).
 typeofoutcome_updated(it_0062_001811,2).
-patient(it_0062_001811,pos).
+patient(it_0062_001811,neg).
 covidvaccine(it_0062_001811,0,3).
 fluvaccine(it_0062_001811,1).
 antipneumovaccine(it_0062_001811,0).
@@ -59727,7 +59727,7 @@ who_f2(it_0062_002172,0).
 who_f3(it_0062_002172,0).
 who_f4(it_0062_002172,1).
 typeofoutcome_updated(it_0062_002172,2).
-patient(it_0062_002172,pos).
+patient(it_0062_002172,neg).
 covidvaccine(it_0062_002172,0,3).
 fluvaccine(it_0062_002172,0).
 antipneumovaccine(it_0062_002172,0).
@@ -59749,7 +59749,7 @@ who_f2(it_0062_002299,0).
 who_f3(it_0062_002299,0).
 who_f4(it_0062_002299,1).
 typeofoutcome_updated(it_0062_002299,2).
-patient(it_0062_002299,pos).
+patient(it_0062_002299,neg).
 covidvaccine(it_0062_002299,0,3).
 fluvaccine(it_0062_002299,1).
 antipneumovaccine(it_0062_002299,0).
@@ -59772,7 +59772,7 @@ who_f2(it_0062_002303,0).
 who_f3(it_0062_002303,0).
 who_f4(it_0062_002303,1).
 typeofoutcome_updated(it_0062_002303,2).
-patient(it_0062_002303,pos).
+patient(it_0062_002303,neg).
 covidvaccine(it_0062_002303,0,3).
 fluvaccine(it_0062_002303,1).
 antipneumovaccine(it_0062_002303,0).
@@ -59824,7 +59824,7 @@ who_f2(it_0149_004359,0).
 who_f3(it_0149_004359,0).
 who_f4(it_0149_004359,1).
 typeofoutcome_updated(it_0149_004359,2).
-patient(it_0149_004359,pos).
+patient(it_0149_004359,neg).
 covidvaccine(it_0149_004359,0,2).
 fluvaccine(it_0149_004359,1).
 antipneumovaccine(it_0149_004359,0).
@@ -59954,7 +59954,7 @@ who_f2(it_0150_006031,0).
 who_f3(it_0150_006031,0).
 who_f4(it_0150_006031,0).
 typeofoutcome_updated(it_0150_006031,2).
-patient(it_0150_006031,pos).
+patient(it_0150_006031,neg).
 covidvaccine(it_0150_006031,0,3).
 fluvaccine(it_0150_006031,1).
 antipneumovaccine(it_0150_006031,1).
@@ -60192,7 +60192,7 @@ who_f2(it_0130_004431,9).
 who_f3(it_0130_004431,0).
 who_f4(it_0130_004431,1).
 typeofoutcome_updated(it_0130_004431,2).
-patient(it_0130_004431,pos).
+patient(it_0130_004431,neg).
 covidvaccine(it_0130_004431,1,3).
 fluvaccine(it_0130_004431,1).
 antipneumovaccine(it_0130_004431,0).
@@ -60477,7 +60477,7 @@ who_f2(it_0125_003974,0).
 who_f3(it_0125_003974,0).
 who_f4(it_0125_003974,1).
 typeofoutcome_updated(it_0125_003974,2).
-patient(it_0125_003974,pos).
+patient(it_0125_003974,neg).
 covidvaccine(it_0125_003974,0,3).
 fluvaccine(it_0125_003974,1).
 antipneumovaccine(it_0125_003974,1).
@@ -60571,7 +60571,7 @@ who_f2(it_0130_005303,0).
 who_f3(it_0130_005303,0).
 who_f4(it_0130_005303,2).
 typeofoutcome_updated(it_0130_005303,2).
-patient(it_0130_005303,pos).
+patient(it_0130_005303,neg).
 covidvaccine(it_0130_005303,1,3).
 fluvaccine(it_0130_005303,1).
 antipneumovaccine(it_0130_005303,1).
@@ -61571,7 +61571,7 @@ who_f2(it_0129_004747,9).
 who_f3(it_0129_004747,0).
 who_f4(it_0129_004747,1).
 typeofoutcome_updated(it_0129_004747,2).
-patient(it_0129_004747,pos).
+patient(it_0129_004747,neg).
 covidvaccine(it_0129_004747,0,2).
 fluvaccine(it_0129_004747,1).
 antipneumovaccine(it_0129_004747,0).
@@ -61600,7 +61600,7 @@ who_f2(it_0128_004714,9).
 who_f3(it_0128_004714,0).
 who_f4(it_0128_004714,1).
 typeofoutcome_updated(it_0128_004714,2).
-patient(it_0128_004714,pos).
+patient(it_0128_004714,neg).
 covidvaccine(it_0128_004714,0,2).
 fluvaccine(it_0128_004714,1).
 antipneumovaccine(it_0128_004714,0).
@@ -62025,7 +62025,7 @@ who_f2(it_0130_005383,0).
 who_f3(it_0130_005383,0).
 who_f4(it_0130_005383,1).
 typeofoutcome_updated(it_0130_005383,3).
-patient(it_0130_005383,pos).
+patient(it_0130_005383,neg).
 covidvaccine(it_0130_005383,1,3).
 vzvvaccine(it_0130_005383,0).
 
@@ -62077,7 +62077,7 @@ who_f2(it_0125_006130,0).
 who_f3(it_0125_006130,0).
 who_f4(it_0125_006130,1).
 typeofoutcome_updated(it_0125_006130,3).
-patient(it_0125_006130,pos).
+patient(it_0125_006130,neg).
 covidvaccine(it_0125_006130,0,3).
 fluvaccine(it_0125_006130,1).
 antipneumovaccine(it_0125_006130,0).
@@ -64231,7 +64231,7 @@ who_f2(it_0052_003860,1).
 who_f3(it_0052_003860,9).
 who_f4(it_0052_003860,9).
 typeofoutcome_updated(it_0052_003860,4).
-patient(it_0052_003860,pos).
+patient(it_0052_003860,neg).
 covidvaccine(it_0052_003860,0,2).
 fluvaccine(it_0052_003860,0).
 antipneumovaccine(it_0052_003860,0).
@@ -68474,7 +68474,7 @@ who_f2(it_0111_006347,9).
 who_f3(it_0111_006347,9).
 who_f4(it_0111_006347,9).
 typeofoutcome_updated(it_0111_006347,9).
-patient(it_0111_006347,pos).
+patient(it_0111_006347,neg).
 covidvaccine(it_0111_006347,0,1).
 fluvaccine(it_0111_006347,0).
 antipneumovaccine(it_0111_006347,0).
@@ -68963,7 +68963,7 @@ who_f2(it_0111_006275,9).
 who_f3(it_0111_006275,9).
 who_f4(it_0111_006275,9).
 typeofoutcome_updated(it_0111_006275,9).
-patient(it_0111_006275,pos).
+patient(it_0111_006275,neg).
 covidvaccine(it_0111_006275,0,1).
 fluvaccine(it_0111_006275,1).
 vzvvaccine(it_0111_006275,0).
@@ -70599,7 +70599,7 @@ who_f2(it_0126_005201,1).
 who_f3(it_0126_005201,9).
 who_f4(it_0126_005201,9).
 typeofoutcome_updated(it_0126_005201,9).
-patient(it_0126_005201,pos).
+patient(it_0126_005201,neg).
 covidvaccine(it_0126_005201,0,2).
 fluvaccine(it_0126_005201,1).
 antipneumovaccine(it_0126_005201,1).
@@ -71417,7 +71417,7 @@ who_f2(it_0103_005970,1).
 who_f3(it_0103_005970,1).
 who_f4(it_0103_005970,9).
 typeofoutcome_updated(it_0103_005970,9).
-patient(it_0103_005970,pos).
+patient(it_0103_005970,neg).
 covidvaccine(it_0103_005970,0,1).
 fluvaccine(it_0103_005970,1).
 antipneumovaccine(it_0103_005970,1).
@@ -71469,7 +71469,7 @@ who_f2(it_0103_005966,1).
 who_f3(it_0103_005966,1).
 who_f4(it_0103_005966,9).
 typeofoutcome_updated(it_0103_005966,9).
-patient(it_0103_005966,pos).
+patient(it_0103_005966,neg).
 covidvaccine(it_0103_005966,0,1).
 fluvaccine(it_0103_005966,1).
 antipneumovaccine(it_0103_005966,1).
@@ -71495,7 +71495,7 @@ who_f2(it_0103_005992,0).
 who_f3(it_0103_005992,1).
 who_f4(it_0103_005992,9).
 typeofoutcome_updated(it_0103_005992,9).
-patient(it_0103_005992,pos).
+patient(it_0103_005992,neg).
 covidvaccine(it_0103_005992,0,2).
 fluvaccine(it_0103_005992,1).
 antipneumovaccine(it_0103_005992,1).
@@ -71699,7 +71699,7 @@ who_f2(it_0103_005968,1).
 who_f3(it_0103_005968,1).
 who_f4(it_0103_005968,9).
 typeofoutcome_updated(it_0103_005968,9).
-patient(it_0103_005968,pos).
+patient(it_0103_005968,neg).
 covidvaccine(it_0103_005968,0,1).
 fluvaccine(it_0103_005968,1).
 antipneumovaccine(it_0103_005968,1).
@@ -76424,7 +76424,7 @@ who_f2(it_0103_005978,1).
 who_f3(it_0103_005978,1).
 who_f4(it_0103_005978,1).
 typeofoutcome_updated(it_0103_005978,9).
-patient(it_0103_005978,pos).
+patient(it_0103_005978,neg).
 covidvaccine(it_0103_005978,0,2).
 fluvaccine(it_0103_005978,1).
 antipneumovaccine(it_0103_005978,1).
@@ -76450,7 +76450,7 @@ who_f2(it_0103_005979,1).
 who_f3(it_0103_005979,1).
 who_f4(it_0103_005979,1).
 typeofoutcome_updated(it_0103_005979,9).
-patient(it_0103_005979,pos).
+patient(it_0103_005979,neg).
 covidvaccine(it_0103_005979,0,2).
 fluvaccine(it_0103_005979,1).
 antipneumovaccine(it_0103_005979,1).
@@ -77345,7 +77345,7 @@ who_f2(it_0103_006129,1).
 who_f3(it_0103_006129,1).
 who_f4(it_0103_006129,1).
 typeofoutcome_updated(it_0103_006129,9).
-patient(it_0103_006129,pos).
+patient(it_0103_006129,neg).
 covidvaccine(it_0103_006129,0,2).
 fluvaccine(it_0103_006129,1).
 antipneumovaccine(it_0103_006129,1).
@@ -77471,7 +77471,7 @@ who_f2(it_0103_005959,1).
 who_f3(it_0103_005959,1).
 who_f4(it_0103_005959,9).
 typeofoutcome_updated(it_0103_005959,9).
-patient(it_0103_005959,pos).
+patient(it_0103_005959,neg).
 covidvaccine(it_0103_005959,0,3).
 fluvaccine(it_0103_005959,1).
 antipneumovaccine(it_0103_005959,1).
@@ -77501,7 +77501,7 @@ who_f2(it_0103_006128,1).
 who_f3(it_0103_006128,1).
 who_f4(it_0103_006128,0).
 typeofoutcome_updated(it_0103_006128,9).
-patient(it_0103_006128,pos).
+patient(it_0103_006128,neg).
 covidvaccine(it_0103_006128,0,2).
 fluvaccine(it_0103_006128,1).
 antipneumovaccine(it_0103_006128,1).
@@ -77998,7 +77998,7 @@ who_f2(it_0051_006644,0).
 who_f3(it_0051_006644,0).
 who_f4(it_0051_006644,1).
 typeofoutcome_updated(it_0051_006644,9).
-patient(it_0051_006644,pos).
+patient(it_0051_006644,neg).
 covidvaccine(it_0051_006644,0,3).
 fluvaccine(it_0051_006644,0).
 antipneumovaccine(it_0051_006644,0).
@@ -78266,7 +78266,7 @@ who_f2(it_0168_005609,1).
 who_f3(it_0168_005609,1).
 who_f4(it_0168_005609,9).
 typeofoutcome_updated(it_0168_005609,9).
-patient(it_0168_005609,pos).
+patient(it_0168_005609,neg).
 covidvaccine(it_0168_005609,0,3).
 fluvaccine(it_0168_005609,1).
 antipneumovaccine(it_0168_005609,1).
@@ -78291,7 +78291,7 @@ who_f2(it_0168_005662,1).
 who_f3(it_0168_005662,1).
 who_f4(it_0168_005662,9).
 typeofoutcome_updated(it_0168_005662,9).
-patient(it_0168_005662,pos).
+patient(it_0168_005662,neg).
 covidvaccine(it_0168_005662,0,3).
 fluvaccine(it_0168_005662,1).
 antipneumovaccine(it_0168_005662,1).
@@ -78315,7 +78315,7 @@ who_f2(it_0168_005666,1).
 who_f3(it_0168_005666,1).
 who_f4(it_0168_005666,9).
 typeofoutcome_updated(it_0168_005666,9).
-patient(it_0168_005666,pos).
+patient(it_0168_005666,neg).
 covidvaccine(it_0168_005666,0,3).
 fluvaccine(it_0168_005666,1).
 antipneumovaccine(it_0168_005666,1).
@@ -78338,7 +78338,7 @@ who_f2(it_0168_005728,1).
 who_f3(it_0168_005728,1).
 who_f4(it_0168_005728,9).
 typeofoutcome_updated(it_0168_005728,9).
-patient(it_0168_005728,pos).
+patient(it_0168_005728,neg).
 covidvaccine(it_0168_005728,0,3).
 fluvaccine(it_0168_005728,1).
 antipneumovaccine(it_0168_005728,1).
@@ -78365,7 +78365,7 @@ who_f2(it_0168_005733,1).
 who_f3(it_0168_005733,1).
 who_f4(it_0168_005733,9).
 typeofoutcome_updated(it_0168_005733,9).
-patient(it_0168_005733,pos).
+patient(it_0168_005733,neg).
 covidvaccine(it_0168_005733,0,3).
 fluvaccine(it_0168_005733,1).
 antipneumovaccine(it_0168_005733,1).
@@ -78394,7 +78394,7 @@ who_f2(it_0168_005735,1).
 who_f3(it_0168_005735,1).
 who_f4(it_0168_005735,9).
 typeofoutcome_updated(it_0168_005735,9).
-patient(it_0168_005735,pos).
+patient(it_0168_005735,neg).
 covidvaccine(it_0168_005735,0,3).
 fluvaccine(it_0168_005735,1).
 antipneumovaccine(it_0168_005735,1).
@@ -78420,7 +78420,7 @@ who_f2(it_0168_005736,1).
 who_f3(it_0168_005736,1).
 who_f4(it_0168_005736,9).
 typeofoutcome_updated(it_0168_005736,9).
-patient(it_0168_005736,pos).
+patient(it_0168_005736,neg).
 covidvaccine(it_0168_005736,0,3).
 fluvaccine(it_0168_005736,1).
 antipneumovaccine(it_0168_005736,1).
@@ -78447,7 +78447,7 @@ who_f2(it_0168_005755,1).
 who_f3(it_0168_005755,1).
 who_f4(it_0168_005755,9).
 typeofoutcome_updated(it_0168_005755,9).
-patient(it_0168_005755,pos).
+patient(it_0168_005755,neg).
 covidvaccine(it_0168_005755,0,3).
 fluvaccine(it_0168_005755,1).
 antipneumovaccine(it_0168_005755,1).
@@ -78472,7 +78472,7 @@ who_f2(it_0168_005756,1).
 who_f3(it_0168_005756,1).
 who_f4(it_0168_005756,9).
 typeofoutcome_updated(it_0168_005756,9).
-patient(it_0168_005756,pos).
+patient(it_0168_005756,neg).
 covidvaccine(it_0168_005756,0,3).
 fluvaccine(it_0168_005756,1).
 antipneumovaccine(it_0168_005756,1).
@@ -78498,7 +78498,7 @@ who_f2(it_0168_005758,1).
 who_f3(it_0168_005758,1).
 who_f4(it_0168_005758,9).
 typeofoutcome_updated(it_0168_005758,9).
-patient(it_0168_005758,pos).
+patient(it_0168_005758,neg).
 covidvaccine(it_0168_005758,0,2).
 fluvaccine(it_0168_005758,1).
 antipneumovaccine(it_0168_005758,1).
@@ -78525,7 +78525,7 @@ who_f2(it_0168_005759,1).
 who_f3(it_0168_005759,1).
 who_f4(it_0168_005759,9).
 typeofoutcome_updated(it_0168_005759,9).
-patient(it_0168_005759,pos).
+patient(it_0168_005759,neg).
 covidvaccine(it_0168_005759,0,3).
 fluvaccine(it_0168_005759,1).
 antipneumovaccine(it_0168_005759,1).
@@ -78551,7 +78551,7 @@ who_f2(it_0168_005762,1).
 who_f3(it_0168_005762,1).
 who_f4(it_0168_005762,9).
 typeofoutcome_updated(it_0168_005762,9).
-patient(it_0168_005762,pos).
+patient(it_0168_005762,neg).
 covidvaccine(it_0168_005762,0,3).
 fluvaccine(it_0168_005762,1).
 antipneumovaccine(it_0168_005762,1).
@@ -78576,7 +78576,7 @@ who_f2(it_0168_005764,1).
 who_f3(it_0168_005764,1).
 who_f4(it_0168_005764,9).
 typeofoutcome_updated(it_0168_005764,9).
-patient(it_0168_005764,pos).
+patient(it_0168_005764,neg).
 covidvaccine(it_0168_005764,0,3).
 fluvaccine(it_0168_005764,1).
 antipneumovaccine(it_0168_005764,1).
@@ -78602,7 +78602,7 @@ who_f2(it_0168_005765,1).
 who_f3(it_0168_005765,1).
 who_f4(it_0168_005765,9).
 typeofoutcome_updated(it_0168_005765,9).
-patient(it_0168_005765,pos).
+patient(it_0168_005765,neg).
 covidvaccine(it_0168_005765,0,3).
 fluvaccine(it_0168_005765,1).
 antipneumovaccine(it_0168_005765,1).
@@ -78629,7 +78629,7 @@ who_f2(it_0168_005474,0).
 who_f3(it_0168_005474,1).
 who_f4(it_0168_005474,9).
 typeofoutcome_updated(it_0168_005474,9).
-patient(it_0168_005474,pos).
+patient(it_0168_005474,neg).
 covidvaccine(it_0168_005474,0,3).
 fluvaccine(it_0168_005474,1).
 antipneumovaccine(it_0168_005474,1).
@@ -78703,7 +78703,7 @@ who_f2(it_0123_005696,0).
 who_f3(it_0123_005696,0).
 who_f4(it_0123_005696,1).
 typeofoutcome_updated(it_0123_005696,9).
-patient(it_0123_005696,pos).
+patient(it_0123_005696,neg).
 covidvaccine(it_0123_005696,0,3).
 fluvaccine(it_0123_005696,0).
 antipneumovaccine(it_0123_005696,0).
@@ -78731,7 +78731,7 @@ who_f2(it_0143_005261,0).
 who_f3(it_0143_005261,1).
 who_f4(it_0143_005261,1).
 typeofoutcome_updated(it_0143_005261,9).
-patient(it_0143_005261,pos).
+patient(it_0143_005261,neg).
 covidvaccine(it_0143_005261,0,2).
 fluvaccine(it_0143_005261,0).
 
@@ -78756,7 +78756,7 @@ who_f2(it_0143_005243,0).
 who_f3(it_0143_005243,1).
 who_f4(it_0143_005243,1).
 typeofoutcome_updated(it_0143_005243,9).
-patient(it_0143_005243,pos).
+patient(it_0143_005243,neg).
 covidvaccine(it_0143_005243,0,2).
 fluvaccine(it_0143_005243,0).
 
@@ -78783,7 +78783,7 @@ who_f2(it_0166_005096,0).
 who_f3(it_0166_005096,0).
 who_f4(it_0166_005096,9).
 typeofoutcome_updated(it_0166_005096,9).
-patient(it_0166_005096,pos).
+patient(it_0166_005096,neg).
 covidvaccine(it_0166_005096,1,3).
 fluvaccine(it_0166_005096,0).
 antipneumovaccine(it_0166_005096,0).
@@ -78864,7 +78864,7 @@ who_f2(it_0051_006778,0).
 who_f3(it_0051_006778,0).
 who_f4(it_0051_006778,1).
 typeofoutcome_updated(it_0051_006778,9).
-patient(it_0051_006778,pos).
+patient(it_0051_006778,neg).
 covidvaccine(it_0051_006778,0,2).
 fluvaccine(it_0051_006778,0).
 antipneumovaccine(it_0051_006778,0).
@@ -78890,7 +78890,7 @@ who_f2(it_0051_006663,0).
 who_f3(it_0051_006663,0).
 who_f4(it_0051_006663,1).
 typeofoutcome_updated(it_0051_006663,9).
-patient(it_0051_006663,pos).
+patient(it_0051_006663,neg).
 covidvaccine(it_0051_006663,0,3).
 fluvaccine(it_0051_006663,1).
 antipneumovaccine(it_0051_006663,0).
@@ -78913,7 +78913,7 @@ who_f2(it_0051_006452,0).
 who_f3(it_0051_006452,0).
 who_f4(it_0051_006452,1).
 typeofoutcome_updated(it_0051_006452,9).
-patient(it_0051_006452,pos).
+patient(it_0051_006452,neg).
 covidvaccine(it_0051_006452,0,3).
 fluvaccine(it_0051_006452,0).
 antipneumovaccine(it_0051_006452,0).
@@ -79139,7 +79139,7 @@ who_f2(it_0051_006688,0).
 who_f3(it_0051_006688,0).
 who_f4(it_0051_006688,1).
 typeofoutcome_updated(it_0051_006688,9).
-patient(it_0051_006688,pos).
+patient(it_0051_006688,neg).
 covidvaccine(it_0051_006688,0,2).
 fluvaccine(it_0051_006688,1).
 antipneumovaccine(it_0051_006688,0).
@@ -79164,7 +79164,7 @@ who_f2(it_0051_006649,0).
 who_f3(it_0051_006649,0).
 who_f4(it_0051_006649,1).
 typeofoutcome_updated(it_0051_006649,9).
-patient(it_0051_006649,pos).
+patient(it_0051_006649,neg).
 covidvaccine(it_0051_006649,0,3).
 fluvaccine(it_0051_006649,1).
 antipneumovaccine(it_0051_006649,0).
@@ -79539,7 +79539,7 @@ who_f2(it_0128_004726,9).
 who_f3(it_0128_004726,0).
 who_f4(it_0128_004726,1).
 typeofoutcome_updated(it_0128_004726,9).
-patient(it_0128_004726,pos).
+patient(it_0128_004726,neg).
 covidvaccine(it_0128_004726,0,2).
 fluvaccine(it_0128_004726,1).
 antipneumovaccine(it_0128_004726,0).
@@ -79562,7 +79562,7 @@ who_f2(it_0111_006512,9).
 who_f3(it_0111_006512,9).
 who_f4(it_0111_006512,9).
 typeofoutcome_updated(it_0111_006512,9).
-patient(it_0111_006512,pos).
+patient(it_0111_006512,neg).
 covidvaccine(it_0111_006512,0,1).
 fluvaccine(it_0111_006512,1).
 antipneumovaccine(it_0111_006512,0).
@@ -79586,7 +79586,7 @@ who_f2(it_0124_005134,9).
 who_f3(it_0124_005134,9).
 who_f4(it_0124_005134,9).
 typeofoutcome_updated(it_0124_005134,9).
-patient(it_0124_005134,pos).
+patient(it_0124_005134,neg).
 covidvaccine(it_0124_005134,0,2).
 fluvaccine(it_0124_005134,1).
 antipneumovaccine(it_0124_005134,1).
@@ -79612,7 +79612,7 @@ who_f2(it_0124_005249,9).
 who_f3(it_0124_005249,9).
 who_f4(it_0124_005249,9).
 typeofoutcome_updated(it_0124_005249,9).
-patient(it_0124_005249,pos).
+patient(it_0124_005249,neg).
 covidvaccine(it_0124_005249,0,2).
 fluvaccine(it_0124_005249,1).
 antipneumovaccine(it_0124_005249,0).
@@ -79635,7 +79635,7 @@ who_f2(it_0124_005254,9).
 who_f3(it_0124_005254,9).
 who_f4(it_0124_005254,9).
 typeofoutcome_updated(it_0124_005254,9).
-patient(it_0124_005254,pos).
+patient(it_0124_005254,neg).
 covidvaccine(it_0124_005254,0,2).
 fluvaccine(it_0124_005254,1).
 antipneumovaccine(it_0124_005254,0).
@@ -79662,7 +79662,7 @@ who_f2(it_0124_005284,9).
 who_f3(it_0124_005284,9).
 who_f4(it_0124_005284,9).
 typeofoutcome_updated(it_0124_005284,9).
-patient(it_0124_005284,pos).
+patient(it_0124_005284,neg).
 covidvaccine(it_0124_005284,0,2).
 fluvaccine(it_0124_005284,1).
 antipneumovaccine(it_0124_005284,0).
@@ -79684,7 +79684,7 @@ who_f2(it_0111_005869,9).
 who_f3(it_0111_005869,9).
 who_f4(it_0111_005869,9).
 typeofoutcome_updated(it_0111_005869,9).
-patient(it_0111_005869,pos).
+patient(it_0111_005869,neg).
 covidvaccine(it_0111_005869,0,2).
 fluvaccine(it_0111_005869,1).
 antipneumovaccine(it_0111_005869,0).
@@ -79712,7 +79712,7 @@ who_f2(it_0124_005133,9).
 who_f3(it_0124_005133,9).
 who_f4(it_0124_005133,9).
 typeofoutcome_updated(it_0124_005133,9).
-patient(it_0124_005133,pos).
+patient(it_0124_005133,neg).
 covidvaccine(it_0124_005133,0,2).
 fluvaccine(it_0124_005133,1).
 antipneumovaccine(it_0124_005133,0).
@@ -79736,7 +79736,7 @@ who_f2(it_0124_005269,9).
 who_f3(it_0124_005269,9).
 who_f4(it_0124_005269,9).
 typeofoutcome_updated(it_0124_005269,9).
-patient(it_0124_005269,pos).
+patient(it_0124_005269,neg).
 covidvaccine(it_0124_005269,0,2).
 fluvaccine(it_0124_005269,1).
 antipneumovaccine(it_0124_005269,0).
@@ -79758,7 +79758,7 @@ who_f2(it_0111_006069,9).
 who_f3(it_0111_006069,9).
 who_f4(it_0111_006069,9).
 typeofoutcome_updated(it_0111_006069,9).
-patient(it_0111_006069,pos).
+patient(it_0111_006069,neg).
 covidvaccine(it_0111_006069,0,1).
 fluvaccine(it_0111_006069,1).
 vzvvaccine(it_0111_006069,0).
@@ -79784,7 +79784,7 @@ who_f2(it_0111_006274,9).
 who_f3(it_0111_006274,9).
 who_f4(it_0111_006274,9).
 typeofoutcome_updated(it_0111_006274,9).
-patient(it_0111_006274,pos).
+patient(it_0111_006274,neg).
 covidvaccine(it_0111_006274,0,1).
 fluvaccine(it_0111_006274,0).
 antipneumovaccine(it_0111_006274,0).
@@ -79806,7 +79806,7 @@ who_f2(it_0111_006352,9).
 who_f3(it_0111_006352,9).
 who_f4(it_0111_006352,9).
 typeofoutcome_updated(it_0111_006352,9).
-patient(it_0111_006352,pos).
+patient(it_0111_006352,neg).
 covidvaccine(it_0111_006352,0,1).
 fluvaccine(it_0111_006352,0).
 antipneumovaccine(it_0111_006352,0).
@@ -79833,7 +79833,7 @@ who_f2(it_0111_006270,9).
 who_f3(it_0111_006270,9).
 who_f4(it_0111_006270,9).
 typeofoutcome_updated(it_0111_006270,9).
-patient(it_0111_006270,pos).
+patient(it_0111_006270,neg).
 covidvaccine(it_0111_006270,0,2).
 fluvaccine(it_0111_006270,0).
 antipneumovaccine(it_0111_006270,0).

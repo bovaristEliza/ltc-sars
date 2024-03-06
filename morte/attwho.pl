@@ -16,6 +16,7 @@ who_f2(it_0143_006623,0).
 who_f3(it_0143_006623,1).
 who_f4(it_0143_006623,9).
 typeofoutcome_updated(it_0143_006623,0).
+vaccine(it_0143_006623,0,2).
 patient(it_0143_006623,neg).
 
 %patient: it-0141-005810 index:1
@@ -37,6 +38,7 @@ who_f2(it_0141_005810,0).
 who_f3(it_0141_005810,0).
 who_f4(it_0141_005810,0).
 typeofoutcome_updated(it_0141_005810,0).
+vaccine(it_0141_005810,0,3).
 patient(it_0141_005810,neg).
 
 %patient: it-0141-005393 index:2
@@ -61,6 +63,7 @@ who_f2(it_0141_005393,0).
 who_f3(it_0141_005393,0).
 who_f4(it_0141_005393,1).
 typeofoutcome_updated(it_0141_005393,0).
+vaccine(it_0141_005393,0,3).
 patient(it_0141_005393,neg).
 
 %patient: it-0141-005394 index:3
@@ -83,6 +86,7 @@ who_f2(it_0141_005394,0).
 who_f3(it_0141_005394,0).
 who_f4(it_0141_005394,1).
 typeofoutcome_updated(it_0141_005394,0).
+vaccine(it_0141_005394,0,3).
 patient(it_0141_005394,neg).
 
 %patient: it-0141-005399 index:4
@@ -106,6 +110,7 @@ who_f2(it_0141_005399,0).
 who_f3(it_0141_005399,0).
 who_f4(it_0141_005399,1).
 typeofoutcome_updated(it_0141_005399,0).
+vaccine(it_0141_005399,0,3).
 patient(it_0141_005399,neg).
 
 %patient: it-0103-006123 index:5
@@ -127,6 +132,7 @@ who_f2(it_0103_006123,9).
 who_f3(it_0103_006123,1).
 who_f4(it_0103_006123,1).
 typeofoutcome_updated(it_0103_006123,0).
+vaccine(it_0103_006123,0,2).
 patient(it_0103_006123,neg).
 
 %patient: it-0103-006137 index:6
@@ -147,6 +153,7 @@ who_f2(it_0103_006137,1).
 who_f3(it_0103_006137,1).
 who_f4(it_0103_006137,1).
 typeofoutcome_updated(it_0103_006137,0).
+vaccine(it_0103_006137,0,2).
 patient(it_0103_006137,neg).
 
 %patient: it-0154-004787 index:7
@@ -161,6 +168,7 @@ who_f2(it_0154_004787,9).
 who_f3(it_0154_004787,9).
 who_f4(it_0154_004787,9).
 typeofoutcome_updated(it_0154_004787,9).
+vaccine(it_0154_004787,0,2).
 patient(it_0154_004787,neg).
 
 %patient: it-0155-006575 index:8
@@ -174,6 +182,7 @@ who_f2(it_0155_006575,9).
 who_f3(it_0155_006575,9).
 who_f4(it_0155_006575,9).
 typeofoutcome_updated(it_0155_006575,1).
+vaccine(it_0155_006575,0,1).
 patient(it_0155_006575,pos).
 
 %patient: it-0062-004334 index:9
@@ -187,6 +196,7 @@ who_f2(it_0062_004334,9).
 who_f3(it_0062_004334,9).
 who_f4(it_0062_004334,9).
 typeofoutcome_updated(it_0062_004334,1).
+vaccine(it_0062_004334,0,2).
 patient(it_0062_004334,pos).
 
 %patient: it-0153-004773 index:10
@@ -201,6 +211,7 @@ who_f2(it_0153_004773,9).
 who_f3(it_0153_004773,9).
 who_f4(it_0153_004773,9).
 typeofoutcome_updated(it_0153_004773,1).
+vaccine(it_0153_004773,0,2).
 patient(it_0153_004773,pos).
 
 %patient: it-0153-004782 index:11
@@ -215,6 +226,7 @@ who_f2(it_0153_004782,9).
 who_f3(it_0153_004782,9).
 who_f4(it_0153_004782,9).
 typeofoutcome_updated(it_0153_004782,1).
+vaccine(it_0153_004782,0,2).
 patient(it_0153_004782,pos).
 
 %patient: it-0154-004816 index:12
@@ -229,6 +241,7 @@ who_f2(it_0154_004816,9).
 who_f3(it_0154_004816,9).
 who_f4(it_0154_004816,9).
 typeofoutcome_updated(it_0154_004816,1).
+vaccine(it_0154_004816,0,2).
 patient(it_0154_004816,pos).
 
 %patient: it-0154-004817 index:13
@@ -243,6 +256,7 @@ who_f2(it_0154_004817,9).
 who_f3(it_0154_004817,9).
 who_f4(it_0154_004817,9).
 typeofoutcome_updated(it_0154_004817,1).
+vaccine(it_0154_004817,0,2).
 patient(it_0154_004817,pos).
 
 %patient: it-0044-003650 index:14
@@ -260,6 +274,7 @@ who_f2(it_0044_003650,9).
 who_f3(it_0044_003650,9).
 who_f4(it_0044_003650,9).
 typeofoutcome_updated(it_0044_003650,1).
+vaccine(it_0044_003650,0,2).
 patient(it_0044_003650,pos).
 
 %patient: it-0062-004335 index:15
@@ -273,6 +288,7 @@ who_f2(it_0062_004335,0).
 who_f3(it_0062_004335,9).
 who_f4(it_0062_004335,9).
 typeofoutcome_updated(it_0062_004335,1).
+vaccine(it_0062_004335,0,2).
 patient(it_0062_004335,pos).
 
 %patient: it-0062-004382 index:16
@@ -286,6 +302,7 @@ who_f2(it_0062_004382,0).
 who_f3(it_0062_004382,9).
 who_f4(it_0062_004382,9).
 typeofoutcome_updated(it_0062_004382,1).
+vaccine(it_0062_004382,0,2).
 patient(it_0062_004382,pos).
 
 %patient: it-0062-004386 index:17
@@ -299,6 +316,7 @@ who_f2(it_0062_004386,0).
 who_f3(it_0062_004386,9).
 who_f4(it_0062_004386,9).
 typeofoutcome_updated(it_0062_004386,1).
+vaccine(it_0062_004386,0,2).
 patient(it_0062_004386,pos).
 
 %patient: it-0062-004441 index:18
@@ -312,6 +330,7 @@ who_f2(it_0062_004441,0).
 who_f3(it_0062_004441,9).
 who_f4(it_0062_004441,9).
 typeofoutcome_updated(it_0062_004441,1).
+vaccine(it_0062_004441,0,2).
 patient(it_0062_004441,pos).
 
 %patient: it-0155-004194 index:19
@@ -326,6 +345,7 @@ who_f2(it_0155_004194,0).
 who_f3(it_0155_004194,9).
 who_f4(it_0155_004194,9).
 typeofoutcome_updated(it_0155_004194,1).
+vaccine(it_0155_004194,0,2).
 patient(it_0155_004194,pos).
 
 %patient: it-0129-004686 index:20
@@ -339,6 +359,7 @@ who_f2(it_0129_004686,0).
 who_f3(it_0129_004686,9).
 who_f4(it_0129_004686,9).
 typeofoutcome_updated(it_0129_004686,1).
+vaccine(it_0129_004686,0,2).
 patient(it_0129_004686,pos).
 
 %patient: it-0143-004854 index:21
@@ -353,6 +374,7 @@ who_f2(it_0143_004854,0).
 who_f3(it_0143_004854,9).
 who_f4(it_0143_004854,9).
 typeofoutcome_updated(it_0143_004854,1).
+vaccine(it_0143_004854,0,1).
 patient(it_0143_004854,pos).
 
 %patient: it-0153-004775 index:22
@@ -369,6 +391,7 @@ who_f2(it_0153_004775,0).
 who_f3(it_0153_004775,9).
 who_f4(it_0153_004775,9).
 typeofoutcome_updated(it_0153_004775,1).
+vaccine(it_0153_004775,0,2).
 patient(it_0153_004775,pos).
 
 %patient: it-0154-004791 index:23
@@ -385,6 +408,7 @@ who_f2(it_0154_004791,0).
 who_f3(it_0154_004791,9).
 who_f4(it_0154_004791,9).
 typeofoutcome_updated(it_0154_004791,1).
+vaccine(it_0154_004791,0,2).
 patient(it_0154_004791,pos).
 
 %patient: it-0154-004804 index:24
@@ -398,6 +422,7 @@ who_f2(it_0154_004804,0).
 who_f3(it_0154_004804,9).
 who_f4(it_0154_004804,9).
 typeofoutcome_updated(it_0154_004804,1).
+vaccine(it_0154_004804,0,2).
 patient(it_0154_004804,pos).
 
 %patient: it-0154-004815 index:25
@@ -414,6 +439,7 @@ who_f2(it_0154_004815,0).
 who_f3(it_0154_004815,9).
 who_f4(it_0154_004815,9).
 typeofoutcome_updated(it_0154_004815,1).
+vaccine(it_0154_004815,0,2).
 patient(it_0154_004815,pos).
 
 %patient: it-0003-003761 index:26
@@ -432,6 +458,7 @@ who_f2(it_0003_003761,0).
 who_f3(it_0003_003761,0).
 who_f4(it_0003_003761,9).
 typeofoutcome_updated(it_0003_003761,1).
+vaccine(it_0003_003761,0,2).
 patient(it_0003_003761,pos).
 
 %patient: it-0062-004328 index:27
@@ -445,6 +472,7 @@ who_f2(it_0062_004328,0).
 who_f3(it_0062_004328,0).
 who_f4(it_0062_004328,9).
 typeofoutcome_updated(it_0062_004328,1).
+vaccine(it_0062_004328,0,2).
 patient(it_0062_004328,pos).
 
 %patient: it-0062-004377 index:28
@@ -458,6 +486,7 @@ who_f2(it_0062_004377,0).
 who_f3(it_0062_004377,0).
 who_f4(it_0062_004377,9).
 typeofoutcome_updated(it_0062_004377,1).
+vaccine(it_0062_004377,0,2).
 patient(it_0062_004377,pos).
 
 %patient: it-0062-004440 index:29
@@ -471,6 +500,7 @@ who_f2(it_0062_004440,0).
 who_f3(it_0062_004440,0).
 who_f4(it_0062_004440,9).
 typeofoutcome_updated(it_0062_004440,1).
+vaccine(it_0062_004440,0,2).
 patient(it_0062_004440,pos).
 
 %patient: it-0155-004190 index:30
@@ -484,6 +514,7 @@ who_f2(it_0155_004190,0).
 who_f3(it_0155_004190,0).
 who_f4(it_0155_004190,9).
 typeofoutcome_updated(it_0155_004190,1).
+vaccine(it_0155_004190,0,2).
 patient(it_0155_004190,pos).
 
 %patient: it-0153-004763 index:31
@@ -502,6 +533,7 @@ who_f2(it_0153_004763,0).
 who_f3(it_0153_004763,0).
 who_f4(it_0153_004763,9).
 typeofoutcome_updated(it_0153_004763,1).
+vaccine(it_0153_004763,0,2).
 patient(it_0153_004763,pos).
 
 %patient: it-0153-004765 index:32
@@ -516,6 +548,7 @@ who_f2(it_0153_004765,0).
 who_f3(it_0153_004765,0).
 who_f4(it_0153_004765,9).
 typeofoutcome_updated(it_0153_004765,1).
+vaccine(it_0153_004765,0,2).
 patient(it_0153_004765,pos).
 
 %patient: it-0153-004766 index:33
@@ -532,6 +565,7 @@ who_f2(it_0153_004766,0).
 who_f3(it_0153_004766,0).
 who_f4(it_0153_004766,9).
 typeofoutcome_updated(it_0153_004766,1).
+vaccine(it_0153_004766,0,2).
 patient(it_0153_004766,pos).
 
 %patient: it-0153-004776 index:34
@@ -548,6 +582,7 @@ who_f2(it_0153_004776,0).
 who_f3(it_0153_004776,0).
 who_f4(it_0153_004776,9).
 typeofoutcome_updated(it_0153_004776,1).
+vaccine(it_0153_004776,0,2).
 patient(it_0153_004776,pos).
 
 %patient: it-0154-004789 index:35
@@ -566,6 +601,7 @@ who_f2(it_0154_004789,0).
 who_f3(it_0154_004789,0).
 who_f4(it_0154_004789,9).
 typeofoutcome_updated(it_0154_004789,1).
+vaccine(it_0154_004789,0,2).
 patient(it_0154_004789,pos).
 
 %patient: it-0154-004809 index:36
@@ -584,6 +620,7 @@ who_f2(it_0154_004809,0).
 who_f3(it_0154_004809,0).
 who_f4(it_0154_004809,9).
 typeofoutcome_updated(it_0154_004809,1).
+vaccine(it_0154_004809,0,2).
 patient(it_0154_004809,pos).
 
 %patient: it-0154-004810 index:37
@@ -602,6 +639,7 @@ who_f2(it_0154_004810,0).
 who_f3(it_0154_004810,0).
 who_f4(it_0154_004810,9).
 typeofoutcome_updated(it_0154_004810,1).
+vaccine(it_0154_004810,0,2).
 patient(it_0154_004810,pos).
 
 %patient: it-0062-004330 index:38
@@ -615,6 +653,7 @@ who_f2(it_0062_004330,0).
 who_f3(it_0062_004330,0).
 who_f4(it_0062_004330,9).
 typeofoutcome_updated(it_0062_004330,1).
+vaccine(it_0062_004330,0,3).
 patient(it_0062_004330,pos).
 
 %patient: it-0062-004337 index:39
@@ -628,6 +667,7 @@ who_f2(it_0062_004337,0).
 who_f3(it_0062_004337,0).
 who_f4(it_0062_004337,9).
 typeofoutcome_updated(it_0062_004337,1).
+vaccine(it_0062_004337,0,3).
 patient(it_0062_004337,pos).
 
 %patient: it-0062-004383 index:40
@@ -641,6 +681,7 @@ who_f2(it_0062_004383,0).
 who_f3(it_0062_004383,0).
 who_f4(it_0062_004383,9).
 typeofoutcome_updated(it_0062_004383,1).
+vaccine(it_0062_004383,0,3).
 patient(it_0062_004383,pos).
 
 %patient: it-0062-004434 index:41
@@ -654,6 +695,7 @@ who_f2(it_0062_004434,0).
 who_f3(it_0062_004434,0).
 who_f4(it_0062_004434,9).
 typeofoutcome_updated(it_0062_004434,1).
+vaccine(it_0062_004434,0,3).
 patient(it_0062_004434,pos).
 
 %patient: it-0062-004446 index:42
@@ -667,6 +709,7 @@ who_f2(it_0062_004446,0).
 who_f3(it_0062_004446,0).
 who_f4(it_0062_004446,9).
 typeofoutcome_updated(it_0062_004446,1).
+vaccine(it_0062_004446,0,3).
 patient(it_0062_004446,pos).
 
 %patient: it-0154-004811 index:43
@@ -685,6 +728,7 @@ who_f2(it_0154_004811,0).
 who_f3(it_0154_004811,0).
 who_f4(it_0154_004811,9).
 typeofoutcome_updated(it_0154_004811,1).
+vaccine(it_0154_004811,0,3).
 patient(it_0154_004811,pos).
 
 %patient: it-0165-005571 index:44
@@ -701,6 +745,7 @@ who_f2(it_0165_005571,9).
 who_f3(it_0165_005571,0).
 who_f4(it_0165_005571,9).
 typeofoutcome_updated(it_0165_005571,1).
+vaccine(it_0165_005571,0,2).
 patient(it_0165_005571,pos).
 
 %patient: it-0129-004689 index:45
@@ -717,6 +762,7 @@ who_f2(it_0129_004689,9).
 who_f3(it_0129_004689,0).
 who_f4(it_0129_004689,9).
 typeofoutcome_updated(it_0129_004689,1).
+vaccine(it_0129_004689,0,2).
 patient(it_0129_004689,pos).
 
 %patient: it-0152-005046 index:46
@@ -737,6 +783,7 @@ who_f2(it_0152_005046,0).
 who_f3(it_0152_005046,0).
 who_f4(it_0152_005046,9).
 typeofoutcome_updated(it_0152_005046,1).
+vaccine(it_0152_005046,0,2).
 patient(it_0152_005046,pos).
 
 %patient: it-0152-005075 index:47
@@ -753,6 +800,7 @@ who_f2(it_0152_005075,0).
 who_f3(it_0152_005075,0).
 who_f4(it_0152_005075,9).
 typeofoutcome_updated(it_0152_005075,1).
+vaccine(it_0152_005075,0,2).
 patient(it_0152_005075,pos).
 
 %patient: it-0152-004996 index:48
@@ -769,6 +817,7 @@ who_f2(it_0152_004996,0).
 who_f3(it_0152_004996,0).
 who_f4(it_0152_004996,9).
 typeofoutcome_updated(it_0152_004996,1).
+vaccine(it_0152_004996,0,2).
 patient(it_0152_004996,pos).
 
 %patient: it-0143-005322 index:49
@@ -784,6 +833,7 @@ who_f2(it_0143_005322,0).
 who_f3(it_0143_005322,1).
 who_f4(it_0143_005322,9).
 typeofoutcome_updated(it_0143_005322,1).
+vaccine(it_0143_005322,0,2).
 patient(it_0143_005322,pos).
 
 %patient: it-0152-005552 index:50
@@ -801,6 +851,7 @@ who_f2(it_0152_005552,0).
 who_f3(it_0152_005552,0).
 who_f4(it_0152_005552,0).
 typeofoutcome_updated(it_0152_005552,1).
+vaccine(it_0152_005552,0,2).
 patient(it_0152_005552,pos).
 
 %patient: it-0165-005565 index:51
@@ -819,6 +870,7 @@ who_f2(it_0165_005565,9).
 who_f3(it_0165_005565,0).
 who_f4(it_0165_005565,4).
 typeofoutcome_updated(it_0165_005565,1).
+vaccine(it_0165_005565,0,2).
 patient(it_0165_005565,pos).
 
 %patient: it-0129-004677 index:52
@@ -835,6 +887,7 @@ who_f2(it_0129_004677,0).
 who_f3(it_0129_004677,9).
 who_f4(it_0129_004677,9).
 typeofoutcome_updated(it_0129_004677,1).
+vaccine(it_0129_004677,0,2).
 patient(it_0129_004677,pos).
 
 %patient: it-0061-006534 index:53
@@ -857,6 +910,7 @@ who_f2(it_0061_006534,4).
 who_f3(it_0061_006534,9).
 who_f4(it_0061_006534,9).
 typeofoutcome_updated(it_0061_006534,1).
+vaccine(it_0061_006534,0,1).
 patient(it_0061_006534,pos).
 
 %patient: it-0045-005291 index:54
@@ -874,6 +928,7 @@ who_f2(it_0045_005291,9).
 who_f3(it_0045_005291,9).
 who_f4(it_0045_005291,9).
 typeofoutcome_updated(it_0045_005291,1).
+vaccine(it_0045_005291,0,1).
 patient(it_0045_005291,pos).
 
 %patient: it-0155-006574 index:55
@@ -892,6 +947,7 @@ who_f2(it_0155_006574,9).
 who_f3(it_0155_006574,9).
 who_f4(it_0155_006574,9).
 typeofoutcome_updated(it_0155_006574,1).
+vaccine(it_0155_006574,0,2).
 patient(it_0155_006574,pos).
 
 %patient: it-0108-002691 index:56
@@ -908,6 +964,7 @@ mmsumrev(it_0108_002691,3).
 excovidtot(it_0108_002691).
 who_f1(it_0108_002691,9).
 typeofoutcome_updated(it_0108_002691,1).
+vaccine(it_0108_002691,0,2).
 patient(it_0108_002691,pos).
 
 %patient: it-0143-004090 index:57
@@ -932,6 +989,7 @@ who_f2(it_0143_004090,9).
 who_f3(it_0143_004090,9).
 who_f4(it_0143_004090,9).
 typeofoutcome_updated(it_0143_004090,1).
+vaccine(it_0143_004090,0,1).
 patient(it_0143_004090,pos).
 
 %patient: it-0017-003758 index:58
@@ -958,6 +1016,7 @@ who_f2(it_0017_003758,9).
 who_f3(it_0017_003758,9).
 who_f4(it_0017_003758,9).
 typeofoutcome_updated(it_0017_003758,1).
+vaccine(it_0017_003758,0,1).
 patient(it_0017_003758,pos).
 
 %patient: it-0020-003778 index:59
@@ -981,6 +1040,7 @@ who_f2(it_0020_003778,9).
 who_f3(it_0020_003778,9).
 who_f4(it_0020_003778,9).
 typeofoutcome_updated(it_0020_003778,1).
+vaccine(it_0020_003778,0,1).
 patient(it_0020_003778,pos).
 
 %patient: it-0021-003839 index:60
@@ -1004,6 +1064,7 @@ who_f2(it_0021_003839,9).
 who_f3(it_0021_003839,9).
 who_f4(it_0021_003839,9).
 typeofoutcome_updated(it_0021_003839,1).
+vaccine(it_0021_003839,0,1).
 patient(it_0021_003839,pos).
 
 %patient: it-0030-005601 index:61
@@ -1020,6 +1081,7 @@ who_f2(it_0030_005601,9).
 who_f3(it_0030_005601,9).
 who_f4(it_0030_005601,9).
 typeofoutcome_updated(it_0030_005601,1).
+vaccine(it_0030_005601,0,1).
 patient(it_0030_005601,pos).
 
 %patient: it-0043-005210 index:62
@@ -1045,6 +1107,7 @@ who_f2(it_0043_005210,9).
 who_f3(it_0043_005210,9).
 who_f4(it_0043_005210,9).
 typeofoutcome_updated(it_0043_005210,1).
+vaccine(it_0043_005210,0,1).
 patient(it_0043_005210,pos).
 
 %patient: it-0045-005747 index:63
@@ -1064,6 +1127,7 @@ who_f2(it_0045_005747,9).
 who_f3(it_0045_005747,9).
 who_f4(it_0045_005747,9).
 typeofoutcome_updated(it_0045_005747,1).
+vaccine(it_0045_005747,0,1).
 patient(it_0045_005747,pos).
 
 %patient: it-0132-004283 index:64
@@ -1085,6 +1149,7 @@ who_f2(it_0132_004283,9).
 who_f3(it_0132_004283,9).
 who_f4(it_0132_004283,9).
 typeofoutcome_updated(it_0132_004283,1).
+vaccine(it_0132_004283,0,1).
 patient(it_0132_004283,pos).
 
 %patient: it-0134-004938 index:65
@@ -1103,6 +1168,7 @@ who_f2(it_0134_004938,9).
 who_f3(it_0134_004938,9).
 who_f4(it_0134_004938,9).
 typeofoutcome_updated(it_0134_004938,1).
+vaccine(it_0134_004938,0,1).
 patient(it_0134_004938,pos).
 
 %patient: it-0136-006416 index:66
@@ -1120,6 +1186,7 @@ who_f2(it_0136_006416,9).
 who_f3(it_0136_006416,9).
 who_f4(it_0136_006416,9).
 typeofoutcome_updated(it_0136_006416,1).
+vaccine(it_0136_006416,0,1).
 patient(it_0136_006416,pos).
 
 %patient: it-0136-006417 index:67
@@ -1140,6 +1207,7 @@ who_f2(it_0136_006417,9).
 who_f3(it_0136_006417,9).
 who_f4(it_0136_006417,9).
 typeofoutcome_updated(it_0136_006417,1).
+vaccine(it_0136_006417,0,2).
 patient(it_0136_006417,pos).
 
 %patient: it-0143-005258 index:68
@@ -1159,6 +1227,7 @@ who_f2(it_0143_005258,9).
 who_f3(it_0143_005258,9).
 who_f4(it_0143_005258,9).
 typeofoutcome_updated(it_0143_005258,1).
+vaccine(it_0143_005258,0,1).
 patient(it_0143_005258,pos).
 
 %patient: it-0143-005270 index:69
@@ -1177,6 +1246,7 @@ who_f2(it_0143_005270,9).
 who_f3(it_0143_005270,9).
 who_f4(it_0143_005270,9).
 typeofoutcome_updated(it_0143_005270,1).
+vaccine(it_0143_005270,0,1).
 patient(it_0143_005270,pos).
 
 %patient: it-0143-006190 index:70
@@ -1195,6 +1265,7 @@ who_f2(it_0143_006190,9).
 who_f3(it_0143_006190,9).
 who_f4(it_0143_006190,9).
 typeofoutcome_updated(it_0143_006190,1).
+vaccine(it_0143_006190,0,1).
 patient(it_0143_006190,pos).
 
 %patient: it-0143-006198 index:71
@@ -1218,6 +1289,7 @@ who_f2(it_0143_006198,9).
 who_f3(it_0143_006198,9).
 who_f4(it_0143_006198,9).
 typeofoutcome_updated(it_0143_006198,1).
+vaccine(it_0143_006198,0,1).
 patient(it_0143_006198,pos).
 
 %patient: it-0143-006280 index:72
@@ -1238,6 +1310,7 @@ who_f2(it_0143_006280,9).
 who_f3(it_0143_006280,9).
 who_f4(it_0143_006280,9).
 typeofoutcome_updated(it_0143_006280,1).
+vaccine(it_0143_006280,0,1).
 patient(it_0143_006280,pos).
 
 %patient: it-0144-006854 index:73
@@ -1264,6 +1337,7 @@ who_f2(it_0144_006854,9).
 who_f3(it_0144_006854,9).
 who_f4(it_0144_006854,9).
 typeofoutcome_updated(it_0144_006854,1).
+vaccine(it_0144_006854,0,1).
 patient(it_0144_006854,pos).
 
 %patient: it-0145-006866 index:74
@@ -1284,6 +1358,7 @@ who_f2(it_0145_006866,9).
 who_f3(it_0145_006866,9).
 who_f4(it_0145_006866,9).
 typeofoutcome_updated(it_0145_006866,1).
+vaccine(it_0145_006866,0,2).
 patient(it_0145_006866,pos).
 
 %patient: it-0145-006892 index:75
@@ -1306,6 +1381,7 @@ who_f2(it_0145_006892,9).
 who_f3(it_0145_006892,9).
 who_f4(it_0145_006892,9).
 typeofoutcome_updated(it_0145_006892,1).
+vaccine(it_0145_006892,0,1).
 patient(it_0145_006892,pos).
 
 %patient: it-0166-004978 index:76
@@ -1332,6 +1408,7 @@ who_f2(it_0166_004978,9).
 who_f3(it_0166_004978,9).
 who_f4(it_0166_004978,9).
 typeofoutcome_updated(it_0166_004978,1).
+vaccine(it_0166_004978,1,1).
 patient(it_0166_004978,pos).
 
 %patient: it-0167-006817 index:77
@@ -1349,6 +1426,7 @@ who_f2(it_0167_006817,9).
 who_f3(it_0167_006817,9).
 who_f4(it_0167_006817,9).
 typeofoutcome_updated(it_0167_006817,1).
+vaccine(it_0167_006817,1,1).
 patient(it_0167_006817,pos).
 
 %patient: it-0061-006485 index:78
@@ -1374,6 +1452,7 @@ who_f2(it_0061_006485,9).
 who_f3(it_0061_006485,9).
 who_f4(it_0061_006485,9).
 typeofoutcome_updated(it_0061_006485,1).
+vaccine(it_0061_006485,0,1).
 patient(it_0061_006485,pos).
 
 %patient: it-0061-006522 index:79
@@ -1399,6 +1478,7 @@ who_f2(it_0061_006522,9).
 who_f3(it_0061_006522,9).
 who_f4(it_0061_006522,9).
 typeofoutcome_updated(it_0061_006522,1).
+vaccine(it_0061_006522,0,1).
 patient(it_0061_006522,pos).
 
 %patient: it-0061-006526 index:80
@@ -1421,6 +1501,7 @@ who_f2(it_0061_006526,9).
 who_f3(it_0061_006526,9).
 who_f4(it_0061_006526,9).
 typeofoutcome_updated(it_0061_006526,1).
+vaccine(it_0061_006526,0,1).
 patient(it_0061_006526,pos).
 
 %patient: it-0061-006521 index:81
@@ -1440,6 +1521,7 @@ who_f2(it_0061_006521,0).
 who_f3(it_0061_006521,9).
 who_f4(it_0061_006521,9).
 typeofoutcome_updated(it_0061_006521,1).
+vaccine(it_0061_006521,0,1).
 patient(it_0061_006521,pos).
 
 %patient: it-0143-004260 index:82
@@ -1465,6 +1547,7 @@ who_f2(it_0143_004260,4).
 who_f3(it_0143_004260,9).
 who_f4(it_0143_004260,9).
 typeofoutcome_updated(it_0143_004260,1).
+vaccine(it_0143_004260,0,1).
 patient(it_0143_004260,pos).
 
 %patient: it-0061-004397 index:83
@@ -1489,6 +1572,7 @@ who_f2(it_0061_004397,1).
 who_f3(it_0061_004397,9).
 who_f4(it_0061_004397,9).
 typeofoutcome_updated(it_0061_004397,1).
+vaccine(it_0061_004397,0,1).
 patient(it_0061_004397,pos).
 
 %patient: it-0061-004028 index:84
@@ -1508,6 +1592,7 @@ who_f2(it_0061_004028,0).
 who_f3(it_0061_004028,9).
 who_f4(it_0061_004028,9).
 typeofoutcome_updated(it_0061_004028,1).
+vaccine(it_0061_004028,0,1).
 patient(it_0061_004028,pos).
 
 %patient: it-0143-006250 index:85
@@ -1531,6 +1616,7 @@ who_f2(it_0143_006250,4).
 who_f3(it_0143_006250,9).
 who_f4(it_0143_006250,9).
 typeofoutcome_updated(it_0143_006250,1).
+vaccine(it_0143_006250,0,1).
 patient(it_0143_006250,pos).
 
 %patient: it-0061-004567 index:86
@@ -1558,6 +1644,7 @@ who_f2(it_0061_004567,0).
 who_f3(it_0061_004567,9).
 who_f4(it_0061_004567,9).
 typeofoutcome_updated(it_0061_004567,1).
+vaccine(it_0061_004567,0,1).
 patient(it_0061_004567,pos).
 
 %patient: it-0061-006489 index:87
@@ -1583,6 +1670,7 @@ who_f2(it_0061_006489,0).
 who_f3(it_0061_006489,9).
 who_f4(it_0061_006489,9).
 typeofoutcome_updated(it_0061_006489,1).
+vaccine(it_0061_006489,0,1).
 patient(it_0061_006489,pos).
 
 %patient: it-0147-004393 index:88
@@ -1604,6 +1692,7 @@ who_f2(it_0147_004393,9).
 who_f3(it_0147_004393,9).
 who_f4(it_0147_004393,9).
 typeofoutcome_updated(it_0147_004393,1).
+vaccine(it_0147_004393,0,2).
 patient(it_0147_004393,pos).
 
 %patient: it-0061-006531 index:89
@@ -1627,6 +1716,7 @@ who_f2(it_0061_006531,1).
 who_f3(it_0061_006531,9).
 who_f4(it_0061_006531,9).
 typeofoutcome_updated(it_0061_006531,1).
+vaccine(it_0061_006531,0,1).
 patient(it_0061_006531,pos).
 
 %patient: it-0061-006497 index:90
@@ -1655,6 +1745,7 @@ who_f2(it_0061_006497,0).
 who_f3(it_0061_006497,9).
 who_f4(it_0061_006497,9).
 typeofoutcome_updated(it_0061_006497,1).
+vaccine(it_0061_006497,0,1).
 patient(it_0061_006497,pos).
 
 %patient: it-0143-004053 index:91
@@ -1675,6 +1766,7 @@ who_f2(it_0143_004053,4).
 who_f3(it_0143_004053,9).
 who_f4(it_0143_004053,9).
 typeofoutcome_updated(it_0143_004053,1).
+vaccine(it_0143_004053,0,1).
 patient(it_0143_004053,pos).
 
 %patient: it-0003-000968 index:92
@@ -1697,6 +1789,7 @@ who_f2(it_0003_000968,9).
 who_f3(it_0003_000968,9).
 who_f4(it_0003_000968,9).
 typeofoutcome_updated(it_0003_000968,1).
+vaccine(it_0003_000968,0,2).
 patient(it_0003_000968,pos).
 
 %patient: it-0042-003660 index:93
@@ -1715,6 +1808,7 @@ who_f2(it_0042_003660,9).
 who_f3(it_0042_003660,9).
 who_f4(it_0042_003660,9).
 typeofoutcome_updated(it_0042_003660,1).
+vaccine(it_0042_003660,0,2).
 patient(it_0042_003660,pos).
 
 %patient: it-0021-003838 index:94
@@ -1738,6 +1832,7 @@ who_f2(it_0021_003838,9).
 who_f3(it_0021_003838,9).
 who_f4(it_0021_003838,9).
 typeofoutcome_updated(it_0021_003838,1).
+vaccine(it_0021_003838,0,2).
 patient(it_0021_003838,pos).
 
 %patient: it-0022-000205 index:95
@@ -1761,6 +1856,7 @@ who_f2(it_0022_000205,9).
 who_f3(it_0022_000205,9).
 who_f4(it_0022_000205,9).
 typeofoutcome_updated(it_0022_000205,1).
+vaccine(it_0022_000205,0,2).
 patient(it_0022_000205,pos).
 
 %patient: it-0043-005211 index:96
@@ -1785,6 +1881,7 @@ who_f2(it_0043_005211,9).
 who_f3(it_0043_005211,9).
 who_f4(it_0043_005211,9).
 typeofoutcome_updated(it_0043_005211,1).
+vaccine(it_0043_005211,0,2).
 patient(it_0043_005211,pos).
 
 %patient: it-0045-005294 index:97
@@ -1804,6 +1901,7 @@ who_f2(it_0045_005294,9).
 who_f3(it_0045_005294,9).
 who_f4(it_0045_005294,9).
 typeofoutcome_updated(it_0045_005294,1).
+vaccine(it_0045_005294,0,2).
 patient(it_0045_005294,pos).
 
 %patient: it-0061-004407 index:98
@@ -1828,6 +1926,7 @@ who_f2(it_0061_004407,9).
 who_f3(it_0061_004407,9).
 who_f4(it_0061_004407,9).
 typeofoutcome_updated(it_0061_004407,1).
+vaccine(it_0061_004407,0,2).
 patient(it_0061_004407,pos).
 
 %patient: it-0106-006811 index:99
@@ -1844,6 +1943,7 @@ who_f2(it_0106_006811,9).
 who_f3(it_0106_006811,9).
 who_f4(it_0106_006811,9).
 typeofoutcome_updated(it_0106_006811,1).
+vaccine(it_0106_006811,0,2).
 patient(it_0106_006811,pos).
 
 %patient: it-0108-002670 index:100
@@ -1866,6 +1966,7 @@ who_f2(it_0108_002670,0).
 who_f3(it_0108_002670,9).
 who_f4(it_0108_002670,9).
 typeofoutcome_updated(it_0108_002670,1).
+vaccine(it_0108_002670,0,2).
 patient(it_0108_002670,pos).
 
 %patient: it-0127-006713 index:101
@@ -1886,6 +1987,7 @@ who_f2(it_0127_006713,9).
 who_f3(it_0127_006713,9).
 who_f4(it_0127_006713,9).
 typeofoutcome_updated(it_0127_006713,1).
+vaccine(it_0127_006713,0,2).
 patient(it_0127_006713,pos).
 
 %patient: it-0127-006724 index:102
@@ -1904,6 +2006,7 @@ who_f2(it_0127_006724,9).
 who_f3(it_0127_006724,9).
 who_f4(it_0127_006724,9).
 typeofoutcome_updated(it_0127_006724,1).
+vaccine(it_0127_006724,0,2).
 patient(it_0127_006724,pos).
 
 %patient: it-0144-006860 index:103
@@ -1926,6 +2029,7 @@ who_f2(it_0144_006860,9).
 who_f3(it_0144_006860,9).
 who_f4(it_0144_006860,9).
 typeofoutcome_updated(it_0144_006860,1).
+vaccine(it_0144_006860,0,2).
 patient(it_0144_006860,pos).
 
 %patient: it-0043-003644 index:104
@@ -1949,6 +2053,7 @@ who_f2(it_0043_003644,9).
 who_f3(it_0043_003644,9).
 who_f4(it_0043_003644,9).
 typeofoutcome_updated(it_0043_003644,1).
+vaccine(it_0043_003644,0,2).
 patient(it_0043_003644,pos).
 
 %patient: it-0043-003648 index:105
@@ -1972,6 +2077,7 @@ who_f2(it_0043_003648,9).
 who_f3(it_0043_003648,9).
 who_f4(it_0043_003648,9).
 typeofoutcome_updated(it_0043_003648,1).
+vaccine(it_0043_003648,0,2).
 patient(it_0043_003648,pos).
 
 %patient: it-0044-003649 index:106
@@ -1997,6 +2103,7 @@ who_f2(it_0044_003649,9).
 who_f3(it_0044_003649,9).
 who_f4(it_0044_003649,9).
 typeofoutcome_updated(it_0044_003649,1).
+vaccine(it_0044_003649,0,2).
 patient(it_0044_003649,pos).
 
 %patient: it-0044-003662 index:107
@@ -2021,6 +2128,7 @@ who_f2(it_0044_003662,9).
 who_f3(it_0044_003662,9).
 who_f4(it_0044_003662,9).
 typeofoutcome_updated(it_0044_003662,1).
+vaccine(it_0044_003662,0,2).
 patient(it_0044_003662,pos).
 
 %patient: it-0052-003690 index:108
@@ -2040,6 +2148,7 @@ who_f2(it_0052_003690,9).
 who_f3(it_0052_003690,9).
 who_f4(it_0052_003690,9).
 typeofoutcome_updated(it_0052_003690,1).
+vaccine(it_0052_003690,0,2).
 patient(it_0052_003690,pos).
 
 %patient: it-0144-006856 index:109
@@ -2066,6 +2175,7 @@ who_f2(it_0144_006856,9).
 who_f3(it_0144_006856,9).
 who_f4(it_0144_006856,9).
 typeofoutcome_updated(it_0144_006856,1).
+vaccine(it_0144_006856,0,2).
 patient(it_0144_006856,pos).
 
 %patient: it-0149-004326 index:110
@@ -2086,6 +2196,7 @@ who_f2(it_0149_004326,9).
 who_f3(it_0149_004326,9).
 who_f4(it_0149_004326,9).
 typeofoutcome_updated(it_0149_004326,1).
+vaccine(it_0149_004326,0,2).
 patient(it_0149_004326,pos).
 
 %patient: it-0151-005770 index:111
@@ -2105,6 +2216,7 @@ who_f2(it_0151_005770,9).
 who_f3(it_0151_005770,9).
 who_f4(it_0151_005770,9).
 typeofoutcome_updated(it_0151_005770,1).
+vaccine(it_0151_005770,0,2).
 patient(it_0151_005770,pos).
 
 %patient: it-0148-005826 index:112
@@ -2124,6 +2236,7 @@ who_f2(it_0148_005826,9).
 who_f3(it_0148_005826,9).
 who_f4(it_0148_005826,9).
 typeofoutcome_updated(it_0148_005826,1).
+vaccine(it_0148_005826,0,2).
 patient(it_0148_005826,pos).
 
 %patient: it-0136-006419 index:113
@@ -2142,6 +2255,7 @@ who_f2(it_0136_006419,9).
 who_f3(it_0136_006419,9).
 who_f4(it_0136_006419,9).
 typeofoutcome_updated(it_0136_006419,1).
+vaccine(it_0136_006419,0,2).
 patient(it_0136_006419,pos).
 
 %patient: it-0166-004979 index:114
@@ -2168,6 +2282,7 @@ who_f2(it_0166_004979,9).
 who_f3(it_0166_004979,9).
 who_f4(it_0166_004979,9).
 typeofoutcome_updated(it_0166_004979,1).
+vaccine(it_0166_004979,1,2).
 patient(it_0166_004979,pos).
 
 %patient: it-0143-004264 index:115
@@ -2195,6 +2310,7 @@ who_f2(it_0143_004264,4).
 who_f3(it_0143_004264,9).
 who_f4(it_0143_004264,9).
 typeofoutcome_updated(it_0143_004264,1).
+vaccine(it_0143_004264,0,2).
 patient(it_0143_004264,pos).
 
 %patient: it-0061-006476 index:116
@@ -2221,6 +2337,7 @@ who_f2(it_0061_006476,1).
 who_f3(it_0061_006476,9).
 who_f4(it_0061_006476,9).
 typeofoutcome_updated(it_0061_006476,1).
+vaccine(it_0061_006476,0,1).
 patient(it_0061_006476,pos).
 
 %patient: it-0108-002697 index:117
@@ -2242,6 +2359,7 @@ who_f2(it_0108_002697,0).
 who_f3(it_0108_002697,9).
 who_f4(it_0108_002697,9).
 typeofoutcome_updated(it_0108_002697,1).
+vaccine(it_0108_002697,0,2).
 patient(it_0108_002697,pos).
 
 %patient: it-0043-003726 index:118
@@ -2262,6 +2380,7 @@ who_f2(it_0043_003726,0).
 who_f3(it_0043_003726,9).
 who_f4(it_0043_003726,9).
 typeofoutcome_updated(it_0043_003726,1).
+vaccine(it_0043_003726,0,2).
 patient(it_0043_003726,pos).
 
 %patient: it-0051-006689 index:119
@@ -2282,6 +2401,7 @@ who_f2(it_0051_006689,0).
 who_f3(it_0051_006689,9).
 who_f4(it_0051_006689,9).
 typeofoutcome_updated(it_0051_006689,1).
+vaccine(it_0051_006689,0,2).
 patient(it_0051_006689,pos).
 
 %patient: it-0003-000280 index:120
@@ -2308,6 +2428,7 @@ who_f2(it_0003_000280,0).
 who_f3(it_0003_000280,9).
 who_f4(it_0003_000280,9).
 typeofoutcome_updated(it_0003_000280,1).
+vaccine(it_0003_000280,0,2).
 patient(it_0003_000280,pos).
 
 %patient: it-0015-003925 index:121
@@ -2330,6 +2451,7 @@ who_f2(it_0015_003925,9).
 who_f3(it_0015_003925,9).
 who_f4(it_0015_003925,9).
 typeofoutcome_updated(it_0015_003925,1).
+vaccine(it_0015_003925,0,2).
 patient(it_0015_003925,pos).
 
 %patient: it-0016-002497 index:122
@@ -2353,6 +2475,7 @@ who_f2(it_0016_002497,9).
 who_f3(it_0016_002497,9).
 who_f4(it_0016_002497,9).
 typeofoutcome_updated(it_0016_002497,1).
+vaccine(it_0016_002497,0,2).
 patient(it_0016_002497,pos).
 
 %patient: it-0017-002667 index:123
@@ -2372,6 +2495,7 @@ who_f2(it_0017_002667,3).
 who_f3(it_0017_002667,9).
 who_f4(it_0017_002667,9).
 typeofoutcome_updated(it_0017_002667,1).
+vaccine(it_0017_002667,0,2).
 patient(it_0017_002667,pos).
 
 %patient: it-0020-000969 index:124
@@ -2394,6 +2518,7 @@ who_f2(it_0020_000969,0).
 who_f3(it_0020_000969,9).
 who_f4(it_0020_000969,9).
 typeofoutcome_updated(it_0020_000969,1).
+vaccine(it_0020_000969,0,2).
 patient(it_0020_000969,pos).
 
 %patient: it-0020-003029 index:125
@@ -2418,6 +2543,7 @@ who_f2(it_0020_003029,0).
 who_f3(it_0020_003029,9).
 who_f4(it_0020_003029,9).
 typeofoutcome_updated(it_0020_003029,1).
+vaccine(it_0020_003029,0,2).
 patient(it_0020_003029,pos).
 
 %patient: it-0020-003776 index:126
@@ -2442,6 +2568,7 @@ who_f2(it_0020_003776,0).
 who_f3(it_0020_003776,9).
 who_f4(it_0020_003776,9).
 typeofoutcome_updated(it_0020_003776,1).
+vaccine(it_0020_003776,0,2).
 patient(it_0020_003776,pos).
 
 %patient: it-0021-000295 index:127
@@ -2467,6 +2594,7 @@ who_f2(it_0021_000295,0).
 who_f3(it_0021_000295,9).
 who_f4(it_0021_000295,9).
 typeofoutcome_updated(it_0021_000295,1).
+vaccine(it_0021_000295,0,2).
 patient(it_0021_000295,pos).
 
 %patient: it-0021-003850 index:128
@@ -2488,6 +2616,7 @@ who_f2(it_0021_003850,0).
 who_f3(it_0021_003850,9).
 who_f4(it_0021_003850,9).
 typeofoutcome_updated(it_0021_003850,1).
+vaccine(it_0021_003850,0,2).
 patient(it_0021_003850,pos).
 
 %patient: it-0042-003661 index:129
@@ -2511,6 +2640,7 @@ who_f2(it_0042_003661,0).
 who_f3(it_0042_003661,9).
 who_f4(it_0042_003661,9).
 typeofoutcome_updated(it_0042_003661,1).
+vaccine(it_0042_003661,0,2).
 patient(it_0042_003661,pos).
 
 %patient: it-0042-003671 index:130
@@ -2534,6 +2664,7 @@ who_f2(it_0042_003671,0).
 who_f3(it_0042_003671,9).
 who_f4(it_0042_003671,9).
 typeofoutcome_updated(it_0042_003671,1).
+vaccine(it_0042_003671,0,2).
 patient(it_0042_003671,pos).
 
 %patient: it-0042-003710 index:131
@@ -2555,6 +2686,7 @@ who_f2(it_0042_003710,0).
 who_f3(it_0042_003710,9).
 who_f4(it_0042_003710,9).
 typeofoutcome_updated(it_0042_003710,1).
+vaccine(it_0042_003710,0,2).
 patient(it_0042_003710,pos).
 
 %patient: it-0042-003736 index:132
@@ -2577,6 +2709,7 @@ who_f2(it_0042_003736,0).
 who_f3(it_0042_003736,9).
 who_f4(it_0042_003736,9).
 typeofoutcome_updated(it_0042_003736,1).
+vaccine(it_0042_003736,0,2).
 patient(it_0042_003736,pos).
 
 %patient: it-0042-004267 index:133
@@ -2600,6 +2733,7 @@ who_f2(it_0042_004267,0).
 who_f3(it_0042_004267,9).
 who_f4(it_0042_004267,9).
 typeofoutcome_updated(it_0042_004267,1).
+vaccine(it_0042_004267,0,2).
 patient(it_0042_004267,pos).
 
 %patient: it-0043-004591 index:134
@@ -2622,6 +2756,7 @@ who_f2(it_0043_004591,0).
 who_f3(it_0043_004591,9).
 who_f4(it_0043_004591,9).
 typeofoutcome_updated(it_0043_004591,1).
+vaccine(it_0043_004591,0,2).
 patient(it_0043_004591,pos).
 
 %patient: it-0052-003691 index:135
@@ -2649,6 +2784,7 @@ who_f2(it_0052_003691,0).
 who_f3(it_0052_003691,9).
 who_f4(it_0052_003691,9).
 typeofoutcome_updated(it_0052_003691,1).
+vaccine(it_0052_003691,0,2).
 patient(it_0052_003691,pos).
 
 %patient: it-0061-003948 index:136
@@ -2669,6 +2805,7 @@ who_f2(it_0061_003948,1).
 who_f3(it_0061_003948,1).
 who_f4(it_0061_003948,9).
 typeofoutcome_updated(it_0061_003948,1).
+vaccine(it_0061_003948,0,1).
 patient(it_0061_003948,pos).
 
 %patient: it-0061-004029 index:137
@@ -2690,6 +2827,7 @@ who_f2(it_0061_004029,1).
 who_f3(it_0061_004029,1).
 who_f4(it_0061_004029,9).
 typeofoutcome_updated(it_0061_004029,1).
+vaccine(it_0061_004029,0,1).
 patient(it_0061_004029,pos).
 
 %patient: it-0061-004290 index:138
@@ -2710,6 +2848,7 @@ who_f2(it_0061_004290,4).
 who_f3(it_0061_004290,9).
 who_f4(it_0061_004290,9).
 typeofoutcome_updated(it_0061_004290,1).
+vaccine(it_0061_004290,0,2).
 patient(it_0061_004290,pos).
 
 %patient: it-0103-005972 index:139
@@ -2733,6 +2872,7 @@ who_f2(it_0103_005972,1).
 who_f3(it_0103_005972,9).
 who_f4(it_0103_005972,9).
 typeofoutcome_updated(it_0103_005972,1).
+vaccine(it_0103_005972,0,1).
 patient(it_0103_005972,pos).
 
 %patient: it-0106-006738 index:140
@@ -2755,6 +2895,7 @@ who_f2(it_0106_006738,0).
 who_f3(it_0106_006738,9).
 who_f4(it_0106_006738,9).
 typeofoutcome_updated(it_0106_006738,1).
+vaccine(it_0106_006738,0,2).
 patient(it_0106_006738,pos).
 
 %patient: it-0106-006746 index:141
@@ -2773,6 +2914,7 @@ who_f2(it_0106_006746,0).
 who_f3(it_0106_006746,9).
 who_f4(it_0106_006746,9).
 typeofoutcome_updated(it_0106_006746,1).
+vaccine(it_0106_006746,0,2).
 patient(it_0106_006746,pos).
 
 %patient: it-0106-006769 index:142
@@ -2793,6 +2935,7 @@ who_f2(it_0106_006769,0).
 who_f3(it_0106_006769,9).
 who_f4(it_0106_006769,9).
 typeofoutcome_updated(it_0106_006769,1).
+vaccine(it_0106_006769,0,2).
 patient(it_0106_006769,pos).
 
 %patient: it-0135-004641 index:143
@@ -2815,6 +2958,7 @@ who_f2(it_0135_004641,0).
 who_f3(it_0135_004641,9).
 who_f4(it_0135_004641,9).
 typeofoutcome_updated(it_0135_004641,1).
+vaccine(it_0135_004641,0,2).
 patient(it_0135_004641,pos).
 
 %patient: it-0136-005523 index:144
@@ -2833,6 +2977,7 @@ who_f2(it_0136_005523,0).
 who_f3(it_0136_005523,9).
 who_f4(it_0136_005523,9).
 typeofoutcome_updated(it_0136_005523,1).
+vaccine(it_0136_005523,0,2).
 patient(it_0136_005523,pos).
 
 %patient: it-0143-006277 index:145
@@ -2853,6 +2998,7 @@ who_f2(it_0143_006277,0).
 who_f3(it_0143_006277,9).
 who_f4(it_0143_006277,9).
 typeofoutcome_updated(it_0143_006277,1).
+vaccine(it_0143_006277,0,1).
 patient(it_0143_006277,pos).
 
 %patient: it-0144-006858 index:146
@@ -2875,6 +3021,7 @@ who_f2(it_0144_006858,0).
 who_f3(it_0144_006858,9).
 who_f4(it_0144_006858,9).
 typeofoutcome_updated(it_0144_006858,1).
+vaccine(it_0144_006858,0,2).
 patient(it_0144_006858,pos).
 
 %patient: it-0164-006509 index:147
@@ -2898,6 +3045,7 @@ who_f2(it_0164_006509,0).
 who_f3(it_0164_006509,9).
 who_f4(it_0164_006509,9).
 typeofoutcome_updated(it_0164_006509,1).
+vaccine(it_0164_006509,0,2).
 patient(it_0164_006509,pos).
 
 %patient: it-0166-004968 index:148
@@ -2920,6 +3068,7 @@ who_f2(it_0166_004968,0).
 who_f3(it_0166_004968,9).
 who_f4(it_0166_004968,9).
 typeofoutcome_updated(it_0166_004968,1).
+vaccine(it_0166_004968,1,2).
 patient(it_0166_004968,pos).
 
 %patient: it-0166-004970 index:149
@@ -2943,6 +3092,7 @@ who_f2(it_0166_004970,0).
 who_f3(it_0166_004970,9).
 who_f4(it_0166_004970,9).
 typeofoutcome_updated(it_0166_004970,1).
+vaccine(it_0166_004970,1,1).
 patient(it_0166_004970,pos).
 
 %patient: it-0166-004976 index:150
@@ -2968,6 +3118,7 @@ who_f2(it_0166_004976,0).
 who_f3(it_0166_004976,9).
 who_f4(it_0166_004976,9).
 typeofoutcome_updated(it_0166_004976,1).
+vaccine(it_0166_004976,1,2).
 patient(it_0166_004976,pos).
 
 %patient: it-0166-005010 index:151
@@ -2995,6 +3146,7 @@ who_f2(it_0166_005010,0).
 who_f3(it_0166_005010,9).
 who_f4(it_0166_005010,9).
 typeofoutcome_updated(it_0166_005010,1).
+vaccine(it_0166_005010,1,2).
 patient(it_0166_005010,pos).
 
 %patient: it-0166-005024 index:152
@@ -3018,6 +3170,7 @@ who_f2(it_0166_005024,0).
 who_f3(it_0166_005024,9).
 who_f4(it_0166_005024,9).
 typeofoutcome_updated(it_0166_005024,1).
+vaccine(it_0166_005024,1,2).
 patient(it_0166_005024,pos).
 
 %patient: it-0166-005105 index:153
@@ -3044,6 +3197,7 @@ who_f2(it_0166_005105,0).
 who_f3(it_0166_005105,9).
 who_f4(it_0166_005105,9).
 typeofoutcome_updated(it_0166_005105,1).
+vaccine(it_0166_005105,1,2).
 patient(it_0166_005105,pos).
 
 %patient: it-0166-005110 index:154
@@ -3067,6 +3221,7 @@ who_f2(it_0166_005110,0).
 who_f3(it_0166_005110,9).
 who_f4(it_0166_005110,9).
 typeofoutcome_updated(it_0166_005110,1).
+vaccine(it_0166_005110,1,2).
 patient(it_0166_005110,pos).
 
 %patient: it-0166-006239 index:155
@@ -3086,6 +3241,7 @@ who_f2(it_0166_006239,0).
 who_f3(it_0166_006239,9).
 who_f4(it_0166_006239,9).
 typeofoutcome_updated(it_0166_006239,1).
+vaccine(it_0166_006239,1,2).
 patient(it_0166_006239,pos).
 
 %patient: it-0166-006242 index:156
@@ -3105,6 +3261,7 @@ who_f2(it_0166_006242,0).
 who_f3(it_0166_006242,9).
 who_f4(it_0166_006242,9).
 typeofoutcome_updated(it_0166_006242,1).
+vaccine(it_0166_006242,1,2).
 patient(it_0166_006242,pos).
 
 %patient: it-0167-006834 index:157
@@ -3125,6 +3282,7 @@ who_f2(it_0167_006834,0).
 who_f3(it_0167_006834,9).
 who_f4(it_0167_006834,9).
 typeofoutcome_updated(it_0167_006834,1).
+vaccine(it_0167_006834,0,2).
 patient(it_0167_006834,pos).
 
 %patient: it-0167-006839 index:158
@@ -3146,6 +3304,7 @@ who_f2(it_0167_006839,0).
 who_f3(it_0167_006839,9).
 who_f4(it_0167_006839,9).
 typeofoutcome_updated(it_0167_006839,1).
+vaccine(it_0167_006839,0,2).
 patient(it_0167_006839,pos).
 
 %patient: it-0170-006681 index:159
@@ -3173,6 +3332,7 @@ who_f2(it_0170_006681,0).
 who_f3(it_0170_006681,9).
 who_f4(it_0170_006681,9).
 typeofoutcome_updated(it_0170_006681,1).
+vaccine(it_0170_006681,0,2).
 patient(it_0170_006681,pos).
 
 %patient: it-0170-006703 index:160
@@ -3201,6 +3361,7 @@ who_f2(it_0170_006703,0).
 who_f3(it_0170_006703,9).
 who_f4(it_0170_006703,9).
 typeofoutcome_updated(it_0170_006703,1).
+vaccine(it_0170_006703,0,2).
 patient(it_0170_006703,pos).
 
 %patient: it-0171-006153 index:161
@@ -3221,6 +3382,7 @@ who_f2(it_0171_006153,0).
 who_f3(it_0171_006153,9).
 who_f4(it_0171_006153,9).
 typeofoutcome_updated(it_0171_006153,1).
+vaccine(it_0171_006153,0,2).
 patient(it_0171_006153,pos).
 
 %patient: it-0021-000683 index:162
@@ -3244,6 +3406,7 @@ who_f2(it_0021_000683,0).
 who_f3(it_0021_000683,9).
 who_f4(it_0021_000683,9).
 typeofoutcome_updated(it_0021_000683,1).
+vaccine(it_0021_000683,0,2).
 patient(it_0021_000683,pos).
 
 %patient: it-0042-005427 index:163
@@ -3269,6 +3432,7 @@ who_f2(it_0042_005427,0).
 who_f3(it_0042_005427,9).
 who_f4(it_0042_005427,9).
 typeofoutcome_updated(it_0042_005427,1).
+vaccine(it_0042_005427,0,2).
 patient(it_0042_005427,pos).
 
 %patient: it-0043-003724 index:164
@@ -3288,6 +3452,7 @@ who_f2(it_0043_003724,9).
 who_f3(it_0043_003724,9).
 who_f4(it_0043_003724,9).
 typeofoutcome_updated(it_0043_003724,1).
+vaccine(it_0043_003724,0,2).
 patient(it_0043_003724,pos).
 
 %patient: it-0050-004238 index:165
@@ -3307,6 +3472,7 @@ who_f2(it_0050_004238,0).
 who_f3(it_0050_004238,9).
 who_f4(it_0050_004238,9).
 typeofoutcome_updated(it_0050_004238,1).
+vaccine(it_0050_004238,0,2).
 patient(it_0050_004238,pos).
 
 %patient: it-0052-003693 index:166
@@ -3331,6 +3497,7 @@ who_f2(it_0052_003693,0).
 who_f3(it_0052_003693,9).
 who_f4(it_0052_003693,9).
 typeofoutcome_updated(it_0052_003693,1).
+vaccine(it_0052_003693,0,1).
 patient(it_0052_003693,pos).
 
 %patient: it-0061-006484 index:167
@@ -3348,6 +3515,7 @@ who_f2(it_0061_006484,0).
 who_f3(it_0061_006484,9).
 who_f4(it_0061_006484,9).
 typeofoutcome_updated(it_0061_006484,1).
+vaccine(it_0061_006484,0,2).
 patient(it_0061_006484,pos).
 
 %patient: it-0102-004138 index:168
@@ -3369,6 +3537,7 @@ who_f2(it_0102_004138,1).
 who_f3(it_0102_004138,9).
 who_f4(it_0102_004138,9).
 typeofoutcome_updated(it_0102_004138,1).
+vaccine(it_0102_004138,0,2).
 patient(it_0102_004138,pos).
 
 %patient: it-0106-006803 index:169
@@ -3389,6 +3558,7 @@ who_f2(it_0106_006803,0).
 who_f3(it_0106_006803,9).
 who_f4(it_0106_006803,9).
 typeofoutcome_updated(it_0106_006803,1).
+vaccine(it_0106_006803,0,2).
 patient(it_0106_006803,pos).
 
 %patient: it-0127-006842 index:170
@@ -3410,6 +3580,7 @@ who_f2(it_0127_006842,0).
 who_f3(it_0127_006842,9).
 who_f4(it_0127_006842,9).
 typeofoutcome_updated(it_0127_006842,1).
+vaccine(it_0127_006842,0,2).
 patient(it_0127_006842,pos).
 
 %patient: it-0127-006848 index:171
@@ -3428,6 +3599,7 @@ who_f2(it_0127_006848,0).
 who_f3(it_0127_006848,9).
 who_f4(it_0127_006848,9).
 typeofoutcome_updated(it_0127_006848,1).
+vaccine(it_0127_006848,0,2).
 patient(it_0127_006848,pos).
 
 %patient: it-0129-004678 index:172
@@ -3451,6 +3623,7 @@ who_f2(it_0129_004678,0).
 who_f3(it_0129_004678,9).
 who_f4(it_0129_004678,9).
 typeofoutcome_updated(it_0129_004678,1).
+vaccine(it_0129_004678,0,2).
 patient(it_0129_004678,pos).
 
 %patient: it-0133-006301 index:173
@@ -3470,6 +3643,7 @@ who_f2(it_0133_006301,0).
 who_f3(it_0133_006301,9).
 who_f4(it_0133_006301,9).
 typeofoutcome_updated(it_0133_006301,1).
+vaccine(it_0133_006301,0,2).
 patient(it_0133_006301,pos).
 
 %patient: it-0133-006309 index:174
@@ -3494,6 +3668,7 @@ who_f2(it_0133_006309,9).
 who_f3(it_0133_006309,9).
 who_f4(it_0133_006309,9).
 typeofoutcome_updated(it_0133_006309,1).
+vaccine(it_0133_006309,0,2).
 patient(it_0133_006309,pos).
 
 %patient: it-0141-005501 index:175
@@ -3513,6 +3688,7 @@ who_f2(it_0141_005501,4).
 who_f3(it_0141_005501,9).
 who_f4(it_0141_005501,9).
 typeofoutcome_updated(it_0141_005501,1).
+vaccine(it_0141_005501,0,2).
 patient(it_0141_005501,pos).
 
 %patient: it-0141-006001 index:176
@@ -3531,6 +3707,7 @@ who_f2(it_0141_006001,4).
 who_f3(it_0141_006001,9).
 who_f4(it_0141_006001,9).
 typeofoutcome_updated(it_0141_006001,1).
+vaccine(it_0141_006001,0,2).
 patient(it_0141_006001,pos).
 
 %patient: it-0141-006174 index:177
@@ -3554,6 +3731,7 @@ who_f2(it_0141_006174,4).
 who_f3(it_0141_006174,9).
 who_f4(it_0141_006174,9).
 typeofoutcome_updated(it_0141_006174,1).
+vaccine(it_0141_006174,0,2).
 patient(it_0141_006174,pos).
 
 %patient: it-0141-006180 index:178
@@ -3578,6 +3756,7 @@ who_f2(it_0141_006180,0).
 who_f3(it_0141_006180,9).
 who_f4(it_0141_006180,9).
 typeofoutcome_updated(it_0141_006180,1).
+vaccine(it_0141_006180,0,2).
 patient(it_0141_006180,pos).
 
 %patient: it-0156-004898 index:179
@@ -3596,6 +3775,7 @@ who_f2(it_0156_004898,0).
 who_f3(it_0156_004898,9).
 who_f4(it_0156_004898,9).
 typeofoutcome_updated(it_0156_004898,1).
+vaccine(it_0156_004898,0,2).
 patient(it_0156_004898,pos).
 
 %patient: it-0020-004830 index:180
@@ -3620,6 +3800,7 @@ who_f2(it_0020_004830,0).
 who_f3(it_0020_004830,9).
 who_f4(it_0020_004830,9).
 typeofoutcome_updated(it_0020_004830,1).
+vaccine(it_0020_004830,0,2).
 patient(it_0020_004830,pos).
 
 %patient: it-0030-005531 index:181
@@ -3637,6 +3818,7 @@ who_f2(it_0030_005531,0).
 who_f3(it_0030_005531,9).
 who_f4(it_0030_005531,9).
 typeofoutcome_updated(it_0030_005531,1).
+vaccine(it_0030_005531,0,2).
 patient(it_0030_005531,pos).
 
 %patient: it-0044-004230 index:182
@@ -3662,6 +3844,7 @@ who_f2(it_0044_004230,0).
 who_f3(it_0044_004230,9).
 who_f4(it_0044_004230,9).
 typeofoutcome_updated(it_0044_004230,1).
+vaccine(it_0044_004230,0,1).
 patient(it_0044_004230,pos).
 
 %patient: it-0044-005741 index:183
@@ -3683,6 +3866,7 @@ who_f2(it_0044_005741,0).
 who_f3(it_0044_005741,9).
 who_f4(it_0044_005741,9).
 typeofoutcome_updated(it_0044_005741,1).
+vaccine(it_0044_005741,0,1).
 patient(it_0044_005741,pos).
 
 %patient: it-0044-005742 index:184
@@ -3706,6 +3890,7 @@ who_f2(it_0044_005742,0).
 who_f3(it_0044_005742,9).
 who_f4(it_0044_005742,9).
 typeofoutcome_updated(it_0044_005742,1).
+vaccine(it_0044_005742,0,1).
 patient(it_0044_005742,pos).
 
 %patient: it-0050-004133 index:185
@@ -3729,6 +3914,7 @@ who_f2(it_0050_004133,1).
 who_f3(it_0050_004133,9).
 who_f4(it_0050_004133,9).
 typeofoutcome_updated(it_0050_004133,1).
+vaccine(it_0050_004133,0,1).
 patient(it_0050_004133,pos).
 
 %patient: it-0050-005298 index:186
@@ -3751,6 +3937,7 @@ who_f2(it_0050_005298,1).
 who_f3(it_0050_005298,9).
 who_f4(it_0050_005298,9).
 typeofoutcome_updated(it_0050_005298,1).
+vaccine(it_0050_005298,0,1).
 patient(it_0050_005298,pos).
 
 %patient: it-0050-005787 index:187
@@ -3777,6 +3964,7 @@ who_f2(it_0050_005787,0).
 who_f3(it_0050_005787,9).
 who_f4(it_0050_005787,9).
 typeofoutcome_updated(it_0050_005787,1).
+vaccine(it_0050_005787,0,1).
 patient(it_0050_005787,pos).
 
 %patient: it-0053-004248 index:188
@@ -3792,6 +3980,7 @@ who_f2(it_0053_004248,0).
 who_f3(it_0053_004248,9).
 who_f4(it_0053_004248,9).
 typeofoutcome_updated(it_0053_004248,1).
+vaccine(it_0053_004248,0,2).
 patient(it_0053_004248,pos).
 
 %patient: it-0053-005775 index:189
@@ -3814,6 +4003,7 @@ who_f2(it_0053_005775,1).
 who_f3(it_0053_005775,9).
 who_f4(it_0053_005775,9).
 typeofoutcome_updated(it_0053_005775,1).
+vaccine(it_0053_005775,0,1).
 patient(it_0053_005775,pos).
 
 %patient: it-0116-004576 index:190
@@ -3834,6 +4024,7 @@ who_f2(it_0116_004576,0).
 who_f3(it_0116_004576,9).
 who_f4(it_0116_004576,9).
 typeofoutcome_updated(it_0116_004576,1).
+vaccine(it_0116_004576,0,2).
 patient(it_0116_004576,pos).
 
 %patient: it-0116-004579 index:191
@@ -3857,6 +4048,7 @@ who_f2(it_0116_004579,0).
 who_f3(it_0116_004579,9).
 who_f4(it_0116_004579,9).
 typeofoutcome_updated(it_0116_004579,1).
+vaccine(it_0116_004579,0,2).
 patient(it_0116_004579,pos).
 
 %patient: it-0116-005368 index:192
@@ -3879,6 +4071,7 @@ who_f2(it_0116_005368,0).
 who_f3(it_0116_005368,9).
 who_f4(it_0116_005368,9).
 typeofoutcome_updated(it_0116_005368,1).
+vaccine(it_0116_005368,0,2).
 patient(it_0116_005368,pos).
 
 %patient: it-0126-005347 index:193
@@ -3903,6 +4096,7 @@ who_f2(it_0126_005347,0).
 who_f3(it_0126_005347,9).
 who_f4(it_0126_005347,9).
 typeofoutcome_updated(it_0126_005347,1).
+vaccine(it_0126_005347,0,2).
 patient(it_0126_005347,pos).
 
 %patient: it-0126-005409 index:194
@@ -3929,6 +4123,7 @@ who_f2(it_0126_005409,0).
 who_f3(it_0126_005409,9).
 who_f4(it_0126_005409,9).
 typeofoutcome_updated(it_0126_005409,1).
+vaccine(it_0126_005409,0,2).
 patient(it_0126_005409,pos).
 
 %patient: it-0127-006720 index:195
@@ -3948,6 +4143,7 @@ who_f2(it_0127_006720,0).
 who_f3(it_0127_006720,9).
 who_f4(it_0127_006720,9).
 typeofoutcome_updated(it_0127_006720,1).
+vaccine(it_0127_006720,0,2).
 patient(it_0127_006720,pos).
 
 %patient: it-0127-006722 index:196
@@ -3967,6 +4163,7 @@ who_f2(it_0127_006722,0).
 who_f3(it_0127_006722,9).
 who_f4(it_0127_006722,9).
 typeofoutcome_updated(it_0127_006722,1).
+vaccine(it_0127_006722,0,2).
 patient(it_0127_006722,pos).
 
 %patient: it-0127-006726 index:197
@@ -3988,6 +4185,7 @@ who_f2(it_0127_006726,0).
 who_f3(it_0127_006726,9).
 who_f4(it_0127_006726,9).
 typeofoutcome_updated(it_0127_006726,1).
+vaccine(it_0127_006726,0,2).
 patient(it_0127_006726,pos).
 
 %patient: it-0130-005338 index:198
@@ -4008,6 +4206,7 @@ who_f2(it_0130_005338,1).
 who_f3(it_0130_005338,9).
 who_f4(it_0130_005338,9).
 typeofoutcome_updated(it_0130_005338,1).
+vaccine(it_0130_005338,1,2).
 patient(it_0130_005338,pos).
 
 %patient: it-0134-004952 index:199
@@ -4029,6 +4228,7 @@ who_f2(it_0134_004952,0).
 who_f3(it_0134_004952,9).
 who_f4(it_0134_004952,9).
 typeofoutcome_updated(it_0134_004952,1).
+vaccine(it_0134_004952,0,1).
 patient(it_0134_004952,pos).
 
 %patient: it-0142-006375 index:200
@@ -4052,6 +4252,7 @@ who_f2(it_0142_006375,0).
 who_f3(it_0142_006375,9).
 who_f4(it_0142_006375,9).
 typeofoutcome_updated(it_0142_006375,1).
+vaccine(it_0142_006375,0,2).
 patient(it_0142_006375,pos).
 
 %patient: it-0143-003917 index:201
@@ -4075,6 +4276,7 @@ who_f2(it_0143_003917,4).
 who_f3(it_0143_003917,9).
 who_f4(it_0143_003917,9).
 typeofoutcome_updated(it_0143_003917,1).
+vaccine(it_0143_003917,0,1).
 patient(it_0143_003917,pos).
 
 %patient: it-0143-003920 index:202
@@ -4096,6 +4298,7 @@ who_f2(it_0143_003920,4).
 who_f3(it_0143_003920,9).
 who_f4(it_0143_003920,9).
 typeofoutcome_updated(it_0143_003920,1).
+vaccine(it_0143_003920,0,1).
 patient(it_0143_003920,pos).
 
 %patient: it-0143-004082 index:203
@@ -4119,6 +4322,7 @@ who_f2(it_0143_004082,4).
 who_f3(it_0143_004082,9).
 who_f4(it_0143_004082,9).
 typeofoutcome_updated(it_0143_004082,1).
+vaccine(it_0143_004082,0,1).
 patient(it_0143_004082,pos).
 
 %patient: it-0144-004577 index:204
@@ -4142,6 +4346,7 @@ who_f2(it_0144_004577,0).
 who_f3(it_0144_004577,9).
 who_f4(it_0144_004577,9).
 typeofoutcome_updated(it_0144_004577,1).
+vaccine(it_0144_004577,0,2).
 patient(it_0144_004577,pos).
 
 %patient: it-0145-006870 index:205
@@ -4165,6 +4370,7 @@ who_f2(it_0145_006870,0).
 who_f3(it_0145_006870,9).
 who_f4(it_0145_006870,9).
 typeofoutcome_updated(it_0145_006870,1).
+vaccine(it_0145_006870,0,2).
 patient(it_0145_006870,pos).
 
 %patient: it-0145-006872 index:206
@@ -4188,6 +4394,7 @@ who_f2(it_0145_006872,0).
 who_f3(it_0145_006872,9).
 who_f4(it_0145_006872,9).
 typeofoutcome_updated(it_0145_006872,1).
+vaccine(it_0145_006872,0,2).
 patient(it_0145_006872,pos).
 
 %patient: it-0145-006877 index:207
@@ -4211,6 +4418,7 @@ who_f2(it_0145_006877,0).
 who_f3(it_0145_006877,9).
 who_f4(it_0145_006877,9).
 typeofoutcome_updated(it_0145_006877,1).
+vaccine(it_0145_006877,0,2).
 patient(it_0145_006877,pos).
 
 %patient: it-0145-006891 index:208
@@ -4232,6 +4440,7 @@ who_f2(it_0145_006891,0).
 who_f3(it_0145_006891,9).
 who_f4(it_0145_006891,9).
 typeofoutcome_updated(it_0145_006891,1).
+vaccine(it_0145_006891,0,2).
 patient(it_0145_006891,pos).
 
 %patient: it-0145-006893 index:209
@@ -4254,6 +4463,7 @@ who_f2(it_0145_006893,0).
 who_f3(it_0145_006893,9).
 who_f4(it_0145_006893,9).
 typeofoutcome_updated(it_0145_006893,1).
+vaccine(it_0145_006893,0,2).
 patient(it_0145_006893,pos).
 
 %patient: it-0145-006894 index:210
@@ -4277,6 +4487,7 @@ who_f2(it_0145_006894,0).
 who_f3(it_0145_006894,9).
 who_f4(it_0145_006894,9).
 typeofoutcome_updated(it_0145_006894,1).
+vaccine(it_0145_006894,0,2).
 patient(it_0145_006894,pos).
 
 %patient: it-0167-006815 index:211
@@ -4295,6 +4506,7 @@ who_f2(it_0167_006815,0).
 who_f3(it_0167_006815,9).
 who_f4(it_0167_006815,9).
 typeofoutcome_updated(it_0167_006815,1).
+vaccine(it_0167_006815,0,2).
 patient(it_0167_006815,pos).
 
 %patient: it-0169-006592 index:212
@@ -4317,6 +4529,7 @@ who_f2(it_0169_006592,0).
 who_f3(it_0169_006592,9).
 who_f4(it_0169_006592,9).
 typeofoutcome_updated(it_0169_006592,1).
+vaccine(it_0169_006592,1,2).
 patient(it_0169_006592,pos).
 
 %patient: it-0042-003696 index:213
@@ -4349,6 +4562,7 @@ who_f2(it_0042_003696,0).
 who_f3(it_0042_003696,9).
 who_f4(it_0042_003696,9).
 typeofoutcome_updated(it_0042_003696,1).
+vaccine(it_0042_003696,0,2).
 patient(it_0042_003696,pos).
 
 %patient: it-0044-003701 index:214
@@ -4370,6 +4584,7 @@ who_f2(it_0044_003701,9).
 who_f3(it_0044_003701,9).
 who_f4(it_0044_003701,9).
 typeofoutcome_updated(it_0044_003701,1).
+vaccine(it_0044_003701,0,2).
 patient(it_0044_003701,pos).
 
 %patient: it-0044-003704 index:215
@@ -4390,6 +4605,7 @@ who_f2(it_0044_003704,9).
 who_f3(it_0044_003704,9).
 who_f4(it_0044_003704,9).
 typeofoutcome_updated(it_0044_003704,1).
+vaccine(it_0044_003704,0,2).
 patient(it_0044_003704,pos).
 
 %patient: it-0044-003705 index:216
@@ -4407,6 +4623,7 @@ who_f2(it_0044_003705,9).
 who_f3(it_0044_003705,9).
 who_f4(it_0044_003705,9).
 typeofoutcome_updated(it_0044_003705,1).
+vaccine(it_0044_003705,0,2).
 patient(it_0044_003705,pos).
 
 %patient: it-0061-004039 index:217
@@ -4430,6 +4647,7 @@ who_f2(it_0061_004039,0).
 who_f3(it_0061_004039,0).
 who_f4(it_0061_004039,9).
 typeofoutcome_updated(it_0061_004039,1).
+vaccine(it_0061_004039,0,2).
 patient(it_0061_004039,pos).
 
 %patient: it-0143-006197 index:218
@@ -4452,6 +4670,7 @@ who_f2(it_0143_006197,0).
 who_f3(it_0143_006197,9).
 who_f4(it_0143_006197,9).
 typeofoutcome_updated(it_0143_006197,1).
+vaccine(it_0143_006197,0,1).
 patient(it_0143_006197,pos).
 
 %patient: it-0143-006282 index:219
@@ -4472,6 +4691,7 @@ who_f2(it_0143_006282,0).
 who_f3(it_0143_006282,9).
 who_f4(it_0143_006282,9).
 typeofoutcome_updated(it_0143_006282,1).
+vaccine(it_0143_006282,0,1).
 patient(it_0143_006282,pos).
 
 %patient: it-0155-006573 index:220
@@ -4494,6 +4714,7 @@ who_f2(it_0155_006573,0).
 who_f3(it_0155_006573,9).
 who_f4(it_0155_006573,9).
 typeofoutcome_updated(it_0155_006573,1).
+vaccine(it_0155_006573,0,2).
 patient(it_0155_006573,pos).
 
 %patient: it-0108-002704 index:221
@@ -4518,6 +4739,7 @@ who_f2(it_0108_002704,0).
 who_f3(it_0108_002704,9).
 who_f4(it_0108_002704,9).
 typeofoutcome_updated(it_0108_002704,1).
+vaccine(it_0108_002704,0,2).
 patient(it_0108_002704,pos).
 
 %patient: it-0143-004851 index:222
@@ -4537,6 +4759,7 @@ who_f2(it_0143_004851,1).
 who_f3(it_0143_004851,9).
 who_f4(it_0143_004851,9).
 typeofoutcome_updated(it_0143_004851,1).
+vaccine(it_0143_004851,0,1).
 patient(it_0143_004851,pos).
 
 %patient: it-0143-005265 index:223
@@ -4558,6 +4781,7 @@ who_f2(it_0143_005265,0).
 who_f3(it_0143_005265,9).
 who_f4(it_0143_005265,9).
 typeofoutcome_updated(it_0143_005265,1).
+vaccine(it_0143_005265,0,1).
 patient(it_0143_005265,pos).
 
 %patient: it-0143-005273 index:224
@@ -4578,6 +4802,7 @@ who_f2(it_0143_005273,0).
 who_f3(it_0143_005273,9).
 who_f4(it_0143_005273,9).
 typeofoutcome_updated(it_0143_005273,1).
+vaccine(it_0143_005273,0,1).
 patient(it_0143_005273,pos).
 
 %patient: it-0143-005282 index:225
@@ -4600,6 +4825,7 @@ who_f2(it_0143_005282,0).
 who_f3(it_0143_005282,9).
 who_f4(it_0143_005282,9).
 typeofoutcome_updated(it_0143_005282,1).
+vaccine(it_0143_005282,0,1).
 patient(it_0143_005282,pos).
 
 %patient: it-0103-006005 index:226
@@ -4622,6 +4848,7 @@ who_f2(it_0103_006005,9).
 who_f3(it_0103_006005,9).
 who_f4(it_0103_006005,9).
 typeofoutcome_updated(it_0103_006005,1).
+vaccine(it_0103_006005,0,1).
 patient(it_0103_006005,pos).
 
 %patient: it-0131-004311 index:227
@@ -4640,6 +4867,7 @@ who_f2(it_0131_004311,0).
 who_f3(it_0131_004311,9).
 who_f4(it_0131_004311,9).
 typeofoutcome_updated(it_0131_004311,1).
+vaccine(it_0131_004311,0,2).
 patient(it_0131_004311,pos).
 
 %patient: it-0131-004345 index:228
@@ -4657,6 +4885,7 @@ who_f2(it_0131_004345,0).
 who_f3(it_0131_004345,9).
 who_f4(it_0131_004345,9).
 typeofoutcome_updated(it_0131_004345,1).
+vaccine(it_0131_004345,0,2).
 patient(it_0131_004345,pos).
 
 %patient: it-0143-006254 index:229
@@ -4678,6 +4907,7 @@ who_f2(it_0143_006254,4).
 who_f3(it_0143_006254,9).
 who_f4(it_0143_006254,9).
 typeofoutcome_updated(it_0143_006254,1).
+vaccine(it_0143_006254,0,2).
 patient(it_0143_006254,pos).
 
 %patient: it-0158-006079 index:230
@@ -4700,6 +4930,7 @@ who_f2(it_0158_006079,0).
 who_f3(it_0158_006079,9).
 who_f4(it_0158_006079,9).
 typeofoutcome_updated(it_0158_006079,1).
+vaccine(it_0158_006079,0,2).
 patient(it_0158_006079,pos).
 
 %patient: it-0158-006080 index:231
@@ -4725,6 +4956,7 @@ who_f2(it_0158_006080,0).
 who_f3(it_0158_006080,9).
 who_f4(it_0158_006080,9).
 typeofoutcome_updated(it_0158_006080,1).
+vaccine(it_0158_006080,0,2).
 patient(it_0158_006080,pos).
 
 %patient: it-0061-003878 index:232
@@ -4756,6 +4988,7 @@ who_f2(it_0061_003878,0).
 who_f3(it_0061_003878,0).
 who_f4(it_0061_003878,9).
 typeofoutcome_updated(it_0061_003878,1).
+vaccine(it_0061_003878,0,2).
 patient(it_0061_003878,pos).
 
 %patient: it-0143-004087 index:233
@@ -4779,6 +5012,7 @@ who_f2(it_0143_004087,4).
 who_f3(it_0143_004087,0).
 who_f4(it_0143_004087,9).
 typeofoutcome_updated(it_0143_004087,1).
+vaccine(it_0143_004087,0,1).
 patient(it_0143_004087,pos).
 
 %patient: it-0061-003954 index:234
@@ -4802,6 +5036,7 @@ who_f2(it_0061_003954,1).
 who_f3(it_0061_003954,1).
 who_f4(it_0061_003954,9).
 typeofoutcome_updated(it_0061_003954,1).
+vaccine(it_0061_003954,0,1).
 patient(it_0061_003954,pos).
 
 %patient: it-0044-003707 index:235
@@ -4819,6 +5054,7 @@ who_f2(it_0044_003707,0).
 who_f3(it_0044_003707,9).
 who_f4(it_0044_003707,9).
 typeofoutcome_updated(it_0044_003707,1).
+vaccine(it_0044_003707,0,2).
 patient(it_0044_003707,pos).
 
 %patient: it-0043-003647 index:236
@@ -4842,6 +5078,7 @@ who_f2(it_0043_003647,0).
 who_f3(it_0043_003647,9).
 who_f4(it_0043_003647,9).
 typeofoutcome_updated(it_0043_003647,1).
+vaccine(it_0043_003647,0,2).
 patient(it_0043_003647,pos).
 
 %patient: it-0045-005749 index:237
@@ -4863,6 +5100,7 @@ who_f2(it_0045_005749,0).
 who_f3(it_0045_005749,9).
 who_f4(it_0045_005749,9).
 typeofoutcome_updated(it_0045_005749,1).
+vaccine(it_0045_005749,0,2).
 patient(it_0045_005749,pos).
 
 %patient: it-0028-005407 index:238
@@ -4883,6 +5121,7 @@ who_f2(it_0028_005407,0).
 who_f3(it_0028_005407,9).
 who_f4(it_0028_005407,9).
 typeofoutcome_updated(it_0028_005407,1).
+vaccine(it_0028_005407,0,2).
 patient(it_0028_005407,pos).
 
 %patient: it-0042-003628 index:239
@@ -4909,6 +5148,7 @@ who_f2(it_0042_003628,0).
 who_f3(it_0042_003628,9).
 who_f4(it_0042_003628,9).
 typeofoutcome_updated(it_0042_003628,1).
+vaccine(it_0042_003628,0,2).
 patient(it_0042_003628,pos).
 
 %patient: it-0031-004160 index:240
@@ -4929,6 +5169,7 @@ who_f2(it_0031_004160,0).
 who_f3(it_0031_004160,0).
 who_f4(it_0031_004160,9).
 typeofoutcome_updated(it_0031_004160,1).
+vaccine(it_0031_004160,0,2).
 patient(it_0031_004160,pos).
 
 %patient: it-0061-006499 index:241
@@ -4956,6 +5197,7 @@ who_f2(it_0061_006499,0).
 who_f3(it_0061_006499,1).
 who_f4(it_0061_006499,9).
 typeofoutcome_updated(it_0061_006499,1).
+vaccine(it_0061_006499,0,1).
 patient(it_0061_006499,pos).
 
 %patient: it-0061-004094 index:242
@@ -4983,6 +5225,7 @@ who_f2(it_0061_004094,1).
 who_f3(it_0061_004094,1).
 who_f4(it_0061_004094,9).
 typeofoutcome_updated(it_0061_004094,1).
+vaccine(it_0061_004094,0,1).
 patient(it_0061_004094,pos).
 
 %patient: it-0061-006502 index:243
@@ -5008,6 +5251,7 @@ who_f2(it_0061_006502,0).
 who_f3(it_0061_006502,1).
 who_f4(it_0061_006502,9).
 typeofoutcome_updated(it_0061_006502,1).
+vaccine(it_0061_006502,0,1).
 patient(it_0061_006502,pos).
 
 %patient: it-0061-003891 index:244
@@ -5034,6 +5278,7 @@ who_f2(it_0061_003891,0).
 who_f3(it_0061_003891,0).
 who_f4(it_0061_003891,9).
 typeofoutcome_updated(it_0061_003891,1).
+vaccine(it_0061_003891,0,2).
 patient(it_0061_003891,pos).
 
 %patient: it-0061-004008 index:245
@@ -5057,6 +5302,7 @@ who_f2(it_0061_004008,1).
 who_f3(it_0061_004008,1).
 who_f4(it_0061_004008,9).
 typeofoutcome_updated(it_0061_004008,1).
+vaccine(it_0061_004008,0,1).
 patient(it_0061_004008,pos).
 
 %patient: it-0143-003918 index:246
@@ -5082,6 +5328,7 @@ who_f2(it_0143_003918,4).
 who_f3(it_0143_003918,0).
 who_f4(it_0143_003918,9).
 typeofoutcome_updated(it_0143_003918,1).
+vaccine(it_0143_003918,0,2).
 patient(it_0143_003918,pos).
 
 %patient: it-0061-003972 index:247
@@ -5107,6 +5354,7 @@ who_f2(it_0061_003972,1).
 who_f3(it_0061_003972,1).
 who_f4(it_0061_003972,9).
 typeofoutcome_updated(it_0061_003972,1).
+vaccine(it_0061_003972,0,1).
 patient(it_0061_003972,pos).
 
 %patient: it-0061-004415 index:248
@@ -5132,6 +5380,7 @@ who_f2(it_0061_004415,0).
 who_f3(it_0061_004415,1).
 who_f4(it_0061_004415,9).
 typeofoutcome_updated(it_0061_004415,1).
+vaccine(it_0061_004415,0,1).
 patient(it_0061_004415,pos).
 
 %patient: it-0061-003951 index:249
@@ -5152,6 +5401,7 @@ who_f2(it_0061_003951,0).
 who_f3(it_0061_003951,0).
 who_f4(it_0061_003951,9).
 typeofoutcome_updated(it_0061_003951,1).
+vaccine(it_0061_003951,0,2).
 patient(it_0061_003951,pos).
 
 %patient: it-0061-004015 index:250
@@ -5176,6 +5426,7 @@ who_f2(it_0061_004015,0).
 who_f3(it_0061_004015,0).
 who_f4(it_0061_004015,9).
 typeofoutcome_updated(it_0061_004015,1).
+vaccine(it_0061_004015,0,1).
 patient(it_0061_004015,pos).
 
 %patient: it-0103-005971 index:251
@@ -5197,6 +5448,7 @@ who_f2(it_0103_005971,1).
 who_f3(it_0103_005971,1).
 who_f4(it_0103_005971,9).
 typeofoutcome_updated(it_0103_005971,1).
+vaccine(it_0103_005971,0,1).
 patient(it_0103_005971,pos).
 
 %patient: it-0061-006473 index:252
@@ -5218,6 +5470,7 @@ who_f2(it_0061_006473,0).
 who_f3(it_0061_006473,0).
 who_f4(it_0061_006473,9).
 typeofoutcome_updated(it_0061_006473,1).
+vaccine(it_0061_006473,0,2).
 patient(it_0061_006473,pos).
 
 %patient: it-0061-003941 index:253
@@ -5242,6 +5495,7 @@ who_f2(it_0061_003941,1).
 who_f3(it_0061_003941,1).
 who_f4(it_0061_003941,9).
 typeofoutcome_updated(it_0061_003941,1).
+vaccine(it_0061_003941,0,1).
 patient(it_0061_003941,pos).
 
 %patient: it-0143-006157 index:254
@@ -5264,6 +5518,7 @@ who_f2(it_0143_006157,0).
 who_f3(it_0143_006157,1).
 who_f4(it_0143_006157,9).
 typeofoutcome_updated(it_0143_006157,1).
+vaccine(it_0143_006157,0,1).
 patient(it_0143_006157,pos).
 
 %patient: it-0143-006253 index:255
@@ -5283,6 +5538,7 @@ who_f2(it_0143_006253,0).
 who_f3(it_0143_006253,4).
 who_f4(it_0143_006253,9).
 typeofoutcome_updated(it_0143_006253,1).
+vaccine(it_0143_006253,0,2).
 patient(it_0143_006253,pos).
 
 %patient: it-0061-003992 index:256
@@ -5302,6 +5558,7 @@ who_f2(it_0061_003992,0).
 who_f3(it_0061_003992,0).
 who_f4(it_0061_003992,9).
 typeofoutcome_updated(it_0061_003992,1).
+vaccine(it_0061_003992,0,2).
 patient(it_0061_003992,pos).
 
 %patient: it-0061-006498 index:257
@@ -5326,6 +5583,7 @@ who_f2(it_0061_006498,0).
 who_f3(it_0061_006498,0).
 who_f4(it_0061_006498,9).
 typeofoutcome_updated(it_0061_006498,1).
+vaccine(it_0061_006498,0,2).
 patient(it_0061_006498,pos).
 
 %patient: it-0061-004103 index:258
@@ -5347,6 +5605,7 @@ who_f2(it_0061_004103,1).
 who_f3(it_0061_004103,1).
 who_f4(it_0061_004103,9).
 typeofoutcome_updated(it_0061_004103,1).
+vaccine(it_0061_004103,0,1).
 patient(it_0061_004103,pos).
 
 %patient: it-0141-006551 index:259
@@ -5366,6 +5625,7 @@ who_f2(it_0141_006551,4).
 who_f3(it_0141_006551,4).
 who_f4(it_0141_006551,9).
 typeofoutcome_updated(it_0141_006551,1).
+vaccine(it_0141_006551,0,2).
 patient(it_0141_006551,pos).
 
 %patient: it-0130-006106 index:260
@@ -5390,6 +5650,7 @@ who_f2(it_0130_006106,0).
 who_f3(it_0130_006106,4).
 who_f4(it_0130_006106,9).
 typeofoutcome_updated(it_0130_006106,1).
+vaccine(it_0130_006106,1,2).
 patient(it_0130_006106,pos).
 
 %patient: it-0061-004111 index:261
@@ -5415,6 +5676,7 @@ who_f2(it_0061_004111,0).
 who_f3(it_0061_004111,0).
 who_f4(it_0061_004111,9).
 typeofoutcome_updated(it_0061_004111,1).
+vaccine(it_0061_004111,0,2).
 patient(it_0061_004111,pos).
 
 %patient: it-0061-004023 index:262
@@ -5440,6 +5702,7 @@ who_f2(it_0061_004023,1).
 who_f3(it_0061_004023,1).
 who_f4(it_0061_004023,9).
 typeofoutcome_updated(it_0061_004023,1).
+vaccine(it_0061_004023,0,1).
 patient(it_0061_004023,pos).
 
 %patient: it-0051-006421 index:263
@@ -5459,6 +5722,7 @@ who_f2(it_0051_006421,0).
 who_f3(it_0051_006421,0).
 who_f4(it_0051_006421,9).
 typeofoutcome_updated(it_0051_006421,1).
+vaccine(it_0051_006421,0,2).
 patient(it_0051_006421,pos).
 
 %patient: it-0051-006434 index:264
@@ -5480,6 +5744,7 @@ who_f2(it_0051_006434,0).
 who_f3(it_0051_006434,0).
 who_f4(it_0051_006434,9).
 typeofoutcome_updated(it_0051_006434,1).
+vaccine(it_0051_006434,0,2).
 patient(it_0051_006434,pos).
 
 %patient: it-0051-006666 index:265
@@ -5501,6 +5766,7 @@ who_f2(it_0051_006666,0).
 who_f3(it_0051_006666,0).
 who_f4(it_0051_006666,9).
 typeofoutcome_updated(it_0051_006666,1).
+vaccine(it_0051_006666,0,2).
 patient(it_0051_006666,pos).
 
 %patient: it-0061-000672 index:266
@@ -5525,6 +5791,7 @@ who_f2(it_0061_000672,0).
 who_f3(it_0061_000672,0).
 who_f4(it_0061_000672,9).
 typeofoutcome_updated(it_0061_000672,1).
+vaccine(it_0061_000672,0,2).
 patient(it_0061_000672,pos).
 
 %patient: it-0061-004568 index:267
@@ -5550,6 +5817,7 @@ who_f2(it_0061_004568,0).
 who_f3(it_0061_004568,1).
 who_f4(it_0061_004568,9).
 typeofoutcome_updated(it_0061_004568,1).
+vaccine(it_0061_004568,0,1).
 patient(it_0061_004568,pos).
 
 %patient: it-0147-004392 index:268
@@ -5567,6 +5835,7 @@ who_f2(it_0147_004392,9).
 who_f3(it_0147_004392,9).
 who_f4(it_0147_004392,9).
 typeofoutcome_updated(it_0147_004392,1).
+vaccine(it_0147_004392,0,2).
 patient(it_0147_004392,pos).
 
 %patient: it-0106-006786 index:269
@@ -5583,6 +5852,7 @@ who_f2(it_0106_006786,0).
 who_f3(it_0106_006786,0).
 who_f4(it_0106_006786,9).
 typeofoutcome_updated(it_0106_006786,1).
+vaccine(it_0106_006786,0,2).
 patient(it_0106_006786,pos).
 
 %patient: it-0043-003698 index:270
@@ -5603,6 +5873,7 @@ who_f2(it_0043_003698,9).
 who_f3(it_0043_003698,0).
 who_f4(it_0043_003698,9).
 typeofoutcome_updated(it_0043_003698,1).
+vaccine(it_0043_003698,0,2).
 patient(it_0043_003698,pos).
 
 %patient: it-0043-003699 index:271
@@ -5626,6 +5897,7 @@ who_f2(it_0043_003699,9).
 who_f3(it_0043_003699,0).
 who_f4(it_0043_003699,9).
 typeofoutcome_updated(it_0043_003699,1).
+vaccine(it_0043_003699,0,2).
 patient(it_0043_003699,pos).
 
 %patient: it-0051-006450 index:272
@@ -5646,6 +5918,7 @@ who_f2(it_0051_006450,0).
 who_f3(it_0051_006450,0).
 who_f4(it_0051_006450,9).
 typeofoutcome_updated(it_0051_006450,1).
+vaccine(it_0051_006450,0,2).
 patient(it_0051_006450,pos).
 
 %patient: it-0051-006670 index:273
@@ -5665,6 +5938,7 @@ who_f2(it_0051_006670,0).
 who_f3(it_0051_006670,0).
 who_f4(it_0051_006670,9).
 typeofoutcome_updated(it_0051_006670,1).
+vaccine(it_0051_006670,0,2).
 patient(it_0051_006670,pos).
 
 %patient: it-0061-006466 index:274
@@ -5689,6 +5963,7 @@ who_f2(it_0061_006466,0).
 who_f3(it_0061_006466,1).
 who_f4(it_0061_006466,9).
 typeofoutcome_updated(it_0061_006466,1).
+vaccine(it_0061_006466,0,1).
 patient(it_0061_006466,pos).
 
 %patient: it-0103-005993 index:275
@@ -5708,6 +5983,7 @@ who_f2(it_0103_005993,0).
 who_f3(it_0103_005993,1).
 who_f4(it_0103_005993,9).
 typeofoutcome_updated(it_0103_005993,1).
+vaccine(it_0103_005993,0,2).
 patient(it_0103_005993,pos).
 
 %patient: it-0103-006131 index:276
@@ -5726,6 +6002,7 @@ who_f2(it_0103_006131,0).
 who_f3(it_0103_006131,0).
 who_f4(it_0103_006131,9).
 typeofoutcome_updated(it_0103_006131,1).
+vaccine(it_0103_006131,0,2).
 patient(it_0103_006131,pos).
 
 %patient: it-0106-006789 index:277
@@ -5751,6 +6028,7 @@ who_f2(it_0106_006789,0).
 who_f3(it_0106_006789,0).
 who_f4(it_0106_006789,9).
 typeofoutcome_updated(it_0106_006789,1).
+vaccine(it_0106_006789,0,2).
 patient(it_0106_006789,pos).
 
 %patient: it-0143-003919 index:278
@@ -5772,6 +6050,7 @@ who_f2(it_0143_003919,0).
 who_f3(it_0143_003919,4).
 who_f4(it_0143_003919,9).
 typeofoutcome_updated(it_0143_003919,1).
+vaccine(it_0143_003919,0,2).
 patient(it_0143_003919,pos).
 
 %patient: it-0130-004432 index:279
@@ -5796,6 +6075,7 @@ who_f2(it_0130_004432,0).
 who_f3(it_0130_004432,4).
 who_f4(it_0130_004432,9).
 typeofoutcome_updated(it_0130_004432,1).
+vaccine(it_0130_004432,1,2).
 patient(it_0130_004432,pos).
 
 %patient: it-0051-006671 index:280
@@ -5813,6 +6093,7 @@ who_f2(it_0051_006671,0).
 who_f3(it_0051_006671,0).
 who_f4(it_0051_006671,9).
 typeofoutcome_updated(it_0051_006671,1).
+vaccine(it_0051_006671,0,2).
 patient(it_0051_006671,pos).
 
 %patient: it-0103-005975 index:281
@@ -5836,6 +6117,7 @@ who_f2(it_0103_005975,2).
 who_f3(it_0103_005975,1).
 who_f4(it_0103_005975,9).
 typeofoutcome_updated(it_0103_005975,1).
+vaccine(it_0103_005975,0,2).
 patient(it_0103_005975,pos).
 
 %patient: it-0103-006027 index:282
@@ -5859,6 +6141,7 @@ who_f2(it_0103_006027,9).
 who_f3(it_0103_006027,1).
 who_f4(it_0103_006027,9).
 typeofoutcome_updated(it_0103_006027,1).
+vaccine(it_0103_006027,0,1).
 patient(it_0103_006027,pos).
 
 %patient: it-0103-006140 index:283
@@ -5880,6 +6163,7 @@ who_f2(it_0103_006140,9).
 who_f3(it_0103_006140,9).
 who_f4(it_0103_006140,9).
 typeofoutcome_updated(it_0103_006140,1).
+vaccine(it_0103_006140,0,1).
 patient(it_0103_006140,pos).
 
 %patient: it-0130-004632 index:284
@@ -5901,6 +6185,7 @@ who_f2(it_0130_004632,0).
 who_f3(it_0130_004632,4).
 who_f4(it_0130_004632,9).
 typeofoutcome_updated(it_0130_004632,1).
+vaccine(it_0130_004632,1,2).
 patient(it_0130_004632,pos).
 
 %patient: it-0130-006267 index:285
@@ -5924,6 +6209,7 @@ who_f2(it_0130_006267,0).
 who_f3(it_0130_006267,4).
 who_f4(it_0130_006267,9).
 typeofoutcome_updated(it_0130_006267,1).
+vaccine(it_0130_006267,1,2).
 patient(it_0130_006267,pos).
 
 %patient: it-0143-003904 index:286
@@ -5954,6 +6240,7 @@ who_f2(it_0143_003904,0).
 who_f3(it_0143_003904,4).
 who_f4(it_0143_003904,9).
 typeofoutcome_updated(it_0143_003904,1).
+vaccine(it_0143_003904,0,1).
 patient(it_0143_003904,pos).
 
 %patient: it-0061-000651 index:287
@@ -5984,6 +6271,7 @@ who_f2(it_0061_000651,1).
 who_f3(it_0061_000651,1).
 who_f4(it_0061_000651,9).
 typeofoutcome_updated(it_0061_000651,1).
+vaccine(it_0061_000651,0,1).
 patient(it_0061_000651,pos).
 
 %patient: it-0061-004104 index:288
@@ -6008,6 +6296,7 @@ who_f2(it_0061_004104,1).
 who_f3(it_0061_004104,1).
 who_f4(it_0061_004104,9).
 typeofoutcome_updated(it_0061_004104,1).
+vaccine(it_0061_004104,0,1).
 patient(it_0061_004104,pos).
 
 %patient: it-0061-004732 index:289
@@ -6030,6 +6319,7 @@ who_f2(it_0061_004732,0).
 who_f3(it_0061_004732,1).
 who_f4(it_0061_004732,9).
 typeofoutcome_updated(it_0061_004732,1).
+vaccine(it_0061_004732,0,1).
 patient(it_0061_004732,pos).
 
 %patient: it-0061-004405 index:290
@@ -6053,6 +6343,7 @@ who_f2(it_0061_004405,0).
 who_f3(it_0061_004405,1).
 who_f4(it_0061_004405,9).
 typeofoutcome_updated(it_0061_004405,1).
+vaccine(it_0061_004405,0,1).
 patient(it_0061_004405,pos).
 
 %patient: it-0143-004073 index:291
@@ -6080,6 +6371,7 @@ who_f2(it_0143_004073,4).
 who_f3(it_0143_004073,4).
 who_f4(it_0143_004073,9).
 typeofoutcome_updated(it_0143_004073,1).
+vaccine(it_0143_004073,0,1).
 patient(it_0143_004073,pos).
 
 %patient: it-0150-006046 index:292
@@ -6101,6 +6393,7 @@ who_f2(it_0150_006046,0).
 who_f3(it_0150_006046,0).
 who_f4(it_0150_006046,9).
 typeofoutcome_updated(it_0150_006046,1).
+vaccine(it_0150_006046,0,2).
 patient(it_0150_006046,pos).
 
 %patient: it-0156-004899 index:293
@@ -6121,6 +6414,7 @@ who_f2(it_0156_004899,0).
 who_f3(it_0156_004899,0).
 who_f4(it_0156_004899,9).
 typeofoutcome_updated(it_0156_004899,1).
+vaccine(it_0156_004899,0,2).
 patient(it_0156_004899,pos).
 
 %patient: it-0131-004350 index:294
@@ -6143,6 +6437,7 @@ who_f2(it_0131_004350,0).
 who_f3(it_0131_004350,0).
 who_f4(it_0131_004350,9).
 typeofoutcome_updated(it_0131_004350,1).
+vaccine(it_0131_004350,0,2).
 patient(it_0131_004350,pos).
 
 %patient: it-0061-006532 index:295
@@ -6167,6 +6462,7 @@ who_f2(it_0061_006532,0).
 who_f3(it_0061_006532,0).
 who_f4(it_0061_006532,9).
 typeofoutcome_updated(it_0061_006532,1).
+vaccine(it_0061_006532,0,1).
 patient(it_0061_006532,pos).
 
 %patient: it-0061-004218 index:296
@@ -6190,6 +6486,7 @@ who_f2(it_0061_004218,9).
 who_f3(it_0061_004218,0).
 who_f4(it_0061_004218,9).
 typeofoutcome_updated(it_0061_004218,1).
+vaccine(it_0061_004218,0,2).
 patient(it_0061_004218,pos).
 
 %patient: it-0061-006504 index:297
@@ -6214,6 +6511,7 @@ who_f2(it_0061_006504,0).
 who_f3(it_0061_006504,1).
 who_f4(it_0061_006504,9).
 typeofoutcome_updated(it_0061_006504,1).
+vaccine(it_0061_006504,0,1).
 patient(it_0061_006504,pos).
 
 %patient: it-0061-004044 index:298
@@ -6235,6 +6533,7 @@ who_f2(it_0061_004044,0).
 who_f3(it_0061_004044,0).
 who_f4(it_0061_004044,9).
 typeofoutcome_updated(it_0061_004044,1).
+vaccine(it_0061_004044,0,1).
 patient(it_0061_004044,pos).
 
 %patient: it-0125-006125 index:299
@@ -6260,6 +6559,7 @@ who_f2(it_0125_006125,0).
 who_f3(it_0125_006125,0).
 who_f4(it_0125_006125,9).
 typeofoutcome_updated(it_0125_006125,1).
+vaccine(it_0125_006125,0,2).
 patient(it_0125_006125,pos).
 
 %patient: it-0133-006049 index:300
@@ -6280,6 +6580,7 @@ who_f2(it_0133_006049,0).
 who_f3(it_0133_006049,0).
 who_f4(it_0133_006049,9).
 typeofoutcome_updated(it_0133_006049,1).
+vaccine(it_0133_006049,0,2).
 patient(it_0133_006049,pos).
 
 %patient: it-0128-004728 index:301
@@ -6300,6 +6601,7 @@ who_f2(it_0128_004728,0).
 who_f3(it_0128_004728,0).
 who_f4(it_0128_004728,9).
 typeofoutcome_updated(it_0128_004728,1).
+vaccine(it_0128_004728,0,2).
 patient(it_0128_004728,pos).
 
 %patient: it-0129-004673 index:302
@@ -6320,6 +6622,7 @@ who_f2(it_0129_004673,0).
 who_f3(it_0129_004673,0).
 who_f4(it_0129_004673,9).
 typeofoutcome_updated(it_0129_004673,1).
+vaccine(it_0129_004673,0,2).
 patient(it_0129_004673,pos).
 
 %patient: it-0129-004674 index:303
@@ -6342,6 +6645,7 @@ who_f2(it_0129_004674,0).
 who_f3(it_0129_004674,0).
 who_f4(it_0129_004674,9).
 typeofoutcome_updated(it_0129_004674,1).
+vaccine(it_0129_004674,0,2).
 patient(it_0129_004674,pos).
 
 %patient: it-0141-006178 index:304
@@ -6363,6 +6667,7 @@ who_f2(it_0141_006178,0).
 who_f3(it_0141_006178,4).
 who_f4(it_0141_006178,9).
 typeofoutcome_updated(it_0141_006178,1).
+vaccine(it_0141_006178,0,2).
 patient(it_0141_006178,pos).
 
 %patient: it-0143-006209 index:305
@@ -6383,6 +6688,7 @@ who_f2(it_0143_006209,0).
 who_f3(it_0143_006209,0).
 who_f4(it_0143_006209,9).
 typeofoutcome_updated(it_0143_006209,1).
+vaccine(it_0143_006209,0,1).
 patient(it_0143_006209,pos).
 
 %patient: it-0145-006897 index:306
@@ -6401,6 +6707,7 @@ who_f2(it_0145_006897,0).
 who_f3(it_0145_006897,0).
 who_f4(it_0145_006897,9).
 typeofoutcome_updated(it_0145_006897,1).
+vaccine(it_0145_006897,0,2).
 patient(it_0145_006897,pos).
 
 %patient: it-0003-000261 index:307
@@ -6425,6 +6732,7 @@ who_f2(it_0003_000261,0).
 who_f3(it_0003_000261,0).
 who_f4(it_0003_000261,9).
 typeofoutcome_updated(it_0003_000261,1).
+vaccine(it_0003_000261,0,2).
 patient(it_0003_000261,pos).
 
 %patient: it-0016-002665 index:308
@@ -6455,6 +6763,7 @@ who_f2(it_0016_002665,0).
 who_f3(it_0016_002665,0).
 who_f4(it_0016_002665,9).
 typeofoutcome_updated(it_0016_002665,1).
+vaccine(it_0016_002665,0,2).
 patient(it_0016_002665,pos).
 
 %patient: it-0018-003763 index:309
@@ -6482,6 +6791,7 @@ who_f2(it_0018_003763,0).
 who_f3(it_0018_003763,0).
 who_f4(it_0018_003763,9).
 typeofoutcome_updated(it_0018_003763,1).
+vaccine(it_0018_003763,0,2).
 patient(it_0018_003763,pos).
 
 %patient: it-0020-003780 index:310
@@ -6506,6 +6816,7 @@ who_f2(it_0020_003780,0).
 who_f3(it_0020_003780,0).
 who_f4(it_0020_003780,9).
 typeofoutcome_updated(it_0020_003780,1).
+vaccine(it_0020_003780,0,2).
 patient(it_0020_003780,pos).
 
 %patient: it-0020-003781 index:311
@@ -6530,6 +6841,7 @@ who_f2(it_0020_003781,0).
 who_f3(it_0020_003781,0).
 who_f4(it_0020_003781,9).
 typeofoutcome_updated(it_0020_003781,1).
+vaccine(it_0020_003781,0,2).
 patient(it_0020_003781,pos).
 
 %patient: it-0020-003804 index:312
@@ -6556,6 +6868,7 @@ who_f2(it_0020_003804,0).
 who_f3(it_0020_003804,0).
 who_f4(it_0020_003804,9).
 typeofoutcome_updated(it_0020_003804,1).
+vaccine(it_0020_003804,0,2).
 patient(it_0020_003804,pos).
 
 %patient: it-0022-003744 index:313
@@ -6576,6 +6889,7 @@ who_f2(it_0022_003744,0).
 who_f3(it_0022_003744,0).
 who_f4(it_0022_003744,9).
 typeofoutcome_updated(it_0022_003744,1).
+vaccine(it_0022_003744,0,2).
 patient(it_0022_003744,pos).
 
 %patient: it-0042-003626 index:314
@@ -6593,6 +6907,7 @@ who_f2(it_0042_003626,0).
 who_f3(it_0042_003626,0).
 who_f4(it_0042_003626,9).
 typeofoutcome_updated(it_0042_003626,1).
+vaccine(it_0042_003626,0,2).
 patient(it_0042_003626,pos).
 
 %patient: it-0042-003642 index:315
@@ -6616,6 +6931,7 @@ who_f2(it_0042_003642,0).
 who_f3(it_0042_003642,0).
 who_f4(it_0042_003642,9).
 typeofoutcome_updated(it_0042_003642,1).
+vaccine(it_0042_003642,0,2).
 patient(it_0042_003642,pos).
 
 %patient: it-0042-003651 index:316
@@ -6640,6 +6956,7 @@ who_f2(it_0042_003651,0).
 who_f3(it_0042_003651,0).
 who_f4(it_0042_003651,9).
 typeofoutcome_updated(it_0042_003651,1).
+vaccine(it_0042_003651,0,2).
 patient(it_0042_003651,pos).
 
 %patient: it-0042-003652 index:317
@@ -6659,6 +6976,7 @@ who_f2(it_0042_003652,9).
 who_f3(it_0042_003652,1).
 who_f4(it_0042_003652,9).
 typeofoutcome_updated(it_0042_003652,1).
+vaccine(it_0042_003652,0,2).
 patient(it_0042_003652,pos).
 
 %patient: it-0042-003653 index:318
@@ -6678,6 +6996,7 @@ who_f2(it_0042_003653,0).
 who_f3(it_0042_003653,0).
 who_f4(it_0042_003653,9).
 typeofoutcome_updated(it_0042_003653,1).
+vaccine(it_0042_003653,0,2).
 patient(it_0042_003653,pos).
 
 %patient: it-0042-003717 index:319
@@ -6701,6 +7020,7 @@ who_f2(it_0042_003717,0).
 who_f3(it_0042_003717,0).
 who_f4(it_0042_003717,9).
 typeofoutcome_updated(it_0042_003717,1).
+vaccine(it_0042_003717,0,2).
 patient(it_0042_003717,pos).
 
 %patient: it-0042-003730 index:320
@@ -6725,6 +7045,7 @@ who_f2(it_0042_003730,0).
 who_f3(it_0042_003730,0).
 who_f4(it_0042_003730,9).
 typeofoutcome_updated(it_0042_003730,1).
+vaccine(it_0042_003730,0,2).
 patient(it_0042_003730,pos).
 
 %patient: it-0042-003732 index:321
@@ -6744,6 +7065,7 @@ who_f2(it_0042_003732,0).
 who_f3(it_0042_003732,0).
 who_f4(it_0042_003732,9).
 typeofoutcome_updated(it_0042_003732,1).
+vaccine(it_0042_003732,0,2).
 patient(it_0042_003732,pos).
 
 %patient: it-0061-000621 index:322
@@ -6766,6 +7088,7 @@ who_f2(it_0061_000621,0).
 who_f3(it_0061_000621,0).
 who_f4(it_0061_000621,9).
 typeofoutcome_updated(it_0061_000621,1).
+vaccine(it_0061_000621,0,2).
 patient(it_0061_000621,pos).
 
 %patient: it-0061-004016 index:323
@@ -6791,6 +7114,7 @@ who_f2(it_0061_004016,0).
 who_f3(it_0061_004016,0).
 who_f4(it_0061_004016,9).
 typeofoutcome_updated(it_0061_004016,1).
+vaccine(it_0061_004016,0,2).
 patient(it_0061_004016,pos).
 
 %patient: it-0061-004101 index:324
@@ -6809,6 +7133,7 @@ who_f2(it_0061_004101,0).
 who_f3(it_0061_004101,0).
 who_f4(it_0061_004101,9).
 typeofoutcome_updated(it_0061_004101,1).
+vaccine(it_0061_004101,0,1).
 patient(it_0061_004101,pos).
 
 %patient: it-0106-006808 index:325
@@ -6829,6 +7154,7 @@ who_f2(it_0106_006808,0).
 who_f3(it_0106_006808,0).
 who_f4(it_0106_006808,9).
 typeofoutcome_updated(it_0106_006808,1).
+vaccine(it_0106_006808,0,2).
 patient(it_0106_006808,pos).
 
 %patient: it-0108-002680 index:326
@@ -6848,6 +7174,7 @@ who_f2(it_0108_002680,0).
 who_f3(it_0108_002680,0).
 who_f4(it_0108_002680,9).
 typeofoutcome_updated(it_0108_002680,1).
+vaccine(it_0108_002680,0,2).
 patient(it_0108_002680,pos).
 
 %patient: it-0127-006714 index:327
@@ -6866,6 +7193,7 @@ who_f2(it_0127_006714,0).
 who_f3(it_0127_006714,0).
 who_f4(it_0127_006714,9).
 typeofoutcome_updated(it_0127_006714,1).
+vaccine(it_0127_006714,0,2).
 patient(it_0127_006714,pos).
 
 %patient: it-0127-006721 index:328
@@ -6884,6 +7212,7 @@ who_f2(it_0127_006721,0).
 who_f3(it_0127_006721,0).
 who_f4(it_0127_006721,9).
 typeofoutcome_updated(it_0127_006721,1).
+vaccine(it_0127_006721,0,2).
 patient(it_0127_006721,pos).
 
 %patient: it-0127-006727 index:329
@@ -6901,6 +7230,7 @@ who_f2(it_0127_006727,0).
 who_f3(it_0127_006727,0).
 who_f4(it_0127_006727,9).
 typeofoutcome_updated(it_0127_006727,1).
+vaccine(it_0127_006727,0,2).
 patient(it_0127_006727,pos).
 
 %patient: it-0133-006056 index:330
@@ -6924,6 +7254,7 @@ who_f2(it_0133_006056,0).
 who_f3(it_0133_006056,0).
 who_f4(it_0133_006056,9).
 typeofoutcome_updated(it_0133_006056,1).
+vaccine(it_0133_006056,0,2).
 patient(it_0133_006056,pos).
 
 %patient: it-0135-004358 index:331
@@ -6941,6 +7272,7 @@ who_f2(it_0135_004358,0).
 who_f3(it_0135_004358,0).
 who_f4(it_0135_004358,9).
 typeofoutcome_updated(it_0135_004358,1).
+vaccine(it_0135_004358,0,2).
 patient(it_0135_004358,pos).
 
 %patient: it-0135-004649 index:332
@@ -6960,6 +7292,7 @@ who_f2(it_0135_004649,0).
 who_f3(it_0135_004649,0).
 who_f4(it_0135_004649,9).
 typeofoutcome_updated(it_0135_004649,1).
+vaccine(it_0135_004649,0,2).
 patient(it_0135_004649,pos).
 
 %patient: it-0136-005413 index:333
@@ -6977,6 +7310,7 @@ who_f2(it_0136_005413,0).
 who_f3(it_0136_005413,0).
 who_f4(it_0136_005413,9).
 typeofoutcome_updated(it_0136_005413,1).
+vaccine(it_0136_005413,0,2).
 patient(it_0136_005413,pos).
 
 %patient: it-0142-006388 index:334
@@ -7005,6 +7339,7 @@ who_f2(it_0142_006388,0).
 who_f3(it_0142_006388,0).
 who_f4(it_0142_006388,9).
 typeofoutcome_updated(it_0142_006388,1).
+vaccine(it_0142_006388,0,2).
 patient(it_0142_006388,pos).
 
 %patient: it-0143-006158 index:335
@@ -7026,6 +7361,7 @@ who_f2(it_0143_006158,0).
 who_f3(it_0143_006158,0).
 who_f4(it_0143_006158,9).
 typeofoutcome_updated(it_0143_006158,1).
+vaccine(it_0143_006158,0,1).
 patient(it_0143_006158,pos).
 
 %patient: it-0143-006184 index:336
@@ -7043,6 +7379,7 @@ who_f2(it_0143_006184,0).
 who_f3(it_0143_006184,0).
 who_f4(it_0143_006184,9).
 typeofoutcome_updated(it_0143_006184,1).
+vaccine(it_0143_006184,0,1).
 patient(it_0143_006184,pos).
 
 %patient: it-0143-006191 index:337
@@ -7060,6 +7397,7 @@ who_f2(it_0143_006191,0).
 who_f3(it_0143_006191,0).
 who_f4(it_0143_006191,9).
 typeofoutcome_updated(it_0143_006191,1).
+vaccine(it_0143_006191,0,1).
 patient(it_0143_006191,pos).
 
 %patient: it-0143-006195 index:338
@@ -7082,6 +7420,7 @@ who_f2(it_0143_006195,0).
 who_f3(it_0143_006195,0).
 who_f4(it_0143_006195,9).
 typeofoutcome_updated(it_0143_006195,1).
+vaccine(it_0143_006195,0,1).
 patient(it_0143_006195,pos).
 
 %patient: it-0143-006206 index:339
@@ -7105,6 +7444,7 @@ who_f2(it_0143_006206,0).
 who_f3(it_0143_006206,0).
 who_f4(it_0143_006206,9).
 typeofoutcome_updated(it_0143_006206,1).
+vaccine(it_0143_006206,0,1).
 patient(it_0143_006206,pos).
 
 %patient: it-0143-006256 index:340
@@ -7127,6 +7467,7 @@ who_f2(it_0143_006256,4).
 who_f3(it_0143_006256,4).
 who_f4(it_0143_006256,9).
 typeofoutcome_updated(it_0143_006256,1).
+vaccine(it_0143_006256,0,2).
 patient(it_0143_006256,pos).
 
 %patient: it-0143-006283 index:341
@@ -7150,6 +7491,7 @@ who_f2(it_0143_006283,0).
 who_f3(it_0143_006283,0).
 who_f4(it_0143_006283,9).
 typeofoutcome_updated(it_0143_006283,1).
+vaccine(it_0143_006283,0,1).
 patient(it_0143_006283,pos).
 
 %patient: it-0143-006626 index:342
@@ -7170,6 +7512,7 @@ who_f2(it_0143_006626,0).
 who_f3(it_0143_006626,0).
 who_f4(it_0143_006626,9).
 typeofoutcome_updated(it_0143_006626,1).
+vaccine(it_0143_006626,0,1).
 patient(it_0143_006626,pos).
 
 %patient: it-0144-006855 index:343
@@ -7195,6 +7538,7 @@ who_f2(it_0144_006855,0).
 who_f3(it_0144_006855,0).
 who_f4(it_0144_006855,9).
 typeofoutcome_updated(it_0144_006855,1).
+vaccine(it_0144_006855,0,2).
 patient(it_0144_006855,pos).
 
 %patient: it-0144-006863 index:344
@@ -7219,6 +7563,7 @@ who_f2(it_0144_006863,0).
 who_f3(it_0144_006863,0).
 who_f4(it_0144_006863,9).
 typeofoutcome_updated(it_0144_006863,1).
+vaccine(it_0144_006863,0,2).
 patient(it_0144_006863,pos).
 
 %patient: it-0145-006869 index:345
@@ -7242,6 +7587,7 @@ who_f2(it_0145_006869,0).
 who_f3(it_0145_006869,0).
 who_f4(it_0145_006869,9).
 typeofoutcome_updated(it_0145_006869,1).
+vaccine(it_0145_006869,0,2).
 patient(it_0145_006869,pos).
 
 %patient: it-0145-006876 index:346
@@ -7268,6 +7614,7 @@ who_f2(it_0145_006876,0).
 who_f3(it_0145_006876,0).
 who_f4(it_0145_006876,9).
 typeofoutcome_updated(it_0145_006876,1).
+vaccine(it_0145_006876,0,2).
 patient(it_0145_006876,pos).
 
 %patient: it-0145-006883 index:347
@@ -7292,6 +7639,7 @@ who_f2(it_0145_006883,0).
 who_f3(it_0145_006883,0).
 who_f4(it_0145_006883,9).
 typeofoutcome_updated(it_0145_006883,1).
+vaccine(it_0145_006883,0,2).
 patient(it_0145_006883,pos).
 
 %patient: it-0145-006896 index:348
@@ -7313,6 +7661,7 @@ who_f2(it_0145_006896,0).
 who_f3(it_0145_006896,0).
 who_f4(it_0145_006896,9).
 typeofoutcome_updated(it_0145_006896,1).
+vaccine(it_0145_006896,0,2).
 patient(it_0145_006896,pos).
 
 %patient: it-0152-004909 index:349
@@ -7334,6 +7683,7 @@ who_f2(it_0152_004909,0).
 who_f3(it_0152_004909,0).
 who_f4(it_0152_004909,9).
 typeofoutcome_updated(it_0152_004909,1).
+vaccine(it_0152_004909,0,2).
 patient(it_0152_004909,pos).
 
 %patient: it-0152-004918 index:350
@@ -7354,6 +7704,7 @@ who_f2(it_0152_004918,0).
 who_f3(it_0152_004918,0).
 who_f4(it_0152_004918,9).
 typeofoutcome_updated(it_0152_004918,1).
+vaccine(it_0152_004918,0,2).
 patient(it_0152_004918,pos).
 
 %patient: it-0152-004980 index:351
@@ -7373,6 +7724,7 @@ who_f2(it_0152_004980,0).
 who_f3(it_0152_004980,0).
 who_f4(it_0152_004980,9).
 typeofoutcome_updated(it_0152_004980,1).
+vaccine(it_0152_004980,0,2).
 patient(it_0152_004980,pos).
 
 %patient: it-0152-004981 index:352
@@ -7395,6 +7747,7 @@ who_f2(it_0152_004981,0).
 who_f3(it_0152_004981,0).
 who_f4(it_0152_004981,9).
 typeofoutcome_updated(it_0152_004981,1).
+vaccine(it_0152_004981,0,2).
 patient(it_0152_004981,pos).
 
 %patient: it-0152-005049 index:353
@@ -7419,6 +7772,7 @@ who_f2(it_0152_005049,0).
 who_f3(it_0152_005049,0).
 who_f4(it_0152_005049,9).
 typeofoutcome_updated(it_0152_005049,1).
+vaccine(it_0152_005049,0,2).
 patient(it_0152_005049,pos).
 
 %patient: it-0152-005186 index:354
@@ -7440,6 +7794,7 @@ who_f2(it_0152_005186,0).
 who_f3(it_0152_005186,0).
 who_f4(it_0152_005186,9).
 typeofoutcome_updated(it_0152_005186,1).
+vaccine(it_0152_005186,0,2).
 patient(it_0152_005186,pos).
 
 %patient: it-0152-005401 index:355
@@ -7460,6 +7815,7 @@ who_f2(it_0152_005401,0).
 who_f3(it_0152_005401,0).
 who_f4(it_0152_005401,9).
 typeofoutcome_updated(it_0152_005401,1).
+vaccine(it_0152_005401,0,2).
 patient(it_0152_005401,pos).
 
 %patient: it-0152-005433 index:356
@@ -7481,6 +7837,7 @@ who_f2(it_0152_005433,0).
 who_f3(it_0152_005433,0).
 who_f4(it_0152_005433,9).
 typeofoutcome_updated(it_0152_005433,1).
+vaccine(it_0152_005433,0,2).
 patient(it_0152_005433,pos).
 
 %patient: it-0152-005488 index:357
@@ -7498,6 +7855,7 @@ who_f2(it_0152_005488,0).
 who_f3(it_0152_005488,0).
 who_f4(it_0152_005488,9).
 typeofoutcome_updated(it_0152_005488,1).
+vaccine(it_0152_005488,0,2).
 patient(it_0152_005488,pos).
 
 %patient: it-0164-006343 index:358
@@ -7521,6 +7879,7 @@ who_f2(it_0164_006343,0).
 who_f3(it_0164_006343,0).
 who_f4(it_0164_006343,9).
 typeofoutcome_updated(it_0164_006343,1).
+vaccine(it_0164_006343,0,2).
 patient(it_0164_006343,pos).
 
 %patient: it-0164-006404 index:359
@@ -7544,6 +7903,7 @@ who_f2(it_0164_006404,0).
 who_f3(it_0164_006404,0).
 who_f4(it_0164_006404,9).
 typeofoutcome_updated(it_0164_006404,1).
+vaccine(it_0164_006404,0,2).
 patient(it_0164_006404,pos).
 
 %patient: it-0164-006543 index:360
@@ -7562,6 +7922,7 @@ who_f2(it_0164_006543,0).
 who_f3(it_0164_006543,0).
 who_f4(it_0164_006543,9).
 typeofoutcome_updated(it_0164_006543,1).
+vaccine(it_0164_006543,0,2).
 patient(it_0164_006543,pos).
 
 %patient: it-0167-006830 index:361
@@ -7584,6 +7945,7 @@ who_f2(it_0167_006830,0).
 who_f3(it_0167_006830,0).
 who_f4(it_0167_006830,9).
 typeofoutcome_updated(it_0167_006830,1).
+vaccine(it_0167_006830,0,2).
 patient(it_0167_006830,pos).
 
 %patient: it-0169-005981 index:362
@@ -7604,6 +7966,7 @@ who_f2(it_0169_005981,0).
 who_f3(it_0169_005981,0).
 who_f4(it_0169_005981,9).
 typeofoutcome_updated(it_0169_005981,1).
+vaccine(it_0169_005981,0,2).
 patient(it_0169_005981,pos).
 
 %patient: it-0169-006603 index:363
@@ -7625,6 +7988,7 @@ who_f2(it_0169_006603,0).
 who_f3(it_0169_006603,0).
 who_f4(it_0169_006603,9).
 typeofoutcome_updated(it_0169_006603,1).
+vaccine(it_0169_006603,0,2).
 patient(it_0169_006603,pos).
 
 %patient: it-0171-006141 index:364
@@ -7648,6 +8012,7 @@ who_f2(it_0171_006141,0).
 who_f3(it_0171_006141,0).
 who_f4(it_0171_006141,9).
 typeofoutcome_updated(it_0171_006141,1).
+vaccine(it_0171_006141,0,2).
 patient(it_0171_006141,pos).
 
 %patient: it-0171-006154 index:365
@@ -7669,6 +8034,7 @@ who_f2(it_0171_006154,0).
 who_f3(it_0171_006154,0).
 who_f4(it_0171_006154,9).
 typeofoutcome_updated(it_0171_006154,1).
+vaccine(it_0171_006154,0,2).
 patient(it_0171_006154,pos).
 
 %patient: it-0171-006398 index:366
@@ -7688,6 +8054,7 @@ who_f2(it_0171_006398,0).
 who_f3(it_0171_006398,0).
 who_f4(it_0171_006398,9).
 typeofoutcome_updated(it_0171_006398,1).
+vaccine(it_0171_006398,0,2).
 patient(it_0171_006398,pos).
 
 %patient: it-0031-005602 index:367
@@ -7710,6 +8077,7 @@ who_f2(it_0031_005602,0).
 who_f3(it_0031_005602,0).
 who_f4(it_0031_005602,9).
 typeofoutcome_updated(it_0031_005602,1).
+vaccine(it_0031_005602,0,2).
 patient(it_0031_005602,pos).
 
 %patient: it-0123-005708 index:368
@@ -7731,6 +8099,7 @@ who_f2(it_0123_005708,0).
 who_f3(it_0123_005708,0).
 who_f4(it_0123_005708,9).
 typeofoutcome_updated(it_0123_005708,1).
+vaccine(it_0123_005708,0,2).
 patient(it_0123_005708,pos).
 
 %patient: it-0127-006708 index:369
@@ -7751,6 +8120,7 @@ who_f2(it_0127_006708,0).
 who_f3(it_0127_006708,0).
 who_f4(it_0127_006708,9).
 typeofoutcome_updated(it_0127_006708,1).
+vaccine(it_0127_006708,0,2).
 patient(it_0127_006708,pos).
 
 %patient: it-0127-006850 index:370
@@ -7772,6 +8142,7 @@ who_f2(it_0127_006850,0).
 who_f3(it_0127_006850,0).
 who_f4(it_0127_006850,9).
 typeofoutcome_updated(it_0127_006850,1).
+vaccine(it_0127_006850,0,2).
 patient(it_0127_006850,pos).
 
 %patient: it-0130-004580 index:371
@@ -7798,6 +8169,7 @@ who_f2(it_0130_004580,0).
 who_f3(it_0130_004580,4).
 who_f4(it_0130_004580,9).
 typeofoutcome_updated(it_0130_004580,1).
+vaccine(it_0130_004580,1,2).
 patient(it_0130_004580,pos).
 
 %patient: it-0143-005330 index:372
@@ -7818,6 +8190,7 @@ who_f2(it_0143_005330,0).
 who_f3(it_0143_005330,0).
 who_f4(it_0143_005330,9).
 typeofoutcome_updated(it_0143_005330,1).
+vaccine(it_0143_005330,0,1).
 patient(it_0143_005330,pos).
 
 %patient: it-0166-004973 index:373
@@ -7842,6 +8215,7 @@ who_f2(it_0166_004973,0).
 who_f3(it_0166_004973,0).
 who_f4(it_0166_004973,9).
 typeofoutcome_updated(it_0166_004973,1).
+vaccine(it_0166_004973,1,2).
 patient(it_0166_004973,pos).
 
 %patient: it-0052-005744 index:374
@@ -7865,6 +8239,7 @@ who_f2(it_0052_005744,0).
 who_f3(it_0052_005744,0).
 who_f4(it_0052_005744,9).
 typeofoutcome_updated(it_0052_005744,1).
+vaccine(it_0052_005744,0,2).
 patient(it_0052_005744,pos).
 
 %patient: it-0053-005745 index:375
@@ -7889,6 +8264,7 @@ who_f2(it_0053_005745,0).
 who_f3(it_0053_005745,0).
 who_f4(it_0053_005745,9).
 typeofoutcome_updated(it_0053_005745,1).
+vaccine(it_0053_005745,0,2).
 patient(it_0053_005745,pos).
 
 %patient: it-0116-004530 index:376
@@ -7912,6 +8288,7 @@ who_f2(it_0116_004530,0).
 who_f3(it_0116_004530,0).
 who_f4(it_0116_004530,9).
 typeofoutcome_updated(it_0116_004530,1).
+vaccine(it_0116_004530,0,2).
 patient(it_0116_004530,pos).
 
 %patient: it-0116-004956 index:377
@@ -7932,6 +8309,7 @@ who_f2(it_0116_004956,0).
 who_f3(it_0116_004956,0).
 who_f4(it_0116_004956,9).
 typeofoutcome_updated(it_0116_004956,1).
+vaccine(it_0116_004956,0,2).
 patient(it_0116_004956,pos).
 
 %patient: it-0123-005710 index:378
@@ -7957,6 +8335,7 @@ who_f2(it_0123_005710,0).
 who_f3(it_0123_005710,0).
 who_f4(it_0123_005710,9).
 typeofoutcome_updated(it_0123_005710,1).
+vaccine(it_0123_005710,0,2).
 patient(it_0123_005710,pos).
 
 %patient: it-0123-005713 index:379
@@ -7980,6 +8359,7 @@ who_f2(it_0123_005713,0).
 who_f3(it_0123_005713,0).
 who_f4(it_0123_005713,9).
 typeofoutcome_updated(it_0123_005713,1).
+vaccine(it_0123_005713,0,2).
 patient(it_0123_005713,pos).
 
 %patient: it-0125-006430 index:380
@@ -7999,6 +8379,7 @@ who_f2(it_0125_006430,0).
 who_f3(it_0125_006430,0).
 who_f4(it_0125_006430,9).
 typeofoutcome_updated(it_0125_006430,1).
+vaccine(it_0125_006430,0,2).
 patient(it_0125_006430,pos).
 
 %patient: it-0130-005395 index:381
@@ -8020,6 +8401,7 @@ who_f2(it_0130_005395,0).
 who_f3(it_0130_005395,0).
 who_f4(it_0130_005395,9).
 typeofoutcome_updated(it_0130_005395,1).
+vaccine(it_0130_005395,1,2).
 patient(it_0130_005395,pos).
 
 %patient: it-0143-004050 index:382
@@ -8047,6 +8429,7 @@ who_f2(it_0143_004050,0).
 who_f3(it_0143_004050,0).
 who_f4(it_0143_004050,9).
 typeofoutcome_updated(it_0143_004050,1).
+vaccine(it_0143_004050,0,2).
 patient(it_0143_004050,pos).
 
 %patient: it-0152-004890 index:383
@@ -8067,6 +8450,7 @@ who_f2(it_0152_004890,0).
 who_f3(it_0152_004890,0).
 who_f4(it_0152_004890,9).
 typeofoutcome_updated(it_0152_004890,1).
+vaccine(it_0152_004890,0,1).
 patient(it_0152_004890,pos).
 
 %patient: it-0020-004829 index:384
@@ -8090,6 +8474,7 @@ who_f2(it_0020_004829,0).
 who_f3(it_0020_004829,0).
 who_f4(it_0020_004829,9).
 typeofoutcome_updated(it_0020_004829,1).
+vaccine(it_0020_004829,0,2).
 patient(it_0020_004829,pos).
 
 %patient: it-0021-003852 index:385
@@ -8117,6 +8502,7 @@ who_f2(it_0021_003852,0).
 who_f3(it_0021_003852,0).
 who_f4(it_0021_003852,9).
 typeofoutcome_updated(it_0021_003852,1).
+vaccine(it_0021_003852,0,2).
 patient(it_0021_003852,pos).
 
 %patient: it-0044-004233 index:386
@@ -8138,6 +8524,7 @@ who_f2(it_0044_004233,9).
 who_f3(it_0044_004233,0).
 who_f4(it_0044_004233,9).
 typeofoutcome_updated(it_0044_004233,1).
+vaccine(it_0044_004233,0,1).
 patient(it_0044_004233,pos).
 
 %patient: it-0044-004235 index:387
@@ -8164,6 +8551,7 @@ who_f2(it_0044_004235,0).
 who_f3(it_0044_004235,0).
 who_f4(it_0044_004235,9).
 typeofoutcome_updated(it_0044_004235,1).
+vaccine(it_0044_004235,0,1).
 patient(it_0044_004235,pos).
 
 %patient: it-0108-002695 index:388
@@ -8186,6 +8574,7 @@ who_f2(it_0108_002695,0).
 who_f3(it_0108_002695,0).
 who_f4(it_0108_002695,9).
 typeofoutcome_updated(it_0108_002695,1).
+vaccine(it_0108_002695,0,2).
 patient(it_0108_002695,pos).
 
 %patient: it-0143-004849 index:389
@@ -8209,6 +8598,7 @@ who_f2(it_0143_004849,0).
 who_f3(it_0143_004849,1).
 who_f4(it_0143_004849,9).
 typeofoutcome_updated(it_0143_004849,1).
+vaccine(it_0143_004849,0,1).
 patient(it_0143_004849,pos).
 
 %patient: it-0143-004857 index:390
@@ -8230,6 +8620,7 @@ who_f2(it_0143_004857,0).
 who_f3(it_0143_004857,1).
 who_f4(it_0143_004857,9).
 typeofoutcome_updated(it_0143_004857,1).
+vaccine(it_0143_004857,0,1).
 patient(it_0143_004857,pos).
 
 %patient: it-0143-005247 index:391
@@ -8251,6 +8642,7 @@ who_f2(it_0143_005247,0).
 who_f3(it_0143_005247,1).
 who_f4(it_0143_005247,9).
 typeofoutcome_updated(it_0143_005247,1).
+vaccine(it_0143_005247,0,1).
 patient(it_0143_005247,pos).
 
 %patient: it-0143-006622 index:392
@@ -8268,6 +8660,7 @@ who_f2(it_0143_006622,0).
 who_f3(it_0143_006622,1).
 who_f4(it_0143_006622,9).
 typeofoutcome_updated(it_0143_006622,1).
+vaccine(it_0143_006622,0,1).
 patient(it_0143_006622,pos).
 
 %patient: it-0169-006433 index:393
@@ -8285,6 +8678,7 @@ who_f2(it_0169_006433,0).
 who_f3(it_0169_006433,0).
 who_f4(it_0169_006433,9).
 typeofoutcome_updated(it_0169_006433,1).
+vaccine(it_0169_006433,0,2).
 patient(it_0169_006433,pos).
 
 %patient: it-0061-004224 index:394
@@ -8305,6 +8699,7 @@ who_f2(it_0061_004224,0).
 who_f3(it_0061_004224,4).
 who_f4(it_0061_004224,9).
 typeofoutcome_updated(it_0061_004224,1).
+vaccine(it_0061_004224,0,2).
 patient(it_0061_004224,pos).
 
 %patient: it-0061-004035 index:395
@@ -8328,6 +8723,7 @@ who_f2(it_0061_004035,1).
 who_f3(it_0061_004035,1).
 who_f4(it_0061_004035,1).
 typeofoutcome_updated(it_0061_004035,1).
+vaccine(it_0061_004035,0,1).
 patient(it_0061_004035,pos).
 
 %patient: it-0125-004268 index:396
@@ -8353,6 +8749,7 @@ who_f2(it_0125_004268,0).
 who_f3(it_0125_004268,0).
 who_f4(it_0125_004268,9).
 typeofoutcome_updated(it_0125_004268,1).
+vaccine(it_0125_004268,0,2).
 patient(it_0125_004268,pos).
 
 %patient: it-0125-004278 index:397
@@ -8374,6 +8771,7 @@ who_f2(it_0125_004278,0).
 who_f3(it_0125_004278,0).
 who_f4(it_0125_004278,9).
 typeofoutcome_updated(it_0125_004278,1).
+vaccine(it_0125_004278,0,2).
 patient(it_0125_004278,pos).
 
 %patient: it-0132-005626 index:398
@@ -8397,6 +8795,7 @@ who_f2(it_0132_005626,0).
 who_f3(it_0132_005626,0).
 who_f4(it_0132_005626,9).
 typeofoutcome_updated(it_0132_005626,1).
+vaccine(it_0132_005626,0,2).
 patient(it_0132_005626,pos).
 
 %patient: it-0125-004124 index:399
@@ -8424,6 +8823,7 @@ who_f2(it_0125_004124,0).
 who_f3(it_0125_004124,0).
 who_f4(it_0125_004124,9).
 typeofoutcome_updated(it_0125_004124,1).
+vaccine(it_0125_004124,0,2).
 patient(it_0125_004124,pos).
 
 %patient: it-0166-005072 index:400
@@ -8446,6 +8846,7 @@ who_f2(it_0166_005072,0).
 who_f3(it_0166_005072,0).
 who_f4(it_0166_005072,9).
 typeofoutcome_updated(it_0166_005072,1).
+vaccine(it_0166_005072,1,2).
 patient(it_0166_005072,pos).
 
 %patient: it-0061-004105 index:401
@@ -8474,6 +8875,7 @@ who_f2(it_0061_004105,1).
 who_f3(it_0061_004105,1).
 who_f4(it_0061_004105,1).
 typeofoutcome_updated(it_0061_004105,1).
+vaccine(it_0061_004105,0,1).
 patient(it_0061_004105,pos).
 
 %patient: it-0126-005344 index:402
@@ -8502,6 +8904,7 @@ who_f2(it_0126_005344,0).
 who_f3(it_0126_005344,0).
 who_f4(it_0126_005344,9).
 typeofoutcome_updated(it_0126_005344,1).
+vaccine(it_0126_005344,0,2).
 patient(it_0126_005344,pos).
 
 %patient: it-0143-003915 index:403
@@ -8530,6 +8933,7 @@ who_f2(it_0143_003915,0).
 who_f3(it_0143_003915,4).
 who_f4(it_0143_003915,9).
 typeofoutcome_updated(it_0143_003915,1).
+vaccine(it_0143_003915,0,2).
 patient(it_0143_003915,pos).
 
 %patient: it-0148-005582 index:404
@@ -8550,6 +8954,7 @@ who_f2(it_0148_005582,9).
 who_f3(it_0148_005582,0).
 who_f4(it_0148_005582,9).
 typeofoutcome_updated(it_0148_005582,1).
+vaccine(it_0148_005582,0,2).
 patient(it_0148_005582,pos).
 
 %patient: it-0171-006355 index:405
@@ -8568,6 +8973,7 @@ who_f2(it_0171_006355,0).
 who_f3(it_0171_006355,0).
 who_f4(it_0171_006355,9).
 typeofoutcome_updated(it_0171_006355,1).
+vaccine(it_0171_006355,1,3).
 patient(it_0171_006355,pos).
 
 %patient: it-0016-003675 index:406
@@ -8593,6 +8999,7 @@ who_f2(it_0016_003675,0).
 who_f3(it_0016_003675,0).
 who_f4(it_0016_003675,9).
 typeofoutcome_updated(it_0016_003675,1).
+vaccine(it_0016_003675,0,2).
 patient(it_0016_003675,pos).
 
 %patient: it-0061-000591 index:407
@@ -8621,6 +9028,7 @@ who_f2(it_0061_000591,1).
 who_f3(it_0061_000591,0).
 who_f4(it_0061_000591,0).
 typeofoutcome_updated(it_0061_000591,1).
+vaccine(it_0061_000591,0,2).
 patient(it_0061_000591,pos).
 
 %patient: it-0061-000641 index:408
@@ -8647,6 +9055,7 @@ who_f2(it_0061_000641,0).
 who_f3(it_0061_000641,0).
 who_f4(it_0061_000641,0).
 typeofoutcome_updated(it_0061_000641,1).
+vaccine(it_0061_000641,0,2).
 patient(it_0061_000641,pos).
 
 %patient: it-0130-005289 index:409
@@ -8667,6 +9076,7 @@ who_f2(it_0130_005289,0).
 who_f3(it_0130_005289,0).
 who_f4(it_0130_005289,4).
 typeofoutcome_updated(it_0130_005289,1).
+vaccine(it_0130_005289,1,2).
 patient(it_0130_005289,pos).
 
 %patient: it-0141-006182 index:410
@@ -8687,6 +9097,7 @@ who_f2(it_0141_006182,0).
 who_f3(it_0141_006182,4).
 who_f4(it_0141_006182,9).
 typeofoutcome_updated(it_0141_006182,1).
+vaccine(it_0141_006182,0,2).
 patient(it_0141_006182,pos).
 
 %patient: it-0061-006480 index:411
@@ -8708,6 +9119,7 @@ who_f2(it_0061_006480,0).
 who_f3(it_0061_006480,1).
 who_f4(it_0061_006480,1).
 typeofoutcome_updated(it_0061_006480,1).
+vaccine(it_0061_006480,0,2).
 patient(it_0061_006480,pos).
 
 %patient: it-0061-006457 index:412
@@ -8735,6 +9147,7 @@ who_f2(it_0061_006457,0).
 who_f3(it_0061_006457,1).
 who_f4(it_0061_006457,1).
 typeofoutcome_updated(it_0061_006457,1).
+vaccine(it_0061_006457,0,1).
 patient(it_0061_006457,pos).
 
 %patient: it-0143-004066 index:413
@@ -8763,6 +9176,7 @@ who_f2(it_0143_004066,0).
 who_f3(it_0143_004066,0).
 who_f4(it_0143_004066,9).
 typeofoutcome_updated(it_0143_004066,1).
+vaccine(it_0143_004066,0,2).
 patient(it_0143_004066,pos).
 
 %patient: it-0061-000581 index:414
@@ -8784,6 +9198,7 @@ who_f2(it_0061_000581,0).
 who_f3(it_0061_000581,0).
 who_f4(it_0061_000581,0).
 typeofoutcome_updated(it_0061_000581,1).
+vaccine(it_0061_000581,0,2).
 patient(it_0061_000581,pos).
 
 %patient: it-0061-004038 index:415
@@ -8806,6 +9221,7 @@ who_f2(it_0061_004038,0).
 who_f3(it_0061_004038,0).
 who_f4(it_0061_004038,0).
 typeofoutcome_updated(it_0061_004038,1).
+vaccine(it_0061_004038,0,2).
 patient(it_0061_004038,pos).
 
 %patient: it-0152-004837 index:416
@@ -8830,6 +9246,7 @@ who_f2(it_0152_004837,0).
 who_f3(it_0152_004837,0).
 who_f4(it_0152_004837,9).
 typeofoutcome_updated(it_0152_004837,1).
+vaccine(it_0152_004837,0,3).
 patient(it_0152_004837,pos).
 
 %patient: it-0143-004842 index:417
@@ -8850,6 +9267,7 @@ who_f2(it_0143_004842,0).
 who_f3(it_0143_004842,0).
 who_f4(it_0143_004842,9).
 typeofoutcome_updated(it_0143_004842,1).
+vaccine(it_0143_004842,0,2).
 patient(it_0143_004842,pos).
 
 %patient: it-0143-004844 index:418
@@ -8873,6 +9291,7 @@ who_f2(it_0143_004844,0).
 who_f3(it_0143_004844,0).
 who_f4(it_0143_004844,9).
 typeofoutcome_updated(it_0143_004844,1).
+vaccine(it_0143_004844,0,2).
 patient(it_0143_004844,pos).
 
 %patient: it-0152-005008 index:419
@@ -8891,6 +9310,7 @@ who_f2(it_0152_005008,0).
 who_f3(it_0152_005008,1).
 who_f4(it_0152_005008,9).
 typeofoutcome_updated(it_0152_005008,1).
+vaccine(it_0152_005008,0,2).
 patient(it_0152_005008,pos).
 
 %patient: it-0134-004937 index:420
@@ -8911,6 +9331,7 @@ who_f2(it_0134_004937,0).
 who_f3(it_0134_004937,0).
 who_f4(it_0134_004937,9).
 typeofoutcome_updated(it_0134_004937,1).
+vaccine(it_0134_004937,0,2).
 patient(it_0134_004937,pos).
 
 %patient: it-0061-003996 index:421
@@ -8930,6 +9351,7 @@ who_f2(it_0061_003996,0).
 who_f3(it_0061_003996,0).
 who_f4(it_0061_003996,0).
 typeofoutcome_updated(it_0061_003996,1).
+vaccine(it_0061_003996,0,2).
 patient(it_0061_003996,pos).
 
 %patient: it-0132-004282 index:422
@@ -8955,6 +9377,7 @@ who_f2(it_0132_004282,0).
 who_f3(it_0132_004282,0).
 who_f4(it_0132_004282,9).
 typeofoutcome_updated(it_0132_004282,1).
+vaccine(it_0132_004282,0,3).
 patient(it_0132_004282,pos).
 
 %patient: it-0164-006363 index:423
@@ -8977,6 +9400,7 @@ who_f2(it_0164_006363,0).
 who_f3(it_0164_006363,0).
 who_f4(it_0164_006363,9).
 typeofoutcome_updated(it_0164_006363,1).
+vaccine(it_0164_006363,1,3).
 patient(it_0164_006363,pos).
 
 %patient: it-0143-004839 index:424
@@ -8997,6 +9421,7 @@ who_f2(it_0143_004839,0).
 who_f3(it_0143_004839,0).
 who_f4(it_0143_004839,9).
 typeofoutcome_updated(it_0143_004839,1).
+vaccine(it_0143_004839,0,2).
 patient(it_0143_004839,pos).
 
 %patient: it-0143-004856 index:425
@@ -9016,6 +9441,7 @@ who_f2(it_0143_004856,0).
 who_f3(it_0143_004856,1).
 who_f4(it_0143_004856,9).
 typeofoutcome_updated(it_0143_004856,1).
+vaccine(it_0143_004856,0,2).
 patient(it_0143_004856,pos).
 
 %patient: it-0143-005246 index:426
@@ -9036,6 +9462,7 @@ who_f2(it_0143_005246,0).
 who_f3(it_0143_005246,1).
 who_f4(it_0143_005246,9).
 typeofoutcome_updated(it_0143_005246,1).
+vaccine(it_0143_005246,0,2).
 patient(it_0143_005246,pos).
 
 %patient: it-0052-005743 index:427
@@ -9063,6 +9490,7 @@ who_f2(it_0052_005743,0).
 who_f3(it_0052_005743,0).
 who_f4(it_0052_005743,9).
 typeofoutcome_updated(it_0052_005743,1).
+vaccine(it_0052_005743,0,3).
 patient(it_0052_005743,pos).
 
 %patient: it-0143-006151 index:428
@@ -9083,6 +9511,7 @@ who_f2(it_0143_006151,0).
 who_f3(it_0143_006151,1).
 who_f4(it_0143_006151,9).
 typeofoutcome_updated(it_0143_006151,1).
+vaccine(it_0143_006151,0,2).
 patient(it_0143_006151,pos).
 
 %patient: it-0125-005721 index:429
@@ -9103,6 +9532,7 @@ who_f2(it_0125_005721,0).
 who_f3(it_0125_005721,0).
 who_f4(it_0125_005721,9).
 typeofoutcome_updated(it_0125_005721,1).
+vaccine(it_0125_005721,0,3).
 patient(it_0125_005721,pos).
 
 %patient: it-0061-004009 index:430
@@ -9126,6 +9556,7 @@ who_f2(it_0061_004009,0).
 who_f3(it_0061_004009,0).
 who_f4(it_0061_004009,0).
 typeofoutcome_updated(it_0061_004009,1).
+vaccine(it_0061_004009,0,2).
 patient(it_0061_004009,pos).
 
 %patient: it-0061-004036 index:431
@@ -9149,6 +9580,7 @@ who_f2(it_0061_004036,0).
 who_f3(it_0061_004036,0).
 who_f4(it_0061_004036,0).
 typeofoutcome_updated(it_0061_004036,1).
+vaccine(it_0061_004036,0,2).
 patient(it_0061_004036,pos).
 
 %patient: it-0143-005309 index:432
@@ -9168,6 +9600,7 @@ who_f2(it_0143_005309,0).
 who_f3(it_0143_005309,1).
 who_f4(it_0143_005309,9).
 typeofoutcome_updated(it_0143_005309,1).
+vaccine(it_0143_005309,0,2).
 patient(it_0143_005309,pos).
 
 %patient: it-0166-006244 index:433
@@ -9191,6 +9624,7 @@ who_f2(it_0166_006244,0).
 who_f3(it_0166_006244,0).
 who_f4(it_0166_006244,9).
 typeofoutcome_updated(it_0166_006244,1).
+vaccine(it_0166_006244,1,3).
 patient(it_0166_006244,pos).
 
 %patient: it-0130-005209 index:434
@@ -9212,6 +9646,7 @@ who_f2(it_0130_005209,0).
 who_f3(it_0130_005209,0).
 who_f4(it_0130_005209,4).
 typeofoutcome_updated(it_0130_005209,1).
+vaccine(it_0130_005209,1,2).
 patient(it_0130_005209,pos).
 
 %patient: it-0061-004021 index:435
@@ -9236,6 +9671,7 @@ who_f2(it_0061_004021,0).
 who_f3(it_0061_004021,0).
 who_f4(it_0061_004021,0).
 typeofoutcome_updated(it_0061_004021,1).
+vaccine(it_0061_004021,0,2).
 patient(it_0061_004021,pos).
 
 %patient: it-0143-006208 index:436
@@ -9254,6 +9690,7 @@ who_f2(it_0143_006208,0).
 who_f3(it_0143_006208,0).
 who_f4(it_0143_006208,9).
 typeofoutcome_updated(it_0143_006208,1).
+vaccine(it_0143_006208,0,2).
 patient(it_0143_006208,pos).
 
 %patient: it-0130-004820 index:437
@@ -9276,6 +9713,7 @@ who_f2(it_0130_004820,0).
 who_f3(it_0130_004820,0).
 who_f4(it_0130_004820,0).
 typeofoutcome_updated(it_0130_004820,1).
+vaccine(it_0130_004820,1,2).
 patient(it_0130_004820,pos).
 
 %patient: it-0166-005022 index:438
@@ -9302,6 +9740,7 @@ who_f2(it_0166_005022,0).
 who_f3(it_0166_005022,0).
 who_f4(it_0166_005022,9).
 typeofoutcome_updated(it_0166_005022,1).
+vaccine(it_0166_005022,1,3).
 patient(it_0166_005022,pos).
 
 %patient: it-0166-005035 index:439
@@ -9329,6 +9768,7 @@ who_f2(it_0166_005035,0).
 who_f3(it_0166_005035,0).
 who_f4(it_0166_005035,9).
 typeofoutcome_updated(it_0166_005035,1).
+vaccine(it_0166_005035,1,3).
 patient(it_0166_005035,pos).
 
 %patient: it-0166-005042 index:440
@@ -9351,6 +9791,7 @@ who_f2(it_0166_005042,0).
 who_f3(it_0166_005042,0).
 who_f4(it_0166_005042,9).
 typeofoutcome_updated(it_0166_005042,1).
+vaccine(it_0166_005042,1,3).
 patient(it_0166_005042,pos).
 
 %patient: it-0166-005044 index:441
@@ -9376,6 +9817,7 @@ who_f2(it_0166_005044,0).
 who_f3(it_0166_005044,0).
 who_f4(it_0166_005044,9).
 typeofoutcome_updated(it_0166_005044,1).
+vaccine(it_0166_005044,1,3).
 patient(it_0166_005044,pos).
 
 %patient: it-0166-006247 index:442
@@ -9397,6 +9839,7 @@ who_f2(it_0166_006247,0).
 who_f3(it_0166_006247,0).
 who_f4(it_0166_006247,9).
 typeofoutcome_updated(it_0166_006247,1).
+vaccine(it_0166_006247,1,3).
 patient(it_0166_006247,pos).
 
 %patient: it-0166-005005 index:443
@@ -9424,6 +9867,7 @@ who_f2(it_0166_005005,0).
 who_f3(it_0166_005005,0).
 who_f4(it_0166_005005,9).
 typeofoutcome_updated(it_0166_005005,1).
+vaccine(it_0166_005005,1,3).
 patient(it_0166_005005,pos).
 
 %patient: it-0166-005113 index:444
@@ -9447,6 +9891,7 @@ who_f2(it_0166_005113,0).
 who_f3(it_0166_005113,0).
 who_f4(it_0166_005113,9).
 typeofoutcome_updated(it_0166_005113,1).
+vaccine(it_0166_005113,1,3).
 patient(it_0166_005113,pos).
 
 %patient: it-0143-005248 index:445
@@ -9470,6 +9915,7 @@ who_f2(it_0143_005248,0).
 who_f3(it_0143_005248,1).
 who_f4(it_0143_005248,9).
 typeofoutcome_updated(it_0143_005248,1).
+vaccine(it_0143_005248,0,2).
 patient(it_0143_005248,pos).
 
 %patient: it-0061-003886 index:446
@@ -9499,6 +9945,7 @@ who_f2(it_0061_003886,1).
 who_f3(it_0061_003886,1).
 who_f4(it_0061_003886,1).
 typeofoutcome_updated(it_0061_003886,1).
+vaccine(it_0061_003886,0,1).
 patient(it_0061_003886,pos).
 
 %patient: it-0141-006002 index:447
@@ -9519,6 +9966,7 @@ who_f2(it_0141_006002,0).
 who_f3(it_0141_006002,0).
 who_f4(it_0141_006002,9).
 typeofoutcome_updated(it_0141_006002,1).
+vaccine(it_0141_006002,0,3).
 patient(it_0141_006002,pos).
 
 %patient: it-0061-004000 index:448
@@ -9541,6 +9989,7 @@ who_f2(it_0061_004000,1).
 who_f3(it_0061_004000,1).
 who_f4(it_0061_004000,1).
 typeofoutcome_updated(it_0061_004000,1).
+vaccine(it_0061_004000,0,1).
 patient(it_0061_004000,pos).
 
 %patient: it-0141-005818 index:449
@@ -9560,6 +10009,7 @@ who_f2(it_0141_005818,0).
 who_f3(it_0141_005818,0).
 who_f4(it_0141_005818,9).
 typeofoutcome_updated(it_0141_005818,1).
+vaccine(it_0141_005818,0,3).
 patient(it_0141_005818,pos).
 
 %patient: it-0061-004414 index:450
@@ -9583,6 +10033,7 @@ who_f2(it_0061_004414,0).
 who_f3(it_0061_004414,1).
 who_f4(it_0061_004414,1).
 typeofoutcome_updated(it_0061_004414,1).
+vaccine(it_0061_004414,0,1).
 patient(it_0061_004414,pos).
 
 %patient: it-0003-000284 index:451
@@ -9609,6 +10060,7 @@ who_f2(it_0003_000284,0).
 who_f3(it_0003_000284,0).
 who_f4(it_0003_000284,9).
 typeofoutcome_updated(it_0003_000284,1).
+vaccine(it_0003_000284,0,3).
 patient(it_0003_000284,pos).
 
 %patient: it-0061-004742 index:452
@@ -9634,6 +10086,7 @@ who_f2(it_0061_004742,0).
 who_f3(it_0061_004742,1).
 who_f4(it_0061_004742,1).
 typeofoutcome_updated(it_0061_004742,1).
+vaccine(it_0061_004742,0,2).
 patient(it_0061_004742,pos).
 
 %patient: it-0130-004884 index:453
@@ -9653,6 +10106,7 @@ who_f2(it_0130_004884,0).
 who_f3(it_0130_004884,0).
 who_f4(it_0130_004884,9).
 typeofoutcome_updated(it_0130_004884,1).
+vaccine(it_0130_004884,1,3).
 patient(it_0130_004884,pos).
 
 %patient: it-0061-004013 index:454
@@ -9677,6 +10131,7 @@ who_f2(it_0061_004013,1).
 who_f3(it_0061_004013,1).
 who_f4(it_0061_004013,1).
 typeofoutcome_updated(it_0061_004013,1).
+vaccine(it_0061_004013,0,1).
 patient(it_0061_004013,pos).
 
 %patient: it-0062-000974 index:455
@@ -9693,6 +10148,7 @@ who_f2(it_0062_000974,0).
 who_f3(it_0062_000974,0).
 who_f4(it_0062_000974,9).
 typeofoutcome_updated(it_0062_000974,1).
+vaccine(it_0062_000974,0,3).
 patient(it_0062_000974,pos).
 
 %patient: it-0061-003883 index:456
@@ -9720,6 +10176,7 @@ who_f2(it_0061_003883,1).
 who_f3(it_0061_003883,1).
 who_f4(it_0061_003883,1).
 typeofoutcome_updated(it_0061_003883,1).
+vaccine(it_0061_003883,0,1).
 patient(it_0061_003883,pos).
 
 %patient: it-0141-005387 index:457
@@ -9744,6 +10201,7 @@ who_f2(it_0141_005387,0).
 who_f3(it_0141_005387,0).
 who_f4(it_0141_005387,9).
 typeofoutcome_updated(it_0141_005387,1).
+vaccine(it_0141_005387,0,2).
 patient(it_0141_005387,pos).
 
 %patient: it-0136-005509 index:458
@@ -9761,6 +10219,7 @@ who_f2(it_0136_005509,0).
 who_f3(it_0136_005509,0).
 who_f4(it_0136_005509,9).
 typeofoutcome_updated(it_0136_005509,1).
+vaccine(it_0136_005509,0,3).
 patient(it_0136_005509,pos).
 
 %patient: it-0170-006677 index:459
@@ -9779,6 +10238,7 @@ who_f2(it_0170_006677,0).
 who_f3(it_0170_006677,0).
 who_f4(it_0170_006677,9).
 typeofoutcome_updated(it_0170_006677,1).
+vaccine(it_0170_006677,0,3).
 patient(it_0170_006677,pos).
 
 %patient: it-0170-006680 index:460
@@ -9803,6 +10263,7 @@ who_f2(it_0170_006680,0).
 who_f3(it_0170_006680,0).
 who_f4(it_0170_006680,9).
 typeofoutcome_updated(it_0170_006680,1).
+vaccine(it_0170_006680,0,3).
 patient(it_0170_006680,pos).
 
 %patient: it-0061-006527 index:461
@@ -9821,6 +10282,7 @@ who_f2(it_0061_006527,0).
 who_f3(it_0061_006527,0).
 who_f4(it_0061_006527,0).
 typeofoutcome_updated(it_0061_006527,1).
+vaccine(it_0061_006527,0,3).
 patient(it_0061_006527,pos).
 
 %patient: it-0061-004741 index:462
@@ -9843,6 +10305,7 @@ who_f2(it_0061_004741,0).
 who_f3(it_0061_004741,1).
 who_f4(it_0061_004741,1).
 typeofoutcome_updated(it_0061_004741,1).
+vaccine(it_0061_004741,0,1).
 patient(it_0061_004741,pos).
 
 %patient: it-0061-003887 index:463
@@ -9871,6 +10334,7 @@ who_f2(it_0061_003887,0).
 who_f3(it_0061_003887,0).
 who_f4(it_0061_003887,0).
 typeofoutcome_updated(it_0061_003887,1).
+vaccine(it_0061_003887,0,3).
 patient(it_0061_003887,pos).
 
 %patient: it-0166-006222 index:464
@@ -9892,6 +10356,7 @@ who_f2(it_0166_006222,0).
 who_f3(it_0166_006222,0).
 who_f4(it_0166_006222,9).
 typeofoutcome_updated(it_0166_006222,1).
+vaccine(it_0166_006222,1,3).
 patient(it_0166_006222,pos).
 
 %patient: it-0015-002603 index:465
@@ -9921,6 +10386,7 @@ who_f2(it_0015_002603,0).
 who_f3(it_0015_002603,0).
 who_f4(it_0015_002603,9).
 typeofoutcome_updated(it_0015_002603,1).
+vaccine(it_0015_002603,0,3).
 patient(it_0015_002603,pos).
 
 %patient: it-0015-003926 index:466
@@ -9949,6 +10415,7 @@ who_f2(it_0015_003926,0).
 who_f3(it_0015_003926,0).
 who_f4(it_0015_003926,9).
 typeofoutcome_updated(it_0015_003926,1).
+vaccine(it_0015_003926,0,3).
 patient(it_0015_003926,pos).
 
 %patient: it-0015-003987 index:467
@@ -9979,6 +10446,7 @@ who_f2(it_0015_003987,0).
 who_f3(it_0015_003987,0).
 who_f4(it_0015_003987,9).
 typeofoutcome_updated(it_0015_003987,1).
+vaccine(it_0015_003987,0,3).
 patient(it_0015_003987,pos).
 
 %patient: it-0042-003641 index:468
@@ -9999,6 +10467,7 @@ who_f2(it_0042_003641,0).
 who_f3(it_0042_003641,0).
 who_f4(it_0042_003641,9).
 typeofoutcome_updated(it_0042_003641,1).
+vaccine(it_0042_003641,0,3).
 patient(it_0042_003641,pos).
 
 %patient: it-0061-004108 index:469
@@ -10019,6 +10488,7 @@ who_f2(it_0061_004108,0).
 who_f3(it_0061_004108,0).
 who_f4(it_0061_004108,0).
 typeofoutcome_updated(it_0061_004108,1).
+vaccine(it_0061_004108,0,2).
 patient(it_0061_004108,pos).
 
 %patient: it-0053-004253 index:470
@@ -10038,6 +10508,7 @@ who_f2(it_0053_004253,0).
 who_f3(it_0053_004253,0).
 who_f4(it_0053_004253,9).
 typeofoutcome_updated(it_0053_004253,1).
+vaccine(it_0053_004253,0,3).
 patient(it_0053_004253,pos).
 
 %patient: it-0143-006287 index:471
@@ -10058,6 +10529,7 @@ who_f2(it_0143_006287,0).
 who_f3(it_0143_006287,0).
 who_f4(it_0143_006287,9).
 typeofoutcome_updated(it_0143_006287,1).
+vaccine(it_0143_006287,0,2).
 patient(it_0143_006287,pos).
 
 %patient: it-0143-006636 index:472
@@ -10078,6 +10550,7 @@ who_f2(it_0143_006636,0).
 who_f3(it_0143_006636,0).
 who_f4(it_0143_006636,9).
 typeofoutcome_updated(it_0143_006636,1).
+vaccine(it_0143_006636,0,2).
 patient(it_0143_006636,pos).
 
 %patient: it-0061-000614 index:473
@@ -10104,6 +10577,7 @@ who_f2(it_0061_000614,0).
 who_f3(it_0061_000614,0).
 who_f4(it_0061_000614,0).
 typeofoutcome_updated(it_0061_000614,1).
+vaccine(it_0061_000614,0,3).
 patient(it_0061_000614,pos).
 
 %patient: it-0061-004018 index:474
@@ -10125,6 +10599,7 @@ who_f2(it_0061_004018,1).
 who_f3(it_0061_004018,1).
 who_f4(it_0061_004018,1).
 typeofoutcome_updated(it_0061_004018,1).
+vaccine(it_0061_004018,0,1).
 patient(it_0061_004018,pos).
 
 %patient: it-0061-004396 index:475
@@ -10147,6 +10622,7 @@ who_f2(it_0061_004396,0).
 who_f3(it_0061_004396,0).
 who_f4(it_0061_004396,0).
 typeofoutcome_updated(it_0061_004396,1).
+vaccine(it_0061_004396,0,2).
 patient(it_0061_004396,pos).
 
 %patient: it-0143-006148 index:476
@@ -10164,6 +10640,7 @@ who_f2(it_0143_006148,0).
 who_f3(it_0143_006148,0).
 who_f4(it_0143_006148,9).
 typeofoutcome_updated(it_0143_006148,1).
+vaccine(it_0143_006148,0,2).
 patient(it_0143_006148,pos).
 
 %patient: it-0133-006290 index:477
@@ -10187,6 +10664,7 @@ who_f2(it_0133_006290,0).
 who_f3(it_0133_006290,0).
 who_f4(it_0133_006290,9).
 typeofoutcome_updated(it_0133_006290,1).
+vaccine(it_0133_006290,0,3).
 patient(it_0133_006290,pos).
 
 %patient: it-0130-004429 index:478
@@ -10209,6 +10687,7 @@ who_f2(it_0130_004429,0).
 who_f3(it_0130_004429,0).
 who_f4(it_0130_004429,4).
 typeofoutcome_updated(it_0130_004429,1).
+vaccine(it_0130_004429,1,3).
 patient(it_0130_004429,pos).
 
 %patient: it-0061-004564 index:479
@@ -10233,6 +10712,7 @@ who_f2(it_0061_004564,0).
 who_f3(it_0061_004564,0).
 who_f4(it_0061_004564,0).
 typeofoutcome_updated(it_0061_004564,1).
+vaccine(it_0061_004564,0,3).
 patient(it_0061_004564,pos).
 
 %patient: it-0152-005091 index:480
@@ -10251,6 +10731,7 @@ who_f2(it_0152_005091,0).
 who_f3(it_0152_005091,0).
 who_f4(it_0152_005091,0).
 typeofoutcome_updated(it_0152_005091,1).
+vaccine(it_0152_005091,0,1).
 patient(it_0152_005091,pos).
 
 %patient: it-0130-004835 index:481
@@ -10276,6 +10757,7 @@ who_f2(it_0130_004835,0).
 who_f3(it_0130_004835,0).
 who_f4(it_0130_004835,0).
 typeofoutcome_updated(it_0130_004835,1).
+vaccine(it_0130_004835,1,3).
 patient(it_0130_004835,pos).
 
 %patient: it-0061-006518 index:482
@@ -10301,6 +10783,7 @@ who_f2(it_0061_006518,0).
 who_f3(it_0061_006518,1).
 who_f4(it_0061_006518,1).
 typeofoutcome_updated(it_0061_006518,1).
+vaccine(it_0061_006518,0,2).
 patient(it_0061_006518,pos).
 
 %patient: it-0061-004408 index:483
@@ -10326,6 +10809,7 @@ who_f2(it_0061_004408,0).
 who_f3(it_0061_004408,1).
 who_f4(it_0061_004408,1).
 typeofoutcome_updated(it_0061_004408,1).
+vaccine(it_0061_004408,0,2).
 patient(it_0061_004408,pos).
 
 %patient: it-0171-006146 index:484
@@ -10346,6 +10830,7 @@ who_f2(it_0171_006146,0).
 who_f3(it_0171_006146,0).
 who_f4(it_0171_006146,9).
 typeofoutcome_updated(it_0171_006146,1).
+vaccine(it_0171_006146,0,3).
 patient(it_0171_006146,pos).
 
 %patient: it-0125-003990 index:485
@@ -10368,6 +10853,7 @@ who_f2(it_0125_003990,0).
 who_f3(it_0125_003990,0).
 who_f4(it_0125_003990,9).
 typeofoutcome_updated(it_0125_003990,1).
+vaccine(it_0125_003990,0,3).
 patient(it_0125_003990,pos).
 
 %patient: it-0061-006481 index:486
@@ -10391,6 +10877,7 @@ who_f2(it_0061_006481,0).
 who_f3(it_0061_006481,1).
 who_f4(it_0061_006481,1).
 typeofoutcome_updated(it_0061_006481,1).
+vaccine(it_0061_006481,0,1).
 patient(it_0061_006481,pos).
 
 %patient: it-0061-004001 index:487
@@ -10414,6 +10901,7 @@ who_f2(it_0061_004001,1).
 who_f3(it_0061_004001,1).
 who_f4(it_0061_004001,1).
 typeofoutcome_updated(it_0061_004001,1).
+vaccine(it_0061_004001,0,1).
 patient(it_0061_004001,pos).
 
 %patient: it-0061-000618 index:488
@@ -10436,6 +10924,7 @@ who_f2(it_0061_000618,0).
 who_f3(it_0061_000618,0).
 who_f4(it_0061_000618,0).
 typeofoutcome_updated(it_0061_000618,1).
+vaccine(it_0061_000618,0,3).
 patient(it_0061_000618,pos).
 
 %patient: it-0061-004718 index:489
@@ -10460,6 +10949,7 @@ who_f2(it_0061_004718,0).
 who_f3(it_0061_004718,1).
 who_f4(it_0061_004718,1).
 typeofoutcome_updated(it_0061_004718,1).
+vaccine(it_0061_004718,0,2).
 patient(it_0061_004718,pos).
 
 %patient: it-0061-004118 index:490
@@ -10482,6 +10972,7 @@ who_f2(it_0061_004118,1).
 who_f3(it_0061_004118,1).
 who_f4(it_0061_004118,1).
 typeofoutcome_updated(it_0061_004118,1).
+vaccine(it_0061_004118,0,1).
 patient(it_0061_004118,pos).
 
 %patient: it-0130-004889 index:491
@@ -10499,6 +10990,7 @@ who_f2(it_0130_004889,0).
 who_f3(it_0130_004889,0).
 who_f4(it_0130_004889,0).
 typeofoutcome_updated(it_0130_004889,1).
+vaccine(it_0130_004889,1,3).
 patient(it_0130_004889,pos).
 
 %patient: it-0061-006520 index:492
@@ -10517,6 +11009,7 @@ who_f2(it_0061_006520,0).
 who_f3(it_0061_006520,0).
 who_f4(it_0061_006520,0).
 typeofoutcome_updated(it_0061_006520,1).
+vaccine(it_0061_006520,0,3).
 patient(it_0061_006520,pos).
 
 %patient: it-0061-006477 index:493
@@ -10542,6 +11035,7 @@ who_f2(it_0061_006477,0).
 who_f3(it_0061_006477,1).
 who_f4(it_0061_006477,1).
 typeofoutcome_updated(it_0061_006477,1).
+vaccine(it_0061_006477,0,2).
 patient(it_0061_006477,pos).
 
 %patient: it-0061-006490 index:494
@@ -10568,6 +11062,7 @@ who_f2(it_0061_006490,0).
 who_f3(it_0061_006490,1).
 who_f4(it_0061_006490,1).
 typeofoutcome_updated(it_0061_006490,1).
+vaccine(it_0061_006490,0,2).
 patient(it_0061_006490,pos).
 
 %patient: it-0130-004658 index:495
@@ -10589,6 +11084,7 @@ who_f2(it_0130_004658,0).
 who_f3(it_0130_004658,0).
 who_f4(it_0130_004658,4).
 typeofoutcome_updated(it_0130_004658,1).
+vaccine(it_0130_004658,1,3).
 patient(it_0130_004658,pos).
 
 %patient: it-0061-004020 index:496
@@ -10614,6 +11110,7 @@ who_f2(it_0061_004020,1).
 who_f3(it_0061_004020,1).
 who_f4(it_0061_004020,1).
 typeofoutcome_updated(it_0061_004020,1).
+vaccine(it_0061_004020,0,2).
 patient(it_0061_004020,pos).
 
 %patient: it-0130-004831 index:497
@@ -10635,6 +11132,7 @@ who_f2(it_0130_004831,0).
 who_f3(it_0130_004831,0).
 who_f4(it_0130_004831,4).
 typeofoutcome_updated(it_0130_004831,1).
+vaccine(it_0130_004831,1,3).
 patient(it_0130_004831,pos).
 
 %patient: it-0061-006444 index:498
@@ -10660,6 +11158,7 @@ who_f2(it_0061_006444,0).
 who_f3(it_0061_006444,1).
 who_f4(it_0061_006444,1).
 typeofoutcome_updated(it_0061_006444,1).
+vaccine(it_0061_006444,0,2).
 patient(it_0061_006444,pos).
 
 %patient: it-0061-003963 index:499
@@ -10682,6 +11181,7 @@ who_f2(it_0061_003963,0).
 who_f3(it_0061_003963,0).
 who_f4(it_0061_003963,0).
 typeofoutcome_updated(it_0061_003963,1).
+vaccine(it_0061_003963,0,3).
 patient(it_0061_003963,pos).
 
 %patient: it-0061-004106 index:500
@@ -10705,6 +11205,7 @@ who_f2(it_0061_004106,0).
 who_f3(it_0061_004106,0).
 who_f4(it_0061_004106,0).
 typeofoutcome_updated(it_0061_004106,1).
+vaccine(it_0061_004106,0,3).
 patient(it_0061_004106,pos).
 
 %patient: it-0061-004562 index:501
@@ -10728,6 +11229,7 @@ who_f2(it_0061_004562,0).
 who_f3(it_0061_004562,0).
 who_f4(it_0061_004562,0).
 typeofoutcome_updated(it_0061_004562,1).
+vaccine(it_0061_004562,0,3).
 patient(it_0061_004562,pos).
 
 %patient: it-0130-005384 index:502
@@ -10746,6 +11248,7 @@ who_f2(it_0130_005384,0).
 who_f3(it_0130_005384,0).
 who_f4(it_0130_005384,4).
 typeofoutcome_updated(it_0130_005384,1).
+vaccine(it_0130_005384,1,3).
 patient(it_0130_005384,pos).
 
 %patient: it-0061-004727 index:503
@@ -10768,6 +11271,7 @@ who_f2(it_0061_004727,0).
 who_f3(it_0061_004727,0).
 who_f4(it_0061_004727,0).
 typeofoutcome_updated(it_0061_004727,1).
+vaccine(it_0061_004727,0,3).
 patient(it_0061_004727,pos).
 
 %patient: it-0061-004004 index:504
@@ -10786,6 +11290,7 @@ who_f2(it_0061_004004,1).
 who_f3(it_0061_004004,1).
 who_f4(it_0061_004004,1).
 typeofoutcome_updated(it_0061_004004,1).
+vaccine(it_0061_004004,0,2).
 patient(it_0061_004004,pos).
 
 %patient: it-0106-006751 index:505
@@ -10802,6 +11307,7 @@ who_f2(it_0106_006751,0).
 who_f3(it_0106_006751,0).
 who_f4(it_0106_006751,0).
 typeofoutcome_updated(it_0106_006751,1).
+vaccine(it_0106_006751,0,3).
 patient(it_0106_006751,pos).
 
 %patient: it-0061-004017 index:506
@@ -10825,6 +11331,7 @@ who_f2(it_0061_004017,0).
 who_f3(it_0061_004017,0).
 who_f4(it_0061_004017,0).
 typeofoutcome_updated(it_0061_004017,1).
+vaccine(it_0061_004017,0,3).
 patient(it_0061_004017,pos).
 
 %patient: it-0015-000685 index:507
@@ -10848,6 +11355,7 @@ who_f2(it_0015_000685,0).
 who_f3(it_0015_000685,0).
 who_f4(it_0015_000685,0).
 typeofoutcome_updated(it_0015_000685,1).
+vaccine(it_0015_000685,0,3).
 patient(it_0015_000685,pos).
 
 %patient: it-0015-001261 index:508
@@ -10876,6 +11384,7 @@ who_f2(it_0015_001261,0).
 who_f3(it_0015_001261,0).
 who_f4(it_0015_001261,0).
 typeofoutcome_updated(it_0015_001261,1).
+vaccine(it_0015_001261,0,3).
 patient(it_0015_001261,pos).
 
 %patient: it-0015-003896 index:509
@@ -10904,6 +11413,7 @@ who_f2(it_0015_003896,0).
 who_f3(it_0015_003896,0).
 who_f4(it_0015_003896,0).
 typeofoutcome_updated(it_0015_003896,1).
+vaccine(it_0015_003896,0,3).
 patient(it_0015_003896,pos).
 
 %patient: it-0015-003933 index:510
@@ -10932,6 +11442,7 @@ who_f2(it_0015_003933,0).
 who_f3(it_0015_003933,0).
 who_f4(it_0015_003933,0).
 typeofoutcome_updated(it_0015_003933,1).
+vaccine(it_0015_003933,0,3).
 patient(it_0015_003933,pos).
 
 %patient: it-0022-003748 index:511
@@ -10953,6 +11464,7 @@ who_f2(it_0022_003748,0).
 who_f3(it_0022_003748,0).
 who_f4(it_0022_003748,0).
 typeofoutcome_updated(it_0022_003748,1).
+vaccine(it_0022_003748,0,3).
 patient(it_0022_003748,pos).
 
 %patient: it-0043-003722 index:512
@@ -10975,6 +11487,7 @@ who_f2(it_0043_003722,9).
 who_f3(it_0043_003722,0).
 who_f4(it_0043_003722,0).
 typeofoutcome_updated(it_0043_003722,1).
+vaccine(it_0043_003722,0,3).
 patient(it_0043_003722,pos).
 
 %patient: it-0043-003824 index:513
@@ -10994,6 +11507,7 @@ who_f2(it_0043_003824,9).
 who_f3(it_0043_003824,0).
 who_f4(it_0043_003824,0).
 typeofoutcome_updated(it_0043_003824,1).
+vaccine(it_0043_003824,0,3).
 patient(it_0043_003824,pos).
 
 %patient: it-0044-003700 index:514
@@ -11015,6 +11529,7 @@ who_f2(it_0044_003700,9).
 who_f3(it_0044_003700,0).
 who_f4(it_0044_003700,0).
 typeofoutcome_updated(it_0044_003700,1).
+vaccine(it_0044_003700,0,2).
 patient(it_0044_003700,pos).
 
 %patient: it-0050-004229 index:515
@@ -11042,6 +11557,7 @@ who_f2(it_0050_004229,1).
 who_f3(it_0050_004229,0).
 who_f4(it_0050_004229,0).
 typeofoutcome_updated(it_0050_004229,1).
+vaccine(it_0050_004229,0,2).
 patient(it_0050_004229,pos).
 
 %patient: it-0061-003884 index:516
@@ -11070,6 +11586,7 @@ who_f2(it_0061_003884,1).
 who_f3(it_0061_003884,1).
 who_f4(it_0061_003884,1).
 typeofoutcome_updated(it_0061_003884,1).
+vaccine(it_0061_003884,0,2).
 patient(it_0061_003884,pos).
 
 %patient: it-0102-004148 index:517
@@ -11089,6 +11606,7 @@ who_f2(it_0102_004148,0).
 who_f3(it_0102_004148,0).
 who_f4(it_0102_004148,0).
 typeofoutcome_updated(it_0102_004148,1).
+vaccine(it_0102_004148,0,3).
 patient(it_0102_004148,pos).
 
 %patient: it-0126-004252 index:518
@@ -11114,6 +11632,7 @@ who_f2(it_0126_004252,0).
 who_f3(it_0126_004252,0).
 who_f4(it_0126_004252,0).
 typeofoutcome_updated(it_0126_004252,1).
+vaccine(it_0126_004252,0,3).
 patient(it_0126_004252,pos).
 
 %patient: it-0126-005598 index:519
@@ -11134,6 +11653,7 @@ who_f2(it_0126_005598,0).
 who_f3(it_0126_005598,0).
 who_f4(it_0126_005598,0).
 typeofoutcome_updated(it_0126_005598,1).
+vaccine(it_0126_005598,0,3).
 patient(it_0126_005598,pos).
 
 %patient: it-0126-005615 index:520
@@ -11158,6 +11678,7 @@ who_f2(it_0126_005615,1).
 who_f3(it_0126_005615,1).
 who_f4(it_0126_005615,1).
 typeofoutcome_updated(it_0126_005615,1).
+vaccine(it_0126_005615,0,3).
 patient(it_0126_005615,pos).
 
 %patient: it-0126-006612 index:521
@@ -11183,6 +11704,7 @@ who_f2(it_0126_006612,0).
 who_f3(it_0126_006612,0).
 who_f4(it_0126_006612,0).
 typeofoutcome_updated(it_0126_006612,1).
+vaccine(it_0126_006612,0,3).
 patient(it_0126_006612,pos).
 
 %patient: it-0130-004812 index:522
@@ -11206,6 +11728,7 @@ who_f2(it_0130_004812,0).
 who_f3(it_0130_004812,0).
 who_f4(it_0130_004812,0).
 typeofoutcome_updated(it_0130_004812,1).
+vaccine(it_0130_004812,1,3).
 patient(it_0130_004812,pos).
 
 %patient: it-0152-004992 index:523
@@ -11223,6 +11746,7 @@ who_f2(it_0152_004992,0).
 who_f3(it_0152_004992,0).
 who_f4(it_0152_004992,0).
 typeofoutcome_updated(it_0152_004992,1).
+vaccine(it_0152_004992,0,2).
 patient(it_0152_004992,pos).
 
 %patient: it-0152-004993 index:524
@@ -11242,6 +11766,7 @@ who_f2(it_0152_004993,0).
 who_f3(it_0152_004993,0).
 who_f4(it_0152_004993,0).
 typeofoutcome_updated(it_0152_004993,1).
+vaccine(it_0152_004993,0,2).
 patient(it_0152_004993,pos).
 
 %patient: it-0152-005053 index:525
@@ -11264,6 +11789,7 @@ who_f2(it_0152_005053,0).
 who_f3(it_0152_005053,0).
 who_f4(it_0152_005053,0).
 typeofoutcome_updated(it_0152_005053,1).
+vaccine(it_0152_005053,0,2).
 patient(it_0152_005053,pos).
 
 %patient: it-0152-005086 index:526
@@ -11285,6 +11811,7 @@ who_f2(it_0152_005086,0).
 who_f3(it_0152_005086,0).
 who_f4(it_0152_005086,0).
 typeofoutcome_updated(it_0152_005086,1).
+vaccine(it_0152_005086,0,2).
 patient(it_0152_005086,pos).
 
 %patient: it-0152-005155 index:527
@@ -11304,6 +11831,7 @@ who_f2(it_0152_005155,0).
 who_f3(it_0152_005155,0).
 who_f4(it_0152_005155,0).
 typeofoutcome_updated(it_0152_005155,1).
+vaccine(it_0152_005155,0,2).
 patient(it_0152_005155,pos).
 
 %patient: it-0152-005158 index:528
@@ -11323,6 +11851,7 @@ who_f2(it_0152_005158,0).
 who_f3(it_0152_005158,0).
 who_f4(it_0152_005158,0).
 typeofoutcome_updated(it_0152_005158,1).
+vaccine(it_0152_005158,0,3).
 patient(it_0152_005158,pos).
 
 %patient: it-0152-005187 index:529
@@ -11343,6 +11872,7 @@ who_f2(it_0152_005187,0).
 who_f3(it_0152_005187,0).
 who_f4(it_0152_005187,0).
 typeofoutcome_updated(it_0152_005187,1).
+vaccine(it_0152_005187,0,2).
 patient(it_0152_005187,pos).
 
 %patient: it-0152-005357 index:530
@@ -11359,6 +11889,7 @@ who_f2(it_0152_005357,0).
 who_f3(it_0152_005357,0).
 who_f4(it_0152_005357,0).
 typeofoutcome_updated(it_0152_005357,1).
+vaccine(it_0152_005357,0,3).
 patient(it_0152_005357,pos).
 
 %patient: it-0152-005431 index:531
@@ -11375,6 +11906,7 @@ who_f2(it_0152_005431,0).
 who_f3(it_0152_005431,0).
 who_f4(it_0152_005431,0).
 typeofoutcome_updated(it_0152_005431,1).
+vaccine(it_0152_005431,0,3).
 patient(it_0152_005431,pos).
 
 %patient: it-0152-005450 index:532
@@ -11393,6 +11925,7 @@ who_f2(it_0152_005450,0).
 who_f3(it_0152_005450,0).
 who_f4(it_0152_005450,0).
 typeofoutcome_updated(it_0152_005450,1).
+vaccine(it_0152_005450,0,2).
 patient(it_0152_005450,pos).
 
 %patient: it-0152-005491 index:533
@@ -11414,6 +11947,7 @@ who_f2(it_0152_005491,0).
 who_f3(it_0152_005491,0).
 who_f4(it_0152_005491,0).
 typeofoutcome_updated(it_0152_005491,1).
+vaccine(it_0152_005491,0,3).
 patient(it_0152_005491,pos).
 
 %patient: it-0171-006143 index:534
@@ -11434,6 +11968,7 @@ who_f2(it_0171_006143,0).
 who_f3(it_0171_006143,0).
 who_f4(it_0171_006143,0).
 typeofoutcome_updated(it_0171_006143,1).
+vaccine(it_0171_006143,0,3).
 patient(it_0171_006143,pos).
 
 %patient: it-0171-006215 index:535
@@ -11456,6 +11991,7 @@ who_f2(it_0171_006215,0).
 who_f3(it_0171_006215,0).
 who_f4(it_0171_006215,0).
 typeofoutcome_updated(it_0171_006215,1).
+vaccine(it_0171_006215,0,3).
 patient(it_0171_006215,pos).
 
 %patient: it-0171-006262 index:536
@@ -11476,6 +12012,7 @@ who_f2(it_0171_006262,0).
 who_f3(it_0171_006262,0).
 who_f4(it_0171_006262,0).
 typeofoutcome_updated(it_0171_006262,1).
+vaccine(it_0171_006262,0,3).
 patient(it_0171_006262,pos).
 
 %patient: it-0106-006814 index:537
@@ -11495,6 +12032,7 @@ who_f2(it_0106_006814,0).
 who_f3(it_0106_006814,0).
 who_f4(it_0106_006814,0).
 typeofoutcome_updated(it_0106_006814,1).
+vaccine(it_0106_006814,0,3).
 patient(it_0106_006814,pos).
 
 %patient: it-0116-005350 index:538
@@ -11517,6 +12055,7 @@ who_f2(it_0116_005350,0).
 who_f3(it_0116_005350,0).
 who_f4(it_0116_005350,0).
 typeofoutcome_updated(it_0116_005350,1).
+vaccine(it_0116_005350,0,3).
 patient(it_0116_005350,pos).
 
 %patient: it-0143-004063 index:539
@@ -11542,6 +12081,7 @@ who_f2(it_0143_004063,0).
 who_f3(it_0143_004063,0).
 who_f4(it_0143_004063,4).
 typeofoutcome_updated(it_0143_004063,1).
+vaccine(it_0143_004063,0,2).
 patient(it_0143_004063,pos).
 
 %patient: it-0152-004988 index:540
@@ -11563,6 +12103,7 @@ who_f2(it_0152_004988,0).
 who_f3(it_0152_004988,0).
 who_f4(it_0152_004988,0).
 typeofoutcome_updated(it_0152_004988,1).
+vaccine(it_0152_004988,0,2).
 patient(it_0152_004988,pos).
 
 %patient: it-0003-000516 index:541
@@ -11588,6 +12129,7 @@ who_f2(it_0003_000516,0).
 who_f3(it_0003_000516,0).
 who_f4(it_0003_000516,0).
 typeofoutcome_updated(it_0003_000516,1).
+vaccine(it_0003_000516,0,3).
 patient(it_0003_000516,pos).
 
 %patient: it-0061-006257 index:542
@@ -11607,6 +12149,7 @@ who_f2(it_0061_006257,0).
 who_f3(it_0061_006257,9).
 who_f4(it_0061_006257,0).
 typeofoutcome_updated(it_0061_006257,1).
+vaccine(it_0061_006257,0,3).
 patient(it_0061_006257,pos).
 
 %patient: it-0103-006122 index:543
@@ -11629,6 +12172,7 @@ who_f2(it_0103_006122,9).
 who_f3(it_0103_006122,1).
 who_f4(it_0103_006122,9).
 typeofoutcome_updated(it_0103_006122,1).
+vaccine(it_0103_006122,0,2).
 patient(it_0103_006122,pos).
 
 %patient: it-0125-004353 index:544
@@ -11651,6 +12195,7 @@ who_f2(it_0125_004353,1).
 who_f3(it_0125_004353,1).
 who_f4(it_0125_004353,9).
 typeofoutcome_updated(it_0125_004353,1).
+vaccine(it_0125_004353,0,3).
 patient(it_0125_004353,pos).
 
 %patient: it-0169-006096 index:545
@@ -11672,6 +12217,7 @@ who_f2(it_0169_006096,1).
 who_f3(it_0169_006096,1).
 who_f4(it_0169_006096,9).
 typeofoutcome_updated(it_0169_006096,1).
+vaccine(it_0169_006096,0,2).
 patient(it_0169_006096,pos).
 
 %patient: it-0133-005922 index:546
@@ -11695,6 +12241,7 @@ who_f2(it_0133_005922,9).
 who_f3(it_0133_005922,1).
 who_f4(it_0133_005922,9).
 typeofoutcome_updated(it_0133_005922,1).
+vaccine(it_0133_005922,0,3).
 patient(it_0133_005922,pos).
 
 %patient: it-0015-003867 index:547
@@ -11723,6 +12270,7 @@ who_f2(it_0015_003867,0).
 who_f3(it_0015_003867,0).
 who_f4(it_0015_003867,1).
 typeofoutcome_updated(it_0015_003867,1).
+vaccine(it_0015_003867,0,2).
 patient(it_0015_003867,pos).
 
 %patient: it-0130-005078 index:548
@@ -11747,6 +12295,7 @@ who_f2(it_0130_005078,0).
 who_f3(it_0130_005078,0).
 who_f4(it_0130_005078,1).
 typeofoutcome_updated(it_0130_005078,1).
+vaccine(it_0130_005078,0,2).
 patient(it_0130_005078,pos).
 
 %patient: it-0051-006668 index:549
@@ -11770,6 +12319,7 @@ who_f2(it_0051_006668,0).
 who_f3(it_0051_006668,0).
 who_f4(it_0051_006668,1).
 typeofoutcome_updated(it_0051_006668,1).
+vaccine(it_0051_006668,0,2).
 patient(it_0051_006668,pos).
 
 %patient: it-0143-004846 index:550
@@ -11789,6 +12339,7 @@ who_f2(it_0143_004846,0).
 who_f3(it_0143_004846,0).
 who_f4(it_0143_004846,9).
 typeofoutcome_updated(it_0143_004846,1).
+vaccine(it_0143_004846,0,2).
 patient(it_0143_004846,pos).
 
 %patient: it-0106-006755 index:551
@@ -11805,6 +12356,7 @@ who_f2(it_0106_006755,0).
 who_f3(it_0106_006755,0).
 who_f4(it_0106_006755,9).
 typeofoutcome_updated(it_0106_006755,1).
+vaccine(it_0106_006755,0,3).
 patient(it_0106_006755,pos).
 
 %patient: it-0102-003604 index:552
@@ -11828,6 +12380,7 @@ who_f2(it_0102_003604,9).
 who_f3(it_0102_003604,9).
 who_f4(it_0102_003604,9).
 typeofoutcome_updated(it_0102_003604,1).
+vaccine(it_0102_003604,0,1).
 patient(it_0102_003604,pos).
 
 %patient: it-0106-006747 index:553
@@ -11849,6 +12402,7 @@ who_f2(it_0106_006747,0).
 who_f3(it_0106_006747,0).
 who_f4(it_0106_006747,0).
 typeofoutcome_updated(it_0106_006747,1).
+vaccine(it_0106_006747,0,2).
 patient(it_0106_006747,pos).
 
 %patient: it-0150-006032 index:554
@@ -11869,6 +12423,7 @@ who_f2(it_0150_006032,0).
 who_f3(it_0150_006032,9).
 who_f4(it_0150_006032,9).
 typeofoutcome_updated(it_0150_006032,1).
+vaccine(it_0150_006032,0,2).
 patient(it_0150_006032,pos).
 
 %patient: it-0110-006359 index:555
@@ -11882,6 +12437,7 @@ who_f2(it_0110_006359,9).
 who_f3(it_0110_006359,9).
 who_f4(it_0110_006359,9).
 typeofoutcome_updated(it_0110_006359,2).
+vaccine(it_0110_006359,9,1).
 patient(it_0110_006359,neg).
 
 %patient: it-0110-006617 index:556
@@ -11895,6 +12451,7 @@ who_f2(it_0110_006617,0).
 who_f3(it_0110_006617,0).
 who_f4(it_0110_006617,9).
 typeofoutcome_updated(it_0110_006617,2).
+vaccine(it_0110_006617,9,2).
 patient(it_0110_006617,neg).
 
 %patient: it-0152-004896 index:557
@@ -11916,6 +12473,7 @@ who_f2(it_0152_004896,0).
 who_f3(it_0152_004896,0).
 who_f4(it_0152_004896,9).
 typeofoutcome_updated(it_0152_004896,2).
+vaccine(it_0152_004896,0,2).
 patient(it_0152_004896,neg).
 
 %patient: it-0108-006541 index:558
@@ -11930,6 +12488,7 @@ who_f2(it_0108_006541,0).
 who_f3(it_0108_006541,0).
 who_f4(it_0108_006541,0).
 typeofoutcome_updated(it_0108_006541,2).
+vaccine(it_0108_006541,0,2).
 patient(it_0108_006541,neg).
 
 %patient: it-0108-006542 index:559
@@ -11943,6 +12502,7 @@ who_f2(it_0108_006542,0).
 who_f3(it_0108_006542,0).
 who_f4(it_0108_006542,0).
 typeofoutcome_updated(it_0108_006542,2).
+vaccine(it_0108_006542,0,2).
 patient(it_0108_006542,neg).
 
 %patient: it-0152-004982 index:560
@@ -11956,6 +12516,7 @@ who_f2(it_0152_004982,0).
 who_f3(it_0152_004982,0).
 who_f4(it_0152_004982,0).
 typeofoutcome_updated(it_0152_004982,2).
+vaccine(it_0152_004982,0,3).
 patient(it_0152_004982,neg).
 
 %patient: it-0152-004983 index:561
@@ -11969,6 +12530,7 @@ who_f2(it_0152_004983,0).
 who_f3(it_0152_004983,0).
 who_f4(it_0152_004983,0).
 typeofoutcome_updated(it_0152_004983,2).
+vaccine(it_0152_004983,0,2).
 patient(it_0152_004983,neg).
 
 %patient: it-0152-005003 index:562
@@ -11982,6 +12544,7 @@ who_f2(it_0152_005003,0).
 who_f3(it_0152_005003,0).
 who_f4(it_0152_005003,0).
 typeofoutcome_updated(it_0152_005003,2).
+vaccine(it_0152_005003,0,3).
 patient(it_0152_005003,neg).
 
 %patient: it-0152-005006 index:563
@@ -11995,6 +12558,7 @@ who_f2(it_0152_005006,0).
 who_f3(it_0152_005006,0).
 who_f4(it_0152_005006,0).
 typeofoutcome_updated(it_0152_005006,2).
+vaccine(it_0152_005006,0,3).
 patient(it_0152_005006,neg).
 
 %patient: it-0152-005016 index:564
@@ -12008,6 +12572,7 @@ who_f2(it_0152_005016,0).
 who_f3(it_0152_005016,0).
 who_f4(it_0152_005016,0).
 typeofoutcome_updated(it_0152_005016,2).
+vaccine(it_0152_005016,0,3).
 patient(it_0152_005016,neg).
 
 %patient: it-0152-005056 index:565
@@ -12021,6 +12586,7 @@ who_f2(it_0152_005056,0).
 who_f3(it_0152_005056,0).
 who_f4(it_0152_005056,0).
 typeofoutcome_updated(it_0152_005056,2).
+vaccine(it_0152_005056,0,3).
 patient(it_0152_005056,neg).
 
 %patient: it-0152-005084 index:566
@@ -12034,6 +12600,7 @@ who_f2(it_0152_005084,0).
 who_f3(it_0152_005084,0).
 who_f4(it_0152_005084,0).
 typeofoutcome_updated(it_0152_005084,2).
+vaccine(it_0152_005084,0,2).
 patient(it_0152_005084,neg).
 
 %patient: it-0152-005144 index:567
@@ -12047,6 +12614,7 @@ who_f2(it_0152_005144,0).
 who_f3(it_0152_005144,0).
 who_f4(it_0152_005144,0).
 typeofoutcome_updated(it_0152_005144,2).
+vaccine(it_0152_005144,0,3).
 patient(it_0152_005144,neg).
 
 %patient: it-0152-005168 index:568
@@ -12060,6 +12628,7 @@ who_f2(it_0152_005168,0).
 who_f3(it_0152_005168,0).
 who_f4(it_0152_005168,0).
 typeofoutcome_updated(it_0152_005168,2).
+vaccine(it_0152_005168,0,3).
 patient(it_0152_005168,neg).
 
 %patient: it-0152-005177 index:569
@@ -12073,6 +12642,7 @@ who_f2(it_0152_005177,0).
 who_f3(it_0152_005177,0).
 who_f4(it_0152_005177,0).
 typeofoutcome_updated(it_0152_005177,2).
+vaccine(it_0152_005177,0,3).
 patient(it_0152_005177,neg).
 
 %patient: it-0152-005381 index:570
@@ -12086,6 +12656,7 @@ who_f2(it_0152_005381,0).
 who_f3(it_0152_005381,0).
 who_f4(it_0152_005381,0).
 typeofoutcome_updated(it_0152_005381,2).
+vaccine(it_0152_005381,0,3).
 patient(it_0152_005381,neg).
 
 %patient: it-0152-005437 index:571
@@ -12099,6 +12670,7 @@ who_f2(it_0152_005437,0).
 who_f3(it_0152_005437,0).
 who_f4(it_0152_005437,0).
 typeofoutcome_updated(it_0152_005437,2).
+vaccine(it_0152_005437,0,2).
 patient(it_0152_005437,neg).
 
 %patient: it-0152-005445 index:572
@@ -12112,6 +12684,7 @@ who_f2(it_0152_005445,0).
 who_f3(it_0152_005445,0).
 who_f4(it_0152_005445,0).
 typeofoutcome_updated(it_0152_005445,2).
+vaccine(it_0152_005445,0,3).
 patient(it_0152_005445,neg).
 
 %patient: it-0152-005449 index:573
@@ -12125,6 +12698,7 @@ who_f2(it_0152_005449,0).
 who_f3(it_0152_005449,0).
 who_f4(it_0152_005449,0).
 typeofoutcome_updated(it_0152_005449,2).
+vaccine(it_0152_005449,0,3).
 patient(it_0152_005449,neg).
 
 %patient: it-0152-005477 index:574
@@ -12138,6 +12712,7 @@ who_f2(it_0152_005477,0).
 who_f3(it_0152_005477,0).
 who_f4(it_0152_005477,0).
 typeofoutcome_updated(it_0152_005477,2).
+vaccine(it_0152_005477,0,3).
 patient(it_0152_005477,neg).
 
 %patient: it-0152-005482 index:575
@@ -12151,6 +12726,7 @@ who_f2(it_0152_005482,0).
 who_f3(it_0152_005482,0).
 who_f4(it_0152_005482,0).
 typeofoutcome_updated(it_0152_005482,2).
+vaccine(it_0152_005482,0,3).
 patient(it_0152_005482,neg).
 
 %patient: it-0152-005503 index:576
@@ -12164,6 +12740,7 @@ who_f2(it_0152_005503,0).
 who_f3(it_0152_005503,0).
 who_f4(it_0152_005503,0).
 typeofoutcome_updated(it_0152_005503,2).
+vaccine(it_0152_005503,0,3).
 patient(it_0152_005503,neg).
 
 %patient: it-0152-005554 index:577
@@ -12177,6 +12754,7 @@ who_f2(it_0152_005554,0).
 who_f3(it_0152_005554,0).
 who_f4(it_0152_005554,0).
 typeofoutcome_updated(it_0152_005554,2).
+vaccine(it_0152_005554,0,3).
 patient(it_0152_005554,neg).
 
 %patient: it-0153-004761 index:578
@@ -12197,6 +12775,7 @@ who_f2(it_0153_004761,0).
 who_f3(it_0153_004761,0).
 who_f4(it_0153_004761,0).
 typeofoutcome_updated(it_0153_004761,2).
+vaccine(it_0153_004761,0,3).
 patient(it_0153_004761,neg).
 
 %patient: it-0153-004762 index:579
@@ -12217,6 +12796,7 @@ who_f2(it_0153_004762,0).
 who_f3(it_0153_004762,0).
 who_f4(it_0153_004762,0).
 typeofoutcome_updated(it_0153_004762,2).
+vaccine(it_0153_004762,0,3).
 patient(it_0153_004762,neg).
 
 %patient: it-0153-004764 index:580
@@ -12237,6 +12817,7 @@ who_f2(it_0153_004764,0).
 who_f3(it_0153_004764,0).
 who_f4(it_0153_004764,0).
 typeofoutcome_updated(it_0153_004764,2).
+vaccine(it_0153_004764,0,3).
 patient(it_0153_004764,neg).
 
 %patient: it-0153-004767 index:581
@@ -12255,6 +12836,7 @@ who_f2(it_0153_004767,0).
 who_f3(it_0153_004767,0).
 who_f4(it_0153_004767,0).
 typeofoutcome_updated(it_0153_004767,2).
+vaccine(it_0153_004767,0,3).
 patient(it_0153_004767,neg).
 
 %patient: it-0153-004768 index:582
@@ -12273,6 +12855,7 @@ who_f2(it_0153_004768,0).
 who_f3(it_0153_004768,0).
 who_f4(it_0153_004768,0).
 typeofoutcome_updated(it_0153_004768,2).
+vaccine(it_0153_004768,0,3).
 patient(it_0153_004768,neg).
 
 %patient: it-0153-004769 index:583
@@ -12293,6 +12876,7 @@ who_f2(it_0153_004769,0).
 who_f3(it_0153_004769,0).
 who_f4(it_0153_004769,0).
 typeofoutcome_updated(it_0153_004769,2).
+vaccine(it_0153_004769,0,3).
 patient(it_0153_004769,neg).
 
 %patient: it-0153-004770 index:584
@@ -12313,6 +12897,7 @@ who_f2(it_0153_004770,0).
 who_f3(it_0153_004770,0).
 who_f4(it_0153_004770,0).
 typeofoutcome_updated(it_0153_004770,2).
+vaccine(it_0153_004770,0,3).
 patient(it_0153_004770,neg).
 
 %patient: it-0153-004771 index:585
@@ -12333,6 +12918,7 @@ who_f2(it_0153_004771,0).
 who_f3(it_0153_004771,0).
 who_f4(it_0153_004771,0).
 typeofoutcome_updated(it_0153_004771,2).
+vaccine(it_0153_004771,0,3).
 patient(it_0153_004771,neg).
 
 %patient: it-0153-004772 index:586
@@ -12353,6 +12939,7 @@ who_f2(it_0153_004772,0).
 who_f3(it_0153_004772,0).
 who_f4(it_0153_004772,0).
 typeofoutcome_updated(it_0153_004772,2).
+vaccine(it_0153_004772,0,3).
 patient(it_0153_004772,neg).
 
 %patient: it-0153-004774 index:587
@@ -12373,6 +12960,7 @@ who_f2(it_0153_004774,0).
 who_f3(it_0153_004774,0).
 who_f4(it_0153_004774,0).
 typeofoutcome_updated(it_0153_004774,2).
+vaccine(it_0153_004774,0,3).
 patient(it_0153_004774,neg).
 
 %patient: it-0153-004777 index:588
@@ -12393,6 +12981,7 @@ who_f2(it_0153_004777,0).
 who_f3(it_0153_004777,0).
 who_f4(it_0153_004777,0).
 typeofoutcome_updated(it_0153_004777,2).
+vaccine(it_0153_004777,0,3).
 patient(it_0153_004777,neg).
 
 %patient: it-0153-004779 index:589
@@ -12413,6 +13002,7 @@ who_f2(it_0153_004779,0).
 who_f3(it_0153_004779,0).
 who_f4(it_0153_004779,0).
 typeofoutcome_updated(it_0153_004779,2).
+vaccine(it_0153_004779,0,3).
 patient(it_0153_004779,neg).
 
 %patient: it-0153-004780 index:590
@@ -12433,6 +13023,7 @@ who_f2(it_0153_004780,0).
 who_f3(it_0153_004780,0).
 who_f4(it_0153_004780,0).
 typeofoutcome_updated(it_0153_004780,2).
+vaccine(it_0153_004780,0,3).
 patient(it_0153_004780,neg).
 
 %patient: it-0153-004781 index:591
@@ -12453,6 +13044,7 @@ who_f2(it_0153_004781,0).
 who_f3(it_0153_004781,0).
 who_f4(it_0153_004781,0).
 typeofoutcome_updated(it_0153_004781,2).
+vaccine(it_0153_004781,0,3).
 patient(it_0153_004781,neg).
 
 %patient: it-0153-004783 index:592
@@ -12473,6 +13065,7 @@ who_f2(it_0153_004783,0).
 who_f3(it_0153_004783,0).
 who_f4(it_0153_004783,0).
 typeofoutcome_updated(it_0153_004783,2).
+vaccine(it_0153_004783,0,3).
 patient(it_0153_004783,neg).
 
 %patient: it-0153-004784 index:593
@@ -12493,6 +13086,7 @@ who_f2(it_0153_004784,0).
 who_f3(it_0153_004784,0).
 who_f4(it_0153_004784,0).
 typeofoutcome_updated(it_0153_004784,2).
+vaccine(it_0153_004784,0,3).
 patient(it_0153_004784,neg).
 
 %patient: it-0154-004786 index:594
@@ -12511,6 +13105,7 @@ who_f2(it_0154_004786,0).
 who_f3(it_0154_004786,0).
 who_f4(it_0154_004786,0).
 typeofoutcome_updated(it_0154_004786,2).
+vaccine(it_0154_004786,0,3).
 patient(it_0154_004786,neg).
 
 %patient: it-0154-004794 index:595
@@ -12531,6 +13126,7 @@ who_f2(it_0154_004794,0).
 who_f3(it_0154_004794,0).
 who_f4(it_0154_004794,0).
 typeofoutcome_updated(it_0154_004794,2).
+vaccine(it_0154_004794,0,3).
 patient(it_0154_004794,neg).
 
 %patient: it-0154-004796 index:596
@@ -12551,6 +13147,7 @@ who_f2(it_0154_004796,0).
 who_f3(it_0154_004796,0).
 who_f4(it_0154_004796,0).
 typeofoutcome_updated(it_0154_004796,2).
+vaccine(it_0154_004796,0,3).
 patient(it_0154_004796,neg).
 
 %patient: it-0154-004799 index:597
@@ -12571,6 +13168,7 @@ who_f2(it_0154_004799,0).
 who_f3(it_0154_004799,0).
 who_f4(it_0154_004799,0).
 typeofoutcome_updated(it_0154_004799,2).
+vaccine(it_0154_004799,0,3).
 patient(it_0154_004799,neg).
 
 %patient: it-0154-004800 index:598
@@ -12589,6 +13187,7 @@ who_f2(it_0154_004800,0).
 who_f3(it_0154_004800,0).
 who_f4(it_0154_004800,0).
 typeofoutcome_updated(it_0154_004800,2).
+vaccine(it_0154_004800,0,3).
 patient(it_0154_004800,neg).
 
 %patient: it-0154-004801 index:599
@@ -12607,6 +13206,7 @@ who_f2(it_0154_004801,0).
 who_f3(it_0154_004801,0).
 who_f4(it_0154_004801,0).
 typeofoutcome_updated(it_0154_004801,2).
+vaccine(it_0154_004801,0,3).
 patient(it_0154_004801,neg).
 
 %patient: it-0154-004803 index:600
@@ -12625,6 +13225,7 @@ who_f2(it_0154_004803,0).
 who_f3(it_0154_004803,0).
 who_f4(it_0154_004803,0).
 typeofoutcome_updated(it_0154_004803,2).
+vaccine(it_0154_004803,0,3).
 patient(it_0154_004803,neg).
 
 %patient: it-0154-004805 index:601
@@ -12643,6 +13244,7 @@ who_f2(it_0154_004805,0).
 who_f3(it_0154_004805,0).
 who_f4(it_0154_004805,0).
 typeofoutcome_updated(it_0154_004805,2).
+vaccine(it_0154_004805,0,3).
 patient(it_0154_004805,neg).
 
 %patient: it-0154-004806 index:602
@@ -12663,6 +13265,7 @@ who_f2(it_0154_004806,0).
 who_f3(it_0154_004806,0).
 who_f4(it_0154_004806,0).
 typeofoutcome_updated(it_0154_004806,2).
+vaccine(it_0154_004806,0,3).
 patient(it_0154_004806,neg).
 
 %patient: it-0154-004807 index:603
@@ -12681,6 +13284,7 @@ who_f2(it_0154_004807,0).
 who_f3(it_0154_004807,0).
 who_f4(it_0154_004807,0).
 typeofoutcome_updated(it_0154_004807,2).
+vaccine(it_0154_004807,0,3).
 patient(it_0154_004807,neg).
 
 %patient: it-0154-004808 index:604
@@ -12701,6 +13305,7 @@ who_f2(it_0154_004808,0).
 who_f3(it_0154_004808,0).
 who_f4(it_0154_004808,0).
 typeofoutcome_updated(it_0154_004808,2).
+vaccine(it_0154_004808,0,3).
 patient(it_0154_004808,neg).
 
 %patient: it-0154-004813 index:605
@@ -12721,6 +13326,7 @@ who_f2(it_0154_004813,0).
 who_f3(it_0154_004813,0).
 who_f4(it_0154_004813,0).
 typeofoutcome_updated(it_0154_004813,2).
+vaccine(it_0154_004813,0,3).
 patient(it_0154_004813,neg).
 
 %patient: it-0154-004814 index:606
@@ -12741,6 +13347,7 @@ who_f2(it_0154_004814,0).
 who_f3(it_0154_004814,0).
 who_f4(it_0154_004814,0).
 typeofoutcome_updated(it_0154_004814,2).
+vaccine(it_0154_004814,0,3).
 patient(it_0154_004814,neg).
 
 %patient: it-0154-004818 index:607
@@ -12759,6 +13366,7 @@ who_f2(it_0154_004818,0).
 who_f3(it_0154_004818,0).
 who_f4(it_0154_004818,0).
 typeofoutcome_updated(it_0154_004818,2).
+vaccine(it_0154_004818,0,3).
 patient(it_0154_004818,neg).
 
 %patient: it-0154-004819 index:608
@@ -12780,6 +13388,7 @@ who_f2(it_0154_004819,0).
 who_f3(it_0154_004819,0).
 who_f4(it_0154_004819,0).
 typeofoutcome_updated(it_0154_004819,2).
+vaccine(it_0154_004819,0,3).
 patient(it_0154_004819,neg).
 
 %patient: it-0108-006550 index:609
@@ -12793,6 +13402,7 @@ who_f2(it_0108_006550,0).
 who_f3(it_0108_006550,0).
 who_f4(it_0108_006550,0).
 typeofoutcome_updated(it_0108_006550,2).
+vaccine(it_0108_006550,0,2).
 patient(it_0108_006550,neg).
 
 %patient: it-0108-006549 index:610
@@ -12806,6 +13416,7 @@ who_f2(it_0108_006549,0).
 who_f3(it_0108_006549,0).
 who_f4(it_0108_006549,0).
 typeofoutcome_updated(it_0108_006549,2).
+vaccine(it_0108_006549,0,2).
 patient(it_0108_006549,neg).
 
 %patient: it-0108-006553 index:611
@@ -12819,6 +13430,7 @@ who_f2(it_0108_006553,0).
 who_f3(it_0108_006553,0).
 who_f4(it_0108_006553,0).
 typeofoutcome_updated(it_0108_006553,2).
+vaccine(it_0108_006553,0,2).
 patient(it_0108_006553,neg).
 
 %patient: it-0003-003768 index:612
@@ -12839,6 +13451,7 @@ who_f2(it_0003_003768,0).
 who_f3(it_0003_003768,0).
 who_f4(it_0003_003768,0).
 typeofoutcome_updated(it_0003_003768,2).
+vaccine(it_0003_003768,0,3).
 patient(it_0003_003768,neg).
 
 %patient: it-0003-003765 index:613
@@ -12859,6 +13472,7 @@ who_f2(it_0003_003765,0).
 who_f3(it_0003_003765,0).
 who_f4(it_0003_003765,0).
 typeofoutcome_updated(it_0003_003765,2).
+vaccine(it_0003_003765,0,3).
 patient(it_0003_003765,neg).
 
 %patient: it-0062-004444 index:614
@@ -12872,6 +13486,7 @@ who_f2(it_0062_004444,0).
 who_f3(it_0062_004444,0).
 who_f4(it_0062_004444,0).
 typeofoutcome_updated(it_0062_004444,2).
+vaccine(it_0062_004444,0,3).
 patient(it_0062_004444,neg).
 
 %patient: it-0108-006544 index:615
@@ -12886,6 +13501,7 @@ who_f2(it_0108_006544,0).
 who_f3(it_0108_006544,0).
 who_f4(it_0108_006544,0).
 typeofoutcome_updated(it_0108_006544,2).
+vaccine(it_0108_006544,0,1).
 patient(it_0108_006544,neg).
 
 %patient: it-0129-004685 index:616
@@ -12899,6 +13515,7 @@ who_f2(it_0129_004685,0).
 who_f3(it_0129_004685,0).
 who_f4(it_0129_004685,0).
 typeofoutcome_updated(it_0129_004685,2).
+vaccine(it_0129_004685,0,2).
 patient(it_0129_004685,neg).
 
 %patient: it-0062-004329 index:617
@@ -12913,6 +13530,7 @@ who_f2(it_0062_004329,0).
 who_f3(it_0062_004329,0).
 who_f4(it_0062_004329,1).
 typeofoutcome_updated(it_0062_004329,2).
+vaccine(it_0062_004329,0,3).
 patient(it_0062_004329,neg).
 
 %patient: it-0062-004324 index:618
@@ -12927,6 +13545,7 @@ who_f2(it_0062_004324,0).
 who_f3(it_0062_004324,0).
 who_f4(it_0062_004324,1).
 typeofoutcome_updated(it_0062_004324,2).
+vaccine(it_0062_004324,0,3).
 patient(it_0062_004324,neg).
 
 %patient: it-0062-004325 index:619
@@ -12941,6 +13560,7 @@ who_f2(it_0062_004325,0).
 who_f3(it_0062_004325,0).
 who_f4(it_0062_004325,1).
 typeofoutcome_updated(it_0062_004325,2).
+vaccine(it_0062_004325,0,3).
 patient(it_0062_004325,neg).
 
 %patient: it-0062-004327 index:620
@@ -12955,6 +13575,7 @@ who_f2(it_0062_004327,0).
 who_f3(it_0062_004327,0).
 who_f4(it_0062_004327,1).
 typeofoutcome_updated(it_0062_004327,2).
+vaccine(it_0062_004327,0,3).
 patient(it_0062_004327,neg).
 
 %patient: it-0062-004332 index:621
@@ -12969,6 +13590,7 @@ who_f2(it_0062_004332,0).
 who_f3(it_0062_004332,0).
 who_f4(it_0062_004332,1).
 typeofoutcome_updated(it_0062_004332,2).
+vaccine(it_0062_004332,0,3).
 patient(it_0062_004332,neg).
 
 %patient: it-0062-004333 index:622
@@ -12983,6 +13605,7 @@ who_f2(it_0062_004333,0).
 who_f3(it_0062_004333,0).
 who_f4(it_0062_004333,1).
 typeofoutcome_updated(it_0062_004333,2).
+vaccine(it_0062_004333,0,3).
 patient(it_0062_004333,neg).
 
 %patient: it-0062-004336 index:623
@@ -12997,6 +13620,7 @@ who_f2(it_0062_004336,0).
 who_f3(it_0062_004336,0).
 who_f4(it_0062_004336,1).
 typeofoutcome_updated(it_0062_004336,2).
+vaccine(it_0062_004336,0,3).
 patient(it_0062_004336,neg).
 
 %patient: it-0062-004338 index:624
@@ -13011,6 +13635,7 @@ who_f2(it_0062_004338,0).
 who_f3(it_0062_004338,0).
 who_f4(it_0062_004338,1).
 typeofoutcome_updated(it_0062_004338,2).
+vaccine(it_0062_004338,0,3).
 patient(it_0062_004338,neg).
 
 %patient: it-0062-004339 index:625
@@ -13025,6 +13650,7 @@ who_f2(it_0062_004339,0).
 who_f3(it_0062_004339,0).
 who_f4(it_0062_004339,1).
 typeofoutcome_updated(it_0062_004339,2).
+vaccine(it_0062_004339,0,3).
 patient(it_0062_004339,neg).
 
 %patient: it-0062-004340 index:626
@@ -13039,6 +13665,7 @@ who_f2(it_0062_004340,0).
 who_f3(it_0062_004340,0).
 who_f4(it_0062_004340,1).
 typeofoutcome_updated(it_0062_004340,2).
+vaccine(it_0062_004340,0,3).
 patient(it_0062_004340,neg).
 
 %patient: it-0062-004341 index:627
@@ -13053,6 +13680,7 @@ who_f2(it_0062_004341,0).
 who_f3(it_0062_004341,0).
 who_f4(it_0062_004341,1).
 typeofoutcome_updated(it_0062_004341,2).
+vaccine(it_0062_004341,0,3).
 patient(it_0062_004341,neg).
 
 %patient: it-0062-004342 index:628
@@ -13067,6 +13695,7 @@ who_f2(it_0062_004342,0).
 who_f3(it_0062_004342,0).
 who_f4(it_0062_004342,1).
 typeofoutcome_updated(it_0062_004342,2).
+vaccine(it_0062_004342,0,3).
 patient(it_0062_004342,neg).
 
 %patient: it-0062-004372 index:629
@@ -13081,6 +13710,7 @@ who_f2(it_0062_004372,0).
 who_f3(it_0062_004372,0).
 who_f4(it_0062_004372,1).
 typeofoutcome_updated(it_0062_004372,2).
+vaccine(it_0062_004372,0,3).
 patient(it_0062_004372,neg).
 
 %patient: it-0062-004374 index:630
@@ -13095,6 +13725,7 @@ who_f2(it_0062_004374,0).
 who_f3(it_0062_004374,0).
 who_f4(it_0062_004374,1).
 typeofoutcome_updated(it_0062_004374,2).
+vaccine(it_0062_004374,0,3).
 patient(it_0062_004374,neg).
 
 %patient: it-0062-004375 index:631
@@ -13109,6 +13740,7 @@ who_f2(it_0062_004375,0).
 who_f3(it_0062_004375,0).
 who_f4(it_0062_004375,1).
 typeofoutcome_updated(it_0062_004375,2).
+vaccine(it_0062_004375,0,3).
 patient(it_0062_004375,neg).
 
 %patient: it-0062-004376 index:632
@@ -13123,6 +13755,7 @@ who_f2(it_0062_004376,0).
 who_f3(it_0062_004376,0).
 who_f4(it_0062_004376,1).
 typeofoutcome_updated(it_0062_004376,2).
+vaccine(it_0062_004376,0,3).
 patient(it_0062_004376,neg).
 
 %patient: it-0062-004378 index:633
@@ -13137,6 +13770,7 @@ who_f2(it_0062_004378,0).
 who_f3(it_0062_004378,0).
 who_f4(it_0062_004378,1).
 typeofoutcome_updated(it_0062_004378,2).
+vaccine(it_0062_004378,0,3).
 patient(it_0062_004378,neg).
 
 %patient: it-0062-004379 index:634
@@ -13151,6 +13785,7 @@ who_f2(it_0062_004379,0).
 who_f3(it_0062_004379,0).
 who_f4(it_0062_004379,1).
 typeofoutcome_updated(it_0062_004379,2).
+vaccine(it_0062_004379,0,3).
 patient(it_0062_004379,neg).
 
 %patient: it-0062-004380 index:635
@@ -13165,6 +13800,7 @@ who_f2(it_0062_004380,0).
 who_f3(it_0062_004380,0).
 who_f4(it_0062_004380,1).
 typeofoutcome_updated(it_0062_004380,2).
+vaccine(it_0062_004380,0,3).
 patient(it_0062_004380,neg).
 
 %patient: it-0062-004381 index:636
@@ -13179,6 +13815,7 @@ who_f2(it_0062_004381,0).
 who_f3(it_0062_004381,0).
 who_f4(it_0062_004381,1).
 typeofoutcome_updated(it_0062_004381,2).
+vaccine(it_0062_004381,0,3).
 patient(it_0062_004381,neg).
 
 %patient: it-0062-004384 index:637
@@ -13193,6 +13830,7 @@ who_f2(it_0062_004384,0).
 who_f3(it_0062_004384,0).
 who_f4(it_0062_004384,1).
 typeofoutcome_updated(it_0062_004384,2).
+vaccine(it_0062_004384,0,3).
 patient(it_0062_004384,neg).
 
 %patient: it-0062-004385 index:638
@@ -13207,6 +13845,7 @@ who_f2(it_0062_004385,0).
 who_f3(it_0062_004385,0).
 who_f4(it_0062_004385,1).
 typeofoutcome_updated(it_0062_004385,2).
+vaccine(it_0062_004385,0,3).
 patient(it_0062_004385,neg).
 
 %patient: it-0062-004435 index:639
@@ -13221,6 +13860,7 @@ who_f2(it_0062_004435,0).
 who_f3(it_0062_004435,0).
 who_f4(it_0062_004435,1).
 typeofoutcome_updated(it_0062_004435,2).
+vaccine(it_0062_004435,0,3).
 patient(it_0062_004435,neg).
 
 %patient: it-0062-004436 index:640
@@ -13235,6 +13875,7 @@ who_f2(it_0062_004436,0).
 who_f3(it_0062_004436,0).
 who_f4(it_0062_004436,1).
 typeofoutcome_updated(it_0062_004436,2).
+vaccine(it_0062_004436,0,3).
 patient(it_0062_004436,neg).
 
 %patient: it-0062-004437 index:641
@@ -13249,6 +13890,7 @@ who_f2(it_0062_004437,0).
 who_f3(it_0062_004437,0).
 who_f4(it_0062_004437,1).
 typeofoutcome_updated(it_0062_004437,2).
+vaccine(it_0062_004437,0,3).
 patient(it_0062_004437,neg).
 
 %patient: it-0062-004438 index:642
@@ -13263,6 +13905,7 @@ who_f2(it_0062_004438,0).
 who_f3(it_0062_004438,0).
 who_f4(it_0062_004438,1).
 typeofoutcome_updated(it_0062_004438,2).
+vaccine(it_0062_004438,0,3).
 patient(it_0062_004438,neg).
 
 %patient: it-0062-004439 index:643
@@ -13277,6 +13920,7 @@ who_f2(it_0062_004439,0).
 who_f3(it_0062_004439,0).
 who_f4(it_0062_004439,1).
 typeofoutcome_updated(it_0062_004439,2).
+vaccine(it_0062_004439,0,3).
 patient(it_0062_004439,neg).
 
 %patient: it-0062-004442 index:644
@@ -13291,6 +13935,7 @@ who_f2(it_0062_004442,0).
 who_f3(it_0062_004442,0).
 who_f4(it_0062_004442,1).
 typeofoutcome_updated(it_0062_004442,2).
+vaccine(it_0062_004442,0,3).
 patient(it_0062_004442,neg).
 
 %patient: it-0062-004443 index:645
@@ -13305,6 +13950,7 @@ who_f2(it_0062_004443,0).
 who_f3(it_0062_004443,0).
 who_f4(it_0062_004443,1).
 typeofoutcome_updated(it_0062_004443,2).
+vaccine(it_0062_004443,0,3).
 patient(it_0062_004443,neg).
 
 %patient: it-0062-004445 index:646
@@ -13319,6 +13965,7 @@ who_f2(it_0062_004445,0).
 who_f3(it_0062_004445,0).
 who_f4(it_0062_004445,1).
 typeofoutcome_updated(it_0062_004445,2).
+vaccine(it_0062_004445,0,3).
 patient(it_0062_004445,neg).
 
 %patient: it-0062-004447 index:647
@@ -13333,6 +13980,7 @@ who_f2(it_0062_004447,0).
 who_f3(it_0062_004447,0).
 who_f4(it_0062_004447,1).
 typeofoutcome_updated(it_0062_004447,2).
+vaccine(it_0062_004447,0,3).
 patient(it_0062_004447,neg).
 
 %patient: it-0062-004448 index:648
@@ -13347,6 +13995,7 @@ who_f2(it_0062_004448,0).
 who_f3(it_0062_004448,0).
 who_f4(it_0062_004448,1).
 typeofoutcome_updated(it_0062_004448,2).
+vaccine(it_0062_004448,0,3).
 patient(it_0062_004448,neg).
 
 %patient: it-0062-004373 index:649
@@ -13361,6 +14010,7 @@ who_f2(it_0062_004373,0).
 who_f3(it_0062_004373,0).
 who_f4(it_0062_004373,1).
 typeofoutcome_updated(it_0062_004373,2).
+vaccine(it_0062_004373,0,3).
 patient(it_0062_004373,neg).
 
 %patient: it-0152-005087 index:650
@@ -13381,6 +14031,7 @@ who_f2(it_0152_005087,0).
 who_f3(it_0152_005087,9).
 who_f4(it_0152_005087,0).
 typeofoutcome_updated(it_0152_005087,2).
+vaccine(it_0152_005087,0,1).
 patient(it_0152_005087,neg).
 
 %patient: it-0152-004891 index:651
@@ -13405,6 +14056,7 @@ who_f2(it_0152_004891,0).
 who_f3(it_0152_004891,0).
 who_f4(it_0152_004891,0).
 typeofoutcome_updated(it_0152_004891,2).
+vaccine(it_0152_004891,0,2).
 patient(it_0152_004891,neg).
 
 %patient: it-0152-005495 index:652
@@ -13424,6 +14076,7 @@ who_f2(it_0152_005495,0).
 who_f3(it_0152_005495,0).
 who_f4(it_0152_005495,0).
 typeofoutcome_updated(it_0152_005495,2).
+vaccine(it_0152_005495,0,3).
 patient(it_0152_005495,neg).
 
 %patient: it-0138-004363 index:653
@@ -13439,6 +14092,7 @@ who_f2(it_0138_004363,0).
 who_f3(it_0138_004363,0).
 who_f4(it_0138_004363,0).
 typeofoutcome_updated(it_0138_004363,2).
+vaccine(it_0138_004363,0,3).
 patient(it_0138_004363,neg).
 
 %patient: it-0143-006627 index:654
@@ -13455,6 +14109,7 @@ who_f2(it_0143_006627,0).
 who_f3(it_0143_006627,1).
 who_f4(it_0143_006627,1).
 typeofoutcome_updated(it_0143_006627,2).
+vaccine(it_0143_006627,0,2).
 patient(it_0143_006627,neg).
 
 %patient: it-0152-004920 index:655
@@ -13472,6 +14127,7 @@ who_f2(it_0152_004920,0).
 who_f3(it_0152_004920,0).
 who_f4(it_0152_004920,0).
 typeofoutcome_updated(it_0152_004920,2).
+vaccine(it_0152_004920,0,2).
 patient(it_0152_004920,neg).
 
 %patient: it-0152-004985 index:656
@@ -13490,6 +14146,7 @@ who_f2(it_0152_004985,0).
 who_f3(it_0152_004985,0).
 who_f4(it_0152_004985,0).
 typeofoutcome_updated(it_0152_004985,2).
+vaccine(it_0152_004985,0,2).
 patient(it_0152_004985,neg).
 
 %patient: it-0152-004986 index:657
@@ -13507,6 +14164,7 @@ who_f2(it_0152_004986,0).
 who_f3(it_0152_004986,0).
 who_f4(it_0152_004986,0).
 typeofoutcome_updated(it_0152_004986,2).
+vaccine(it_0152_004986,0,2).
 patient(it_0152_004986,neg).
 
 %patient: it-0152-005025 index:658
@@ -13525,6 +14183,7 @@ who_f2(it_0152_005025,0).
 who_f3(it_0152_005025,0).
 who_f4(it_0152_005025,0).
 typeofoutcome_updated(it_0152_005025,2).
+vaccine(it_0152_005025,0,3).
 patient(it_0152_005025,neg).
 
 %patient: it-0152-005063 index:659
@@ -13542,6 +14201,7 @@ who_f2(it_0152_005063,0).
 who_f3(it_0152_005063,0).
 who_f4(it_0152_005063,0).
 typeofoutcome_updated(it_0152_005063,2).
+vaccine(it_0152_005063,0,3).
 patient(it_0152_005063,neg).
 
 %patient: it-0152-005067 index:660
@@ -13561,6 +14221,7 @@ who_f2(it_0152_005067,0).
 who_f3(it_0152_005067,0).
 who_f4(it_0152_005067,0).
 typeofoutcome_updated(it_0152_005067,2).
+vaccine(it_0152_005067,0,3).
 patient(it_0152_005067,neg).
 
 %patient: it-0152-005073 index:661
@@ -13577,6 +14238,7 @@ who_f2(it_0152_005073,0).
 who_f3(it_0152_005073,0).
 who_f4(it_0152_005073,0).
 typeofoutcome_updated(it_0152_005073,2).
+vaccine(it_0152_005073,0,3).
 patient(it_0152_005073,neg).
 
 %patient: it-0152-005147 index:662
@@ -13593,6 +14255,7 @@ who_f2(it_0152_005147,0).
 who_f3(it_0152_005147,0).
 who_f4(it_0152_005147,0).
 typeofoutcome_updated(it_0152_005147,2).
+vaccine(it_0152_005147,0,3).
 patient(it_0152_005147,neg).
 
 %patient: it-0152-005152 index:663
@@ -13610,6 +14273,7 @@ who_f2(it_0152_005152,0).
 who_f3(it_0152_005152,0).
 who_f4(it_0152_005152,0).
 typeofoutcome_updated(it_0152_005152,2).
+vaccine(it_0152_005152,0,3).
 patient(it_0152_005152,neg).
 
 %patient: it-0152-005153 index:664
@@ -13628,6 +14292,7 @@ who_f2(it_0152_005153,0).
 who_f3(it_0152_005153,0).
 who_f4(it_0152_005153,0).
 typeofoutcome_updated(it_0152_005153,2).
+vaccine(it_0152_005153,0,3).
 patient(it_0152_005153,neg).
 
 %patient: it-0152-005163 index:665
@@ -13645,6 +14310,7 @@ who_f2(it_0152_005163,0).
 who_f3(it_0152_005163,0).
 who_f4(it_0152_005163,0).
 typeofoutcome_updated(it_0152_005163,2).
+vaccine(it_0152_005163,0,3).
 patient(it_0152_005163,neg).
 
 %patient: it-0152-005170 index:666
@@ -13660,6 +14326,7 @@ who_f2(it_0152_005170,0).
 who_f3(it_0152_005170,0).
 who_f4(it_0152_005170,0).
 typeofoutcome_updated(it_0152_005170,2).
+vaccine(it_0152_005170,0,3).
 patient(it_0152_005170,neg).
 
 %patient: it-0152-005173 index:667
@@ -13679,6 +14346,7 @@ who_f2(it_0152_005173,0).
 who_f3(it_0152_005173,0).
 who_f4(it_0152_005173,0).
 typeofoutcome_updated(it_0152_005173,2).
+vaccine(it_0152_005173,0,3).
 patient(it_0152_005173,neg).
 
 %patient: it-0152-005174 index:668
@@ -13695,6 +14363,7 @@ who_f2(it_0152_005174,0).
 who_f3(it_0152_005174,0).
 who_f4(it_0152_005174,0).
 typeofoutcome_updated(it_0152_005174,2).
+vaccine(it_0152_005174,0,3).
 patient(it_0152_005174,neg).
 
 %patient: it-0152-005379 index:669
@@ -13712,6 +14381,7 @@ who_f2(it_0152_005379,0).
 who_f3(it_0152_005379,0).
 who_f4(it_0152_005379,0).
 typeofoutcome_updated(it_0152_005379,2).
+vaccine(it_0152_005379,0,3).
 patient(it_0152_005379,neg).
 
 %patient: it-0152-005456 index:670
@@ -13730,6 +14400,7 @@ who_f2(it_0152_005456,0).
 who_f3(it_0152_005456,0).
 who_f4(it_0152_005456,0).
 typeofoutcome_updated(it_0152_005456,2).
+vaccine(it_0152_005456,0,2).
 patient(it_0152_005456,neg).
 
 %patient: it-0152-005457 index:671
@@ -13746,6 +14417,7 @@ who_f2(it_0152_005457,0).
 who_f3(it_0152_005457,0).
 who_f4(it_0152_005457,0).
 typeofoutcome_updated(it_0152_005457,2).
+vaccine(it_0152_005457,0,3).
 patient(it_0152_005457,neg).
 
 %patient: it-0152-005460 index:672
@@ -13765,6 +14437,7 @@ who_f2(it_0152_005460,0).
 who_f3(it_0152_005460,0).
 who_f4(it_0152_005460,0).
 typeofoutcome_updated(it_0152_005460,2).
+vaccine(it_0152_005460,0,3).
 patient(it_0152_005460,neg).
 
 %patient: it-0152-005476 index:673
@@ -13783,6 +14456,7 @@ who_f2(it_0152_005476,0).
 who_f3(it_0152_005476,0).
 who_f4(it_0152_005476,0).
 typeofoutcome_updated(it_0152_005476,2).
+vaccine(it_0152_005476,0,3).
 patient(it_0152_005476,neg).
 
 %patient: it-0152-005487 index:674
@@ -13801,6 +14475,7 @@ who_f2(it_0152_005487,0).
 who_f3(it_0152_005487,0).
 who_f4(it_0152_005487,0).
 typeofoutcome_updated(it_0152_005487,2).
+vaccine(it_0152_005487,0,3).
 patient(it_0152_005487,neg).
 
 %patient: it-0152-005502 index:675
@@ -13817,6 +14492,7 @@ who_f2(it_0152_005502,0).
 who_f3(it_0152_005502,0).
 who_f4(it_0152_005502,0).
 typeofoutcome_updated(it_0152_005502,2).
+vaccine(it_0152_005502,0,3).
 patient(it_0152_005502,neg).
 
 %patient: it-0152-005535 index:676
@@ -13835,6 +14511,7 @@ who_f2(it_0152_005535,0).
 who_f3(it_0152_005535,0).
 who_f4(it_0152_005535,0).
 typeofoutcome_updated(it_0152_005535,2).
+vaccine(it_0152_005535,0,2).
 patient(it_0152_005535,neg).
 
 %patient: it-0152-005537 index:677
@@ -13852,6 +14529,7 @@ who_f2(it_0152_005537,0).
 who_f3(it_0152_005537,0).
 who_f4(it_0152_005537,0).
 typeofoutcome_updated(it_0152_005537,2).
+vaccine(it_0152_005537,0,3).
 patient(it_0152_005537,neg).
 
 %patient: it-0152-005541 index:678
@@ -13868,6 +14546,7 @@ who_f2(it_0152_005541,0).
 who_f3(it_0152_005541,0).
 who_f4(it_0152_005541,0).
 typeofoutcome_updated(it_0152_005541,2).
+vaccine(it_0152_005541,0,3).
 patient(it_0152_005541,neg).
 
 %patient: it-0152-005542 index:679
@@ -13888,6 +14567,7 @@ who_f2(it_0152_005542,0).
 who_f3(it_0152_005542,0).
 who_f4(it_0152_005542,0).
 typeofoutcome_updated(it_0152_005542,2).
+vaccine(it_0152_005542,0,2).
 patient(it_0152_005542,neg).
 
 %patient: it-0152-005547 index:680
@@ -13907,6 +14587,7 @@ who_f2(it_0152_005547,0).
 who_f3(it_0152_005547,0).
 who_f4(it_0152_005547,0).
 typeofoutcome_updated(it_0152_005547,2).
+vaccine(it_0152_005547,0,3).
 patient(it_0152_005547,neg).
 
 %patient: it-0152-005548 index:681
@@ -13925,6 +14606,7 @@ who_f2(it_0152_005548,0).
 who_f3(it_0152_005548,0).
 who_f4(it_0152_005548,0).
 typeofoutcome_updated(it_0152_005548,2).
+vaccine(it_0152_005548,0,3).
 patient(it_0152_005548,neg).
 
 %patient: it-0152-005555 index:682
@@ -13943,6 +14625,7 @@ who_f2(it_0152_005555,0).
 who_f3(it_0152_005555,0).
 who_f4(it_0152_005555,0).
 typeofoutcome_updated(it_0152_005555,2).
+vaccine(it_0152_005555,0,3).
 patient(it_0152_005555,neg).
 
 %patient: it-0108-002698 index:683
@@ -13961,6 +14644,7 @@ who_f2(it_0108_002698,0).
 who_f3(it_0108_002698,0).
 who_f4(it_0108_002698,0).
 typeofoutcome_updated(it_0108_002698,2).
+vaccine(it_0108_002698,0,2).
 patient(it_0108_002698,neg).
 
 %patient: it-0116-005159 index:684
@@ -13980,6 +14664,7 @@ who_f2(it_0116_005159,0).
 who_f3(it_0116_005159,0).
 who_f4(it_0116_005159,0).
 typeofoutcome_updated(it_0116_005159,2).
+vaccine(it_0116_005159,0,3).
 patient(it_0116_005159,neg).
 
 %patient: it-0128-004697 index:685
@@ -14000,6 +14685,7 @@ who_f2(it_0128_004697,9).
 who_f3(it_0128_004697,0).
 who_f4(it_0128_004697,0).
 typeofoutcome_updated(it_0128_004697,2).
+vaccine(it_0128_004697,0,2).
 patient(it_0128_004697,neg).
 
 %patient: it-0128-004698 index:686
@@ -14017,6 +14703,7 @@ who_f2(it_0128_004698,0).
 who_f3(it_0128_004698,0).
 who_f4(it_0128_004698,0).
 typeofoutcome_updated(it_0128_004698,2).
+vaccine(it_0128_004698,0,2).
 patient(it_0128_004698,neg).
 
 %patient: it-0128-004699 index:687
@@ -14033,6 +14720,7 @@ who_f2(it_0128_004699,0).
 who_f3(it_0128_004699,0).
 who_f4(it_0128_004699,0).
 typeofoutcome_updated(it_0128_004699,2).
+vaccine(it_0128_004699,0,2).
 patient(it_0128_004699,neg).
 
 %patient: it-0128-004700 index:688
@@ -14050,6 +14738,7 @@ who_f2(it_0128_004700,0).
 who_f3(it_0128_004700,0).
 who_f4(it_0128_004700,0).
 typeofoutcome_updated(it_0128_004700,2).
+vaccine(it_0128_004700,0,2).
 patient(it_0128_004700,neg).
 
 %patient: it-0128-004701 index:689
@@ -14067,6 +14756,7 @@ who_f2(it_0128_004701,9).
 who_f3(it_0128_004701,0).
 who_f4(it_0128_004701,0).
 typeofoutcome_updated(it_0128_004701,2).
+vaccine(it_0128_004701,0,2).
 patient(it_0128_004701,neg).
 
 %patient: it-0128-004702 index:690
@@ -14086,6 +14776,7 @@ who_f2(it_0128_004702,9).
 who_f3(it_0128_004702,0).
 who_f4(it_0128_004702,0).
 typeofoutcome_updated(it_0128_004702,2).
+vaccine(it_0128_004702,0,2).
 patient(it_0128_004702,neg).
 
 %patient: it-0128-004703 index:691
@@ -14103,6 +14794,7 @@ who_f2(it_0128_004703,9).
 who_f3(it_0128_004703,0).
 who_f4(it_0128_004703,0).
 typeofoutcome_updated(it_0128_004703,2).
+vaccine(it_0128_004703,0,2).
 patient(it_0128_004703,neg).
 
 %patient: it-0128-004705 index:692
@@ -14120,6 +14812,7 @@ who_f2(it_0128_004705,0).
 who_f3(it_0128_004705,0).
 who_f4(it_0128_004705,0).
 typeofoutcome_updated(it_0128_004705,2).
+vaccine(it_0128_004705,0,2).
 patient(it_0128_004705,neg).
 
 %patient: it-0128-004707 index:693
@@ -14136,6 +14829,7 @@ who_f2(it_0128_004707,0).
 who_f3(it_0128_004707,0).
 who_f4(it_0128_004707,0).
 typeofoutcome_updated(it_0128_004707,2).
+vaccine(it_0128_004707,0,2).
 patient(it_0128_004707,neg).
 
 %patient: it-0128-004711 index:694
@@ -14157,6 +14851,7 @@ who_f2(it_0128_004711,9).
 who_f3(it_0128_004711,0).
 who_f4(it_0128_004711,0).
 typeofoutcome_updated(it_0128_004711,2).
+vaccine(it_0128_004711,0,2).
 patient(it_0128_004711,neg).
 
 %patient: it-0129-004687 index:695
@@ -14176,6 +14871,7 @@ who_f2(it_0129_004687,9).
 who_f3(it_0129_004687,0).
 who_f4(it_0129_004687,0).
 typeofoutcome_updated(it_0129_004687,2).
+vaccine(it_0129_004687,0,2).
 patient(it_0129_004687,neg).
 
 %patient: it-0129-004688 index:696
@@ -14195,6 +14891,7 @@ who_f2(it_0129_004688,9).
 who_f3(it_0129_004688,0).
 who_f4(it_0129_004688,0).
 typeofoutcome_updated(it_0129_004688,2).
+vaccine(it_0129_004688,0,2).
 patient(it_0129_004688,neg).
 
 %patient: it-0129-004690 index:697
@@ -14213,6 +14910,7 @@ who_f2(it_0129_004690,0).
 who_f3(it_0129_004690,0).
 who_f4(it_0129_004690,0).
 typeofoutcome_updated(it_0129_004690,2).
+vaccine(it_0129_004690,0,2).
 patient(it_0129_004690,neg).
 
 %patient: it-0129-004693 index:698
@@ -14233,6 +14931,7 @@ who_f2(it_0129_004693,0).
 who_f3(it_0129_004693,0).
 who_f4(it_0129_004693,0).
 typeofoutcome_updated(it_0129_004693,2).
+vaccine(it_0129_004693,0,2).
 patient(it_0129_004693,neg).
 
 %patient: it-0129-004694 index:699
@@ -14252,6 +14951,7 @@ who_f2(it_0129_004694,0).
 who_f3(it_0129_004694,0).
 who_f4(it_0129_004694,0).
 typeofoutcome_updated(it_0129_004694,2).
+vaccine(it_0129_004694,0,2).
 patient(it_0129_004694,neg).
 
 %patient: it-0129-004695 index:700
@@ -14272,6 +14972,7 @@ who_f2(it_0129_004695,0).
 who_f3(it_0129_004695,0).
 who_f4(it_0129_004695,0).
 typeofoutcome_updated(it_0129_004695,2).
+vaccine(it_0129_004695,0,2).
 patient(it_0129_004695,neg).
 
 %patient: it-0129-004696 index:701
@@ -14288,6 +14989,7 @@ who_f2(it_0129_004696,0).
 who_f3(it_0129_004696,0).
 who_f4(it_0129_004696,0).
 typeofoutcome_updated(it_0129_004696,2).
+vaccine(it_0129_004696,0,2).
 patient(it_0129_004696,neg).
 
 %patient: it-0129-004760 index:702
@@ -14305,6 +15007,7 @@ who_f2(it_0129_004760,0).
 who_f3(it_0129_004760,0).
 who_f4(it_0129_004760,0).
 typeofoutcome_updated(it_0129_004760,2).
+vaccine(it_0129_004760,0,2).
 patient(it_0129_004760,neg).
 
 %patient: it-0165-005561 index:703
@@ -14322,6 +15025,7 @@ who_f2(it_0165_005561,9).
 who_f3(it_0165_005561,0).
 who_f4(it_0165_005561,0).
 typeofoutcome_updated(it_0165_005561,2).
+vaccine(it_0165_005561,0,2).
 patient(it_0165_005561,neg).
 
 %patient: it-0165-005563 index:704
@@ -14341,6 +15045,7 @@ who_f2(it_0165_005563,0).
 who_f3(it_0165_005563,0).
 who_f4(it_0165_005563,0).
 typeofoutcome_updated(it_0165_005563,2).
+vaccine(it_0165_005563,0,2).
 patient(it_0165_005563,neg).
 
 %patient: it-0165-005567 index:705
@@ -14360,6 +15065,7 @@ who_f2(it_0165_005567,9).
 who_f3(it_0165_005567,0).
 who_f4(it_0165_005567,0).
 typeofoutcome_updated(it_0165_005567,2).
+vaccine(it_0165_005567,0,2).
 patient(it_0165_005567,neg).
 
 %patient: it-0165-005568 index:706
@@ -14379,6 +15085,7 @@ who_f2(it_0165_005568,9).
 who_f3(it_0165_005568,0).
 who_f4(it_0165_005568,0).
 typeofoutcome_updated(it_0165_005568,2).
+vaccine(it_0165_005568,0,2).
 patient(it_0165_005568,neg).
 
 %patient: it-0165-005569 index:707
@@ -14395,6 +15102,7 @@ who_f2(it_0165_005569,9).
 who_f3(it_0165_005569,0).
 who_f4(it_0165_005569,0).
 typeofoutcome_updated(it_0165_005569,2).
+vaccine(it_0165_005569,0,2).
 patient(it_0165_005569,neg).
 
 %patient: it-0129-004691 index:708
@@ -14414,6 +15122,7 @@ who_f2(it_0129_004691,0).
 who_f3(it_0129_004691,0).
 who_f4(it_0129_004691,1).
 typeofoutcome_updated(it_0129_004691,2).
+vaccine(it_0129_004691,0,2).
 patient(it_0129_004691,neg).
 
 %patient: it-0129-004692 index:709
@@ -14434,6 +15143,7 @@ who_f2(it_0129_004692,0).
 who_f3(it_0129_004692,0).
 who_f4(it_0129_004692,1).
 typeofoutcome_updated(it_0129_004692,2).
+vaccine(it_0129_004692,0,2).
 patient(it_0129_004692,neg).
 
 %patient: it-0165-005566 index:710
@@ -14453,6 +15163,7 @@ who_f2(it_0165_005566,0).
 who_f3(it_0165_005566,0).
 who_f4(it_0165_005566,1).
 typeofoutcome_updated(it_0165_005566,2).
+vaccine(it_0165_005566,0,2).
 patient(it_0165_005566,neg).
 
 %patient: it-0128-004708 index:711
@@ -14473,6 +15184,7 @@ who_f2(it_0128_004708,0).
 who_f3(it_0128_004708,0).
 who_f4(it_0128_004708,1).
 typeofoutcome_updated(it_0128_004708,2).
+vaccine(it_0128_004708,0,2).
 patient(it_0128_004708,neg).
 
 %patient: it-0165-005562 index:712
@@ -14492,6 +15204,7 @@ who_f2(it_0165_005562,0).
 who_f3(it_0165_005562,0).
 who_f4(it_0165_005562,1).
 typeofoutcome_updated(it_0165_005562,2).
+vaccine(it_0165_005562,0,2).
 patient(it_0165_005562,neg).
 
 %patient: it-0110-006357 index:713
@@ -14507,6 +15220,7 @@ who_f2(it_0110_006357,9).
 who_f3(it_0110_006357,9).
 who_f4(it_0110_006357,9).
 typeofoutcome_updated(it_0110_006357,2).
+vaccine(it_0110_006357,1,2).
 patient(it_0110_006357,neg).
 
 %patient: it-0062-004318 index:714
@@ -14525,6 +15239,7 @@ who_f2(it_0062_004318,0).
 who_f3(it_0062_004318,0).
 who_f4(it_0062_004318,1).
 typeofoutcome_updated(it_0062_004318,2).
+vaccine(it_0062_004318,0,3).
 patient(it_0062_004318,neg).
 
 %patient: it-0150-006030 index:715
@@ -14543,6 +15258,7 @@ mmsumrev(it_0150_006030,5).
 covid12m(it_0150_006030).
 who_f1(it_0150_006030,9).
 typeofoutcome_updated(it_0150_006030,2).
+vaccine(it_0150_006030,0,3).
 patient(it_0150_006030,neg).
 
 %patient: it-0111-005875 index:716
@@ -14562,6 +15278,7 @@ who_f2(it_0111_005875,9).
 who_f3(it_0111_005875,9).
 who_f4(it_0111_005875,9).
 typeofoutcome_updated(it_0111_005875,2).
+vaccine(it_0111_005875,0,2).
 patient(it_0111_005875,neg).
 
 %patient: it-0148-005995 index:717
@@ -14581,6 +15298,7 @@ who_f2(it_0148_005995,0).
 who_f3(it_0148_005995,9).
 who_f4(it_0148_005995,9).
 typeofoutcome_updated(it_0148_005995,2).
+vaccine(it_0148_005995,0,3).
 patient(it_0148_005995,neg).
 
 %patient: it-0143-003922 index:718
@@ -14603,6 +15321,7 @@ who_f2(it_0143_003922,4).
 who_f3(it_0143_003922,9).
 who_f4(it_0143_003922,9).
 typeofoutcome_updated(it_0143_003922,2).
+vaccine(it_0143_003922,0,2).
 patient(it_0143_003922,neg).
 
 %patient: it-0141-005508 index:719
@@ -14622,6 +15341,7 @@ who_f2(it_0141_005508,0).
 who_f3(it_0141_005508,0).
 who_f4(it_0141_005508,0).
 typeofoutcome_updated(it_0141_005508,2).
+vaccine(it_0141_005508,0,3).
 patient(it_0141_005508,neg).
 
 %patient: it-0138-004463 index:720
@@ -14642,6 +15362,7 @@ who_f2(it_0138_004463,0).
 who_f3(it_0138_004463,0).
 who_f4(it_0138_004463,9).
 typeofoutcome_updated(it_0138_004463,2).
+vaccine(it_0138_004463,0,2).
 patient(it_0138_004463,neg).
 
 %patient: it-0169-006602 index:721
@@ -14660,6 +15381,7 @@ who_f2(it_0169_006602,0).
 who_f3(it_0169_006602,0).
 who_f4(it_0169_006602,9).
 typeofoutcome_updated(it_0169_006602,2).
+vaccine(it_0169_006602,0,2).
 patient(it_0169_006602,neg).
 
 %patient: it-0158-006081 index:722
@@ -14684,6 +15406,7 @@ who_f2(it_0158_006081,0).
 who_f3(it_0158_006081,0).
 who_f4(it_0158_006081,0).
 typeofoutcome_updated(it_0158_006081,2).
+vaccine(it_0158_006081,0,2).
 patient(it_0158_006081,neg).
 
 %patient: it-0050-004129 index:723
@@ -14709,6 +15432,7 @@ who_f2(it_0050_004129,1).
 who_f3(it_0050_004129,0).
 who_f4(it_0050_004129,9).
 typeofoutcome_updated(it_0050_004129,2).
+vaccine(it_0050_004129,0,1).
 patient(it_0050_004129,neg).
 
 %patient: it-0062-000446 index:724
@@ -14728,6 +15452,7 @@ who_f2(it_0062_000446,0).
 who_f3(it_0062_000446,0).
 who_f4(it_0062_000446,9).
 typeofoutcome_updated(it_0062_000446,2).
+vaccine(it_0062_000446,0,2).
 patient(it_0062_000446,neg).
 
 %patient: it-0151-005814 index:725
@@ -14744,6 +15469,7 @@ who_f2(it_0151_005814,9).
 who_f3(it_0151_005814,9).
 who_f4(it_0151_005814,9).
 typeofoutcome_updated(it_0151_005814,2).
+vaccine(it_0151_005814,0,2).
 patient(it_0151_005814,neg).
 
 %patient: it-0043-005607 index:726
@@ -14776,6 +15502,7 @@ who_f2(it_0043_005607,9).
 who_f3(it_0043_005607,9).
 who_f4(it_0043_005607,9).
 typeofoutcome_updated(it_0043_005607,2).
+vaccine(it_0043_005607,0,2).
 patient(it_0043_005607,neg).
 
 %patient: it-0148-005583 index:727
@@ -14798,6 +15525,7 @@ who_f2(it_0148_005583,0).
 who_f3(it_0148_005583,0).
 who_f4(it_0148_005583,9).
 typeofoutcome_updated(it_0148_005583,2).
+vaccine(it_0148_005583,0,2).
 patient(it_0148_005583,neg).
 
 %patient: it-0158-006067 index:728
@@ -14819,6 +15547,7 @@ who_f2(it_0158_006067,0).
 who_f3(it_0158_006067,0).
 who_f4(it_0158_006067,9).
 typeofoutcome_updated(it_0158_006067,2).
+vaccine(it_0158_006067,0,2).
 patient(it_0158_006067,neg).
 
 %patient: it-0043-005212 index:729
@@ -14849,6 +15578,7 @@ who_f2(it_0043_005212,9).
 who_f3(it_0043_005212,0).
 who_f4(it_0043_005212,9).
 typeofoutcome_updated(it_0043_005212,2).
+vaccine(it_0043_005212,0,2).
 patient(it_0043_005212,neg).
 
 %patient: it-0052-005301 index:730
@@ -14874,6 +15604,7 @@ who_f2(it_0052_005301,1).
 who_f3(it_0052_005301,0).
 who_f4(it_0052_005301,9).
 typeofoutcome_updated(it_0052_005301,2).
+vaccine(it_0052_005301,0,2).
 patient(it_0052_005301,neg).
 
 %patient: it-0141-006170 index:731
@@ -14892,6 +15623,7 @@ who_f2(it_0141_006170,0).
 who_f3(it_0141_006170,0).
 who_f4(it_0141_006170,9).
 typeofoutcome_updated(it_0141_006170,2).
+vaccine(it_0141_006170,0,2).
 patient(it_0141_006170,neg).
 
 %patient: it-0043-005746 index:732
@@ -14922,6 +15654,7 @@ who_f2(it_0043_005746,9).
 who_f3(it_0043_005746,0).
 who_f4(it_0043_005746,9).
 typeofoutcome_updated(it_0043_005746,2).
+vaccine(it_0043_005746,0,2).
 patient(it_0043_005746,neg).
 
 %patient: it-0143-003907 index:733
@@ -14941,6 +15674,7 @@ who_f2(it_0143_003907,0).
 who_f3(it_0143_003907,9).
 who_f4(it_0143_003907,9).
 typeofoutcome_updated(it_0143_003907,2).
+vaccine(it_0143_003907,0,2).
 patient(it_0143_003907,neg).
 
 %patient: it-0158-005948 index:734
@@ -14963,6 +15697,7 @@ who_f2(it_0158_005948,0).
 who_f3(it_0158_005948,0).
 who_f4(it_0158_005948,9).
 typeofoutcome_updated(it_0158_005948,2).
+vaccine(it_0158_005948,0,2).
 patient(it_0158_005948,neg).
 
 %patient: it-0143-004838 index:735
@@ -14982,6 +15717,7 @@ who_f2(it_0143_004838,0).
 who_f3(it_0143_004838,1).
 who_f4(it_0143_004838,9).
 typeofoutcome_updated(it_0143_004838,2).
+vaccine(it_0143_004838,0,2).
 patient(it_0143_004838,neg).
 
 %patient: it-0020-003774 index:736
@@ -15006,6 +15742,7 @@ who_f2(it_0020_003774,0).
 who_f3(it_0020_003774,0).
 who_f4(it_0020_003774,9).
 typeofoutcome_updated(it_0020_003774,2).
+vaccine(it_0020_003774,0,3).
 patient(it_0020_003774,neg).
 
 %patient: it-0039-003654 index:737
@@ -15031,6 +15768,7 @@ who_f2(it_0039_003654,0).
 who_f3(it_0039_003654,0).
 who_f4(it_0039_003654,9).
 typeofoutcome_updated(it_0039_003654,2).
+vaccine(it_0039_003654,0,3).
 patient(it_0039_003654,neg).
 
 %patient: it-0019-003807 index:738
@@ -15050,6 +15788,7 @@ who_f2(it_0019_003807,0).
 who_f3(it_0019_003807,0).
 who_f4(it_0019_003807,9).
 typeofoutcome_updated(it_0019_003807,2).
+vaccine(it_0019_003807,0,3).
 patient(it_0019_003807,neg).
 
 %patient: it-0138-004482 index:739
@@ -15068,6 +15807,7 @@ who_f2(it_0138_004482,0).
 who_f3(it_0138_004482,0).
 who_f4(it_0138_004482,9).
 typeofoutcome_updated(it_0138_004482,2).
+vaccine(it_0138_004482,0,3).
 patient(it_0138_004482,neg).
 
 %patient: it-0149-004322 index:740
@@ -15086,6 +15826,7 @@ who_f2(it_0149_004322,0).
 who_f3(it_0149_004322,0).
 who_f4(it_0149_004322,9).
 typeofoutcome_updated(it_0149_004322,2).
+vaccine(it_0149_004322,0,3).
 patient(it_0149_004322,neg).
 
 %patient: it-0149-004357 index:741
@@ -15109,6 +15850,7 @@ who_f2(it_0149_004357,0).
 who_f3(it_0149_004357,0).
 who_f4(it_0149_004357,9).
 typeofoutcome_updated(it_0149_004357,2).
+vaccine(it_0149_004357,0,3).
 patient(it_0149_004357,neg).
 
 %patient: it-0126-005123 index:742
@@ -15133,6 +15875,7 @@ who_f2(it_0126_005123,0).
 who_f3(it_0126_005123,0).
 who_f4(it_0126_005123,9).
 typeofoutcome_updated(it_0126_005123,2).
+vaccine(it_0126_005123,0,3).
 patient(it_0126_005123,neg).
 
 %patient: it-0125-003978 index:743
@@ -15159,6 +15902,7 @@ who_f2(it_0125_003978,0).
 who_f3(it_0125_003978,0).
 who_f4(it_0125_003978,9).
 typeofoutcome_updated(it_0125_003978,2).
+vaccine(it_0125_003978,0,3).
 patient(it_0125_003978,neg).
 
 %patient: it-0143-005315 index:744
@@ -15183,6 +15927,7 @@ who_f2(it_0143_005315,0).
 who_f3(it_0143_005315,0).
 who_f4(it_0143_005315,0).
 typeofoutcome_updated(it_0143_005315,2).
+vaccine(it_0143_005315,0,2).
 patient(it_0143_005315,neg).
 
 %patient: it-0152-005464 index:745
@@ -15208,6 +15953,7 @@ who_f2(it_0152_005464,0).
 who_f3(it_0152_005464,0).
 who_f4(it_0152_005464,0).
 typeofoutcome_updated(it_0152_005464,2).
+vaccine(it_0152_005464,0,2).
 patient(it_0152_005464,neg).
 
 %patient: it-0152-005465 index:746
@@ -15232,6 +15978,7 @@ who_f2(it_0152_005465,0).
 who_f3(it_0152_005465,0).
 who_f4(it_0152_005465,0).
 typeofoutcome_updated(it_0152_005465,2).
+vaccine(it_0152_005465,0,2).
 patient(it_0152_005465,neg).
 
 %patient: it-0152-004893 index:747
@@ -15258,6 +16005,7 @@ who_f2(it_0152_004893,0).
 who_f3(it_0152_004893,0).
 who_f4(it_0152_004893,0).
 typeofoutcome_updated(it_0152_004893,2).
+vaccine(it_0152_004893,0,2).
 patient(it_0152_004893,neg).
 
 %patient: it-0152-004894 index:748
@@ -15281,6 +16029,7 @@ who_f2(it_0152_004894,0).
 who_f3(it_0152_004894,0).
 who_f4(it_0152_004894,0).
 typeofoutcome_updated(it_0152_004894,2).
+vaccine(it_0152_004894,0,1).
 patient(it_0152_004894,neg).
 
 %patient: it-0152-004895 index:749
@@ -15303,6 +16052,7 @@ who_f2(it_0152_004895,0).
 who_f3(it_0152_004895,0).
 who_f4(it_0152_004895,0).
 typeofoutcome_updated(it_0152_004895,2).
+vaccine(it_0152_004895,0,1).
 patient(it_0152_004895,neg).
 
 %patient: it-0152-004897 index:750
@@ -15330,6 +16080,7 @@ who_f2(it_0152_004897,0).
 who_f3(it_0152_004897,0).
 who_f4(it_0152_004897,0).
 typeofoutcome_updated(it_0152_004897,2).
+vaccine(it_0152_004897,0,2).
 patient(it_0152_004897,neg).
 
 %patient: it-0152-005483 index:751
@@ -15347,6 +16098,7 @@ who_f2(it_0152_005483,0).
 who_f3(it_0152_005483,0).
 who_f4(it_0152_005483,0).
 typeofoutcome_updated(it_0152_005483,2).
+vaccine(it_0152_005483,0,2).
 patient(it_0152_005483,neg).
 
 %patient: it-0152-005544 index:752
@@ -15367,6 +16119,7 @@ who_f2(it_0152_005544,0).
 who_f3(it_0152_005544,0).
 who_f4(it_0152_005544,0).
 typeofoutcome_updated(it_0152_005544,2).
+vaccine(it_0152_005544,0,2).
 patient(it_0152_005544,neg).
 
 %patient: it-0152-005553 index:753
@@ -15385,6 +16138,7 @@ who_f2(it_0152_005553,0).
 who_f3(it_0152_005553,1).
 who_f4(it_0152_005553,0).
 typeofoutcome_updated(it_0152_005553,2).
+vaccine(it_0152_005553,0,2).
 patient(it_0152_005553,neg).
 
 %patient: it-0152-005062 index:754
@@ -15404,6 +16158,7 @@ who_f2(it_0152_005062,0).
 who_f3(it_0152_005062,1).
 who_f4(it_0152_005062,0).
 typeofoutcome_updated(it_0152_005062,2).
+vaccine(it_0152_005062,0,2).
 patient(it_0152_005062,neg).
 
 %patient: it-0152-005065 index:755
@@ -15426,6 +16181,7 @@ who_f2(it_0152_005065,0).
 who_f3(it_0152_005065,1).
 who_f4(it_0152_005065,0).
 typeofoutcome_updated(it_0152_005065,2).
+vaccine(it_0152_005065,0,2).
 patient(it_0152_005065,neg).
 
 %patient: it-0152-005070 index:756
@@ -15442,6 +16198,7 @@ who_f2(it_0152_005070,0).
 who_f3(it_0152_005070,0).
 who_f4(it_0152_005070,0).
 typeofoutcome_updated(it_0152_005070,2).
+vaccine(it_0152_005070,0,1).
 patient(it_0152_005070,neg).
 
 %patient: it-0152-005079 index:757
@@ -15459,6 +16216,7 @@ who_f2(it_0152_005079,0).
 who_f3(it_0152_005079,1).
 who_f4(it_0152_005079,0).
 typeofoutcome_updated(it_0152_005079,2).
+vaccine(it_0152_005079,0,2).
 patient(it_0152_005079,neg).
 
 %patient: it-0152-005080 index:758
@@ -15477,6 +16235,7 @@ who_f2(it_0152_005080,0).
 who_f3(it_0152_005080,1).
 who_f4(it_0152_005080,0).
 typeofoutcome_updated(it_0152_005080,2).
+vaccine(it_0152_005080,0,2).
 patient(it_0152_005080,neg).
 
 %patient: it-0152-005164 index:759
@@ -15495,6 +16254,7 @@ who_f2(it_0152_005164,0).
 who_f3(it_0152_005164,1).
 who_f4(it_0152_005164,0).
 typeofoutcome_updated(it_0152_005164,2).
+vaccine(it_0152_005164,0,2).
 patient(it_0152_005164,neg).
 
 %patient: it-0143-006147 index:760
@@ -15513,6 +16273,7 @@ who_f2(it_0143_006147,0).
 who_f3(it_0143_006147,1).
 who_f4(it_0143_006147,1).
 typeofoutcome_updated(it_0143_006147,2).
+vaccine(it_0143_006147,0,2).
 patient(it_0143_006147,neg).
 
 %patient: it-0143-004272 index:761
@@ -15538,6 +16299,7 @@ who_f2(it_0143_004272,0).
 who_f3(it_0143_004272,0).
 who_f4(it_0143_004272,0).
 typeofoutcome_updated(it_0143_004272,2).
+vaccine(it_0143_004272,0,2).
 patient(it_0143_004272,neg).
 
 %patient: it-0016-006013 index:762
@@ -15563,6 +16325,7 @@ who_f2(it_0016_006013,0).
 who_f3(it_0016_006013,0).
 who_f4(it_0016_006013,0).
 typeofoutcome_updated(it_0016_006013,2).
+vaccine(it_0016_006013,0,3).
 patient(it_0016_006013,neg).
 
 %patient: it-0148-005585 index:763
@@ -15584,6 +16347,7 @@ who_f2(it_0148_005585,0).
 who_f3(it_0148_005585,0).
 who_f4(it_0148_005585,9).
 typeofoutcome_updated(it_0148_005585,2).
+vaccine(it_0148_005585,0,3).
 patient(it_0148_005585,neg).
 
 %patient: it-0148-005824 index:764
@@ -15602,6 +16366,7 @@ who_f2(it_0148_005824,0).
 who_f3(it_0148_005824,0).
 who_f4(it_0148_005824,9).
 typeofoutcome_updated(it_0148_005824,2).
+vaccine(it_0148_005824,0,3).
 patient(it_0148_005824,neg).
 
 %patient: it-0143-003908 index:765
@@ -15632,6 +16397,7 @@ who_f2(it_0143_003908,0).
 who_f3(it_0143_003908,0).
 who_f4(it_0143_003908,0).
 typeofoutcome_updated(it_0143_003908,2).
+vaccine(it_0143_003908,0,2).
 patient(it_0143_003908,neg).
 
 %patient: it-0143-003913 index:766
@@ -15660,6 +16426,7 @@ who_f2(it_0143_003913,0).
 who_f3(it_0143_003913,0).
 who_f4(it_0143_003913,0).
 typeofoutcome_updated(it_0143_003913,2).
+vaccine(it_0143_003913,0,2).
 patient(it_0143_003913,neg).
 
 %patient: it-0143-003914 index:767
@@ -15687,6 +16454,7 @@ who_f2(it_0143_003914,0).
 who_f3(it_0143_003914,0).
 who_f4(it_0143_003914,0).
 typeofoutcome_updated(it_0143_003914,2).
+vaccine(it_0143_003914,0,2).
 patient(it_0143_003914,neg).
 
 %patient: it-0143-003916 index:768
@@ -15717,6 +16485,7 @@ who_f2(it_0143_003916,0).
 who_f3(it_0143_003916,0).
 who_f4(it_0143_003916,0).
 typeofoutcome_updated(it_0143_003916,2).
+vaccine(it_0143_003916,0,3).
 patient(it_0143_003916,neg).
 
 %patient: it-0143-003921 index:769
@@ -15745,6 +16514,7 @@ who_f2(it_0143_003921,0).
 who_f3(it_0143_003921,0).
 who_f4(it_0143_003921,0).
 typeofoutcome_updated(it_0143_003921,2).
+vaccine(it_0143_003921,0,3).
 patient(it_0143_003921,neg).
 
 %patient: it-0143-006152 index:770
@@ -15764,6 +16534,7 @@ who_f2(it_0143_006152,0).
 who_f3(it_0143_006152,0).
 who_f4(it_0143_006152,0).
 typeofoutcome_updated(it_0143_006152,2).
+vaccine(it_0143_006152,0,2).
 patient(it_0143_006152,neg).
 
 %patient: it-0143-006288 index:771
@@ -15788,6 +16559,7 @@ who_f2(it_0143_006288,0).
 who_f3(it_0143_006288,0).
 who_f4(it_0143_006288,0).
 typeofoutcome_updated(it_0143_006288,2).
+vaccine(it_0143_006288,0,2).
 patient(it_0143_006288,neg).
 
 %patient: it-0143-003910 index:772
@@ -15818,6 +16590,7 @@ who_f2(it_0143_003910,0).
 who_f3(it_0143_003910,0).
 who_f4(it_0143_003910,0).
 typeofoutcome_updated(it_0143_003910,2).
+vaccine(it_0143_003910,0,2).
 patient(it_0143_003910,neg).
 
 %patient: it-0143-003911 index:773
@@ -15848,6 +16621,7 @@ who_f2(it_0143_003911,0).
 who_f3(it_0143_003911,0).
 who_f4(it_0143_003911,0).
 typeofoutcome_updated(it_0143_003911,2).
+vaccine(it_0143_003911,0,2).
 patient(it_0143_003911,neg).
 
 %patient: it-0130-004424 index:774
@@ -15867,6 +16641,7 @@ who_f2(it_0130_004424,1).
 who_f3(it_0130_004424,1).
 who_f4(it_0130_004424,1).
 typeofoutcome_updated(it_0130_004424,2).
+vaccine(it_0130_004424,0,2).
 patient(it_0130_004424,neg).
 
 %patient: it-0152-005157 index:775
@@ -15882,6 +16657,7 @@ who_f2(it_0152_005157,0).
 who_f3(it_0152_005157,1).
 who_f4(it_0152_005157,0).
 typeofoutcome_updated(it_0152_005157,2).
+vaccine(it_0152_005157,0,2).
 patient(it_0152_005157,neg).
 
 %patient: it-0166-005351 index:776
@@ -15911,6 +16687,7 @@ who_f2(it_0166_005351,0).
 who_f3(it_0166_005351,0).
 who_f4(it_0166_005351,0).
 typeofoutcome_updated(it_0166_005351,2).
+vaccine(it_0166_005351,1,3).
 patient(it_0166_005351,neg).
 
 %patient: it-0042-003695 index:777
@@ -15943,6 +16720,7 @@ who_f2(it_0042_003695,0).
 who_f3(it_0042_003695,0).
 who_f4(it_0042_003695,0).
 typeofoutcome_updated(it_0042_003695,2).
+vaccine(it_0042_003695,0,3).
 patient(it_0042_003695,neg).
 
 %patient: it-0141-005396 index:778
@@ -15962,6 +16740,7 @@ who_f2(it_0141_005396,0).
 who_f3(it_0141_005396,0).
 who_f4(it_0141_005396,0).
 typeofoutcome_updated(it_0141_005396,2).
+vaccine(it_0141_005396,0,3).
 patient(it_0141_005396,neg).
 
 %patient: it-0103-005963 index:779
@@ -15980,6 +16759,7 @@ who_f2(it_0103_005963,0).
 who_f3(it_0103_005963,0).
 who_f4(it_0103_005963,0).
 typeofoutcome_updated(it_0103_005963,2).
+vaccine(it_0103_005963,0,3).
 patient(it_0103_005963,neg).
 
 %patient: it-0103-006121 index:780
@@ -16002,6 +16782,7 @@ who_f2(it_0103_006121,9).
 who_f3(it_0103_006121,1).
 who_f4(it_0103_006121,1).
 typeofoutcome_updated(it_0103_006121,2).
+vaccine(it_0103_006121,0,3).
 patient(it_0103_006121,neg).
 
 %patient: it-0106-006733 index:781
@@ -16019,6 +16800,7 @@ who_f2(it_0106_006733,0).
 who_f3(it_0106_006733,0).
 who_f4(it_0106_006733,0).
 typeofoutcome_updated(it_0106_006733,2).
+vaccine(it_0106_006733,0,3).
 patient(it_0106_006733,neg).
 
 %patient: it-0166-006238 index:782
@@ -16037,6 +16819,7 @@ who_f2(it_0166_006238,0).
 who_f3(it_0166_006238,0).
 who_f4(it_0166_006238,0).
 typeofoutcome_updated(it_0166_006238,2).
+vaccine(it_0166_006238,1,3).
 patient(it_0166_006238,neg).
 
 %patient: it-0103-005961 index:783
@@ -16057,6 +16840,7 @@ who_f2(it_0103_005961,1).
 who_f3(it_0103_005961,1).
 who_f4(it_0103_005961,1).
 typeofoutcome_updated(it_0103_005961,2).
+vaccine(it_0103_005961,0,3).
 patient(it_0103_005961,neg).
 
 %patient: it-0103-005973 index:784
@@ -16080,6 +16864,7 @@ who_f2(it_0103_005973,1).
 who_f3(it_0103_005973,1).
 who_f4(it_0103_005973,1).
 typeofoutcome_updated(it_0103_005973,2).
+vaccine(it_0103_005973,0,3).
 patient(it_0103_005973,neg).
 
 %patient: it-0103-005974 index:785
@@ -16100,6 +16885,7 @@ who_f2(it_0103_005974,1).
 who_f3(it_0103_005974,1).
 who_f4(it_0103_005974,1).
 typeofoutcome_updated(it_0103_005974,2).
+vaccine(it_0103_005974,0,3).
 patient(it_0103_005974,neg).
 
 %patient: it-0103-005977 index:786
@@ -16120,6 +16906,7 @@ who_f2(it_0103_005977,1).
 who_f3(it_0103_005977,1).
 who_f4(it_0103_005977,1).
 typeofoutcome_updated(it_0103_005977,2).
+vaccine(it_0103_005977,0,3).
 patient(it_0103_005977,neg).
 
 %patient: it-0103-005982 index:787
@@ -16143,6 +16930,7 @@ who_f2(it_0103_005982,0).
 who_f3(it_0103_005982,0).
 who_f4(it_0103_005982,0).
 typeofoutcome_updated(it_0103_005982,2).
+vaccine(it_0103_005982,0,3).
 patient(it_0103_005982,neg).
 
 %patient: it-0103-006023 index:788
@@ -16163,6 +16951,7 @@ who_f2(it_0103_006023,9).
 who_f3(it_0103_006023,1).
 who_f4(it_0103_006023,1).
 typeofoutcome_updated(it_0103_006023,2).
+vaccine(it_0103_006023,0,3).
 patient(it_0103_006023,neg).
 
 %patient: it-0103-006024 index:789
@@ -16185,6 +16974,7 @@ who_f2(it_0103_006024,9).
 who_f3(it_0103_006024,1).
 who_f4(it_0103_006024,1).
 typeofoutcome_updated(it_0103_006024,2).
+vaccine(it_0103_006024,0,3).
 patient(it_0103_006024,neg).
 
 %patient: it-0103-006116 index:790
@@ -16203,6 +16993,7 @@ who_f2(it_0103_006116,1).
 who_f3(it_0103_006116,1).
 who_f4(it_0103_006116,1).
 typeofoutcome_updated(it_0103_006116,2).
+vaccine(it_0103_006116,0,3).
 patient(it_0103_006116,neg).
 
 %patient: it-0103-006118 index:791
@@ -16222,6 +17013,7 @@ who_f2(it_0103_006118,9).
 who_f3(it_0103_006118,1).
 who_f4(it_0103_006118,1).
 typeofoutcome_updated(it_0103_006118,2).
+vaccine(it_0103_006118,0,3).
 patient(it_0103_006118,neg).
 
 %patient: it-0103-006119 index:792
@@ -16242,6 +17034,7 @@ who_f2(it_0103_006119,0).
 who_f3(it_0103_006119,0).
 who_f4(it_0103_006119,0).
 typeofoutcome_updated(it_0103_006119,2).
+vaccine(it_0103_006119,0,2).
 patient(it_0103_006119,neg).
 
 %patient: it-0103-006120 index:793
@@ -16265,6 +17058,7 @@ who_f2(it_0103_006120,1).
 who_f3(it_0103_006120,1).
 who_f4(it_0103_006120,1).
 typeofoutcome_updated(it_0103_006120,2).
+vaccine(it_0103_006120,0,3).
 patient(it_0103_006120,neg).
 
 %patient: it-0103-006126 index:794
@@ -16285,6 +17079,7 @@ who_f2(it_0103_006126,1).
 who_f3(it_0103_006126,1).
 who_f4(it_0103_006126,1).
 typeofoutcome_updated(it_0103_006126,2).
+vaccine(it_0103_006126,0,3).
 patient(it_0103_006126,neg).
 
 %patient: it-0103-006898 index:795
@@ -16309,6 +17104,7 @@ who_f2(it_0103_006898,9).
 who_f3(it_0103_006898,1).
 who_f4(it_0103_006898,1).
 typeofoutcome_updated(it_0103_006898,2).
+vaccine(it_0103_006898,0,3).
 patient(it_0103_006898,neg).
 
 %patient: it-0043-003697 index:796
@@ -16330,6 +17126,7 @@ who_f2(it_0043_003697,9).
 who_f3(it_0043_003697,0).
 who_f4(it_0043_003697,0).
 typeofoutcome_updated(it_0043_003697,2).
+vaccine(it_0043_003697,0,3).
 patient(it_0043_003697,neg).
 
 %patient: it-0126-005556 index:797
@@ -16356,6 +17153,7 @@ who_f2(it_0126_005556,1).
 who_f3(it_0126_005556,1).
 who_f4(it_0126_005556,1).
 typeofoutcome_updated(it_0126_005556,2).
+vaccine(it_0126_005556,0,3).
 patient(it_0126_005556,neg).
 
 %patient: it-0125-006029 index:798
@@ -16382,6 +17180,7 @@ who_f2(it_0125_006029,0).
 who_f3(it_0125_006029,0).
 who_f4(it_0125_006029,0).
 typeofoutcome_updated(it_0125_006029,2).
+vaccine(it_0125_006029,0,3).
 patient(it_0125_006029,neg).
 
 %patient: it-0152-004989 index:799
@@ -16399,6 +17198,7 @@ who_f2(it_0152_004989,0).
 who_f3(it_0152_004989,0).
 who_f4(it_0152_004989,0).
 typeofoutcome_updated(it_0152_004989,2).
+vaccine(it_0152_004989,0,3).
 patient(it_0152_004989,neg).
 
 %patient: it-0152-005149 index:800
@@ -16420,6 +17220,7 @@ who_f2(it_0152_005149,0).
 who_f3(it_0152_005149,0).
 who_f4(it_0152_005149,0).
 typeofoutcome_updated(it_0152_005149,2).
+vaccine(it_0152_005149,0,3).
 patient(it_0152_005149,neg).
 
 %patient: it-0152-005494 index:801
@@ -16440,6 +17241,7 @@ who_f2(it_0152_005494,1).
 who_f3(it_0152_005494,1).
 who_f4(it_0152_005494,1).
 typeofoutcome_updated(it_0152_005494,2).
+vaccine(it_0152_005494,0,3).
 patient(it_0152_005494,neg).
 
 %patient: it-0044-003672 index:802
@@ -16469,6 +17271,7 @@ who_f2(it_0044_003672,9).
 who_f3(it_0044_003672,0).
 who_f4(it_0044_003672,0).
 typeofoutcome_updated(it_0044_003672,2).
+vaccine(it_0044_003672,0,2).
 patient(it_0044_003672,neg).
 
 %patient: it-0125-006273 index:803
@@ -16489,6 +17292,7 @@ who_f2(it_0125_006273,0).
 who_f3(it_0125_006273,0).
 who_f4(it_0125_006273,0).
 typeofoutcome_updated(it_0125_006273,2).
+vaccine(it_0125_006273,0,3).
 patient(it_0125_006273,neg).
 
 %patient: it-0125-006427 index:804
@@ -16513,6 +17317,7 @@ who_f2(it_0125_006427,0).
 who_f3(it_0125_006427,0).
 who_f4(it_0125_006427,0).
 typeofoutcome_updated(it_0125_006427,2).
+vaccine(it_0125_006427,0,3).
 patient(it_0125_006427,neg).
 
 %patient: it-0125-006429 index:805
@@ -16537,6 +17342,7 @@ who_f2(it_0125_006429,0).
 who_f3(it_0125_006429,0).
 who_f4(it_0125_006429,0).
 typeofoutcome_updated(it_0125_006429,2).
+vaccine(it_0125_006429,0,3).
 patient(it_0125_006429,neg).
 
 %patient: it-0126-005591 index:806
@@ -16563,6 +17369,7 @@ who_f2(it_0126_005591,0).
 who_f3(it_0126_005591,9).
 who_f4(it_0126_005591,0).
 typeofoutcome_updated(it_0126_005591,2).
+vaccine(it_0126_005591,0,3).
 patient(it_0126_005591,neg).
 
 %patient: it-0141-005398 index:807
@@ -16583,6 +17390,7 @@ who_f2(it_0141_005398,0).
 who_f3(it_0141_005398,0).
 who_f4(it_0141_005398,0).
 typeofoutcome_updated(it_0141_005398,2).
+vaccine(it_0141_005398,0,3).
 patient(it_0141_005398,neg).
 
 %patient: it-0141-005400 index:808
@@ -16604,6 +17412,7 @@ who_f2(it_0141_005400,0).
 who_f3(it_0141_005400,0).
 who_f4(it_0141_005400,0).
 typeofoutcome_updated(it_0141_005400,2).
+vaccine(it_0141_005400,0,3).
 patient(it_0141_005400,neg).
 
 %patient: it-0141-005819 index:809
@@ -16624,6 +17433,7 @@ who_f2(it_0141_005819,0).
 who_f3(it_0141_005819,0).
 who_f4(it_0141_005819,0).
 typeofoutcome_updated(it_0141_005819,2).
+vaccine(it_0141_005819,0,3).
 patient(it_0141_005819,neg).
 
 %patient: it-0141-005898 index:810
@@ -16643,6 +17453,7 @@ who_f2(it_0141_005898,0).
 who_f3(it_0141_005898,0).
 who_f4(it_0141_005898,0).
 typeofoutcome_updated(it_0141_005898,2).
+vaccine(it_0141_005898,0,3).
 patient(it_0141_005898,neg).
 
 %patient: it-0141-005902 index:811
@@ -16667,6 +17478,7 @@ who_f2(it_0141_005902,0).
 who_f3(it_0141_005902,0).
 who_f4(it_0141_005902,0).
 typeofoutcome_updated(it_0141_005902,2).
+vaccine(it_0141_005902,0,3).
 patient(it_0141_005902,neg).
 
 %patient: it-0141-005999 index:812
@@ -16690,6 +17502,7 @@ who_f2(it_0141_005999,0).
 who_f3(it_0141_005999,0).
 who_f4(it_0141_005999,0).
 typeofoutcome_updated(it_0141_005999,2).
+vaccine(it_0141_005999,0,3).
 patient(it_0141_005999,neg).
 
 %patient: it-0141-006000 index:813
@@ -16712,6 +17525,7 @@ who_f2(it_0141_006000,0).
 who_f3(it_0141_006000,0).
 who_f4(it_0141_006000,0).
 typeofoutcome_updated(it_0141_006000,2).
+vaccine(it_0141_006000,0,3).
 patient(it_0141_006000,neg).
 
 %patient: it-0141-006003 index:814
@@ -16729,6 +17543,7 @@ who_f2(it_0141_006003,0).
 who_f3(it_0141_006003,0).
 who_f4(it_0141_006003,0).
 typeofoutcome_updated(it_0141_006003,2).
+vaccine(it_0141_006003,0,3).
 patient(it_0141_006003,neg).
 
 %patient: it-0141-006166 index:815
@@ -16752,6 +17567,7 @@ who_f2(it_0141_006166,0).
 who_f3(it_0141_006166,0).
 who_f4(it_0141_006166,0).
 typeofoutcome_updated(it_0141_006166,2).
+vaccine(it_0141_006166,0,3).
 patient(it_0141_006166,neg).
 
 %patient: it-0141-006167 index:816
@@ -16775,6 +17591,7 @@ who_f2(it_0141_006167,0).
 who_f3(it_0141_006167,0).
 who_f4(it_0141_006167,0).
 typeofoutcome_updated(it_0141_006167,2).
+vaccine(it_0141_006167,0,3).
 patient(it_0141_006167,neg).
 
 %patient: it-0141-006168 index:817
@@ -16795,6 +17612,7 @@ who_f2(it_0141_006168,0).
 who_f3(it_0141_006168,0).
 who_f4(it_0141_006168,0).
 typeofoutcome_updated(it_0141_006168,2).
+vaccine(it_0141_006168,0,3).
 patient(it_0141_006168,neg).
 
 %patient: it-0141-006171 index:818
@@ -16816,6 +17634,7 @@ who_f2(it_0141_006171,0).
 who_f3(it_0141_006171,0).
 who_f4(it_0141_006171,0).
 typeofoutcome_updated(it_0141_006171,2).
+vaccine(it_0141_006171,0,3).
 patient(it_0141_006171,neg).
 
 %patient: it-0141-006173 index:819
@@ -16838,6 +17657,7 @@ who_f2(it_0141_006173,0).
 who_f3(it_0141_006173,0).
 who_f4(it_0141_006173,0).
 typeofoutcome_updated(it_0141_006173,2).
+vaccine(it_0141_006173,0,2).
 patient(it_0141_006173,neg).
 
 %patient: it-0141-006555 index:820
@@ -16859,6 +17679,7 @@ who_f2(it_0141_006555,0).
 who_f3(it_0141_006555,0).
 who_f4(it_0141_006555,0).
 typeofoutcome_updated(it_0141_006555,2).
+vaccine(it_0141_006555,0,3).
 patient(it_0141_006555,neg).
 
 %patient: it-0044-003665 index:821
@@ -16887,6 +17708,7 @@ who_f2(it_0044_003665,9).
 who_f3(it_0044_003665,0).
 who_f4(it_0044_003665,0).
 typeofoutcome_updated(it_0044_003665,2).
+vaccine(it_0044_003665,0,2).
 patient(it_0044_003665,neg).
 
 %patient: it-0044-003666 index:822
@@ -16917,6 +17739,7 @@ who_f2(it_0044_003666,0).
 who_f3(it_0044_003666,0).
 who_f4(it_0044_003666,0).
 typeofoutcome_updated(it_0044_003666,2).
+vaccine(it_0044_003666,0,3).
 patient(it_0044_003666,neg).
 
 %patient: it-0044-003673 index:823
@@ -16946,6 +17769,7 @@ who_f2(it_0044_003673,0).
 who_f3(it_0044_003673,0).
 who_f4(it_0044_003673,0).
 typeofoutcome_updated(it_0044_003673,2).
+vaccine(it_0044_003673,0,3).
 patient(it_0044_003673,neg).
 
 %patient: it-0050-004239 index:824
@@ -16965,6 +17789,7 @@ who_f2(it_0050_004239,0).
 who_f3(it_0050_004239,9).
 who_f4(it_0050_004239,0).
 typeofoutcome_updated(it_0050_004239,2).
+vaccine(it_0050_004239,0,3).
 patient(it_0050_004239,neg).
 
 %patient: it-0050-004241 index:825
@@ -16981,6 +17806,7 @@ who_f2(it_0050_004241,0).
 who_f3(it_0050_004241,0).
 who_f4(it_0050_004241,0).
 typeofoutcome_updated(it_0050_004241,2).
+vaccine(it_0050_004241,0,3).
 patient(it_0050_004241,neg).
 
 %patient: it-0050-004242 index:826
@@ -16999,6 +17825,7 @@ who_f2(it_0050_004242,0).
 who_f3(it_0050_004242,0).
 who_f4(it_0050_004242,0).
 typeofoutcome_updated(it_0050_004242,2).
+vaccine(it_0050_004242,0,3).
 patient(it_0050_004242,neg).
 
 %patient: it-0050-004246 index:827
@@ -17016,6 +17843,7 @@ who_f2(it_0050_004246,0).
 who_f3(it_0050_004246,0).
 who_f4(it_0050_004246,0).
 typeofoutcome_updated(it_0050_004246,2).
+vaccine(it_0050_004246,0,3).
 patient(it_0050_004246,neg).
 
 %patient: it-0053-004249 index:828
@@ -17035,6 +17863,7 @@ who_f2(it_0053_004249,0).
 who_f3(it_0053_004249,0).
 who_f4(it_0053_004249,0).
 typeofoutcome_updated(it_0053_004249,2).
+vaccine(it_0053_004249,0,3).
 patient(it_0053_004249,neg).
 
 %patient: it-0103-005980 index:829
@@ -17054,6 +17883,7 @@ who_f2(it_0103_005980,0).
 who_f3(it_0103_005980,0).
 who_f4(it_0103_005980,0).
 typeofoutcome_updated(it_0103_005980,2).
+vaccine(it_0103_005980,0,3).
 patient(it_0103_005980,neg).
 
 %patient: it-0103-005986 index:830
@@ -17075,6 +17905,7 @@ who_f2(it_0103_005986,0).
 who_f3(it_0103_005986,0).
 who_f4(it_0103_005986,0).
 typeofoutcome_updated(it_0103_005986,2).
+vaccine(it_0103_005986,0,3).
 patient(it_0103_005986,neg).
 
 %patient: it-0103-005987 index:831
@@ -17096,6 +17927,7 @@ who_f2(it_0103_005987,0).
 who_f3(it_0103_005987,0).
 who_f4(it_0103_005987,0).
 typeofoutcome_updated(it_0103_005987,2).
+vaccine(it_0103_005987,0,3).
 patient(it_0103_005987,neg).
 
 %patient: it-0103-005988 index:832
@@ -17114,6 +17946,7 @@ who_f2(it_0103_005988,0).
 who_f3(it_0103_005988,0).
 who_f4(it_0103_005988,0).
 typeofoutcome_updated(it_0103_005988,2).
+vaccine(it_0103_005988,0,3).
 patient(it_0103_005988,neg).
 
 %patient: it-0103-005990 index:833
@@ -17133,6 +17966,7 @@ who_f2(it_0103_005990,0).
 who_f3(it_0103_005990,0).
 who_f4(it_0103_005990,0).
 typeofoutcome_updated(it_0103_005990,2).
+vaccine(it_0103_005990,0,3).
 patient(it_0103_005990,neg).
 
 %patient: it-0103-005994 index:834
@@ -17154,6 +17988,7 @@ who_f2(it_0103_005994,0).
 who_f3(it_0103_005994,0).
 who_f4(it_0103_005994,0).
 typeofoutcome_updated(it_0103_005994,2).
+vaccine(it_0103_005994,0,3).
 patient(it_0103_005994,neg).
 
 %patient: it-0103-005997 index:835
@@ -17175,6 +18010,7 @@ who_f2(it_0103_005997,9).
 who_f3(it_0103_005997,9).
 who_f4(it_0103_005997,0).
 typeofoutcome_updated(it_0103_005997,2).
+vaccine(it_0103_005997,0,3).
 patient(it_0103_005997,neg).
 
 %patient: it-0103-005998 index:836
@@ -17199,6 +18035,7 @@ who_f2(it_0103_005998,9).
 who_f3(it_0103_005998,1).
 who_f4(it_0103_005998,1).
 typeofoutcome_updated(it_0103_005998,2).
+vaccine(it_0103_005998,0,3).
 patient(it_0103_005998,neg).
 
 %patient: it-0103-006021 index:837
@@ -17220,6 +18057,7 @@ who_f2(it_0103_006021,0).
 who_f3(it_0103_006021,0).
 who_f4(it_0103_006021,0).
 typeofoutcome_updated(it_0103_006021,2).
+vaccine(it_0103_006021,0,3).
 patient(it_0103_006021,neg).
 
 %patient: it-0103-006022 index:838
@@ -17240,6 +18078,7 @@ who_f2(it_0103_006022,9).
 who_f3(it_0103_006022,1).
 who_f4(it_0103_006022,1).
 typeofoutcome_updated(it_0103_006022,2).
+vaccine(it_0103_006022,0,3).
 patient(it_0103_006022,neg).
 
 %patient: it-0125-005953 index:839
@@ -17263,6 +18102,7 @@ who_f2(it_0125_005953,0).
 who_f3(it_0125_005953,0).
 who_f4(it_0125_005953,0).
 typeofoutcome_updated(it_0125_005953,2).
+vaccine(it_0125_005953,0,3).
 patient(it_0125_005953,neg).
 
 %patient: it-0125-005955 index:840
@@ -17281,6 +18121,7 @@ who_f2(it_0125_005955,0).
 who_f3(it_0125_005955,0).
 who_f4(it_0125_005955,0).
 typeofoutcome_updated(it_0125_005955,2).
+vaccine(it_0125_005955,0,3).
 patient(it_0125_005955,neg).
 
 %patient: it-0125-005956 index:841
@@ -17306,6 +18147,7 @@ who_f2(it_0125_005956,0).
 who_f3(it_0125_005956,0).
 who_f4(it_0125_005956,0).
 typeofoutcome_updated(it_0125_005956,2).
+vaccine(it_0125_005956,0,3).
 patient(it_0125_005956,neg).
 
 %patient: it-0125-006127 index:842
@@ -17331,6 +18173,7 @@ who_f2(it_0125_006127,0).
 who_f3(it_0125_006127,0).
 who_f4(it_0125_006127,0).
 typeofoutcome_updated(it_0125_006127,2).
+vaccine(it_0125_006127,0,3).
 patient(it_0125_006127,neg).
 
 %patient: it-0125-006378 index:843
@@ -17359,6 +18202,7 @@ who_f2(it_0125_006378,0).
 who_f3(it_0125_006378,0).
 who_f4(it_0125_006378,0).
 typeofoutcome_updated(it_0125_006378,2).
+vaccine(it_0125_006378,0,3).
 patient(it_0125_006378,neg).
 
 %patient: it-0127-003623 index:844
@@ -17381,6 +18225,7 @@ who_f2(it_0127_003623,0).
 who_f3(it_0127_003623,0).
 who_f4(it_0127_003623,0).
 typeofoutcome_updated(it_0127_003623,2).
+vaccine(it_0127_003623,0,3).
 patient(it_0127_003623,neg).
 
 %patient: it-0127-003738 index:845
@@ -17400,6 +18245,7 @@ who_f2(it_0127_003738,0).
 who_f3(it_0127_003738,0).
 who_f4(it_0127_003738,9).
 typeofoutcome_updated(it_0127_003738,2).
+vaccine(it_0127_003738,0,3).
 patient(it_0127_003738,neg).
 
 %patient: it-0127-003827 index:846
@@ -17422,6 +18268,7 @@ who_f2(it_0127_003827,0).
 who_f3(it_0127_003827,0).
 who_f4(it_0127_003827,0).
 typeofoutcome_updated(it_0127_003827,2).
+vaccine(it_0127_003827,0,3).
 patient(it_0127_003827,neg).
 
 %patient: it-0127-006705 index:847
@@ -17442,6 +18289,7 @@ who_f2(it_0127_006705,0).
 who_f3(it_0127_006705,0).
 who_f4(it_0127_006705,0).
 typeofoutcome_updated(it_0127_006705,2).
+vaccine(it_0127_006705,0,3).
 patient(it_0127_006705,neg).
 
 %patient: it-0127-006706 index:848
@@ -17462,6 +18310,7 @@ who_f2(it_0127_006706,0).
 who_f3(it_0127_006706,0).
 who_f4(it_0127_006706,0).
 typeofoutcome_updated(it_0127_006706,2).
+vaccine(it_0127_006706,0,3).
 patient(it_0127_006706,neg).
 
 %patient: it-0127-006707 index:849
@@ -17482,6 +18331,7 @@ who_f2(it_0127_006707,0).
 who_f3(it_0127_006707,0).
 who_f4(it_0127_006707,0).
 typeofoutcome_updated(it_0127_006707,2).
+vaccine(it_0127_006707,0,3).
 patient(it_0127_006707,neg).
 
 %patient: it-0127-006709 index:850
@@ -17502,6 +18352,7 @@ who_f2(it_0127_006709,0).
 who_f3(it_0127_006709,0).
 who_f4(it_0127_006709,0).
 typeofoutcome_updated(it_0127_006709,2).
+vaccine(it_0127_006709,0,3).
 patient(it_0127_006709,neg).
 
 %patient: it-0127-006710 index:851
@@ -17523,6 +18374,7 @@ who_f2(it_0127_006710,0).
 who_f3(it_0127_006710,0).
 who_f4(it_0127_006710,0).
 typeofoutcome_updated(it_0127_006710,2).
+vaccine(it_0127_006710,0,3).
 patient(it_0127_006710,neg).
 
 %patient: it-0127-006711 index:852
@@ -17541,6 +18393,7 @@ who_f2(it_0127_006711,0).
 who_f3(it_0127_006711,0).
 who_f4(it_0127_006711,0).
 typeofoutcome_updated(it_0127_006711,2).
+vaccine(it_0127_006711,0,3).
 patient(it_0127_006711,neg).
 
 %patient: it-0127-006712 index:853
@@ -17561,6 +18414,7 @@ who_f2(it_0127_006712,0).
 who_f3(it_0127_006712,0).
 who_f4(it_0127_006712,0).
 typeofoutcome_updated(it_0127_006712,2).
+vaccine(it_0127_006712,0,3).
 patient(it_0127_006712,neg).
 
 %patient: it-0127-006715 index:854
@@ -17580,6 +18434,7 @@ who_f2(it_0127_006715,0).
 who_f3(it_0127_006715,0).
 who_f4(it_0127_006715,0).
 typeofoutcome_updated(it_0127_006715,2).
+vaccine(it_0127_006715,0,3).
 patient(it_0127_006715,neg).
 
 %patient: it-0127-006716 index:855
@@ -17601,6 +18456,7 @@ who_f2(it_0127_006716,0).
 who_f3(it_0127_006716,0).
 who_f4(it_0127_006716,0).
 typeofoutcome_updated(it_0127_006716,2).
+vaccine(it_0127_006716,0,3).
 patient(it_0127_006716,neg).
 
 %patient: it-0127-006717 index:856
@@ -17618,6 +18474,7 @@ who_f2(it_0127_006717,0).
 who_f3(it_0127_006717,0).
 who_f4(it_0127_006717,0).
 typeofoutcome_updated(it_0127_006717,2).
+vaccine(it_0127_006717,0,3).
 patient(it_0127_006717,neg).
 
 %patient: it-0127-006718 index:857
@@ -17637,6 +18494,7 @@ who_f2(it_0127_006718,0).
 who_f3(it_0127_006718,0).
 who_f4(it_0127_006718,0).
 typeofoutcome_updated(it_0127_006718,2).
+vaccine(it_0127_006718,0,3).
 patient(it_0127_006718,neg).
 
 %patient: it-0127-006719 index:858
@@ -17655,6 +18513,7 @@ who_f2(it_0127_006719,0).
 who_f3(it_0127_006719,0).
 who_f4(it_0127_006719,0).
 typeofoutcome_updated(it_0127_006719,2).
+vaccine(it_0127_006719,0,3).
 patient(it_0127_006719,neg).
 
 %patient: it-0127-006723 index:859
@@ -17675,6 +18534,7 @@ who_f2(it_0127_006723,0).
 who_f3(it_0127_006723,0).
 who_f4(it_0127_006723,0).
 typeofoutcome_updated(it_0127_006723,2).
+vaccine(it_0127_006723,0,3).
 patient(it_0127_006723,neg).
 
 %patient: it-0127-006725 index:860
@@ -17693,6 +18553,7 @@ who_f2(it_0127_006725,0).
 who_f3(it_0127_006725,0).
 who_f4(it_0127_006725,0).
 typeofoutcome_updated(it_0127_006725,2).
+vaccine(it_0127_006725,0,3).
 patient(it_0127_006725,neg).
 
 %patient: it-0127-006840 index:861
@@ -17710,6 +18571,7 @@ who_f2(it_0127_006840,0).
 who_f3(it_0127_006840,0).
 who_f4(it_0127_006840,0).
 typeofoutcome_updated(it_0127_006840,2).
+vaccine(it_0127_006840,0,3).
 patient(it_0127_006840,neg).
 
 %patient: it-0127-006841 index:862
@@ -17728,6 +18590,7 @@ who_f2(it_0127_006841,0).
 who_f3(it_0127_006841,0).
 who_f4(it_0127_006841,0).
 typeofoutcome_updated(it_0127_006841,2).
+vaccine(it_0127_006841,0,3).
 patient(it_0127_006841,neg).
 
 %patient: it-0127-006843 index:863
@@ -17749,6 +18612,7 @@ who_f2(it_0127_006843,0).
 who_f3(it_0127_006843,0).
 who_f4(it_0127_006843,0).
 typeofoutcome_updated(it_0127_006843,2).
+vaccine(it_0127_006843,0,3).
 patient(it_0127_006843,neg).
 
 %patient: it-0127-006844 index:864
@@ -17766,6 +18630,7 @@ who_f2(it_0127_006844,0).
 who_f3(it_0127_006844,0).
 who_f4(it_0127_006844,0).
 typeofoutcome_updated(it_0127_006844,2).
+vaccine(it_0127_006844,0,3).
 patient(it_0127_006844,neg).
 
 %patient: it-0127-006845 index:865
@@ -17786,6 +18651,7 @@ who_f2(it_0127_006845,0).
 who_f3(it_0127_006845,0).
 who_f4(it_0127_006845,0).
 typeofoutcome_updated(it_0127_006845,2).
+vaccine(it_0127_006845,0,3).
 patient(it_0127_006845,neg).
 
 %patient: it-0127-006846 index:866
@@ -17804,6 +18670,7 @@ who_f2(it_0127_006846,0).
 who_f3(it_0127_006846,0).
 who_f4(it_0127_006846,0).
 typeofoutcome_updated(it_0127_006846,2).
+vaccine(it_0127_006846,0,3).
 patient(it_0127_006846,neg).
 
 %patient: it-0127-006849 index:867
@@ -17822,6 +18689,7 @@ who_f2(it_0127_006849,0).
 who_f3(it_0127_006849,0).
 who_f4(it_0127_006849,0).
 typeofoutcome_updated(it_0127_006849,2).
+vaccine(it_0127_006849,0,3).
 patient(it_0127_006849,neg).
 
 %patient: it-0127-006851 index:868
@@ -17843,6 +18711,7 @@ who_f2(it_0127_006851,0).
 who_f3(it_0127_006851,0).
 who_f4(it_0127_006851,0).
 typeofoutcome_updated(it_0127_006851,2).
+vaccine(it_0127_006851,0,3).
 patient(it_0127_006851,neg).
 
 %patient: it-0127-006852 index:869
@@ -17860,6 +18729,7 @@ who_f2(it_0127_006852,0).
 who_f3(it_0127_006852,0).
 who_f4(it_0127_006852,0).
 typeofoutcome_updated(it_0127_006852,2).
+vaccine(it_0127_006852,0,3).
 patient(it_0127_006852,neg).
 
 %patient: it-0127-006853 index:870
@@ -17881,6 +18751,7 @@ who_f2(it_0127_006853,0).
 who_f3(it_0127_006853,0).
 who_f4(it_0127_006853,0).
 typeofoutcome_updated(it_0127_006853,2).
+vaccine(it_0127_006853,0,3).
 patient(it_0127_006853,neg).
 
 %patient: it-0130-004802 index:871
@@ -17899,6 +18770,7 @@ who_f2(it_0130_004802,0).
 who_f3(it_0130_004802,0).
 who_f4(it_0130_004802,9).
 typeofoutcome_updated(it_0130_004802,2).
+vaccine(it_0130_004802,1,3).
 patient(it_0130_004802,neg).
 
 %patient: it-0130-005353 index:872
@@ -17921,6 +18793,7 @@ who_f2(it_0130_005353,0).
 who_f3(it_0130_005353,0).
 who_f4(it_0130_005353,0).
 typeofoutcome_updated(it_0130_005353,2).
+vaccine(it_0130_005353,1,3).
 patient(it_0130_005353,neg).
 
 %patient: it-0130-005358 index:873
@@ -17942,6 +18815,7 @@ who_f2(it_0130_005358,0).
 who_f3(it_0130_005358,0).
 who_f4(it_0130_005358,0).
 typeofoutcome_updated(it_0130_005358,2).
+vaccine(it_0130_005358,1,3).
 patient(it_0130_005358,neg).
 
 %patient: it-0130-005360 index:874
@@ -17965,6 +18839,7 @@ who_f2(it_0130_005360,0).
 who_f3(it_0130_005360,0).
 who_f4(it_0130_005360,0).
 typeofoutcome_updated(it_0130_005360,2).
+vaccine(it_0130_005360,1,3).
 patient(it_0130_005360,neg).
 
 %patient: it-0133-005924 index:875
@@ -17987,6 +18862,7 @@ who_f2(it_0133_005924,9).
 who_f3(it_0133_005924,0).
 who_f4(it_0133_005924,0).
 typeofoutcome_updated(it_0133_005924,2).
+vaccine(it_0133_005924,0,3).
 patient(it_0133_005924,neg).
 
 %patient: it-0133-006289 index:876
@@ -18004,6 +18880,7 @@ who_f2(it_0133_006289,0).
 who_f3(it_0133_006289,0).
 who_f4(it_0133_006289,0).
 typeofoutcome_updated(it_0133_006289,2).
+vaccine(it_0133_006289,0,3).
 patient(it_0133_006289,neg).
 
 %patient: it-0133-006305 index:877
@@ -18023,6 +18900,7 @@ who_f2(it_0133_006305,0).
 who_f3(it_0133_006305,0).
 who_f4(it_0133_006305,0).
 typeofoutcome_updated(it_0133_006305,2).
+vaccine(it_0133_006305,0,3).
 patient(it_0133_006305,neg).
 
 %patient: it-0138-004466 index:878
@@ -18042,6 +18920,7 @@ who_f2(it_0138_004466,0).
 who_f3(it_0138_004466,0).
 who_f4(it_0138_004466,0).
 typeofoutcome_updated(it_0138_004466,2).
+vaccine(it_0138_004466,0,3).
 patient(it_0138_004466,neg).
 
 %patient: it-0141-006545 index:879
@@ -18063,6 +18942,7 @@ who_f2(it_0141_006545,1).
 who_f3(it_0141_006545,1).
 who_f4(it_0141_006545,1).
 typeofoutcome_updated(it_0141_006545,2).
+vaccine(it_0141_006545,0,3).
 patient(it_0141_006545,neg).
 
 %patient: it-0141-006557 index:880
@@ -18083,6 +18963,7 @@ who_f2(it_0141_006557,0).
 who_f3(it_0141_006557,0).
 who_f4(it_0141_006557,0).
 typeofoutcome_updated(it_0141_006557,2).
+vaccine(it_0141_006557,0,3).
 patient(it_0141_006557,neg).
 
 %patient: it-0145-006873 index:881
@@ -18107,6 +18988,7 @@ who_f2(it_0145_006873,0).
 who_f3(it_0145_006873,0).
 who_f4(it_0145_006873,0).
 typeofoutcome_updated(it_0145_006873,2).
+vaccine(it_0145_006873,0,3).
 patient(it_0145_006873,neg).
 
 %patient: it-0145-006889 index:882
@@ -18127,6 +19009,7 @@ who_f2(it_0145_006889,0).
 who_f3(it_0145_006889,0).
 who_f4(it_0145_006889,0).
 typeofoutcome_updated(it_0145_006889,2).
+vaccine(it_0145_006889,0,3).
 patient(it_0145_006889,neg).
 
 %patient: it-0015-000530 index:883
@@ -18156,6 +19039,7 @@ who_f2(it_0015_000530,0).
 who_f3(it_0015_000530,0).
 who_f4(it_0015_000530,0).
 typeofoutcome_updated(it_0015_000530,2).
+vaccine(it_0015_000530,0,3).
 patient(it_0015_000530,neg).
 
 %patient: it-0015-000554 index:884
@@ -18183,6 +19067,7 @@ who_f2(it_0015_000554,0).
 who_f3(it_0015_000554,0).
 who_f4(it_0015_000554,0).
 typeofoutcome_updated(it_0015_000554,2).
+vaccine(it_0015_000554,0,3).
 patient(it_0015_000554,neg).
 
 %patient: it-0015-000714 index:885
@@ -18212,6 +19097,7 @@ who_f2(it_0015_000714,0).
 who_f3(it_0015_000714,0).
 who_f4(it_0015_000714,0).
 typeofoutcome_updated(it_0015_000714,2).
+vaccine(it_0015_000714,0,3).
 patient(it_0015_000714,neg).
 
 %patient: it-0015-000918 index:886
@@ -18240,6 +19126,7 @@ who_f2(it_0015_000918,0).
 who_f3(it_0015_000918,0).
 who_f4(it_0015_000918,0).
 typeofoutcome_updated(it_0015_000918,2).
+vaccine(it_0015_000918,0,3).
 patient(it_0015_000918,neg).
 
 %patient: it-0015-001196 index:887
@@ -18266,6 +19153,7 @@ who_f2(it_0015_001196,0).
 who_f3(it_0015_001196,0).
 who_f4(it_0015_001196,0).
 typeofoutcome_updated(it_0015_001196,2).
+vaccine(it_0015_001196,0,3).
 patient(it_0015_001196,neg).
 
 %patient: it-0015-001249 index:888
@@ -18296,6 +19184,7 @@ who_f2(it_0015_001249,0).
 who_f3(it_0015_001249,0).
 who_f4(it_0015_001249,0).
 typeofoutcome_updated(it_0015_001249,2).
+vaccine(it_0015_001249,0,3).
 patient(it_0015_001249,neg).
 
 %patient: it-0015-002604 index:889
@@ -18325,6 +19214,7 @@ who_f2(it_0015_002604,0).
 who_f3(it_0015_002604,0).
 who_f4(it_0015_002604,0).
 typeofoutcome_updated(it_0015_002604,2).
+vaccine(it_0015_002604,0,3).
 patient(it_0015_002604,neg).
 
 %patient: it-0015-003864 index:890
@@ -18353,6 +19243,7 @@ who_f2(it_0015_003864,0).
 who_f3(it_0015_003864,9).
 who_f4(it_0015_003864,0).
 typeofoutcome_updated(it_0015_003864,2).
+vaccine(it_0015_003864,0,3).
 patient(it_0015_003864,neg).
 
 %patient: it-0015-003865 index:891
@@ -18372,6 +19263,7 @@ who_f2(it_0015_003865,0).
 who_f3(it_0015_003865,9).
 who_f4(it_0015_003865,0).
 typeofoutcome_updated(it_0015_003865,2).
+vaccine(it_0015_003865,0,3).
 patient(it_0015_003865,neg).
 
 %patient: it-0015-003866 index:892
@@ -18400,6 +19292,7 @@ who_f2(it_0015_003866,0).
 who_f3(it_0015_003866,0).
 who_f4(it_0015_003866,0).
 typeofoutcome_updated(it_0015_003866,2).
+vaccine(it_0015_003866,0,3).
 patient(it_0015_003866,neg).
 
 %patient: it-0015-003868 index:893
@@ -18427,6 +19320,7 @@ who_f2(it_0015_003868,0).
 who_f3(it_0015_003868,0).
 who_f4(it_0015_003868,0).
 typeofoutcome_updated(it_0015_003868,2).
+vaccine(it_0015_003868,0,3).
 patient(it_0015_003868,neg).
 
 %patient: it-0015-003870 index:894
@@ -18453,6 +19347,7 @@ who_f2(it_0015_003870,0).
 who_f3(it_0015_003870,0).
 who_f4(it_0015_003870,0).
 typeofoutcome_updated(it_0015_003870,2).
+vaccine(it_0015_003870,0,3).
 patient(it_0015_003870,neg).
 
 %patient: it-0015-003898 index:895
@@ -18474,6 +19369,7 @@ who_f2(it_0015_003898,0).
 who_f3(it_0015_003898,0).
 who_f4(it_0015_003898,0).
 typeofoutcome_updated(it_0015_003898,2).
+vaccine(it_0015_003898,0,3).
 patient(it_0015_003898,neg).
 
 %patient: it-0015-003899 index:896
@@ -18504,6 +19400,7 @@ who_f2(it_0015_003899,0).
 who_f3(it_0015_003899,0).
 who_f4(it_0015_003899,0).
 typeofoutcome_updated(it_0015_003899,2).
+vaccine(it_0015_003899,0,3).
 patient(it_0015_003899,neg).
 
 %patient: it-0015-003900 index:897
@@ -18534,6 +19431,7 @@ who_f2(it_0015_003900,0).
 who_f3(it_0015_003900,0).
 who_f4(it_0015_003900,0).
 typeofoutcome_updated(it_0015_003900,2).
+vaccine(it_0015_003900,0,3).
 patient(it_0015_003900,neg).
 
 %patient: it-0015-003901 index:898
@@ -18566,6 +19464,7 @@ who_f2(it_0015_003901,0).
 who_f3(it_0015_003901,0).
 who_f4(it_0015_003901,0).
 typeofoutcome_updated(it_0015_003901,2).
+vaccine(it_0015_003901,0,3).
 patient(it_0015_003901,neg).
 
 %patient: it-0015-003902 index:899
@@ -18595,6 +19494,7 @@ who_f2(it_0015_003902,0).
 who_f3(it_0015_003902,0).
 who_f4(it_0015_003902,0).
 typeofoutcome_updated(it_0015_003902,2).
+vaccine(it_0015_003902,0,3).
 patient(it_0015_003902,neg).
 
 %patient: it-0015-003980 index:900
@@ -18620,6 +19520,7 @@ who_f2(it_0015_003980,0).
 who_f3(it_0015_003980,0).
 who_f4(it_0015_003980,0).
 typeofoutcome_updated(it_0015_003980,2).
+vaccine(it_0015_003980,0,3).
 patient(it_0015_003980,neg).
 
 %patient: it-0015-003981 index:901
@@ -18648,6 +19549,7 @@ who_f2(it_0015_003981,0).
 who_f3(it_0015_003981,0).
 who_f4(it_0015_003981,0).
 typeofoutcome_updated(it_0015_003981,2).
+vaccine(it_0015_003981,0,3).
 patient(it_0015_003981,neg).
 
 %patient: it-0015-003982 index:902
@@ -18674,6 +19576,7 @@ who_f2(it_0015_003982,0).
 who_f3(it_0015_003982,0).
 who_f4(it_0015_003982,0).
 typeofoutcome_updated(it_0015_003982,2).
+vaccine(it_0015_003982,0,3).
 patient(it_0015_003982,neg).
 
 %patient: it-0015-003986 index:903
@@ -18702,6 +19605,7 @@ who_f2(it_0015_003986,0).
 who_f3(it_0015_003986,0).
 who_f4(it_0015_003986,0).
 typeofoutcome_updated(it_0015_003986,2).
+vaccine(it_0015_003986,0,3).
 patient(it_0015_003986,neg).
 
 %patient: it-0016-000333 index:904
@@ -18723,6 +19627,7 @@ who_f2(it_0016_000333,0).
 who_f3(it_0016_000333,0).
 who_f4(it_0016_000333,0).
 typeofoutcome_updated(it_0016_000333,2).
+vaccine(it_0016_000333,0,3).
 patient(it_0016_000333,neg).
 
 %patient: it-0016-000506 index:905
@@ -18753,6 +19658,7 @@ who_f2(it_0016_000506,0).
 who_f3(it_0016_000506,0).
 who_f4(it_0016_000506,0).
 typeofoutcome_updated(it_0016_000506,2).
+vaccine(it_0016_000506,0,3).
 patient(it_0016_000506,neg).
 
 %patient: it-0016-003676 index:906
@@ -18781,6 +19687,7 @@ who_f2(it_0016_003676,0).
 who_f3(it_0016_003676,0).
 who_f4(it_0016_003676,0).
 typeofoutcome_updated(it_0016_003676,2).
+vaccine(it_0016_003676,0,3).
 patient(it_0016_003676,neg).
 
 %patient: it-0021-000294 index:907
@@ -18801,6 +19708,7 @@ who_f2(it_0021_000294,0).
 who_f3(it_0021_000294,0).
 who_f4(it_0021_000294,0).
 typeofoutcome_updated(it_0021_000294,2).
+vaccine(it_0021_000294,0,3).
 patient(it_0021_000294,neg).
 
 %patient: it-0021-000297 index:908
@@ -18821,6 +19729,7 @@ who_f2(it_0021_000297,0).
 who_f3(it_0021_000297,0).
 who_f4(it_0021_000297,0).
 typeofoutcome_updated(it_0021_000297,2).
+vaccine(it_0021_000297,0,3).
 patient(it_0021_000297,neg).
 
 %patient: it-0021-000299 index:909
@@ -18838,6 +19747,7 @@ who_f2(it_0021_000299,0).
 who_f3(it_0021_000299,0).
 who_f4(it_0021_000299,0).
 typeofoutcome_updated(it_0021_000299,2).
+vaccine(it_0021_000299,0,3).
 patient(it_0021_000299,neg).
 
 %patient: it-0021-000687 index:910
@@ -18861,6 +19771,7 @@ who_f2(it_0021_000687,0).
 who_f3(it_0021_000687,0).
 who_f4(it_0021_000687,0).
 typeofoutcome_updated(it_0021_000687,2).
+vaccine(it_0021_000687,0,2).
 patient(it_0021_000687,neg).
 
 %patient: it-0021-001767 index:911
@@ -18886,6 +19797,7 @@ who_f2(it_0021_001767,0).
 who_f3(it_0021_001767,0).
 who_f4(it_0021_001767,0).
 typeofoutcome_updated(it_0021_001767,2).
+vaccine(it_0021_001767,0,3).
 patient(it_0021_001767,neg).
 
 %patient: it-0021-001771 index:912
@@ -18905,6 +19817,7 @@ who_f2(it_0021_001771,0).
 who_f3(it_0021_001771,0).
 who_f4(it_0021_001771,0).
 typeofoutcome_updated(it_0021_001771,2).
+vaccine(it_0021_001771,0,3).
 patient(it_0021_001771,neg).
 
 %patient: it-0021-002415 index:913
@@ -18938,6 +19851,7 @@ who_f2(it_0021_002415,0).
 who_f3(it_0021_002415,0).
 who_f4(it_0021_002415,0).
 typeofoutcome_updated(it_0021_002415,2).
+vaccine(it_0021_002415,0,3).
 patient(it_0021_002415,neg).
 
 %patient: it-0021-003828 index:914
@@ -18957,6 +19871,7 @@ who_f2(it_0021_003828,0).
 who_f3(it_0021_003828,0).
 who_f4(it_0021_003828,0).
 typeofoutcome_updated(it_0021_003828,2).
+vaccine(it_0021_003828,0,3).
 patient(it_0021_003828,neg).
 
 %patient: it-0021-003830 index:915
@@ -18978,6 +19893,7 @@ who_f2(it_0021_003830,0).
 who_f3(it_0021_003830,0).
 who_f4(it_0021_003830,0).
 typeofoutcome_updated(it_0021_003830,2).
+vaccine(it_0021_003830,0,3).
 patient(it_0021_003830,neg).
 
 %patient: it-0021-003831 index:916
@@ -18999,6 +19915,7 @@ who_f2(it_0021_003831,0).
 who_f3(it_0021_003831,0).
 who_f4(it_0021_003831,0).
 typeofoutcome_updated(it_0021_003831,2).
+vaccine(it_0021_003831,0,3).
 patient(it_0021_003831,neg).
 
 %patient: it-0021-003832 index:917
@@ -19019,6 +19936,7 @@ who_f2(it_0021_003832,0).
 who_f3(it_0021_003832,0).
 who_f4(it_0021_003832,0).
 typeofoutcome_updated(it_0021_003832,2).
+vaccine(it_0021_003832,0,3).
 patient(it_0021_003832,neg).
 
 %patient: it-0021-003833 index:918
@@ -19039,6 +19957,7 @@ who_f2(it_0021_003833,0).
 who_f3(it_0021_003833,0).
 who_f4(it_0021_003833,0).
 typeofoutcome_updated(it_0021_003833,2).
+vaccine(it_0021_003833,0,3).
 patient(it_0021_003833,neg).
 
 %patient: it-0021-003840 index:919
@@ -19069,6 +19988,7 @@ who_f2(it_0021_003840,0).
 who_f3(it_0021_003840,0).
 who_f4(it_0021_003840,0).
 typeofoutcome_updated(it_0021_003840,2).
+vaccine(it_0021_003840,0,3).
 patient(it_0021_003840,neg).
 
 %patient: it-0021-003842 index:920
@@ -19101,6 +20021,7 @@ who_f2(it_0021_003842,9).
 who_f3(it_0021_003842,0).
 who_f4(it_0021_003842,0).
 typeofoutcome_updated(it_0021_003842,2).
+vaccine(it_0021_003842,0,3).
 patient(it_0021_003842,neg).
 
 %patient: it-0022-000455 index:921
@@ -19127,6 +20048,7 @@ who_f2(it_0022_000455,0).
 who_f3(it_0022_000455,0).
 who_f4(it_0022_000455,0).
 typeofoutcome_updated(it_0022_000455,2).
+vaccine(it_0022_000455,0,3).
 patient(it_0022_000455,neg).
 
 %patient: it-0022-000459 index:922
@@ -19149,6 +20071,7 @@ who_f2(it_0022_000459,0).
 who_f3(it_0022_000459,0).
 who_f4(it_0022_000459,0).
 typeofoutcome_updated(it_0022_000459,2).
+vaccine(it_0022_000459,0,3).
 patient(it_0022_000459,neg).
 
 %patient: it-0022-001594 index:923
@@ -19173,6 +20096,7 @@ who_f2(it_0022_001594,0).
 who_f3(it_0022_001594,0).
 who_f4(it_0022_001594,0).
 typeofoutcome_updated(it_0022_001594,2).
+vaccine(it_0022_001594,0,3).
 patient(it_0022_001594,neg).
 
 %patient: it-0022-002501 index:924
@@ -19193,6 +20117,7 @@ who_f2(it_0022_002501,0).
 who_f3(it_0022_002501,0).
 who_f4(it_0022_002501,0).
 typeofoutcome_updated(it_0022_002501,2).
+vaccine(it_0022_002501,0,3).
 patient(it_0022_002501,neg).
 
 %patient: it-0022-002908 index:925
@@ -19212,6 +20137,7 @@ who_f2(it_0022_002908,1).
 who_f3(it_0022_002908,1).
 who_f4(it_0022_002908,1).
 typeofoutcome_updated(it_0022_002908,2).
+vaccine(it_0022_002908,0,3).
 patient(it_0022_002908,neg).
 
 %patient: it-0022-002914 index:926
@@ -19233,6 +20159,7 @@ who_f2(it_0022_002914,0).
 who_f3(it_0022_002914,0).
 who_f4(it_0022_002914,0).
 typeofoutcome_updated(it_0022_002914,2).
+vaccine(it_0022_002914,0,3).
 patient(it_0022_002914,neg).
 
 %patient: it-0022-003731 index:927
@@ -19254,6 +20181,7 @@ who_f2(it_0022_003731,0).
 who_f3(it_0022_003731,0).
 who_f4(it_0022_003731,0).
 typeofoutcome_updated(it_0022_003731,2).
+vaccine(it_0022_003731,0,3).
 patient(it_0022_003731,neg).
 
 %patient: it-0022-003734 index:928
@@ -19273,6 +20201,7 @@ who_f2(it_0022_003734,0).
 who_f3(it_0022_003734,0).
 who_f4(it_0022_003734,0).
 typeofoutcome_updated(it_0022_003734,2).
+vaccine(it_0022_003734,0,3).
 patient(it_0022_003734,neg).
 
 %patient: it-0022-003749 index:929
@@ -19297,6 +20226,7 @@ who_f2(it_0022_003749,0).
 who_f3(it_0022_003749,0).
 who_f4(it_0022_003749,0).
 typeofoutcome_updated(it_0022_003749,2).
+vaccine(it_0022_003749,0,3).
 patient(it_0022_003749,neg).
 
 %patient: it-0022-003750 index:930
@@ -19319,6 +20249,7 @@ who_f2(it_0022_003750,0).
 who_f3(it_0022_003750,0).
 who_f4(it_0022_003750,0).
 typeofoutcome_updated(it_0022_003750,2).
+vaccine(it_0022_003750,0,3).
 patient(it_0022_003750,neg).
 
 %patient: it-0022-003791 index:931
@@ -19339,6 +20270,7 @@ who_f2(it_0022_003791,0).
 who_f3(it_0022_003791,0).
 who_f4(it_0022_003791,0).
 typeofoutcome_updated(it_0022_003791,2).
+vaccine(it_0022_003791,0,3).
 patient(it_0022_003791,neg).
 
 %patient: it-0022-003793 index:932
@@ -19360,6 +20292,7 @@ who_f2(it_0022_003793,0).
 who_f3(it_0022_003793,0).
 who_f4(it_0022_003793,0).
 typeofoutcome_updated(it_0022_003793,2).
+vaccine(it_0022_003793,0,3).
 patient(it_0022_003793,neg).
 
 %patient: it-0022-003795 index:933
@@ -19380,6 +20313,7 @@ who_f2(it_0022_003795,0).
 who_f3(it_0022_003795,0).
 who_f4(it_0022_003795,0).
 typeofoutcome_updated(it_0022_003795,2).
+vaccine(it_0022_003795,0,3).
 patient(it_0022_003795,neg).
 
 %patient: it-0028-005371 index:934
@@ -19399,6 +20333,7 @@ who_f2(it_0028_005371,0).
 who_f3(it_0028_005371,0).
 who_f4(it_0028_005371,0).
 typeofoutcome_updated(it_0028_005371,2).
+vaccine(it_0028_005371,0,3).
 patient(it_0028_005371,neg).
 
 %patient: it-0028-005372 index:935
@@ -19418,6 +20353,7 @@ who_f2(it_0028_005372,0).
 who_f3(it_0028_005372,0).
 who_f4(it_0028_005372,0).
 typeofoutcome_updated(it_0028_005372,2).
+vaccine(it_0028_005372,0,3).
 patient(it_0028_005372,neg).
 
 %patient: it-0028-005402 index:936
@@ -19439,6 +20375,7 @@ who_f2(it_0028_005402,0).
 who_f3(it_0028_005402,0).
 who_f4(it_0028_005402,0).
 typeofoutcome_updated(it_0028_005402,2).
+vaccine(it_0028_005402,0,3).
 patient(it_0028_005402,neg).
 
 %patient: it-0028-005403 index:937
@@ -19457,6 +20394,7 @@ who_f2(it_0028_005403,0).
 who_f3(it_0028_005403,0).
 who_f4(it_0028_005403,0).
 typeofoutcome_updated(it_0028_005403,2).
+vaccine(it_0028_005403,0,3).
 patient(it_0028_005403,neg).
 
 %patient: it-0028-005404 index:938
@@ -19476,6 +20414,7 @@ who_f2(it_0028_005404,0).
 who_f3(it_0028_005404,0).
 who_f4(it_0028_005404,0).
 typeofoutcome_updated(it_0028_005404,2).
+vaccine(it_0028_005404,0,3).
 patient(it_0028_005404,neg).
 
 %patient: it-0028-005405 index:939
@@ -19494,6 +20433,7 @@ who_f2(it_0028_005405,0).
 who_f3(it_0028_005405,0).
 who_f4(it_0028_005405,0).
 typeofoutcome_updated(it_0028_005405,2).
+vaccine(it_0028_005405,0,3).
 patient(it_0028_005405,neg).
 
 %patient: it-0028-005406 index:940
@@ -19513,6 +20453,7 @@ who_f2(it_0028_005406,0).
 who_f3(it_0028_005406,0).
 who_f4(it_0028_005406,0).
 typeofoutcome_updated(it_0028_005406,2).
+vaccine(it_0028_005406,0,3).
 patient(it_0028_005406,neg).
 
 %patient: it-0028-005408 index:941
@@ -19534,6 +20475,7 @@ who_f2(it_0028_005408,0).
 who_f3(it_0028_005408,0).
 who_f4(it_0028_005408,0).
 typeofoutcome_updated(it_0028_005408,2).
+vaccine(it_0028_005408,0,3).
 patient(it_0028_005408,neg).
 
 %patient: it-0030-005525 index:942
@@ -19556,6 +20498,7 @@ who_f2(it_0030_005525,0).
 who_f3(it_0030_005525,0).
 who_f4(it_0030_005525,0).
 typeofoutcome_updated(it_0030_005525,2).
+vaccine(it_0030_005525,0,3).
 patient(it_0030_005525,neg).
 
 %patient: it-0030-005526 index:943
@@ -19576,6 +20519,7 @@ who_f2(it_0030_005526,0).
 who_f3(it_0030_005526,0).
 who_f4(it_0030_005526,0).
 typeofoutcome_updated(it_0030_005526,2).
+vaccine(it_0030_005526,0,3).
 patient(it_0030_005526,neg).
 
 %patient: it-0030-005527 index:944
@@ -19594,6 +20538,7 @@ who_f2(it_0030_005527,0).
 who_f3(it_0030_005527,0).
 who_f4(it_0030_005527,0).
 typeofoutcome_updated(it_0030_005527,2).
+vaccine(it_0030_005527,0,3).
 patient(it_0030_005527,neg).
 
 %patient: it-0030-005528 index:945
@@ -19618,6 +20563,7 @@ who_f2(it_0030_005528,0).
 who_f3(it_0030_005528,0).
 who_f4(it_0030_005528,0).
 typeofoutcome_updated(it_0030_005528,2).
+vaccine(it_0030_005528,0,3).
 patient(it_0030_005528,neg).
 
 %patient: it-0030-005529 index:946
@@ -19637,6 +20583,7 @@ who_f2(it_0030_005529,0).
 who_f3(it_0030_005529,0).
 who_f4(it_0030_005529,0).
 typeofoutcome_updated(it_0030_005529,2).
+vaccine(it_0030_005529,0,3).
 patient(it_0030_005529,neg).
 
 %patient: it-0030-005530 index:947
@@ -19657,6 +20604,7 @@ who_f2(it_0030_005530,0).
 who_f3(it_0030_005530,0).
 who_f4(it_0030_005530,0).
 typeofoutcome_updated(it_0030_005530,2).
+vaccine(it_0030_005530,0,3).
 patient(it_0030_005530,neg).
 
 %patient: it-0030-005532 index:948
@@ -19675,6 +20623,7 @@ who_f2(it_0030_005532,0).
 who_f3(it_0030_005532,0).
 who_f4(it_0030_005532,0).
 typeofoutcome_updated(it_0030_005532,2).
+vaccine(it_0030_005532,0,3).
 patient(it_0030_005532,neg).
 
 %patient: it-0030-005557 index:949
@@ -19696,6 +20645,7 @@ who_f2(it_0030_005557,0).
 who_f3(it_0030_005557,0).
 who_f4(it_0030_005557,0).
 typeofoutcome_updated(it_0030_005557,2).
+vaccine(it_0030_005557,0,3).
 patient(it_0030_005557,neg).
 
 %patient: it-0030-005558 index:950
@@ -19718,6 +20668,7 @@ who_f2(it_0030_005558,0).
 who_f3(it_0030_005558,0).
 who_f4(it_0030_005558,0).
 typeofoutcome_updated(it_0030_005558,2).
+vaccine(it_0030_005558,0,3).
 patient(it_0030_005558,neg).
 
 %patient: it-0030-005559 index:951
@@ -19738,6 +20689,7 @@ who_f2(it_0030_005559,0).
 who_f3(it_0030_005559,0).
 who_f4(it_0030_005559,0).
 typeofoutcome_updated(it_0030_005559,2).
+vaccine(it_0030_005559,0,3).
 patient(it_0030_005559,neg).
 
 %patient: it-0030-005560 index:952
@@ -19761,6 +20713,7 @@ who_f2(it_0030_005560,0).
 who_f3(it_0030_005560,0).
 who_f4(it_0030_005560,0).
 typeofoutcome_updated(it_0030_005560,2).
+vaccine(it_0030_005560,0,3).
 patient(it_0030_005560,neg).
 
 %patient: it-0030-005574 index:953
@@ -19781,6 +20734,7 @@ who_f2(it_0030_005574,0).
 who_f3(it_0030_005574,0).
 who_f4(it_0030_005574,0).
 typeofoutcome_updated(it_0030_005574,2).
+vaccine(it_0030_005574,0,3).
 patient(it_0030_005574,neg).
 
 %patient: it-0030-005575 index:954
@@ -19802,6 +20756,7 @@ who_f2(it_0030_005575,0).
 who_f3(it_0030_005575,0).
 who_f4(it_0030_005575,0).
 typeofoutcome_updated(it_0030_005575,2).
+vaccine(it_0030_005575,0,3).
 patient(it_0030_005575,neg).
 
 %patient: it-0030-005576 index:955
@@ -19820,6 +20775,7 @@ who_f2(it_0030_005576,0).
 who_f3(it_0030_005576,0).
 who_f4(it_0030_005576,0).
 typeofoutcome_updated(it_0030_005576,2).
+vaccine(it_0030_005576,0,3).
 patient(it_0030_005576,neg).
 
 %patient: it-0030-005577 index:956
@@ -19838,6 +20794,7 @@ who_f2(it_0030_005577,0).
 who_f3(it_0030_005577,0).
 who_f4(it_0030_005577,0).
 typeofoutcome_updated(it_0030_005577,2).
+vaccine(it_0030_005577,0,3).
 patient(it_0030_005577,neg).
 
 %patient: it-0030-005578 index:957
@@ -19854,6 +20811,7 @@ who_f2(it_0030_005578,0).
 who_f3(it_0030_005578,0).
 who_f4(it_0030_005578,0).
 typeofoutcome_updated(it_0030_005578,2).
+vaccine(it_0030_005578,0,3).
 patient(it_0030_005578,neg).
 
 %patient: it-0030-005579 index:958
@@ -19877,6 +20835,7 @@ who_f2(it_0030_005579,0).
 who_f3(it_0030_005579,0).
 who_f4(it_0030_005579,0).
 typeofoutcome_updated(it_0030_005579,2).
+vaccine(it_0030_005579,0,3).
 patient(it_0030_005579,neg).
 
 %patient: it-0030-005600 index:959
@@ -19897,6 +20856,7 @@ who_f2(it_0030_005600,0).
 who_f3(it_0030_005600,0).
 who_f4(it_0030_005600,0).
 typeofoutcome_updated(it_0030_005600,2).
+vaccine(it_0030_005600,0,3).
 patient(it_0030_005600,neg).
 
 %patient: it-0042-003621 index:960
@@ -19919,6 +20879,7 @@ who_f2(it_0042_003621,0).
 who_f3(it_0042_003621,0).
 who_f4(it_0042_003621,0).
 typeofoutcome_updated(it_0042_003621,2).
+vaccine(it_0042_003621,0,3).
 patient(it_0042_003621,neg).
 
 %patient: it-0042-003622 index:961
@@ -19940,6 +20901,7 @@ who_f2(it_0042_003622,0).
 who_f3(it_0042_003622,0).
 who_f4(it_0042_003622,0).
 typeofoutcome_updated(it_0042_003622,2).
+vaccine(it_0042_003622,0,3).
 patient(it_0042_003622,neg).
 
 %patient: it-0042-003624 index:962
@@ -19963,6 +20925,7 @@ who_f2(it_0042_003624,0).
 who_f3(it_0042_003624,0).
 who_f4(it_0042_003624,0).
 typeofoutcome_updated(it_0042_003624,2).
+vaccine(it_0042_003624,0,3).
 patient(it_0042_003624,neg).
 
 %patient: it-0042-003627 index:963
@@ -19994,6 +20957,7 @@ who_f2(it_0042_003627,0).
 who_f3(it_0042_003627,0).
 who_f4(it_0042_003627,0).
 typeofoutcome_updated(it_0042_003627,2).
+vaccine(it_0042_003627,0,2).
 patient(it_0042_003627,neg).
 
 %patient: it-0042-003631 index:964
@@ -20023,6 +20987,7 @@ who_f2(it_0042_003631,0).
 who_f3(it_0042_003631,0).
 who_f4(it_0042_003631,0).
 typeofoutcome_updated(it_0042_003631,2).
+vaccine(it_0042_003631,0,2).
 patient(it_0042_003631,neg).
 
 %patient: it-0042-003632 index:965
@@ -20051,6 +21016,7 @@ who_f2(it_0042_003632,0).
 who_f3(it_0042_003632,0).
 who_f4(it_0042_003632,0).
 typeofoutcome_updated(it_0042_003632,2).
+vaccine(it_0042_003632,0,3).
 patient(it_0042_003632,neg).
 
 %patient: it-0042-003633 index:966
@@ -20084,6 +21050,7 @@ who_f2(it_0042_003633,0).
 who_f3(it_0042_003633,0).
 who_f4(it_0042_003633,0).
 typeofoutcome_updated(it_0042_003633,2).
+vaccine(it_0042_003633,0,2).
 patient(it_0042_003633,neg).
 
 %patient: it-0042-003638 index:967
@@ -20103,6 +21070,7 @@ who_f2(it_0042_003638,0).
 who_f3(it_0042_003638,0).
 who_f4(it_0042_003638,0).
 typeofoutcome_updated(it_0042_003638,2).
+vaccine(it_0042_003638,0,3).
 patient(it_0042_003638,neg).
 
 %patient: it-0042-003639 index:968
@@ -20124,6 +21092,7 @@ who_f2(it_0042_003639,0).
 who_f3(it_0042_003639,0).
 who_f4(it_0042_003639,0).
 typeofoutcome_updated(it_0042_003639,2).
+vaccine(it_0042_003639,0,3).
 patient(it_0042_003639,neg).
 
 %patient: it-0042-003640 index:969
@@ -20144,6 +21113,7 @@ who_f2(it_0042_003640,0).
 who_f3(it_0042_003640,0).
 who_f4(it_0042_003640,0).
 typeofoutcome_updated(it_0042_003640,2).
+vaccine(it_0042_003640,0,3).
 patient(it_0042_003640,neg).
 
 %patient: it-0042-003643 index:970
@@ -20163,6 +21133,7 @@ who_f2(it_0042_003643,0).
 who_f3(it_0042_003643,0).
 who_f4(it_0042_003643,0).
 typeofoutcome_updated(it_0042_003643,2).
+vaccine(it_0042_003643,0,3).
 patient(it_0042_003643,neg).
 
 %patient: it-0042-003645 index:971
@@ -20184,6 +21155,7 @@ who_f2(it_0042_003645,0).
 who_f3(it_0042_003645,0).
 who_f4(it_0042_003645,0).
 typeofoutcome_updated(it_0042_003645,2).
+vaccine(it_0042_003645,0,3).
 patient(it_0042_003645,neg).
 
 %patient: it-0042-003655 index:972
@@ -20202,6 +21174,7 @@ who_f2(it_0042_003655,0).
 who_f3(it_0042_003655,0).
 who_f4(it_0042_003655,0).
 typeofoutcome_updated(it_0042_003655,2).
+vaccine(it_0042_003655,0,3).
 patient(it_0042_003655,neg).
 
 %patient: it-0042-003656 index:973
@@ -20223,6 +21196,7 @@ who_f2(it_0042_003656,0).
 who_f3(it_0042_003656,0).
 who_f4(it_0042_003656,0).
 typeofoutcome_updated(it_0042_003656,2).
+vaccine(it_0042_003656,0,3).
 patient(it_0042_003656,neg).
 
 %patient: it-0042-003657 index:974
@@ -20244,6 +21218,7 @@ who_f2(it_0042_003657,0).
 who_f3(it_0042_003657,0).
 who_f4(it_0042_003657,0).
 typeofoutcome_updated(it_0042_003657,2).
+vaccine(it_0042_003657,0,3).
 patient(it_0042_003657,neg).
 
 %patient: it-0042-003674 index:975
@@ -20265,6 +21240,7 @@ who_f2(it_0042_003674,0).
 who_f3(it_0042_003674,0).
 who_f4(it_0042_003674,0).
 typeofoutcome_updated(it_0042_003674,2).
+vaccine(it_0042_003674,0,3).
 patient(it_0042_003674,neg).
 
 %patient: it-0042-003711 index:976
@@ -20288,6 +21264,7 @@ who_f2(it_0042_003711,0).
 who_f3(it_0042_003711,0).
 who_f4(it_0042_003711,0).
 typeofoutcome_updated(it_0042_003711,2).
+vaccine(it_0042_003711,0,3).
 patient(it_0042_003711,neg).
 
 %patient: it-0042-003712 index:977
@@ -20312,6 +21289,7 @@ who_f2(it_0042_003712,0).
 who_f3(it_0042_003712,0).
 who_f4(it_0042_003712,0).
 typeofoutcome_updated(it_0042_003712,2).
+vaccine(it_0042_003712,0,3).
 patient(it_0042_003712,neg).
 
 %patient: it-0042-003713 index:978
@@ -20333,6 +21311,7 @@ who_f2(it_0042_003713,0).
 who_f3(it_0042_003713,0).
 who_f4(it_0042_003713,0).
 typeofoutcome_updated(it_0042_003713,2).
+vaccine(it_0042_003713,0,3).
 patient(it_0042_003713,neg).
 
 %patient: it-0042-003714 index:979
@@ -20355,6 +21334,7 @@ who_f2(it_0042_003714,0).
 who_f3(it_0042_003714,0).
 who_f4(it_0042_003714,0).
 typeofoutcome_updated(it_0042_003714,2).
+vaccine(it_0042_003714,0,3).
 patient(it_0042_003714,neg).
 
 %patient: it-0042-003716 index:980
@@ -20381,6 +21361,7 @@ who_f2(it_0042_003716,0).
 who_f3(it_0042_003716,0).
 who_f4(it_0042_003716,0).
 typeofoutcome_updated(it_0042_003716,2).
+vaccine(it_0042_003716,0,3).
 patient(it_0042_003716,neg).
 
 %patient: it-0042-003718 index:981
@@ -20403,6 +21384,7 @@ who_f2(it_0042_003718,0).
 who_f3(it_0042_003718,0).
 who_f4(it_0042_003718,0).
 typeofoutcome_updated(it_0042_003718,2).
+vaccine(it_0042_003718,0,3).
 patient(it_0042_003718,neg).
 
 %patient: it-0042-003719 index:982
@@ -20426,6 +21408,7 @@ who_f2(it_0042_003719,0).
 who_f3(it_0042_003719,0).
 who_f4(it_0042_003719,0).
 typeofoutcome_updated(it_0042_003719,2).
+vaccine(it_0042_003719,0,3).
 patient(it_0042_003719,neg).
 
 %patient: it-0042-003720 index:983
@@ -20449,6 +21432,7 @@ who_f2(it_0042_003720,0).
 who_f3(it_0042_003720,0).
 who_f4(it_0042_003720,0).
 typeofoutcome_updated(it_0042_003720,2).
+vaccine(it_0042_003720,0,3).
 patient(it_0042_003720,neg).
 
 %patient: it-0042-003721 index:984
@@ -20472,6 +21456,7 @@ who_f2(it_0042_003721,0).
 who_f3(it_0042_003721,0).
 who_f4(it_0042_003721,0).
 typeofoutcome_updated(it_0042_003721,2).
+vaccine(it_0042_003721,0,3).
 patient(it_0042_003721,neg).
 
 %patient: it-0042-003733 index:985
@@ -20495,6 +21480,7 @@ who_f2(it_0042_003733,0).
 who_f3(it_0042_003733,0).
 who_f4(it_0042_003733,0).
 typeofoutcome_updated(it_0042_003733,2).
+vaccine(it_0042_003733,0,3).
 patient(it_0042_003733,neg).
 
 %patient: it-0042-003735 index:986
@@ -20519,6 +21505,7 @@ who_f2(it_0042_003735,0).
 who_f3(it_0042_003735,0).
 who_f4(it_0042_003735,0).
 typeofoutcome_updated(it_0042_003735,2).
+vaccine(it_0042_003735,0,3).
 patient(it_0042_003735,neg).
 
 %patient: it-0042-003737 index:987
@@ -20540,6 +21527,7 @@ who_f2(it_0042_003737,0).
 who_f3(it_0042_003737,0).
 who_f4(it_0042_003737,0).
 typeofoutcome_updated(it_0042_003737,2).
+vaccine(it_0042_003737,0,3).
 patient(it_0042_003737,neg).
 
 %patient: it-0042-003741 index:988
@@ -20561,6 +21549,7 @@ who_f2(it_0042_003741,0).
 who_f3(it_0042_003741,0).
 who_f4(it_0042_003741,0).
 typeofoutcome_updated(it_0042_003741,2).
+vaccine(it_0042_003741,0,3).
 patient(it_0042_003741,neg).
 
 %patient: it-0042-003742 index:989
@@ -20584,6 +21573,7 @@ who_f2(it_0042_003742,0).
 who_f3(it_0042_003742,0).
 who_f4(it_0042_003742,0).
 typeofoutcome_updated(it_0042_003742,2).
+vaccine(it_0042_003742,0,3).
 patient(it_0042_003742,neg).
 
 %patient: it-0042-003743 index:990
@@ -20605,6 +21595,7 @@ who_f2(it_0042_003743,0).
 who_f3(it_0042_003743,0).
 who_f4(it_0042_003743,0).
 typeofoutcome_updated(it_0042_003743,2).
+vaccine(it_0042_003743,0,3).
 patient(it_0042_003743,neg).
 
 %patient: it-0042-003745 index:991
@@ -20628,6 +21619,7 @@ who_f2(it_0042_003745,0).
 who_f3(it_0042_003745,0).
 who_f4(it_0042_003745,0).
 typeofoutcome_updated(it_0042_003745,2).
+vaccine(it_0042_003745,0,3).
 patient(it_0042_003745,neg).
 
 %patient: it-0042-003746 index:992
@@ -20652,6 +21644,7 @@ who_f2(it_0042_003746,0).
 who_f3(it_0042_003746,0).
 who_f4(it_0042_003746,0).
 typeofoutcome_updated(it_0042_003746,2).
+vaccine(it_0042_003746,0,3).
 patient(it_0042_003746,neg).
 
 %patient: it-0043-003646 index:993
@@ -20679,6 +21672,7 @@ who_f2(it_0043_003646,0).
 who_f3(it_0043_003646,0).
 who_f4(it_0043_003646,0).
 typeofoutcome_updated(it_0043_003646,2).
+vaccine(it_0043_003646,0,3).
 patient(it_0043_003646,neg).
 
 %patient: it-0043-003723 index:994
@@ -20701,6 +21695,7 @@ who_f2(it_0043_003723,9).
 who_f3(it_0043_003723,0).
 who_f4(it_0043_003723,0).
 typeofoutcome_updated(it_0043_003723,2).
+vaccine(it_0043_003723,0,3).
 patient(it_0043_003723,neg).
 
 %patient: it-0043-003725 index:995
@@ -20722,6 +21717,7 @@ who_f2(it_0043_003725,9).
 who_f3(it_0043_003725,0).
 who_f4(it_0043_003725,0).
 typeofoutcome_updated(it_0043_003725,2).
+vaccine(it_0043_003725,0,3).
 patient(it_0043_003725,neg).
 
 %patient: it-0043-003727 index:996
@@ -20745,6 +21741,7 @@ who_f2(it_0043_003727,9).
 who_f3(it_0043_003727,0).
 who_f4(it_0043_003727,0).
 typeofoutcome_updated(it_0043_003727,2).
+vaccine(it_0043_003727,0,3).
 patient(it_0043_003727,neg).
 
 %patient: it-0043-003728 index:997
@@ -20766,6 +21763,7 @@ who_f2(it_0043_003728,9).
 who_f3(it_0043_003728,0).
 who_f4(it_0043_003728,0).
 typeofoutcome_updated(it_0043_003728,2).
+vaccine(it_0043_003728,0,3).
 patient(it_0043_003728,neg).
 
 %patient: it-0043-003740 index:998
@@ -20787,6 +21785,7 @@ who_f2(it_0043_003740,9).
 who_f3(it_0043_003740,0).
 who_f4(it_0043_003740,0).
 typeofoutcome_updated(it_0043_003740,2).
+vaccine(it_0043_003740,0,3).
 patient(it_0043_003740,neg).
 
 %patient: it-0043-003819 index:999
@@ -20806,6 +21805,7 @@ who_f2(it_0043_003819,9).
 who_f3(it_0043_003819,0).
 who_f4(it_0043_003819,0).
 typeofoutcome_updated(it_0043_003819,2).
+vaccine(it_0043_003819,0,3).
 patient(it_0043_003819,neg).
 
 %patient: it-0043-003820 index:1000
@@ -20827,6 +21827,7 @@ who_f2(it_0043_003820,9).
 who_f3(it_0043_003820,0).
 who_f4(it_0043_003820,0).
 typeofoutcome_updated(it_0043_003820,2).
+vaccine(it_0043_003820,0,3).
 patient(it_0043_003820,neg).
 
 %patient: it-0043-003821 index:1001
@@ -20848,6 +21849,7 @@ who_f2(it_0043_003821,0).
 who_f3(it_0043_003821,0).
 who_f4(it_0043_003821,0).
 typeofoutcome_updated(it_0043_003821,2).
+vaccine(it_0043_003821,0,3).
 patient(it_0043_003821,neg).
 
 %patient: it-0043-003822 index:1002
@@ -20870,6 +21872,7 @@ who_f2(it_0043_003822,9).
 who_f3(it_0043_003822,0).
 who_f4(it_0043_003822,0).
 typeofoutcome_updated(it_0043_003822,2).
+vaccine(it_0043_003822,0,3).
 patient(it_0043_003822,neg).
 
 %patient: it-0043-003823 index:1003
@@ -20887,6 +21890,7 @@ who_f2(it_0043_003823,9).
 who_f3(it_0043_003823,0).
 who_f4(it_0043_003823,0).
 typeofoutcome_updated(it_0043_003823,2).
+vaccine(it_0043_003823,0,3).
 patient(it_0043_003823,neg).
 
 %patient: it-0043-003826 index:1004
@@ -20908,6 +21912,7 @@ who_f2(it_0043_003826,9).
 who_f3(it_0043_003826,0).
 who_f4(it_0043_003826,0).
 typeofoutcome_updated(it_0043_003826,2).
+vaccine(it_0043_003826,0,3).
 patient(it_0043_003826,neg).
 
 %patient: it-0043-004589 index:1005
@@ -20930,6 +21935,7 @@ who_f2(it_0043_004589,9).
 who_f3(it_0043_004589,0).
 who_f4(it_0043_004589,0).
 typeofoutcome_updated(it_0043_004589,2).
+vaccine(it_0043_004589,0,3).
 patient(it_0043_004589,neg).
 
 %patient: it-0043-004590 index:1006
@@ -20950,6 +21956,7 @@ who_f2(it_0043_004590,9).
 who_f3(it_0043_004590,0).
 who_f4(it_0043_004590,0).
 typeofoutcome_updated(it_0043_004590,2).
+vaccine(it_0043_004590,0,3).
 patient(it_0043_004590,neg).
 
 %patient: it-0044-003663 index:1007
@@ -20977,6 +21984,7 @@ who_f2(it_0044_003663,0).
 who_f3(it_0044_003663,0).
 who_f4(it_0044_003663,0).
 typeofoutcome_updated(it_0044_003663,2).
+vaccine(it_0044_003663,0,2).
 patient(it_0044_003663,neg).
 
 %patient: it-0044-003664 index:1008
@@ -21003,6 +22011,7 @@ who_f2(it_0044_003664,0).
 who_f3(it_0044_003664,0).
 who_f4(it_0044_003664,0).
 typeofoutcome_updated(it_0044_003664,2).
+vaccine(it_0044_003664,0,2).
 patient(it_0044_003664,neg).
 
 %patient: it-0044-003703 index:1009
@@ -21021,6 +22030,7 @@ who_f2(it_0044_003703,0).
 who_f3(it_0044_003703,0).
 who_f4(it_0044_003703,0).
 typeofoutcome_updated(it_0044_003703,2).
+vaccine(it_0044_003703,0,3).
 patient(it_0044_003703,neg).
 
 %patient: it-0044-003708 index:1010
@@ -21043,6 +22053,7 @@ who_f2(it_0044_003708,0).
 who_f3(it_0044_003708,0).
 who_f4(it_0044_003708,0).
 typeofoutcome_updated(it_0044_003708,2).
+vaccine(it_0044_003708,0,3).
 patient(it_0044_003708,neg).
 
 %patient: it-0044-003709 index:1011
@@ -21063,6 +22074,7 @@ who_f2(it_0044_003709,9).
 who_f3(it_0044_003709,0).
 who_f4(it_0044_003709,0).
 typeofoutcome_updated(it_0044_003709,2).
+vaccine(it_0044_003709,0,3).
 patient(it_0044_003709,neg).
 
 %patient: it-0044-004231 index:1012
@@ -21091,6 +22103,7 @@ who_f2(it_0044_004231,0).
 who_f3(it_0044_004231,0).
 who_f4(it_0044_004231,0).
 typeofoutcome_updated(it_0044_004231,2).
+vaccine(it_0044_004231,0,2).
 patient(it_0044_004231,neg).
 
 %patient: it-0044-004232 index:1013
@@ -21121,6 +22134,7 @@ who_f2(it_0044_004232,0).
 who_f3(it_0044_004232,0).
 who_f4(it_0044_004232,0).
 typeofoutcome_updated(it_0044_004232,2).
+vaccine(it_0044_004232,0,2).
 patient(it_0044_004232,neg).
 
 %patient: it-0044-004234 index:1014
@@ -21153,6 +22167,7 @@ who_f2(it_0044_004234,9).
 who_f3(it_0044_004234,0).
 who_f4(it_0044_004234,0).
 typeofoutcome_updated(it_0044_004234,2).
+vaccine(it_0044_004234,0,2).
 patient(it_0044_004234,neg).
 
 %patient: it-0044-005215 index:1015
@@ -21180,6 +22195,7 @@ who_f2(it_0044_005215,0).
 who_f3(it_0044_005215,0).
 who_f4(it_0044_005215,0).
 typeofoutcome_updated(it_0044_005215,2).
+vaccine(it_0044_005215,0,2).
 patient(it_0044_005215,neg).
 
 %patient: it-0044-005216 index:1016
@@ -21210,6 +22226,7 @@ who_f2(it_0044_005216,9).
 who_f3(it_0044_005216,0).
 who_f4(it_0044_005216,0).
 typeofoutcome_updated(it_0044_005216,2).
+vaccine(it_0044_005216,0,2).
 patient(it_0044_005216,neg).
 
 %patient: it-0044-005217 index:1017
@@ -21236,6 +22253,7 @@ who_f2(it_0044_005217,9).
 who_f3(it_0044_005217,0).
 who_f4(it_0044_005217,0).
 typeofoutcome_updated(it_0044_005217,2).
+vaccine(it_0044_005217,0,2).
 patient(it_0044_005217,neg).
 
 %patient: it-0044-005218 index:1018
@@ -21262,6 +22280,7 @@ who_f2(it_0044_005218,0).
 who_f3(it_0044_005218,0).
 who_f4(it_0044_005218,0).
 typeofoutcome_updated(it_0044_005218,2).
+vaccine(it_0044_005218,0,2).
 patient(it_0044_005218,neg).
 
 %patient: it-0044-005739 index:1019
@@ -21286,6 +22305,7 @@ who_f2(it_0044_005739,9).
 who_f3(it_0044_005739,0).
 who_f4(it_0044_005739,0).
 typeofoutcome_updated(it_0044_005739,2).
+vaccine(it_0044_005739,0,2).
 patient(it_0044_005739,neg).
 
 %patient: it-0044-005740 index:1020
@@ -21313,6 +22333,7 @@ who_f2(it_0044_005740,0).
 who_f3(it_0044_005740,0).
 who_f4(it_0044_005740,0).
 typeofoutcome_updated(it_0044_005740,2).
+vaccine(it_0044_005740,0,2).
 patient(it_0044_005740,neg).
 
 %patient: it-0045-005288 index:1021
@@ -21337,6 +22358,7 @@ who_f2(it_0045_005288,0).
 who_f3(it_0045_005288,0).
 who_f4(it_0045_005288,0).
 typeofoutcome_updated(it_0045_005288,2).
+vaccine(it_0045_005288,0,3).
 patient(it_0045_005288,neg).
 
 %patient: it-0045-005292 index:1022
@@ -21359,6 +22381,7 @@ who_f2(it_0045_005292,0).
 who_f3(it_0045_005292,0).
 who_f4(it_0045_005292,0).
 typeofoutcome_updated(it_0045_005292,2).
+vaccine(it_0045_005292,0,3).
 patient(it_0045_005292,neg).
 
 %patient: it-0045-005295 index:1023
@@ -21383,6 +22406,7 @@ who_f2(it_0045_005295,0).
 who_f3(it_0045_005295,0).
 who_f4(it_0045_005295,0).
 typeofoutcome_updated(it_0045_005295,2).
+vaccine(it_0045_005295,0,3).
 patient(it_0045_005295,neg).
 
 %patient: it-0045-005751 index:1024
@@ -21409,6 +22433,7 @@ who_f2(it_0045_005751,0).
 who_f3(it_0045_005751,0).
 who_f4(it_0045_005751,0).
 typeofoutcome_updated(it_0045_005751,2).
+vaccine(it_0045_005751,0,3).
 patient(it_0045_005751,neg).
 
 %patient: it-0050-003685 index:1025
@@ -21432,6 +22457,7 @@ who_f2(it_0050_003685,0).
 who_f3(it_0050_003685,9).
 who_f4(it_0050_003685,0).
 typeofoutcome_updated(it_0050_003685,2).
+vaccine(it_0050_003685,0,3).
 patient(it_0050_003685,neg).
 
 %patient: it-0050-003687 index:1026
@@ -21460,6 +22486,7 @@ who_f2(it_0050_003687,1).
 who_f3(it_0050_003687,0).
 who_f4(it_0050_003687,0).
 typeofoutcome_updated(it_0050_003687,2).
+vaccine(it_0050_003687,0,2).
 patient(it_0050_003687,neg).
 
 %patient: it-0050-003688 index:1027
@@ -21484,6 +22511,7 @@ who_f2(it_0050_003688,1).
 who_f3(it_0050_003688,9).
 who_f4(it_0050_003688,0).
 typeofoutcome_updated(it_0050_003688,2).
+vaccine(it_0050_003688,0,2).
 patient(it_0050_003688,neg).
 
 %patient: it-0050-003984 index:1028
@@ -21508,6 +22536,7 @@ who_f2(it_0050_003984,1).
 who_f3(it_0050_003984,0).
 who_f4(it_0050_003984,0).
 typeofoutcome_updated(it_0050_003984,2).
+vaccine(it_0050_003984,0,2).
 patient(it_0050_003984,neg).
 
 %patient: it-0050-003985 index:1029
@@ -21534,6 +22563,7 @@ who_f2(it_0050_003985,1).
 who_f3(it_0050_003985,0).
 who_f4(it_0050_003985,0).
 typeofoutcome_updated(it_0050_003985,2).
+vaccine(it_0050_003985,0,2).
 patient(it_0050_003985,neg).
 
 %patient: it-0050-004047 index:1030
@@ -21558,6 +22588,7 @@ who_f2(it_0050_004047,1).
 who_f3(it_0050_004047,0).
 who_f4(it_0050_004047,0).
 typeofoutcome_updated(it_0050_004047,2).
+vaccine(it_0050_004047,0,2).
 patient(it_0050_004047,neg).
 
 %patient: it-0050-004048 index:1031
@@ -21581,6 +22612,7 @@ who_f2(it_0050_004048,1).
 who_f3(it_0050_004048,0).
 who_f4(it_0050_004048,0).
 typeofoutcome_updated(it_0050_004048,2).
+vaccine(it_0050_004048,0,2).
 patient(it_0050_004048,neg).
 
 %patient: it-0050-004130 index:1032
@@ -21606,6 +22638,7 @@ who_f2(it_0050_004130,1).
 who_f3(it_0050_004130,0).
 who_f4(it_0050_004130,0).
 typeofoutcome_updated(it_0050_004130,2).
+vaccine(it_0050_004130,0,2).
 patient(it_0050_004130,neg).
 
 %patient: it-0050-004131 index:1033
@@ -21632,6 +22665,7 @@ who_f2(it_0050_004131,1).
 who_f3(it_0050_004131,0).
 who_f4(it_0050_004131,0).
 typeofoutcome_updated(it_0050_004131,2).
+vaccine(it_0050_004131,0,2).
 patient(it_0050_004131,neg).
 
 %patient: it-0050-004132 index:1034
@@ -21658,6 +22692,7 @@ who_f2(it_0050_004132,1).
 who_f3(it_0050_004132,0).
 who_f4(it_0050_004132,0).
 typeofoutcome_updated(it_0050_004132,2).
+vaccine(it_0050_004132,0,2).
 patient(it_0050_004132,neg).
 
 %patient: it-0050-004228 index:1035
@@ -21685,6 +22720,7 @@ who_f2(it_0050_004228,1).
 who_f3(it_0050_004228,0).
 who_f4(it_0050_004228,0).
 typeofoutcome_updated(it_0050_004228,2).
+vaccine(it_0050_004228,0,2).
 patient(it_0050_004228,neg).
 
 %patient: it-0050-005300 index:1036
@@ -21710,6 +22746,7 @@ who_f2(it_0050_005300,1).
 who_f3(it_0050_005300,0).
 who_f4(it_0050_005300,0).
 typeofoutcome_updated(it_0050_005300,2).
+vaccine(it_0050_005300,0,2).
 patient(it_0050_005300,neg).
 
 %patient: it-0050-005610 index:1037
@@ -21741,6 +22778,7 @@ who_f2(it_0050_005610,1).
 who_f3(it_0050_005610,0).
 who_f4(it_0050_005610,0).
 typeofoutcome_updated(it_0050_005610,2).
+vaccine(it_0050_005610,0,2).
 patient(it_0050_005610,neg).
 
 %patient: it-0050-005616 index:1038
@@ -21763,6 +22801,7 @@ who_f2(it_0050_005616,1).
 who_f3(it_0050_005616,0).
 who_f4(it_0050_005616,0).
 typeofoutcome_updated(it_0050_005616,2).
+vaccine(it_0050_005616,0,2).
 patient(it_0050_005616,neg).
 
 %patient: it-0050-005617 index:1039
@@ -21787,6 +22826,7 @@ who_f2(it_0050_005617,1).
 who_f3(it_0050_005617,0).
 who_f4(it_0050_005617,0).
 typeofoutcome_updated(it_0050_005617,2).
+vaccine(it_0050_005617,0,2).
 patient(it_0050_005617,neg).
 
 %patient: it-0050-005618 index:1040
@@ -21812,6 +22852,7 @@ who_f2(it_0050_005618,1).
 who_f3(it_0050_005618,0).
 who_f4(it_0050_005618,0).
 typeofoutcome_updated(it_0050_005618,2).
+vaccine(it_0050_005618,0,2).
 patient(it_0050_005618,neg).
 
 %patient: it-0050-005619 index:1041
@@ -21838,6 +22879,7 @@ who_f2(it_0050_005619,1).
 who_f3(it_0050_005619,0).
 who_f4(it_0050_005619,0).
 typeofoutcome_updated(it_0050_005619,2).
+vaccine(it_0050_005619,0,2).
 patient(it_0050_005619,neg).
 
 %patient: it-0050-005776 index:1042
@@ -21864,6 +22906,7 @@ who_f2(it_0050_005776,0).
 who_f3(it_0050_005776,0).
 who_f4(it_0050_005776,0).
 typeofoutcome_updated(it_0050_005776,2).
+vaccine(it_0050_005776,0,2).
 patient(it_0050_005776,neg).
 
 %patient: it-0050-005777 index:1043
@@ -21890,6 +22933,7 @@ who_f2(it_0050_005777,0).
 who_f3(it_0050_005777,0).
 who_f4(it_0050_005777,0).
 typeofoutcome_updated(it_0050_005777,2).
+vaccine(it_0050_005777,0,2).
 patient(it_0050_005777,neg).
 
 %patient: it-0050-005778 index:1044
@@ -21915,6 +22959,7 @@ who_f2(it_0050_005778,0).
 who_f3(it_0050_005778,0).
 who_f4(it_0050_005778,0).
 typeofoutcome_updated(it_0050_005778,2).
+vaccine(it_0050_005778,0,2).
 patient(it_0050_005778,neg).
 
 %patient: it-0050-005779 index:1045
@@ -21939,6 +22984,7 @@ who_f2(it_0050_005779,0).
 who_f3(it_0050_005779,0).
 who_f4(it_0050_005779,0).
 typeofoutcome_updated(it_0050_005779,2).
+vaccine(it_0050_005779,0,2).
 patient(it_0050_005779,neg).
 
 %patient: it-0050-005780 index:1046
@@ -21966,6 +23012,7 @@ who_f2(it_0050_005780,0).
 who_f3(it_0050_005780,0).
 who_f4(it_0050_005780,0).
 typeofoutcome_updated(it_0050_005780,2).
+vaccine(it_0050_005780,0,2).
 patient(it_0050_005780,neg).
 
 %patient: it-0050-005782 index:1047
@@ -21991,6 +23038,7 @@ who_f2(it_0050_005782,0).
 who_f3(it_0050_005782,0).
 who_f4(it_0050_005782,0).
 typeofoutcome_updated(it_0050_005782,2).
+vaccine(it_0050_005782,0,2).
 patient(it_0050_005782,neg).
 
 %patient: it-0050-005783 index:1048
@@ -22020,6 +23068,7 @@ who_f2(it_0050_005783,0).
 who_f3(it_0050_005783,0).
 who_f4(it_0050_005783,0).
 typeofoutcome_updated(it_0050_005783,2).
+vaccine(it_0050_005783,0,2).
 patient(it_0050_005783,neg).
 
 %patient: it-0050-005784 index:1049
@@ -22046,6 +23095,7 @@ who_f2(it_0050_005784,0).
 who_f3(it_0050_005784,0).
 who_f4(it_0050_005784,0).
 typeofoutcome_updated(it_0050_005784,2).
+vaccine(it_0050_005784,0,2).
 patient(it_0050_005784,neg).
 
 %patient: it-0050-005785 index:1050
@@ -22074,6 +23124,7 @@ who_f2(it_0050_005785,0).
 who_f3(it_0050_005785,0).
 who_f4(it_0050_005785,0).
 typeofoutcome_updated(it_0050_005785,2).
+vaccine(it_0050_005785,0,2).
 patient(it_0050_005785,neg).
 
 %patient: it-0050-005786 index:1051
@@ -22097,6 +23148,7 @@ who_f2(it_0050_005786,0).
 who_f3(it_0050_005786,0).
 who_f4(it_0050_005786,0).
 typeofoutcome_updated(it_0050_005786,2).
+vaccine(it_0050_005786,0,2).
 patient(it_0050_005786,neg).
 
 %patient: it-0050-005788 index:1052
@@ -22123,6 +23175,7 @@ who_f2(it_0050_005788,0).
 who_f3(it_0050_005788,0).
 who_f4(it_0050_005788,0).
 typeofoutcome_updated(it_0050_005788,2).
+vaccine(it_0050_005788,0,2).
 patient(it_0050_005788,neg).
 
 %patient: it-0052-003857 index:1053
@@ -22144,6 +23197,7 @@ who_f2(it_0052_003857,0).
 who_f3(it_0052_003857,0).
 who_f4(it_0052_003857,0).
 typeofoutcome_updated(it_0052_003857,2).
+vaccine(it_0052_003857,0,3).
 patient(it_0052_003857,neg).
 
 %patient: it-0052-003859 index:1054
@@ -22164,6 +23218,7 @@ who_f2(it_0052_003859,0).
 who_f3(it_0052_003859,0).
 who_f4(it_0052_003859,0).
 typeofoutcome_updated(it_0052_003859,2).
+vaccine(it_0052_003859,0,3).
 patient(it_0052_003859,neg).
 
 %patient: it-0052-005771 index:1055
@@ -22192,6 +23247,7 @@ who_f2(it_0052_005771,0).
 who_f3(it_0052_005771,0).
 who_f4(it_0052_005771,0).
 typeofoutcome_updated(it_0052_005771,2).
+vaccine(it_0052_005771,0,2).
 patient(it_0052_005771,neg).
 
 %patient: it-0052-005772 index:1056
@@ -22221,6 +23277,7 @@ who_f2(it_0052_005772,0).
 who_f3(it_0052_005772,0).
 who_f4(it_0052_005772,0).
 typeofoutcome_updated(it_0052_005772,2).
+vaccine(it_0052_005772,0,2).
 patient(it_0052_005772,neg).
 
 %patient: it-0052-005774 index:1057
@@ -22242,6 +23299,7 @@ who_f2(it_0052_005774,0).
 who_f3(it_0052_005774,0).
 who_f4(it_0052_005774,0).
 typeofoutcome_updated(it_0052_005774,2).
+vaccine(it_0052_005774,0,2).
 patient(it_0052_005774,neg).
 
 %patient: it-0053-004254 index:1058
@@ -22259,6 +23317,7 @@ who_f2(it_0053_004254,0).
 who_f3(it_0053_004254,0).
 who_f4(it_0053_004254,0).
 typeofoutcome_updated(it_0053_004254,2).
+vaccine(it_0053_004254,0,3).
 patient(it_0053_004254,neg).
 
 %patient: it-0053-004255 index:1059
@@ -22282,6 +23341,7 @@ who_f2(it_0053_004255,0).
 who_f3(it_0053_004255,0).
 who_f4(it_0053_004255,0).
 typeofoutcome_updated(it_0053_004255,2).
+vaccine(it_0053_004255,0,2).
 patient(it_0053_004255,neg).
 
 %patient: it-0053-004256 index:1060
@@ -22302,6 +23362,7 @@ who_f2(it_0053_004256,0).
 who_f3(it_0053_004256,0).
 who_f4(it_0053_004256,0).
 typeofoutcome_updated(it_0053_004256,2).
+vaccine(it_0053_004256,0,3).
 patient(it_0053_004256,neg).
 
 %patient: it-0061-000577 index:1061
@@ -22328,6 +23389,7 @@ who_f2(it_0061_000577,0).
 who_f3(it_0061_000577,0).
 who_f4(it_0061_000577,0).
 typeofoutcome_updated(it_0061_000577,2).
+vaccine(it_0061_000577,0,3).
 patient(it_0061_000577,neg).
 
 %patient: it-0061-000583 index:1062
@@ -22354,6 +23416,7 @@ who_f2(it_0061_000583,0).
 who_f3(it_0061_000583,0).
 who_f4(it_0061_000583,0).
 typeofoutcome_updated(it_0061_000583,2).
+vaccine(it_0061_000583,0,3).
 patient(it_0061_000583,neg).
 
 %patient: it-0061-000584 index:1063
@@ -22381,6 +23444,7 @@ who_f2(it_0061_000584,0).
 who_f3(it_0061_000584,0).
 who_f4(it_0061_000584,0).
 typeofoutcome_updated(it_0061_000584,2).
+vaccine(it_0061_000584,0,3).
 patient(it_0061_000584,neg).
 
 %patient: it-0061-000585 index:1064
@@ -22403,6 +23467,7 @@ who_f2(it_0061_000585,0).
 who_f3(it_0061_000585,0).
 who_f4(it_0061_000585,0).
 typeofoutcome_updated(it_0061_000585,2).
+vaccine(it_0061_000585,0,3).
 patient(it_0061_000585,neg).
 
 %patient: it-0061-000586 index:1065
@@ -22427,6 +23492,7 @@ who_f2(it_0061_000586,0).
 who_f3(it_0061_000586,0).
 who_f4(it_0061_000586,0).
 typeofoutcome_updated(it_0061_000586,2).
+vaccine(it_0061_000586,0,3).
 patient(it_0061_000586,neg).
 
 %patient: it-0061-000588 index:1066
@@ -22450,6 +23516,7 @@ who_f2(it_0061_000588,0).
 who_f3(it_0061_000588,0).
 who_f4(it_0061_000588,0).
 typeofoutcome_updated(it_0061_000588,2).
+vaccine(it_0061_000588,0,3).
 patient(it_0061_000588,neg).
 
 %patient: it-0061-000592 index:1067
@@ -22475,6 +23542,7 @@ who_f2(it_0061_000592,0).
 who_f3(it_0061_000592,0).
 who_f4(it_0061_000592,0).
 typeofoutcome_updated(it_0061_000592,2).
+vaccine(it_0061_000592,0,3).
 patient(it_0061_000592,neg).
 
 %patient: it-0061-000593 index:1068
@@ -22498,6 +23566,7 @@ who_f2(it_0061_000593,0).
 who_f3(it_0061_000593,0).
 who_f4(it_0061_000593,0).
 typeofoutcome_updated(it_0061_000593,2).
+vaccine(it_0061_000593,0,3).
 patient(it_0061_000593,neg).
 
 %patient: it-0061-000597 index:1069
@@ -22522,6 +23591,7 @@ who_f2(it_0061_000597,0).
 who_f3(it_0061_000597,0).
 who_f4(it_0061_000597,0).
 typeofoutcome_updated(it_0061_000597,2).
+vaccine(it_0061_000597,0,3).
 patient(it_0061_000597,neg).
 
 %patient: it-0061-000599 index:1070
@@ -22547,6 +23617,7 @@ who_f2(it_0061_000599,0).
 who_f3(it_0061_000599,0).
 who_f4(it_0061_000599,0).
 typeofoutcome_updated(it_0061_000599,2).
+vaccine(it_0061_000599,0,3).
 patient(it_0061_000599,neg).
 
 %patient: it-0061-000600 index:1071
@@ -22572,6 +23643,7 @@ who_f2(it_0061_000600,0).
 who_f3(it_0061_000600,0).
 who_f4(it_0061_000600,0).
 typeofoutcome_updated(it_0061_000600,2).
+vaccine(it_0061_000600,0,3).
 patient(it_0061_000600,neg).
 
 %patient: it-0061-000603 index:1072
@@ -22596,6 +23668,7 @@ who_f2(it_0061_000603,0).
 who_f3(it_0061_000603,0).
 who_f4(it_0061_000603,0).
 typeofoutcome_updated(it_0061_000603,2).
+vaccine(it_0061_000603,0,3).
 patient(it_0061_000603,neg).
 
 %patient: it-0061-000604 index:1073
@@ -22617,6 +23690,7 @@ who_f2(it_0061_000604,0).
 who_f3(it_0061_000604,0).
 who_f4(it_0061_000604,0).
 typeofoutcome_updated(it_0061_000604,2).
+vaccine(it_0061_000604,0,3).
 patient(it_0061_000604,neg).
 
 %patient: it-0061-000606 index:1074
@@ -22639,6 +23713,7 @@ who_f2(it_0061_000606,0).
 who_f3(it_0061_000606,0).
 who_f4(it_0061_000606,0).
 typeofoutcome_updated(it_0061_000606,2).
+vaccine(it_0061_000606,0,2).
 patient(it_0061_000606,neg).
 
 %patient: it-0061-000608 index:1075
@@ -22665,6 +23740,7 @@ who_f2(it_0061_000608,0).
 who_f3(it_0061_000608,0).
 who_f4(it_0061_000608,0).
 typeofoutcome_updated(it_0061_000608,2).
+vaccine(it_0061_000608,0,3).
 patient(it_0061_000608,neg).
 
 %patient: it-0061-000612 index:1076
@@ -22693,6 +23769,7 @@ who_f2(it_0061_000612,0).
 who_f3(it_0061_000612,0).
 who_f4(it_0061_000612,0).
 typeofoutcome_updated(it_0061_000612,2).
+vaccine(it_0061_000612,0,3).
 patient(it_0061_000612,neg).
 
 %patient: it-0061-000617 index:1077
@@ -22723,6 +23800,7 @@ who_f2(it_0061_000617,0).
 who_f3(it_0061_000617,0).
 who_f4(it_0061_000617,0).
 typeofoutcome_updated(it_0061_000617,2).
+vaccine(it_0061_000617,0,3).
 patient(it_0061_000617,neg).
 
 %patient: it-0061-000619 index:1078
@@ -22748,6 +23826,7 @@ who_f2(it_0061_000619,0).
 who_f3(it_0061_000619,0).
 who_f4(it_0061_000619,0).
 typeofoutcome_updated(it_0061_000619,2).
+vaccine(it_0061_000619,0,3).
 patient(it_0061_000619,neg).
 
 %patient: it-0061-000622 index:1079
@@ -22777,6 +23856,7 @@ who_f2(it_0061_000622,0).
 who_f3(it_0061_000622,0).
 who_f4(it_0061_000622,0).
 typeofoutcome_updated(it_0061_000622,2).
+vaccine(it_0061_000622,0,3).
 patient(it_0061_000622,neg).
 
 %patient: it-0061-000626 index:1080
@@ -22800,6 +23880,7 @@ who_f2(it_0061_000626,0).
 who_f3(it_0061_000626,0).
 who_f4(it_0061_000626,0).
 typeofoutcome_updated(it_0061_000626,2).
+vaccine(it_0061_000626,0,3).
 patient(it_0061_000626,neg).
 
 %patient: it-0061-000627 index:1081
@@ -22823,6 +23904,7 @@ who_f2(it_0061_000627,0).
 who_f3(it_0061_000627,0).
 who_f4(it_0061_000627,0).
 typeofoutcome_updated(it_0061_000627,2).
+vaccine(it_0061_000627,0,3).
 patient(it_0061_000627,neg).
 
 %patient: it-0061-000628 index:1082
@@ -22846,6 +23928,7 @@ who_f2(it_0061_000628,0).
 who_f3(it_0061_000628,0).
 who_f4(it_0061_000628,0).
 typeofoutcome_updated(it_0061_000628,2).
+vaccine(it_0061_000628,0,3).
 patient(it_0061_000628,neg).
 
 %patient: it-0061-000634 index:1083
@@ -22866,6 +23949,7 @@ who_f2(it_0061_000634,0).
 who_f3(it_0061_000634,0).
 who_f4(it_0061_000634,0).
 typeofoutcome_updated(it_0061_000634,2).
+vaccine(it_0061_000634,0,3).
 patient(it_0061_000634,neg).
 
 %patient: it-0061-000639 index:1084
@@ -22890,6 +23974,7 @@ who_f2(it_0061_000639,0).
 who_f3(it_0061_000639,0).
 who_f4(it_0061_000639,0).
 typeofoutcome_updated(it_0061_000639,2).
+vaccine(it_0061_000639,0,3).
 patient(it_0061_000639,neg).
 
 %patient: it-0061-000645 index:1085
@@ -22917,6 +24002,7 @@ who_f2(it_0061_000645,0).
 who_f3(it_0061_000645,0).
 who_f4(it_0061_000645,0).
 typeofoutcome_updated(it_0061_000645,2).
+vaccine(it_0061_000645,0,3).
 patient(it_0061_000645,neg).
 
 %patient: it-0061-000649 index:1086
@@ -22938,6 +24024,7 @@ who_f2(it_0061_000649,0).
 who_f3(it_0061_000649,0).
 who_f4(it_0061_000649,0).
 typeofoutcome_updated(it_0061_000649,2).
+vaccine(it_0061_000649,0,3).
 patient(it_0061_000649,neg).
 
 %patient: it-0061-000650 index:1087
@@ -22966,6 +24053,7 @@ who_f2(it_0061_000650,0).
 who_f3(it_0061_000650,0).
 who_f4(it_0061_000650,0).
 typeofoutcome_updated(it_0061_000650,2).
+vaccine(it_0061_000650,0,3).
 patient(it_0061_000650,neg).
 
 %patient: it-0061-000654 index:1088
@@ -22989,6 +24077,7 @@ who_f2(it_0061_000654,0).
 who_f3(it_0061_000654,0).
 who_f4(it_0061_000654,0).
 typeofoutcome_updated(it_0061_000654,2).
+vaccine(it_0061_000654,0,3).
 patient(it_0061_000654,neg).
 
 %patient: it-0061-000655 index:1089
@@ -23014,6 +24103,7 @@ who_f2(it_0061_000655,0).
 who_f3(it_0061_000655,0).
 who_f4(it_0061_000655,0).
 typeofoutcome_updated(it_0061_000655,2).
+vaccine(it_0061_000655,0,3).
 patient(it_0061_000655,neg).
 
 %patient: it-0061-000656 index:1090
@@ -23038,6 +24128,7 @@ who_f2(it_0061_000656,0).
 who_f3(it_0061_000656,0).
 who_f4(it_0061_000656,0).
 typeofoutcome_updated(it_0061_000656,2).
+vaccine(it_0061_000656,0,3).
 patient(it_0061_000656,neg).
 
 %patient: it-0061-000668 index:1091
@@ -23064,6 +24155,7 @@ who_f2(it_0061_000668,0).
 who_f3(it_0061_000668,0).
 who_f4(it_0061_000668,0).
 typeofoutcome_updated(it_0061_000668,2).
+vaccine(it_0061_000668,0,3).
 patient(it_0061_000668,neg).
 
 %patient: it-0061-000671 index:1092
@@ -23089,6 +24181,7 @@ who_f2(it_0061_000671,0).
 who_f3(it_0061_000671,0).
 who_f4(it_0061_000671,0).
 typeofoutcome_updated(it_0061_000671,2).
+vaccine(it_0061_000671,0,3).
 patient(it_0061_000671,neg).
 
 %patient: it-0061-000673 index:1093
@@ -23114,6 +24207,7 @@ who_f2(it_0061_000673,0).
 who_f3(it_0061_000673,0).
 who_f4(it_0061_000673,0).
 typeofoutcome_updated(it_0061_000673,2).
+vaccine(it_0061_000673,0,3).
 patient(it_0061_000673,neg).
 
 %patient: it-0061-003871 index:1094
@@ -23142,6 +24236,7 @@ who_f2(it_0061_003871,0).
 who_f3(it_0061_003871,0).
 who_f4(it_0061_003871,0).
 typeofoutcome_updated(it_0061_003871,2).
+vaccine(it_0061_003871,0,2).
 patient(it_0061_003871,neg).
 
 %patient: it-0061-003872 index:1095
@@ -23172,6 +24267,7 @@ who_f2(it_0061_003872,0).
 who_f3(it_0061_003872,0).
 who_f4(it_0061_003872,0).
 typeofoutcome_updated(it_0061_003872,2).
+vaccine(it_0061_003872,0,2).
 patient(it_0061_003872,neg).
 
 %patient: it-0061-003873 index:1096
@@ -23203,6 +24299,7 @@ who_f2(it_0061_003873,1).
 who_f3(it_0061_003873,1).
 who_f4(it_0061_003873,1).
 typeofoutcome_updated(it_0061_003873,2).
+vaccine(it_0061_003873,0,2).
 patient(it_0061_003873,neg).
 
 %patient: it-0061-003874 index:1097
@@ -23232,6 +24329,7 @@ who_f2(it_0061_003874,1).
 who_f3(it_0061_003874,1).
 who_f4(it_0061_003874,1).
 typeofoutcome_updated(it_0061_003874,2).
+vaccine(it_0061_003874,0,2).
 patient(it_0061_003874,neg).
 
 %patient: it-0061-003875 index:1098
@@ -23264,6 +24362,7 @@ who_f2(it_0061_003875,1).
 who_f3(it_0061_003875,1).
 who_f4(it_0061_003875,1).
 typeofoutcome_updated(it_0061_003875,2).
+vaccine(it_0061_003875,0,2).
 patient(it_0061_003875,neg).
 
 %patient: it-0061-003876 index:1099
@@ -23291,6 +24390,7 @@ who_f2(it_0061_003876,0).
 who_f3(it_0061_003876,0).
 who_f4(it_0061_003876,0).
 typeofoutcome_updated(it_0061_003876,2).
+vaccine(it_0061_003876,0,3).
 patient(it_0061_003876,neg).
 
 %patient: it-0061-003877 index:1100
@@ -23313,6 +24413,7 @@ who_f2(it_0061_003877,0).
 who_f3(it_0061_003877,0).
 who_f4(it_0061_003877,0).
 typeofoutcome_updated(it_0061_003877,2).
+vaccine(it_0061_003877,0,3).
 patient(it_0061_003877,neg).
 
 %patient: it-0061-003879 index:1101
@@ -23343,6 +24444,7 @@ who_f2(it_0061_003879,1).
 who_f3(it_0061_003879,1).
 who_f4(it_0061_003879,1).
 typeofoutcome_updated(it_0061_003879,2).
+vaccine(it_0061_003879,0,2).
 patient(it_0061_003879,neg).
 
 %patient: it-0061-003880 index:1102
@@ -23375,6 +24477,7 @@ who_f2(it_0061_003880,1).
 who_f3(it_0061_003880,1).
 who_f4(it_0061_003880,1).
 typeofoutcome_updated(it_0061_003880,2).
+vaccine(it_0061_003880,0,2).
 patient(it_0061_003880,neg).
 
 %patient: it-0061-003881 index:1103
@@ -23409,6 +24512,7 @@ who_f2(it_0061_003881,1).
 who_f3(it_0061_003881,1).
 who_f4(it_0061_003881,1).
 typeofoutcome_updated(it_0061_003881,2).
+vaccine(it_0061_003881,0,2).
 patient(it_0061_003881,neg).
 
 %patient: it-0061-003882 index:1104
@@ -23439,6 +24543,7 @@ who_f2(it_0061_003882,1).
 who_f3(it_0061_003882,1).
 who_f4(it_0061_003882,1).
 typeofoutcome_updated(it_0061_003882,2).
+vaccine(it_0061_003882,0,2).
 patient(it_0061_003882,neg).
 
 %patient: it-0061-003885 index:1105
@@ -23465,6 +24570,7 @@ who_f2(it_0061_003885,1).
 who_f3(it_0061_003885,1).
 who_f4(it_0061_003885,1).
 typeofoutcome_updated(it_0061_003885,2).
+vaccine(it_0061_003885,0,2).
 patient(it_0061_003885,neg).
 
 %patient: it-0061-003888 index:1106
@@ -23495,6 +24601,7 @@ who_f2(it_0061_003888,0).
 who_f3(it_0061_003888,0).
 who_f4(it_0061_003888,0).
 typeofoutcome_updated(it_0061_003888,2).
+vaccine(it_0061_003888,0,3).
 patient(it_0061_003888,neg).
 
 %patient: it-0061-003889 index:1107
@@ -23529,6 +24636,7 @@ who_f2(it_0061_003889,0).
 who_f3(it_0061_003889,0).
 who_f4(it_0061_003889,0).
 typeofoutcome_updated(it_0061_003889,2).
+vaccine(it_0061_003889,0,3).
 patient(it_0061_003889,neg).
 
 %patient: it-0061-003890 index:1108
@@ -23560,6 +24668,7 @@ who_f2(it_0061_003890,0).
 who_f3(it_0061_003890,0).
 who_f4(it_0061_003890,0).
 typeofoutcome_updated(it_0061_003890,2).
+vaccine(it_0061_003890,0,3).
 patient(it_0061_003890,neg).
 
 %patient: it-0061-003936 index:1109
@@ -23580,6 +24689,7 @@ who_f2(it_0061_003936,1).
 who_f3(it_0061_003936,1).
 who_f4(it_0061_003936,1).
 typeofoutcome_updated(it_0061_003936,2).
+vaccine(it_0061_003936,0,2).
 patient(it_0061_003936,neg).
 
 %patient: it-0061-003937 index:1110
@@ -23602,6 +24712,7 @@ who_f2(it_0061_003937,0).
 who_f3(it_0061_003937,0).
 who_f4(it_0061_003937,0).
 typeofoutcome_updated(it_0061_003937,2).
+vaccine(it_0061_003937,0,3).
 patient(it_0061_003937,neg).
 
 %patient: it-0061-003938 index:1111
@@ -23626,6 +24737,7 @@ who_f2(it_0061_003938,1).
 who_f3(it_0061_003938,1).
 who_f4(it_0061_003938,1).
 typeofoutcome_updated(it_0061_003938,2).
+vaccine(it_0061_003938,0,2).
 patient(it_0061_003938,neg).
 
 %patient: it-0061-003939 index:1112
@@ -23650,6 +24762,7 @@ who_f2(it_0061_003939,0).
 who_f3(it_0061_003939,0).
 who_f4(it_0061_003939,0).
 typeofoutcome_updated(it_0061_003939,2).
+vaccine(it_0061_003939,0,3).
 patient(it_0061_003939,neg).
 
 %patient: it-0061-003940 index:1113
@@ -23679,6 +24792,7 @@ who_f2(it_0061_003940,0).
 who_f3(it_0061_003940,0).
 who_f4(it_0061_003940,0).
 typeofoutcome_updated(it_0061_003940,2).
+vaccine(it_0061_003940,0,3).
 patient(it_0061_003940,neg).
 
 %patient: it-0061-003942 index:1114
@@ -23706,6 +24820,7 @@ who_f2(it_0061_003942,1).
 who_f3(it_0061_003942,1).
 who_f4(it_0061_003942,1).
 typeofoutcome_updated(it_0061_003942,2).
+vaccine(it_0061_003942,0,2).
 patient(it_0061_003942,neg).
 
 %patient: it-0061-003943 index:1115
@@ -23736,6 +24851,7 @@ who_f2(it_0061_003943,1).
 who_f3(it_0061_003943,1).
 who_f4(it_0061_003943,1).
 typeofoutcome_updated(it_0061_003943,2).
+vaccine(it_0061_003943,0,2).
 patient(it_0061_003943,neg).
 
 %patient: it-0061-003944 index:1116
@@ -23761,6 +24877,7 @@ who_f2(it_0061_003944,0).
 who_f3(it_0061_003944,0).
 who_f4(it_0061_003944,0).
 typeofoutcome_updated(it_0061_003944,2).
+vaccine(it_0061_003944,0,3).
 patient(it_0061_003944,neg).
 
 %patient: it-0061-003945 index:1117
@@ -23786,6 +24903,7 @@ who_f2(it_0061_003945,0).
 who_f3(it_0061_003945,0).
 who_f4(it_0061_003945,0).
 typeofoutcome_updated(it_0061_003945,2).
+vaccine(it_0061_003945,0,3).
 patient(it_0061_003945,neg).
 
 %patient: it-0061-003946 index:1118
@@ -23808,6 +24926,7 @@ who_f2(it_0061_003946,1).
 who_f3(it_0061_003946,1).
 who_f4(it_0061_003946,1).
 typeofoutcome_updated(it_0061_003946,2).
+vaccine(it_0061_003946,0,2).
 patient(it_0061_003946,neg).
 
 %patient: it-0061-003947 index:1119
@@ -23830,6 +24949,7 @@ who_f2(it_0061_003947,0).
 who_f3(it_0061_003947,0).
 who_f4(it_0061_003947,0).
 typeofoutcome_updated(it_0061_003947,2).
+vaccine(it_0061_003947,0,3).
 patient(it_0061_003947,neg).
 
 %patient: it-0061-003949 index:1120
@@ -23851,6 +24971,7 @@ who_f2(it_0061_003949,0).
 who_f3(it_0061_003949,0).
 who_f4(it_0061_003949,0).
 typeofoutcome_updated(it_0061_003949,2).
+vaccine(it_0061_003949,0,2).
 patient(it_0061_003949,neg).
 
 %patient: it-0061-003950 index:1121
@@ -23873,6 +24994,7 @@ who_f2(it_0061_003950,0).
 who_f3(it_0061_003950,1).
 who_f4(it_0061_003950,1).
 typeofoutcome_updated(it_0061_003950,2).
+vaccine(it_0061_003950,0,2).
 patient(it_0061_003950,neg).
 
 %patient: it-0061-003952 index:1122
@@ -23897,6 +25019,7 @@ who_f2(it_0061_003952,0).
 who_f3(it_0061_003952,0).
 who_f4(it_0061_003952,0).
 typeofoutcome_updated(it_0061_003952,2).
+vaccine(it_0061_003952,0,3).
 patient(it_0061_003952,neg).
 
 %patient: it-0061-003953 index:1123
@@ -23919,6 +25042,7 @@ who_f2(it_0061_003953,0).
 who_f3(it_0061_003953,0).
 who_f4(it_0061_003953,0).
 typeofoutcome_updated(it_0061_003953,2).
+vaccine(it_0061_003953,0,3).
 patient(it_0061_003953,neg).
 
 %patient: it-0061-003955 index:1124
@@ -23943,6 +25067,7 @@ who_f2(it_0061_003955,0).
 who_f3(it_0061_003955,0).
 who_f4(it_0061_003955,0).
 typeofoutcome_updated(it_0061_003955,2).
+vaccine(it_0061_003955,0,3).
 patient(it_0061_003955,neg).
 
 %patient: it-0061-003956 index:1125
@@ -23972,6 +25097,7 @@ who_f2(it_0061_003956,0).
 who_f3(it_0061_003956,0).
 who_f4(it_0061_003956,0).
 typeofoutcome_updated(it_0061_003956,2).
+vaccine(it_0061_003956,0,3).
 patient(it_0061_003956,neg).
 
 %patient: it-0061-003957 index:1126
@@ -23994,6 +25120,7 @@ who_f2(it_0061_003957,1).
 who_f3(it_0061_003957,1).
 who_f4(it_0061_003957,1).
 typeofoutcome_updated(it_0061_003957,2).
+vaccine(it_0061_003957,0,2).
 patient(it_0061_003957,neg).
 
 %patient: it-0061-003958 index:1127
@@ -24015,6 +25142,7 @@ who_f2(it_0061_003958,0).
 who_f3(it_0061_003958,0).
 who_f4(it_0061_003958,0).
 typeofoutcome_updated(it_0061_003958,2).
+vaccine(it_0061_003958,0,2).
 patient(it_0061_003958,neg).
 
 %patient: it-0061-003959 index:1128
@@ -24039,6 +25167,7 @@ who_f2(it_0061_003959,0).
 who_f3(it_0061_003959,0).
 who_f4(it_0061_003959,0).
 typeofoutcome_updated(it_0061_003959,2).
+vaccine(it_0061_003959,0,3).
 patient(it_0061_003959,neg).
 
 %patient: it-0061-003960 index:1129
@@ -24061,6 +25190,7 @@ who_f2(it_0061_003960,0).
 who_f3(it_0061_003960,0).
 who_f4(it_0061_003960,0).
 typeofoutcome_updated(it_0061_003960,2).
+vaccine(it_0061_003960,0,3).
 patient(it_0061_003960,neg).
 
 %patient: it-0061-003961 index:1130
@@ -24082,6 +25212,7 @@ who_f2(it_0061_003961,0).
 who_f3(it_0061_003961,0).
 who_f4(it_0061_003961,0).
 typeofoutcome_updated(it_0061_003961,2).
+vaccine(it_0061_003961,0,3).
 patient(it_0061_003961,neg).
 
 %patient: it-0061-003962 index:1131
@@ -24107,6 +25238,7 @@ who_f2(it_0061_003962,0).
 who_f3(it_0061_003962,0).
 who_f4(it_0061_003962,0).
 typeofoutcome_updated(it_0061_003962,2).
+vaccine(it_0061_003962,0,3).
 patient(it_0061_003962,neg).
 
 %patient: it-0061-003964 index:1132
@@ -24128,6 +25260,7 @@ who_f2(it_0061_003964,0).
 who_f3(it_0061_003964,0).
 who_f4(it_0061_003964,0).
 typeofoutcome_updated(it_0061_003964,2).
+vaccine(it_0061_003964,0,3).
 patient(it_0061_003964,neg).
 
 %patient: it-0061-003965 index:1133
@@ -24151,6 +25284,7 @@ who_f2(it_0061_003965,0).
 who_f3(it_0061_003965,0).
 who_f4(it_0061_003965,0).
 typeofoutcome_updated(it_0061_003965,2).
+vaccine(it_0061_003965,0,3).
 patient(it_0061_003965,neg).
 
 %patient: it-0061-003966 index:1134
@@ -24173,6 +25307,7 @@ who_f2(it_0061_003966,0).
 who_f3(it_0061_003966,0).
 who_f4(it_0061_003966,0).
 typeofoutcome_updated(it_0061_003966,2).
+vaccine(it_0061_003966,0,3).
 patient(it_0061_003966,neg).
 
 %patient: it-0061-003967 index:1135
@@ -24200,6 +25335,7 @@ who_f2(it_0061_003967,0).
 who_f3(it_0061_003967,0).
 who_f4(it_0061_003967,0).
 typeofoutcome_updated(it_0061_003967,2).
+vaccine(it_0061_003967,0,3).
 patient(it_0061_003967,neg).
 
 %patient: it-0061-003968 index:1136
@@ -24224,6 +25360,7 @@ who_f2(it_0061_003968,0).
 who_f3(it_0061_003968,0).
 who_f4(it_0061_003968,0).
 typeofoutcome_updated(it_0061_003968,2).
+vaccine(it_0061_003968,0,3).
 patient(it_0061_003968,neg).
 
 %patient: it-0061-003969 index:1137
@@ -24241,6 +25378,7 @@ who_f2(it_0061_003969,1).
 who_f3(it_0061_003969,1).
 who_f4(it_0061_003969,1).
 typeofoutcome_updated(it_0061_003969,2).
+vaccine(it_0061_003969,0,2).
 patient(it_0061_003969,neg).
 
 %patient: it-0061-003970 index:1138
@@ -24264,6 +25402,7 @@ who_f2(it_0061_003970,0).
 who_f3(it_0061_003970,0).
 who_f4(it_0061_003970,0).
 typeofoutcome_updated(it_0061_003970,2).
+vaccine(it_0061_003970,0,3).
 patient(it_0061_003970,neg).
 
 %patient: it-0061-003971 index:1139
@@ -24289,6 +25428,7 @@ who_f2(it_0061_003971,0).
 who_f3(it_0061_003971,0).
 who_f4(it_0061_003971,0).
 typeofoutcome_updated(it_0061_003971,2).
+vaccine(it_0061_003971,0,3).
 patient(it_0061_003971,neg).
 
 %patient: it-0061-003993 index:1140
@@ -24312,6 +25452,7 @@ who_f2(it_0061_003993,0).
 who_f3(it_0061_003993,0).
 who_f4(it_0061_003993,0).
 typeofoutcome_updated(it_0061_003993,2).
+vaccine(it_0061_003993,0,3).
 patient(it_0061_003993,neg).
 
 %patient: it-0061-003994 index:1141
@@ -24336,6 +25477,7 @@ who_f2(it_0061_003994,1).
 who_f3(it_0061_003994,1).
 who_f4(it_0061_003994,1).
 typeofoutcome_updated(it_0061_003994,2).
+vaccine(it_0061_003994,0,2).
 patient(it_0061_003994,neg).
 
 %patient: it-0061-003995 index:1142
@@ -24360,6 +25502,7 @@ who_f2(it_0061_003995,0).
 who_f3(it_0061_003995,0).
 who_f4(it_0061_003995,0).
 typeofoutcome_updated(it_0061_003995,2).
+vaccine(it_0061_003995,0,3).
 patient(it_0061_003995,neg).
 
 %patient: it-0061-003998 index:1143
@@ -24387,6 +25530,7 @@ who_f2(it_0061_003998,0).
 who_f3(it_0061_003998,0).
 who_f4(it_0061_003998,0).
 typeofoutcome_updated(it_0061_003998,2).
+vaccine(it_0061_003998,0,3).
 patient(it_0061_003998,neg).
 
 %patient: it-0061-003999 index:1144
@@ -24410,6 +25554,7 @@ who_f2(it_0061_003999,0).
 who_f3(it_0061_003999,0).
 who_f4(it_0061_003999,0).
 typeofoutcome_updated(it_0061_003999,2).
+vaccine(it_0061_003999,0,3).
 patient(it_0061_003999,neg).
 
 %patient: it-0061-004003 index:1145
@@ -24432,6 +25577,7 @@ who_f2(it_0061_004003,0).
 who_f3(it_0061_004003,0).
 who_f4(it_0061_004003,0).
 typeofoutcome_updated(it_0061_004003,2).
+vaccine(it_0061_004003,0,3).
 patient(it_0061_004003,neg).
 
 %patient: it-0061-004005 index:1146
@@ -24456,6 +25602,7 @@ who_f2(it_0061_004005,0).
 who_f3(it_0061_004005,0).
 who_f4(it_0061_004005,0).
 typeofoutcome_updated(it_0061_004005,2).
+vaccine(it_0061_004005,0,3).
 patient(it_0061_004005,neg).
 
 %patient: it-0061-004006 index:1147
@@ -24478,6 +25625,7 @@ who_f2(it_0061_004006,1).
 who_f3(it_0061_004006,1).
 who_f4(it_0061_004006,1).
 typeofoutcome_updated(it_0061_004006,2).
+vaccine(it_0061_004006,0,2).
 patient(it_0061_004006,neg).
 
 %patient: it-0061-004007 index:1148
@@ -24502,6 +25650,7 @@ who_f2(it_0061_004007,1).
 who_f3(it_0061_004007,1).
 who_f4(it_0061_004007,1).
 typeofoutcome_updated(it_0061_004007,2).
+vaccine(it_0061_004007,0,2).
 patient(it_0061_004007,neg).
 
 %patient: it-0061-004010 index:1149
@@ -24529,6 +25678,7 @@ who_f2(it_0061_004010,0).
 who_f3(it_0061_004010,0).
 who_f4(it_0061_004010,0).
 typeofoutcome_updated(it_0061_004010,2).
+vaccine(it_0061_004010,0,3).
 patient(it_0061_004010,neg).
 
 %patient: it-0061-004011 index:1150
@@ -24551,6 +25701,7 @@ who_f2(it_0061_004011,0).
 who_f3(it_0061_004011,0).
 who_f4(it_0061_004011,0).
 typeofoutcome_updated(it_0061_004011,2).
+vaccine(it_0061_004011,0,3).
 patient(it_0061_004011,neg).
 
 %patient: it-0061-004012 index:1151
@@ -24577,6 +25728,7 @@ who_f2(it_0061_004012,0).
 who_f3(it_0061_004012,0).
 who_f4(it_0061_004012,0).
 typeofoutcome_updated(it_0061_004012,2).
+vaccine(it_0061_004012,0,3).
 patient(it_0061_004012,neg).
 
 %patient: it-0061-004014 index:1152
@@ -24600,6 +25752,7 @@ who_f2(it_0061_004014,1).
 who_f3(it_0061_004014,1).
 who_f4(it_0061_004014,1).
 typeofoutcome_updated(it_0061_004014,2).
+vaccine(it_0061_004014,0,2).
 patient(it_0061_004014,neg).
 
 %patient: it-0061-004019 index:1153
@@ -24627,6 +25780,7 @@ who_f2(it_0061_004019,1).
 who_f3(it_0061_004019,1).
 who_f4(it_0061_004019,1).
 typeofoutcome_updated(it_0061_004019,2).
+vaccine(it_0061_004019,0,2).
 patient(it_0061_004019,neg).
 
 %patient: it-0061-004022 index:1154
@@ -24650,6 +25804,7 @@ who_f2(it_0061_004022,1).
 who_f3(it_0061_004022,1).
 who_f4(it_0061_004022,1).
 typeofoutcome_updated(it_0061_004022,2).
+vaccine(it_0061_004022,0,2).
 patient(it_0061_004022,neg).
 
 %patient: it-0061-004024 index:1155
@@ -24675,6 +25830,7 @@ who_f2(it_0061_004024,0).
 who_f3(it_0061_004024,0).
 who_f4(it_0061_004024,0).
 typeofoutcome_updated(it_0061_004024,2).
+vaccine(it_0061_004024,0,3).
 patient(it_0061_004024,neg).
 
 %patient: it-0061-004025 index:1156
@@ -24698,6 +25854,7 @@ who_f2(it_0061_004025,0).
 who_f3(it_0061_004025,0).
 who_f4(it_0061_004025,0).
 typeofoutcome_updated(it_0061_004025,2).
+vaccine(it_0061_004025,0,3).
 patient(it_0061_004025,neg).
 
 %patient: it-0061-004026 index:1157
@@ -24722,6 +25879,7 @@ who_f2(it_0061_004026,0).
 who_f3(it_0061_004026,0).
 who_f4(it_0061_004026,0).
 typeofoutcome_updated(it_0061_004026,2).
+vaccine(it_0061_004026,0,3).
 patient(it_0061_004026,neg).
 
 %patient: it-0061-004027 index:1158
@@ -24746,6 +25904,7 @@ who_f2(it_0061_004027,0).
 who_f3(it_0061_004027,0).
 who_f4(it_0061_004027,0).
 typeofoutcome_updated(it_0061_004027,2).
+vaccine(it_0061_004027,0,3).
 patient(it_0061_004027,neg).
 
 %patient: it-0061-004030 index:1159
@@ -24771,6 +25930,7 @@ who_f2(it_0061_004030,0).
 who_f3(it_0061_004030,0).
 who_f4(it_0061_004030,0).
 typeofoutcome_updated(it_0061_004030,2).
+vaccine(it_0061_004030,0,3).
 patient(it_0061_004030,neg).
 
 %patient: it-0061-004031 index:1160
@@ -24795,6 +25955,7 @@ who_f2(it_0061_004031,0).
 who_f3(it_0061_004031,0).
 who_f4(it_0061_004031,0).
 typeofoutcome_updated(it_0061_004031,2).
+vaccine(it_0061_004031,0,3).
 patient(it_0061_004031,neg).
 
 %patient: it-0061-004032 index:1161
@@ -24818,6 +25979,7 @@ who_f2(it_0061_004032,0).
 who_f3(it_0061_004032,0).
 who_f4(it_0061_004032,0).
 typeofoutcome_updated(it_0061_004032,2).
+vaccine(it_0061_004032,0,3).
 patient(it_0061_004032,neg).
 
 %patient: it-0061-004033 index:1162
@@ -24842,6 +26004,7 @@ who_f2(it_0061_004033,0).
 who_f3(it_0061_004033,0).
 who_f4(it_0061_004033,0).
 typeofoutcome_updated(it_0061_004033,2).
+vaccine(it_0061_004033,0,3).
 patient(it_0061_004033,neg).
 
 %patient: it-0061-004034 index:1163
@@ -24866,6 +26029,7 @@ who_f2(it_0061_004034,0).
 who_f3(it_0061_004034,0).
 who_f4(it_0061_004034,0).
 typeofoutcome_updated(it_0061_004034,2).
+vaccine(it_0061_004034,0,3).
 patient(it_0061_004034,neg).
 
 %patient: it-0061-004037 index:1164
@@ -24890,6 +26054,7 @@ who_f2(it_0061_004037,0).
 who_f3(it_0061_004037,0).
 who_f4(it_0061_004037,0).
 typeofoutcome_updated(it_0061_004037,2).
+vaccine(it_0061_004037,0,3).
 patient(it_0061_004037,neg).
 
 %patient: it-0061-004040 index:1165
@@ -24920,6 +26085,7 @@ who_f2(it_0061_004040,1).
 who_f3(it_0061_004040,1).
 who_f4(it_0061_004040,1).
 typeofoutcome_updated(it_0061_004040,2).
+vaccine(it_0061_004040,0,2).
 patient(it_0061_004040,neg).
 
 %patient: it-0061-004041 index:1166
@@ -24941,6 +26107,7 @@ who_f2(it_0061_004041,0).
 who_f3(it_0061_004041,0).
 who_f4(it_0061_004041,0).
 typeofoutcome_updated(it_0061_004041,2).
+vaccine(it_0061_004041,0,3).
 patient(it_0061_004041,neg).
 
 %patient: it-0061-004042 index:1167
@@ -24967,6 +26134,7 @@ who_f2(it_0061_004042,0).
 who_f3(it_0061_004042,0).
 who_f4(it_0061_004042,0).
 typeofoutcome_updated(it_0061_004042,2).
+vaccine(it_0061_004042,0,3).
 patient(it_0061_004042,neg).
 
 %patient: it-0061-004043 index:1168
@@ -24987,6 +26155,7 @@ who_f2(it_0061_004043,0).
 who_f3(it_0061_004043,0).
 who_f4(it_0061_004043,0).
 typeofoutcome_updated(it_0061_004043,2).
+vaccine(it_0061_004043,0,3).
 patient(it_0061_004043,neg).
 
 %patient: it-0061-004045 index:1169
@@ -25006,6 +26175,7 @@ who_f2(it_0061_004045,0).
 who_f3(it_0061_004045,0).
 who_f4(it_0061_004045,0).
 typeofoutcome_updated(it_0061_004045,2).
+vaccine(it_0061_004045,0,3).
 patient(it_0061_004045,neg).
 
 %patient: it-0061-004092 index:1170
@@ -25027,6 +26197,7 @@ who_f2(it_0061_004092,1).
 who_f3(it_0061_004092,1).
 who_f4(it_0061_004092,1).
 typeofoutcome_updated(it_0061_004092,2).
+vaccine(it_0061_004092,0,2).
 patient(it_0061_004092,neg).
 
 %patient: it-0061-004093 index:1171
@@ -25049,6 +26220,7 @@ who_f2(it_0061_004093,0).
 who_f3(it_0061_004093,0).
 who_f4(it_0061_004093,0).
 typeofoutcome_updated(it_0061_004093,2).
+vaccine(it_0061_004093,0,3).
 patient(it_0061_004093,neg).
 
 %patient: it-0061-004095 index:1172
@@ -25070,6 +26242,7 @@ who_f2(it_0061_004095,0).
 who_f3(it_0061_004095,0).
 who_f4(it_0061_004095,0).
 typeofoutcome_updated(it_0061_004095,2).
+vaccine(it_0061_004095,0,3).
 patient(it_0061_004095,neg).
 
 %patient: it-0061-004096 index:1173
@@ -25093,6 +26266,7 @@ who_f2(it_0061_004096,0).
 who_f3(it_0061_004096,0).
 who_f4(it_0061_004096,0).
 typeofoutcome_updated(it_0061_004096,2).
+vaccine(it_0061_004096,0,3).
 patient(it_0061_004096,neg).
 
 %patient: it-0061-004097 index:1174
@@ -25114,6 +26288,7 @@ who_f2(it_0061_004097,0).
 who_f3(it_0061_004097,0).
 who_f4(it_0061_004097,0).
 typeofoutcome_updated(it_0061_004097,2).
+vaccine(it_0061_004097,0,3).
 patient(it_0061_004097,neg).
 
 %patient: it-0061-004098 index:1175
@@ -25137,6 +26312,7 @@ who_f2(it_0061_004098,0).
 who_f3(it_0061_004098,0).
 who_f4(it_0061_004098,0).
 typeofoutcome_updated(it_0061_004098,2).
+vaccine(it_0061_004098,0,2).
 patient(it_0061_004098,neg).
 
 %patient: it-0061-004099 index:1176
@@ -25164,6 +26340,7 @@ who_f2(it_0061_004099,0).
 who_f3(it_0061_004099,0).
 who_f4(it_0061_004099,0).
 typeofoutcome_updated(it_0061_004099,2).
+vaccine(it_0061_004099,0,3).
 patient(it_0061_004099,neg).
 
 %patient: it-0061-004100 index:1177
@@ -25185,6 +26362,7 @@ who_f2(it_0061_004100,0).
 who_f3(it_0061_004100,0).
 who_f4(it_0061_004100,0).
 typeofoutcome_updated(it_0061_004100,2).
+vaccine(it_0061_004100,0,3).
 patient(it_0061_004100,neg).
 
 %patient: it-0061-004102 index:1178
@@ -25211,6 +26389,7 @@ who_f2(it_0061_004102,0).
 who_f3(it_0061_004102,0).
 who_f4(it_0061_004102,0).
 typeofoutcome_updated(it_0061_004102,2).
+vaccine(it_0061_004102,0,3).
 patient(it_0061_004102,neg).
 
 %patient: it-0061-004107 index:1179
@@ -25233,6 +26412,7 @@ who_f2(it_0061_004107,0).
 who_f3(it_0061_004107,0).
 who_f4(it_0061_004107,0).
 typeofoutcome_updated(it_0061_004107,2).
+vaccine(it_0061_004107,0,3).
 patient(it_0061_004107,neg).
 
 %patient: it-0061-004109 index:1180
@@ -25261,6 +26441,7 @@ who_f2(it_0061_004109,0).
 who_f3(it_0061_004109,0).
 who_f4(it_0061_004109,0).
 typeofoutcome_updated(it_0061_004109,2).
+vaccine(it_0061_004109,0,3).
 patient(it_0061_004109,neg).
 
 %patient: it-0061-004110 index:1181
@@ -25287,6 +26468,7 @@ who_f2(it_0061_004110,0).
 who_f3(it_0061_004110,0).
 who_f4(it_0061_004110,0).
 typeofoutcome_updated(it_0061_004110,2).
+vaccine(it_0061_004110,0,3).
 patient(it_0061_004110,neg).
 
 %patient: it-0061-004112 index:1182
@@ -25312,6 +26494,7 @@ who_f2(it_0061_004112,1).
 who_f3(it_0061_004112,1).
 who_f4(it_0061_004112,1).
 typeofoutcome_updated(it_0061_004112,2).
+vaccine(it_0061_004112,0,2).
 patient(it_0061_004112,neg).
 
 %patient: it-0061-004113 index:1183
@@ -25339,6 +26522,7 @@ who_f2(it_0061_004113,0).
 who_f3(it_0061_004113,0).
 who_f4(it_0061_004113,0).
 typeofoutcome_updated(it_0061_004113,2).
+vaccine(it_0061_004113,0,3).
 patient(it_0061_004113,neg).
 
 %patient: it-0061-004114 index:1184
@@ -25361,6 +26545,7 @@ who_f2(it_0061_004114,0).
 who_f3(it_0061_004114,0).
 who_f4(it_0061_004114,0).
 typeofoutcome_updated(it_0061_004114,2).
+vaccine(it_0061_004114,0,3).
 patient(it_0061_004114,neg).
 
 %patient: it-0061-004115 index:1185
@@ -25385,6 +26570,7 @@ who_f2(it_0061_004115,0).
 who_f3(it_0061_004115,0).
 who_f4(it_0061_004115,0).
 typeofoutcome_updated(it_0061_004115,2).
+vaccine(it_0061_004115,0,3).
 patient(it_0061_004115,neg).
 
 %patient: it-0061-004116 index:1186
@@ -25405,6 +26591,7 @@ who_f2(it_0061_004116,0).
 who_f3(it_0061_004116,0).
 who_f4(it_0061_004116,0).
 typeofoutcome_updated(it_0061_004116,2).
+vaccine(it_0061_004116,0,3).
 patient(it_0061_004116,neg).
 
 %patient: it-0061-004117 index:1187
@@ -25428,6 +26615,7 @@ who_f2(it_0061_004117,0).
 who_f3(it_0061_004117,1).
 who_f4(it_0061_004117,1).
 typeofoutcome_updated(it_0061_004117,2).
+vaccine(it_0061_004117,0,2).
 patient(it_0061_004117,neg).
 
 %patient: it-0061-004119 index:1188
@@ -25453,6 +26641,7 @@ who_f2(it_0061_004119,0).
 who_f3(it_0061_004119,0).
 who_f4(it_0061_004119,0).
 typeofoutcome_updated(it_0061_004119,2).
+vaccine(it_0061_004119,0,3).
 patient(it_0061_004119,neg).
 
 %patient: it-0061-004120 index:1189
@@ -25477,6 +26666,7 @@ who_f2(it_0061_004120,1).
 who_f3(it_0061_004120,1).
 who_f4(it_0061_004120,1).
 typeofoutcome_updated(it_0061_004120,2).
+vaccine(it_0061_004120,0,2).
 patient(it_0061_004120,neg).
 
 %patient: it-0061-004121 index:1190
@@ -25500,6 +26690,7 @@ who_f2(it_0061_004121,1).
 who_f3(it_0061_004121,1).
 who_f4(it_0061_004121,1).
 typeofoutcome_updated(it_0061_004121,2).
+vaccine(it_0061_004121,0,2).
 patient(it_0061_004121,neg).
 
 %patient: it-0061-004122 index:1191
@@ -25520,6 +26711,7 @@ who_f2(it_0061_004122,0).
 who_f3(it_0061_004122,0).
 who_f4(it_0061_004122,0).
 typeofoutcome_updated(it_0061_004122,2).
+vaccine(it_0061_004122,0,3).
 patient(it_0061_004122,neg).
 
 %patient: it-0061-004126 index:1192
@@ -25539,6 +26731,7 @@ who_f2(it_0061_004126,0).
 who_f3(it_0061_004126,0).
 who_f4(it_0061_004126,0).
 typeofoutcome_updated(it_0061_004126,2).
+vaccine(it_0061_004126,1,1).
 patient(it_0061_004126,neg).
 
 %patient: it-0061-004127 index:1193
@@ -25562,6 +26755,7 @@ who_f2(it_0061_004127,1).
 who_f3(it_0061_004127,1).
 who_f4(it_0061_004127,1).
 typeofoutcome_updated(it_0061_004127,2).
+vaccine(it_0061_004127,0,2).
 patient(it_0061_004127,neg).
 
 %patient: it-0061-004128 index:1194
@@ -25585,6 +26779,7 @@ who_f2(it_0061_004128,1).
 who_f3(it_0061_004128,1).
 who_f4(it_0061_004128,1).
 typeofoutcome_updated(it_0061_004128,2).
+vaccine(it_0061_004128,0,2).
 patient(it_0061_004128,neg).
 
 %patient: it-0061-004150 index:1195
@@ -25605,6 +26800,7 @@ who_f2(it_0061_004150,0).
 who_f3(it_0061_004150,0).
 who_f4(it_0061_004150,0).
 typeofoutcome_updated(it_0061_004150,2).
+vaccine(it_0061_004150,0,2).
 patient(it_0061_004150,neg).
 
 %patient: it-0061-004151 index:1196
@@ -25631,6 +26827,7 @@ who_f2(it_0061_004151,0).
 who_f3(it_0061_004151,0).
 who_f4(it_0061_004151,0).
 typeofoutcome_updated(it_0061_004151,2).
+vaccine(it_0061_004151,0,2).
 patient(it_0061_004151,neg).
 
 %patient: it-0061-004154 index:1197
@@ -25661,6 +26858,7 @@ who_f2(it_0061_004154,0).
 who_f3(it_0061_004154,0).
 who_f4(it_0061_004154,0).
 typeofoutcome_updated(it_0061_004154,2).
+vaccine(it_0061_004154,0,2).
 patient(it_0061_004154,neg).
 
 %patient: it-0061-004227 index:1198
@@ -25678,6 +26876,7 @@ who_f2(it_0061_004227,0).
 who_f3(it_0061_004227,0).
 who_f4(it_0061_004227,0).
 typeofoutcome_updated(it_0061_004227,2).
+vaccine(it_0061_004227,0,3).
 patient(it_0061_004227,neg).
 
 %patient: it-0061-004284 index:1199
@@ -25699,6 +26898,7 @@ who_f2(it_0061_004284,0).
 who_f3(it_0061_004284,0).
 who_f4(it_0061_004284,0).
 typeofoutcome_updated(it_0061_004284,2).
+vaccine(it_0061_004284,0,3).
 patient(it_0061_004284,neg).
 
 %patient: it-0061-004286 index:1200
@@ -25719,6 +26919,7 @@ who_f2(it_0061_004286,0).
 who_f3(it_0061_004286,0).
 who_f4(it_0061_004286,0).
 typeofoutcome_updated(it_0061_004286,2).
+vaccine(it_0061_004286,0,3).
 patient(it_0061_004286,neg).
 
 %patient: it-0061-004288 index:1201
@@ -25738,6 +26939,7 @@ who_f2(it_0061_004288,0).
 who_f3(it_0061_004288,0).
 who_f4(it_0061_004288,0).
 typeofoutcome_updated(it_0061_004288,2).
+vaccine(it_0061_004288,0,3).
 patient(it_0061_004288,neg).
 
 %patient: it-0061-004289 index:1202
@@ -25755,6 +26957,7 @@ who_f2(it_0061_004289,0).
 who_f3(it_0061_004289,0).
 who_f4(it_0061_004289,0).
 typeofoutcome_updated(it_0061_004289,2).
+vaccine(it_0061_004289,0,3).
 patient(it_0061_004289,neg).
 
 %patient: it-0061-004291 index:1203
@@ -25773,6 +26976,7 @@ who_f2(it_0061_004291,0).
 who_f3(it_0061_004291,0).
 who_f4(it_0061_004291,0).
 typeofoutcome_updated(it_0061_004291,2).
+vaccine(it_0061_004291,0,3).
 patient(it_0061_004291,neg).
 
 %patient: it-0061-004292 index:1204
@@ -25790,6 +26994,7 @@ who_f2(it_0061_004292,0).
 who_f3(it_0061_004292,0).
 who_f4(it_0061_004292,0).
 typeofoutcome_updated(it_0061_004292,2).
+vaccine(it_0061_004292,0,3).
 patient(it_0061_004292,neg).
 
 %patient: it-0061-004293 index:1205
@@ -25811,6 +27016,7 @@ who_f2(it_0061_004293,0).
 who_f3(it_0061_004293,0).
 who_f4(it_0061_004293,0).
 typeofoutcome_updated(it_0061_004293,2).
+vaccine(it_0061_004293,0,3).
 patient(it_0061_004293,neg).
 
 %patient: it-0061-004294 index:1206
@@ -25832,6 +27038,7 @@ who_f2(it_0061_004294,0).
 who_f3(it_0061_004294,0).
 who_f4(it_0061_004294,0).
 typeofoutcome_updated(it_0061_004294,2).
+vaccine(it_0061_004294,0,3).
 patient(it_0061_004294,neg).
 
 %patient: it-0061-004295 index:1207
@@ -25850,6 +27057,7 @@ who_f2(it_0061_004295,0).
 who_f3(it_0061_004295,0).
 who_f4(it_0061_004295,0).
 typeofoutcome_updated(it_0061_004295,2).
+vaccine(it_0061_004295,0,3).
 patient(it_0061_004295,neg).
 
 %patient: it-0061-004398 index:1208
@@ -25873,6 +27081,7 @@ who_f2(it_0061_004398,0).
 who_f3(it_0061_004398,1).
 who_f4(it_0061_004398,1).
 typeofoutcome_updated(it_0061_004398,2).
+vaccine(it_0061_004398,0,2).
 patient(it_0061_004398,neg).
 
 %patient: it-0061-004399 index:1209
@@ -25898,6 +27107,7 @@ who_f2(it_0061_004399,0).
 who_f3(it_0061_004399,1).
 who_f4(it_0061_004399,1).
 typeofoutcome_updated(it_0061_004399,2).
+vaccine(it_0061_004399,0,2).
 patient(it_0061_004399,neg).
 
 %patient: it-0061-004400 index:1210
@@ -25921,6 +27131,7 @@ who_f2(it_0061_004400,0).
 who_f3(it_0061_004400,1).
 who_f4(it_0061_004400,1).
 typeofoutcome_updated(it_0061_004400,2).
+vaccine(it_0061_004400,0,2).
 patient(it_0061_004400,neg).
 
 %patient: it-0061-004401 index:1211
@@ -25945,6 +27156,7 @@ who_f2(it_0061_004401,0).
 who_f3(it_0061_004401,1).
 who_f4(it_0061_004401,1).
 typeofoutcome_updated(it_0061_004401,2).
+vaccine(it_0061_004401,0,2).
 patient(it_0061_004401,neg).
 
 %patient: it-0061-004402 index:1212
@@ -25971,6 +27183,7 @@ who_f2(it_0061_004402,0).
 who_f3(it_0061_004402,0).
 who_f4(it_0061_004402,0).
 typeofoutcome_updated(it_0061_004402,2).
+vaccine(it_0061_004402,0,3).
 patient(it_0061_004402,neg).
 
 %patient: it-0061-004403 index:1213
@@ -25997,6 +27210,7 @@ who_f2(it_0061_004403,0).
 who_f3(it_0061_004403,0).
 who_f4(it_0061_004403,0).
 typeofoutcome_updated(it_0061_004403,2).
+vaccine(it_0061_004403,0,3).
 patient(it_0061_004403,neg).
 
 %patient: it-0061-004404 index:1214
@@ -26021,6 +27235,7 @@ who_f2(it_0061_004404,0).
 who_f3(it_0061_004404,0).
 who_f4(it_0061_004404,0).
 typeofoutcome_updated(it_0061_004404,2).
+vaccine(it_0061_004404,0,3).
 patient(it_0061_004404,neg).
 
 %patient: it-0061-004406 index:1215
@@ -26043,6 +27258,7 @@ who_f2(it_0061_004406,0).
 who_f3(it_0061_004406,1).
 who_f4(it_0061_004406,1).
 typeofoutcome_updated(it_0061_004406,2).
+vaccine(it_0061_004406,0,2).
 patient(it_0061_004406,neg).
 
 %patient: it-0061-004409 index:1216
@@ -26065,6 +27281,7 @@ who_f2(it_0061_004409,0).
 who_f3(it_0061_004409,0).
 who_f4(it_0061_004409,0).
 typeofoutcome_updated(it_0061_004409,2).
+vaccine(it_0061_004409,0,2).
 patient(it_0061_004409,neg).
 
 %patient: it-0061-004410 index:1217
@@ -26091,6 +27308,7 @@ who_f2(it_0061_004410,0).
 who_f3(it_0061_004410,1).
 who_f4(it_0061_004410,1).
 typeofoutcome_updated(it_0061_004410,2).
+vaccine(it_0061_004410,0,2).
 patient(it_0061_004410,neg).
 
 %patient: it-0061-004411 index:1218
@@ -26118,6 +27336,7 @@ who_f2(it_0061_004411,0).
 who_f3(it_0061_004411,1).
 who_f4(it_0061_004411,1).
 typeofoutcome_updated(it_0061_004411,2).
+vaccine(it_0061_004411,0,2).
 patient(it_0061_004411,neg).
 
 %patient: it-0061-004412 index:1219
@@ -26143,6 +27362,7 @@ who_f2(it_0061_004412,0).
 who_f3(it_0061_004412,1).
 who_f4(it_0061_004412,1).
 typeofoutcome_updated(it_0061_004412,2).
+vaccine(it_0061_004412,0,2).
 patient(it_0061_004412,neg).
 
 %patient: it-0061-004413 index:1220
@@ -26164,6 +27384,7 @@ who_f2(it_0061_004413,0).
 who_f3(it_0061_004413,0).
 who_f4(it_0061_004413,0).
 typeofoutcome_updated(it_0061_004413,2).
+vaccine(it_0061_004413,0,3).
 patient(it_0061_004413,neg).
 
 %patient: it-0061-004416 index:1221
@@ -26192,6 +27413,7 @@ who_f2(it_0061_004416,0).
 who_f3(it_0061_004416,1).
 who_f4(it_0061_004416,1).
 typeofoutcome_updated(it_0061_004416,2).
+vaccine(it_0061_004416,0,2).
 patient(it_0061_004416,neg).
 
 %patient: it-0061-004417 index:1222
@@ -26214,6 +27436,7 @@ who_f2(it_0061_004417,0).
 who_f3(it_0061_004417,1).
 who_f4(it_0061_004417,1).
 typeofoutcome_updated(it_0061_004417,2).
+vaccine(it_0061_004417,0,2).
 patient(it_0061_004417,neg).
 
 %patient: it-0061-004418 index:1223
@@ -26241,6 +27464,7 @@ who_f2(it_0061_004418,0).
 who_f3(it_0061_004418,0).
 who_f4(it_0061_004418,0).
 typeofoutcome_updated(it_0061_004418,2).
+vaccine(it_0061_004418,0,3).
 patient(it_0061_004418,neg).
 
 %patient: it-0061-004419 index:1224
@@ -26266,6 +27490,7 @@ who_f2(it_0061_004419,0).
 who_f3(it_0061_004419,1).
 who_f4(it_0061_004419,1).
 typeofoutcome_updated(it_0061_004419,2).
+vaccine(it_0061_004419,0,2).
 patient(it_0061_004419,neg).
 
 %patient: it-0061-004420 index:1225
@@ -26293,6 +27518,7 @@ who_f2(it_0061_004420,0).
 who_f3(it_0061_004420,1).
 who_f4(it_0061_004420,1).
 typeofoutcome_updated(it_0061_004420,2).
+vaccine(it_0061_004420,0,2).
 patient(it_0061_004420,neg).
 
 %patient: it-0061-004421 index:1226
@@ -26313,6 +27539,7 @@ who_f2(it_0061_004421,0).
 who_f3(it_0061_004421,1).
 who_f4(it_0061_004421,1).
 typeofoutcome_updated(it_0061_004421,2).
+vaccine(it_0061_004421,0,2).
 patient(it_0061_004421,neg).
 
 %patient: it-0061-004422 index:1227
@@ -26337,6 +27564,7 @@ who_f2(it_0061_004422,0).
 who_f3(it_0061_004422,1).
 who_f4(it_0061_004422,1).
 typeofoutcome_updated(it_0061_004422,2).
+vaccine(it_0061_004422,0,2).
 patient(it_0061_004422,neg).
 
 %patient: it-0061-004423 index:1228
@@ -26359,6 +27587,7 @@ who_f2(it_0061_004423,0).
 who_f3(it_0061_004423,0).
 who_f4(it_0061_004423,0).
 typeofoutcome_updated(it_0061_004423,2).
+vaccine(it_0061_004423,0,3).
 patient(it_0061_004423,neg).
 
 %patient: it-0061-004561 index:1229
@@ -26383,6 +27612,7 @@ who_f2(it_0061_004561,0).
 who_f3(it_0061_004561,1).
 who_f4(it_0061_004561,1).
 typeofoutcome_updated(it_0061_004561,2).
+vaccine(it_0061_004561,0,2).
 patient(it_0061_004561,neg).
 
 %patient: it-0061-004563 index:1230
@@ -26407,6 +27637,7 @@ who_f2(it_0061_004563,0).
 who_f3(it_0061_004563,1).
 who_f4(it_0061_004563,1).
 typeofoutcome_updated(it_0061_004563,2).
+vaccine(it_0061_004563,0,2).
 patient(it_0061_004563,neg).
 
 %patient: it-0061-004565 index:1231
@@ -26425,6 +27656,7 @@ who_f2(it_0061_004565,0).
 who_f3(it_0061_004565,1).
 who_f4(it_0061_004565,1).
 typeofoutcome_updated(it_0061_004565,2).
+vaccine(it_0061_004565,0,2).
 patient(it_0061_004565,neg).
 
 %patient: it-0061-004566 index:1232
@@ -26451,6 +27683,7 @@ who_f2(it_0061_004566,0).
 who_f3(it_0061_004566,1).
 who_f4(it_0061_004566,1).
 typeofoutcome_updated(it_0061_004566,2).
+vaccine(it_0061_004566,0,2).
 patient(it_0061_004566,neg).
 
 %patient: it-0061-004569 index:1233
@@ -26477,6 +27710,7 @@ who_f2(it_0061_004569,0).
 who_f3(it_0061_004569,1).
 who_f4(it_0061_004569,1).
 typeofoutcome_updated(it_0061_004569,2).
+vaccine(it_0061_004569,0,2).
 patient(it_0061_004569,neg).
 
 %patient: it-0061-004663 index:1234
@@ -26507,6 +27741,7 @@ who_f2(it_0061_004663,0).
 who_f3(it_0061_004663,0).
 who_f4(it_0061_004663,0).
 typeofoutcome_updated(it_0061_004663,2).
+vaccine(it_0061_004663,0,2).
 patient(it_0061_004663,neg).
 
 %patient: it-0061-004710 index:1235
@@ -26534,6 +27769,7 @@ who_f2(it_0061_004710,0).
 who_f3(it_0061_004710,1).
 who_f4(it_0061_004710,1).
 typeofoutcome_updated(it_0061_004710,2).
+vaccine(it_0061_004710,0,2).
 patient(it_0061_004710,neg).
 
 %patient: it-0061-004712 index:1236
@@ -26561,6 +27797,7 @@ who_f2(it_0061_004712,0).
 who_f3(it_0061_004712,1).
 who_f4(it_0061_004712,1).
 typeofoutcome_updated(it_0061_004712,2).
+vaccine(it_0061_004712,0,2).
 patient(it_0061_004712,neg).
 
 %patient: it-0061-004713 index:1237
@@ -26583,6 +27820,7 @@ who_f2(it_0061_004713,0).
 who_f3(it_0061_004713,1).
 who_f4(it_0061_004713,1).
 typeofoutcome_updated(it_0061_004713,2).
+vaccine(it_0061_004713,0,2).
 patient(it_0061_004713,neg).
 
 %patient: it-0061-004716 index:1238
@@ -26609,6 +27847,7 @@ who_f2(it_0061_004716,0).
 who_f3(it_0061_004716,1).
 who_f4(it_0061_004716,1).
 typeofoutcome_updated(it_0061_004716,2).
+vaccine(it_0061_004716,0,2).
 patient(it_0061_004716,neg).
 
 %patient: it-0061-004720 index:1239
@@ -26633,6 +27872,7 @@ who_f2(it_0061_004720,0).
 who_f3(it_0061_004720,1).
 who_f4(it_0061_004720,1).
 typeofoutcome_updated(it_0061_004720,2).
+vaccine(it_0061_004720,0,2).
 patient(it_0061_004720,neg).
 
 %patient: it-0061-004722 index:1240
@@ -26660,6 +27900,7 @@ who_f2(it_0061_004722,0).
 who_f3(it_0061_004722,1).
 who_f4(it_0061_004722,1).
 typeofoutcome_updated(it_0061_004722,2).
+vaccine(it_0061_004722,0,2).
 patient(it_0061_004722,neg).
 
 %patient: it-0061-004725 index:1241
@@ -26680,6 +27921,7 @@ who_f2(it_0061_004725,0).
 who_f3(it_0061_004725,0).
 who_f4(it_0061_004725,0).
 typeofoutcome_updated(it_0061_004725,2).
+vaccine(it_0061_004725,0,3).
 patient(it_0061_004725,neg).
 
 %patient: it-0061-004729 index:1242
@@ -26704,6 +27946,7 @@ who_f2(it_0061_004729,0).
 who_f3(it_0061_004729,1).
 who_f4(it_0061_004729,1).
 typeofoutcome_updated(it_0061_004729,2).
+vaccine(it_0061_004729,0,2).
 patient(it_0061_004729,neg).
 
 %patient: it-0061-004730 index:1243
@@ -26734,6 +27977,7 @@ who_f2(it_0061_004730,0).
 who_f3(it_0061_004730,1).
 who_f4(it_0061_004730,1).
 typeofoutcome_updated(it_0061_004730,2).
+vaccine(it_0061_004730,0,2).
 patient(it_0061_004730,neg).
 
 %patient: it-0061-004733 index:1244
@@ -26757,6 +28001,7 @@ who_f2(it_0061_004733,0).
 who_f3(it_0061_004733,1).
 who_f4(it_0061_004733,1).
 typeofoutcome_updated(it_0061_004733,2).
+vaccine(it_0061_004733,0,2).
 patient(it_0061_004733,neg).
 
 %patient: it-0061-004735 index:1245
@@ -26784,6 +28029,7 @@ who_f2(it_0061_004735,0).
 who_f3(it_0061_004735,1).
 who_f4(it_0061_004735,1).
 typeofoutcome_updated(it_0061_004735,2).
+vaccine(it_0061_004735,0,2).
 patient(it_0061_004735,neg).
 
 %patient: it-0061-004737 index:1246
@@ -26807,6 +28053,7 @@ who_f2(it_0061_004737,0).
 who_f3(it_0061_004737,1).
 who_f4(it_0061_004737,0).
 typeofoutcome_updated(it_0061_004737,2).
+vaccine(it_0061_004737,0,2).
 patient(it_0061_004737,neg).
 
 %patient: it-0061-004743 index:1247
@@ -26833,6 +28080,7 @@ who_f2(it_0061_004743,0).
 who_f3(it_0061_004743,1).
 who_f4(it_0061_004743,1).
 typeofoutcome_updated(it_0061_004743,2).
+vaccine(it_0061_004743,0,2).
 patient(it_0061_004743,neg).
 
 %patient: it-0061-004744 index:1248
@@ -26859,6 +28107,7 @@ who_f2(it_0061_004744,0).
 who_f3(it_0061_004744,1).
 who_f4(it_0061_004744,1).
 typeofoutcome_updated(it_0061_004744,2).
+vaccine(it_0061_004744,0,2).
 patient(it_0061_004744,neg).
 
 %patient: it-0061-004825 index:1249
@@ -26889,6 +28138,7 @@ who_f2(it_0061_004825,1).
 who_f3(it_0061_004825,1).
 who_f4(it_0061_004825,1).
 typeofoutcome_updated(it_0061_004825,2).
+vaccine(it_0061_004825,0,2).
 patient(it_0061_004825,neg).
 
 %patient: it-0061-004826 index:1250
@@ -26922,6 +28172,7 @@ who_f2(it_0061_004826,1).
 who_f3(it_0061_004826,1).
 who_f4(it_0061_004826,1).
 typeofoutcome_updated(it_0061_004826,2).
+vaccine(it_0061_004826,0,2).
 patient(it_0061_004826,neg).
 
 %patient: it-0061-004827 index:1251
@@ -26949,6 +28200,7 @@ who_f2(it_0061_004827,1).
 who_f3(it_0061_004827,1).
 who_f4(it_0061_004827,1).
 typeofoutcome_updated(it_0061_004827,2).
+vaccine(it_0061_004827,0,2).
 patient(it_0061_004827,neg).
 
 %patient: it-0061-005723 index:1252
@@ -26975,6 +28227,7 @@ who_f2(it_0061_005723,0).
 who_f3(it_0061_005723,0).
 who_f4(it_0061_005723,0).
 typeofoutcome_updated(it_0061_005723,2).
+vaccine(it_0061_005723,0,3).
 patient(it_0061_005723,neg).
 
 %patient: it-0061-006258 index:1253
@@ -26996,6 +28249,7 @@ who_f2(it_0061_006258,0).
 who_f3(it_0061_006258,0).
 who_f4(it_0061_006258,0).
 typeofoutcome_updated(it_0061_006258,2).
+vaccine(it_0061_006258,0,3).
 patient(it_0061_006258,neg).
 
 %patient: it-0061-006443 index:1254
@@ -27022,6 +28276,7 @@ who_f2(it_0061_006443,0).
 who_f3(it_0061_006443,1).
 who_f4(it_0061_006443,1).
 typeofoutcome_updated(it_0061_006443,2).
+vaccine(it_0061_006443,0,2).
 patient(it_0061_006443,neg).
 
 %patient: it-0061-006455 index:1255
@@ -27047,6 +28302,7 @@ who_f2(it_0061_006455,0).
 who_f3(it_0061_006455,1).
 who_f4(it_0061_006455,1).
 typeofoutcome_updated(it_0061_006455,2).
+vaccine(it_0061_006455,0,2).
 patient(it_0061_006455,neg).
 
 %patient: it-0061-006456 index:1256
@@ -27070,6 +28326,7 @@ who_f2(it_0061_006456,0).
 who_f3(it_0061_006456,1).
 who_f4(it_0061_006456,1).
 typeofoutcome_updated(it_0061_006456,2).
+vaccine(it_0061_006456,0,2).
 patient(it_0061_006456,neg).
 
 %patient: it-0061-006458 index:1257
@@ -27096,6 +28353,7 @@ who_f2(it_0061_006458,0).
 who_f3(it_0061_006458,1).
 who_f4(it_0061_006458,1).
 typeofoutcome_updated(it_0061_006458,2).
+vaccine(it_0061_006458,0,2).
 patient(it_0061_006458,neg).
 
 %patient: it-0061-006460 index:1258
@@ -27122,6 +28380,7 @@ who_f2(it_0061_006460,0).
 who_f3(it_0061_006460,0).
 who_f4(it_0061_006460,0).
 typeofoutcome_updated(it_0061_006460,2).
+vaccine(it_0061_006460,0,3).
 patient(it_0061_006460,neg).
 
 %patient: it-0061-006461 index:1259
@@ -27145,6 +28404,7 @@ who_f2(it_0061_006461,0).
 who_f3(it_0061_006461,1).
 who_f4(it_0061_006461,1).
 typeofoutcome_updated(it_0061_006461,2).
+vaccine(it_0061_006461,0,2).
 patient(it_0061_006461,neg).
 
 %patient: it-0061-006462 index:1260
@@ -27170,6 +28430,7 @@ who_f2(it_0061_006462,0).
 who_f3(it_0061_006462,1).
 who_f4(it_0061_006462,1).
 typeofoutcome_updated(it_0061_006462,2).
+vaccine(it_0061_006462,0,2).
 patient(it_0061_006462,neg).
 
 %patient: it-0061-006463 index:1261
@@ -27193,6 +28454,7 @@ who_f2(it_0061_006463,0).
 who_f3(it_0061_006463,0).
 who_f4(it_0061_006463,0).
 typeofoutcome_updated(it_0061_006463,2).
+vaccine(it_0061_006463,0,3).
 patient(it_0061_006463,neg).
 
 %patient: it-0061-006464 index:1262
@@ -27216,6 +28478,7 @@ who_f2(it_0061_006464,0).
 who_f3(it_0061_006464,0).
 who_f4(it_0061_006464,0).
 typeofoutcome_updated(it_0061_006464,2).
+vaccine(it_0061_006464,0,3).
 patient(it_0061_006464,neg).
 
 %patient: it-0061-006465 index:1263
@@ -27241,6 +28504,7 @@ who_f2(it_0061_006465,0).
 who_f3(it_0061_006465,1).
 who_f4(it_0061_006465,1).
 typeofoutcome_updated(it_0061_006465,2).
+vaccine(it_0061_006465,0,2).
 patient(it_0061_006465,neg).
 
 %patient: it-0061-006467 index:1264
@@ -27269,6 +28533,7 @@ who_f2(it_0061_006467,0).
 who_f3(it_0061_006467,1).
 who_f4(it_0061_006467,1).
 typeofoutcome_updated(it_0061_006467,2).
+vaccine(it_0061_006467,0,2).
 patient(it_0061_006467,neg).
 
 %patient: it-0061-006468 index:1265
@@ -27296,6 +28561,7 @@ who_f2(it_0061_006468,0).
 who_f3(it_0061_006468,1).
 who_f4(it_0061_006468,1).
 typeofoutcome_updated(it_0061_006468,2).
+vaccine(it_0061_006468,0,2).
 patient(it_0061_006468,neg).
 
 %patient: it-0061-006469 index:1266
@@ -27322,6 +28588,7 @@ who_f2(it_0061_006469,0).
 who_f3(it_0061_006469,1).
 who_f4(it_0061_006469,1).
 typeofoutcome_updated(it_0061_006469,2).
+vaccine(it_0061_006469,0,2).
 patient(it_0061_006469,neg).
 
 %patient: it-0061-006470 index:1267
@@ -27345,6 +28612,7 @@ who_f2(it_0061_006470,0).
 who_f3(it_0061_006470,1).
 who_f4(it_0061_006470,1).
 typeofoutcome_updated(it_0061_006470,2).
+vaccine(it_0061_006470,0,2).
 patient(it_0061_006470,neg).
 
 %patient: it-0061-006471 index:1268
@@ -27370,6 +28638,7 @@ who_f2(it_0061_006471,0).
 who_f3(it_0061_006471,1).
 who_f4(it_0061_006471,1).
 typeofoutcome_updated(it_0061_006471,2).
+vaccine(it_0061_006471,0,2).
 patient(it_0061_006471,neg).
 
 %patient: it-0061-006472 index:1269
@@ -27393,6 +28662,7 @@ who_f2(it_0061_006472,0).
 who_f3(it_0061_006472,0).
 who_f4(it_0061_006472,0).
 typeofoutcome_updated(it_0061_006472,2).
+vaccine(it_0061_006472,0,3).
 patient(it_0061_006472,neg).
 
 %patient: it-0061-006474 index:1270
@@ -27421,6 +28691,7 @@ who_f2(it_0061_006474,0).
 who_f3(it_0061_006474,1).
 who_f4(it_0061_006474,1).
 typeofoutcome_updated(it_0061_006474,2).
+vaccine(it_0061_006474,0,2).
 patient(it_0061_006474,neg).
 
 %patient: it-0061-006475 index:1271
@@ -27445,6 +28716,7 @@ who_f2(it_0061_006475,0).
 who_f3(it_0061_006475,1).
 who_f4(it_0061_006475,1).
 typeofoutcome_updated(it_0061_006475,2).
+vaccine(it_0061_006475,0,2).
 patient(it_0061_006475,neg).
 
 %patient: it-0061-006479 index:1272
@@ -27466,6 +28738,7 @@ who_f2(it_0061_006479,0).
 who_f3(it_0061_006479,0).
 who_f4(it_0061_006479,0).
 typeofoutcome_updated(it_0061_006479,2).
+vaccine(it_0061_006479,0,3).
 patient(it_0061_006479,neg).
 
 %patient: it-0061-006482 index:1273
@@ -27487,6 +28760,7 @@ who_f2(it_0061_006482,0).
 who_f3(it_0061_006482,1).
 who_f4(it_0061_006482,1).
 typeofoutcome_updated(it_0061_006482,2).
+vaccine(it_0061_006482,0,2).
 patient(it_0061_006482,neg).
 
 %patient: it-0061-006483 index:1274
@@ -27512,6 +28786,7 @@ who_f2(it_0061_006483,0).
 who_f3(it_0061_006483,0).
 who_f4(it_0061_006483,0).
 typeofoutcome_updated(it_0061_006483,2).
+vaccine(it_0061_006483,0,2).
 patient(it_0061_006483,neg).
 
 %patient: it-0061-006487 index:1275
@@ -27534,6 +28809,7 @@ who_f2(it_0061_006487,0).
 who_f3(it_0061_006487,0).
 who_f4(it_0061_006487,0).
 typeofoutcome_updated(it_0061_006487,2).
+vaccine(it_0061_006487,0,3).
 patient(it_0061_006487,neg).
 
 %patient: it-0061-006488 index:1276
@@ -27558,6 +28834,7 @@ who_f2(it_0061_006488,0).
 who_f3(it_0061_006488,0).
 who_f4(it_0061_006488,0).
 typeofoutcome_updated(it_0061_006488,2).
+vaccine(it_0061_006488,0,3).
 patient(it_0061_006488,neg).
 
 %patient: it-0061-006491 index:1277
@@ -27584,6 +28861,7 @@ who_f2(it_0061_006491,0).
 who_f3(it_0061_006491,1).
 who_f4(it_0061_006491,1).
 typeofoutcome_updated(it_0061_006491,2).
+vaccine(it_0061_006491,0,2).
 patient(it_0061_006491,neg).
 
 %patient: it-0061-006492 index:1278
@@ -27608,6 +28886,7 @@ who_f2(it_0061_006492,0).
 who_f3(it_0061_006492,1).
 who_f4(it_0061_006492,1).
 typeofoutcome_updated(it_0061_006492,2).
+vaccine(it_0061_006492,0,2).
 patient(it_0061_006492,neg).
 
 %patient: it-0061-006493 index:1279
@@ -27633,6 +28912,7 @@ who_f2(it_0061_006493,0).
 who_f3(it_0061_006493,1).
 who_f4(it_0061_006493,1).
 typeofoutcome_updated(it_0061_006493,2).
+vaccine(it_0061_006493,0,2).
 patient(it_0061_006493,neg).
 
 %patient: it-0061-006495 index:1280
@@ -27656,6 +28936,7 @@ who_f2(it_0061_006495,0).
 who_f3(it_0061_006495,1).
 who_f4(it_0061_006495,1).
 typeofoutcome_updated(it_0061_006495,2).
+vaccine(it_0061_006495,0,2).
 patient(it_0061_006495,neg).
 
 %patient: it-0061-006496 index:1281
@@ -27678,6 +28959,7 @@ who_f2(it_0061_006496,0).
 who_f3(it_0061_006496,1).
 who_f4(it_0061_006496,1).
 typeofoutcome_updated(it_0061_006496,2).
+vaccine(it_0061_006496,0,2).
 patient(it_0061_006496,neg).
 
 %patient: it-0061-006500 index:1282
@@ -27702,6 +28984,7 @@ who_f2(it_0061_006500,0).
 who_f3(it_0061_006500,1).
 who_f4(it_0061_006500,1).
 typeofoutcome_updated(it_0061_006500,2).
+vaccine(it_0061_006500,0,2).
 patient(it_0061_006500,neg).
 
 %patient: it-0061-006501 index:1283
@@ -27726,6 +29009,7 @@ who_f2(it_0061_006501,0).
 who_f3(it_0061_006501,0).
 who_f4(it_0061_006501,0).
 typeofoutcome_updated(it_0061_006501,2).
+vaccine(it_0061_006501,0,3).
 patient(it_0061_006501,neg).
 
 %patient: it-0061-006503 index:1284
@@ -27751,6 +29035,7 @@ who_f2(it_0061_006503,0).
 who_f3(it_0061_006503,1).
 who_f4(it_0061_006503,1).
 typeofoutcome_updated(it_0061_006503,2).
+vaccine(it_0061_006503,0,2).
 patient(it_0061_006503,neg).
 
 %patient: it-0061-006505 index:1285
@@ -27773,6 +29058,7 @@ who_f2(it_0061_006505,0).
 who_f3(it_0061_006505,1).
 who_f4(it_0061_006505,1).
 typeofoutcome_updated(it_0061_006505,2).
+vaccine(it_0061_006505,0,2).
 patient(it_0061_006505,neg).
 
 %patient: it-0061-006506 index:1286
@@ -27798,6 +29084,7 @@ who_f2(it_0061_006506,0).
 who_f3(it_0061_006506,1).
 who_f4(it_0061_006506,1).
 typeofoutcome_updated(it_0061_006506,2).
+vaccine(it_0061_006506,0,2).
 patient(it_0061_006506,neg).
 
 %patient: it-0061-006507 index:1287
@@ -27824,6 +29111,7 @@ who_f2(it_0061_006507,0).
 who_f3(it_0061_006507,1).
 who_f4(it_0061_006507,9).
 typeofoutcome_updated(it_0061_006507,2).
+vaccine(it_0061_006507,0,2).
 patient(it_0061_006507,neg).
 
 %patient: it-0061-006508 index:1288
@@ -27852,6 +29140,7 @@ who_f2(it_0061_006508,0).
 who_f3(it_0061_006508,1).
 who_f4(it_0061_006508,1).
 typeofoutcome_updated(it_0061_006508,2).
+vaccine(it_0061_006508,0,2).
 patient(it_0061_006508,neg).
 
 %patient: it-0061-006516 index:1289
@@ -27877,6 +29166,7 @@ who_f2(it_0061_006516,0).
 who_f3(it_0061_006516,0).
 who_f4(it_0061_006516,0).
 typeofoutcome_updated(it_0061_006516,2).
+vaccine(it_0061_006516,0,3).
 patient(it_0061_006516,neg).
 
 %patient: it-0061-006517 index:1290
@@ -27902,6 +29192,7 @@ who_f2(it_0061_006517,0).
 who_f3(it_0061_006517,1).
 who_f4(it_0061_006517,1).
 typeofoutcome_updated(it_0061_006517,2).
+vaccine(it_0061_006517,0,2).
 patient(it_0061_006517,neg).
 
 %patient: it-0061-006519 index:1291
@@ -27927,6 +29218,7 @@ who_f2(it_0061_006519,0).
 who_f3(it_0061_006519,0).
 who_f4(it_0061_006519,0).
 typeofoutcome_updated(it_0061_006519,2).
+vaccine(it_0061_006519,0,3).
 patient(it_0061_006519,neg).
 
 %patient: it-0061-006523 index:1292
@@ -27952,6 +29244,7 @@ who_f2(it_0061_006523,0).
 who_f3(it_0061_006523,0).
 who_f4(it_0061_006523,0).
 typeofoutcome_updated(it_0061_006523,2).
+vaccine(it_0061_006523,0,3).
 patient(it_0061_006523,neg).
 
 %patient: it-0061-006524 index:1293
@@ -27977,6 +29270,7 @@ who_f2(it_0061_006524,0).
 who_f3(it_0061_006524,0).
 who_f4(it_0061_006524,0).
 typeofoutcome_updated(it_0061_006524,2).
+vaccine(it_0061_006524,0,3).
 patient(it_0061_006524,neg).
 
 %patient: it-0061-006525 index:1294
@@ -27998,6 +29292,7 @@ who_f2(it_0061_006525,0).
 who_f3(it_0061_006525,1).
 who_f4(it_0061_006525,1).
 typeofoutcome_updated(it_0061_006525,2).
+vaccine(it_0061_006525,0,2).
 patient(it_0061_006525,neg).
 
 %patient: it-0061-006528 index:1295
@@ -28021,6 +29316,7 @@ who_f2(it_0061_006528,0).
 who_f3(it_0061_006528,1).
 who_f4(it_0061_006528,1).
 typeofoutcome_updated(it_0061_006528,2).
+vaccine(it_0061_006528,0,2).
 patient(it_0061_006528,neg).
 
 %patient: it-0061-006529 index:1296
@@ -28049,6 +29345,7 @@ who_f2(it_0061_006529,0).
 who_f3(it_0061_006529,1).
 who_f4(it_0061_006529,1).
 typeofoutcome_updated(it_0061_006529,2).
+vaccine(it_0061_006529,0,2).
 patient(it_0061_006529,neg).
 
 %patient: it-0061-006530 index:1297
@@ -28074,6 +29371,7 @@ who_f2(it_0061_006530,0).
 who_f3(it_0061_006530,1).
 who_f4(it_0061_006530,1).
 typeofoutcome_updated(it_0061_006530,2).
+vaccine(it_0061_006530,0,2).
 patient(it_0061_006530,neg).
 
 %patient: it-0102-002722 index:1298
@@ -28096,6 +29394,7 @@ who_f2(it_0102_002722,0).
 who_f3(it_0102_002722,0).
 who_f4(it_0102_002722,0).
 typeofoutcome_updated(it_0102_002722,2).
+vaccine(it_0102_002722,0,3).
 patient(it_0102_002722,neg).
 
 %patient: it-0102-003369 index:1299
@@ -28116,6 +29415,7 @@ who_f2(it_0102_003369,0).
 who_f3(it_0102_003369,0).
 who_f4(it_0102_003369,0).
 typeofoutcome_updated(it_0102_003369,2).
+vaccine(it_0102_003369,0,3).
 patient(it_0102_003369,neg).
 
 %patient: it-0102-004134 index:1300
@@ -28135,6 +29435,7 @@ who_f2(it_0102_004134,0).
 who_f3(it_0102_004134,0).
 who_f4(it_0102_004134,0).
 typeofoutcome_updated(it_0102_004134,2).
+vaccine(it_0102_004134,0,3).
 patient(it_0102_004134,neg).
 
 %patient: it-0102-004136 index:1301
@@ -28153,6 +29454,7 @@ who_f2(it_0102_004136,0).
 who_f3(it_0102_004136,0).
 who_f4(it_0102_004136,0).
 typeofoutcome_updated(it_0102_004136,2).
+vaccine(it_0102_004136,0,3).
 patient(it_0102_004136,neg).
 
 %patient: it-0102-004139 index:1302
@@ -28170,6 +29472,7 @@ who_f2(it_0102_004139,0).
 who_f3(it_0102_004139,0).
 who_f4(it_0102_004139,0).
 typeofoutcome_updated(it_0102_004139,2).
+vaccine(it_0102_004139,0,3).
 patient(it_0102_004139,neg).
 
 %patient: it-0103-005983 index:1303
@@ -28191,6 +29494,7 @@ who_f2(it_0103_005983,0).
 who_f3(it_0103_005983,0).
 who_f4(it_0103_005983,0).
 typeofoutcome_updated(it_0103_005983,2).
+vaccine(it_0103_005983,0,3).
 patient(it_0103_005983,neg).
 
 %patient: it-0103-005989 index:1304
@@ -28211,6 +29515,7 @@ who_f2(it_0103_005989,1).
 who_f3(it_0103_005989,1).
 who_f4(it_0103_005989,1).
 typeofoutcome_updated(it_0103_005989,2).
+vaccine(it_0103_005989,0,3).
 patient(it_0103_005989,neg).
 
 %patient: it-0103-005991 index:1305
@@ -28231,6 +29536,7 @@ who_f2(it_0103_005991,1).
 who_f3(it_0103_005991,1).
 who_f4(it_0103_005991,1).
 typeofoutcome_updated(it_0103_005991,2).
+vaccine(it_0103_005991,0,3).
 patient(it_0103_005991,neg).
 
 %patient: it-0103-005996 index:1306
@@ -28256,6 +29562,7 @@ who_f2(it_0103_005996,0).
 who_f3(it_0103_005996,0).
 who_f4(it_0103_005996,0).
 typeofoutcome_updated(it_0103_005996,2).
+vaccine(it_0103_005996,0,3).
 patient(it_0103_005996,neg).
 
 %patient: it-0103-006004 index:1307
@@ -28274,6 +29581,7 @@ who_f2(it_0103_006004,0).
 who_f3(it_0103_006004,0).
 who_f4(it_0103_006004,0).
 typeofoutcome_updated(it_0103_006004,2).
+vaccine(it_0103_006004,0,3).
 patient(it_0103_006004,neg).
 
 %patient: it-0103-006006 index:1308
@@ -28294,6 +29602,7 @@ who_f2(it_0103_006006,0).
 who_f3(it_0103_006006,0).
 who_f4(it_0103_006006,0).
 typeofoutcome_updated(it_0103_006006,2).
+vaccine(it_0103_006006,0,3).
 patient(it_0103_006006,neg).
 
 %patient: it-0103-006026 index:1309
@@ -28314,6 +29623,7 @@ who_f2(it_0103_006026,0).
 who_f3(it_0103_006026,0).
 who_f4(it_0103_006026,0).
 typeofoutcome_updated(it_0103_006026,2).
+vaccine(it_0103_006026,0,3).
 patient(it_0103_006026,neg).
 
 %patient: it-0103-006035 index:1310
@@ -28335,6 +29645,7 @@ who_f2(it_0103_006035,0).
 who_f3(it_0103_006035,0).
 who_f4(it_0103_006035,0).
 typeofoutcome_updated(it_0103_006035,2).
+vaccine(it_0103_006035,0,3).
 patient(it_0103_006035,neg).
 
 %patient: it-0103-006114 index:1311
@@ -28354,6 +29665,7 @@ who_f2(it_0103_006114,0).
 who_f3(it_0103_006114,0).
 who_f4(it_0103_006114,0).
 typeofoutcome_updated(it_0103_006114,2).
+vaccine(it_0103_006114,0,3).
 patient(it_0103_006114,neg).
 
 %patient: it-0103-006139 index:1312
@@ -28374,6 +29686,7 @@ who_f2(it_0103_006139,0).
 who_f3(it_0103_006139,0).
 who_f4(it_0103_006139,0).
 typeofoutcome_updated(it_0103_006139,2).
+vaccine(it_0103_006139,0,3).
 patient(it_0103_006139,neg).
 
 %patient: it-0106-006735 index:1313
@@ -28394,6 +29707,7 @@ who_f2(it_0106_006735,0).
 who_f3(it_0106_006735,0).
 who_f4(it_0106_006735,0).
 typeofoutcome_updated(it_0106_006735,2).
+vaccine(it_0106_006735,0,2).
 patient(it_0106_006735,neg).
 
 %patient: it-0106-006736 index:1314
@@ -28413,6 +29727,7 @@ who_f2(it_0106_006736,0).
 who_f3(it_0106_006736,0).
 who_f4(it_0106_006736,0).
 typeofoutcome_updated(it_0106_006736,2).
+vaccine(it_0106_006736,0,2).
 patient(it_0106_006736,neg).
 
 %patient: it-0106-006742 index:1315
@@ -28429,6 +29744,7 @@ who_f2(it_0106_006742,0).
 who_f3(it_0106_006742,0).
 who_f4(it_0106_006742,0).
 typeofoutcome_updated(it_0106_006742,2).
+vaccine(it_0106_006742,0,3).
 patient(it_0106_006742,neg).
 
 %patient: it-0106-006748 index:1316
@@ -28449,6 +29765,7 @@ who_f2(it_0106_006748,0).
 who_f3(it_0106_006748,0).
 who_f4(it_0106_006748,0).
 typeofoutcome_updated(it_0106_006748,2).
+vaccine(it_0106_006748,0,3).
 patient(it_0106_006748,neg).
 
 %patient: it-0106-006752 index:1317
@@ -28471,6 +29788,7 @@ who_f2(it_0106_006752,0).
 who_f3(it_0106_006752,0).
 who_f4(it_0106_006752,0).
 typeofoutcome_updated(it_0106_006752,2).
+vaccine(it_0106_006752,0,3).
 patient(it_0106_006752,neg).
 
 %patient: it-0106-006753 index:1318
@@ -28490,6 +29808,7 @@ who_f2(it_0106_006753,0).
 who_f3(it_0106_006753,0).
 who_f4(it_0106_006753,0).
 typeofoutcome_updated(it_0106_006753,2).
+vaccine(it_0106_006753,0,3).
 patient(it_0106_006753,neg).
 
 %patient: it-0106-006756 index:1319
@@ -28509,6 +29828,7 @@ who_f2(it_0106_006756,0).
 who_f3(it_0106_006756,0).
 who_f4(it_0106_006756,0).
 typeofoutcome_updated(it_0106_006756,2).
+vaccine(it_0106_006756,0,3).
 patient(it_0106_006756,neg).
 
 %patient: it-0106-006773 index:1320
@@ -28526,6 +29846,7 @@ who_f2(it_0106_006773,0).
 who_f3(it_0106_006773,0).
 who_f4(it_0106_006773,0).
 typeofoutcome_updated(it_0106_006773,2).
+vaccine(it_0106_006773,0,3).
 patient(it_0106_006773,neg).
 
 %patient: it-0106-006774 index:1321
@@ -28549,6 +29870,7 @@ who_f2(it_0106_006774,0).
 who_f3(it_0106_006774,0).
 who_f4(it_0106_006774,0).
 typeofoutcome_updated(it_0106_006774,2).
+vaccine(it_0106_006774,0,3).
 patient(it_0106_006774,neg).
 
 %patient: it-0106-006812 index:1322
@@ -28565,6 +29887,7 @@ who_f2(it_0106_006812,0).
 who_f3(it_0106_006812,0).
 who_f4(it_0106_006812,0).
 typeofoutcome_updated(it_0106_006812,2).
+vaccine(it_0106_006812,0,3).
 patient(it_0106_006812,neg).
 
 %patient: it-0123-005650 index:1323
@@ -28590,6 +29913,7 @@ who_f2(it_0123_005650,0).
 who_f3(it_0123_005650,0).
 who_f4(it_0123_005650,0).
 typeofoutcome_updated(it_0123_005650,2).
+vaccine(it_0123_005650,0,3).
 patient(it_0123_005650,neg).
 
 %patient: it-0123-005651 index:1324
@@ -28612,6 +29936,7 @@ who_f2(it_0123_005651,0).
 who_f3(it_0123_005651,0).
 who_f4(it_0123_005651,0).
 typeofoutcome_updated(it_0123_005651,2).
+vaccine(it_0123_005651,0,3).
 patient(it_0123_005651,neg).
 
 %patient: it-0123-005653 index:1325
@@ -28636,6 +29961,7 @@ who_f2(it_0123_005653,0).
 who_f3(it_0123_005653,0).
 who_f4(it_0123_005653,0).
 typeofoutcome_updated(it_0123_005653,2).
+vaccine(it_0123_005653,0,3).
 patient(it_0123_005653,neg).
 
 %patient: it-0123-005654 index:1326
@@ -28662,6 +29988,7 @@ who_f2(it_0123_005654,0).
 who_f3(it_0123_005654,0).
 who_f4(it_0123_005654,0).
 typeofoutcome_updated(it_0123_005654,2).
+vaccine(it_0123_005654,0,3).
 patient(it_0123_005654,neg).
 
 %patient: it-0123-005657 index:1327
@@ -28684,6 +30011,7 @@ who_f2(it_0123_005657,0).
 who_f3(it_0123_005657,0).
 who_f4(it_0123_005657,0).
 typeofoutcome_updated(it_0123_005657,2).
+vaccine(it_0123_005657,0,3).
 patient(it_0123_005657,neg).
 
 %patient: it-0123-005658 index:1328
@@ -28705,6 +30033,7 @@ who_f2(it_0123_005658,0).
 who_f3(it_0123_005658,0).
 who_f4(it_0123_005658,0).
 typeofoutcome_updated(it_0123_005658,2).
+vaccine(it_0123_005658,0,3).
 patient(it_0123_005658,neg).
 
 %patient: it-0123-005659 index:1329
@@ -28726,6 +30055,7 @@ who_f2(it_0123_005659,0).
 who_f3(it_0123_005659,0).
 who_f4(it_0123_005659,0).
 typeofoutcome_updated(it_0123_005659,2).
+vaccine(it_0123_005659,0,3).
 patient(it_0123_005659,neg).
 
 %patient: it-0123-005660 index:1330
@@ -28749,6 +30079,7 @@ who_f2(it_0123_005660,0).
 who_f3(it_0123_005660,0).
 who_f4(it_0123_005660,0).
 typeofoutcome_updated(it_0123_005660,2).
+vaccine(it_0123_005660,0,3).
 patient(it_0123_005660,neg).
 
 %patient: it-0123-005693 index:1331
@@ -28771,6 +30102,7 @@ who_f2(it_0123_005693,0).
 who_f3(it_0123_005693,0).
 who_f4(it_0123_005693,0).
 typeofoutcome_updated(it_0123_005693,2).
+vaccine(it_0123_005693,0,3).
 patient(it_0123_005693,neg).
 
 %patient: it-0123-005697 index:1332
@@ -28791,6 +30123,7 @@ who_f2(it_0123_005697,0).
 who_f3(it_0123_005697,0).
 who_f4(it_0123_005697,0).
 typeofoutcome_updated(it_0123_005697,2).
+vaccine(it_0123_005697,0,3).
 patient(it_0123_005697,neg).
 
 %patient: it-0123-005698 index:1333
@@ -28814,6 +30147,7 @@ who_f2(it_0123_005698,0).
 who_f3(it_0123_005698,0).
 who_f4(it_0123_005698,0).
 typeofoutcome_updated(it_0123_005698,2).
+vaccine(it_0123_005698,0,3).
 patient(it_0123_005698,neg).
 
 %patient: it-0123-005699 index:1334
@@ -28835,6 +30169,7 @@ who_f2(it_0123_005699,0).
 who_f3(it_0123_005699,0).
 who_f4(it_0123_005699,0).
 typeofoutcome_updated(it_0123_005699,2).
+vaccine(it_0123_005699,0,3).
 patient(it_0123_005699,neg).
 
 %patient: it-0123-005700 index:1335
@@ -28860,6 +30195,7 @@ who_f2(it_0123_005700,0).
 who_f3(it_0123_005700,0).
 who_f4(it_0123_005700,0).
 typeofoutcome_updated(it_0123_005700,2).
+vaccine(it_0123_005700,0,3).
 patient(it_0123_005700,neg).
 
 %patient: it-0123-005702 index:1336
@@ -28884,6 +30220,7 @@ who_f2(it_0123_005702,0).
 who_f3(it_0123_005702,0).
 who_f4(it_0123_005702,0).
 typeofoutcome_updated(it_0123_005702,2).
+vaccine(it_0123_005702,0,3).
 patient(it_0123_005702,neg).
 
 %patient: it-0123-005704 index:1337
@@ -28905,6 +30242,7 @@ who_f2(it_0123_005704,0).
 who_f3(it_0123_005704,0).
 who_f4(it_0123_005704,0).
 typeofoutcome_updated(it_0123_005704,2).
+vaccine(it_0123_005704,0,3).
 patient(it_0123_005704,neg).
 
 %patient: it-0123-005705 index:1338
@@ -28925,6 +30263,7 @@ who_f2(it_0123_005705,0).
 who_f3(it_0123_005705,0).
 who_f4(it_0123_005705,0).
 typeofoutcome_updated(it_0123_005705,2).
+vaccine(it_0123_005705,0,3).
 patient(it_0123_005705,neg).
 
 %patient: it-0123-005706 index:1339
@@ -28949,6 +30288,7 @@ who_f2(it_0123_005706,0).
 who_f3(it_0123_005706,0).
 who_f4(it_0123_005706,0).
 typeofoutcome_updated(it_0123_005706,2).
+vaccine(it_0123_005706,0,3).
 patient(it_0123_005706,neg).
 
 %patient: it-0123-005707 index:1340
@@ -28970,6 +30310,7 @@ who_f2(it_0123_005707,0).
 who_f3(it_0123_005707,0).
 who_f4(it_0123_005707,0).
 typeofoutcome_updated(it_0123_005707,2).
+vaccine(it_0123_005707,0,3).
 patient(it_0123_005707,neg).
 
 %patient: it-0123-005709 index:1341
@@ -28992,6 +30333,7 @@ who_f2(it_0123_005709,0).
 who_f3(it_0123_005709,0).
 who_f4(it_0123_005709,0).
 typeofoutcome_updated(it_0123_005709,2).
+vaccine(it_0123_005709,0,3).
 patient(it_0123_005709,neg).
 
 %patient: it-0123-005711 index:1342
@@ -29017,6 +30359,7 @@ who_f2(it_0123_005711,0).
 who_f3(it_0123_005711,0).
 who_f4(it_0123_005711,0).
 typeofoutcome_updated(it_0123_005711,2).
+vaccine(it_0123_005711,0,3).
 patient(it_0123_005711,neg).
 
 %patient: it-0123-005712 index:1343
@@ -29044,6 +30387,7 @@ who_f2(it_0123_005712,0).
 who_f3(it_0123_005712,0).
 who_f4(it_0123_005712,0).
 typeofoutcome_updated(it_0123_005712,2).
+vaccine(it_0123_005712,0,3).
 patient(it_0123_005712,neg).
 
 %patient: it-0123-005714 index:1344
@@ -29068,6 +30412,7 @@ who_f2(it_0123_005714,0).
 who_f3(it_0123_005714,0).
 who_f4(it_0123_005714,0).
 typeofoutcome_updated(it_0123_005714,2).
+vaccine(it_0123_005714,0,3).
 patient(it_0123_005714,neg).
 
 %patient: it-0125-005951 index:1345
@@ -29093,6 +30438,7 @@ who_f2(it_0125_005951,0).
 who_f3(it_0125_005951,0).
 who_f4(it_0125_005951,0).
 typeofoutcome_updated(it_0125_005951,2).
+vaccine(it_0125_005951,0,3).
 patient(it_0125_005951,neg).
 
 %patient: it-0125-005962 index:1346
@@ -29110,6 +30456,7 @@ who_f2(it_0125_005962,0).
 who_f3(it_0125_005962,0).
 who_f4(it_0125_005962,0).
 typeofoutcome_updated(it_0125_005962,2).
+vaccine(it_0125_005962,0,3).
 patient(it_0125_005962,neg).
 
 %patient: it-0125-006039 index:1347
@@ -29130,6 +30477,7 @@ who_f2(it_0125_006039,0).
 who_f3(it_0125_006039,0).
 who_f4(it_0125_006039,0).
 typeofoutcome_updated(it_0125_006039,2).
+vaccine(it_0125_006039,0,3).
 patient(it_0125_006039,neg).
 
 %patient: it-0125-006424 index:1348
@@ -29151,6 +30499,7 @@ who_f2(it_0125_006424,0).
 who_f3(it_0125_006424,0).
 who_f4(it_0125_006424,0).
 typeofoutcome_updated(it_0125_006424,2).
+vaccine(it_0125_006424,0,3).
 patient(it_0125_006424,neg).
 
 %patient: it-0125-006432 index:1349
@@ -29178,6 +30527,7 @@ who_f2(it_0125_006432,0).
 who_f3(it_0125_006432,0).
 who_f4(it_0125_006432,0).
 typeofoutcome_updated(it_0125_006432,2).
+vaccine(it_0125_006432,0,3).
 patient(it_0125_006432,neg).
 
 %patient: it-0126-004263 index:1350
@@ -29201,6 +30551,7 @@ who_f2(it_0126_004263,0).
 who_f3(it_0126_004263,0).
 who_f4(it_0126_004263,0).
 typeofoutcome_updated(it_0126_004263,2).
+vaccine(it_0126_004263,0,3).
 patient(it_0126_004263,neg).
 
 %patient: it-0126-004281 index:1351
@@ -29225,6 +30576,7 @@ who_f2(it_0126_004281,0).
 who_f3(it_0126_004281,0).
 who_f4(it_0126_004281,0).
 typeofoutcome_updated(it_0126_004281,2).
+vaccine(it_0126_004281,0,3).
 patient(it_0126_004281,neg).
 
 %patient: it-0126-004390 index:1352
@@ -29248,6 +30600,7 @@ who_f2(it_0126_004390,0).
 who_f3(it_0126_004390,9).
 who_f4(it_0126_004390,0).
 typeofoutcome_updated(it_0126_004390,2).
+vaccine(it_0126_004390,0,3).
 patient(it_0126_004390,neg).
 
 %patient: it-0126-004395 index:1353
@@ -29271,6 +30624,7 @@ who_f2(it_0126_004395,0).
 who_f3(it_0126_004395,0).
 who_f4(it_0126_004395,0).
 typeofoutcome_updated(it_0126_004395,2).
+vaccine(it_0126_004395,0,3).
 patient(it_0126_004395,neg).
 
 %patient: it-0126-004428 index:1354
@@ -29298,6 +30652,7 @@ who_f2(it_0126_004428,0).
 who_f3(it_0126_004428,0).
 who_f4(it_0126_004428,0).
 typeofoutcome_updated(it_0126_004428,2).
+vaccine(it_0126_004428,0,3).
 patient(it_0126_004428,neg).
 
 %patient: it-0126-004430 index:1355
@@ -29322,6 +30677,7 @@ who_f2(it_0126_004430,0).
 who_f3(it_0126_004430,0).
 who_f4(it_0126_004430,0).
 typeofoutcome_updated(it_0126_004430,2).
+vaccine(it_0126_004430,0,3).
 patient(it_0126_004430,neg).
 
 %patient: it-0126-004570 index:1356
@@ -29345,6 +30701,7 @@ who_f2(it_0126_004570,0).
 who_f3(it_0126_004570,0).
 who_f4(it_0126_004570,0).
 typeofoutcome_updated(it_0126_004570,2).
+vaccine(it_0126_004570,0,3).
 patient(it_0126_004570,neg).
 
 %patient: it-0126-004578 index:1357
@@ -29368,6 +30725,7 @@ who_f2(it_0126_004578,0).
 who_f3(it_0126_004578,0).
 who_f4(it_0126_004578,0).
 typeofoutcome_updated(it_0126_004578,2).
+vaccine(it_0126_004578,0,3).
 patient(it_0126_004578,neg).
 
 %patient: it-0126-004582 index:1358
@@ -29392,6 +30750,7 @@ who_f2(it_0126_004582,0).
 who_f3(it_0126_004582,0).
 who_f4(it_0126_004582,0).
 typeofoutcome_updated(it_0126_004582,2).
+vaccine(it_0126_004582,0,3).
 patient(it_0126_004582,neg).
 
 %patient: it-0126-004583 index:1359
@@ -29414,6 +30773,7 @@ who_f2(it_0126_004583,0).
 who_f3(it_0126_004583,0).
 who_f4(it_0126_004583,0).
 typeofoutcome_updated(it_0126_004583,2).
+vaccine(it_0126_004583,0,3).
 patient(it_0126_004583,neg).
 
 %patient: it-0126-004875 index:1360
@@ -29440,6 +30800,7 @@ who_f2(it_0126_004875,1).
 who_f3(it_0126_004875,1).
 who_f4(it_0126_004875,1).
 typeofoutcome_updated(it_0126_004875,2).
+vaccine(it_0126_004875,0,3).
 patient(it_0126_004875,neg).
 
 %patient: it-0126-004876 index:1361
@@ -29463,6 +30824,7 @@ who_f2(it_0126_004876,0).
 who_f3(it_0126_004876,9).
 who_f4(it_0126_004876,0).
 typeofoutcome_updated(it_0126_004876,2).
+vaccine(it_0126_004876,0,3).
 patient(it_0126_004876,neg).
 
 %patient: it-0126-004877 index:1362
@@ -29490,6 +30852,7 @@ who_f2(it_0126_004877,0).
 who_f3(it_0126_004877,0).
 who_f4(it_0126_004877,0).
 typeofoutcome_updated(it_0126_004877,2).
+vaccine(it_0126_004877,0,3).
 patient(it_0126_004877,neg).
 
 %patient: it-0126-004879 index:1363
@@ -29513,6 +30876,7 @@ who_f2(it_0126_004879,0).
 who_f3(it_0126_004879,0).
 who_f4(it_0126_004879,0).
 typeofoutcome_updated(it_0126_004879,2).
+vaccine(it_0126_004879,0,3).
 patient(it_0126_004879,neg).
 
 %patient: it-0126-004900 index:1364
@@ -29538,6 +30902,7 @@ who_f2(it_0126_004900,0).
 who_f3(it_0126_004900,0).
 who_f4(it_0126_004900,9).
 typeofoutcome_updated(it_0126_004900,2).
+vaccine(it_0126_004900,0,3).
 patient(it_0126_004900,neg).
 
 %patient: it-0126-004901 index:1365
@@ -29562,6 +30927,7 @@ who_f2(it_0126_004901,0).
 who_f3(it_0126_004901,0).
 who_f4(it_0126_004901,0).
 typeofoutcome_updated(it_0126_004901,2).
+vaccine(it_0126_004901,0,3).
 patient(it_0126_004901,neg).
 
 %patient: it-0126-004902 index:1366
@@ -29586,6 +30952,7 @@ who_f2(it_0126_004902,0).
 who_f3(it_0126_004902,0).
 who_f4(it_0126_004902,0).
 typeofoutcome_updated(it_0126_004902,2).
+vaccine(it_0126_004902,0,3).
 patient(it_0126_004902,neg).
 
 %patient: it-0126-004919 index:1367
@@ -29605,6 +30972,7 @@ who_f2(it_0126_004919,0).
 who_f3(it_0126_004919,0).
 who_f4(it_0126_004919,0).
 typeofoutcome_updated(it_0126_004919,2).
+vaccine(it_0126_004919,0,3).
 patient(it_0126_004919,neg).
 
 %patient: it-0126-004930 index:1368
@@ -29632,6 +31000,7 @@ who_f2(it_0126_004930,0).
 who_f3(it_0126_004930,0).
 who_f4(it_0126_004930,0).
 typeofoutcome_updated(it_0126_004930,2).
+vaccine(it_0126_004930,0,3).
 patient(it_0126_004930,neg).
 
 %patient: it-0126-004950 index:1369
@@ -29658,6 +31027,7 @@ who_f2(it_0126_004950,2).
 who_f3(it_0126_004950,0).
 who_f4(it_0126_004950,0).
 typeofoutcome_updated(it_0126_004950,2).
+vaccine(it_0126_004950,0,2).
 patient(it_0126_004950,neg).
 
 %patient: it-0126-004960 index:1370
@@ -29678,6 +31048,7 @@ who_f2(it_0126_004960,0).
 who_f3(it_0126_004960,0).
 who_f4(it_0126_004960,0).
 typeofoutcome_updated(it_0126_004960,2).
+vaccine(it_0126_004960,0,3).
 patient(it_0126_004960,neg).
 
 %patient: it-0126-004961 index:1371
@@ -29701,6 +31072,7 @@ who_f2(it_0126_004961,0).
 who_f3(it_0126_004961,0).
 who_f4(it_0126_004961,0).
 typeofoutcome_updated(it_0126_004961,2).
+vaccine(it_0126_004961,0,3).
 patient(it_0126_004961,neg).
 
 %patient: it-0126-005029 index:1372
@@ -29724,6 +31096,7 @@ who_f2(it_0126_005029,0).
 who_f3(it_0126_005029,0).
 who_f4(it_0126_005029,0).
 typeofoutcome_updated(it_0126_005029,2).
+vaccine(it_0126_005029,0,3).
 patient(it_0126_005029,neg).
 
 %patient: it-0126-005200 index:1373
@@ -29747,6 +31120,7 @@ who_f2(it_0126_005200,0).
 who_f3(it_0126_005200,0).
 who_f4(it_0126_005200,0).
 typeofoutcome_updated(it_0126_005200,2).
+vaccine(it_0126_005200,0,3).
 patient(it_0126_005200,neg).
 
 %patient: it-0126-005342 index:1374
@@ -29768,6 +31142,7 @@ who_f2(it_0126_005342,0).
 who_f3(it_0126_005342,0).
 who_f4(it_0126_005342,0).
 typeofoutcome_updated(it_0126_005342,2).
+vaccine(it_0126_005342,0,3).
 patient(it_0126_005342,neg).
 
 %patient: it-0126-005414 index:1375
@@ -29794,6 +31169,7 @@ who_f2(it_0126_005414,1).
 who_f3(it_0126_005414,9).
 who_f4(it_0126_005414,0).
 typeofoutcome_updated(it_0126_005414,2).
+vaccine(it_0126_005414,0,3).
 patient(it_0126_005414,neg).
 
 %patient: it-0126-005420 index:1376
@@ -29817,6 +31193,7 @@ who_f2(it_0126_005420,0).
 who_f3(it_0126_005420,0).
 who_f4(it_0126_005420,0).
 typeofoutcome_updated(it_0126_005420,2).
+vaccine(it_0126_005420,0,3).
 patient(it_0126_005420,neg).
 
 %patient: it-0126-005590 index:1377
@@ -29840,6 +31217,7 @@ who_f2(it_0126_005590,1).
 who_f3(it_0126_005590,1).
 who_f4(it_0126_005590,1).
 typeofoutcome_updated(it_0126_005590,2).
+vaccine(it_0126_005590,0,3).
 patient(it_0126_005590,neg).
 
 %patient: it-0126-005592 index:1378
@@ -29863,6 +31241,7 @@ who_f2(it_0126_005592,0).
 who_f3(it_0126_005592,0).
 who_f4(it_0126_005592,0).
 typeofoutcome_updated(it_0126_005592,2).
+vaccine(it_0126_005592,0,3).
 patient(it_0126_005592,neg).
 
 %patient: it-0126-005593 index:1379
@@ -29888,6 +31267,7 @@ who_f2(it_0126_005593,1).
 who_f3(it_0126_005593,9).
 who_f4(it_0126_005593,9).
 typeofoutcome_updated(it_0126_005593,2).
+vaccine(it_0126_005593,0,3).
 patient(it_0126_005593,neg).
 
 %patient: it-0126-005611 index:1380
@@ -29910,6 +31290,7 @@ who_f2(it_0126_005611,0).
 who_f3(it_0126_005611,0).
 who_f4(it_0126_005611,0).
 typeofoutcome_updated(it_0126_005611,2).
+vaccine(it_0126_005611,0,3).
 patient(it_0126_005611,neg).
 
 %patient: it-0126-005614 index:1381
@@ -29931,6 +31312,7 @@ who_f2(it_0126_005614,0).
 who_f3(it_0126_005614,0).
 who_f4(it_0126_005614,0).
 typeofoutcome_updated(it_0126_005614,2).
+vaccine(it_0126_005614,0,3).
 patient(it_0126_005614,neg).
 
 %patient: it-0126-005620 index:1382
@@ -29951,6 +31333,7 @@ who_f2(it_0126_005620,0).
 who_f3(it_0126_005620,0).
 who_f4(it_0126_005620,0).
 typeofoutcome_updated(it_0126_005620,2).
+vaccine(it_0126_005620,0,3).
 patient(it_0126_005620,neg).
 
 %patient: it-0126-006607 index:1383
@@ -29974,6 +31357,7 @@ who_f2(it_0126_006607,0).
 who_f3(it_0126_006607,0).
 who_f4(it_0126_006607,0).
 typeofoutcome_updated(it_0126_006607,2).
+vaccine(it_0126_006607,0,3).
 patient(it_0126_006607,neg).
 
 %patient: it-0126-006608 index:1384
@@ -29998,6 +31382,7 @@ who_f2(it_0126_006608,0).
 who_f3(it_0126_006608,9).
 who_f4(it_0126_006608,0).
 typeofoutcome_updated(it_0126_006608,2).
+vaccine(it_0126_006608,0,3).
 patient(it_0126_006608,neg).
 
 %patient: it-0126-006610 index:1385
@@ -30017,6 +31402,7 @@ who_f2(it_0126_006610,0).
 who_f3(it_0126_006610,0).
 who_f4(it_0126_006610,0).
 typeofoutcome_updated(it_0126_006610,2).
+vaccine(it_0126_006610,0,3).
 patient(it_0126_006610,neg).
 
 %patient: it-0126-006611 index:1386
@@ -30040,6 +31426,7 @@ who_f2(it_0126_006611,0).
 who_f3(it_0126_006611,0).
 who_f4(it_0126_006611,0).
 typeofoutcome_updated(it_0126_006611,2).
+vaccine(it_0126_006611,0,3).
 patient(it_0126_006611,neg).
 
 %patient: it-0126-006613 index:1387
@@ -30059,6 +31446,7 @@ who_f2(it_0126_006613,0).
 who_f3(it_0126_006613,9).
 who_f4(it_0126_006613,0).
 typeofoutcome_updated(it_0126_006613,2).
+vaccine(it_0126_006613,0,3).
 patient(it_0126_006613,neg).
 
 %patient: it-0126-006614 index:1388
@@ -30080,6 +31468,7 @@ who_f2(it_0126_006614,1).
 who_f3(it_0126_006614,1).
 who_f4(it_0126_006614,1).
 typeofoutcome_updated(it_0126_006614,2).
+vaccine(it_0126_006614,0,3).
 patient(it_0126_006614,neg).
 
 %patient: it-0130-004425 index:1389
@@ -30101,6 +31490,7 @@ who_f2(it_0130_004425,0).
 who_f3(it_0130_004425,0).
 who_f4(it_0130_004425,0).
 typeofoutcome_updated(it_0130_004425,2).
+vaccine(it_0130_004425,1,3).
 patient(it_0130_004425,neg).
 
 %patient: it-0130-004581 index:1390
@@ -30122,6 +31512,7 @@ who_f2(it_0130_004581,0).
 who_f3(it_0130_004581,0).
 who_f4(it_0130_004581,0).
 typeofoutcome_updated(it_0130_004581,2).
+vaccine(it_0130_004581,1,3).
 patient(it_0130_004581,neg).
 
 %patient: it-0130-004633 index:1391
@@ -30143,6 +31534,7 @@ who_f2(it_0130_004633,0).
 who_f3(it_0130_004633,0).
 who_f4(it_0130_004633,0).
 typeofoutcome_updated(it_0130_004633,2).
+vaccine(it_0130_004633,1,3).
 patient(it_0130_004633,neg).
 
 %patient: it-0130-004643 index:1392
@@ -30159,6 +31551,7 @@ who_f2(it_0130_004643,0).
 who_f3(it_0130_004643,0).
 who_f4(it_0130_004643,0).
 typeofoutcome_updated(it_0130_004643,2).
+vaccine(it_0130_004643,1,3).
 patient(it_0130_004643,neg).
 
 %patient: it-0130-004651 index:1393
@@ -30184,6 +31577,7 @@ who_f2(it_0130_004651,0).
 who_f3(it_0130_004651,0).
 who_f4(it_0130_004651,0).
 typeofoutcome_updated(it_0130_004651,2).
+vaccine(it_0130_004651,1,3).
 patient(it_0130_004651,neg).
 
 %patient: it-0130-004659 index:1394
@@ -30210,6 +31604,7 @@ who_f2(it_0130_004659,0).
 who_f3(it_0130_004659,0).
 who_f4(it_0130_004659,0).
 typeofoutcome_updated(it_0130_004659,2).
+vaccine(it_0130_004659,1,3).
 patient(it_0130_004659,neg).
 
 %patient: it-0130-004660 index:1395
@@ -30229,6 +31624,7 @@ who_f2(it_0130_004660,0).
 who_f3(it_0130_004660,0).
 who_f4(it_0130_004660,0).
 typeofoutcome_updated(it_0130_004660,2).
+vaccine(it_0130_004660,1,3).
 patient(it_0130_004660,neg).
 
 %patient: it-0130-004662 index:1396
@@ -30251,6 +31647,7 @@ who_f2(it_0130_004662,0).
 who_f3(it_0130_004662,0).
 who_f4(it_0130_004662,0).
 typeofoutcome_updated(it_0130_004662,2).
+vaccine(it_0130_004662,1,3).
 patient(it_0130_004662,neg).
 
 %patient: it-0130-004665 index:1397
@@ -30274,6 +31671,7 @@ who_f2(it_0130_004665,0).
 who_f3(it_0130_004665,0).
 who_f4(it_0130_004665,0).
 typeofoutcome_updated(it_0130_004665,2).
+vaccine(it_0130_004665,1,3).
 patient(it_0130_004665,neg).
 
 %patient: it-0130-004667 index:1398
@@ -30297,6 +31695,7 @@ who_f2(it_0130_004667,0).
 who_f3(it_0130_004667,0).
 who_f4(it_0130_004667,0).
 typeofoutcome_updated(it_0130_004667,2).
+vaccine(it_0130_004667,1,3).
 patient(it_0130_004667,neg).
 
 %patient: it-0130-004740 index:1399
@@ -30315,6 +31714,7 @@ who_f2(it_0130_004740,0).
 who_f3(it_0130_004740,0).
 who_f4(it_0130_004740,0).
 typeofoutcome_updated(it_0130_004740,2).
+vaccine(it_0130_004740,1,3).
 patient(it_0130_004740,neg).
 
 %patient: it-0130-004748 index:1400
@@ -30335,6 +31735,7 @@ who_f2(it_0130_004748,0).
 who_f3(it_0130_004748,0).
 who_f4(it_0130_004748,0).
 typeofoutcome_updated(it_0130_004748,2).
+vaccine(it_0130_004748,1,3).
 patient(it_0130_004748,neg).
 
 %patient: it-0130-004833 index:1401
@@ -30358,6 +31759,7 @@ who_f2(it_0130_004833,0).
 who_f3(it_0130_004833,0).
 who_f4(it_0130_004833,0).
 typeofoutcome_updated(it_0130_004833,2).
+vaccine(it_0130_004833,1,3).
 patient(it_0130_004833,neg).
 
 %patient: it-0130-005115 index:1402
@@ -30376,6 +31778,7 @@ who_f2(it_0130_005115,0).
 who_f3(it_0130_005115,0).
 who_f4(it_0130_005115,0).
 typeofoutcome_updated(it_0130_005115,2).
+vaccine(it_0130_005115,1,3).
 patient(it_0130_005115,neg).
 
 %patient: it-0130-005117 index:1403
@@ -30400,6 +31803,7 @@ who_f2(it_0130_005117,0).
 who_f3(it_0130_005117,0).
 who_f4(it_0130_005117,0).
 typeofoutcome_updated(it_0130_005117,2).
+vaccine(it_0130_005117,1,3).
 patient(it_0130_005117,neg).
 
 %patient: it-0130-005120 index:1404
@@ -30420,6 +31824,7 @@ who_f2(it_0130_005120,0).
 who_f3(it_0130_005120,0).
 who_f4(it_0130_005120,0).
 typeofoutcome_updated(it_0130_005120,2).
+vaccine(it_0130_005120,1,3).
 patient(it_0130_005120,neg).
 
 %patient: it-0130-005122 index:1405
@@ -30442,6 +31847,7 @@ who_f2(it_0130_005122,0).
 who_f3(it_0130_005122,0).
 who_f4(it_0130_005122,0).
 typeofoutcome_updated(it_0130_005122,2).
+vaccine(it_0130_005122,1,3).
 patient(it_0130_005122,neg).
 
 %patient: it-0130-005124 index:1406
@@ -30463,6 +31869,7 @@ who_f2(it_0130_005124,0).
 who_f3(it_0130_005124,0).
 who_f4(it_0130_005124,0).
 typeofoutcome_updated(it_0130_005124,2).
+vaccine(it_0130_005124,1,3).
 patient(it_0130_005124,neg).
 
 %patient: it-0130-005125 index:1407
@@ -30485,6 +31892,7 @@ who_f2(it_0130_005125,0).
 who_f3(it_0130_005125,0).
 who_f4(it_0130_005125,0).
 typeofoutcome_updated(it_0130_005125,2).
+vaccine(it_0130_005125,1,3).
 patient(it_0130_005125,neg).
 
 %patient: it-0130-005126 index:1408
@@ -30506,6 +31914,7 @@ who_f2(it_0130_005126,0).
 who_f3(it_0130_005126,0).
 who_f4(it_0130_005126,0).
 typeofoutcome_updated(it_0130_005126,2).
+vaccine(it_0130_005126,1,3).
 patient(it_0130_005126,neg).
 
 %patient: it-0130-005127 index:1409
@@ -30526,6 +31935,7 @@ who_f2(it_0130_005127,0).
 who_f3(it_0130_005127,0).
 who_f4(it_0130_005127,0).
 typeofoutcome_updated(it_0130_005127,2).
+vaccine(it_0130_005127,1,3).
 patient(it_0130_005127,neg).
 
 %patient: it-0130-005128 index:1410
@@ -30550,6 +31960,7 @@ who_f2(it_0130_005128,0).
 who_f3(it_0130_005128,0).
 who_f4(it_0130_005128,0).
 typeofoutcome_updated(it_0130_005128,2).
+vaccine(it_0130_005128,1,3).
 patient(it_0130_005128,neg).
 
 %patient: it-0130-005129 index:1411
@@ -30569,6 +31980,7 @@ who_f2(it_0130_005129,0).
 who_f3(it_0130_005129,0).
 who_f4(it_0130_005129,0).
 typeofoutcome_updated(it_0130_005129,2).
+vaccine(it_0130_005129,1,3).
 patient(it_0130_005129,neg).
 
 %patient: it-0130-005202 index:1412
@@ -30590,6 +32002,7 @@ who_f2(it_0130_005202,0).
 who_f3(it_0130_005202,0).
 who_f4(it_0130_005202,0).
 typeofoutcome_updated(it_0130_005202,2).
+vaccine(it_0130_005202,1,3).
 patient(it_0130_005202,neg).
 
 %patient: it-0130-005204 index:1413
@@ -30611,6 +32024,7 @@ who_f2(it_0130_005204,0).
 who_f3(it_0130_005204,0).
 who_f4(it_0130_005204,0).
 typeofoutcome_updated(it_0130_005204,2).
+vaccine(it_0130_005204,1,3).
 patient(it_0130_005204,neg).
 
 %patient: it-0130-005205 index:1414
@@ -30633,6 +32047,7 @@ who_f2(it_0130_005205,0).
 who_f3(it_0130_005205,0).
 who_f4(it_0130_005205,0).
 typeofoutcome_updated(it_0130_005205,2).
+vaccine(it_0130_005205,1,3).
 patient(it_0130_005205,neg).
 
 %patient: it-0130-005206 index:1415
@@ -30653,6 +32068,7 @@ who_f2(it_0130_005206,0).
 who_f3(it_0130_005206,0).
 who_f4(it_0130_005206,0).
 typeofoutcome_updated(it_0130_005206,2).
+vaccine(it_0130_005206,1,3).
 patient(it_0130_005206,neg).
 
 %patient: it-0130-005219 index:1416
@@ -30672,6 +32088,7 @@ who_f2(it_0130_005219,0).
 who_f3(it_0130_005219,0).
 who_f4(it_0130_005219,0).
 typeofoutcome_updated(it_0130_005219,2).
+vaccine(it_0130_005219,1,3).
 patient(it_0130_005219,neg).
 
 %patient: it-0130-005220 index:1417
@@ -30691,6 +32108,7 @@ who_f2(it_0130_005220,0).
 who_f3(it_0130_005220,0).
 who_f4(it_0130_005220,0).
 typeofoutcome_updated(it_0130_005220,2).
+vaccine(it_0130_005220,1,3).
 patient(it_0130_005220,neg).
 
 %patient: it-0130-005299 index:1418
@@ -30711,6 +32129,7 @@ who_f2(it_0130_005299,0).
 who_f3(it_0130_005299,0).
 who_f4(it_0130_005299,0).
 typeofoutcome_updated(it_0130_005299,2).
+vaccine(it_0130_005299,1,3).
 patient(it_0130_005299,neg).
 
 %patient: it-0130-005305 index:1419
@@ -30730,6 +32149,7 @@ who_f2(it_0130_005305,0).
 who_f3(it_0130_005305,0).
 who_f4(it_0130_005305,0).
 typeofoutcome_updated(it_0130_005305,2).
+vaccine(it_0130_005305,1,3).
 patient(it_0130_005305,neg).
 
 %patient: it-0130-005306 index:1420
@@ -30747,6 +32167,7 @@ who_f2(it_0130_005306,0).
 who_f3(it_0130_005306,0).
 who_f4(it_0130_005306,0).
 typeofoutcome_updated(it_0130_005306,2).
+vaccine(it_0130_005306,1,3).
 patient(it_0130_005306,neg).
 
 %patient: it-0130-005339 index:1421
@@ -30769,6 +32190,7 @@ who_f2(it_0130_005339,0).
 who_f3(it_0130_005339,0).
 who_f4(it_0130_005339,0).
 typeofoutcome_updated(it_0130_005339,2).
+vaccine(it_0130_005339,1,3).
 patient(it_0130_005339,neg).
 
 %patient: it-0130-005340 index:1422
@@ -30787,6 +32209,7 @@ who_f2(it_0130_005340,0).
 who_f3(it_0130_005340,0).
 who_f4(it_0130_005340,0).
 typeofoutcome_updated(it_0130_005340,2).
+vaccine(it_0130_005340,1,3).
 patient(it_0130_005340,neg).
 
 %patient: it-0130-005359 index:1423
@@ -30809,6 +32232,7 @@ who_f2(it_0130_005359,0).
 who_f3(it_0130_005359,0).
 who_f4(it_0130_005359,0).
 typeofoutcome_updated(it_0130_005359,2).
+vaccine(it_0130_005359,1,3).
 patient(it_0130_005359,neg).
 
 %patient: it-0130-005361 index:1424
@@ -30831,6 +32255,7 @@ who_f2(it_0130_005361,0).
 who_f3(it_0130_005361,0).
 who_f4(it_0130_005361,0).
 typeofoutcome_updated(it_0130_005361,2).
+vaccine(it_0130_005361,1,3).
 patient(it_0130_005361,neg).
 
 %patient: it-0130-005362 index:1425
@@ -30852,6 +32277,7 @@ who_f2(it_0130_005362,0).
 who_f3(it_0130_005362,0).
 who_f4(it_0130_005362,0).
 typeofoutcome_updated(it_0130_005362,2).
+vaccine(it_0130_005362,1,3).
 patient(it_0130_005362,neg).
 
 %patient: it-0130-005363 index:1426
@@ -30871,6 +32297,7 @@ who_f2(it_0130_005363,0).
 who_f3(it_0130_005363,0).
 who_f4(it_0130_005363,0).
 typeofoutcome_updated(it_0130_005363,2).
+vaccine(it_0130_005363,1,3).
 patient(it_0130_005363,neg).
 
 %patient: it-0130-005364 index:1427
@@ -30893,6 +32320,7 @@ who_f2(it_0130_005364,0).
 who_f3(it_0130_005364,0).
 who_f4(it_0130_005364,0).
 typeofoutcome_updated(it_0130_005364,2).
+vaccine(it_0130_005364,1,3).
 patient(it_0130_005364,neg).
 
 %patient: it-0130-005373 index:1428
@@ -30913,6 +32341,7 @@ who_f2(it_0130_005373,9).
 who_f3(it_0130_005373,0).
 who_f4(it_0130_005373,0).
 typeofoutcome_updated(it_0130_005373,2).
+vaccine(it_0130_005373,1,3).
 patient(it_0130_005373,neg).
 
 %patient: it-0130-005378 index:1429
@@ -30931,6 +32360,7 @@ who_f2(it_0130_005378,0).
 who_f3(it_0130_005378,0).
 who_f4(it_0130_005378,0).
 typeofoutcome_updated(it_0130_005378,2).
+vaccine(it_0130_005378,1,3).
 patient(it_0130_005378,neg).
 
 %patient: it-0130-005386 index:1430
@@ -30953,6 +32383,7 @@ who_f2(it_0130_005386,0).
 who_f3(it_0130_005386,0).
 who_f4(it_0130_005386,0).
 typeofoutcome_updated(it_0130_005386,2).
+vaccine(it_0130_005386,1,3).
 patient(it_0130_005386,neg).
 
 %patient: it-0130-005388 index:1431
@@ -30973,6 +32404,7 @@ who_f2(it_0130_005388,0).
 who_f3(it_0130_005388,0).
 who_f4(it_0130_005388,0).
 typeofoutcome_updated(it_0130_005388,2).
+vaccine(it_0130_005388,1,3).
 patient(it_0130_005388,neg).
 
 %patient: it-0130-006107 index:1432
@@ -30991,6 +32423,7 @@ who_f2(it_0130_006107,0).
 who_f3(it_0130_006107,0).
 who_f4(it_0130_006107,0).
 typeofoutcome_updated(it_0130_006107,2).
+vaccine(it_0130_006107,1,3).
 patient(it_0130_006107,neg).
 
 %patient: it-0130-006108 index:1433
@@ -31011,6 +32444,7 @@ who_f2(it_0130_006108,0).
 who_f3(it_0130_006108,0).
 who_f4(it_0130_006108,9).
 typeofoutcome_updated(it_0130_006108,2).
+vaccine(it_0130_006108,1,2).
 patient(it_0130_006108,neg).
 
 %patient: it-0130-006223 index:1434
@@ -31035,6 +32469,7 @@ who_f2(it_0130_006223,0).
 who_f3(it_0130_006223,0).
 who_f4(it_0130_006223,0).
 typeofoutcome_updated(it_0130_006223,2).
+vaccine(it_0130_006223,1,3).
 patient(it_0130_006223,neg).
 
 %patient: it-0130-006228 index:1435
@@ -31055,6 +32490,7 @@ who_f2(it_0130_006228,0).
 who_f3(it_0130_006228,0).
 who_f4(it_0130_006228,0).
 typeofoutcome_updated(it_0130_006228,2).
+vaccine(it_0130_006228,1,3).
 patient(it_0130_006228,neg).
 
 %patient: it-0130-006615 index:1436
@@ -31076,6 +32512,7 @@ who_f2(it_0130_006615,0).
 who_f3(it_0130_006615,0).
 who_f4(it_0130_006615,0).
 typeofoutcome_updated(it_0130_006615,2).
+vaccine(it_0130_006615,1,3).
 patient(it_0130_006615,neg).
 
 %patient: it-0130-006616 index:1437
@@ -31100,6 +32537,7 @@ who_f2(it_0130_006616,0).
 who_f3(it_0130_006616,0).
 who_f4(it_0130_006616,0).
 typeofoutcome_updated(it_0130_006616,2).
+vaccine(it_0130_006616,1,3).
 patient(it_0130_006616,neg).
 
 %patient: it-0132-005624 index:1438
@@ -31126,6 +32564,7 @@ who_f2(it_0132_005624,0).
 who_f3(it_0132_005624,0).
 who_f4(it_0132_005624,0).
 typeofoutcome_updated(it_0132_005624,2).
+vaccine(it_0132_005624,0,2).
 patient(it_0132_005624,neg).
 
 %patient: it-0132-005625 index:1439
@@ -31157,6 +32596,7 @@ who_f2(it_0132_005625,0).
 who_f3(it_0132_005625,0).
 who_f4(it_0132_005625,0).
 typeofoutcome_updated(it_0132_005625,2).
+vaccine(it_0132_005625,0,2).
 patient(it_0132_005625,neg).
 
 %patient: it-0133-005892 index:1440
@@ -31180,6 +32620,7 @@ who_f2(it_0133_005892,0).
 who_f3(it_0133_005892,0).
 who_f4(it_0133_005892,0).
 typeofoutcome_updated(it_0133_005892,2).
+vaccine(it_0133_005892,0,3).
 patient(it_0133_005892,neg).
 
 %patient: it-0133-005893 index:1441
@@ -31205,6 +32646,7 @@ who_f2(it_0133_005893,0).
 who_f3(it_0133_005893,0).
 who_f4(it_0133_005893,0).
 typeofoutcome_updated(it_0133_005893,2).
+vaccine(it_0133_005893,0,3).
 patient(it_0133_005893,neg).
 
 %patient: it-0133-005894 index:1442
@@ -31225,6 +32667,7 @@ who_f2(it_0133_005894,0).
 who_f3(it_0133_005894,0).
 who_f4(it_0133_005894,0).
 typeofoutcome_updated(it_0133_005894,2).
+vaccine(it_0133_005894,0,3).
 patient(it_0133_005894,neg).
 
 %patient: it-0133-005895 index:1443
@@ -31245,6 +32688,7 @@ who_f2(it_0133_005895,0).
 who_f3(it_0133_005895,0).
 who_f4(it_0133_005895,0).
 typeofoutcome_updated(it_0133_005895,2).
+vaccine(it_0133_005895,0,3).
 patient(it_0133_005895,neg).
 
 %patient: it-0133-005897 index:1444
@@ -31265,6 +32709,7 @@ who_f2(it_0133_005897,0).
 who_f3(it_0133_005897,0).
 who_f4(it_0133_005897,0).
 typeofoutcome_updated(it_0133_005897,2).
+vaccine(it_0133_005897,0,3).
 patient(it_0133_005897,neg).
 
 %patient: it-0133-005899 index:1445
@@ -31287,6 +32732,7 @@ who_f2(it_0133_005899,0).
 who_f3(it_0133_005899,0).
 who_f4(it_0133_005899,0).
 typeofoutcome_updated(it_0133_005899,2).
+vaccine(it_0133_005899,0,3).
 patient(it_0133_005899,neg).
 
 %patient: it-0133-005900 index:1446
@@ -31306,6 +32752,7 @@ who_f2(it_0133_005900,0).
 who_f3(it_0133_005900,0).
 who_f4(it_0133_005900,0).
 typeofoutcome_updated(it_0133_005900,2).
+vaccine(it_0133_005900,0,3).
 patient(it_0133_005900,neg).
 
 %patient: it-0133-005901 index:1447
@@ -31326,6 +32773,7 @@ who_f2(it_0133_005901,0).
 who_f3(it_0133_005901,0).
 who_f4(it_0133_005901,0).
 typeofoutcome_updated(it_0133_005901,2).
+vaccine(it_0133_005901,0,3).
 patient(it_0133_005901,neg).
 
 %patient: it-0133-005903 index:1448
@@ -31352,6 +32800,7 @@ who_f2(it_0133_005903,0).
 who_f3(it_0133_005903,0).
 who_f4(it_0133_005903,0).
 typeofoutcome_updated(it_0133_005903,2).
+vaccine(it_0133_005903,0,3).
 patient(it_0133_005903,neg).
 
 %patient: it-0133-005904 index:1449
@@ -31370,6 +32819,7 @@ who_f2(it_0133_005904,9).
 who_f3(it_0133_005904,0).
 who_f4(it_0133_005904,0).
 typeofoutcome_updated(it_0133_005904,2).
+vaccine(it_0133_005904,0,3).
 patient(it_0133_005904,neg).
 
 %patient: it-0133-005905 index:1450
@@ -31390,6 +32840,7 @@ who_f2(it_0133_005905,0).
 who_f3(it_0133_005905,0).
 who_f4(it_0133_005905,0).
 typeofoutcome_updated(it_0133_005905,2).
+vaccine(it_0133_005905,0,3).
 patient(it_0133_005905,neg).
 
 %patient: it-0133-005906 index:1451
@@ -31410,6 +32861,7 @@ who_f2(it_0133_005906,0).
 who_f3(it_0133_005906,0).
 who_f4(it_0133_005906,0).
 typeofoutcome_updated(it_0133_005906,2).
+vaccine(it_0133_005906,0,3).
 patient(it_0133_005906,neg).
 
 %patient: it-0133-005907 index:1452
@@ -31430,6 +32882,7 @@ who_f2(it_0133_005907,0).
 who_f3(it_0133_005907,0).
 who_f4(it_0133_005907,0).
 typeofoutcome_updated(it_0133_005907,2).
+vaccine(it_0133_005907,0,3).
 patient(it_0133_005907,neg).
 
 %patient: it-0133-005908 index:1453
@@ -31451,6 +32904,7 @@ who_f2(it_0133_005908,9).
 who_f3(it_0133_005908,0).
 who_f4(it_0133_005908,0).
 typeofoutcome_updated(it_0133_005908,2).
+vaccine(it_0133_005908,0,3).
 patient(it_0133_005908,neg).
 
 %patient: it-0133-005909 index:1454
@@ -31475,6 +32929,7 @@ who_f2(it_0133_005909,9).
 who_f3(it_0133_005909,0).
 who_f4(it_0133_005909,0).
 typeofoutcome_updated(it_0133_005909,2).
+vaccine(it_0133_005909,0,3).
 patient(it_0133_005909,neg).
 
 %patient: it-0133-005910 index:1455
@@ -31492,6 +32947,7 @@ who_f2(it_0133_005910,9).
 who_f3(it_0133_005910,0).
 who_f4(it_0133_005910,0).
 typeofoutcome_updated(it_0133_005910,2).
+vaccine(it_0133_005910,0,3).
 patient(it_0133_005910,neg).
 
 %patient: it-0133-005911 index:1456
@@ -31510,6 +32966,7 @@ who_f2(it_0133_005911,9).
 who_f3(it_0133_005911,0).
 who_f4(it_0133_005911,0).
 typeofoutcome_updated(it_0133_005911,2).
+vaccine(it_0133_005911,0,3).
 patient(it_0133_005911,neg).
 
 %patient: it-0133-005912 index:1457
@@ -31528,6 +32985,7 @@ who_f2(it_0133_005912,9).
 who_f3(it_0133_005912,0).
 who_f4(it_0133_005912,0).
 typeofoutcome_updated(it_0133_005912,2).
+vaccine(it_0133_005912,0,3).
 patient(it_0133_005912,neg).
 
 %patient: it-0133-005913 index:1458
@@ -31553,6 +33011,7 @@ who_f2(it_0133_005913,9).
 who_f3(it_0133_005913,0).
 who_f4(it_0133_005913,0).
 typeofoutcome_updated(it_0133_005913,2).
+vaccine(it_0133_005913,0,3).
 patient(it_0133_005913,neg).
 
 %patient: it-0133-005914 index:1459
@@ -31573,6 +33032,7 @@ who_f2(it_0133_005914,9).
 who_f3(it_0133_005914,0).
 who_f4(it_0133_005914,0).
 typeofoutcome_updated(it_0133_005914,2).
+vaccine(it_0133_005914,0,3).
 patient(it_0133_005914,neg).
 
 %patient: it-0133-005915 index:1460
@@ -31597,6 +33057,7 @@ who_f2(it_0133_005915,9).
 who_f3(it_0133_005915,0).
 who_f4(it_0133_005915,0).
 typeofoutcome_updated(it_0133_005915,2).
+vaccine(it_0133_005915,0,3).
 patient(it_0133_005915,neg).
 
 %patient: it-0133-005917 index:1461
@@ -31617,6 +33078,7 @@ who_f2(it_0133_005917,9).
 who_f3(it_0133_005917,0).
 who_f4(it_0133_005917,0).
 typeofoutcome_updated(it_0133_005917,2).
+vaccine(it_0133_005917,0,3).
 patient(it_0133_005917,neg).
 
 %patient: it-0133-005918 index:1462
@@ -31640,6 +33102,7 @@ who_f2(it_0133_005918,9).
 who_f3(it_0133_005918,0).
 who_f4(it_0133_005918,0).
 typeofoutcome_updated(it_0133_005918,2).
+vaccine(it_0133_005918,0,3).
 patient(it_0133_005918,neg).
 
 %patient: it-0133-005919 index:1463
@@ -31663,6 +33126,7 @@ who_f2(it_0133_005919,9).
 who_f3(it_0133_005919,0).
 who_f4(it_0133_005919,0).
 typeofoutcome_updated(it_0133_005919,2).
+vaccine(it_0133_005919,0,3).
 patient(it_0133_005919,neg).
 
 %patient: it-0133-005920 index:1464
@@ -31690,6 +33154,7 @@ who_f2(it_0133_005920,9).
 who_f3(it_0133_005920,0).
 who_f4(it_0133_005920,0).
 typeofoutcome_updated(it_0133_005920,2).
+vaccine(it_0133_005920,0,3).
 patient(it_0133_005920,neg).
 
 %patient: it-0133-005921 index:1465
@@ -31711,6 +33176,7 @@ who_f2(it_0133_005921,9).
 who_f3(it_0133_005921,0).
 who_f4(it_0133_005921,0).
 typeofoutcome_updated(it_0133_005921,2).
+vaccine(it_0133_005921,0,3).
 patient(it_0133_005921,neg).
 
 %patient: it-0133-005923 index:1466
@@ -31733,6 +33199,7 @@ who_f2(it_0133_005923,9).
 who_f3(it_0133_005923,0).
 who_f4(it_0133_005923,0).
 typeofoutcome_updated(it_0133_005923,2).
+vaccine(it_0133_005923,0,3).
 patient(it_0133_005923,neg).
 
 %patient: it-0133-005925 index:1467
@@ -31754,6 +33221,7 @@ who_f2(it_0133_005925,9).
 who_f3(it_0133_005925,0).
 who_f4(it_0133_005925,0).
 typeofoutcome_updated(it_0133_005925,2).
+vaccine(it_0133_005925,0,3).
 patient(it_0133_005925,neg).
 
 %patient: it-0133-005926 index:1468
@@ -31776,6 +33244,7 @@ who_f2(it_0133_005926,9).
 who_f3(it_0133_005926,0).
 who_f4(it_0133_005926,0).
 typeofoutcome_updated(it_0133_005926,2).
+vaccine(it_0133_005926,0,3).
 patient(it_0133_005926,neg).
 
 %patient: it-0133-005927 index:1469
@@ -31801,6 +33270,7 @@ who_f2(it_0133_005927,9).
 who_f3(it_0133_005927,0).
 who_f4(it_0133_005927,0).
 typeofoutcome_updated(it_0133_005927,2).
+vaccine(it_0133_005927,0,3).
 patient(it_0133_005927,neg).
 
 %patient: it-0133-005928 index:1470
@@ -31820,6 +33290,7 @@ who_f2(it_0133_005928,9).
 who_f3(it_0133_005928,1).
 who_f4(it_0133_005928,1).
 typeofoutcome_updated(it_0133_005928,2).
+vaccine(it_0133_005928,0,3).
 patient(it_0133_005928,neg).
 
 %patient: it-0133-005929 index:1471
@@ -31842,6 +33313,7 @@ who_f2(it_0133_005929,9).
 who_f3(it_0133_005929,0).
 who_f4(it_0133_005929,0).
 typeofoutcome_updated(it_0133_005929,2).
+vaccine(it_0133_005929,0,3).
 patient(it_0133_005929,neg).
 
 %patient: it-0133-005930 index:1472
@@ -31865,6 +33337,7 @@ who_f2(it_0133_005930,9).
 who_f3(it_0133_005930,0).
 who_f4(it_0133_005930,0).
 typeofoutcome_updated(it_0133_005930,2).
+vaccine(it_0133_005930,0,3).
 patient(it_0133_005930,neg).
 
 %patient: it-0133-005931 index:1473
@@ -31890,6 +33363,7 @@ who_f2(it_0133_005931,9).
 who_f3(it_0133_005931,0).
 who_f4(it_0133_005931,0).
 typeofoutcome_updated(it_0133_005931,2).
+vaccine(it_0133_005931,0,3).
 patient(it_0133_005931,neg).
 
 %patient: it-0133-005932 index:1474
@@ -31910,6 +33384,7 @@ who_f2(it_0133_005932,9).
 who_f3(it_0133_005932,0).
 who_f4(it_0133_005932,0).
 typeofoutcome_updated(it_0133_005932,2).
+vaccine(it_0133_005932,0,3).
 patient(it_0133_005932,neg).
 
 %patient: it-0133-005933 index:1475
@@ -31932,6 +33407,7 @@ who_f2(it_0133_005933,9).
 who_f3(it_0133_005933,0).
 who_f4(it_0133_005933,0).
 typeofoutcome_updated(it_0133_005933,2).
+vaccine(it_0133_005933,0,3).
 patient(it_0133_005933,neg).
 
 %patient: it-0133-005934 index:1476
@@ -31955,6 +33431,7 @@ who_f2(it_0133_005934,9).
 who_f3(it_0133_005934,0).
 who_f4(it_0133_005934,0).
 typeofoutcome_updated(it_0133_005934,2).
+vaccine(it_0133_005934,0,3).
 patient(it_0133_005934,neg).
 
 %patient: it-0133-005935 index:1477
@@ -31973,6 +33450,7 @@ who_f2(it_0133_005935,9).
 who_f3(it_0133_005935,0).
 who_f4(it_0133_005935,0).
 typeofoutcome_updated(it_0133_005935,2).
+vaccine(it_0133_005935,0,3).
 patient(it_0133_005935,neg).
 
 %patient: it-0133-005937 index:1478
@@ -31993,6 +33471,7 @@ who_f2(it_0133_005937,9).
 who_f3(it_0133_005937,0).
 who_f4(it_0133_005937,0).
 typeofoutcome_updated(it_0133_005937,2).
+vaccine(it_0133_005937,0,3).
 patient(it_0133_005937,neg).
 
 %patient: it-0133-005938 index:1479
@@ -32011,6 +33490,7 @@ who_f2(it_0133_005938,0).
 who_f3(it_0133_005938,0).
 who_f4(it_0133_005938,0).
 typeofoutcome_updated(it_0133_005938,2).
+vaccine(it_0133_005938,0,3).
 patient(it_0133_005938,neg).
 
 %patient: it-0133-006052 index:1480
@@ -32033,6 +33513,7 @@ who_f2(it_0133_006052,0).
 who_f3(it_0133_006052,0).
 who_f4(it_0133_006052,0).
 typeofoutcome_updated(it_0133_006052,2).
+vaccine(it_0133_006052,0,3).
 patient(it_0133_006052,neg).
 
 %patient: it-0133-006053 index:1481
@@ -32056,6 +33537,7 @@ who_f2(it_0133_006053,0).
 who_f3(it_0133_006053,0).
 who_f4(it_0133_006053,0).
 typeofoutcome_updated(it_0133_006053,2).
+vaccine(it_0133_006053,0,3).
 patient(it_0133_006053,neg).
 
 %patient: it-0133-006055 index:1482
@@ -32076,6 +33558,7 @@ who_f2(it_0133_006055,0).
 who_f3(it_0133_006055,0).
 who_f4(it_0133_006055,0).
 typeofoutcome_updated(it_0133_006055,2).
+vaccine(it_0133_006055,0,3).
 patient(it_0133_006055,neg).
 
 %patient: it-0133-006057 index:1483
@@ -32099,6 +33582,7 @@ who_f2(it_0133_006057,0).
 who_f3(it_0133_006057,0).
 who_f4(it_0133_006057,0).
 typeofoutcome_updated(it_0133_006057,2).
+vaccine(it_0133_006057,0,3).
 patient(it_0133_006057,neg).
 
 %patient: it-0133-006059 index:1484
@@ -32118,6 +33602,7 @@ who_f2(it_0133_006059,0).
 who_f3(it_0133_006059,0).
 who_f4(it_0133_006059,0).
 typeofoutcome_updated(it_0133_006059,2).
+vaccine(it_0133_006059,0,3).
 patient(it_0133_006059,neg).
 
 %patient: it-0133-006060 index:1485
@@ -32139,6 +33624,7 @@ who_f2(it_0133_006060,0).
 who_f3(it_0133_006060,0).
 who_f4(it_0133_006060,0).
 typeofoutcome_updated(it_0133_006060,2).
+vaccine(it_0133_006060,0,3).
 patient(it_0133_006060,neg).
 
 %patient: it-0133-006061 index:1486
@@ -32160,6 +33646,7 @@ who_f2(it_0133_006061,0).
 who_f3(it_0133_006061,0).
 who_f4(it_0133_006061,0).
 typeofoutcome_updated(it_0133_006061,2).
+vaccine(it_0133_006061,0,3).
 patient(it_0133_006061,neg).
 
 %patient: it-0133-006291 index:1487
@@ -32180,6 +33667,7 @@ who_f2(it_0133_006291,0).
 who_f3(it_0133_006291,0).
 who_f4(it_0133_006291,0).
 typeofoutcome_updated(it_0133_006291,2).
+vaccine(it_0133_006291,0,3).
 patient(it_0133_006291,neg).
 
 %patient: it-0133-006292 index:1488
@@ -32198,6 +33686,7 @@ who_f2(it_0133_006292,0).
 who_f3(it_0133_006292,0).
 who_f4(it_0133_006292,0).
 typeofoutcome_updated(it_0133_006292,2).
+vaccine(it_0133_006292,0,3).
 patient(it_0133_006292,neg).
 
 %patient: it-0133-006293 index:1489
@@ -32217,6 +33706,7 @@ who_f2(it_0133_006293,0).
 who_f3(it_0133_006293,0).
 who_f4(it_0133_006293,0).
 typeofoutcome_updated(it_0133_006293,2).
+vaccine(it_0133_006293,0,3).
 patient(it_0133_006293,neg).
 
 %patient: it-0133-006294 index:1490
@@ -32238,6 +33728,7 @@ who_f2(it_0133_006294,0).
 who_f3(it_0133_006294,0).
 who_f4(it_0133_006294,0).
 typeofoutcome_updated(it_0133_006294,2).
+vaccine(it_0133_006294,0,3).
 patient(it_0133_006294,neg).
 
 %patient: it-0133-006295 index:1491
@@ -32257,6 +33748,7 @@ who_f2(it_0133_006295,0).
 who_f3(it_0133_006295,0).
 who_f4(it_0133_006295,0).
 typeofoutcome_updated(it_0133_006295,2).
+vaccine(it_0133_006295,0,3).
 patient(it_0133_006295,neg).
 
 %patient: it-0133-006296 index:1492
@@ -32278,6 +33770,7 @@ who_f2(it_0133_006296,0).
 who_f3(it_0133_006296,0).
 who_f4(it_0133_006296,0).
 typeofoutcome_updated(it_0133_006296,2).
+vaccine(it_0133_006296,0,3).
 patient(it_0133_006296,neg).
 
 %patient: it-0133-006297 index:1493
@@ -32296,6 +33789,7 @@ who_f2(it_0133_006297,0).
 who_f3(it_0133_006297,0).
 who_f4(it_0133_006297,0).
 typeofoutcome_updated(it_0133_006297,2).
+vaccine(it_0133_006297,0,3).
 patient(it_0133_006297,neg).
 
 %patient: it-0133-006298 index:1494
@@ -32317,6 +33811,7 @@ who_f2(it_0133_006298,1).
 who_f3(it_0133_006298,0).
 who_f4(it_0133_006298,9).
 typeofoutcome_updated(it_0133_006298,2).
+vaccine(it_0133_006298,0,3).
 patient(it_0133_006298,neg).
 
 %patient: it-0133-006299 index:1495
@@ -32335,6 +33830,7 @@ who_f2(it_0133_006299,0).
 who_f3(it_0133_006299,0).
 who_f4(it_0133_006299,0).
 typeofoutcome_updated(it_0133_006299,2).
+vaccine(it_0133_006299,0,3).
 patient(it_0133_006299,neg).
 
 %patient: it-0133-006300 index:1496
@@ -32355,6 +33851,7 @@ who_f2(it_0133_006300,0).
 who_f3(it_0133_006300,0).
 who_f4(it_0133_006300,0).
 typeofoutcome_updated(it_0133_006300,2).
+vaccine(it_0133_006300,0,3).
 patient(it_0133_006300,neg).
 
 %patient: it-0133-006302 index:1497
@@ -32373,6 +33870,7 @@ who_f2(it_0133_006302,9).
 who_f3(it_0133_006302,0).
 who_f4(it_0133_006302,0).
 typeofoutcome_updated(it_0133_006302,2).
+vaccine(it_0133_006302,0,3).
 patient(it_0133_006302,neg).
 
 %patient: it-0133-006303 index:1498
@@ -32392,6 +33890,7 @@ who_f2(it_0133_006303,9).
 who_f3(it_0133_006303,0).
 who_f4(it_0133_006303,0).
 typeofoutcome_updated(it_0133_006303,2).
+vaccine(it_0133_006303,0,3).
 patient(it_0133_006303,neg).
 
 %patient: it-0133-006304 index:1499
@@ -32409,6 +33908,7 @@ who_f2(it_0133_006304,0).
 who_f3(it_0133_006304,0).
 who_f4(it_0133_006304,9).
 typeofoutcome_updated(it_0133_006304,2).
+vaccine(it_0133_006304,0,3).
 patient(it_0133_006304,neg).
 
 %patient: it-0133-006306 index:1500
@@ -32427,6 +33927,7 @@ who_f2(it_0133_006306,0).
 who_f3(it_0133_006306,0).
 who_f4(it_0133_006306,0).
 typeofoutcome_updated(it_0133_006306,2).
+vaccine(it_0133_006306,0,2).
 patient(it_0133_006306,neg).
 
 %patient: it-0133-006307 index:1501
@@ -32445,6 +33946,7 @@ who_f2(it_0133_006307,0).
 who_f3(it_0133_006307,0).
 who_f4(it_0133_006307,0).
 typeofoutcome_updated(it_0133_006307,2).
+vaccine(it_0133_006307,0,3).
 patient(it_0133_006307,neg).
 
 %patient: it-0133-006308 index:1502
@@ -32466,6 +33968,7 @@ who_f2(it_0133_006308,9).
 who_f3(it_0133_006308,0).
 who_f4(it_0133_006308,0).
 typeofoutcome_updated(it_0133_006308,2).
+vaccine(it_0133_006308,0,3).
 patient(it_0133_006308,neg).
 
 %patient: it-0133-006310 index:1503
@@ -32484,6 +33987,7 @@ who_f2(it_0133_006310,0).
 who_f3(it_0133_006310,0).
 who_f4(it_0133_006310,0).
 typeofoutcome_updated(it_0133_006310,2).
+vaccine(it_0133_006310,0,3).
 patient(it_0133_006310,neg).
 
 %patient: it-0133-006311 index:1504
@@ -32503,6 +34007,7 @@ who_f2(it_0133_006311,0).
 who_f3(it_0133_006311,0).
 who_f4(it_0133_006311,0).
 typeofoutcome_updated(it_0133_006311,2).
+vaccine(it_0133_006311,0,3).
 patient(it_0133_006311,neg).
 
 %patient: it-0135-004360 index:1505
@@ -32521,6 +34026,7 @@ who_f2(it_0135_004360,0).
 who_f3(it_0135_004360,0).
 who_f4(it_0135_004360,0).
 typeofoutcome_updated(it_0135_004360,2).
+vaccine(it_0135_004360,0,3).
 patient(it_0135_004360,neg).
 
 %patient: it-0135-004361 index:1506
@@ -32541,6 +34047,7 @@ who_f2(it_0135_004361,0).
 who_f3(it_0135_004361,0).
 who_f4(it_0135_004361,0).
 typeofoutcome_updated(it_0135_004361,2).
+vaccine(it_0135_004361,0,3).
 patient(it_0135_004361,neg).
 
 %patient: it-0135-004362 index:1507
@@ -32558,6 +34065,7 @@ who_f2(it_0135_004362,0).
 who_f3(it_0135_004362,0).
 who_f4(it_0135_004362,0).
 typeofoutcome_updated(it_0135_004362,2).
+vaccine(it_0135_004362,0,3).
 patient(it_0135_004362,neg).
 
 %patient: it-0135-004364 index:1508
@@ -32577,6 +34085,7 @@ who_f2(it_0135_004364,0).
 who_f3(it_0135_004364,0).
 who_f4(it_0135_004364,0).
 typeofoutcome_updated(it_0135_004364,2).
+vaccine(it_0135_004364,0,3).
 patient(it_0135_004364,neg).
 
 %patient: it-0135-004634 index:1509
@@ -32597,6 +34106,7 @@ who_f2(it_0135_004634,0).
 who_f3(it_0135_004634,0).
 who_f4(it_0135_004634,0).
 typeofoutcome_updated(it_0135_004634,2).
+vaccine(it_0135_004634,0,3).
 patient(it_0135_004634,neg).
 
 %patient: it-0135-004635 index:1510
@@ -32614,6 +34124,7 @@ who_f2(it_0135_004635,0).
 who_f3(it_0135_004635,0).
 who_f4(it_0135_004635,0).
 typeofoutcome_updated(it_0135_004635,2).
+vaccine(it_0135_004635,0,3).
 patient(it_0135_004635,neg).
 
 %patient: it-0135-004636 index:1511
@@ -32631,6 +34142,7 @@ who_f2(it_0135_004636,0).
 who_f3(it_0135_004636,0).
 who_f4(it_0135_004636,0).
 typeofoutcome_updated(it_0135_004636,2).
+vaccine(it_0135_004636,0,3).
 patient(it_0135_004636,neg).
 
 %patient: it-0135-004637 index:1512
@@ -32651,6 +34163,7 @@ who_f2(it_0135_004637,0).
 who_f3(it_0135_004637,0).
 who_f4(it_0135_004637,0).
 typeofoutcome_updated(it_0135_004637,2).
+vaccine(it_0135_004637,0,3).
 patient(it_0135_004637,neg).
 
 %patient: it-0135-004639 index:1513
@@ -32668,6 +34181,7 @@ who_f2(it_0135_004639,0).
 who_f3(it_0135_004639,0).
 who_f4(it_0135_004639,0).
 typeofoutcome_updated(it_0135_004639,2).
+vaccine(it_0135_004639,0,3).
 patient(it_0135_004639,neg).
 
 %patient: it-0135-004640 index:1514
@@ -32688,6 +34202,7 @@ who_f2(it_0135_004640,0).
 who_f3(it_0135_004640,0).
 who_f4(it_0135_004640,0).
 typeofoutcome_updated(it_0135_004640,2).
+vaccine(it_0135_004640,0,3).
 patient(it_0135_004640,neg).
 
 %patient: it-0135-004642 index:1515
@@ -32708,6 +34223,7 @@ who_f2(it_0135_004642,0).
 who_f3(it_0135_004642,0).
 who_f4(it_0135_004642,0).
 typeofoutcome_updated(it_0135_004642,2).
+vaccine(it_0135_004642,0,3).
 patient(it_0135_004642,neg).
 
 %patient: it-0135-004644 index:1516
@@ -32727,6 +34243,7 @@ who_f2(it_0135_004644,0).
 who_f3(it_0135_004644,0).
 who_f4(it_0135_004644,0).
 typeofoutcome_updated(it_0135_004644,2).
+vaccine(it_0135_004644,0,3).
 patient(it_0135_004644,neg).
 
 %patient: it-0135-004645 index:1517
@@ -32746,6 +34263,7 @@ who_f2(it_0135_004645,0).
 who_f3(it_0135_004645,0).
 who_f4(it_0135_004645,0).
 typeofoutcome_updated(it_0135_004645,2).
+vaccine(it_0135_004645,0,3).
 patient(it_0135_004645,neg).
 
 %patient: it-0135-004648 index:1518
@@ -32763,6 +34281,7 @@ who_f2(it_0135_004648,0).
 who_f3(it_0135_004648,0).
 who_f4(it_0135_004648,0).
 typeofoutcome_updated(it_0135_004648,2).
+vaccine(it_0135_004648,0,3).
 patient(it_0135_004648,neg).
 
 %patient: it-0135-004652 index:1519
@@ -32781,6 +34300,7 @@ who_f2(it_0135_004652,0).
 who_f3(it_0135_004652,0).
 who_f4(it_0135_004652,0).
 typeofoutcome_updated(it_0135_004652,2).
+vaccine(it_0135_004652,0,3).
 patient(it_0135_004652,neg).
 
 %patient: it-0135-004654 index:1520
@@ -32800,6 +34320,7 @@ who_f2(it_0135_004654,0).
 who_f3(it_0135_004654,0).
 who_f4(it_0135_004654,0).
 typeofoutcome_updated(it_0135_004654,2).
+vaccine(it_0135_004654,0,3).
 patient(it_0135_004654,neg).
 
 %patient: it-0135-004655 index:1521
@@ -32823,6 +34344,7 @@ who_f2(it_0135_004655,0).
 who_f3(it_0135_004655,0).
 who_f4(it_0135_004655,0).
 typeofoutcome_updated(it_0135_004655,2).
+vaccine(it_0135_004655,0,3).
 patient(it_0135_004655,neg).
 
 %patient: it-0136-005412 index:1522
@@ -32843,6 +34365,7 @@ who_f2(it_0136_005412,0).
 who_f3(it_0136_005412,0).
 who_f4(it_0136_005412,0).
 typeofoutcome_updated(it_0136_005412,2).
+vaccine(it_0136_005412,0,3).
 patient(it_0136_005412,neg).
 
 %patient: it-0136-005510 index:1523
@@ -32861,6 +34384,7 @@ who_f2(it_0136_005510,0).
 who_f3(it_0136_005510,0).
 who_f4(it_0136_005510,0).
 typeofoutcome_updated(it_0136_005510,2).
+vaccine(it_0136_005510,0,3).
 patient(it_0136_005510,neg).
 
 %patient: it-0136-005511 index:1524
@@ -32881,6 +34405,7 @@ who_f2(it_0136_005511,0).
 who_f3(it_0136_005511,0).
 who_f4(it_0136_005511,0).
 typeofoutcome_updated(it_0136_005511,2).
+vaccine(it_0136_005511,0,3).
 patient(it_0136_005511,neg).
 
 %patient: it-0136-005512 index:1525
@@ -32902,6 +34427,7 @@ who_f2(it_0136_005512,0).
 who_f3(it_0136_005512,0).
 who_f4(it_0136_005512,0).
 typeofoutcome_updated(it_0136_005512,2).
+vaccine(it_0136_005512,0,3).
 patient(it_0136_005512,neg).
 
 %patient: it-0136-005517 index:1526
@@ -32919,6 +34445,7 @@ who_f2(it_0136_005517,0).
 who_f3(it_0136_005517,0).
 who_f4(it_0136_005517,0).
 typeofoutcome_updated(it_0136_005517,2).
+vaccine(it_0136_005517,0,3).
 patient(it_0136_005517,neg).
 
 %patient: it-0136-005518 index:1527
@@ -32940,6 +34467,7 @@ who_f2(it_0136_005518,0).
 who_f3(it_0136_005518,0).
 who_f4(it_0136_005518,0).
 typeofoutcome_updated(it_0136_005518,2).
+vaccine(it_0136_005518,0,3).
 patient(it_0136_005518,neg).
 
 %patient: it-0136-005519 index:1528
@@ -32958,6 +34486,7 @@ who_f2(it_0136_005519,0).
 who_f3(it_0136_005519,0).
 who_f4(it_0136_005519,0).
 typeofoutcome_updated(it_0136_005519,2).
+vaccine(it_0136_005519,0,3).
 patient(it_0136_005519,neg).
 
 %patient: it-0136-005520 index:1529
@@ -32974,6 +34503,7 @@ who_f2(it_0136_005520,0).
 who_f3(it_0136_005520,0).
 who_f4(it_0136_005520,0).
 typeofoutcome_updated(it_0136_005520,2).
+vaccine(it_0136_005520,0,3).
 patient(it_0136_005520,neg).
 
 %patient: it-0136-005522 index:1530
@@ -32992,6 +34522,7 @@ who_f2(it_0136_005522,0).
 who_f3(it_0136_005522,0).
 who_f4(it_0136_005522,0).
 typeofoutcome_updated(it_0136_005522,2).
+vaccine(it_0136_005522,0,3).
 patient(it_0136_005522,neg).
 
 %patient: it-0136-005608 index:1531
@@ -33015,6 +34546,7 @@ who_f2(it_0136_005608,0).
 who_f3(it_0136_005608,0).
 who_f4(it_0136_005608,0).
 typeofoutcome_updated(it_0136_005608,2).
+vaccine(it_0136_005608,0,3).
 patient(it_0136_005608,neg).
 
 %patient: it-0138-004433 index:1532
@@ -33033,6 +34565,7 @@ who_f2(it_0138_004433,0).
 who_f3(it_0138_004433,0).
 who_f4(it_0138_004433,0).
 typeofoutcome_updated(it_0138_004433,2).
+vaccine(it_0138_004433,0,3).
 patient(it_0138_004433,neg).
 
 %patient: it-0138-004449 index:1533
@@ -33053,6 +34586,7 @@ who_f2(it_0138_004449,0).
 who_f3(it_0138_004449,0).
 who_f4(it_0138_004449,0).
 typeofoutcome_updated(it_0138_004449,2).
+vaccine(it_0138_004449,0,3).
 patient(it_0138_004449,neg).
 
 %patient: it-0138-004450 index:1534
@@ -33070,6 +34604,7 @@ who_f2(it_0138_004450,0).
 who_f3(it_0138_004450,0).
 who_f4(it_0138_004450,0).
 typeofoutcome_updated(it_0138_004450,2).
+vaccine(it_0138_004450,0,3).
 patient(it_0138_004450,neg).
 
 %patient: it-0138-004451 index:1535
@@ -33091,6 +34626,7 @@ who_f2(it_0138_004451,0).
 who_f3(it_0138_004451,0).
 who_f4(it_0138_004451,0).
 typeofoutcome_updated(it_0138_004451,2).
+vaccine(it_0138_004451,0,3).
 patient(it_0138_004451,neg).
 
 %patient: it-0138-004452 index:1536
@@ -33108,6 +34644,7 @@ who_f2(it_0138_004452,0).
 who_f3(it_0138_004452,0).
 who_f4(it_0138_004452,0).
 typeofoutcome_updated(it_0138_004452,2).
+vaccine(it_0138_004452,0,3).
 patient(it_0138_004452,neg).
 
 %patient: it-0138-004453 index:1537
@@ -33130,6 +34667,7 @@ who_f2(it_0138_004453,0).
 who_f3(it_0138_004453,0).
 who_f4(it_0138_004453,0).
 typeofoutcome_updated(it_0138_004453,2).
+vaccine(it_0138_004453,0,3).
 patient(it_0138_004453,neg).
 
 %patient: it-0138-004454 index:1538
@@ -33149,6 +34687,7 @@ who_f2(it_0138_004454,0).
 who_f3(it_0138_004454,0).
 who_f4(it_0138_004454,0).
 typeofoutcome_updated(it_0138_004454,2).
+vaccine(it_0138_004454,0,3).
 patient(it_0138_004454,neg).
 
 %patient: it-0138-004456 index:1539
@@ -33166,6 +34705,7 @@ who_f2(it_0138_004456,0).
 who_f3(it_0138_004456,0).
 who_f4(it_0138_004456,0).
 typeofoutcome_updated(it_0138_004456,2).
+vaccine(it_0138_004456,0,3).
 patient(it_0138_004456,neg).
 
 %patient: it-0138-004458 index:1540
@@ -33182,6 +34722,7 @@ who_f2(it_0138_004458,0).
 who_f3(it_0138_004458,0).
 who_f4(it_0138_004458,0).
 typeofoutcome_updated(it_0138_004458,2).
+vaccine(it_0138_004458,0,3).
 patient(it_0138_004458,neg).
 
 %patient: it-0138-004459 index:1541
@@ -33198,6 +34739,7 @@ who_f2(it_0138_004459,0).
 who_f3(it_0138_004459,0).
 who_f4(it_0138_004459,0).
 typeofoutcome_updated(it_0138_004459,2).
+vaccine(it_0138_004459,0,3).
 patient(it_0138_004459,neg).
 
 %patient: it-0138-004460 index:1542
@@ -33216,6 +34758,7 @@ who_f2(it_0138_004460,0).
 who_f3(it_0138_004460,0).
 who_f4(it_0138_004460,0).
 typeofoutcome_updated(it_0138_004460,2).
+vaccine(it_0138_004460,0,3).
 patient(it_0138_004460,neg).
 
 %patient: it-0138-004461 index:1543
@@ -33234,6 +34777,7 @@ who_f2(it_0138_004461,0).
 who_f3(it_0138_004461,0).
 who_f4(it_0138_004461,0).
 typeofoutcome_updated(it_0138_004461,2).
+vaccine(it_0138_004461,0,3).
 patient(it_0138_004461,neg).
 
 %patient: it-0138-004462 index:1544
@@ -33251,6 +34795,7 @@ who_f2(it_0138_004462,0).
 who_f3(it_0138_004462,0).
 who_f4(it_0138_004462,0).
 typeofoutcome_updated(it_0138_004462,2).
+vaccine(it_0138_004462,0,3).
 patient(it_0138_004462,neg).
 
 %patient: it-0138-004465 index:1545
@@ -33271,6 +34816,7 @@ who_f2(it_0138_004465,0).
 who_f3(it_0138_004465,0).
 who_f4(it_0138_004465,0).
 typeofoutcome_updated(it_0138_004465,2).
+vaccine(it_0138_004465,0,3).
 patient(it_0138_004465,neg).
 
 %patient: it-0138-004474 index:1546
@@ -33291,6 +34837,7 @@ who_f2(it_0138_004474,0).
 who_f3(it_0138_004474,0).
 who_f4(it_0138_004474,0).
 typeofoutcome_updated(it_0138_004474,2).
+vaccine(it_0138_004474,0,3).
 patient(it_0138_004474,neg).
 
 %patient: it-0141-005369 index:1547
@@ -33314,6 +34861,7 @@ who_f2(it_0141_005369,0).
 who_f3(it_0141_005369,0).
 who_f4(it_0141_005369,0).
 typeofoutcome_updated(it_0141_005369,2).
+vaccine(it_0141_005369,0,3).
 patient(it_0141_005369,neg).
 
 %patient: it-0141-005370 index:1548
@@ -33336,6 +34884,7 @@ who_f2(it_0141_005370,0).
 who_f3(it_0141_005370,0).
 who_f4(it_0141_005370,0).
 typeofoutcome_updated(it_0141_005370,2).
+vaccine(it_0141_005370,0,3).
 patient(it_0141_005370,neg).
 
 %patient: it-0141-005374 index:1549
@@ -33356,6 +34905,7 @@ who_f2(it_0141_005374,0).
 who_f3(it_0141_005374,0).
 who_f4(it_0141_005374,0).
 typeofoutcome_updated(it_0141_005374,2).
+vaccine(it_0141_005374,0,3).
 patient(it_0141_005374,neg).
 
 %patient: it-0141-005382 index:1550
@@ -33378,6 +34928,7 @@ who_f2(it_0141_005382,0).
 who_f3(it_0141_005382,0).
 who_f4(it_0141_005382,0).
 typeofoutcome_updated(it_0141_005382,2).
+vaccine(it_0141_005382,0,3).
 patient(it_0141_005382,neg).
 
 %patient: it-0141-005389 index:1551
@@ -33398,6 +34949,7 @@ who_f2(it_0141_005389,0).
 who_f3(it_0141_005389,0).
 who_f4(it_0141_005389,0).
 typeofoutcome_updated(it_0141_005389,2).
+vaccine(it_0141_005389,0,3).
 patient(it_0141_005389,neg).
 
 %patient: it-0141-005390 index:1552
@@ -33421,6 +34973,7 @@ who_f2(it_0141_005390,0).
 who_f3(it_0141_005390,0).
 who_f4(it_0141_005390,0).
 typeofoutcome_updated(it_0141_005390,2).
+vaccine(it_0141_005390,0,3).
 patient(it_0141_005390,neg).
 
 %patient: it-0141-005391 index:1553
@@ -33442,6 +34995,7 @@ who_f2(it_0141_005391,0).
 who_f3(it_0141_005391,0).
 who_f4(it_0141_005391,0).
 typeofoutcome_updated(it_0141_005391,2).
+vaccine(it_0141_005391,0,3).
 patient(it_0141_005391,neg).
 
 %patient: it-0141-005392 index:1554
@@ -33460,6 +35014,7 @@ who_f2(it_0141_005392,0).
 who_f3(it_0141_005392,0).
 who_f4(it_0141_005392,0).
 typeofoutcome_updated(it_0141_005392,2).
+vaccine(it_0141_005392,0,3).
 patient(it_0141_005392,neg).
 
 %patient: it-0141-005489 index:1555
@@ -33478,6 +35033,7 @@ who_f2(it_0141_005489,0).
 who_f3(it_0141_005489,0).
 who_f4(it_0141_005489,0).
 typeofoutcome_updated(it_0141_005489,2).
+vaccine(it_0141_005489,0,3).
 patient(it_0141_005489,neg).
 
 %patient: it-0141-005492 index:1556
@@ -33498,6 +35054,7 @@ who_f2(it_0141_005492,0).
 who_f3(it_0141_005492,0).
 who_f4(it_0141_005492,0).
 typeofoutcome_updated(it_0141_005492,2).
+vaccine(it_0141_005492,0,3).
 patient(it_0141_005492,neg).
 
 %patient: it-0141-005498 index:1557
@@ -33520,6 +35077,7 @@ who_f2(it_0141_005498,0).
 who_f3(it_0141_005498,0).
 who_f4(it_0141_005498,0).
 typeofoutcome_updated(it_0141_005498,2).
+vaccine(it_0141_005498,0,3).
 patient(it_0141_005498,neg).
 
 %patient: it-0141-005505 index:1558
@@ -33540,6 +35098,7 @@ who_f2(it_0141_005505,0).
 who_f3(it_0141_005505,0).
 who_f4(it_0141_005505,0).
 typeofoutcome_updated(it_0141_005505,2).
+vaccine(it_0141_005505,0,3).
 patient(it_0141_005505,neg).
 
 %patient: it-0141-005506 index:1559
@@ -33562,6 +35121,7 @@ who_f2(it_0141_005506,0).
 who_f3(it_0141_005506,0).
 who_f4(it_0141_005506,0).
 typeofoutcome_updated(it_0141_005506,2).
+vaccine(it_0141_005506,0,3).
 patient(it_0141_005506,neg).
 
 %patient: it-0141-005507 index:1560
@@ -33585,6 +35145,7 @@ who_f2(it_0141_005507,0).
 who_f3(it_0141_005507,0).
 who_f4(it_0141_005507,0).
 typeofoutcome_updated(it_0141_005507,2).
+vaccine(it_0141_005507,0,3).
 patient(it_0141_005507,neg).
 
 %patient: it-0141-005768 index:1561
@@ -33605,6 +35166,7 @@ who_f2(it_0141_005768,0).
 who_f3(it_0141_005768,0).
 who_f4(it_0141_005768,0).
 typeofoutcome_updated(it_0141_005768,2).
+vaccine(it_0141_005768,0,3).
 patient(it_0141_005768,neg).
 
 %patient: it-0141-005790 index:1562
@@ -33627,6 +35189,7 @@ who_f2(it_0141_005790,0).
 who_f3(it_0141_005790,0).
 who_f4(it_0141_005790,0).
 typeofoutcome_updated(it_0141_005790,2).
+vaccine(it_0141_005790,0,3).
 patient(it_0141_005790,neg).
 
 %patient: it-0141-005791 index:1563
@@ -33647,6 +35210,7 @@ who_f2(it_0141_005791,0).
 who_f3(it_0141_005791,0).
 who_f4(it_0141_005791,0).
 typeofoutcome_updated(it_0141_005791,2).
+vaccine(it_0141_005791,0,3).
 patient(it_0141_005791,neg).
 
 %patient: it-0141-005793 index:1564
@@ -33666,6 +35230,7 @@ who_f2(it_0141_005793,0).
 who_f3(it_0141_005793,0).
 who_f4(it_0141_005793,0).
 typeofoutcome_updated(it_0141_005793,2).
+vaccine(it_0141_005793,0,3).
 patient(it_0141_005793,neg).
 
 %patient: it-0141-005795 index:1565
@@ -33686,6 +35251,7 @@ who_f2(it_0141_005795,0).
 who_f3(it_0141_005795,0).
 who_f4(it_0141_005795,0).
 typeofoutcome_updated(it_0141_005795,2).
+vaccine(it_0141_005795,0,3).
 patient(it_0141_005795,neg).
 
 %patient: it-0141-005800 index:1566
@@ -33703,6 +35269,7 @@ who_f2(it_0141_005800,0).
 who_f3(it_0141_005800,0).
 who_f4(it_0141_005800,0).
 typeofoutcome_updated(it_0141_005800,2).
+vaccine(it_0141_005800,0,3).
 patient(it_0141_005800,neg).
 
 %patient: it-0141-005803 index:1567
@@ -33722,6 +35289,7 @@ who_f2(it_0141_005803,0).
 who_f3(it_0141_005803,0).
 who_f4(it_0141_005803,0).
 typeofoutcome_updated(it_0141_005803,2).
+vaccine(it_0141_005803,0,3).
 patient(it_0141_005803,neg).
 
 %patient: it-0141-005807 index:1568
@@ -33746,6 +35314,7 @@ who_f2(it_0141_005807,0).
 who_f3(it_0141_005807,0).
 who_f4(it_0141_005807,0).
 typeofoutcome_updated(it_0141_005807,2).
+vaccine(it_0141_005807,0,3).
 patient(it_0141_005807,neg).
 
 %patient: it-0141-005816 index:1569
@@ -33768,6 +35337,7 @@ who_f2(it_0141_005816,0).
 who_f3(it_0141_005816,0).
 who_f4(it_0141_005816,0).
 typeofoutcome_updated(it_0141_005816,2).
+vaccine(it_0141_005816,0,3).
 patient(it_0141_005816,neg).
 
 %patient: it-0141-006548 index:1570
@@ -33785,6 +35355,7 @@ who_f2(it_0141_006548,0).
 who_f3(it_0141_006548,0).
 who_f4(it_0141_006548,0).
 typeofoutcome_updated(it_0141_006548,2).
+vaccine(it_0141_006548,0,3).
 patient(it_0141_006548,neg).
 
 %patient: it-0143-004086 index:1571
@@ -33812,6 +35383,7 @@ who_f2(it_0143_004086,0).
 who_f3(it_0143_004086,0).
 who_f4(it_0143_004086,0).
 typeofoutcome_updated(it_0143_004086,2).
+vaccine(it_0143_004086,0,2).
 patient(it_0143_004086,neg).
 
 %patient: it-0143-004845 index:1572
@@ -33828,6 +35400,7 @@ who_f2(it_0143_004845,0).
 who_f3(it_0143_004845,0).
 who_f4(it_0143_004845,0).
 typeofoutcome_updated(it_0143_004845,2).
+vaccine(it_0143_004845,0,2).
 patient(it_0143_004845,neg).
 
 %patient: it-0143-004848 index:1573
@@ -33848,6 +35421,7 @@ who_f2(it_0143_004848,0).
 who_f3(it_0143_004848,0).
 who_f4(it_0143_004848,0).
 typeofoutcome_updated(it_0143_004848,2).
+vaccine(it_0143_004848,0,1).
 patient(it_0143_004848,neg).
 
 %patient: it-0143-004852 index:1574
@@ -33868,6 +35442,7 @@ who_f2(it_0143_004852,1).
 who_f3(it_0143_004852,1).
 who_f4(it_0143_004852,1).
 typeofoutcome_updated(it_0143_004852,2).
+vaccine(it_0143_004852,0,2).
 patient(it_0143_004852,neg).
 
 %patient: it-0143-005245 index:1575
@@ -33887,6 +35462,7 @@ who_f2(it_0143_005245,0).
 who_f3(it_0143_005245,1).
 who_f4(it_0143_005245,0).
 typeofoutcome_updated(it_0143_005245,2).
+vaccine(it_0143_005245,0,2).
 patient(it_0143_005245,neg).
 
 %patient: it-0143-005250 index:1576
@@ -33909,6 +35485,7 @@ who_f2(it_0143_005250,0).
 who_f3(it_0143_005250,1).
 who_f4(it_0143_005250,1).
 typeofoutcome_updated(it_0143_005250,2).
+vaccine(it_0143_005250,0,2).
 patient(it_0143_005250,neg).
 
 %patient: it-0143-005263 index:1577
@@ -33929,6 +35506,7 @@ who_f2(it_0143_005263,0).
 who_f3(it_0143_005263,1).
 who_f4(it_0143_005263,0).
 typeofoutcome_updated(it_0143_005263,2).
+vaccine(it_0143_005263,0,2).
 patient(it_0143_005263,neg).
 
 %patient: it-0143-005266 index:1578
@@ -33952,6 +35530,7 @@ who_f2(it_0143_005266,0).
 who_f3(it_0143_005266,1).
 who_f4(it_0143_005266,1).
 typeofoutcome_updated(it_0143_005266,2).
+vaccine(it_0143_005266,0,2).
 patient(it_0143_005266,neg).
 
 %patient: it-0143-005268 index:1579
@@ -33973,6 +35552,7 @@ who_f2(it_0143_005268,0).
 who_f3(it_0143_005268,1).
 who_f4(it_0143_005268,1).
 typeofoutcome_updated(it_0143_005268,2).
+vaccine(it_0143_005268,0,2).
 patient(it_0143_005268,neg).
 
 %patient: it-0143-005271 index:1580
@@ -33991,6 +35571,7 @@ who_f2(it_0143_005271,0).
 who_f3(it_0143_005271,1).
 who_f4(it_0143_005271,1).
 typeofoutcome_updated(it_0143_005271,2).
+vaccine(it_0143_005271,0,2).
 patient(it_0143_005271,neg).
 
 %patient: it-0143-005272 index:1581
@@ -34007,6 +35588,7 @@ who_f2(it_0143_005272,0).
 who_f3(it_0143_005272,1).
 who_f4(it_0143_005272,1).
 typeofoutcome_updated(it_0143_005272,2).
+vaccine(it_0143_005272,0,2).
 patient(it_0143_005272,neg).
 
 %patient: it-0143-005274 index:1582
@@ -34029,6 +35611,7 @@ who_f2(it_0143_005274,0).
 who_f3(it_0143_005274,1).
 who_f4(it_0143_005274,1).
 typeofoutcome_updated(it_0143_005274,2).
+vaccine(it_0143_005274,0,2).
 patient(it_0143_005274,neg).
 
 %patient: it-0143-005275 index:1583
@@ -34047,6 +35630,7 @@ who_f2(it_0143_005275,0).
 who_f3(it_0143_005275,0).
 who_f4(it_0143_005275,0).
 typeofoutcome_updated(it_0143_005275,2).
+vaccine(it_0143_005275,0,2).
 patient(it_0143_005275,neg).
 
 %patient: it-0143-005277 index:1584
@@ -34069,6 +35653,7 @@ who_f2(it_0143_005277,0).
 who_f3(it_0143_005277,1).
 who_f4(it_0143_005277,1).
 typeofoutcome_updated(it_0143_005277,2).
+vaccine(it_0143_005277,0,2).
 patient(it_0143_005277,neg).
 
 %patient: it-0143-005281 index:1585
@@ -34085,6 +35670,7 @@ who_f2(it_0143_005281,0).
 who_f3(it_0143_005281,1).
 who_f4(it_0143_005281,1).
 typeofoutcome_updated(it_0143_005281,2).
+vaccine(it_0143_005281,0,2).
 patient(it_0143_005281,neg).
 
 %patient: it-0143-005287 index:1586
@@ -34100,6 +35686,7 @@ who_f2(it_0143_005287,0).
 who_f3(it_0143_005287,1).
 who_f4(it_0143_005287,0).
 typeofoutcome_updated(it_0143_005287,2).
+vaccine(it_0143_005287,0,2).
 patient(it_0143_005287,neg).
 
 %patient: it-0143-005308 index:1587
@@ -34119,6 +35706,7 @@ who_f2(it_0143_005308,0).
 who_f3(it_0143_005308,1).
 who_f4(it_0143_005308,1).
 typeofoutcome_updated(it_0143_005308,2).
+vaccine(it_0143_005308,0,2).
 patient(it_0143_005308,neg).
 
 %patient: it-0143-005312 index:1588
@@ -34138,6 +35726,7 @@ who_f2(it_0143_005312,0).
 who_f3(it_0143_005312,0).
 who_f4(it_0143_005312,1).
 typeofoutcome_updated(it_0143_005312,2).
+vaccine(it_0143_005312,0,2).
 patient(it_0143_005312,neg).
 
 %patient: it-0143-005313 index:1589
@@ -34155,6 +35744,7 @@ who_f2(it_0143_005313,0).
 who_f3(it_0143_005313,0).
 who_f4(it_0143_005313,1).
 typeofoutcome_updated(it_0143_005313,2).
+vaccine(it_0143_005313,0,2).
 patient(it_0143_005313,neg).
 
 %patient: it-0143-005314 index:1590
@@ -34174,6 +35764,7 @@ who_f2(it_0143_005314,0).
 who_f3(it_0143_005314,0).
 who_f4(it_0143_005314,1).
 typeofoutcome_updated(it_0143_005314,2).
+vaccine(it_0143_005314,0,2).
 patient(it_0143_005314,neg).
 
 %patient: it-0143-005316 index:1591
@@ -34197,6 +35788,7 @@ who_f2(it_0143_005316,0).
 who_f3(it_0143_005316,0).
 who_f4(it_0143_005316,1).
 typeofoutcome_updated(it_0143_005316,2).
+vaccine(it_0143_005316,0,2).
 patient(it_0143_005316,neg).
 
 %patient: it-0143-005317 index:1592
@@ -34219,6 +35811,7 @@ who_f2(it_0143_005317,0).
 who_f3(it_0143_005317,0).
 who_f4(it_0143_005317,1).
 typeofoutcome_updated(it_0143_005317,2).
+vaccine(it_0143_005317,0,2).
 patient(it_0143_005317,neg).
 
 %patient: it-0143-005318 index:1593
@@ -34238,6 +35831,7 @@ who_f2(it_0143_005318,0).
 who_f3(it_0143_005318,0).
 who_f4(it_0143_005318,1).
 typeofoutcome_updated(it_0143_005318,2).
+vaccine(it_0143_005318,0,2).
 patient(it_0143_005318,neg).
 
 %patient: it-0143-005321 index:1594
@@ -34257,6 +35851,7 @@ who_f2(it_0143_005321,0).
 who_f3(it_0143_005321,0).
 who_f4(it_0143_005321,0).
 typeofoutcome_updated(it_0143_005321,2).
+vaccine(it_0143_005321,0,2).
 patient(it_0143_005321,neg).
 
 %patient: it-0143-005323 index:1595
@@ -34277,6 +35872,7 @@ who_f2(it_0143_005323,0).
 who_f3(it_0143_005323,1).
 who_f4(it_0143_005323,1).
 typeofoutcome_updated(it_0143_005323,2).
+vaccine(it_0143_005323,0,2).
 patient(it_0143_005323,neg).
 
 %patient: it-0143-005324 index:1596
@@ -34295,6 +35891,7 @@ who_f2(it_0143_005324,0).
 who_f3(it_0143_005324,0).
 who_f4(it_0143_005324,0).
 typeofoutcome_updated(it_0143_005324,2).
+vaccine(it_0143_005324,0,2).
 patient(it_0143_005324,neg).
 
 %patient: it-0143-005325 index:1597
@@ -34317,6 +35914,7 @@ who_f2(it_0143_005325,0).
 who_f3(it_0143_005325,0).
 who_f4(it_0143_005325,0).
 typeofoutcome_updated(it_0143_005325,2).
+vaccine(it_0143_005325,0,2).
 patient(it_0143_005325,neg).
 
 %patient: it-0143-005326 index:1598
@@ -34339,6 +35937,7 @@ who_f2(it_0143_005326,0).
 who_f3(it_0143_005326,1).
 who_f4(it_0143_005326,1).
 typeofoutcome_updated(it_0143_005326,2).
+vaccine(it_0143_005326,0,2).
 patient(it_0143_005326,neg).
 
 %patient: it-0143-005327 index:1599
@@ -34356,6 +35955,7 @@ who_f2(it_0143_005327,0).
 who_f3(it_0143_005327,0).
 who_f4(it_0143_005327,0).
 typeofoutcome_updated(it_0143_005327,2).
+vaccine(it_0143_005327,0,2).
 patient(it_0143_005327,neg).
 
 %patient: it-0143-005328 index:1600
@@ -34376,6 +35976,7 @@ who_f2(it_0143_005328,0).
 who_f3(it_0143_005328,0).
 who_f4(it_0143_005328,0).
 typeofoutcome_updated(it_0143_005328,2).
+vaccine(it_0143_005328,0,2).
 patient(it_0143_005328,neg).
 
 %patient: it-0143-005329 index:1601
@@ -34397,6 +35998,7 @@ who_f2(it_0143_005329,0).
 who_f3(it_0143_005329,1).
 who_f4(it_0143_005329,1).
 typeofoutcome_updated(it_0143_005329,2).
+vaccine(it_0143_005329,0,2).
 patient(it_0143_005329,neg).
 
 %patient: it-0143-005331 index:1602
@@ -34420,6 +36022,7 @@ who_f2(it_0143_005331,0).
 who_f3(it_0143_005331,1).
 who_f4(it_0143_005331,1).
 typeofoutcome_updated(it_0143_005331,2).
+vaccine(it_0143_005331,0,2).
 patient(it_0143_005331,neg).
 
 %patient: it-0143-005333 index:1603
@@ -34440,6 +36043,7 @@ who_f2(it_0143_005333,0).
 who_f3(it_0143_005333,0).
 who_f4(it_0143_005333,0).
 typeofoutcome_updated(it_0143_005333,2).
+vaccine(it_0143_005333,0,2).
 patient(it_0143_005333,neg).
 
 %patient: it-0143-005334 index:1604
@@ -34464,6 +36068,7 @@ who_f2(it_0143_005334,0).
 who_f3(it_0143_005334,0).
 who_f4(it_0143_005334,0).
 typeofoutcome_updated(it_0143_005334,2).
+vaccine(it_0143_005334,0,2).
 patient(it_0143_005334,neg).
 
 %patient: it-0143-005335 index:1605
@@ -34484,6 +36089,7 @@ who_f2(it_0143_005335,0).
 who_f3(it_0143_005335,0).
 who_f4(it_0143_005335,0).
 typeofoutcome_updated(it_0143_005335,2).
+vaccine(it_0143_005335,0,2).
 patient(it_0143_005335,neg).
 
 %patient: it-0143-005336 index:1606
@@ -34502,6 +36108,7 @@ who_f2(it_0143_005336,0).
 who_f3(it_0143_005336,0).
 who_f4(it_0143_005336,0).
 typeofoutcome_updated(it_0143_005336,2).
+vaccine(it_0143_005336,0,2).
 patient(it_0143_005336,neg).
 
 %patient: it-0143-005337 index:1607
@@ -34521,6 +36128,7 @@ who_f2(it_0143_005337,0).
 who_f3(it_0143_005337,1).
 who_f4(it_0143_005337,1).
 typeofoutcome_updated(it_0143_005337,2).
+vaccine(it_0143_005337,0,2).
 patient(it_0143_005337,neg).
 
 %patient: it-0143-006149 index:1608
@@ -34537,6 +36145,7 @@ who_f2(it_0143_006149,0).
 who_f3(it_0143_006149,0).
 who_f4(it_0143_006149,0).
 typeofoutcome_updated(it_0143_006149,2).
+vaccine(it_0143_006149,0,2).
 patient(it_0143_006149,neg).
 
 %patient: it-0143-006150 index:1609
@@ -34558,6 +36167,7 @@ who_f2(it_0143_006150,0).
 who_f3(it_0143_006150,0).
 who_f4(it_0143_006150,0).
 typeofoutcome_updated(it_0143_006150,2).
+vaccine(it_0143_006150,0,2).
 patient(it_0143_006150,neg).
 
 %patient: it-0143-006159 index:1610
@@ -34579,6 +36189,7 @@ who_f2(it_0143_006159,0).
 who_f3(it_0143_006159,0).
 who_f4(it_0143_006159,0).
 typeofoutcome_updated(it_0143_006159,2).
+vaccine(it_0143_006159,0,2).
 patient(it_0143_006159,neg).
 
 %patient: it-0143-006160 index:1611
@@ -34597,6 +36208,7 @@ who_f2(it_0143_006160,0).
 who_f3(it_0143_006160,0).
 who_f4(it_0143_006160,0).
 typeofoutcome_updated(it_0143_006160,2).
+vaccine(it_0143_006160,0,2).
 patient(it_0143_006160,neg).
 
 %patient: it-0143-006161 index:1612
@@ -34615,6 +36227,7 @@ who_f2(it_0143_006161,0).
 who_f3(it_0143_006161,0).
 who_f4(it_0143_006161,0).
 typeofoutcome_updated(it_0143_006161,2).
+vaccine(it_0143_006161,0,2).
 patient(it_0143_006161,neg).
 
 %patient: it-0143-006162 index:1613
@@ -34631,6 +36244,7 @@ who_f2(it_0143_006162,0).
 who_f3(it_0143_006162,0).
 who_f4(it_0143_006162,0).
 typeofoutcome_updated(it_0143_006162,2).
+vaccine(it_0143_006162,0,2).
 patient(it_0143_006162,neg).
 
 %patient: it-0143-006163 index:1614
@@ -34650,6 +36264,7 @@ who_f2(it_0143_006163,0).
 who_f3(it_0143_006163,0).
 who_f4(it_0143_006163,0).
 typeofoutcome_updated(it_0143_006163,2).
+vaccine(it_0143_006163,0,2).
 patient(it_0143_006163,neg).
 
 %patient: it-0143-006164 index:1615
@@ -34670,6 +36285,7 @@ who_f2(it_0143_006164,0).
 who_f3(it_0143_006164,0).
 who_f4(it_0143_006164,0).
 typeofoutcome_updated(it_0143_006164,2).
+vaccine(it_0143_006164,0,2).
 patient(it_0143_006164,neg).
 
 %patient: it-0143-006165 index:1616
@@ -34691,6 +36307,7 @@ who_f2(it_0143_006165,0).
 who_f3(it_0143_006165,0).
 who_f4(it_0143_006165,0).
 typeofoutcome_updated(it_0143_006165,2).
+vaccine(it_0143_006165,0,2).
 patient(it_0143_006165,neg).
 
 %patient: it-0143-006183 index:1617
@@ -34709,6 +36326,7 @@ who_f2(it_0143_006183,0).
 who_f3(it_0143_006183,0).
 who_f4(it_0143_006183,0).
 typeofoutcome_updated(it_0143_006183,2).
+vaccine(it_0143_006183,0,2).
 patient(it_0143_006183,neg).
 
 %patient: it-0143-006185 index:1618
@@ -34729,6 +36347,7 @@ who_f2(it_0143_006185,0).
 who_f3(it_0143_006185,0).
 who_f4(it_0143_006185,0).
 typeofoutcome_updated(it_0143_006185,2).
+vaccine(it_0143_006185,0,2).
 patient(it_0143_006185,neg).
 
 %patient: it-0143-006189 index:1619
@@ -34748,6 +36367,7 @@ who_f2(it_0143_006189,0).
 who_f3(it_0143_006189,0).
 who_f4(it_0143_006189,0).
 typeofoutcome_updated(it_0143_006189,2).
+vaccine(it_0143_006189,0,2).
 patient(it_0143_006189,neg).
 
 %patient: it-0143-006192 index:1620
@@ -34768,6 +36388,7 @@ who_f2(it_0143_006192,0).
 who_f3(it_0143_006192,0).
 who_f4(it_0143_006192,0).
 typeofoutcome_updated(it_0143_006192,2).
+vaccine(it_0143_006192,0,2).
 patient(it_0143_006192,neg).
 
 %patient: it-0143-006193 index:1621
@@ -34789,6 +36410,7 @@ who_f2(it_0143_006193,0).
 who_f3(it_0143_006193,0).
 who_f4(it_0143_006193,0).
 typeofoutcome_updated(it_0143_006193,2).
+vaccine(it_0143_006193,0,2).
 patient(it_0143_006193,neg).
 
 %patient: it-0143-006194 index:1622
@@ -34808,6 +36430,7 @@ who_f2(it_0143_006194,0).
 who_f3(it_0143_006194,0).
 who_f4(it_0143_006194,0).
 typeofoutcome_updated(it_0143_006194,2).
+vaccine(it_0143_006194,0,2).
 patient(it_0143_006194,neg).
 
 %patient: it-0143-006196 index:1623
@@ -34827,6 +36450,7 @@ who_f2(it_0143_006196,0).
 who_f3(it_0143_006196,0).
 who_f4(it_0143_006196,0).
 typeofoutcome_updated(it_0143_006196,2).
+vaccine(it_0143_006196,0,2).
 patient(it_0143_006196,neg).
 
 %patient: it-0143-006199 index:1624
@@ -34846,6 +36470,7 @@ who_f2(it_0143_006199,0).
 who_f3(it_0143_006199,0).
 who_f4(it_0143_006199,0).
 typeofoutcome_updated(it_0143_006199,2).
+vaccine(it_0143_006199,0,2).
 patient(it_0143_006199,neg).
 
 %patient: it-0143-006200 index:1625
@@ -34863,6 +36488,7 @@ who_f2(it_0143_006200,0).
 who_f3(it_0143_006200,9).
 who_f4(it_0143_006200,1).
 typeofoutcome_updated(it_0143_006200,2).
+vaccine(it_0143_006200,0,2).
 patient(it_0143_006200,neg).
 
 %patient: it-0143-006201 index:1626
@@ -34885,6 +36511,7 @@ who_f2(it_0143_006201,0).
 who_f3(it_0143_006201,0).
 who_f4(it_0143_006201,0).
 typeofoutcome_updated(it_0143_006201,2).
+vaccine(it_0143_006201,0,2).
 patient(it_0143_006201,neg).
 
 %patient: it-0143-006202 index:1627
@@ -34904,6 +36531,7 @@ who_f2(it_0143_006202,0).
 who_f3(it_0143_006202,0).
 who_f4(it_0143_006202,0).
 typeofoutcome_updated(it_0143_006202,2).
+vaccine(it_0143_006202,0,2).
 patient(it_0143_006202,neg).
 
 %patient: it-0143-006204 index:1628
@@ -34925,6 +36553,7 @@ who_f2(it_0143_006204,0).
 who_f3(it_0143_006204,0).
 who_f4(it_0143_006204,0).
 typeofoutcome_updated(it_0143_006204,2).
+vaccine(it_0143_006204,0,2).
 patient(it_0143_006204,neg).
 
 %patient: it-0143-006207 index:1629
@@ -34939,6 +36568,7 @@ who_f2(it_0143_006207,0).
 who_f3(it_0143_006207,0).
 who_f4(it_0143_006207,0).
 typeofoutcome_updated(it_0143_006207,2).
+vaccine(it_0143_006207,0,2).
 patient(it_0143_006207,neg).
 
 %patient: it-0143-006278 index:1630
@@ -34960,6 +36590,7 @@ who_f2(it_0143_006278,0).
 who_f3(it_0143_006278,0).
 who_f4(it_0143_006278,0).
 typeofoutcome_updated(it_0143_006278,2).
+vaccine(it_0143_006278,0,2).
 patient(it_0143_006278,neg).
 
 %patient: it-0143-006279 index:1631
@@ -34979,6 +36610,7 @@ who_f2(it_0143_006279,0).
 who_f3(it_0143_006279,0).
 who_f4(it_0143_006279,1).
 typeofoutcome_updated(it_0143_006279,2).
+vaccine(it_0143_006279,0,2).
 patient(it_0143_006279,neg).
 
 %patient: it-0143-006281 index:1632
@@ -34999,6 +36631,7 @@ who_f2(it_0143_006281,0).
 who_f3(it_0143_006281,1).
 who_f4(it_0143_006281,1).
 typeofoutcome_updated(it_0143_006281,2).
+vaccine(it_0143_006281,0,2).
 patient(it_0143_006281,neg).
 
 %patient: it-0143-006284 index:1633
@@ -35020,6 +36653,7 @@ who_f2(it_0143_006284,0).
 who_f3(it_0143_006284,1).
 who_f4(it_0143_006284,1).
 typeofoutcome_updated(it_0143_006284,2).
+vaccine(it_0143_006284,0,2).
 patient(it_0143_006284,neg).
 
 %patient: it-0143-006285 index:1634
@@ -35037,6 +36671,7 @@ who_f2(it_0143_006285,0).
 who_f3(it_0143_006285,0).
 who_f4(it_0143_006285,0).
 typeofoutcome_updated(it_0143_006285,2).
+vaccine(it_0143_006285,0,2).
 patient(it_0143_006285,neg).
 
 %patient: it-0143-006286 index:1635
@@ -35055,6 +36690,7 @@ who_f2(it_0143_006286,0).
 who_f3(it_0143_006286,0).
 who_f4(it_0143_006286,0).
 typeofoutcome_updated(it_0143_006286,2).
+vaccine(it_0143_006286,0,2).
 patient(it_0143_006286,neg).
 
 %patient: it-0143-006621 index:1636
@@ -35073,6 +36709,7 @@ who_f2(it_0143_006621,0).
 who_f3(it_0143_006621,1).
 who_f4(it_0143_006621,1).
 typeofoutcome_updated(it_0143_006621,2).
+vaccine(it_0143_006621,0,2).
 patient(it_0143_006621,neg).
 
 %patient: it-0143-006624 index:1637
@@ -35094,6 +36731,7 @@ who_f2(it_0143_006624,0).
 who_f3(it_0143_006624,1).
 who_f4(it_0143_006624,1).
 typeofoutcome_updated(it_0143_006624,2).
+vaccine(it_0143_006624,0,2).
 patient(it_0143_006624,neg).
 
 %patient: it-0143-006625 index:1638
@@ -35115,6 +36753,7 @@ who_f2(it_0143_006625,0).
 who_f3(it_0143_006625,0).
 who_f4(it_0143_006625,0).
 typeofoutcome_updated(it_0143_006625,2).
+vaccine(it_0143_006625,0,2).
 patient(it_0143_006625,neg).
 
 %patient: it-0143-006628 index:1639
@@ -35135,6 +36774,7 @@ who_f2(it_0143_006628,0).
 who_f3(it_0143_006628,1).
 who_f4(it_0143_006628,1).
 typeofoutcome_updated(it_0143_006628,2).
+vaccine(it_0143_006628,0,2).
 patient(it_0143_006628,neg).
 
 %patient: it-0143-006629 index:1640
@@ -35152,6 +36792,7 @@ who_f2(it_0143_006629,0).
 who_f3(it_0143_006629,1).
 who_f4(it_0143_006629,1).
 typeofoutcome_updated(it_0143_006629,2).
+vaccine(it_0143_006629,0,2).
 patient(it_0143_006629,neg).
 
 %patient: it-0143-006630 index:1641
@@ -35171,6 +36812,7 @@ who_f2(it_0143_006630,0).
 who_f3(it_0143_006630,1).
 who_f4(it_0143_006630,1).
 typeofoutcome_updated(it_0143_006630,2).
+vaccine(it_0143_006630,0,2).
 patient(it_0143_006630,neg).
 
 %patient: it-0143-006631 index:1642
@@ -35188,6 +36830,7 @@ who_f2(it_0143_006631,0).
 who_f3(it_0143_006631,0).
 who_f4(it_0143_006631,0).
 typeofoutcome_updated(it_0143_006631,2).
+vaccine(it_0143_006631,0,2).
 patient(it_0143_006631,neg).
 
 %patient: it-0143-006632 index:1643
@@ -35207,6 +36850,7 @@ who_f2(it_0143_006632,0).
 who_f3(it_0143_006632,0).
 who_f4(it_0143_006632,0).
 typeofoutcome_updated(it_0143_006632,2).
+vaccine(it_0143_006632,0,2).
 patient(it_0143_006632,neg).
 
 %patient: it-0143-006633 index:1644
@@ -35230,6 +36874,7 @@ who_f2(it_0143_006633,0).
 who_f3(it_0143_006633,0).
 who_f4(it_0143_006633,0).
 typeofoutcome_updated(it_0143_006633,2).
+vaccine(it_0143_006633,0,2).
 patient(it_0143_006633,neg).
 
 %patient: it-0143-006634 index:1645
@@ -35252,6 +36897,7 @@ who_f2(it_0143_006634,0).
 who_f3(it_0143_006634,0).
 who_f4(it_0143_006634,0).
 typeofoutcome_updated(it_0143_006634,2).
+vaccine(it_0143_006634,0,2).
 patient(it_0143_006634,neg).
 
 %patient: it-0143-006635 index:1646
@@ -35274,6 +36920,7 @@ who_f2(it_0143_006635,0).
 who_f3(it_0143_006635,1).
 who_f4(it_0143_006635,1).
 typeofoutcome_updated(it_0143_006635,2).
+vaccine(it_0143_006635,0,2).
 patient(it_0143_006635,neg).
 
 %patient: it-0143-006637 index:1647
@@ -35290,6 +36937,7 @@ who_f2(it_0143_006637,0).
 who_f3(it_0143_006637,1).
 who_f4(it_0143_006637,1).
 typeofoutcome_updated(it_0143_006637,2).
+vaccine(it_0143_006637,0,2).
 patient(it_0143_006637,neg).
 
 %patient: it-0143-006639 index:1648
@@ -35311,6 +36959,7 @@ who_f2(it_0143_006639,0).
 who_f3(it_0143_006639,0).
 who_f4(it_0143_006639,1).
 typeofoutcome_updated(it_0143_006639,2).
+vaccine(it_0143_006639,0,2).
 patient(it_0143_006639,neg).
 
 %patient: it-0143-006640 index:1649
@@ -35330,6 +36979,7 @@ who_f2(it_0143_006640,0).
 who_f3(it_0143_006640,0).
 who_f4(it_0143_006640,0).
 typeofoutcome_updated(it_0143_006640,2).
+vaccine(it_0143_006640,0,2).
 patient(it_0143_006640,neg).
 
 %patient: it-0143-006641 index:1650
@@ -35353,6 +37003,7 @@ who_f2(it_0143_006641,0).
 who_f3(it_0143_006641,0).
 who_f4(it_0143_006641,1).
 typeofoutcome_updated(it_0143_006641,2).
+vaccine(it_0143_006641,0,2).
 patient(it_0143_006641,neg).
 
 %patient: it-0143-006642 index:1651
@@ -35372,6 +37023,7 @@ who_f2(it_0143_006642,0).
 who_f3(it_0143_006642,0).
 who_f4(it_0143_006642,1).
 typeofoutcome_updated(it_0143_006642,2).
+vaccine(it_0143_006642,0,2).
 patient(it_0143_006642,neg).
 
 %patient: it-0145-004572 index:1652
@@ -35399,6 +37051,7 @@ who_f2(it_0145_004572,0).
 who_f3(it_0145_004572,0).
 who_f4(it_0145_004572,0).
 typeofoutcome_updated(it_0145_004572,2).
+vaccine(it_0145_004572,0,3).
 patient(it_0145_004572,neg).
 
 %patient: it-0145-004575 index:1653
@@ -35429,6 +37082,7 @@ who_f2(it_0145_004575,0).
 who_f3(it_0145_004575,0).
 who_f4(it_0145_004575,0).
 typeofoutcome_updated(it_0145_004575,2).
+vaccine(it_0145_004575,0,3).
 patient(it_0145_004575,neg).
 
 %patient: it-0145-006867 index:1654
@@ -35449,6 +37103,7 @@ who_f2(it_0145_006867,0).
 who_f3(it_0145_006867,0).
 who_f4(it_0145_006867,0).
 typeofoutcome_updated(it_0145_006867,2).
+vaccine(it_0145_006867,0,3).
 patient(it_0145_006867,neg).
 
 %patient: it-0145-006868 index:1655
@@ -35472,6 +37127,7 @@ who_f2(it_0145_006868,0).
 who_f3(it_0145_006868,0).
 who_f4(it_0145_006868,0).
 typeofoutcome_updated(it_0145_006868,2).
+vaccine(it_0145_006868,0,3).
 patient(it_0145_006868,neg).
 
 %patient: it-0145-006871 index:1656
@@ -35496,6 +37152,7 @@ who_f2(it_0145_006871,0).
 who_f3(it_0145_006871,0).
 who_f4(it_0145_006871,0).
 typeofoutcome_updated(it_0145_006871,2).
+vaccine(it_0145_006871,0,3).
 patient(it_0145_006871,neg).
 
 %patient: it-0145-006874 index:1657
@@ -35519,6 +37176,7 @@ who_f2(it_0145_006874,0).
 who_f3(it_0145_006874,0).
 who_f4(it_0145_006874,0).
 typeofoutcome_updated(it_0145_006874,2).
+vaccine(it_0145_006874,0,3).
 patient(it_0145_006874,neg).
 
 %patient: it-0145-006875 index:1658
@@ -35541,6 +37199,7 @@ who_f2(it_0145_006875,0).
 who_f3(it_0145_006875,0).
 who_f4(it_0145_006875,0).
 typeofoutcome_updated(it_0145_006875,2).
+vaccine(it_0145_006875,0,3).
 patient(it_0145_006875,neg).
 
 %patient: it-0145-006878 index:1659
@@ -35562,6 +37221,7 @@ who_f2(it_0145_006878,0).
 who_f3(it_0145_006878,0).
 who_f4(it_0145_006878,0).
 typeofoutcome_updated(it_0145_006878,2).
+vaccine(it_0145_006878,0,3).
 patient(it_0145_006878,neg).
 
 %patient: it-0145-006879 index:1660
@@ -35585,6 +37245,7 @@ who_f2(it_0145_006879,0).
 who_f3(it_0145_006879,0).
 who_f4(it_0145_006879,0).
 typeofoutcome_updated(it_0145_006879,2).
+vaccine(it_0145_006879,0,3).
 patient(it_0145_006879,neg).
 
 %patient: it-0145-006880 index:1661
@@ -35611,6 +37272,7 @@ who_f2(it_0145_006880,0).
 who_f3(it_0145_006880,0).
 who_f4(it_0145_006880,0).
 typeofoutcome_updated(it_0145_006880,2).
+vaccine(it_0145_006880,0,3).
 patient(it_0145_006880,neg).
 
 %patient: it-0145-006881 index:1662
@@ -35632,6 +37294,7 @@ who_f2(it_0145_006881,0).
 who_f3(it_0145_006881,0).
 who_f4(it_0145_006881,0).
 typeofoutcome_updated(it_0145_006881,2).
+vaccine(it_0145_006881,0,3).
 patient(it_0145_006881,neg).
 
 %patient: it-0145-006882 index:1663
@@ -35654,6 +37317,7 @@ who_f2(it_0145_006882,0).
 who_f3(it_0145_006882,0).
 who_f4(it_0145_006882,0).
 typeofoutcome_updated(it_0145_006882,2).
+vaccine(it_0145_006882,0,3).
 patient(it_0145_006882,neg).
 
 %patient: it-0145-006884 index:1664
@@ -35675,6 +37339,7 @@ who_f2(it_0145_006884,0).
 who_f3(it_0145_006884,0).
 who_f4(it_0145_006884,0).
 typeofoutcome_updated(it_0145_006884,2).
+vaccine(it_0145_006884,0,3).
 patient(it_0145_006884,neg).
 
 %patient: it-0145-006885 index:1665
@@ -35695,6 +37360,7 @@ who_f2(it_0145_006885,0).
 who_f3(it_0145_006885,0).
 who_f4(it_0145_006885,0).
 typeofoutcome_updated(it_0145_006885,2).
+vaccine(it_0145_006885,0,3).
 patient(it_0145_006885,neg).
 
 %patient: it-0145-006886 index:1666
@@ -35718,6 +37384,7 @@ who_f2(it_0145_006886,0).
 who_f3(it_0145_006886,0).
 who_f4(it_0145_006886,0).
 typeofoutcome_updated(it_0145_006886,2).
+vaccine(it_0145_006886,0,3).
 patient(it_0145_006886,neg).
 
 %patient: it-0145-006887 index:1667
@@ -35741,6 +37408,7 @@ who_f2(it_0145_006887,0).
 who_f3(it_0145_006887,0).
 who_f4(it_0145_006887,0).
 typeofoutcome_updated(it_0145_006887,2).
+vaccine(it_0145_006887,0,3).
 patient(it_0145_006887,neg).
 
 %patient: it-0145-006888 index:1668
@@ -35761,6 +37429,7 @@ who_f2(it_0145_006888,0).
 who_f3(it_0145_006888,0).
 who_f4(it_0145_006888,0).
 typeofoutcome_updated(it_0145_006888,2).
+vaccine(it_0145_006888,0,3).
 patient(it_0145_006888,neg).
 
 %patient: it-0145-006890 index:1669
@@ -35785,6 +37454,7 @@ who_f2(it_0145_006890,0).
 who_f3(it_0145_006890,0).
 who_f4(it_0145_006890,0).
 typeofoutcome_updated(it_0145_006890,2).
+vaccine(it_0145_006890,0,3).
 patient(it_0145_006890,neg).
 
 %patient: it-0145-006895 index:1670
@@ -35810,6 +37480,7 @@ who_f2(it_0145_006895,0).
 who_f3(it_0145_006895,0).
 who_f4(it_0145_006895,0).
 typeofoutcome_updated(it_0145_006895,2).
+vaccine(it_0145_006895,0,3).
 patient(it_0145_006895,neg).
 
 %patient: it-0148-005822 index:1671
@@ -35832,6 +37503,7 @@ who_f2(it_0148_005822,0).
 who_f3(it_0148_005822,0).
 who_f4(it_0148_005822,0).
 typeofoutcome_updated(it_0148_005822,2).
+vaccine(it_0148_005822,0,3).
 patient(it_0148_005822,neg).
 
 %patient: it-0148-006007 index:1672
@@ -35853,6 +37525,7 @@ who_f2(it_0148_006007,0).
 who_f3(it_0148_006007,9).
 who_f4(it_0148_006007,0).
 typeofoutcome_updated(it_0148_006007,2).
+vaccine(it_0148_006007,0,3).
 patient(it_0148_006007,neg).
 
 %patient: it-0151-005727 index:1673
@@ -35870,6 +37543,7 @@ who_f2(it_0151_005727,0).
 who_f3(it_0151_005727,0).
 who_f4(it_0151_005727,0).
 typeofoutcome_updated(it_0151_005727,2).
+vaccine(it_0151_005727,0,3).
 patient(it_0151_005727,neg).
 
 %patient: it-0152-004903 index:1674
@@ -35890,6 +37564,7 @@ who_f2(it_0152_004903,0).
 who_f3(it_0152_004903,0).
 who_f4(it_0152_004903,0).
 typeofoutcome_updated(it_0152_004903,2).
+vaccine(it_0152_004903,0,2).
 patient(it_0152_004903,neg).
 
 %patient: it-0152-004904 index:1675
@@ -35907,6 +37582,7 @@ who_f2(it_0152_004904,0).
 who_f3(it_0152_004904,0).
 who_f4(it_0152_004904,0).
 typeofoutcome_updated(it_0152_004904,2).
+vaccine(it_0152_004904,0,2).
 patient(it_0152_004904,neg).
 
 %patient: it-0152-004905 index:1676
@@ -35925,6 +37601,7 @@ who_f2(it_0152_004905,0).
 who_f3(it_0152_004905,0).
 who_f4(it_0152_004905,0).
 typeofoutcome_updated(it_0152_004905,2).
+vaccine(it_0152_004905,0,3).
 patient(it_0152_004905,neg).
 
 %patient: it-0152-004907 index:1677
@@ -35946,6 +37623,7 @@ who_f2(it_0152_004907,0).
 who_f3(it_0152_004907,0).
 who_f4(it_0152_004907,0).
 typeofoutcome_updated(it_0152_004907,2).
+vaccine(it_0152_004907,0,2).
 patient(it_0152_004907,neg).
 
 %patient: it-0152-004908 index:1678
@@ -35964,6 +37642,7 @@ who_f2(it_0152_004908,0).
 who_f3(it_0152_004908,0).
 who_f4(it_0152_004908,0).
 typeofoutcome_updated(it_0152_004908,2).
+vaccine(it_0152_004908,0,2).
 patient(it_0152_004908,neg).
 
 %patient: it-0152-004910 index:1679
@@ -35983,6 +37662,7 @@ who_f2(it_0152_004910,0).
 who_f3(it_0152_004910,0).
 who_f4(it_0152_004910,0).
 typeofoutcome_updated(it_0152_004910,2).
+vaccine(it_0152_004910,0,2).
 patient(it_0152_004910,neg).
 
 %patient: it-0152-004911 index:1680
@@ -36001,6 +37681,7 @@ who_f2(it_0152_004911,0).
 who_f3(it_0152_004911,0).
 who_f4(it_0152_004911,0).
 typeofoutcome_updated(it_0152_004911,2).
+vaccine(it_0152_004911,0,2).
 patient(it_0152_004911,neg).
 
 %patient: it-0152-004912 index:1681
@@ -36021,6 +37702,7 @@ who_f2(it_0152_004912,0).
 who_f3(it_0152_004912,0).
 who_f4(it_0152_004912,0).
 typeofoutcome_updated(it_0152_004912,2).
+vaccine(it_0152_004912,0,2).
 patient(it_0152_004912,neg).
 
 %patient: it-0152-004913 index:1682
@@ -36041,6 +37723,7 @@ who_f2(it_0152_004913,0).
 who_f3(it_0152_004913,0).
 who_f4(it_0152_004913,0).
 typeofoutcome_updated(it_0152_004913,2).
+vaccine(it_0152_004913,0,2).
 patient(it_0152_004913,neg).
 
 %patient: it-0152-004914 index:1683
@@ -36061,6 +37744,7 @@ who_f2(it_0152_004914,0).
 who_f3(it_0152_004914,0).
 who_f4(it_0152_004914,0).
 typeofoutcome_updated(it_0152_004914,2).
+vaccine(it_0152_004914,0,2).
 patient(it_0152_004914,neg).
 
 %patient: it-0152-004915 index:1684
@@ -36084,6 +37768,7 @@ who_f2(it_0152_004915,0).
 who_f3(it_0152_004915,0).
 who_f4(it_0152_004915,0).
 typeofoutcome_updated(it_0152_004915,2).
+vaccine(it_0152_004915,0,2).
 patient(it_0152_004915,neg).
 
 %patient: it-0152-004916 index:1685
@@ -36104,6 +37789,7 @@ who_f2(it_0152_004916,0).
 who_f3(it_0152_004916,0).
 who_f4(it_0152_004916,0).
 typeofoutcome_updated(it_0152_004916,2).
+vaccine(it_0152_004916,0,2).
 patient(it_0152_004916,neg).
 
 %patient: it-0152-004917 index:1686
@@ -36124,6 +37810,7 @@ who_f2(it_0152_004917,0).
 who_f3(it_0152_004917,0).
 who_f4(it_0152_004917,0).
 typeofoutcome_updated(it_0152_004917,2).
+vaccine(it_0152_004917,0,2).
 patient(it_0152_004917,neg).
 
 %patient: it-0152-004921 index:1687
@@ -36148,6 +37835,7 @@ who_f2(it_0152_004921,0).
 who_f3(it_0152_004921,0).
 who_f4(it_0152_004921,0).
 typeofoutcome_updated(it_0152_004921,2).
+vaccine(it_0152_004921,0,2).
 patient(it_0152_004921,neg).
 
 %patient: it-0152-004922 index:1688
@@ -36169,6 +37857,7 @@ who_f2(it_0152_004922,0).
 who_f3(it_0152_004922,0).
 who_f4(it_0152_004922,0).
 typeofoutcome_updated(it_0152_004922,2).
+vaccine(it_0152_004922,0,2).
 patient(it_0152_004922,neg).
 
 %patient: it-0152-004923 index:1689
@@ -36189,6 +37878,7 @@ who_f2(it_0152_004923,0).
 who_f3(it_0152_004923,0).
 who_f4(it_0152_004923,0).
 typeofoutcome_updated(it_0152_004923,2).
+vaccine(it_0152_004923,0,2).
 patient(it_0152_004923,neg).
 
 %patient: it-0152-004924 index:1690
@@ -36208,6 +37898,7 @@ who_f2(it_0152_004924,0).
 who_f3(it_0152_004924,0).
 who_f4(it_0152_004924,0).
 typeofoutcome_updated(it_0152_004924,2).
+vaccine(it_0152_004924,0,2).
 patient(it_0152_004924,neg).
 
 %patient: it-0152-004925 index:1691
@@ -36230,6 +37921,7 @@ who_f2(it_0152_004925,0).
 who_f3(it_0152_004925,0).
 who_f4(it_0152_004925,0).
 typeofoutcome_updated(it_0152_004925,2).
+vaccine(it_0152_004925,0,2).
 patient(it_0152_004925,neg).
 
 %patient: it-0152-004926 index:1692
@@ -36249,6 +37941,7 @@ who_f2(it_0152_004926,0).
 who_f3(it_0152_004926,0).
 who_f4(it_0152_004926,0).
 typeofoutcome_updated(it_0152_004926,2).
+vaccine(it_0152_004926,0,2).
 patient(it_0152_004926,neg).
 
 %patient: it-0152-004927 index:1693
@@ -36271,6 +37964,7 @@ who_f2(it_0152_004927,0).
 who_f3(it_0152_004927,0).
 who_f4(it_0152_004927,0).
 typeofoutcome_updated(it_0152_004927,2).
+vaccine(it_0152_004927,0,2).
 patient(it_0152_004927,neg).
 
 %patient: it-0152-004928 index:1694
@@ -36292,6 +37986,7 @@ who_f2(it_0152_004928,0).
 who_f3(it_0152_004928,0).
 who_f4(it_0152_004928,0).
 typeofoutcome_updated(it_0152_004928,2).
+vaccine(it_0152_004928,0,2).
 patient(it_0152_004928,neg).
 
 %patient: it-0152-004929 index:1695
@@ -36308,6 +38003,7 @@ who_f2(it_0152_004929,0).
 who_f3(it_0152_004929,0).
 who_f4(it_0152_004929,0).
 typeofoutcome_updated(it_0152_004929,2).
+vaccine(it_0152_004929,0,2).
 patient(it_0152_004929,neg).
 
 %patient: it-0152-004959 index:1696
@@ -36329,6 +38025,7 @@ who_f2(it_0152_004959,0).
 who_f3(it_0152_004959,0).
 who_f4(it_0152_004959,0).
 typeofoutcome_updated(it_0152_004959,2).
+vaccine(it_0152_004959,0,2).
 patient(it_0152_004959,neg).
 
 %patient: it-0152-004984 index:1697
@@ -36348,6 +38045,7 @@ who_f2(it_0152_004984,0).
 who_f3(it_0152_004984,0).
 who_f4(it_0152_004984,0).
 typeofoutcome_updated(it_0152_004984,2).
+vaccine(it_0152_004984,0,2).
 patient(it_0152_004984,neg).
 
 %patient: it-0152-004987 index:1698
@@ -36369,6 +38067,7 @@ who_f2(it_0152_004987,0).
 who_f3(it_0152_004987,0).
 who_f4(it_0152_004987,0).
 typeofoutcome_updated(it_0152_004987,2).
+vaccine(it_0152_004987,0,2).
 patient(it_0152_004987,neg).
 
 %patient: it-0152-004991 index:1699
@@ -36389,6 +38088,7 @@ who_f2(it_0152_004991,0).
 who_f3(it_0152_004991,0).
 who_f4(it_0152_004991,0).
 typeofoutcome_updated(it_0152_004991,2).
+vaccine(it_0152_004991,0,2).
 patient(it_0152_004991,neg).
 
 %patient: it-0152-004994 index:1700
@@ -36407,6 +38107,7 @@ who_f2(it_0152_004994,0).
 who_f3(it_0152_004994,0).
 who_f4(it_0152_004994,0).
 typeofoutcome_updated(it_0152_004994,2).
+vaccine(it_0152_004994,0,2).
 patient(it_0152_004994,neg).
 
 %patient: it-0152-004995 index:1701
@@ -36428,6 +38129,7 @@ who_f2(it_0152_004995,1).
 who_f3(it_0152_004995,1).
 who_f4(it_0152_004995,1).
 typeofoutcome_updated(it_0152_004995,2).
+vaccine(it_0152_004995,0,3).
 patient(it_0152_004995,neg).
 
 %patient: it-0152-004997 index:1702
@@ -36449,6 +38151,7 @@ who_f2(it_0152_004997,0).
 who_f3(it_0152_004997,0).
 who_f4(it_0152_004997,0).
 typeofoutcome_updated(it_0152_004997,2).
+vaccine(it_0152_004997,0,3).
 patient(it_0152_004997,neg).
 
 %patient: it-0152-005000 index:1703
@@ -36466,6 +38169,7 @@ who_f2(it_0152_005000,0).
 who_f3(it_0152_005000,0).
 who_f4(it_0152_005000,0).
 typeofoutcome_updated(it_0152_005000,2).
+vaccine(it_0152_005000,0,2).
 patient(it_0152_005000,neg).
 
 %patient: it-0152-005001 index:1704
@@ -36484,6 +38188,7 @@ who_f2(it_0152_005001,0).
 who_f3(it_0152_005001,0).
 who_f4(it_0152_005001,0).
 typeofoutcome_updated(it_0152_005001,2).
+vaccine(it_0152_005001,0,2).
 patient(it_0152_005001,neg).
 
 %patient: it-0152-005002 index:1705
@@ -36505,6 +38210,7 @@ who_f2(it_0152_005002,0).
 who_f3(it_0152_005002,0).
 who_f4(it_0152_005002,0).
 typeofoutcome_updated(it_0152_005002,2).
+vaccine(it_0152_005002,0,2).
 patient(it_0152_005002,neg).
 
 %patient: it-0152-005004 index:1706
@@ -36527,6 +38233,7 @@ who_f2(it_0152_005004,0).
 who_f3(it_0152_005004,0).
 who_f4(it_0152_005004,0).
 typeofoutcome_updated(it_0152_005004,2).
+vaccine(it_0152_005004,0,2).
 patient(it_0152_005004,neg).
 
 %patient: it-0152-005009 index:1707
@@ -36550,6 +38257,7 @@ who_f2(it_0152_005009,0).
 who_f3(it_0152_005009,0).
 who_f4(it_0152_005009,0).
 typeofoutcome_updated(it_0152_005009,2).
+vaccine(it_0152_005009,0,3).
 patient(it_0152_005009,neg).
 
 %patient: it-0152-005013 index:1708
@@ -36569,6 +38277,7 @@ who_f2(it_0152_005013,0).
 who_f3(it_0152_005013,0).
 who_f4(it_0152_005013,0).
 typeofoutcome_updated(it_0152_005013,2).
+vaccine(it_0152_005013,0,3).
 patient(it_0152_005013,neg).
 
 %patient: it-0152-005018 index:1709
@@ -36590,6 +38299,7 @@ who_f2(it_0152_005018,0).
 who_f3(it_0152_005018,0).
 who_f4(it_0152_005018,0).
 typeofoutcome_updated(it_0152_005018,2).
+vaccine(it_0152_005018,0,2).
 patient(it_0152_005018,neg).
 
 %patient: it-0152-005021 index:1710
@@ -36610,6 +38320,7 @@ who_f2(it_0152_005021,0).
 who_f3(it_0152_005021,0).
 who_f4(it_0152_005021,0).
 typeofoutcome_updated(it_0152_005021,2).
+vaccine(it_0152_005021,0,2).
 patient(it_0152_005021,neg).
 
 %patient: it-0152-005023 index:1711
@@ -36627,6 +38338,7 @@ who_f2(it_0152_005023,0).
 who_f3(it_0152_005023,0).
 who_f4(it_0152_005023,0).
 typeofoutcome_updated(it_0152_005023,2).
+vaccine(it_0152_005023,0,3).
 patient(it_0152_005023,neg).
 
 %patient: it-0152-005036 index:1712
@@ -36649,6 +38361,7 @@ who_f2(it_0152_005036,0).
 who_f3(it_0152_005036,0).
 who_f4(it_0152_005036,0).
 typeofoutcome_updated(it_0152_005036,2).
+vaccine(it_0152_005036,0,3).
 patient(it_0152_005036,neg).
 
 %patient: it-0152-005038 index:1713
@@ -36669,6 +38382,7 @@ who_f2(it_0152_005038,0).
 who_f3(it_0152_005038,0).
 who_f4(it_0152_005038,0).
 typeofoutcome_updated(it_0152_005038,2).
+vaccine(it_0152_005038,0,2).
 patient(it_0152_005038,neg).
 
 %patient: it-0152-005041 index:1714
@@ -36685,6 +38399,7 @@ who_f2(it_0152_005041,0).
 who_f3(it_0152_005041,0).
 who_f4(it_0152_005041,0).
 typeofoutcome_updated(it_0152_005041,2).
+vaccine(it_0152_005041,0,2).
 patient(it_0152_005041,neg).
 
 %patient: it-0152-005043 index:1715
@@ -36704,6 +38419,7 @@ who_f2(it_0152_005043,0).
 who_f3(it_0152_005043,0).
 who_f4(it_0152_005043,0).
 typeofoutcome_updated(it_0152_005043,2).
+vaccine(it_0152_005043,0,3).
 patient(it_0152_005043,neg).
 
 %patient: it-0152-005045 index:1716
@@ -36726,6 +38442,7 @@ who_f2(it_0152_005045,0).
 who_f3(it_0152_005045,0).
 who_f4(it_0152_005045,0).
 typeofoutcome_updated(it_0152_005045,2).
+vaccine(it_0152_005045,0,2).
 patient(it_0152_005045,neg).
 
 %patient: it-0152-005048 index:1717
@@ -36748,6 +38465,7 @@ who_f2(it_0152_005048,0).
 who_f3(it_0152_005048,0).
 who_f4(it_0152_005048,0).
 typeofoutcome_updated(it_0152_005048,2).
+vaccine(it_0152_005048,0,2).
 patient(it_0152_005048,neg).
 
 %patient: it-0152-005050 index:1718
@@ -36770,6 +38488,7 @@ who_f2(it_0152_005050,0).
 who_f3(it_0152_005050,0).
 who_f4(it_0152_005050,0).
 typeofoutcome_updated(it_0152_005050,2).
+vaccine(it_0152_005050,0,2).
 patient(it_0152_005050,neg).
 
 %patient: it-0152-005051 index:1719
@@ -36791,6 +38510,7 @@ who_f2(it_0152_005051,1).
 who_f3(it_0152_005051,1).
 who_f4(it_0152_005051,1).
 typeofoutcome_updated(it_0152_005051,2).
+vaccine(it_0152_005051,0,3).
 patient(it_0152_005051,neg).
 
 %patient: it-0152-005052 index:1720
@@ -36811,6 +38531,7 @@ who_f2(it_0152_005052,0).
 who_f3(it_0152_005052,0).
 who_f4(it_0152_005052,0).
 typeofoutcome_updated(it_0152_005052,2).
+vaccine(it_0152_005052,0,2).
 patient(it_0152_005052,neg).
 
 %patient: it-0152-005054 index:1721
@@ -36831,6 +38552,7 @@ who_f2(it_0152_005054,0).
 who_f3(it_0152_005054,0).
 who_f4(it_0152_005054,0).
 typeofoutcome_updated(it_0152_005054,2).
+vaccine(it_0152_005054,0,2).
 patient(it_0152_005054,neg).
 
 %patient: it-0152-005055 index:1722
@@ -36852,6 +38574,7 @@ who_f2(it_0152_005055,0).
 who_f3(it_0152_005055,0).
 who_f4(it_0152_005055,0).
 typeofoutcome_updated(it_0152_005055,2).
+vaccine(it_0152_005055,0,2).
 patient(it_0152_005055,neg).
 
 %patient: it-0152-005057 index:1723
@@ -36872,6 +38595,7 @@ who_f2(it_0152_005057,0).
 who_f3(it_0152_005057,0).
 who_f4(it_0152_005057,0).
 typeofoutcome_updated(it_0152_005057,2).
+vaccine(it_0152_005057,0,2).
 patient(it_0152_005057,neg).
 
 %patient: it-0152-005058 index:1724
@@ -36893,6 +38617,7 @@ who_f2(it_0152_005058,0).
 who_f3(it_0152_005058,0).
 who_f4(it_0152_005058,0).
 typeofoutcome_updated(it_0152_005058,2).
+vaccine(it_0152_005058,0,3).
 patient(it_0152_005058,neg).
 
 %patient: it-0152-005059 index:1725
@@ -36914,6 +38639,7 @@ who_f2(it_0152_005059,0).
 who_f3(it_0152_005059,0).
 who_f4(it_0152_005059,0).
 typeofoutcome_updated(it_0152_005059,2).
+vaccine(it_0152_005059,0,3).
 patient(it_0152_005059,neg).
 
 %patient: it-0152-005064 index:1726
@@ -36930,6 +38656,7 @@ who_f2(it_0152_005064,0).
 who_f3(it_0152_005064,0).
 who_f4(it_0152_005064,0).
 typeofoutcome_updated(it_0152_005064,2).
+vaccine(it_0152_005064,0,2).
 patient(it_0152_005064,neg).
 
 %patient: it-0152-005066 index:1727
@@ -36949,6 +38676,7 @@ who_f2(it_0152_005066,0).
 who_f3(it_0152_005066,0).
 who_f4(it_0152_005066,0).
 typeofoutcome_updated(it_0152_005066,2).
+vaccine(it_0152_005066,0,2).
 patient(it_0152_005066,neg).
 
 %patient: it-0152-005068 index:1728
@@ -36970,6 +38698,7 @@ who_f2(it_0152_005068,0).
 who_f3(it_0152_005068,0).
 who_f4(it_0152_005068,0).
 typeofoutcome_updated(it_0152_005068,2).
+vaccine(it_0152_005068,0,2).
 patient(it_0152_005068,neg).
 
 %patient: it-0152-005069 index:1729
@@ -36992,6 +38721,7 @@ who_f2(it_0152_005069,0).
 who_f3(it_0152_005069,0).
 who_f4(it_0152_005069,0).
 typeofoutcome_updated(it_0152_005069,2).
+vaccine(it_0152_005069,0,2).
 patient(it_0152_005069,neg).
 
 %patient: it-0152-005082 index:1730
@@ -37009,6 +38739,7 @@ who_f2(it_0152_005082,0).
 who_f3(it_0152_005082,0).
 who_f4(it_0152_005082,0).
 typeofoutcome_updated(it_0152_005082,2).
+vaccine(it_0152_005082,0,3).
 patient(it_0152_005082,neg).
 
 %patient: it-0152-005083 index:1731
@@ -37026,6 +38757,7 @@ who_f2(it_0152_005083,0).
 who_f3(it_0152_005083,0).
 who_f4(it_0152_005083,0).
 typeofoutcome_updated(it_0152_005083,2).
+vaccine(it_0152_005083,0,2).
 patient(it_0152_005083,neg).
 
 %patient: it-0152-005088 index:1732
@@ -37046,6 +38778,7 @@ who_f2(it_0152_005088,0).
 who_f3(it_0152_005088,0).
 who_f4(it_0152_005088,0).
 typeofoutcome_updated(it_0152_005088,2).
+vaccine(it_0152_005088,0,3).
 patient(it_0152_005088,neg).
 
 %patient: it-0152-005089 index:1733
@@ -37065,6 +38798,7 @@ who_f2(it_0152_005089,0).
 who_f3(it_0152_005089,0).
 who_f4(it_0152_005089,0).
 typeofoutcome_updated(it_0152_005089,2).
+vaccine(it_0152_005089,0,3).
 patient(it_0152_005089,neg).
 
 %patient: it-0152-005141 index:1734
@@ -37083,6 +38817,7 @@ who_f2(it_0152_005141,0).
 who_f3(it_0152_005141,0).
 who_f4(it_0152_005141,0).
 typeofoutcome_updated(it_0152_005141,2).
+vaccine(it_0152_005141,0,3).
 patient(it_0152_005141,neg).
 
 %patient: it-0152-005145 index:1735
@@ -37101,6 +38836,7 @@ who_f2(it_0152_005145,0).
 who_f3(it_0152_005145,0).
 who_f4(it_0152_005145,0).
 typeofoutcome_updated(it_0152_005145,2).
+vaccine(it_0152_005145,0,2).
 patient(it_0152_005145,neg).
 
 %patient: it-0152-005146 index:1736
@@ -37117,6 +38853,7 @@ who_f2(it_0152_005146,0).
 who_f3(it_0152_005146,0).
 who_f4(it_0152_005146,0).
 typeofoutcome_updated(it_0152_005146,2).
+vaccine(it_0152_005146,0,3).
 patient(it_0152_005146,neg).
 
 %patient: it-0152-005151 index:1737
@@ -37138,6 +38875,7 @@ who_f2(it_0152_005151,0).
 who_f3(it_0152_005151,0).
 who_f4(it_0152_005151,0).
 typeofoutcome_updated(it_0152_005151,2).
+vaccine(it_0152_005151,0,2).
 patient(it_0152_005151,neg).
 
 %patient: it-0152-005160 index:1738
@@ -37159,6 +38897,7 @@ who_f2(it_0152_005160,0).
 who_f3(it_0152_005160,0).
 who_f4(it_0152_005160,0).
 typeofoutcome_updated(it_0152_005160,2).
+vaccine(it_0152_005160,0,2).
 patient(it_0152_005160,neg).
 
 %patient: it-0152-005161 index:1739
@@ -37176,6 +38915,7 @@ who_f2(it_0152_005161,0).
 who_f3(it_0152_005161,0).
 who_f4(it_0152_005161,0).
 typeofoutcome_updated(it_0152_005161,2).
+vaccine(it_0152_005161,0,2).
 patient(it_0152_005161,neg).
 
 %patient: it-0152-005162 index:1740
@@ -37198,6 +38938,7 @@ who_f2(it_0152_005162,0).
 who_f3(it_0152_005162,0).
 who_f4(it_0152_005162,0).
 typeofoutcome_updated(it_0152_005162,2).
+vaccine(it_0152_005162,0,2).
 patient(it_0152_005162,neg).
 
 %patient: it-0152-005165 index:1741
@@ -37214,6 +38955,7 @@ who_f2(it_0152_005165,0).
 who_f3(it_0152_005165,0).
 who_f4(it_0152_005165,0).
 typeofoutcome_updated(it_0152_005165,2).
+vaccine(it_0152_005165,0,2).
 patient(it_0152_005165,neg).
 
 %patient: it-0152-005166 index:1742
@@ -37235,6 +38977,7 @@ who_f2(it_0152_005166,0).
 who_f3(it_0152_005166,0).
 who_f4(it_0152_005166,0).
 typeofoutcome_updated(it_0152_005166,2).
+vaccine(it_0152_005166,0,3).
 patient(it_0152_005166,neg).
 
 %patient: it-0152-005167 index:1743
@@ -37258,6 +39001,7 @@ who_f2(it_0152_005167,0).
 who_f3(it_0152_005167,0).
 who_f4(it_0152_005167,0).
 typeofoutcome_updated(it_0152_005167,2).
+vaccine(it_0152_005167,0,2).
 patient(it_0152_005167,neg).
 
 %patient: it-0152-005169 index:1744
@@ -37280,6 +39024,7 @@ who_f2(it_0152_005169,1).
 who_f3(it_0152_005169,1).
 who_f4(it_0152_005169,1).
 typeofoutcome_updated(it_0152_005169,2).
+vaccine(it_0152_005169,0,3).
 patient(it_0152_005169,neg).
 
 %patient: it-0152-005171 index:1745
@@ -37298,6 +39043,7 @@ who_f2(it_0152_005171,0).
 who_f3(it_0152_005171,0).
 who_f4(it_0152_005171,0).
 typeofoutcome_updated(it_0152_005171,2).
+vaccine(it_0152_005171,0,3).
 patient(it_0152_005171,neg).
 
 %patient: it-0152-005172 index:1746
@@ -37317,6 +39063,7 @@ who_f2(it_0152_005172,0).
 who_f3(it_0152_005172,0).
 who_f4(it_0152_005172,0).
 typeofoutcome_updated(it_0152_005172,2).
+vaccine(it_0152_005172,0,2).
 patient(it_0152_005172,neg).
 
 %patient: it-0152-005175 index:1747
@@ -37338,6 +39085,7 @@ who_f2(it_0152_005175,0).
 who_f3(it_0152_005175,0).
 who_f4(it_0152_005175,0).
 typeofoutcome_updated(it_0152_005175,2).
+vaccine(it_0152_005175,0,2).
 patient(it_0152_005175,neg).
 
 %patient: it-0152-005178 index:1748
@@ -37358,6 +39106,7 @@ who_f2(it_0152_005178,0).
 who_f3(it_0152_005178,0).
 who_f4(it_0152_005178,0).
 typeofoutcome_updated(it_0152_005178,2).
+vaccine(it_0152_005178,0,3).
 patient(it_0152_005178,neg).
 
 %patient: it-0152-005180 index:1749
@@ -37376,6 +39125,7 @@ who_f2(it_0152_005180,0).
 who_f3(it_0152_005180,0).
 who_f4(it_0152_005180,0).
 typeofoutcome_updated(it_0152_005180,2).
+vaccine(it_0152_005180,0,2).
 patient(it_0152_005180,neg).
 
 %patient: it-0152-005182 index:1750
@@ -37396,6 +39146,7 @@ who_f2(it_0152_005182,0).
 who_f3(it_0152_005182,0).
 who_f4(it_0152_005182,0).
 typeofoutcome_updated(it_0152_005182,2).
+vaccine(it_0152_005182,0,2).
 patient(it_0152_005182,neg).
 
 %patient: it-0152-005183 index:1751
@@ -37413,6 +39164,7 @@ who_f2(it_0152_005183,0).
 who_f3(it_0152_005183,0).
 who_f4(it_0152_005183,0).
 typeofoutcome_updated(it_0152_005183,2).
+vaccine(it_0152_005183,0,2).
 patient(it_0152_005183,neg).
 
 %patient: it-0152-005189 index:1752
@@ -37433,6 +39185,7 @@ who_f2(it_0152_005189,0).
 who_f3(it_0152_005189,0).
 who_f4(it_0152_005189,0).
 typeofoutcome_updated(it_0152_005189,2).
+vaccine(it_0152_005189,0,2).
 patient(it_0152_005189,neg).
 
 %patient: it-0152-005190 index:1753
@@ -37451,6 +39204,7 @@ who_f2(it_0152_005190,0).
 who_f3(it_0152_005190,0).
 who_f4(it_0152_005190,0).
 typeofoutcome_updated(it_0152_005190,2).
+vaccine(it_0152_005190,0,2).
 patient(it_0152_005190,neg).
 
 %patient: it-0152-005191 index:1754
@@ -37469,6 +39223,7 @@ who_f2(it_0152_005191,0).
 who_f3(it_0152_005191,0).
 who_f4(it_0152_005191,0).
 typeofoutcome_updated(it_0152_005191,2).
+vaccine(it_0152_005191,0,3).
 patient(it_0152_005191,neg).
 
 %patient: it-0152-005355 index:1755
@@ -37490,6 +39245,7 @@ who_f2(it_0152_005355,0).
 who_f3(it_0152_005355,0).
 who_f4(it_0152_005355,0).
 typeofoutcome_updated(it_0152_005355,2).
+vaccine(it_0152_005355,0,2).
 patient(it_0152_005355,neg).
 
 %patient: it-0152-005375 index:1756
@@ -37512,6 +39268,7 @@ who_f2(it_0152_005375,0).
 who_f3(it_0152_005375,0).
 who_f4(it_0152_005375,0).
 typeofoutcome_updated(it_0152_005375,2).
+vaccine(it_0152_005375,0,2).
 patient(it_0152_005375,neg).
 
 %patient: it-0152-005377 index:1757
@@ -37529,6 +39286,7 @@ who_f2(it_0152_005377,0).
 who_f3(it_0152_005377,0).
 who_f4(it_0152_005377,0).
 typeofoutcome_updated(it_0152_005377,2).
+vaccine(it_0152_005377,0,3).
 patient(it_0152_005377,neg).
 
 %patient: it-0152-005380 index:1758
@@ -37548,6 +39306,7 @@ who_f2(it_0152_005380,0).
 who_f3(it_0152_005380,0).
 who_f4(it_0152_005380,0).
 typeofoutcome_updated(it_0152_005380,2).
+vaccine(it_0152_005380,0,3).
 patient(it_0152_005380,neg).
 
 %patient: it-0152-005432 index:1759
@@ -37570,6 +39329,7 @@ who_f2(it_0152_005432,0).
 who_f3(it_0152_005432,0).
 who_f4(it_0152_005432,0).
 typeofoutcome_updated(it_0152_005432,2).
+vaccine(it_0152_005432,0,3).
 patient(it_0152_005432,neg).
 
 %patient: it-0152-005434 index:1760
@@ -37588,6 +39348,7 @@ who_f2(it_0152_005434,0).
 who_f3(it_0152_005434,0).
 who_f4(it_0152_005434,0).
 typeofoutcome_updated(it_0152_005434,2).
+vaccine(it_0152_005434,0,2).
 patient(it_0152_005434,neg).
 
 %patient: it-0152-005435 index:1761
@@ -37609,6 +39370,7 @@ who_f2(it_0152_005435,0).
 who_f3(it_0152_005435,0).
 who_f4(it_0152_005435,0).
 typeofoutcome_updated(it_0152_005435,2).
+vaccine(it_0152_005435,0,3).
 patient(it_0152_005435,neg).
 
 %patient: it-0152-005440 index:1762
@@ -37629,6 +39391,7 @@ who_f2(it_0152_005440,0).
 who_f3(it_0152_005440,0).
 who_f4(it_0152_005440,0).
 typeofoutcome_updated(it_0152_005440,2).
+vaccine(it_0152_005440,0,2).
 patient(it_0152_005440,neg).
 
 %patient: it-0152-005442 index:1763
@@ -37648,6 +39411,7 @@ who_f2(it_0152_005442,0).
 who_f3(it_0152_005442,0).
 who_f4(it_0152_005442,0).
 typeofoutcome_updated(it_0152_005442,2).
+vaccine(it_0152_005442,0,2).
 patient(it_0152_005442,neg).
 
 %patient: it-0152-005443 index:1764
@@ -37669,6 +39433,7 @@ who_f2(it_0152_005443,0).
 who_f3(it_0152_005443,0).
 who_f4(it_0152_005443,0).
 typeofoutcome_updated(it_0152_005443,2).
+vaccine(it_0152_005443,0,3).
 patient(it_0152_005443,neg).
 
 %patient: it-0152-005444 index:1765
@@ -37687,6 +39452,7 @@ who_f2(it_0152_005444,0).
 who_f3(it_0152_005444,0).
 who_f4(it_0152_005444,0).
 typeofoutcome_updated(it_0152_005444,2).
+vaccine(it_0152_005444,0,2).
 patient(it_0152_005444,neg).
 
 %patient: it-0152-005447 index:1766
@@ -37707,6 +39473,7 @@ who_f2(it_0152_005447,0).
 who_f3(it_0152_005447,0).
 who_f4(it_0152_005447,0).
 typeofoutcome_updated(it_0152_005447,2).
+vaccine(it_0152_005447,0,2).
 patient(it_0152_005447,neg).
 
 %patient: it-0152-005448 index:1767
@@ -37730,6 +39497,7 @@ who_f2(it_0152_005448,0).
 who_f3(it_0152_005448,0).
 who_f4(it_0152_005448,0).
 typeofoutcome_updated(it_0152_005448,2).
+vaccine(it_0152_005448,0,2).
 patient(it_0152_005448,neg).
 
 %patient: it-0152-005452 index:1768
@@ -37749,6 +39517,7 @@ who_f2(it_0152_005452,0).
 who_f3(it_0152_005452,0).
 who_f4(it_0152_005452,0).
 typeofoutcome_updated(it_0152_005452,2).
+vaccine(it_0152_005452,0,2).
 patient(it_0152_005452,neg).
 
 %patient: it-0152-005454 index:1769
@@ -37768,6 +39537,7 @@ who_f2(it_0152_005454,0).
 who_f3(it_0152_005454,0).
 who_f4(it_0152_005454,0).
 typeofoutcome_updated(it_0152_005454,2).
+vaccine(it_0152_005454,0,2).
 patient(it_0152_005454,neg).
 
 %patient: it-0152-005459 index:1770
@@ -37788,6 +39558,7 @@ who_f2(it_0152_005459,0).
 who_f3(it_0152_005459,0).
 who_f4(it_0152_005459,0).
 typeofoutcome_updated(it_0152_005459,2).
+vaccine(it_0152_005459,0,2).
 patient(it_0152_005459,neg).
 
 %patient: it-0152-005461 index:1771
@@ -37808,6 +39579,7 @@ who_f2(it_0152_005461,0).
 who_f3(it_0152_005461,0).
 who_f4(it_0152_005461,0).
 typeofoutcome_updated(it_0152_005461,2).
+vaccine(it_0152_005461,0,2).
 patient(it_0152_005461,neg).
 
 %patient: it-0152-005480 index:1772
@@ -37826,6 +39598,7 @@ who_f2(it_0152_005480,0).
 who_f3(it_0152_005480,0).
 who_f4(it_0152_005480,0).
 typeofoutcome_updated(it_0152_005480,2).
+vaccine(it_0152_005480,0,3).
 patient(it_0152_005480,neg).
 
 %patient: it-0152-005484 index:1773
@@ -37843,6 +39616,7 @@ who_f2(it_0152_005484,0).
 who_f3(it_0152_005484,0).
 who_f4(it_0152_005484,0).
 typeofoutcome_updated(it_0152_005484,2).
+vaccine(it_0152_005484,0,2).
 patient(it_0152_005484,neg).
 
 %patient: it-0152-005485 index:1774
@@ -37863,6 +39637,7 @@ who_f2(it_0152_005485,0).
 who_f3(it_0152_005485,0).
 who_f4(it_0152_005485,0).
 typeofoutcome_updated(it_0152_005485,2).
+vaccine(it_0152_005485,0,3).
 patient(it_0152_005485,neg).
 
 %patient: it-0152-005486 index:1775
@@ -37882,6 +39657,7 @@ who_f2(it_0152_005486,0).
 who_f3(it_0152_005486,0).
 who_f4(it_0152_005486,0).
 typeofoutcome_updated(it_0152_005486,2).
+vaccine(it_0152_005486,0,3).
 patient(it_0152_005486,neg).
 
 %patient: it-0152-005490 index:1776
@@ -37901,6 +39677,7 @@ who_f2(it_0152_005490,0).
 who_f3(it_0152_005490,0).
 who_f4(it_0152_005490,0).
 typeofoutcome_updated(it_0152_005490,2).
+vaccine(it_0152_005490,0,3).
 patient(it_0152_005490,neg).
 
 %patient: it-0152-005496 index:1777
@@ -37919,6 +39696,7 @@ who_f2(it_0152_005496,0).
 who_f3(it_0152_005496,0).
 who_f4(it_0152_005496,0).
 typeofoutcome_updated(it_0152_005496,2).
+vaccine(it_0152_005496,0,3).
 patient(it_0152_005496,neg).
 
 %patient: it-0152-005500 index:1778
@@ -37937,6 +39715,7 @@ who_f2(it_0152_005500,0).
 who_f3(it_0152_005500,0).
 who_f4(it_0152_005500,0).
 typeofoutcome_updated(it_0152_005500,2).
+vaccine(it_0152_005500,0,3).
 patient(it_0152_005500,neg).
 
 %patient: it-0152-005533 index:1779
@@ -37960,6 +39739,7 @@ who_f2(it_0152_005533,0).
 who_f3(it_0152_005533,0).
 who_f4(it_0152_005533,0).
 typeofoutcome_updated(it_0152_005533,2).
+vaccine(it_0152_005533,0,2).
 patient(it_0152_005533,neg).
 
 %patient: it-0152-005534 index:1780
@@ -37978,6 +39758,7 @@ who_f2(it_0152_005534,0).
 who_f3(it_0152_005534,0).
 who_f4(it_0152_005534,0).
 typeofoutcome_updated(it_0152_005534,2).
+vaccine(it_0152_005534,0,2).
 patient(it_0152_005534,neg).
 
 %patient: it-0152-005536 index:1781
@@ -37998,6 +39779,7 @@ who_f2(it_0152_005536,0).
 who_f3(it_0152_005536,0).
 who_f4(it_0152_005536,0).
 typeofoutcome_updated(it_0152_005536,2).
+vaccine(it_0152_005536,0,3).
 patient(it_0152_005536,neg).
 
 %patient: it-0152-005539 index:1782
@@ -38019,6 +39801,7 @@ who_f2(it_0152_005539,0).
 who_f3(it_0152_005539,0).
 who_f4(it_0152_005539,0).
 typeofoutcome_updated(it_0152_005539,2).
+vaccine(it_0152_005539,0,2).
 patient(it_0152_005539,neg).
 
 %patient: it-0152-005543 index:1783
@@ -38040,6 +39823,7 @@ who_f2(it_0152_005543,0).
 who_f3(it_0152_005543,0).
 who_f4(it_0152_005543,0).
 typeofoutcome_updated(it_0152_005543,2).
+vaccine(it_0152_005543,0,2).
 patient(it_0152_005543,neg).
 
 %patient: it-0152-005545 index:1784
@@ -38056,6 +39840,7 @@ who_f2(it_0152_005545,0).
 who_f3(it_0152_005545,0).
 who_f4(it_0152_005545,0).
 typeofoutcome_updated(it_0152_005545,2).
+vaccine(it_0152_005545,0,2).
 patient(it_0152_005545,neg).
 
 %patient: it-0152-005549 index:1785
@@ -38073,6 +39858,7 @@ who_f2(it_0152_005549,0).
 who_f3(it_0152_005549,0).
 who_f4(it_0152_005549,0).
 typeofoutcome_updated(it_0152_005549,2).
+vaccine(it_0152_005549,0,2).
 patient(it_0152_005549,neg).
 
 %patient: it-0164-006264 index:1786
@@ -38096,6 +39882,7 @@ who_f2(it_0164_006264,0).
 who_f3(it_0164_006264,0).
 who_f4(it_0164_006264,0).
 typeofoutcome_updated(it_0164_006264,2).
+vaccine(it_0164_006264,0,3).
 patient(it_0164_006264,neg).
 
 %patient: it-0164-006326 index:1787
@@ -38114,6 +39901,7 @@ who_f2(it_0164_006326,0).
 who_f3(it_0164_006326,0).
 who_f4(it_0164_006326,0).
 typeofoutcome_updated(it_0164_006326,2).
+vaccine(it_0164_006326,0,3).
 patient(it_0164_006326,neg).
 
 %patient: it-0164-006327 index:1788
@@ -38136,6 +39924,7 @@ who_f2(it_0164_006327,0).
 who_f3(it_0164_006327,0).
 who_f4(it_0164_006327,0).
 typeofoutcome_updated(it_0164_006327,2).
+vaccine(it_0164_006327,0,3).
 patient(it_0164_006327,neg).
 
 %patient: it-0164-006360 index:1789
@@ -38157,6 +39946,7 @@ who_f2(it_0164_006360,0).
 who_f3(it_0164_006360,0).
 who_f4(it_0164_006360,0).
 typeofoutcome_updated(it_0164_006360,2).
+vaccine(it_0164_006360,0,3).
 patient(it_0164_006360,neg).
 
 %patient: it-0164-006361 index:1790
@@ -38177,6 +39967,7 @@ who_f2(it_0164_006361,0).
 who_f3(it_0164_006361,0).
 who_f4(it_0164_006361,0).
 typeofoutcome_updated(it_0164_006361,2).
+vaccine(it_0164_006361,0,3).
 patient(it_0164_006361,neg).
 
 %patient: it-0164-006371 index:1791
@@ -38197,6 +39988,7 @@ who_f2(it_0164_006371,0).
 who_f3(it_0164_006371,0).
 who_f4(it_0164_006371,0).
 typeofoutcome_updated(it_0164_006371,2).
+vaccine(it_0164_006371,0,3).
 patient(it_0164_006371,neg).
 
 %patient: it-0164-006374 index:1792
@@ -38221,6 +40013,7 @@ who_f2(it_0164_006374,0).
 who_f3(it_0164_006374,0).
 who_f4(it_0164_006374,0).
 typeofoutcome_updated(it_0164_006374,2).
+vaccine(it_0164_006374,0,3).
 patient(it_0164_006374,neg).
 
 %patient: it-0164-006380 index:1793
@@ -38240,6 +40033,7 @@ who_f2(it_0164_006380,0).
 who_f3(it_0164_006380,0).
 who_f4(it_0164_006380,0).
 typeofoutcome_updated(it_0164_006380,2).
+vaccine(it_0164_006380,0,3).
 patient(it_0164_006380,neg).
 
 %patient: it-0164-006408 index:1794
@@ -38261,6 +40055,7 @@ who_f2(it_0164_006408,0).
 who_f3(it_0164_006408,0).
 who_f4(it_0164_006408,0).
 typeofoutcome_updated(it_0164_006408,2).
+vaccine(it_0164_006408,0,3).
 patient(it_0164_006408,neg).
 
 %patient: it-0164-006410 index:1795
@@ -38282,6 +40077,7 @@ who_f2(it_0164_006410,0).
 who_f3(it_0164_006410,0).
 who_f4(it_0164_006410,0).
 typeofoutcome_updated(it_0164_006410,2).
+vaccine(it_0164_006410,0,3).
 patient(it_0164_006410,neg).
 
 %patient: it-0164-006418 index:1796
@@ -38303,6 +40099,7 @@ who_f2(it_0164_006418,0).
 who_f3(it_0164_006418,0).
 who_f4(it_0164_006418,0).
 typeofoutcome_updated(it_0164_006418,2).
+vaccine(it_0164_006418,0,3).
 patient(it_0164_006418,neg).
 
 %patient: it-0164-006435 index:1797
@@ -38326,6 +40123,7 @@ who_f2(it_0164_006435,0).
 who_f3(it_0164_006435,0).
 who_f4(it_0164_006435,0).
 typeofoutcome_updated(it_0164_006435,2).
+vaccine(it_0164_006435,0,3).
 patient(it_0164_006435,neg).
 
 %patient: it-0164-006438 index:1798
@@ -38346,6 +40144,7 @@ who_f2(it_0164_006438,0).
 who_f3(it_0164_006438,0).
 who_f4(it_0164_006438,0).
 typeofoutcome_updated(it_0164_006438,2).
+vaccine(it_0164_006438,0,3).
 patient(it_0164_006438,neg).
 
 %patient: it-0164-006442 index:1799
@@ -38370,6 +40169,7 @@ who_f2(it_0164_006442,0).
 who_f3(it_0164_006442,0).
 who_f4(it_0164_006442,0).
 typeofoutcome_updated(it_0164_006442,2).
+vaccine(it_0164_006442,0,3).
 patient(it_0164_006442,neg).
 
 %patient: it-0164-006459 index:1800
@@ -38391,6 +40191,7 @@ who_f2(it_0164_006459,0).
 who_f3(it_0164_006459,0).
 who_f4(it_0164_006459,0).
 typeofoutcome_updated(it_0164_006459,2).
+vaccine(it_0164_006459,0,3).
 patient(it_0164_006459,neg).
 
 %patient: it-0164-006494 index:1801
@@ -38411,6 +40212,7 @@ who_f2(it_0164_006494,0).
 who_f3(it_0164_006494,0).
 who_f4(it_0164_006494,0).
 typeofoutcome_updated(it_0164_006494,2).
+vaccine(it_0164_006494,0,3).
 patient(it_0164_006494,neg).
 
 %patient: it-0164-006510 index:1802
@@ -38428,6 +40230,7 @@ who_f2(it_0164_006510,0).
 who_f3(it_0164_006510,0).
 who_f4(it_0164_006510,0).
 typeofoutcome_updated(it_0164_006510,2).
+vaccine(it_0164_006510,0,3).
 patient(it_0164_006510,neg).
 
 %patient: it-0164-006511 index:1803
@@ -38449,6 +40252,7 @@ who_f2(it_0164_006511,0).
 who_f3(it_0164_006511,0).
 who_f4(it_0164_006511,0).
 typeofoutcome_updated(it_0164_006511,2).
+vaccine(it_0164_006511,0,3).
 patient(it_0164_006511,neg).
 
 %patient: it-0164-006515 index:1804
@@ -38472,6 +40276,7 @@ who_f2(it_0164_006515,0).
 who_f3(it_0164_006515,0).
 who_f4(it_0164_006515,0).
 typeofoutcome_updated(it_0164_006515,2).
+vaccine(it_0164_006515,0,3).
 patient(it_0164_006515,neg).
 
 %patient: it-0164-006533 index:1805
@@ -38496,6 +40301,7 @@ who_f2(it_0164_006533,0).
 who_f3(it_0164_006533,0).
 who_f4(it_0164_006533,0).
 typeofoutcome_updated(it_0164_006533,2).
+vaccine(it_0164_006533,0,3).
 patient(it_0164_006533,neg).
 
 %patient: it-0164-006536 index:1806
@@ -38516,6 +40322,7 @@ who_f2(it_0164_006536,0).
 who_f3(it_0164_006536,0).
 who_f4(it_0164_006536,0).
 typeofoutcome_updated(it_0164_006536,2).
+vaccine(it_0164_006536,1,3).
 patient(it_0164_006536,neg).
 
 %patient: it-0164-006538 index:1807
@@ -38537,6 +40344,7 @@ who_f2(it_0164_006538,0).
 who_f3(it_0164_006538,0).
 who_f4(it_0164_006538,0).
 typeofoutcome_updated(it_0164_006538,2).
+vaccine(it_0164_006538,0,3).
 patient(it_0164_006538,neg).
 
 %patient: it-0164-006539 index:1808
@@ -38556,6 +40364,7 @@ who_f2(it_0164_006539,0).
 who_f3(it_0164_006539,0).
 who_f4(it_0164_006539,0).
 typeofoutcome_updated(it_0164_006539,2).
+vaccine(it_0164_006539,0,3).
 patient(it_0164_006539,neg).
 
 %patient: it-0164-006540 index:1809
@@ -38577,6 +40386,7 @@ who_f2(it_0164_006540,0).
 who_f3(it_0164_006540,0).
 who_f4(it_0164_006540,0).
 typeofoutcome_updated(it_0164_006540,2).
+vaccine(it_0164_006540,0,3).
 patient(it_0164_006540,neg).
 
 %patient: it-0164-006547 index:1810
@@ -38600,6 +40410,7 @@ who_f2(it_0164_006547,0).
 who_f3(it_0164_006547,0).
 who_f4(it_0164_006547,0).
 typeofoutcome_updated(it_0164_006547,2).
+vaccine(it_0164_006547,0,3).
 patient(it_0164_006547,neg).
 
 %patient: it-0164-006552 index:1811
@@ -38623,6 +40434,7 @@ who_f2(it_0164_006552,0).
 who_f3(it_0164_006552,0).
 who_f4(it_0164_006552,0).
 typeofoutcome_updated(it_0164_006552,2).
+vaccine(it_0164_006552,0,3).
 patient(it_0164_006552,neg).
 
 %patient: it-0164-006556 index:1812
@@ -38646,6 +40458,7 @@ who_f2(it_0164_006556,0).
 who_f3(it_0164_006556,0).
 who_f4(it_0164_006556,0).
 typeofoutcome_updated(it_0164_006556,2).
+vaccine(it_0164_006556,0,3).
 patient(it_0164_006556,neg).
 
 %patient: it-0164-006560 index:1813
@@ -38668,6 +40481,7 @@ who_f2(it_0164_006560,0).
 who_f3(it_0164_006560,0).
 who_f4(it_0164_006560,0).
 typeofoutcome_updated(it_0164_006560,2).
+vaccine(it_0164_006560,1,3).
 patient(it_0164_006560,neg).
 
 %patient: it-0164-006566 index:1814
@@ -38693,6 +40507,7 @@ who_f2(it_0164_006566,0).
 who_f3(it_0164_006566,0).
 who_f4(it_0164_006566,0).
 typeofoutcome_updated(it_0164_006566,2).
+vaccine(it_0164_006566,0,3).
 patient(it_0164_006566,neg).
 
 %patient: it-0166-004954 index:1815
@@ -38713,6 +40528,7 @@ who_f2(it_0166_004954,0).
 who_f3(it_0166_004954,0).
 who_f4(it_0166_004954,0).
 typeofoutcome_updated(it_0166_004954,2).
+vaccine(it_0166_004954,1,3).
 patient(it_0166_004954,neg).
 
 %patient: it-0166-004966 index:1816
@@ -38738,6 +40554,7 @@ who_f2(it_0166_004966,0).
 who_f3(it_0166_004966,0).
 who_f4(it_0166_004966,0).
 typeofoutcome_updated(it_0166_004966,2).
+vaccine(it_0166_004966,1,3).
 patient(it_0166_004966,neg).
 
 %patient: it-0166-004967 index:1817
@@ -38761,6 +40578,7 @@ who_f2(it_0166_004967,0).
 who_f3(it_0166_004967,0).
 who_f4(it_0166_004967,0).
 typeofoutcome_updated(it_0166_004967,2).
+vaccine(it_0166_004967,1,3).
 patient(it_0166_004967,neg).
 
 %patient: it-0166-004969 index:1818
@@ -38784,6 +40602,7 @@ who_f2(it_0166_004969,0).
 who_f3(it_0166_004969,0).
 who_f4(it_0166_004969,0).
 typeofoutcome_updated(it_0166_004969,2).
+vaccine(it_0166_004969,1,3).
 patient(it_0166_004969,neg).
 
 %patient: it-0166-004971 index:1819
@@ -38811,6 +40630,7 @@ who_f2(it_0166_004971,0).
 who_f3(it_0166_004971,0).
 who_f4(it_0166_004971,0).
 typeofoutcome_updated(it_0166_004971,2).
+vaccine(it_0166_004971,1,3).
 patient(it_0166_004971,neg).
 
 %patient: it-0166-004972 index:1820
@@ -38837,6 +40657,7 @@ who_f2(it_0166_004972,0).
 who_f3(it_0166_004972,0).
 who_f4(it_0166_004972,0).
 typeofoutcome_updated(it_0166_004972,2).
+vaccine(it_0166_004972,1,3).
 patient(it_0166_004972,neg).
 
 %patient: it-0166-004974 index:1821
@@ -38863,6 +40684,7 @@ who_f2(it_0166_004974,0).
 who_f3(it_0166_004974,0).
 who_f4(it_0166_004974,0).
 typeofoutcome_updated(it_0166_004974,2).
+vaccine(it_0166_004974,1,3).
 patient(it_0166_004974,neg).
 
 %patient: it-0166-004975 index:1822
@@ -38890,6 +40712,7 @@ who_f2(it_0166_004975,0).
 who_f3(it_0166_004975,0).
 who_f4(it_0166_004975,0).
 typeofoutcome_updated(it_0166_004975,2).
+vaccine(it_0166_004975,1,3).
 patient(it_0166_004975,neg).
 
 %patient: it-0166-004977 index:1823
@@ -38917,6 +40740,7 @@ who_f2(it_0166_004977,0).
 who_f3(it_0166_004977,0).
 who_f4(it_0166_004977,0).
 typeofoutcome_updated(it_0166_004977,2).
+vaccine(it_0166_004977,1,3).
 patient(it_0166_004977,neg).
 
 %patient: it-0166-005012 index:1824
@@ -38941,6 +40765,7 @@ who_f2(it_0166_005012,0).
 who_f3(it_0166_005012,0).
 who_f4(it_0166_005012,0).
 typeofoutcome_updated(it_0166_005012,2).
+vaccine(it_0166_005012,1,3).
 patient(it_0166_005012,neg).
 
 %patient: it-0166-005014 index:1825
@@ -38968,6 +40793,7 @@ who_f2(it_0166_005014,0).
 who_f3(it_0166_005014,0).
 who_f4(it_0166_005014,0).
 typeofoutcome_updated(it_0166_005014,2).
+vaccine(it_0166_005014,1,3).
 patient(it_0166_005014,neg).
 
 %patient: it-0166-005020 index:1826
@@ -38996,6 +40822,7 @@ who_f2(it_0166_005020,0).
 who_f3(it_0166_005020,0).
 who_f4(it_0166_005020,0).
 typeofoutcome_updated(it_0166_005020,2).
+vaccine(it_0166_005020,1,3).
 patient(it_0166_005020,neg).
 
 %patient: it-0166-005026 index:1827
@@ -39022,6 +40849,7 @@ who_f2(it_0166_005026,0).
 who_f3(it_0166_005026,0).
 who_f4(it_0166_005026,0).
 typeofoutcome_updated(it_0166_005026,2).
+vaccine(it_0166_005026,1,3).
 patient(it_0166_005026,neg).
 
 %patient: it-0166-005028 index:1828
@@ -39050,6 +40878,7 @@ who_f2(it_0166_005028,0).
 who_f3(it_0166_005028,0).
 who_f4(it_0166_005028,0).
 typeofoutcome_updated(it_0166_005028,2).
+vaccine(it_0166_005028,1,3).
 patient(it_0166_005028,neg).
 
 %patient: it-0166-005030 index:1829
@@ -39078,6 +40907,7 @@ who_f2(it_0166_005030,0).
 who_f3(it_0166_005030,0).
 who_f4(it_0166_005030,0).
 typeofoutcome_updated(it_0166_005030,2).
+vaccine(it_0166_005030,1,3).
 patient(it_0166_005030,neg).
 
 %patient: it-0166-005031 index:1830
@@ -39105,6 +40935,7 @@ who_f2(it_0166_005031,0).
 who_f3(it_0166_005031,0).
 who_f4(it_0166_005031,0).
 typeofoutcome_updated(it_0166_005031,2).
+vaccine(it_0166_005031,1,3).
 patient(it_0166_005031,neg).
 
 %patient: it-0166-005034 index:1831
@@ -39130,6 +40961,7 @@ who_f2(it_0166_005034,0).
 who_f3(it_0166_005034,0).
 who_f4(it_0166_005034,0).
 typeofoutcome_updated(it_0166_005034,2).
+vaccine(it_0166_005034,1,3).
 patient(it_0166_005034,neg).
 
 %patient: it-0166-005037 index:1832
@@ -39154,6 +40986,7 @@ who_f2(it_0166_005037,0).
 who_f3(it_0166_005037,0).
 who_f4(it_0166_005037,0).
 typeofoutcome_updated(it_0166_005037,2).
+vaccine(it_0166_005037,1,3).
 patient(it_0166_005037,neg).
 
 %patient: it-0166-005040 index:1833
@@ -39178,6 +41011,7 @@ who_f2(it_0166_005040,0).
 who_f3(it_0166_005040,0).
 who_f4(it_0166_005040,0).
 typeofoutcome_updated(it_0166_005040,2).
+vaccine(it_0166_005040,1,3).
 patient(it_0166_005040,neg).
 
 %patient: it-0166-005076 index:1834
@@ -39205,6 +41039,7 @@ who_f2(it_0166_005076,9).
 who_f3(it_0166_005076,0).
 who_f4(it_0166_005076,0).
 typeofoutcome_updated(it_0166_005076,2).
+vaccine(it_0166_005076,1,3).
 patient(it_0166_005076,neg).
 
 %patient: it-0166-005081 index:1835
@@ -39232,6 +41067,7 @@ who_f2(it_0166_005081,0).
 who_f3(it_0166_005081,0).
 who_f4(it_0166_005081,0).
 typeofoutcome_updated(it_0166_005081,2).
+vaccine(it_0166_005081,1,2).
 patient(it_0166_005081,neg).
 
 %patient: it-0166-005085 index:1836
@@ -39256,6 +41092,7 @@ who_f2(it_0166_005085,0).
 who_f3(it_0166_005085,0).
 who_f4(it_0166_005085,0).
 typeofoutcome_updated(it_0166_005085,2).
+vaccine(it_0166_005085,1,3).
 patient(it_0166_005085,neg).
 
 %patient: it-0166-005090 index:1837
@@ -39284,6 +41121,7 @@ who_f2(it_0166_005090,0).
 who_f3(it_0166_005090,0).
 who_f4(it_0166_005090,0).
 typeofoutcome_updated(it_0166_005090,2).
+vaccine(it_0166_005090,1,3).
 patient(it_0166_005090,neg).
 
 %patient: it-0166-005092 index:1838
@@ -39310,6 +41148,7 @@ who_f2(it_0166_005092,0).
 who_f3(it_0166_005092,0).
 who_f4(it_0166_005092,0).
 typeofoutcome_updated(it_0166_005092,2).
+vaccine(it_0166_005092,1,3).
 patient(it_0166_005092,neg).
 
 %patient: it-0166-005093 index:1839
@@ -39334,6 +41173,7 @@ who_f2(it_0166_005093,0).
 who_f3(it_0166_005093,0).
 who_f4(it_0166_005093,0).
 typeofoutcome_updated(it_0166_005093,2).
+vaccine(it_0166_005093,1,3).
 patient(it_0166_005093,neg).
 
 %patient: it-0166-005094 index:1840
@@ -39362,6 +41202,7 @@ who_f2(it_0166_005094,0).
 who_f3(it_0166_005094,0).
 who_f4(it_0166_005094,0).
 typeofoutcome_updated(it_0166_005094,2).
+vaccine(it_0166_005094,1,3).
 patient(it_0166_005094,neg).
 
 %patient: it-0166-005102 index:1841
@@ -39391,6 +41232,7 @@ who_f2(it_0166_005102,0).
 who_f3(it_0166_005102,0).
 who_f4(it_0166_005102,0).
 typeofoutcome_updated(it_0166_005102,2).
+vaccine(it_0166_005102,1,3).
 patient(it_0166_005102,neg).
 
 %patient: it-0166-005103 index:1842
@@ -39422,6 +41264,7 @@ who_f2(it_0166_005103,0).
 who_f3(it_0166_005103,0).
 who_f4(it_0166_005103,0).
 typeofoutcome_updated(it_0166_005103,2).
+vaccine(it_0166_005103,1,3).
 patient(it_0166_005103,neg).
 
 %patient: it-0166-005106 index:1843
@@ -39452,6 +41295,7 @@ who_f2(it_0166_005106,0).
 who_f3(it_0166_005106,0).
 who_f4(it_0166_005106,0).
 typeofoutcome_updated(it_0166_005106,2).
+vaccine(it_0166_005106,1,3).
 patient(it_0166_005106,neg).
 
 %patient: it-0166-005108 index:1844
@@ -39484,6 +41328,7 @@ who_f2(it_0166_005108,0).
 who_f3(it_0166_005108,0).
 who_f4(it_0166_005108,0).
 typeofoutcome_updated(it_0166_005108,2).
+vaccine(it_0166_005108,1,3).
 patient(it_0166_005108,neg).
 
 %patient: it-0166-005352 index:1845
@@ -39509,6 +41354,7 @@ who_f2(it_0166_005352,0).
 who_f3(it_0166_005352,0).
 who_f4(it_0166_005352,0).
 typeofoutcome_updated(it_0166_005352,2).
+vaccine(it_0166_005352,1,3).
 patient(it_0166_005352,neg).
 
 %patient: it-0166-006218 index:1846
@@ -39534,6 +41380,7 @@ who_f2(it_0166_006218,0).
 who_f3(it_0166_006218,0).
 who_f4(it_0166_006218,0).
 typeofoutcome_updated(it_0166_006218,2).
+vaccine(it_0166_006218,1,3).
 patient(it_0166_006218,neg).
 
 %patient: it-0166-006219 index:1847
@@ -39554,6 +41401,7 @@ who_f2(it_0166_006219,0).
 who_f3(it_0166_006219,0).
 who_f4(it_0166_006219,0).
 typeofoutcome_updated(it_0166_006219,2).
+vaccine(it_0166_006219,1,3).
 patient(it_0166_006219,neg).
 
 %patient: it-0166-006221 index:1848
@@ -39571,6 +41419,7 @@ who_f2(it_0166_006221,0).
 who_f3(it_0166_006221,0).
 who_f4(it_0166_006221,0).
 typeofoutcome_updated(it_0166_006221,2).
+vaccine(it_0166_006221,1,3).
 patient(it_0166_006221,neg).
 
 %patient: it-0166-006225 index:1849
@@ -39595,6 +41444,7 @@ who_f2(it_0166_006225,0).
 who_f3(it_0166_006225,0).
 who_f4(it_0166_006225,0).
 typeofoutcome_updated(it_0166_006225,2).
+vaccine(it_0166_006225,1,3).
 patient(it_0166_006225,neg).
 
 %patient: it-0166-006227 index:1850
@@ -39614,6 +41464,7 @@ who_f2(it_0166_006227,0).
 who_f3(it_0166_006227,0).
 who_f4(it_0166_006227,0).
 typeofoutcome_updated(it_0166_006227,2).
+vaccine(it_0166_006227,1,3).
 patient(it_0166_006227,neg).
 
 %patient: it-0166-006230 index:1851
@@ -39635,6 +41486,7 @@ who_f2(it_0166_006230,0).
 who_f3(it_0166_006230,0).
 who_f4(it_0166_006230,0).
 typeofoutcome_updated(it_0166_006230,2).
+vaccine(it_0166_006230,1,3).
 patient(it_0166_006230,neg).
 
 %patient: it-0166-006231 index:1852
@@ -39653,6 +41505,7 @@ who_f2(it_0166_006231,0).
 who_f3(it_0166_006231,0).
 who_f4(it_0166_006231,0).
 typeofoutcome_updated(it_0166_006231,2).
+vaccine(it_0166_006231,1,3).
 patient(it_0166_006231,neg).
 
 %patient: it-0166-006235 index:1853
@@ -39670,6 +41523,7 @@ who_f2(it_0166_006235,0).
 who_f3(it_0166_006235,0).
 who_f4(it_0166_006235,0).
 typeofoutcome_updated(it_0166_006235,2).
+vaccine(it_0166_006235,0,3).
 patient(it_0166_006235,neg).
 
 %patient: it-0166-006240 index:1854
@@ -39693,6 +41547,7 @@ who_f2(it_0166_006240,0).
 who_f3(it_0166_006240,0).
 who_f4(it_0166_006240,0).
 typeofoutcome_updated(it_0166_006240,2).
+vaccine(it_0166_006240,1,3).
 patient(it_0166_006240,neg).
 
 %patient: it-0166-006241 index:1855
@@ -39711,6 +41566,7 @@ who_f2(it_0166_006241,0).
 who_f3(it_0166_006241,0).
 who_f4(it_0166_006241,0).
 typeofoutcome_updated(it_0166_006241,2).
+vaccine(it_0166_006241,1,3).
 patient(it_0166_006241,neg).
 
 %patient: it-0166-006243 index:1856
@@ -39733,6 +41589,7 @@ who_f2(it_0166_006243,0).
 who_f3(it_0166_006243,0).
 who_f4(it_0166_006243,0).
 typeofoutcome_updated(it_0166_006243,2).
+vaccine(it_0166_006243,0,3).
 patient(it_0166_006243,neg).
 
 %patient: it-0166-006245 index:1857
@@ -39755,6 +41612,7 @@ who_f2(it_0166_006245,0).
 who_f3(it_0166_006245,0).
 who_f4(it_0166_006245,0).
 typeofoutcome_updated(it_0166_006245,2).
+vaccine(it_0166_006245,1,3).
 patient(it_0166_006245,neg).
 
 %patient: it-0166-006246 index:1858
@@ -39777,6 +41635,7 @@ who_f2(it_0166_006246,0).
 who_f3(it_0166_006246,0).
 who_f4(it_0166_006246,0).
 typeofoutcome_updated(it_0166_006246,2).
+vaccine(it_0166_006246,1,3).
 patient(it_0166_006246,neg).
 
 %patient: it-0166-006248 index:1859
@@ -39798,6 +41657,7 @@ who_f2(it_0166_006248,0).
 who_f3(it_0166_006248,0).
 who_f4(it_0166_006248,0).
 typeofoutcome_updated(it_0166_006248,2).
+vaccine(it_0166_006248,1,3).
 patient(it_0166_006248,neg).
 
 %patient: it-0169-005984 index:1860
@@ -39821,6 +41681,7 @@ who_f2(it_0169_005984,0).
 who_f3(it_0169_005984,0).
 who_f4(it_0169_005984,0).
 typeofoutcome_updated(it_0169_005984,2).
+vaccine(it_0169_005984,0,3).
 patient(it_0169_005984,neg).
 
 %patient: it-0169-006014 index:1861
@@ -39840,6 +41701,7 @@ who_f2(it_0169_006014,0).
 who_f3(it_0169_006014,0).
 who_f4(it_0169_006014,0).
 typeofoutcome_updated(it_0169_006014,2).
+vaccine(it_0169_006014,0,3).
 patient(it_0169_006014,neg).
 
 %patient: it-0169-006015 index:1862
@@ -39859,6 +41721,7 @@ who_f2(it_0169_006015,0).
 who_f3(it_0169_006015,0).
 who_f4(it_0169_006015,0).
 typeofoutcome_updated(it_0169_006015,2).
+vaccine(it_0169_006015,0,3).
 patient(it_0169_006015,neg).
 
 %patient: it-0169-006016 index:1863
@@ -39876,6 +41739,7 @@ who_f2(it_0169_006016,0).
 who_f3(it_0169_006016,0).
 who_f4(it_0169_006016,0).
 typeofoutcome_updated(it_0169_006016,2).
+vaccine(it_0169_006016,0,3).
 patient(it_0169_006016,neg).
 
 %patient: it-0169-006099 index:1864
@@ -39898,6 +41762,7 @@ who_f2(it_0169_006099,0).
 who_f3(it_0169_006099,0).
 who_f4(it_0169_006099,0).
 typeofoutcome_updated(it_0169_006099,2).
+vaccine(it_0169_006099,0,3).
 patient(it_0169_006099,neg).
 
 %patient: it-0169-006101 index:1865
@@ -39920,6 +41785,7 @@ who_f2(it_0169_006101,0).
 who_f3(it_0169_006101,0).
 who_f4(it_0169_006101,0).
 typeofoutcome_updated(it_0169_006101,2).
+vaccine(it_0169_006101,0,3).
 patient(it_0169_006101,neg).
 
 %patient: it-0169-006103 index:1866
@@ -39941,6 +41807,7 @@ who_f2(it_0169_006103,0).
 who_f3(it_0169_006103,0).
 who_f4(it_0169_006103,0).
 typeofoutcome_updated(it_0169_006103,2).
+vaccine(it_0169_006103,0,3).
 patient(it_0169_006103,neg).
 
 %patient: it-0169-006104 index:1867
@@ -39961,6 +41828,7 @@ who_f2(it_0169_006104,0).
 who_f3(it_0169_006104,0).
 who_f4(it_0169_006104,0).
 typeofoutcome_updated(it_0169_006104,2).
+vaccine(it_0169_006104,0,3).
 patient(it_0169_006104,neg).
 
 %patient: it-0169-006105 index:1868
@@ -39984,6 +41852,7 @@ who_f2(it_0169_006105,0).
 who_f3(it_0169_006105,0).
 who_f4(it_0169_006105,0).
 typeofoutcome_updated(it_0169_006105,2).
+vaccine(it_0169_006105,0,3).
 patient(it_0169_006105,neg).
 
 %patient: it-0169-006109 index:1869
@@ -40004,6 +41873,7 @@ who_f2(it_0169_006109,0).
 who_f3(it_0169_006109,0).
 who_f4(it_0169_006109,0).
 typeofoutcome_updated(it_0169_006109,2).
+vaccine(it_0169_006109,0,3).
 patient(it_0169_006109,neg).
 
 %patient: it-0169-006110 index:1870
@@ -40025,6 +41895,7 @@ who_f2(it_0169_006110,0).
 who_f3(it_0169_006110,0).
 who_f4(it_0169_006110,0).
 typeofoutcome_updated(it_0169_006110,2).
+vaccine(it_0169_006110,0,3).
 patient(it_0169_006110,neg).
 
 %patient: it-0169-006111 index:1871
@@ -40046,6 +41917,7 @@ who_f2(it_0169_006111,0).
 who_f3(it_0169_006111,0).
 who_f4(it_0169_006111,0).
 typeofoutcome_updated(it_0169_006111,2).
+vaccine(it_0169_006111,0,3).
 patient(it_0169_006111,neg).
 
 %patient: it-0169-006112 index:1872
@@ -40068,6 +41940,7 @@ who_f2(it_0169_006112,0).
 who_f3(it_0169_006112,0).
 who_f4(it_0169_006112,0).
 typeofoutcome_updated(it_0169_006112,2).
+vaccine(it_0169_006112,0,3).
 patient(it_0169_006112,neg).
 
 %patient: it-0169-006113 index:1873
@@ -40090,6 +41963,7 @@ who_f2(it_0169_006113,0).
 who_f3(it_0169_006113,0).
 who_f4(it_0169_006113,0).
 typeofoutcome_updated(it_0169_006113,2).
+vaccine(it_0169_006113,0,3).
 patient(it_0169_006113,neg).
 
 %patient: it-0169-006445 index:1874
@@ -40107,6 +41981,7 @@ who_f2(it_0169_006445,0).
 who_f3(it_0169_006445,0).
 who_f4(it_0169_006445,0).
 typeofoutcome_updated(it_0169_006445,2).
+vaccine(it_0169_006445,0,2).
 patient(it_0169_006445,neg).
 
 %patient: it-0169-006446 index:1875
@@ -40125,6 +42000,7 @@ who_f2(it_0169_006446,0).
 who_f3(it_0169_006446,0).
 who_f4(it_0169_006446,0).
 typeofoutcome_updated(it_0169_006446,2).
+vaccine(it_0169_006446,0,3).
 patient(it_0169_006446,neg).
 
 %patient: it-0169-006448 index:1876
@@ -40144,6 +42020,7 @@ who_f2(it_0169_006448,0).
 who_f3(it_0169_006448,0).
 who_f4(it_0169_006448,0).
 typeofoutcome_updated(it_0169_006448,2).
+vaccine(it_0169_006448,0,3).
 patient(it_0169_006448,neg).
 
 %patient: it-0169-006580 index:1877
@@ -40165,6 +42042,7 @@ who_f2(it_0169_006580,0).
 who_f3(it_0169_006580,0).
 who_f4(it_0169_006580,0).
 typeofoutcome_updated(it_0169_006580,2).
+vaccine(it_0169_006580,0,3).
 patient(it_0169_006580,neg).
 
 %patient: it-0169-006583 index:1878
@@ -40186,6 +42064,7 @@ who_f2(it_0169_006583,0).
 who_f3(it_0169_006583,0).
 who_f4(it_0169_006583,0).
 typeofoutcome_updated(it_0169_006583,2).
+vaccine(it_0169_006583,0,3).
 patient(it_0169_006583,neg).
 
 %patient: it-0169-006584 index:1879
@@ -40208,6 +42087,7 @@ who_f2(it_0169_006584,0).
 who_f3(it_0169_006584,0).
 who_f4(it_0169_006584,0).
 typeofoutcome_updated(it_0169_006584,2).
+vaccine(it_0169_006584,0,3).
 patient(it_0169_006584,neg).
 
 %patient: it-0169-006586 index:1880
@@ -40230,6 +42110,7 @@ who_f2(it_0169_006586,0).
 who_f3(it_0169_006586,0).
 who_f4(it_0169_006586,0).
 typeofoutcome_updated(it_0169_006586,2).
+vaccine(it_0169_006586,0,3).
 patient(it_0169_006586,neg).
 
 %patient: it-0169-006588 index:1881
@@ -40248,6 +42129,7 @@ who_f2(it_0169_006588,0).
 who_f3(it_0169_006588,0).
 who_f4(it_0169_006588,0).
 typeofoutcome_updated(it_0169_006588,2).
+vaccine(it_0169_006588,0,3).
 patient(it_0169_006588,neg).
 
 %patient: it-0169-006589 index:1882
@@ -40270,6 +42152,7 @@ who_f2(it_0169_006589,0).
 who_f3(it_0169_006589,0).
 who_f4(it_0169_006589,0).
 typeofoutcome_updated(it_0169_006589,2).
+vaccine(it_0169_006589,0,3).
 patient(it_0169_006589,neg).
 
 %patient: it-0169-006598 index:1883
@@ -40293,6 +42176,7 @@ who_f2(it_0169_006598,0).
 who_f3(it_0169_006598,0).
 who_f4(it_0169_006598,0).
 typeofoutcome_updated(it_0169_006598,2).
+vaccine(it_0169_006598,0,3).
 patient(it_0169_006598,neg).
 
 %patient: it-0169-006600 index:1884
@@ -40313,6 +42197,7 @@ who_f2(it_0169_006600,0).
 who_f3(it_0169_006600,0).
 who_f4(it_0169_006600,0).
 typeofoutcome_updated(it_0169_006600,2).
+vaccine(it_0169_006600,0,3).
 patient(it_0169_006600,neg).
 
 %patient: it-0169-006601 index:1885
@@ -40331,6 +42216,7 @@ who_f2(it_0169_006601,0).
 who_f3(it_0169_006601,0).
 who_f4(it_0169_006601,0).
 typeofoutcome_updated(it_0169_006601,2).
+vaccine(it_0169_006601,0,3).
 patient(it_0169_006601,neg).
 
 %patient: it-0169-006604 index:1886
@@ -40354,6 +42240,7 @@ who_f2(it_0169_006604,0).
 who_f3(it_0169_006604,0).
 who_f4(it_0169_006604,0).
 typeofoutcome_updated(it_0169_006604,2).
+vaccine(it_0169_006604,0,3).
 patient(it_0169_006604,neg).
 
 %patient: it-0170-006657 index:1887
@@ -40374,6 +42261,7 @@ who_f2(it_0170_006657,0).
 who_f3(it_0170_006657,0).
 who_f4(it_0170_006657,0).
 typeofoutcome_updated(it_0170_006657,2).
+vaccine(it_0170_006657,0,3).
 patient(it_0170_006657,neg).
 
 %patient: it-0170-006658 index:1888
@@ -40394,6 +42282,7 @@ who_f2(it_0170_006658,0).
 who_f3(it_0170_006658,0).
 who_f4(it_0170_006658,0).
 typeofoutcome_updated(it_0170_006658,2).
+vaccine(it_0170_006658,0,3).
 patient(it_0170_006658,neg).
 
 %patient: it-0170-006659 index:1889
@@ -40417,6 +42306,7 @@ who_f2(it_0170_006659,0).
 who_f3(it_0170_006659,0).
 who_f4(it_0170_006659,9).
 typeofoutcome_updated(it_0170_006659,2).
+vaccine(it_0170_006659,0,3).
 patient(it_0170_006659,neg).
 
 %patient: it-0170-006669 index:1890
@@ -40436,6 +42326,7 @@ who_f2(it_0170_006669,0).
 who_f3(it_0170_006669,0).
 who_f4(it_0170_006669,0).
 typeofoutcome_updated(it_0170_006669,2).
+vaccine(it_0170_006669,0,3).
 patient(it_0170_006669,neg).
 
 %patient: it-0170-006674 index:1891
@@ -40459,6 +42350,7 @@ who_f2(it_0170_006674,0).
 who_f3(it_0170_006674,0).
 who_f4(it_0170_006674,0).
 typeofoutcome_updated(it_0170_006674,2).
+vaccine(it_0170_006674,0,3).
 patient(it_0170_006674,neg).
 
 %patient: it-0170-006678 index:1892
@@ -40482,6 +42374,7 @@ who_f2(it_0170_006678,0).
 who_f3(it_0170_006678,0).
 who_f4(it_0170_006678,0).
 typeofoutcome_updated(it_0170_006678,2).
+vaccine(it_0170_006678,1,3).
 patient(it_0170_006678,neg).
 
 %patient: it-0170-006679 index:1893
@@ -40507,6 +42400,7 @@ who_f2(it_0170_006679,0).
 who_f3(it_0170_006679,0).
 who_f4(it_0170_006679,0).
 typeofoutcome_updated(it_0170_006679,2).
+vaccine(it_0170_006679,0,3).
 patient(it_0170_006679,neg).
 
 %patient: it-0170-006682 index:1894
@@ -40528,6 +42422,7 @@ who_f2(it_0170_006682,0).
 who_f3(it_0170_006682,0).
 who_f4(it_0170_006682,0).
 typeofoutcome_updated(it_0170_006682,2).
+vaccine(it_0170_006682,0,3).
 patient(it_0170_006682,neg).
 
 %patient: it-0170-006683 index:1895
@@ -40551,6 +42446,7 @@ who_f2(it_0170_006683,0).
 who_f3(it_0170_006683,0).
 who_f4(it_0170_006683,0).
 typeofoutcome_updated(it_0170_006683,2).
+vaccine(it_0170_006683,0,3).
 patient(it_0170_006683,neg).
 
 %patient: it-0170-006684 index:1896
@@ -40570,6 +42466,7 @@ who_f2(it_0170_006684,0).
 who_f3(it_0170_006684,0).
 who_f4(it_0170_006684,0).
 typeofoutcome_updated(it_0170_006684,2).
+vaccine(it_0170_006684,0,3).
 patient(it_0170_006684,neg).
 
 %patient: it-0170-006685 index:1897
@@ -40594,6 +42491,7 @@ who_f2(it_0170_006685,0).
 who_f3(it_0170_006685,0).
 who_f4(it_0170_006685,0).
 typeofoutcome_updated(it_0170_006685,2).
+vaccine(it_0170_006685,0,3).
 patient(it_0170_006685,neg).
 
 %patient: it-0170-006686 index:1898
@@ -40614,6 +42512,7 @@ who_f2(it_0170_006686,0).
 who_f3(it_0170_006686,0).
 who_f4(it_0170_006686,0).
 typeofoutcome_updated(it_0170_006686,2).
+vaccine(it_0170_006686,0,3).
 patient(it_0170_006686,neg).
 
 %patient: it-0170-006695 index:1899
@@ -40638,6 +42537,7 @@ who_f2(it_0170_006695,0).
 who_f3(it_0170_006695,0).
 who_f4(it_0170_006695,0).
 typeofoutcome_updated(it_0170_006695,2).
+vaccine(it_0170_006695,0,3).
 patient(it_0170_006695,neg).
 
 %patient: it-0170-006700 index:1900
@@ -40659,6 +42559,7 @@ who_f2(it_0170_006700,0).
 who_f3(it_0170_006700,0).
 who_f4(it_0170_006700,0).
 typeofoutcome_updated(it_0170_006700,2).
+vaccine(it_0170_006700,0,3).
 patient(it_0170_006700,neg).
 
 %patient: it-0170-006701 index:1901
@@ -40679,6 +42580,7 @@ who_f2(it_0170_006701,0).
 who_f3(it_0170_006701,0).
 who_f4(it_0170_006701,0).
 typeofoutcome_updated(it_0170_006701,2).
+vaccine(it_0170_006701,0,3).
 patient(it_0170_006701,neg).
 
 %patient: it-0170-006702 index:1902
@@ -40699,6 +42601,7 @@ who_f2(it_0170_006702,0).
 who_f3(it_0170_006702,0).
 who_f4(it_0170_006702,0).
 typeofoutcome_updated(it_0170_006702,2).
+vaccine(it_0170_006702,0,3).
 patient(it_0170_006702,neg).
 
 %patient: it-0170-006704 index:1903
@@ -40721,6 +42624,7 @@ who_f2(it_0170_006704,0).
 who_f3(it_0170_006704,0).
 who_f4(it_0170_006704,0).
 typeofoutcome_updated(it_0170_006704,2).
+vaccine(it_0170_006704,0,3).
 patient(it_0170_006704,neg).
 
 %patient: it-0171-006142 index:1904
@@ -40745,6 +42649,7 @@ who_f2(it_0171_006142,0).
 who_f3(it_0171_006142,0).
 who_f4(it_0171_006142,0).
 typeofoutcome_updated(it_0171_006142,2).
+vaccine(it_0171_006142,0,3).
 patient(it_0171_006142,neg).
 
 %patient: it-0171-006203 index:1905
@@ -40765,6 +42670,7 @@ who_f2(it_0171_006203,0).
 who_f3(it_0171_006203,0).
 who_f4(it_0171_006203,0).
 typeofoutcome_updated(it_0171_006203,2).
+vaccine(it_0171_006203,0,3).
 patient(it_0171_006203,neg).
 
 %patient: it-0171-006210 index:1906
@@ -40785,6 +42691,7 @@ who_f2(it_0171_006210,0).
 who_f3(it_0171_006210,0).
 who_f4(it_0171_006210,0).
 typeofoutcome_updated(it_0171_006210,2).
+vaccine(it_0171_006210,0,3).
 patient(it_0171_006210,neg).
 
 %patient: it-0171-006211 index:1907
@@ -40805,6 +42712,7 @@ who_f2(it_0171_006211,0).
 who_f3(it_0171_006211,0).
 who_f4(it_0171_006211,0).
 typeofoutcome_updated(it_0171_006211,2).
+vaccine(it_0171_006211,0,3).
 patient(it_0171_006211,neg).
 
 %patient: it-0171-006212 index:1908
@@ -40827,6 +42735,7 @@ who_f2(it_0171_006212,0).
 who_f3(it_0171_006212,0).
 who_f4(it_0171_006212,0).
 typeofoutcome_updated(it_0171_006212,2).
+vaccine(it_0171_006212,0,3).
 patient(it_0171_006212,neg).
 
 %patient: it-0171-006213 index:1909
@@ -40848,6 +42757,7 @@ who_f2(it_0171_006213,0).
 who_f3(it_0171_006213,0).
 who_f4(it_0171_006213,0).
 typeofoutcome_updated(it_0171_006213,2).
+vaccine(it_0171_006213,0,3).
 patient(it_0171_006213,neg).
 
 %patient: it-0171-006214 index:1910
@@ -40867,6 +42777,7 @@ who_f2(it_0171_006214,0).
 who_f3(it_0171_006214,0).
 who_f4(it_0171_006214,0).
 typeofoutcome_updated(it_0171_006214,2).
+vaccine(it_0171_006214,0,3).
 patient(it_0171_006214,neg).
 
 %patient: it-0171-006216 index:1911
@@ -40885,6 +42796,7 @@ who_f2(it_0171_006216,0).
 who_f3(it_0171_006216,0).
 who_f4(it_0171_006216,0).
 typeofoutcome_updated(it_0171_006216,2).
+vaccine(it_0171_006216,0,3).
 patient(it_0171_006216,neg).
 
 %patient: it-0171-006224 index:1912
@@ -40907,6 +42819,7 @@ who_f2(it_0171_006224,0).
 who_f3(it_0171_006224,0).
 who_f4(it_0171_006224,0).
 typeofoutcome_updated(it_0171_006224,2).
+vaccine(it_0171_006224,0,3).
 patient(it_0171_006224,neg).
 
 %patient: it-0171-006232 index:1913
@@ -40929,6 +42842,7 @@ who_f2(it_0171_006232,0).
 who_f3(it_0171_006232,0).
 who_f4(it_0171_006232,0).
 typeofoutcome_updated(it_0171_006232,2).
+vaccine(it_0171_006232,0,3).
 patient(it_0171_006232,neg).
 
 %patient: it-0171-006237 index:1914
@@ -40947,6 +42861,7 @@ who_f2(it_0171_006237,0).
 who_f3(it_0171_006237,0).
 who_f4(it_0171_006237,0).
 typeofoutcome_updated(it_0171_006237,2).
+vaccine(it_0171_006237,0,3).
 patient(it_0171_006237,neg).
 
 %patient: it-0171-006259 index:1915
@@ -40965,6 +42880,7 @@ who_f2(it_0171_006259,0).
 who_f3(it_0171_006259,0).
 who_f4(it_0171_006259,0).
 typeofoutcome_updated(it_0171_006259,2).
+vaccine(it_0171_006259,0,3).
 patient(it_0171_006259,neg).
 
 %patient: it-0171-006263 index:1916
@@ -40983,6 +42899,7 @@ who_f2(it_0171_006263,0).
 who_f3(it_0171_006263,0).
 who_f4(it_0171_006263,0).
 typeofoutcome_updated(it_0171_006263,2).
+vaccine(it_0171_006263,0,3).
 patient(it_0171_006263,neg).
 
 %patient: it-0171-006340 index:1917
@@ -41003,6 +42920,7 @@ who_f2(it_0171_006340,0).
 who_f3(it_0171_006340,0).
 who_f4(it_0171_006340,0).
 typeofoutcome_updated(it_0171_006340,2).
+vaccine(it_0171_006340,0,3).
 patient(it_0171_006340,neg).
 
 %patient: it-0171-006346 index:1918
@@ -41025,6 +42943,7 @@ who_f2(it_0171_006346,0).
 who_f3(it_0171_006346,0).
 who_f4(it_0171_006346,0).
 typeofoutcome_updated(it_0171_006346,2).
+vaccine(it_0171_006346,0,3).
 patient(it_0171_006346,neg).
 
 %patient: it-0171-006353 index:1919
@@ -41046,6 +42965,7 @@ who_f2(it_0171_006353,0).
 who_f3(it_0171_006353,0).
 who_f4(it_0171_006353,0).
 typeofoutcome_updated(it_0171_006353,2).
+vaccine(it_0171_006353,1,3).
 patient(it_0171_006353,neg).
 
 %patient: it-0171-006390 index:1920
@@ -41064,6 +42984,7 @@ who_f2(it_0171_006390,0).
 who_f3(it_0171_006390,0).
 who_f4(it_0171_006390,0).
 typeofoutcome_updated(it_0171_006390,2).
+vaccine(it_0171_006390,0,3).
 patient(it_0171_006390,neg).
 
 %patient: it-0171-006393 index:1921
@@ -41084,6 +43005,7 @@ who_f2(it_0171_006393,0).
 who_f3(it_0171_006393,0).
 who_f4(it_0171_006393,0).
 typeofoutcome_updated(it_0171_006393,2).
+vaccine(it_0171_006393,0,3).
 patient(it_0171_006393,neg).
 
 %patient: it-0171-006394 index:1922
@@ -41106,6 +43028,7 @@ who_f2(it_0171_006394,1).
 who_f3(it_0171_006394,1).
 who_f4(it_0171_006394,1).
 typeofoutcome_updated(it_0171_006394,2).
+vaccine(it_0171_006394,0,3).
 patient(it_0171_006394,neg).
 
 %patient: it-0171-006395 index:1923
@@ -41128,6 +43051,7 @@ who_f2(it_0171_006395,0).
 who_f3(it_0171_006395,0).
 who_f4(it_0171_006395,0).
 typeofoutcome_updated(it_0171_006395,2).
+vaccine(it_0171_006395,0,3).
 patient(it_0171_006395,neg).
 
 %patient: it-0171-006396 index:1924
@@ -41148,6 +43072,7 @@ who_f2(it_0171_006396,0).
 who_f3(it_0171_006396,0).
 who_f4(it_0171_006396,0).
 typeofoutcome_updated(it_0171_006396,2).
+vaccine(it_0171_006396,0,3).
 patient(it_0171_006396,neg).
 
 %patient: it-0171-006397 index:1925
@@ -41168,6 +43093,7 @@ who_f2(it_0171_006397,0).
 who_f3(it_0171_006397,0).
 who_f4(it_0171_006397,0).
 typeofoutcome_updated(it_0171_006397,2).
+vaccine(it_0171_006397,0,3).
 patient(it_0171_006397,neg).
 
 %patient: it-0171-006399 index:1926
@@ -41187,6 +43113,7 @@ who_f2(it_0171_006399,0).
 who_f3(it_0171_006399,0).
 who_f4(it_0171_006399,0).
 typeofoutcome_updated(it_0171_006399,2).
+vaccine(it_0171_006399,0,3).
 patient(it_0171_006399,neg).
 
 %patient: it-0021-001585 index:1927
@@ -41210,6 +43137,7 @@ who_f2(it_0021_001585,0).
 who_f3(it_0021_001585,0).
 who_f4(it_0021_001585,0).
 typeofoutcome_updated(it_0021_001585,2).
+vaccine(it_0021_001585,0,3).
 patient(it_0021_001585,neg).
 
 %patient: it-0061-004152 index:1928
@@ -41237,6 +43165,7 @@ who_f2(it_0061_004152,0).
 who_f3(it_0061_004152,0).
 who_f4(it_0061_004152,0).
 typeofoutcome_updated(it_0061_004152,2).
+vaccine(it_0061_004152,0,2).
 patient(it_0061_004152,neg).
 
 %patient: it-0061-004153 index:1929
@@ -41254,6 +43183,7 @@ who_f2(it_0061_004153,0).
 who_f3(it_0061_004153,0).
 who_f4(it_0061_004153,0).
 typeofoutcome_updated(it_0061_004153,2).
+vaccine(it_0061_004153,0,2).
 patient(it_0061_004153,neg).
 
 %patient: it-0061-004219 index:1930
@@ -41271,6 +43201,7 @@ who_f2(it_0061_004219,0).
 who_f3(it_0061_004219,0).
 who_f4(it_0061_004219,0).
 typeofoutcome_updated(it_0061_004219,2).
+vaccine(it_0061_004219,0,3).
 patient(it_0061_004219,neg).
 
 %patient: it-0061-004220 index:1931
@@ -41289,6 +43220,7 @@ who_f2(it_0061_004220,0).
 who_f3(it_0061_004220,0).
 who_f4(it_0061_004220,0).
 typeofoutcome_updated(it_0061_004220,2).
+vaccine(it_0061_004220,0,3).
 patient(it_0061_004220,neg).
 
 %patient: it-0061-004222 index:1932
@@ -41309,6 +43241,7 @@ who_f2(it_0061_004222,0).
 who_f3(it_0061_004222,0).
 who_f4(it_0061_004222,0).
 typeofoutcome_updated(it_0061_004222,2).
+vaccine(it_0061_004222,0,3).
 patient(it_0061_004222,neg).
 
 %patient: it-0061-004223 index:1933
@@ -41327,6 +43260,7 @@ who_f2(it_0061_004223,0).
 who_f3(it_0061_004223,0).
 who_f4(it_0061_004223,0).
 typeofoutcome_updated(it_0061_004223,2).
+vaccine(it_0061_004223,0,3).
 patient(it_0061_004223,neg).
 
 %patient: it-0061-004225 index:1934
@@ -41343,6 +43277,7 @@ who_f2(it_0061_004225,0).
 who_f3(it_0061_004225,0).
 who_f4(it_0061_004225,0).
 typeofoutcome_updated(it_0061_004225,2).
+vaccine(it_0061_004225,0,3).
 patient(it_0061_004225,neg).
 
 %patient: it-0061-004226 index:1935
@@ -41362,6 +43297,7 @@ who_f2(it_0061_004226,0).
 who_f3(it_0061_004226,0).
 who_f4(it_0061_004226,0).
 typeofoutcome_updated(it_0061_004226,2).
+vaccine(it_0061_004226,0,3).
 patient(it_0061_004226,neg).
 
 %patient: it-0102-002150 index:1936
@@ -41383,6 +43319,7 @@ who_f2(it_0102_002150,0).
 who_f3(it_0102_002150,0).
 who_f4(it_0102_002150,0).
 typeofoutcome_updated(it_0102_002150,2).
+vaccine(it_0102_002150,0,3).
 patient(it_0102_002150,neg).
 
 %patient: it-0102-002220 index:1937
@@ -41403,6 +43340,7 @@ who_f2(it_0102_002220,0).
 who_f3(it_0102_002220,0).
 who_f4(it_0102_002220,0).
 typeofoutcome_updated(it_0102_002220,2).
+vaccine(it_0102_002220,0,3).
 patient(it_0102_002220,neg).
 
 %patient: it-0102-004159 index:1938
@@ -41424,6 +43362,7 @@ who_f2(it_0102_004159,0).
 who_f3(it_0102_004159,0).
 who_f4(it_0102_004159,0).
 typeofoutcome_updated(it_0102_004159,2).
+vaccine(it_0102_004159,0,3).
 patient(it_0102_004159,neg).
 
 %patient: it-0102-004161 index:1939
@@ -41448,6 +43387,7 @@ who_f2(it_0102_004161,0).
 who_f3(it_0102_004161,0).
 who_f4(it_0102_004161,0).
 typeofoutcome_updated(it_0102_004161,2).
+vaccine(it_0102_004161,0,3).
 patient(it_0102_004161,neg).
 
 %patient: it-0102-004162 index:1940
@@ -41469,6 +43409,7 @@ who_f2(it_0102_004162,0).
 who_f3(it_0102_004162,0).
 who_f4(it_0102_004162,0).
 typeofoutcome_updated(it_0102_004162,2).
+vaccine(it_0102_004162,0,3).
 patient(it_0102_004162,neg).
 
 %patient: it-0103-005967 index:1941
@@ -41490,6 +43431,7 @@ who_f2(it_0103_005967,1).
 who_f3(it_0103_005967,1).
 who_f4(it_0103_005967,1).
 typeofoutcome_updated(it_0103_005967,2).
+vaccine(it_0103_005967,0,3).
 patient(it_0103_005967,neg).
 
 %patient: it-0103-006124 index:1942
@@ -41511,6 +43453,7 @@ who_f2(it_0103_006124,0).
 who_f3(it_0103_006124,0).
 who_f4(it_0103_006124,0).
 typeofoutcome_updated(it_0103_006124,2).
+vaccine(it_0103_006124,0,3).
 patient(it_0103_006124,neg).
 
 %patient: it-0103-006138 index:1943
@@ -41530,6 +43473,7 @@ who_f2(it_0103_006138,0).
 who_f3(it_0103_006138,0).
 who_f4(it_0103_006138,0).
 typeofoutcome_updated(it_0103_006138,2).
+vaccine(it_0103_006138,0,3).
 patient(it_0103_006138,neg).
 
 %patient: it-0106-006749 index:1944
@@ -41550,6 +43494,7 @@ who_f2(it_0106_006749,0).
 who_f3(it_0106_006749,0).
 who_f4(it_0106_006749,0).
 typeofoutcome_updated(it_0106_006749,2).
+vaccine(it_0106_006749,0,3).
 patient(it_0106_006749,neg).
 
 %patient: it-0106-006788 index:1945
@@ -41570,6 +43515,7 @@ who_f2(it_0106_006788,0).
 who_f3(it_0106_006788,0).
 who_f4(it_0106_006788,0).
 typeofoutcome_updated(it_0106_006788,2).
+vaccine(it_0106_006788,0,3).
 patient(it_0106_006788,neg).
 
 %patient: it-0106-006790 index:1946
@@ -41591,6 +43537,7 @@ who_f2(it_0106_006790,0).
 who_f3(it_0106_006790,0).
 who_f4(it_0106_006790,0).
 typeofoutcome_updated(it_0106_006790,2).
+vaccine(it_0106_006790,0,3).
 patient(it_0106_006790,neg).
 
 %patient: it-0106-006805 index:1947
@@ -41608,6 +43555,7 @@ who_f2(it_0106_006805,0).
 who_f3(it_0106_006805,0).
 who_f4(it_0106_006805,0).
 typeofoutcome_updated(it_0106_006805,2).
+vaccine(it_0106_006805,0,3).
 patient(it_0106_006805,neg).
 
 %patient: it-0106-006807 index:1948
@@ -41628,6 +43576,7 @@ who_f2(it_0106_006807,0).
 who_f3(it_0106_006807,0).
 who_f4(it_0106_006807,0).
 typeofoutcome_updated(it_0106_006807,2).
+vaccine(it_0106_006807,0,3).
 patient(it_0106_006807,neg).
 
 %patient: it-0125-005720 index:1949
@@ -41651,6 +43600,7 @@ who_f2(it_0125_005720,0).
 who_f3(it_0125_005720,0).
 who_f4(it_0125_005720,0).
 typeofoutcome_updated(it_0125_005720,2).
+vaccine(it_0125_005720,0,3).
 patient(it_0125_005720,neg).
 
 %patient: it-0125-005950 index:1950
@@ -41674,6 +43624,7 @@ who_f2(it_0125_005950,0).
 who_f3(it_0125_005950,0).
 who_f4(it_0125_005950,0).
 typeofoutcome_updated(it_0125_005950,2).
+vaccine(it_0125_005950,0,3).
 patient(it_0125_005950,neg).
 
 %patient: it-0125-006144 index:1951
@@ -41701,6 +43652,7 @@ who_f2(it_0125_006144,0).
 who_f3(it_0125_006144,0).
 who_f4(it_0125_006144,0).
 typeofoutcome_updated(it_0125_006144,2).
+vaccine(it_0125_006144,0,3).
 patient(it_0125_006144,neg).
 
 %patient: it-0130-004629 index:1952
@@ -41722,6 +43674,7 @@ who_f2(it_0130_004629,0).
 who_f3(it_0130_004629,0).
 who_f4(it_0130_004629,0).
 typeofoutcome_updated(it_0130_004629,2).
+vaccine(it_0130_004629,1,3).
 patient(it_0130_004629,neg).
 
 %patient: it-0130-004631 index:1953
@@ -41747,6 +43700,7 @@ who_f2(it_0130_004631,0).
 who_f3(it_0130_004631,0).
 who_f4(it_0130_004631,0).
 typeofoutcome_updated(it_0130_004631,2).
+vaccine(it_0130_004631,1,3).
 patient(it_0130_004631,neg).
 
 %patient: it-0130-005354 index:1954
@@ -41765,6 +43719,7 @@ who_f2(it_0130_005354,0).
 who_f3(it_0130_005354,0).
 who_f4(it_0130_005354,0).
 typeofoutcome_updated(it_0130_005354,2).
+vaccine(it_0130_005354,1,3).
 patient(it_0130_005354,neg).
 
 %patient: it-0133-005724 index:1955
@@ -41788,6 +43743,7 @@ who_f2(it_0133_005724,0).
 who_f3(it_0133_005724,0).
 who_f4(it_0133_005724,0).
 typeofoutcome_updated(it_0133_005724,2).
+vaccine(it_0133_005724,0,3).
 patient(it_0133_005724,neg).
 
 %patient: it-0133-005726 index:1956
@@ -41812,6 +43768,7 @@ who_f2(it_0133_005726,0).
 who_f3(it_0133_005726,0).
 who_f4(it_0133_005726,0).
 typeofoutcome_updated(it_0133_005726,2).
+vaccine(it_0133_005726,0,3).
 patient(it_0133_005726,neg).
 
 %patient: it-0133-005734 index:1957
@@ -41829,6 +43786,7 @@ who_f2(it_0133_005734,0).
 who_f3(it_0133_005734,0).
 who_f4(it_0133_005734,0).
 typeofoutcome_updated(it_0133_005734,2).
+vaccine(it_0133_005734,0,3).
 patient(it_0133_005734,neg).
 
 %patient: it-0133-005896 index:1958
@@ -41846,6 +43804,7 @@ who_f2(it_0133_005896,0).
 who_f3(it_0133_005896,0).
 who_f4(it_0133_005896,0).
 typeofoutcome_updated(it_0133_005896,2).
+vaccine(it_0133_005896,0,3).
 patient(it_0133_005896,neg).
 
 %patient: it-0137-005514 index:1959
@@ -41864,6 +43823,7 @@ who_f2(it_0137_005514,0).
 who_f3(it_0137_005514,0).
 who_f4(it_0137_005514,0).
 typeofoutcome_updated(it_0137_005514,2).
+vaccine(it_0137_005514,0,3).
 patient(it_0137_005514,neg).
 
 %patient: it-0138-004467 index:1960
@@ -41882,6 +43842,7 @@ who_f2(it_0138_004467,0).
 who_f3(it_0138_004467,0).
 who_f4(it_0138_004467,0).
 typeofoutcome_updated(it_0138_004467,2).
+vaccine(it_0138_004467,0,3).
 patient(it_0138_004467,neg).
 
 %patient: it-0143-005257 index:1961
@@ -41901,6 +43862,7 @@ who_f2(it_0143_005257,0).
 who_f3(it_0143_005257,1).
 who_f4(it_0143_005257,0).
 typeofoutcome_updated(it_0143_005257,2).
+vaccine(it_0143_005257,0,2).
 patient(it_0143_005257,neg).
 
 %patient: it-0144-004574 index:1962
@@ -41934,6 +43896,7 @@ who_f2(it_0144_004574,0).
 who_f3(it_0144_004574,0).
 who_f4(it_0144_004574,0).
 typeofoutcome_updated(it_0144_004574,2).
+vaccine(it_0144_004574,0,3).
 patient(it_0144_004574,neg).
 
 %patient: it-0019-000394 index:1963
@@ -41955,6 +43918,7 @@ who_f2(it_0019_000394,0).
 who_f3(it_0019_000394,0).
 who_f4(it_0019_000394,0).
 typeofoutcome_updated(it_0019_000394,2).
+vaccine(it_0019_000394,0,3).
 patient(it_0019_000394,neg).
 
 %patient: it-0019-003805 index:1964
@@ -41973,6 +43937,7 @@ who_f2(it_0019_003805,0).
 who_f3(it_0019_003805,0).
 who_f4(it_0019_003805,0).
 typeofoutcome_updated(it_0019_003805,2).
+vaccine(it_0019_003805,0,3).
 patient(it_0019_003805,neg).
 
 %patient: it-0019-003806 index:1965
@@ -41991,6 +43956,7 @@ who_f2(it_0019_003806,0).
 who_f3(it_0019_003806,0).
 who_f4(it_0019_003806,0).
 typeofoutcome_updated(it_0019_003806,2).
+vaccine(it_0019_003806,0,3).
 patient(it_0019_003806,neg).
 
 %patient: it-0019-003808 index:1966
@@ -42009,6 +43975,7 @@ who_f2(it_0019_003808,0).
 who_f3(it_0019_003808,0).
 who_f4(it_0019_003808,0).
 typeofoutcome_updated(it_0019_003808,2).
+vaccine(it_0019_003808,0,3).
 patient(it_0019_003808,neg).
 
 %patient: it-0019-003809 index:1967
@@ -42030,6 +43997,7 @@ who_f2(it_0019_003809,0).
 who_f3(it_0019_003809,0).
 who_f4(it_0019_003809,0).
 typeofoutcome_updated(it_0019_003809,2).
+vaccine(it_0019_003809,0,3).
 patient(it_0019_003809,neg).
 
 %patient: it-0019-003810 index:1968
@@ -42052,6 +44020,7 @@ who_f2(it_0019_003810,0).
 who_f3(it_0019_003810,0).
 who_f4(it_0019_003810,0).
 typeofoutcome_updated(it_0019_003810,2).
+vaccine(it_0019_003810,0,3).
 patient(it_0019_003810,neg).
 
 %patient: it-0019-003811 index:1969
@@ -42073,6 +44042,7 @@ who_f2(it_0019_003811,0).
 who_f3(it_0019_003811,0).
 who_f4(it_0019_003811,0).
 typeofoutcome_updated(it_0019_003811,2).
+vaccine(it_0019_003811,0,3).
 patient(it_0019_003811,neg).
 
 %patient: it-0019-003812 index:1970
@@ -42092,6 +44062,7 @@ who_f2(it_0019_003812,0).
 who_f3(it_0019_003812,0).
 who_f4(it_0019_003812,0).
 typeofoutcome_updated(it_0019_003812,2).
+vaccine(it_0019_003812,0,3).
 patient(it_0019_003812,neg).
 
 %patient: it-0019-003813 index:1971
@@ -42111,6 +44082,7 @@ who_f2(it_0019_003813,0).
 who_f3(it_0019_003813,0).
 who_f4(it_0019_003813,0).
 typeofoutcome_updated(it_0019_003813,2).
+vaccine(it_0019_003813,0,3).
 patient(it_0019_003813,neg).
 
 %patient: it-0019-003814 index:1972
@@ -42131,6 +44103,7 @@ who_f2(it_0019_003814,0).
 who_f3(it_0019_003814,0).
 who_f4(it_0019_003814,0).
 typeofoutcome_updated(it_0019_003814,2).
+vaccine(it_0019_003814,0,3).
 patient(it_0019_003814,neg).
 
 %patient: it-0019-003815 index:1973
@@ -42150,6 +44123,7 @@ who_f2(it_0019_003815,0).
 who_f3(it_0019_003815,0).
 who_f4(it_0019_003815,0).
 typeofoutcome_updated(it_0019_003815,2).
+vaccine(it_0019_003815,0,3).
 patient(it_0019_003815,neg).
 
 %patient: it-0019-003816 index:1974
@@ -42176,6 +44150,7 @@ who_f2(it_0019_003816,0).
 who_f3(it_0019_003816,0).
 who_f4(it_0019_003816,0).
 typeofoutcome_updated(it_0019_003816,2).
+vaccine(it_0019_003816,0,3).
 patient(it_0019_003816,neg).
 
 %patient: it-0019-003817 index:1975
@@ -42197,6 +44172,7 @@ who_f2(it_0019_003817,0).
 who_f3(it_0019_003817,0).
 who_f4(it_0019_003817,0).
 typeofoutcome_updated(it_0019_003817,2).
+vaccine(it_0019_003817,0,3).
 patient(it_0019_003817,neg).
 
 %patient: it-0103-005957 index:1976
@@ -42216,6 +44192,7 @@ who_f2(it_0103_005957,1).
 who_f3(it_0103_005957,1).
 who_f4(it_0103_005957,1).
 typeofoutcome_updated(it_0103_005957,2).
+vaccine(it_0103_005957,0,3).
 patient(it_0103_005957,neg).
 
 %patient: it-0103-005960 index:1977
@@ -42237,6 +44214,7 @@ who_f2(it_0103_005960,1).
 who_f3(it_0103_005960,1).
 who_f4(it_0103_005960,1).
 typeofoutcome_updated(it_0103_005960,2).
+vaccine(it_0103_005960,0,3).
 patient(it_0103_005960,neg).
 
 %patient: it-0103-005969 index:1978
@@ -42256,6 +44234,7 @@ who_f2(it_0103_005969,0).
 who_f3(it_0103_005969,0).
 who_f4(it_0103_005969,0).
 typeofoutcome_updated(it_0103_005969,2).
+vaccine(it_0103_005969,0,3).
 patient(it_0103_005969,neg).
 
 %patient: it-0103-006132 index:1979
@@ -42275,6 +44254,7 @@ who_f2(it_0103_006132,1).
 who_f3(it_0103_006132,1).
 who_f4(it_0103_006132,1).
 typeofoutcome_updated(it_0103_006132,2).
+vaccine(it_0103_006132,0,3).
 patient(it_0103_006132,neg).
 
 %patient: it-0103-006134 index:1980
@@ -42293,6 +44273,7 @@ who_f2(it_0103_006134,0).
 who_f3(it_0103_006134,0).
 who_f4(it_0103_006134,0).
 typeofoutcome_updated(it_0103_006134,2).
+vaccine(it_0103_006134,0,3).
 patient(it_0103_006134,neg).
 
 %patient: it-0108-001803 index:1981
@@ -42314,6 +44295,7 @@ who_f2(it_0108_001803,2).
 who_f3(it_0108_001803,0).
 who_f4(it_0108_001803,0).
 typeofoutcome_updated(it_0108_001803,2).
+vaccine(it_0108_001803,0,3).
 patient(it_0108_001803,neg).
 
 %patient: it-0108-002668 index:1982
@@ -42334,6 +44316,7 @@ who_f2(it_0108_002668,0).
 who_f3(it_0108_002668,0).
 who_f4(it_0108_002668,0).
 typeofoutcome_updated(it_0108_002668,2).
+vaccine(it_0108_002668,0,3).
 patient(it_0108_002668,neg).
 
 %patient: it-0108-002699 index:1983
@@ -42355,6 +44338,7 @@ who_f2(it_0108_002699,0).
 who_f3(it_0108_002699,0).
 who_f4(it_0108_002699,0).
 typeofoutcome_updated(it_0108_002699,2).
+vaccine(it_0108_002699,0,3).
 patient(it_0108_002699,neg).
 
 %patient: it-0108-002708 index:1984
@@ -42376,6 +44360,7 @@ who_f2(it_0108_002708,2).
 who_f3(it_0108_002708,0).
 who_f4(it_0108_002708,0).
 typeofoutcome_updated(it_0108_002708,2).
+vaccine(it_0108_002708,0,3).
 patient(it_0108_002708,neg).
 
 %patient: it-0108-002711 index:1985
@@ -42401,6 +44386,7 @@ who_f2(it_0108_002711,0).
 who_f3(it_0108_002711,0).
 who_f4(it_0108_002711,0).
 typeofoutcome_updated(it_0108_002711,2).
+vaccine(it_0108_002711,0,3).
 patient(it_0108_002711,neg).
 
 %patient: it-0116-004525 index:1986
@@ -42425,6 +44411,7 @@ who_f2(it_0116_004525,0).
 who_f3(it_0116_004525,0).
 who_f4(it_0116_004525,0).
 typeofoutcome_updated(it_0116_004525,2).
+vaccine(it_0116_004525,0,3).
 patient(it_0116_004525,neg).
 
 %patient: it-0116-004527 index:1987
@@ -42447,6 +44434,7 @@ who_f2(it_0116_004527,0).
 who_f3(it_0116_004527,0).
 who_f4(it_0116_004527,0).
 typeofoutcome_updated(it_0116_004527,2).
+vaccine(it_0116_004527,0,3).
 patient(it_0116_004527,neg).
 
 %patient: it-0116-004528 index:1988
@@ -42469,6 +44457,7 @@ who_f2(it_0116_004528,9).
 who_f3(it_0116_004528,0).
 who_f4(it_0116_004528,0).
 typeofoutcome_updated(it_0116_004528,2).
+vaccine(it_0116_004528,0,3).
 patient(it_0116_004528,neg).
 
 %patient: it-0116-004584 index:1989
@@ -42491,6 +44480,7 @@ who_f2(it_0116_004584,0).
 who_f3(it_0116_004584,0).
 who_f4(it_0116_004584,0).
 typeofoutcome_updated(it_0116_004584,2).
+vaccine(it_0116_004584,0,3).
 patient(it_0116_004584,neg).
 
 %patient: it-0116-004585 index:1990
@@ -42513,6 +44503,7 @@ who_f2(it_0116_004585,0).
 who_f3(it_0116_004585,0).
 who_f4(it_0116_004585,0).
 typeofoutcome_updated(it_0116_004585,2).
+vaccine(it_0116_004585,0,3).
 patient(it_0116_004585,neg).
 
 %patient: it-0116-004594 index:1991
@@ -42532,6 +44523,7 @@ who_f2(it_0116_004594,0).
 who_f3(it_0116_004594,0).
 who_f4(it_0116_004594,0).
 typeofoutcome_updated(it_0116_004594,2).
+vaccine(it_0116_004594,0,3).
 patient(it_0116_004594,neg).
 
 %patient: it-0116-004638 index:1992
@@ -42552,6 +44544,7 @@ who_f2(it_0116_004638,0).
 who_f3(it_0116_004638,0).
 who_f4(it_0116_004638,0).
 typeofoutcome_updated(it_0116_004638,2).
+vaccine(it_0116_004638,0,3).
 patient(it_0116_004638,neg).
 
 %patient: it-0116-004647 index:1993
@@ -42576,6 +44569,7 @@ who_f2(it_0116_004647,0).
 who_f3(it_0116_004647,0).
 who_f4(it_0116_004647,0).
 typeofoutcome_updated(it_0116_004647,2).
+vaccine(it_0116_004647,0,3).
 patient(it_0116_004647,neg).
 
 %patient: it-0116-004653 index:1994
@@ -42598,6 +44592,7 @@ who_f2(it_0116_004653,0).
 who_f3(it_0116_004653,0).
 who_f4(it_0116_004653,0).
 typeofoutcome_updated(it_0116_004653,2).
+vaccine(it_0116_004653,0,3).
 patient(it_0116_004653,neg).
 
 %patient: it-0116-004715 index:1995
@@ -42619,6 +44614,7 @@ who_f2(it_0116_004715,0).
 who_f3(it_0116_004715,0).
 who_f4(it_0116_004715,0).
 typeofoutcome_updated(it_0116_004715,2).
+vaccine(it_0116_004715,0,3).
 patient(it_0116_004715,neg).
 
 %patient: it-0116-004878 index:1996
@@ -42640,6 +44636,7 @@ who_f2(it_0116_004878,0).
 who_f3(it_0116_004878,0).
 who_f4(it_0116_004878,0).
 typeofoutcome_updated(it_0116_004878,2).
+vaccine(it_0116_004878,0,3).
 patient(it_0116_004878,neg).
 
 %patient: it-0116-004957 index:1997
@@ -42663,6 +44660,7 @@ who_f2(it_0116_004957,0).
 who_f3(it_0116_004957,0).
 who_f4(it_0116_004957,0).
 typeofoutcome_updated(it_0116_004957,2).
+vaccine(it_0116_004957,0,3).
 patient(it_0116_004957,neg).
 
 %patient: it-0116-004958 index:1998
@@ -42684,6 +44682,7 @@ who_f2(it_0116_004958,0).
 who_f3(it_0116_004958,0).
 who_f4(it_0116_004958,0).
 typeofoutcome_updated(it_0116_004958,2).
+vaccine(it_0116_004958,0,3).
 patient(it_0116_004958,neg).
 
 %patient: it-0116-004963 index:1999
@@ -42707,6 +44706,7 @@ who_f2(it_0116_004963,0).
 who_f3(it_0116_004963,0).
 who_f4(it_0116_004963,0).
 typeofoutcome_updated(it_0116_004963,2).
+vaccine(it_0116_004963,0,3).
 patient(it_0116_004963,neg).
 
 %patient: it-0116-004964 index:2000
@@ -42729,6 +44729,7 @@ who_f2(it_0116_004964,0).
 who_f3(it_0116_004964,0).
 who_f4(it_0116_004964,0).
 typeofoutcome_updated(it_0116_004964,2).
+vaccine(it_0116_004964,0,3).
 patient(it_0116_004964,neg).
 
 %patient: it-0116-004965 index:2001
@@ -42753,6 +44754,7 @@ who_f2(it_0116_004965,0).
 who_f3(it_0116_004965,0).
 who_f4(it_0116_004965,0).
 typeofoutcome_updated(it_0116_004965,2).
+vaccine(it_0116_004965,0,3).
 patient(it_0116_004965,neg).
 
 %patient: it-0116-005061 index:2002
@@ -42775,6 +44777,7 @@ who_f2(it_0116_005061,0).
 who_f3(it_0116_005061,0).
 who_f4(it_0116_005061,0).
 typeofoutcome_updated(it_0116_005061,2).
+vaccine(it_0116_005061,0,3).
 patient(it_0116_005061,neg).
 
 %patient: it-0116-005099 index:2003
@@ -42794,6 +44797,7 @@ who_f2(it_0116_005099,0).
 who_f3(it_0116_005099,0).
 who_f4(it_0116_005099,0).
 typeofoutcome_updated(it_0116_005099,2).
+vaccine(it_0116_005099,0,3).
 patient(it_0116_005099,neg).
 
 %patient: it-0116-005176 index:2004
@@ -42815,6 +44819,7 @@ who_f2(it_0116_005176,0).
 who_f3(it_0116_005176,0).
 who_f4(it_0116_005176,0).
 typeofoutcome_updated(it_0116_005176,2).
+vaccine(it_0116_005176,0,3).
 patient(it_0116_005176,neg).
 
 %patient: it-0116-005184 index:2005
@@ -42833,6 +44838,7 @@ who_f2(it_0116_005184,0).
 who_f3(it_0116_005184,0).
 who_f4(it_0116_005184,0).
 typeofoutcome_updated(it_0116_005184,2).
+vaccine(it_0116_005184,0,3).
 patient(it_0116_005184,neg).
 
 %patient: it-0116-005193 index:2006
@@ -42854,6 +44860,7 @@ who_f2(it_0116_005193,0).
 who_f3(it_0116_005193,0).
 who_f4(it_0116_005193,0).
 typeofoutcome_updated(it_0116_005193,2).
+vaccine(it_0116_005193,0,3).
 patient(it_0116_005193,neg).
 
 %patient: it-0116-005195 index:2007
@@ -42874,6 +44881,7 @@ who_f2(it_0116_005195,0).
 who_f3(it_0116_005195,0).
 who_f4(it_0116_005195,0).
 typeofoutcome_updated(it_0116_005195,2).
+vaccine(it_0116_005195,0,3).
 patient(it_0116_005195,neg).
 
 %patient: it-0116-005196 index:2008
@@ -42894,6 +44902,7 @@ who_f2(it_0116_005196,0).
 who_f3(it_0116_005196,0).
 who_f4(it_0116_005196,0).
 typeofoutcome_updated(it_0116_005196,2).
+vaccine(it_0116_005196,0,3).
 patient(it_0116_005196,neg).
 
 %patient: it-0116-005197 index:2009
@@ -42915,6 +44924,7 @@ who_f2(it_0116_005197,0).
 who_f3(it_0116_005197,0).
 who_f4(it_0116_005197,0).
 typeofoutcome_updated(it_0116_005197,2).
+vaccine(it_0116_005197,0,3).
 patient(it_0116_005197,neg).
 
 %patient: it-0116-005343 index:2010
@@ -42934,6 +44944,7 @@ who_f2(it_0116_005343,0).
 who_f3(it_0116_005343,0).
 who_f4(it_0116_005343,0).
 typeofoutcome_updated(it_0116_005343,2).
+vaccine(it_0116_005343,0,3).
 patient(it_0116_005343,neg).
 
 %patient: it-0116-005348 index:2011
@@ -42956,6 +44967,7 @@ who_f2(it_0116_005348,0).
 who_f3(it_0116_005348,0).
 who_f4(it_0116_005348,0).
 typeofoutcome_updated(it_0116_005348,2).
+vaccine(it_0116_005348,0,3).
 patient(it_0116_005348,neg).
 
 %patient: it-0116-005349 index:2012
@@ -42979,6 +44991,7 @@ who_f2(it_0116_005349,0).
 who_f3(it_0116_005349,0).
 who_f4(it_0116_005349,0).
 typeofoutcome_updated(it_0116_005349,2).
+vaccine(it_0116_005349,0,3).
 patient(it_0116_005349,neg).
 
 %patient: it-0116-005367 index:2013
@@ -43000,6 +45013,7 @@ who_f2(it_0116_005367,0).
 who_f3(it_0116_005367,0).
 who_f4(it_0116_005367,0).
 typeofoutcome_updated(it_0116_005367,2).
+vaccine(it_0116_005367,0,3).
 patient(it_0116_005367,neg).
 
 %patient: it-0116-005376 index:2014
@@ -43023,6 +45037,7 @@ who_f2(it_0116_005376,0).
 who_f3(it_0116_005376,0).
 who_f4(it_0116_005376,0).
 typeofoutcome_updated(it_0116_005376,2).
+vaccine(it_0116_005376,0,3).
 patient(it_0116_005376,neg).
 
 %patient: it-0125-003897 index:2015
@@ -43043,6 +45058,7 @@ who_f2(it_0125_003897,0).
 who_f3(it_0125_003897,0).
 who_f4(it_0125_003897,0).
 typeofoutcome_updated(it_0125_003897,2).
+vaccine(it_0125_003897,0,3).
 patient(it_0125_003897,neg).
 
 %patient: it-0125-003975 index:2016
@@ -43067,6 +45083,7 @@ who_f2(it_0125_003975,0).
 who_f3(it_0125_003975,0).
 who_f4(it_0125_003975,0).
 typeofoutcome_updated(it_0125_003975,2).
+vaccine(it_0125_003975,0,3).
 patient(it_0125_003975,neg).
 
 %patient: it-0125-003976 index:2017
@@ -43093,6 +45110,7 @@ who_f2(it_0125_003976,0).
 who_f3(it_0125_003976,0).
 who_f4(it_0125_003976,0).
 typeofoutcome_updated(it_0125_003976,2).
+vaccine(it_0125_003976,0,3).
 patient(it_0125_003976,neg).
 
 %patient: it-0125-004355 index:2018
@@ -43114,6 +45132,7 @@ who_f2(it_0125_004355,0).
 who_f3(it_0125_004355,0).
 who_f4(it_0125_004355,0).
 typeofoutcome_updated(it_0125_004355,2).
+vaccine(it_0125_004355,0,3).
 patient(it_0125_004355,neg).
 
 %patient: it-0125-004664 index:2019
@@ -43135,6 +45154,7 @@ who_f2(it_0125_004664,0).
 who_f3(it_0125_004664,0).
 who_f4(it_0125_004664,0).
 typeofoutcome_updated(it_0125_004664,2).
+vaccine(it_0125_004664,0,3).
 patient(it_0125_004664,neg).
 
 %patient: it-0132-004962 index:2020
@@ -43160,6 +45180,7 @@ who_f2(it_0132_004962,0).
 who_f3(it_0132_004962,0).
 who_f4(it_0132_004962,0).
 typeofoutcome_updated(it_0132_004962,2).
+vaccine(it_0132_004962,0,2).
 patient(it_0132_004962,neg).
 
 %patient: it-0132-005597 index:2021
@@ -43189,6 +45210,7 @@ who_f2(it_0132_005597,0).
 who_f3(it_0132_005597,0).
 who_f4(it_0132_005597,0).
 typeofoutcome_updated(it_0132_005597,2).
+vaccine(it_0132_005597,0,2).
 patient(it_0132_005597,neg).
 
 %patient: it-0133-005732 index:2022
@@ -43211,6 +45233,7 @@ who_f2(it_0133_005732,0).
 who_f3(it_0133_005732,0).
 who_f4(it_0133_005732,0).
 typeofoutcome_updated(it_0133_005732,2).
+vaccine(it_0133_005732,0,3).
 patient(it_0133_005732,neg).
 
 %patient: it-0133-005738 index:2023
@@ -43230,6 +45253,7 @@ who_f2(it_0133_005738,0).
 who_f3(it_0133_005738,0).
 who_f4(it_0133_005738,0).
 typeofoutcome_updated(it_0133_005738,2).
+vaccine(it_0133_005738,0,3).
 patient(it_0133_005738,neg).
 
 %patient: it-0133-005936 index:2024
@@ -43250,6 +45274,7 @@ who_f2(it_0133_005936,9).
 who_f3(it_0133_005936,0).
 who_f4(it_0133_005936,0).
 typeofoutcome_updated(it_0133_005936,2).
+vaccine(it_0133_005936,0,3).
 patient(it_0133_005936,neg).
 
 %patient: it-0133-006050 index:2025
@@ -43269,6 +45294,7 @@ who_f2(it_0133_006050,0).
 who_f3(it_0133_006050,0).
 who_f4(it_0133_006050,0).
 typeofoutcome_updated(it_0133_006050,2).
+vaccine(it_0133_006050,0,3).
 patient(it_0133_006050,neg).
 
 %patient: it-0133-006051 index:2026
@@ -43286,6 +45312,7 @@ who_f2(it_0133_006051,0).
 who_f3(it_0133_006051,0).
 who_f4(it_0133_006051,0).
 typeofoutcome_updated(it_0133_006051,2).
+vaccine(it_0133_006051,0,3).
 patient(it_0133_006051,neg).
 
 %patient: it-0133-006054 index:2027
@@ -43304,6 +45331,7 @@ who_f2(it_0133_006054,0).
 who_f3(it_0133_006054,0).
 who_f4(it_0133_006054,0).
 typeofoutcome_updated(it_0133_006054,2).
+vaccine(it_0133_006054,0,3).
 patient(it_0133_006054,neg).
 
 %patient: it-0133-006058 index:2028
@@ -43323,6 +45351,7 @@ who_f2(it_0133_006058,0).
 who_f3(it_0133_006058,0).
 who_f4(it_0133_006058,0).
 typeofoutcome_updated(it_0133_006058,2).
+vaccine(it_0133_006058,0,3).
 patient(it_0133_006058,neg).
 
 %patient: it-0133-006062 index:2029
@@ -43341,6 +45370,7 @@ who_f2(it_0133_006062,0).
 who_f3(it_0133_006062,0).
 who_f4(it_0133_006062,0).
 typeofoutcome_updated(it_0133_006062,2).
+vaccine(it_0133_006062,0,3).
 patient(it_0133_006062,neg).
 
 %patient: it-0133-006063 index:2030
@@ -43360,6 +45390,7 @@ who_f2(it_0133_006063,0).
 who_f3(it_0133_006063,0).
 who_f4(it_0133_006063,0).
 typeofoutcome_updated(it_0133_006063,2).
+vaccine(it_0133_006063,0,3).
 patient(it_0133_006063,neg).
 
 %patient: it-0138-004469 index:2031
@@ -43378,6 +45409,7 @@ who_f2(it_0138_004469,0).
 who_f3(it_0138_004469,0).
 who_f4(it_0138_004469,0).
 typeofoutcome_updated(it_0138_004469,2).
+vaccine(it_0138_004469,0,3).
 patient(it_0138_004469,neg).
 
 %patient: it-0143-006252 index:2032
@@ -43397,6 +45429,7 @@ who_f2(it_0143_006252,0).
 who_f3(it_0143_006252,0).
 who_f4(it_0143_006252,0).
 typeofoutcome_updated(it_0143_006252,2).
+vaccine(it_0143_006252,0,3).
 patient(it_0143_006252,neg).
 
 %patient: it-0143-006638 index:2033
@@ -43418,6 +45451,7 @@ who_f2(it_0143_006638,0).
 who_f3(it_0143_006638,0).
 who_f4(it_0143_006638,0).
 typeofoutcome_updated(it_0143_006638,2).
+vaccine(it_0143_006638,0,2).
 patient(it_0143_006638,neg).
 
 %patient: it-0158-005944 index:2034
@@ -43444,6 +45478,7 @@ who_f2(it_0158_005944,0).
 who_f3(it_0158_005944,0).
 who_f4(it_0158_005944,0).
 typeofoutcome_updated(it_0158_005944,2).
+vaccine(it_0158_005944,0,3).
 patient(it_0158_005944,neg).
 
 %patient: it-0158-005946 index:2035
@@ -43465,6 +45500,7 @@ who_f2(it_0158_005946,0).
 who_f3(it_0158_005946,0).
 who_f4(it_0158_005946,0).
 typeofoutcome_updated(it_0158_005946,2).
+vaccine(it_0158_005946,0,3).
 patient(it_0158_005946,neg).
 
 %patient: it-0158-005947 index:2036
@@ -43486,6 +45522,7 @@ who_f2(it_0158_005947,0).
 who_f3(it_0158_005947,0).
 who_f4(it_0158_005947,0).
 typeofoutcome_updated(it_0158_005947,2).
+vaccine(it_0158_005947,0,3).
 patient(it_0158_005947,neg).
 
 %patient: it-0158-006064 index:2037
@@ -43507,6 +45544,7 @@ who_f2(it_0158_006064,0).
 who_f3(it_0158_006064,0).
 who_f4(it_0158_006064,0).
 typeofoutcome_updated(it_0158_006064,2).
+vaccine(it_0158_006064,0,3).
 patient(it_0158_006064,neg).
 
 %patient: it-0158-006082 index:2038
@@ -43530,6 +45568,7 @@ who_f2(it_0158_006082,0).
 who_f3(it_0158_006082,0).
 who_f4(it_0158_006082,0).
 typeofoutcome_updated(it_0158_006082,2).
+vaccine(it_0158_006082,0,3).
 patient(it_0158_006082,neg).
 
 %patient: it-0158-006084 index:2039
@@ -43549,6 +45588,7 @@ who_f2(it_0158_006084,0).
 who_f3(it_0158_006084,0).
 who_f4(it_0158_006084,0).
 typeofoutcome_updated(it_0158_006084,2).
+vaccine(it_0158_006084,0,3).
 patient(it_0158_006084,neg).
 
 %patient: it-0158-006085 index:2040
@@ -43572,6 +45612,7 @@ who_f2(it_0158_006085,0).
 who_f3(it_0158_006085,0).
 who_f4(it_0158_006085,0).
 typeofoutcome_updated(it_0158_006085,2).
+vaccine(it_0158_006085,0,3).
 patient(it_0158_006085,neg).
 
 %patient: it-0158-006086 index:2041
@@ -43592,6 +45633,7 @@ who_f2(it_0158_006086,0).
 who_f3(it_0158_006086,0).
 who_f4(it_0158_006086,0).
 typeofoutcome_updated(it_0158_006086,2).
+vaccine(it_0158_006086,0,3).
 patient(it_0158_006086,neg).
 
 %patient: it-0158-006087 index:2042
@@ -43616,6 +45658,7 @@ who_f2(it_0158_006087,0).
 who_f3(it_0158_006087,0).
 who_f4(it_0158_006087,0).
 typeofoutcome_updated(it_0158_006087,2).
+vaccine(it_0158_006087,0,3).
 patient(it_0158_006087,neg).
 
 %patient: it-0158-006089 index:2043
@@ -43636,6 +45679,7 @@ who_f2(it_0158_006089,0).
 who_f3(it_0158_006089,0).
 who_f4(it_0158_006089,0).
 typeofoutcome_updated(it_0158_006089,2).
+vaccine(it_0158_006089,0,3).
 patient(it_0158_006089,neg).
 
 %patient: it-0158-006265 index:2044
@@ -43657,6 +45701,7 @@ who_f2(it_0158_006265,0).
 who_f3(it_0158_006265,0).
 who_f4(it_0158_006265,0).
 typeofoutcome_updated(it_0158_006265,2).
+vaccine(it_0158_006265,0,3).
 patient(it_0158_006265,neg).
 
 %patient: it-0158-006266 index:2045
@@ -43677,6 +45722,7 @@ who_f2(it_0158_006266,0).
 who_f3(it_0158_006266,0).
 who_f4(it_0158_006266,0).
 typeofoutcome_updated(it_0158_006266,2).
+vaccine(it_0158_006266,0,3).
 patient(it_0158_006266,neg).
 
 %patient: it-0020-000291 index:2046
@@ -43703,6 +45749,7 @@ who_f2(it_0020_000291,0).
 who_f3(it_0020_000291,0).
 who_f4(it_0020_000291,0).
 typeofoutcome_updated(it_0020_000291,2).
+vaccine(it_0020_000291,0,3).
 patient(it_0020_000291,neg).
 
 %patient: it-0020-001253 index:2047
@@ -43730,6 +45777,7 @@ who_f2(it_0020_001253,0).
 who_f3(it_0020_001253,0).
 who_f4(it_0020_001253,0).
 typeofoutcome_updated(it_0020_001253,2).
+vaccine(it_0020_001253,0,3).
 patient(it_0020_001253,neg).
 
 %patient: it-0020-003770 index:2048
@@ -43754,6 +45802,7 @@ who_f2(it_0020_003770,0).
 who_f3(it_0020_003770,0).
 who_f4(it_0020_003770,0).
 typeofoutcome_updated(it_0020_003770,2).
+vaccine(it_0020_003770,0,3).
 patient(it_0020_003770,neg).
 
 %patient: it-0020-003771 index:2049
@@ -43774,6 +45823,7 @@ who_f2(it_0020_003771,0).
 who_f3(it_0020_003771,0).
 who_f4(it_0020_003771,0).
 typeofoutcome_updated(it_0020_003771,2).
+vaccine(it_0020_003771,0,3).
 patient(it_0020_003771,neg).
 
 %patient: it-0020-003772 index:2050
@@ -43799,6 +45849,7 @@ who_f2(it_0020_003772,0).
 who_f3(it_0020_003772,0).
 who_f4(it_0020_003772,0).
 typeofoutcome_updated(it_0020_003772,2).
+vaccine(it_0020_003772,0,3).
 patient(it_0020_003772,neg).
 
 %patient: it-0020-003773 index:2051
@@ -43821,6 +45872,7 @@ who_f2(it_0020_003773,0).
 who_f3(it_0020_003773,0).
 who_f4(it_0020_003773,0).
 typeofoutcome_updated(it_0020_003773,2).
+vaccine(it_0020_003773,0,3).
 patient(it_0020_003773,neg).
 
 %patient: it-0020-003775 index:2052
@@ -43846,6 +45898,7 @@ who_f2(it_0020_003775,0).
 who_f3(it_0020_003775,0).
 who_f4(it_0020_003775,0).
 typeofoutcome_updated(it_0020_003775,2).
+vaccine(it_0020_003775,0,3).
 patient(it_0020_003775,neg).
 
 %patient: it-0020-003777 index:2053
@@ -43870,6 +45923,7 @@ who_f2(it_0020_003777,0).
 who_f3(it_0020_003777,0).
 who_f4(it_0020_003777,0).
 typeofoutcome_updated(it_0020_003777,2).
+vaccine(it_0020_003777,0,3).
 patient(it_0020_003777,neg).
 
 %patient: it-0020-003782 index:2054
@@ -43895,6 +45949,7 @@ who_f2(it_0020_003782,0).
 who_f3(it_0020_003782,0).
 who_f4(it_0020_003782,0).
 typeofoutcome_updated(it_0020_003782,2).
+vaccine(it_0020_003782,0,3).
 patient(it_0020_003782,neg).
 
 %patient: it-0020-003783 index:2055
@@ -43918,6 +45973,7 @@ who_f2(it_0020_003783,0).
 who_f3(it_0020_003783,0).
 who_f4(it_0020_003783,0).
 typeofoutcome_updated(it_0020_003783,2).
+vaccine(it_0020_003783,0,3).
 patient(it_0020_003783,neg).
 
 %patient: it-0020-003785 index:2056
@@ -43943,6 +45999,7 @@ who_f2(it_0020_003785,0).
 who_f3(it_0020_003785,0).
 who_f4(it_0020_003785,0).
 typeofoutcome_updated(it_0020_003785,2).
+vaccine(it_0020_003785,0,3).
 patient(it_0020_003785,neg).
 
 %patient: it-0020-003786 index:2057
@@ -43967,6 +46024,7 @@ who_f2(it_0020_003786,0).
 who_f3(it_0020_003786,0).
 who_f4(it_0020_003786,0).
 typeofoutcome_updated(it_0020_003786,2).
+vaccine(it_0020_003786,0,3).
 patient(it_0020_003786,neg).
 
 %patient: it-0020-003787 index:2058
@@ -43990,6 +46048,7 @@ who_f2(it_0020_003787,0).
 who_f3(it_0020_003787,0).
 who_f4(it_0020_003787,0).
 typeofoutcome_updated(it_0020_003787,2).
+vaccine(it_0020_003787,0,3).
 patient(it_0020_003787,neg).
 
 %patient: it-0020-003797 index:2059
@@ -44013,6 +46072,7 @@ who_f2(it_0020_003797,0).
 who_f3(it_0020_003797,0).
 who_f4(it_0020_003797,0).
 typeofoutcome_updated(it_0020_003797,2).
+vaccine(it_0020_003797,0,3).
 patient(it_0020_003797,neg).
 
 %patient: it-0020-003798 index:2060
@@ -44041,6 +46101,7 @@ who_f2(it_0020_003798,0).
 who_f3(it_0020_003798,0).
 who_f4(it_0020_003798,0).
 typeofoutcome_updated(it_0020_003798,2).
+vaccine(it_0020_003798,0,3).
 patient(it_0020_003798,neg).
 
 %patient: it-0020-003800 index:2061
@@ -44066,6 +46127,7 @@ who_f2(it_0020_003800,0).
 who_f3(it_0020_003800,0).
 who_f4(it_0020_003800,0).
 typeofoutcome_updated(it_0020_003800,2).
+vaccine(it_0020_003800,0,3).
 patient(it_0020_003800,neg).
 
 %patient: it-0020-003801 index:2062
@@ -44090,6 +46152,7 @@ who_f2(it_0020_003801,0).
 who_f3(it_0020_003801,0).
 who_f4(it_0020_003801,0).
 typeofoutcome_updated(it_0020_003801,2).
+vaccine(it_0020_003801,0,3).
 patient(it_0020_003801,neg).
 
 %patient: it-0020-003802 index:2063
@@ -44119,6 +46182,7 @@ who_f2(it_0020_003802,0).
 who_f3(it_0020_003802,0).
 who_f4(it_0020_003802,0).
 typeofoutcome_updated(it_0020_003802,2).
+vaccine(it_0020_003802,0,3).
 patient(it_0020_003802,neg).
 
 %patient: it-0020-003803 index:2064
@@ -44146,6 +46210,7 @@ who_f2(it_0020_003803,0).
 who_f3(it_0020_003803,0).
 who_f4(it_0020_003803,0).
 typeofoutcome_updated(it_0020_003803,2).
+vaccine(it_0020_003803,0,3).
 patient(it_0020_003803,neg).
 
 %patient: it-0108-002669 index:2065
@@ -44166,6 +46231,7 @@ who_f2(it_0108_002669,0).
 who_f3(it_0108_002669,0).
 who_f4(it_0108_002669,0).
 typeofoutcome_updated(it_0108_002669,2).
+vaccine(it_0108_002669,0,2).
 patient(it_0108_002669,neg).
 
 %patient: it-0108-002671 index:2066
@@ -44194,6 +46260,7 @@ who_f2(it_0108_002671,0).
 who_f3(it_0108_002671,0).
 who_f4(it_0108_002671,0).
 typeofoutcome_updated(it_0108_002671,2).
+vaccine(it_0108_002671,0,3).
 patient(it_0108_002671,neg).
 
 %patient: it-0108-002674 index:2067
@@ -44218,6 +46285,7 @@ who_f2(it_0108_002674,0).
 who_f3(it_0108_002674,0).
 who_f4(it_0108_002674,0).
 typeofoutcome_updated(it_0108_002674,2).
+vaccine(it_0108_002674,0,2).
 patient(it_0108_002674,neg).
 
 %patient: it-0125-004661 index:2068
@@ -44237,6 +46305,7 @@ who_f2(it_0125_004661,0).
 who_f3(it_0125_004661,0).
 who_f4(it_0125_004661,0).
 typeofoutcome_updated(it_0125_004661,2).
+vaccine(it_0125_004661,0,3).
 patient(it_0125_004661,neg).
 
 %patient: it-0125-005954 index:2069
@@ -44258,6 +46327,7 @@ who_f2(it_0125_005954,0).
 who_f3(it_0125_005954,0).
 who_f4(it_0125_005954,0).
 typeofoutcome_updated(it_0125_005954,2).
+vaccine(it_0125_005954,0,3).
 patient(it_0125_005954,neg).
 
 %patient: it-0125-005964 index:2070
@@ -44280,6 +46350,7 @@ who_f2(it_0125_005964,0).
 who_f3(it_0125_005964,0).
 who_f4(it_0125_005964,0).
 typeofoutcome_updated(it_0125_005964,2).
+vaccine(it_0125_005964,0,3).
 patient(it_0125_005964,neg).
 
 %patient: it-0132-005940 index:2071
@@ -44304,6 +46375,7 @@ who_f2(it_0132_005940,0).
 who_f3(it_0132_005940,0).
 who_f4(it_0132_005940,0).
 typeofoutcome_updated(it_0132_005940,2).
+vaccine(it_0132_005940,0,3).
 patient(it_0132_005940,neg).
 
 %patient: it-0134-004936 index:2072
@@ -44326,6 +46398,7 @@ who_f2(it_0134_004936,0).
 who_f3(it_0134_004936,0).
 who_f4(it_0134_004936,0).
 typeofoutcome_updated(it_0134_004936,2).
+vaccine(it_0134_004936,0,2).
 patient(it_0134_004936,neg).
 
 %patient: it-0134-004939 index:2073
@@ -44345,6 +46418,7 @@ who_f2(it_0134_004939,0).
 who_f3(it_0134_004939,0).
 who_f4(it_0134_004939,0).
 typeofoutcome_updated(it_0134_004939,2).
+vaccine(it_0134_004939,0,2).
 patient(it_0134_004939,neg).
 
 %patient: it-0134-004940 index:2074
@@ -44369,6 +46443,7 @@ who_f2(it_0134_004940,0).
 who_f3(it_0134_004940,0).
 who_f4(it_0134_004940,0).
 typeofoutcome_updated(it_0134_004940,2).
+vaccine(it_0134_004940,0,2).
 patient(it_0134_004940,neg).
 
 %patient: it-0134-004941 index:2075
@@ -44390,6 +46465,7 @@ who_f2(it_0134_004941,0).
 who_f3(it_0134_004941,0).
 who_f4(it_0134_004941,0).
 typeofoutcome_updated(it_0134_004941,2).
+vaccine(it_0134_004941,0,2).
 patient(it_0134_004941,neg).
 
 %patient: it-0134-004942 index:2076
@@ -44410,6 +46486,7 @@ who_f2(it_0134_004942,0).
 who_f3(it_0134_004942,0).
 who_f4(it_0134_004942,0).
 typeofoutcome_updated(it_0134_004942,2).
+vaccine(it_0134_004942,0,2).
 patient(it_0134_004942,neg).
 
 %patient: it-0134-004944 index:2077
@@ -44429,6 +46506,7 @@ who_f2(it_0134_004944,0).
 who_f3(it_0134_004944,0).
 who_f4(it_0134_004944,0).
 typeofoutcome_updated(it_0134_004944,2).
+vaccine(it_0134_004944,0,2).
 patient(it_0134_004944,neg).
 
 %patient: it-0134-004945 index:2078
@@ -44447,6 +46525,7 @@ who_f2(it_0134_004945,0).
 who_f3(it_0134_004945,0).
 who_f4(it_0134_004945,0).
 typeofoutcome_updated(it_0134_004945,2).
+vaccine(it_0134_004945,0,2).
 patient(it_0134_004945,neg).
 
 %patient: it-0134-004946 index:2079
@@ -44468,6 +46547,7 @@ who_f2(it_0134_004946,0).
 who_f3(it_0134_004946,0).
 who_f4(it_0134_004946,0).
 typeofoutcome_updated(it_0134_004946,2).
+vaccine(it_0134_004946,0,2).
 patient(it_0134_004946,neg).
 
 %patient: it-0134-004947 index:2080
@@ -44488,6 +46568,7 @@ who_f2(it_0134_004947,0).
 who_f3(it_0134_004947,0).
 who_f4(it_0134_004947,0).
 typeofoutcome_updated(it_0134_004947,2).
+vaccine(it_0134_004947,0,2).
 patient(it_0134_004947,neg).
 
 %patient: it-0134-004948 index:2081
@@ -44508,6 +46589,7 @@ who_f2(it_0134_004948,0).
 who_f3(it_0134_004948,0).
 who_f4(it_0134_004948,0).
 typeofoutcome_updated(it_0134_004948,2).
+vaccine(it_0134_004948,0,2).
 patient(it_0134_004948,neg).
 
 %patient: it-0134-004949 index:2082
@@ -44528,6 +46610,7 @@ who_f2(it_0134_004949,0).
 who_f3(it_0134_004949,0).
 who_f4(it_0134_004949,0).
 typeofoutcome_updated(it_0134_004949,2).
+vaccine(it_0134_004949,0,2).
 patient(it_0134_004949,neg).
 
 %patient: it-0134-004951 index:2083
@@ -44548,6 +46631,7 @@ who_f2(it_0134_004951,0).
 who_f3(it_0134_004951,0).
 who_f4(it_0134_004951,0).
 typeofoutcome_updated(it_0134_004951,2).
+vaccine(it_0134_004951,0,2).
 patient(it_0134_004951,neg).
 
 %patient: it-0134-005605 index:2084
@@ -44566,6 +46650,7 @@ who_f2(it_0134_005605,0).
 who_f3(it_0134_005605,0).
 who_f4(it_0134_005605,0).
 typeofoutcome_updated(it_0134_005605,2).
+vaccine(it_0134_005605,0,2).
 patient(it_0134_005605,neg).
 
 %patient: it-0134-005606 index:2085
@@ -44584,6 +46669,7 @@ who_f2(it_0134_005606,0).
 who_f3(it_0134_005606,0).
 who_f4(it_0134_005606,0).
 typeofoutcome_updated(it_0134_005606,2).
+vaccine(it_0134_005606,0,2).
 patient(it_0134_005606,neg).
 
 %patient: it-0138-004472 index:2086
@@ -44605,6 +46691,7 @@ who_f2(it_0138_004472,0).
 who_f3(it_0138_004472,0).
 who_f4(it_0138_004472,0).
 typeofoutcome_updated(it_0138_004472,2).
+vaccine(it_0138_004472,0,3).
 patient(it_0138_004472,neg).
 
 %patient: it-0108-002689 index:2087
@@ -44626,6 +46713,7 @@ who_f2(it_0108_002689,0).
 who_f3(it_0108_002689,0).
 who_f4(it_0108_002689,0).
 typeofoutcome_updated(it_0108_002689,2).
+vaccine(it_0108_002689,0,3).
 patient(it_0108_002689,neg).
 
 %patient: it-0108-002705 index:2088
@@ -44649,6 +46737,7 @@ who_f2(it_0108_002705,0).
 who_f3(it_0108_002705,0).
 who_f4(it_0108_002705,0).
 typeofoutcome_updated(it_0108_002705,2).
+vaccine(it_0108_002705,0,3).
 patient(it_0108_002705,neg).
 
 %patient: it-0108-002707 index:2089
@@ -44672,6 +46761,7 @@ who_f2(it_0108_002707,0).
 who_f3(it_0108_002707,0).
 who_f4(it_0108_002707,0).
 typeofoutcome_updated(it_0108_002707,2).
+vaccine(it_0108_002707,0,3).
 patient(it_0108_002707,neg).
 
 %patient: it-0108-002710 index:2090
@@ -44694,6 +46784,7 @@ who_f2(it_0108_002710,0).
 who_f3(it_0108_002710,0).
 who_f4(it_0108_002710,0).
 typeofoutcome_updated(it_0108_002710,2).
+vaccine(it_0108_002710,0,3).
 patient(it_0108_002710,neg).
 
 %patient: it-0125-003997 index:2091
@@ -44719,6 +46810,7 @@ who_f2(it_0125_003997,0).
 who_f3(it_0125_003997,0).
 who_f4(it_0125_003997,0).
 typeofoutcome_updated(it_0125_003997,2).
+vaccine(it_0125_003997,0,3).
 patient(it_0125_003997,neg).
 
 %patient: it-0125-004155 index:2092
@@ -44743,6 +46835,7 @@ who_f2(it_0125_004155,0).
 who_f3(it_0125_004155,0).
 who_f4(it_0125_004155,0).
 typeofoutcome_updated(it_0125_004155,2).
+vaccine(it_0125_004155,0,3).
 patient(it_0125_004155,neg).
 
 %patient: it-0125-006145 index:2093
@@ -44765,6 +46858,7 @@ who_f2(it_0125_006145,0).
 who_f3(it_0125_006145,0).
 who_f4(it_0125_006145,0).
 typeofoutcome_updated(it_0125_006145,2).
+vaccine(it_0125_006145,0,3).
 patient(it_0125_006145,neg).
 
 %patient: it-0132-005943 index:2094
@@ -44791,6 +46885,7 @@ who_f2(it_0132_005943,0).
 who_f3(it_0132_005943,0).
 who_f4(it_0132_005943,0).
 typeofoutcome_updated(it_0132_005943,2).
+vaccine(it_0132_005943,0,3).
 patient(it_0132_005943,neg).
 
 %patient: it-0003-003755 index:2095
@@ -44815,6 +46910,7 @@ who_f2(it_0003_003755,0).
 who_f3(it_0003_003755,0).
 who_f4(it_0003_003755,0).
 typeofoutcome_updated(it_0003_003755,2).
+vaccine(it_0003_003755,0,3).
 patient(it_0003_003755,neg).
 
 %patient: it-0018-003760 index:2096
@@ -44844,6 +46940,7 @@ who_f2(it_0018_003760,0).
 who_f3(it_0018_003760,0).
 who_f4(it_0018_003760,0).
 typeofoutcome_updated(it_0018_003760,2).
+vaccine(it_0018_003760,0,3).
 patient(it_0018_003760,neg).
 
 %patient: it-0125-003790 index:2097
@@ -44869,6 +46966,7 @@ who_f2(it_0125_003790,0).
 who_f3(it_0125_003790,0).
 who_f4(it_0125_003790,0).
 typeofoutcome_updated(it_0125_003790,2).
+vaccine(it_0125_003790,0,3).
 patient(it_0125_003790,neg).
 
 %patient: it-0125-003930 index:2098
@@ -44898,6 +46996,7 @@ who_f2(it_0125_003930,0).
 who_f3(it_0125_003930,0).
 who_f4(it_0125_003930,0).
 typeofoutcome_updated(it_0125_003930,2).
+vaccine(it_0125_003930,0,3).
 patient(it_0125_003930,neg).
 
 %patient: it-0125-003932 index:2099
@@ -44921,6 +47020,7 @@ who_f2(it_0125_003932,1).
 who_f3(it_0125_003932,1).
 who_f4(it_0125_003932,1).
 typeofoutcome_updated(it_0125_003932,2).
+vaccine(it_0125_003932,0,3).
 patient(it_0125_003932,neg).
 
 %patient: it-0125-004172 index:2100
@@ -44943,6 +47043,7 @@ who_f2(it_0125_004172,0).
 who_f3(it_0125_004172,0).
 who_f4(it_0125_004172,0).
 typeofoutcome_updated(it_0125_004172,2).
+vaccine(it_0125_004172,0,3).
 patient(it_0125_004172,neg).
 
 %patient: it-0125-004275 index:2101
@@ -44964,6 +47065,7 @@ who_f2(it_0125_004275,0).
 who_f3(it_0125_004275,0).
 who_f4(it_0125_004275,0).
 typeofoutcome_updated(it_0125_004275,2).
+vaccine(it_0125_004275,0,3).
 patient(it_0125_004275,neg).
 
 %patient: it-0125-006423 index:2102
@@ -44992,6 +47094,7 @@ who_f2(it_0125_006423,0).
 who_f3(it_0125_006423,0).
 who_f4(it_0125_006423,0).
 typeofoutcome_updated(it_0125_006423,2).
+vaccine(it_0125_006423,0,3).
 patient(it_0125_006423,neg).
 
 %patient: it-0130-005203 index:2103
@@ -45015,6 +47118,7 @@ who_f2(it_0130_005203,0).
 who_f3(it_0130_005203,0).
 who_f4(it_0130_005203,0).
 typeofoutcome_updated(it_0130_005203,2).
+vaccine(it_0130_005203,1,3).
 patient(it_0130_005203,neg).
 
 %patient: it-0061-004738 index:2104
@@ -45043,6 +47147,7 @@ who_f2(it_0061_004738,0).
 who_f3(it_0061_004738,1).
 who_f4(it_0061_004738,1).
 typeofoutcome_updated(it_0061_004738,2).
+vaccine(it_0061_004738,0,2).
 patient(it_0061_004738,neg).
 
 %patient: it-0125-004125 index:2105
@@ -45067,6 +47172,7 @@ who_f2(it_0125_004125,0).
 who_f3(it_0125_004125,0).
 who_f4(it_0125_004125,0).
 typeofoutcome_updated(it_0125_004125,2).
+vaccine(it_0125_004125,0,3).
 patient(it_0125_004125,neg).
 
 %patient: it-0125-006048 index:2106
@@ -45091,6 +47197,7 @@ who_f2(it_0125_006048,0).
 who_f3(it_0125_006048,0).
 who_f4(it_0125_006048,0).
 typeofoutcome_updated(it_0125_006048,2).
+vaccine(it_0125_006048,0,3).
 patient(it_0125_006048,neg).
 
 %patient: it-0003-000282 index:2107
@@ -45117,6 +47224,7 @@ who_f2(it_0003_000282,0).
 who_f3(it_0003_000282,0).
 who_f4(it_0003_000282,0).
 typeofoutcome_updated(it_0003_000282,2).
+vaccine(it_0003_000282,0,3).
 patient(it_0003_000282,neg).
 
 %patient: it-0003-000283 index:2108
@@ -45145,6 +47253,7 @@ who_f2(it_0003_000283,0).
 who_f3(it_0003_000283,0).
 who_f4(it_0003_000283,0).
 typeofoutcome_updated(it_0003_000283,2).
+vaccine(it_0003_000283,0,3).
 patient(it_0003_000283,neg).
 
 %patient: it-0003-001904 index:2109
@@ -45174,6 +47283,7 @@ who_f2(it_0003_001904,0).
 who_f3(it_0003_001904,0).
 who_f4(it_0003_001904,0).
 typeofoutcome_updated(it_0003_001904,2).
+vaccine(it_0003_001904,0,3).
 patient(it_0003_001904,neg).
 
 %patient: it-0003-003753 index:2110
@@ -45200,6 +47310,7 @@ who_f2(it_0003_003753,0).
 who_f3(it_0003_003753,0).
 who_f4(it_0003_003753,0).
 typeofoutcome_updated(it_0003_003753,2).
+vaccine(it_0003_003753,0,3).
 patient(it_0003_003753,neg).
 
 %patient: it-0003-003759 index:2111
@@ -45228,6 +47339,7 @@ who_f2(it_0003_003759,0).
 who_f3(it_0003_003759,0).
 who_f4(it_0003_003759,0).
 typeofoutcome_updated(it_0003_003759,2).
+vaccine(it_0003_003759,0,3).
 patient(it_0003_003759,neg).
 
 %patient: it-0003-003762 index:2112
@@ -45253,6 +47365,7 @@ who_f2(it_0003_003762,0).
 who_f3(it_0003_003762,0).
 who_f4(it_0003_003762,0).
 typeofoutcome_updated(it_0003_003762,2).
+vaccine(it_0003_003762,0,3).
 patient(it_0003_003762,neg).
 
 %patient: it-0017-000279 index:2113
@@ -45281,6 +47394,7 @@ who_f2(it_0017_000279,0).
 who_f3(it_0017_000279,0).
 who_f4(it_0017_000279,0).
 typeofoutcome_updated(it_0017_000279,2).
+vaccine(it_0017_000279,0,3).
 patient(it_0017_000279,neg).
 
 %patient: it-0018-000684 index:2114
@@ -45309,6 +47423,7 @@ who_f2(it_0018_000684,0).
 who_f3(it_0018_000684,0).
 who_f4(it_0018_000684,0).
 typeofoutcome_updated(it_0018_000684,2).
+vaccine(it_0018_000684,0,3).
 patient(it_0018_000684,neg).
 
 %patient: it-0018-001900 index:2115
@@ -45336,6 +47451,7 @@ who_f2(it_0018_001900,0).
 who_f3(it_0018_001900,0).
 who_f4(it_0018_001900,0).
 typeofoutcome_updated(it_0018_001900,2).
+vaccine(it_0018_001900,0,3).
 patient(it_0018_001900,neg).
 
 %patient: it-0018-003766 index:2116
@@ -45363,6 +47479,7 @@ who_f2(it_0018_003766,0).
 who_f3(it_0018_003766,0).
 who_f4(it_0018_003766,0).
 typeofoutcome_updated(it_0018_003766,2).
+vaccine(it_0018_003766,0,3).
 patient(it_0018_003766,neg).
 
 %patient: it-0018-003767 index:2117
@@ -45393,6 +47510,7 @@ who_f2(it_0018_003767,0).
 who_f3(it_0018_003767,0).
 who_f4(it_0018_003767,0).
 typeofoutcome_updated(it_0018_003767,2).
+vaccine(it_0018_003767,0,3).
 patient(it_0018_003767,neg).
 
 %patient: it-0108-002694 index:2118
@@ -45413,6 +47531,7 @@ who_f2(it_0108_002694,0).
 who_f3(it_0108_002694,0).
 who_f4(it_0108_002694,0).
 typeofoutcome_updated(it_0108_002694,2).
+vaccine(it_0108_002694,0,3).
 patient(it_0108_002694,neg).
 
 %patient: it-0108-002706 index:2119
@@ -45435,6 +47554,7 @@ who_f2(it_0108_002706,0).
 who_f3(it_0108_002706,0).
 who_f4(it_0108_002706,0).
 typeofoutcome_updated(it_0108_002706,2).
+vaccine(it_0108_002706,0,3).
 patient(it_0108_002706,neg).
 
 %patient: it-0108-002709 index:2120
@@ -45454,6 +47574,7 @@ who_f2(it_0108_002709,0).
 who_f3(it_0108_002709,0).
 who_f4(it_0108_002709,0).
 typeofoutcome_updated(it_0108_002709,2).
+vaccine(it_0108_002709,0,3).
 patient(it_0108_002709,neg).
 
 %patient: it-0138-004468 index:2121
@@ -45475,6 +47596,7 @@ who_f2(it_0138_004468,0).
 who_f3(it_0138_004468,0).
 who_f4(it_0138_004468,0).
 typeofoutcome_updated(it_0138_004468,2).
+vaccine(it_0138_004468,0,3).
 patient(it_0138_004468,neg).
 
 %patient: it-0138-004470 index:2122
@@ -45496,6 +47618,7 @@ who_f2(it_0138_004470,0).
 who_f3(it_0138_004470,0).
 who_f4(it_0138_004470,0).
 typeofoutcome_updated(it_0138_004470,2).
+vaccine(it_0138_004470,0,3).
 patient(it_0138_004470,neg).
 
 %patient: it-0138-004471 index:2123
@@ -45515,6 +47638,7 @@ who_f2(it_0138_004471,0).
 who_f3(it_0138_004471,0).
 who_f4(it_0138_004471,0).
 typeofoutcome_updated(it_0138_004471,2).
+vaccine(it_0138_004471,0,3).
 patient(it_0138_004471,neg).
 
 %patient: it-0138-004473 index:2124
@@ -45532,6 +47656,7 @@ who_f2(it_0138_004473,0).
 who_f3(it_0138_004473,0).
 who_f4(it_0138_004473,0).
 typeofoutcome_updated(it_0138_004473,2).
+vaccine(it_0138_004473,0,3).
 patient(it_0138_004473,neg).
 
 %patient: it-0138-004475 index:2125
@@ -45550,6 +47675,7 @@ who_f2(it_0138_004475,0).
 who_f3(it_0138_004475,0).
 who_f4(it_0138_004475,0).
 typeofoutcome_updated(it_0138_004475,2).
+vaccine(it_0138_004475,0,3).
 patient(it_0138_004475,neg).
 
 %patient: it-0138-004477 index:2126
@@ -45570,6 +47696,7 @@ who_f2(it_0138_004477,0).
 who_f3(it_0138_004477,0).
 who_f4(it_0138_004477,0).
 typeofoutcome_updated(it_0138_004477,2).
+vaccine(it_0138_004477,0,3).
 patient(it_0138_004477,neg).
 
 %patient: it-0138-004480 index:2127
@@ -45587,6 +47714,7 @@ who_f2(it_0138_004480,0).
 who_f3(it_0138_004480,0).
 who_f4(it_0138_004480,0).
 typeofoutcome_updated(it_0138_004480,2).
+vaccine(it_0138_004480,0,3).
 patient(it_0138_004480,neg).
 
 %patient: it-0138-004481 index:2128
@@ -45607,6 +47735,7 @@ who_f2(it_0138_004481,0).
 who_f3(it_0138_004481,0).
 who_f4(it_0138_004481,0).
 typeofoutcome_updated(it_0138_004481,2).
+vaccine(it_0138_004481,0,3).
 patient(it_0138_004481,neg).
 
 %patient: it-0138-004483 index:2129
@@ -45626,6 +47755,7 @@ who_f2(it_0138_004483,0).
 who_f3(it_0138_004483,0).
 who_f4(it_0138_004483,0).
 typeofoutcome_updated(it_0138_004483,2).
+vaccine(it_0138_004483,0,3).
 patient(it_0138_004483,neg).
 
 %patient: it-0138-004484 index:2130
@@ -45646,6 +47776,7 @@ who_f2(it_0138_004484,0).
 who_f3(it_0138_004484,0).
 who_f4(it_0138_004484,0).
 typeofoutcome_updated(it_0138_004484,2).
+vaccine(it_0138_004484,0,3).
 patient(it_0138_004484,neg).
 
 %patient: it-0138-004485 index:2131
@@ -45664,6 +47795,7 @@ who_f2(it_0138_004485,0).
 who_f3(it_0138_004485,0).
 who_f4(it_0138_004485,0).
 typeofoutcome_updated(it_0138_004485,2).
+vaccine(it_0138_004485,0,3).
 patient(it_0138_004485,neg).
 
 %patient: it-0141-006176 index:2132
@@ -45682,6 +47814,7 @@ who_f2(it_0141_006176,0).
 who_f3(it_0141_006176,0).
 who_f4(it_0141_006176,0).
 typeofoutcome_updated(it_0141_006176,2).
+vaccine(it_0141_006176,0,2).
 patient(it_0141_006176,neg).
 
 %patient: it-0143-006255 index:2133
@@ -45702,6 +47835,7 @@ who_f2(it_0143_006255,0).
 who_f3(it_0143_006255,0).
 who_f4(it_0143_006255,0).
 typeofoutcome_updated(it_0143_006255,2).
+vaccine(it_0143_006255,0,3).
 patient(it_0143_006255,neg).
 
 %patient: it-0144-006857 index:2134
@@ -45723,6 +47857,7 @@ who_f2(it_0144_006857,0).
 who_f3(it_0144_006857,0).
 who_f4(it_0144_006857,0).
 typeofoutcome_updated(it_0144_006857,2).
+vaccine(it_0144_006857,0,3).
 patient(it_0144_006857,neg).
 
 %patient: it-0144-006859 index:2135
@@ -45742,6 +47877,7 @@ who_f2(it_0144_006859,0).
 who_f3(it_0144_006859,0).
 who_f4(it_0144_006859,0).
 typeofoutcome_updated(it_0144_006859,2).
+vaccine(it_0144_006859,0,3).
 patient(it_0144_006859,neg).
 
 %patient: it-0144-006861 index:2136
@@ -45764,6 +47900,7 @@ who_f2(it_0144_006861,0).
 who_f3(it_0144_006861,0).
 who_f4(it_0144_006861,0).
 typeofoutcome_updated(it_0144_006861,2).
+vaccine(it_0144_006861,0,3).
 patient(it_0144_006861,neg).
 
 %patient: it-0144-006862 index:2137
@@ -45789,6 +47926,7 @@ who_f2(it_0144_006862,0).
 who_f3(it_0144_006862,0).
 who_f4(it_0144_006862,0).
 typeofoutcome_updated(it_0144_006862,2).
+vaccine(it_0144_006862,0,3).
 patient(it_0144_006862,neg).
 
 %patient: it-0108-002700 index:2138
@@ -45813,6 +47951,7 @@ who_f2(it_0108_002700,0).
 who_f3(it_0108_002700,0).
 who_f4(it_0108_002700,0).
 typeofoutcome_updated(it_0108_002700,2).
+vaccine(it_0108_002700,0,2).
 patient(it_0108_002700,neg).
 
 %patient: it-0137-005516 index:2139
@@ -45833,6 +47972,7 @@ who_f2(it_0137_005516,0).
 who_f3(it_0137_005516,0).
 who_f4(it_0137_005516,0).
 typeofoutcome_updated(it_0137_005516,2).
+vaccine(it_0137_005516,0,3).
 patient(it_0137_005516,neg).
 
 %patient: it-0131-004348 index:2140
@@ -45854,6 +47994,7 @@ who_f2(it_0131_004348,0).
 who_f3(it_0131_004348,0).
 who_f4(it_0131_004348,0).
 typeofoutcome_updated(it_0131_004348,2).
+vaccine(it_0131_004348,0,3).
 patient(it_0131_004348,neg).
 
 %patient: it-0131-004349 index:2141
@@ -45874,6 +48015,7 @@ who_f2(it_0131_004349,0).
 who_f3(it_0131_004349,0).
 who_f4(it_0131_004349,0).
 typeofoutcome_updated(it_0131_004349,2).
+vaccine(it_0131_004349,0,3).
 patient(it_0131_004349,neg).
 
 %patient: it-0132-005942 index:2142
@@ -45898,6 +48040,7 @@ who_f2(it_0132_005942,0).
 who_f3(it_0132_005942,0).
 who_f4(it_0132_005942,0).
 typeofoutcome_updated(it_0132_005942,2).
+vaccine(it_0132_005942,0,3).
 patient(it_0132_005942,neg).
 
 %patient: it-0158-006088 index:2143
@@ -45917,6 +48060,7 @@ who_f2(it_0158_006088,0).
 who_f3(it_0158_006088,0).
 who_f4(it_0158_006088,0).
 typeofoutcome_updated(it_0158_006088,2).
+vaccine(it_0158_006088,0,3).
 patient(it_0158_006088,neg).
 
 %patient: it-0131-004313 index:2144
@@ -45939,6 +48083,7 @@ who_f2(it_0131_004313,0).
 who_f3(it_0131_004313,0).
 who_f4(it_0131_004313,0).
 typeofoutcome_updated(it_0131_004313,2).
+vaccine(it_0131_004313,0,3).
 patient(it_0131_004313,neg).
 
 %patient: it-0131-004317 index:2145
@@ -45962,6 +48107,7 @@ who_f2(it_0131_004317,0).
 who_f3(it_0131_004317,0).
 who_f4(it_0131_004317,0).
 typeofoutcome_updated(it_0131_004317,2).
+vaccine(it_0131_004317,0,3).
 patient(it_0131_004317,neg).
 
 %patient: it-0131-004319 index:2146
@@ -45987,6 +48133,7 @@ who_f2(it_0131_004319,0).
 who_f3(it_0131_004319,0).
 who_f4(it_0131_004319,0).
 typeofoutcome_updated(it_0131_004319,2).
+vaccine(it_0131_004319,0,3).
 patient(it_0131_004319,neg).
 
 %patient: it-0158-006068 index:2147
@@ -46009,6 +48156,7 @@ who_f2(it_0158_006068,0).
 who_f3(it_0158_006068,0).
 who_f4(it_0158_006068,0).
 typeofoutcome_updated(it_0158_006068,2).
+vaccine(it_0158_006068,0,3).
 patient(it_0158_006068,neg).
 
 %patient: it-0158-006083 index:2148
@@ -46030,6 +48178,7 @@ who_f2(it_0158_006083,0).
 who_f3(it_0158_006083,0).
 who_f4(it_0158_006083,0).
 typeofoutcome_updated(it_0158_006083,2).
+vaccine(it_0158_006083,0,3).
 patient(it_0158_006083,neg).
 
 %patient: it-0131-004347 index:2149
@@ -46049,6 +48198,7 @@ who_f2(it_0131_004347,0).
 who_f3(it_0131_004347,0).
 who_f4(it_0131_004347,0).
 typeofoutcome_updated(it_0131_004347,2).
+vaccine(it_0131_004347,0,3).
 patient(it_0131_004347,neg).
 
 %patient: it-0158-005945 index:2150
@@ -46069,6 +48219,7 @@ who_f2(it_0158_005945,0).
 who_f3(it_0158_005945,0).
 who_f4(it_0158_005945,0).
 typeofoutcome_updated(it_0158_005945,2).
+vaccine(it_0158_005945,0,3).
 patient(it_0158_005945,neg).
 
 %patient: it-0131-004297 index:2151
@@ -46094,6 +48245,7 @@ who_f2(it_0131_004297,0).
 who_f3(it_0131_004297,0).
 who_f4(it_0131_004297,0).
 typeofoutcome_updated(it_0131_004297,2).
+vaccine(it_0131_004297,0,3).
 patient(it_0131_004297,neg).
 
 %patient: it-0131-004301 index:2152
@@ -46118,6 +48270,7 @@ who_f2(it_0131_004301,0).
 who_f3(it_0131_004301,0).
 who_f4(it_0131_004301,0).
 typeofoutcome_updated(it_0131_004301,2).
+vaccine(it_0131_004301,0,3).
 patient(it_0131_004301,neg).
 
 %patient: it-0131-004303 index:2153
@@ -46138,6 +48291,7 @@ who_f2(it_0131_004303,0).
 who_f3(it_0131_004303,0).
 who_f4(it_0131_004303,0).
 typeofoutcome_updated(it_0131_004303,2).
+vaccine(it_0131_004303,0,3).
 patient(it_0131_004303,neg).
 
 %patient: it-0131-004306 index:2154
@@ -46159,6 +48313,7 @@ who_f2(it_0131_004306,0).
 who_f3(it_0131_004306,0).
 who_f4(it_0131_004306,0).
 typeofoutcome_updated(it_0131_004306,2).
+vaccine(it_0131_004306,0,3).
 patient(it_0131_004306,neg).
 
 %patient: it-0131-004308 index:2155
@@ -46181,6 +48336,7 @@ who_f2(it_0131_004308,0).
 who_f3(it_0131_004308,0).
 who_f4(it_0131_004308,0).
 typeofoutcome_updated(it_0131_004308,2).
+vaccine(it_0131_004308,0,3).
 patient(it_0131_004308,neg).
 
 %patient: it-0131-004315 index:2156
@@ -46206,6 +48362,7 @@ who_f2(it_0131_004315,0).
 who_f3(it_0131_004315,0).
 who_f4(it_0131_004315,0).
 typeofoutcome_updated(it_0131_004315,2).
+vaccine(it_0131_004315,0,3).
 patient(it_0131_004315,neg).
 
 %patient: it-0131-004316 index:2157
@@ -46229,6 +48386,7 @@ who_f2(it_0131_004316,0).
 who_f3(it_0131_004316,0).
 who_f4(it_0131_004316,0).
 typeofoutcome_updated(it_0131_004316,2).
+vaccine(it_0131_004316,0,3).
 patient(it_0131_004316,neg).
 
 %patient: it-0131-004343 index:2158
@@ -46252,6 +48410,7 @@ who_f2(it_0131_004343,0).
 who_f3(it_0131_004343,0).
 who_f4(it_0131_004343,0).
 typeofoutcome_updated(it_0131_004343,2).
+vaccine(it_0131_004343,0,3).
 patient(it_0131_004343,neg).
 
 %patient: it-0131-004352 index:2159
@@ -46274,6 +48433,7 @@ who_f2(it_0131_004352,0).
 who_f3(it_0131_004352,0).
 who_f4(it_0131_004352,0).
 typeofoutcome_updated(it_0131_004352,2).
+vaccine(it_0131_004352,0,3).
 patient(it_0131_004352,neg).
 
 %patient: it-0131-004320 index:2160
@@ -46293,6 +48453,7 @@ who_f2(it_0131_004320,0).
 who_f3(it_0131_004320,0).
 who_f4(it_0131_004320,0).
 typeofoutcome_updated(it_0131_004320,2).
+vaccine(it_0131_004320,0,3).
 patient(it_0131_004320,neg).
 
 %patient: it-0131-004346 index:2161
@@ -46313,6 +48474,7 @@ who_f2(it_0131_004346,0).
 who_f3(it_0131_004346,0).
 who_f4(it_0131_004346,0).
 typeofoutcome_updated(it_0131_004346,2).
+vaccine(it_0131_004346,0,3).
 patient(it_0131_004346,neg).
 
 %patient: it-0131-004351 index:2162
@@ -46336,6 +48498,7 @@ who_f2(it_0131_004351,0).
 who_f3(it_0131_004351,0).
 who_f4(it_0131_004351,0).
 typeofoutcome_updated(it_0131_004351,2).
+vaccine(it_0131_004351,0,3).
 patient(it_0131_004351,neg).
 
 %patient: it-0138-004476 index:2163
@@ -46356,6 +48519,7 @@ who_f2(it_0138_004476,0).
 who_f3(it_0138_004476,0).
 who_f4(it_0138_004476,0).
 typeofoutcome_updated(it_0138_004476,2).
+vaccine(it_0138_004476,0,3).
 patient(it_0138_004476,neg).
 
 %patient: it-0143-006249 index:2164
@@ -46376,6 +48540,7 @@ who_f2(it_0143_006249,0).
 who_f3(it_0143_006249,0).
 who_f4(it_0143_006249,0).
 typeofoutcome_updated(it_0143_006249,2).
+vaccine(it_0143_006249,0,3).
 patient(it_0143_006249,neg).
 
 %patient: it-0131-004298 index:2165
@@ -46402,6 +48567,7 @@ who_f2(it_0131_004298,0).
 who_f3(it_0131_004298,0).
 who_f4(it_0131_004298,0).
 typeofoutcome_updated(it_0131_004298,2).
+vaccine(it_0131_004298,0,3).
 patient(it_0131_004298,neg).
 
 %patient: it-0042-003715 index:2166
@@ -46420,6 +48586,7 @@ who_f2(it_0042_003715,0).
 who_f3(it_0042_003715,0).
 who_f4(it_0042_003715,0).
 typeofoutcome_updated(it_0042_003715,2).
+vaccine(it_0042_003715,0,3).
 patient(it_0042_003715,neg).
 
 %patient: it-0158-006066 index:2167
@@ -46441,6 +48608,7 @@ who_f2(it_0158_006066,0).
 who_f3(it_0158_006066,0).
 who_f4(it_0158_006066,0).
 typeofoutcome_updated(it_0158_006066,2).
+vaccine(it_0158_006066,0,3).
 patient(it_0158_006066,neg).
 
 %patient: it-0143-003906 index:2168
@@ -46471,6 +48639,7 @@ who_f2(it_0143_003906,0).
 who_f3(it_0143_003906,0).
 who_f4(it_0143_003906,0).
 typeofoutcome_updated(it_0143_003906,2).
+vaccine(it_0143_003906,0,2).
 patient(it_0143_003906,neg).
 
 %patient: it-0143-003909 index:2169
@@ -46505,6 +48674,7 @@ who_f2(it_0143_003909,0).
 who_f3(it_0143_003909,0).
 who_f4(it_0143_003909,0).
 typeofoutcome_updated(it_0143_003909,2).
+vaccine(it_0143_003909,0,2).
 patient(it_0143_003909,neg).
 
 %patient: it-0143-003912 index:2170
@@ -46538,6 +48708,7 @@ who_f2(it_0143_003912,0).
 who_f3(it_0143_003912,0).
 who_f4(it_0143_003912,0).
 typeofoutcome_updated(it_0143_003912,2).
+vaccine(it_0143_003912,0,2).
 patient(it_0143_003912,neg).
 
 %patient: it-0143-004049 index:2171
@@ -46563,6 +48734,7 @@ who_f2(it_0143_004049,0).
 who_f3(it_0143_004049,0).
 who_f4(it_0143_004049,0).
 typeofoutcome_updated(it_0143_004049,2).
+vaccine(it_0143_004049,0,2).
 patient(it_0143_004049,neg).
 
 %patient: it-0143-004051 index:2172
@@ -46589,6 +48761,7 @@ who_f2(it_0143_004051,0).
 who_f3(it_0143_004051,0).
 who_f4(it_0143_004051,0).
 typeofoutcome_updated(it_0143_004051,2).
+vaccine(it_0143_004051,0,2).
 patient(it_0143_004051,neg).
 
 %patient: it-0143-004052 index:2173
@@ -46614,6 +48787,7 @@ who_f2(it_0143_004052,0).
 who_f3(it_0143_004052,0).
 who_f4(it_0143_004052,0).
 typeofoutcome_updated(it_0143_004052,2).
+vaccine(it_0143_004052,0,2).
 patient(it_0143_004052,neg).
 
 %patient: it-0143-004054 index:2174
@@ -46642,6 +48816,7 @@ who_f2(it_0143_004054,0).
 who_f3(it_0143_004054,0).
 who_f4(it_0143_004054,0).
 typeofoutcome_updated(it_0143_004054,2).
+vaccine(it_0143_004054,0,2).
 patient(it_0143_004054,neg).
 
 %patient: it-0143-004055 index:2175
@@ -46669,6 +48844,7 @@ who_f2(it_0143_004055,0).
 who_f3(it_0143_004055,0).
 who_f4(it_0143_004055,0).
 typeofoutcome_updated(it_0143_004055,2).
+vaccine(it_0143_004055,0,2).
 patient(it_0143_004055,neg).
 
 %patient: it-0143-004056 index:2176
@@ -46696,6 +48872,7 @@ who_f2(it_0143_004056,0).
 who_f3(it_0143_004056,0).
 who_f4(it_0143_004056,0).
 typeofoutcome_updated(it_0143_004056,2).
+vaccine(it_0143_004056,0,2).
 patient(it_0143_004056,neg).
 
 %patient: it-0143-004058 index:2177
@@ -46726,6 +48903,7 @@ who_f2(it_0143_004058,0).
 who_f3(it_0143_004058,0).
 who_f4(it_0143_004058,0).
 typeofoutcome_updated(it_0143_004058,2).
+vaccine(it_0143_004058,0,2).
 patient(it_0143_004058,neg).
 
 %patient: it-0143-004059 index:2178
@@ -46754,6 +48932,7 @@ who_f2(it_0143_004059,0).
 who_f3(it_0143_004059,9).
 who_f4(it_0143_004059,0).
 typeofoutcome_updated(it_0143_004059,2).
+vaccine(it_0143_004059,0,2).
 patient(it_0143_004059,neg).
 
 %patient: it-0143-004060 index:2179
@@ -46783,6 +48962,7 @@ who_f2(it_0143_004060,0).
 who_f3(it_0143_004060,0).
 who_f4(it_0143_004060,0).
 typeofoutcome_updated(it_0143_004060,2).
+vaccine(it_0143_004060,0,2).
 patient(it_0143_004060,neg).
 
 %patient: it-0143-004061 index:2180
@@ -46815,6 +48995,7 @@ who_f2(it_0143_004061,0).
 who_f3(it_0143_004061,0).
 who_f4(it_0143_004061,0).
 typeofoutcome_updated(it_0143_004061,2).
+vaccine(it_0143_004061,0,2).
 patient(it_0143_004061,neg).
 
 %patient: it-0143-004062 index:2181
@@ -46843,6 +49024,7 @@ who_f2(it_0143_004062,0).
 who_f3(it_0143_004062,0).
 who_f4(it_0143_004062,0).
 typeofoutcome_updated(it_0143_004062,2).
+vaccine(it_0143_004062,0,2).
 patient(it_0143_004062,neg).
 
 %patient: it-0143-004064 index:2182
@@ -46872,6 +49054,7 @@ who_f2(it_0143_004064,0).
 who_f3(it_0143_004064,0).
 who_f4(it_0143_004064,0).
 typeofoutcome_updated(it_0143_004064,2).
+vaccine(it_0143_004064,0,2).
 patient(it_0143_004064,neg).
 
 %patient: it-0143-004065 index:2183
@@ -46902,6 +49085,7 @@ who_f2(it_0143_004065,0).
 who_f3(it_0143_004065,0).
 who_f4(it_0143_004065,0).
 typeofoutcome_updated(it_0143_004065,2).
+vaccine(it_0143_004065,0,2).
 patient(it_0143_004065,neg).
 
 %patient: it-0143-004067 index:2184
@@ -46928,6 +49112,7 @@ who_f2(it_0143_004067,0).
 who_f3(it_0143_004067,0).
 who_f4(it_0143_004067,0).
 typeofoutcome_updated(it_0143_004067,2).
+vaccine(it_0143_004067,0,2).
 patient(it_0143_004067,neg).
 
 %patient: it-0143-004069 index:2185
@@ -46956,6 +49141,7 @@ who_f2(it_0143_004069,0).
 who_f3(it_0143_004069,0).
 who_f4(it_0143_004069,0).
 typeofoutcome_updated(it_0143_004069,2).
+vaccine(it_0143_004069,0,2).
 patient(it_0143_004069,neg).
 
 %patient: it-0143-004070 index:2186
@@ -46988,6 +49174,7 @@ who_f2(it_0143_004070,0).
 who_f3(it_0143_004070,0).
 who_f4(it_0143_004070,0).
 typeofoutcome_updated(it_0143_004070,2).
+vaccine(it_0143_004070,0,2).
 patient(it_0143_004070,neg).
 
 %patient: it-0143-004071 index:2187
@@ -47019,6 +49206,7 @@ who_f2(it_0143_004071,0).
 who_f3(it_0143_004071,0).
 who_f4(it_0143_004071,0).
 typeofoutcome_updated(it_0143_004071,2).
+vaccine(it_0143_004071,0,2).
 patient(it_0143_004071,neg).
 
 %patient: it-0143-004072 index:2188
@@ -47050,6 +49238,7 @@ who_f2(it_0143_004072,0).
 who_f3(it_0143_004072,0).
 who_f4(it_0143_004072,0).
 typeofoutcome_updated(it_0143_004072,2).
+vaccine(it_0143_004072,0,2).
 patient(it_0143_004072,neg).
 
 %patient: it-0143-004240 index:2189
@@ -47082,6 +49271,7 @@ who_f2(it_0143_004240,0).
 who_f3(it_0143_004240,0).
 who_f4(it_0143_004240,0).
 typeofoutcome_updated(it_0143_004240,2).
+vaccine(it_0143_004240,0,2).
 patient(it_0143_004240,neg).
 
 %patient: it-0143-004243 index:2190
@@ -47110,6 +49300,7 @@ who_f2(it_0143_004243,0).
 who_f3(it_0143_004243,0).
 who_f4(it_0143_004243,0).
 typeofoutcome_updated(it_0143_004243,2).
+vaccine(it_0143_004243,0,2).
 patient(it_0143_004243,neg).
 
 %patient: it-0143-004244 index:2191
@@ -47136,6 +49327,7 @@ who_f2(it_0143_004244,0).
 who_f3(it_0143_004244,0).
 who_f4(it_0143_004244,0).
 typeofoutcome_updated(it_0143_004244,2).
+vaccine(it_0143_004244,0,2).
 patient(it_0143_004244,neg).
 
 %patient: it-0143-004245 index:2192
@@ -47163,6 +49355,7 @@ who_f2(it_0143_004245,0).
 who_f3(it_0143_004245,0).
 who_f4(it_0143_004245,0).
 typeofoutcome_updated(it_0143_004245,2).
+vaccine(it_0143_004245,0,2).
 patient(it_0143_004245,neg).
 
 %patient: it-0150-006041 index:2193
@@ -47178,6 +49371,7 @@ who_f2(it_0150_006041,0).
 who_f3(it_0150_006041,0).
 who_f4(it_0150_006041,0).
 typeofoutcome_updated(it_0150_006041,2).
+vaccine(it_0150_006041,0,3).
 patient(it_0150_006041,neg).
 
 %patient: it-0151-005589 index:2194
@@ -47197,6 +49391,7 @@ who_f2(it_0151_005589,0).
 who_f3(it_0151_005589,0).
 who_f4(it_0151_005589,0).
 typeofoutcome_updated(it_0151_005589,2).
+vaccine(it_0151_005589,0,3).
 patient(it_0151_005589,neg).
 
 %patient: it-0061-006478 index:2195
@@ -47224,6 +49419,7 @@ who_f2(it_0061_006478,0).
 who_f3(it_0061_006478,0).
 who_f4(it_0061_006478,0).
 typeofoutcome_updated(it_0061_006478,2).
+vaccine(it_0061_006478,0,3).
 patient(it_0061_006478,neg).
 
 %patient: it-0141-005817 index:2196
@@ -47245,6 +49441,7 @@ who_f2(it_0141_005817,0).
 who_f3(it_0141_005817,0).
 who_f4(it_0141_005817,0).
 typeofoutcome_updated(it_0141_005817,2).
+vaccine(it_0141_005817,0,3).
 patient(it_0141_005817,neg).
 
 %patient: it-0128-004734 index:2197
@@ -47265,6 +49462,7 @@ who_f2(it_0128_004734,9).
 who_f3(it_0128_004734,0).
 who_f4(it_0128_004734,0).
 typeofoutcome_updated(it_0128_004734,2).
+vaccine(it_0128_004734,0,2).
 patient(it_0128_004734,neg).
 
 %patient: it-0148-006008 index:2198
@@ -47286,6 +49484,7 @@ who_f2(it_0148_006008,0).
 who_f3(it_0148_006008,9).
 who_f4(it_0148_006008,0).
 typeofoutcome_updated(it_0148_006008,2).
+vaccine(it_0148_006008,0,3).
 patient(it_0148_006008,neg).
 
 %patient: it-0128-004344 index:2199
@@ -47301,6 +49500,7 @@ who_f2(it_0128_004344,0).
 who_f3(it_0128_004344,0).
 who_f4(it_0128_004344,0).
 typeofoutcome_updated(it_0128_004344,2).
+vaccine(it_0128_004344,0,2).
 patient(it_0128_004344,neg).
 
 %patient: it-0128-004717 index:2200
@@ -47320,6 +49520,7 @@ who_f2(it_0128_004717,0).
 who_f3(it_0128_004717,0).
 who_f4(it_0128_004717,0).
 typeofoutcome_updated(it_0128_004717,2).
+vaccine(it_0128_004717,0,2).
 patient(it_0128_004717,neg).
 
 %patient: it-0128-004719 index:2201
@@ -47341,6 +49542,7 @@ who_f2(it_0128_004719,9).
 who_f3(it_0128_004719,0).
 who_f4(it_0128_004719,0).
 typeofoutcome_updated(it_0128_004719,2).
+vaccine(it_0128_004719,0,2).
 patient(it_0128_004719,neg).
 
 %patient: it-0128-004721 index:2202
@@ -47361,6 +49563,7 @@ who_f2(it_0128_004721,0).
 who_f3(it_0128_004721,0).
 who_f4(it_0128_004721,0).
 typeofoutcome_updated(it_0128_004721,2).
+vaccine(it_0128_004721,0,2).
 patient(it_0128_004721,neg).
 
 %patient: it-0128-004723 index:2203
@@ -47382,6 +49585,7 @@ who_f2(it_0128_004723,9).
 who_f3(it_0128_004723,0).
 who_f4(it_0128_004723,0).
 typeofoutcome_updated(it_0128_004723,2).
+vaccine(it_0128_004723,0,2).
 patient(it_0128_004723,neg).
 
 %patient: it-0128-004731 index:2204
@@ -47402,6 +49606,7 @@ who_f2(it_0128_004731,9).
 who_f3(it_0128_004731,0).
 who_f4(it_0128_004731,0).
 typeofoutcome_updated(it_0128_004731,2).
+vaccine(it_0128_004731,0,2).
 patient(it_0128_004731,neg).
 
 %patient: it-0128-004739 index:2205
@@ -47419,6 +49624,7 @@ who_f2(it_0128_004739,0).
 who_f3(it_0128_004739,0).
 who_f4(it_0128_004739,0).
 typeofoutcome_updated(it_0128_004739,2).
+vaccine(it_0128_004739,0,2).
 patient(it_0128_004739,neg).
 
 %patient: it-0129-004675 index:2206
@@ -47441,6 +49647,7 @@ who_f2(it_0129_004675,0).
 who_f3(it_0129_004675,0).
 who_f4(it_0129_004675,0).
 typeofoutcome_updated(it_0129_004675,2).
+vaccine(it_0129_004675,0,2).
 patient(it_0129_004675,neg).
 
 %patient: it-0129-004676 index:2207
@@ -47459,6 +49666,7 @@ who_f2(it_0129_004676,0).
 who_f3(it_0129_004676,0).
 who_f4(it_0129_004676,0).
 typeofoutcome_updated(it_0129_004676,2).
+vaccine(it_0129_004676,0,2).
 patient(it_0129_004676,neg).
 
 %patient: it-0129-004679 index:2208
@@ -47478,6 +49686,7 @@ who_f2(it_0129_004679,0).
 who_f3(it_0129_004679,0).
 who_f4(it_0129_004679,0).
 typeofoutcome_updated(it_0129_004679,2).
+vaccine(it_0129_004679,0,2).
 patient(it_0129_004679,neg).
 
 %patient: it-0129-004680 index:2209
@@ -47499,6 +49708,7 @@ who_f2(it_0129_004680,0).
 who_f3(it_0129_004680,0).
 who_f4(it_0129_004680,0).
 typeofoutcome_updated(it_0129_004680,2).
+vaccine(it_0129_004680,0,2).
 patient(it_0129_004680,neg).
 
 %patient: it-0129-004681 index:2210
@@ -47516,6 +49726,7 @@ who_f2(it_0129_004681,0).
 who_f3(it_0129_004681,0).
 who_f4(it_0129_004681,0).
 typeofoutcome_updated(it_0129_004681,2).
+vaccine(it_0129_004681,0,2).
 patient(it_0129_004681,neg).
 
 %patient: it-0129-004683 index:2211
@@ -47536,6 +49747,7 @@ who_f2(it_0129_004683,0).
 who_f3(it_0129_004683,0).
 who_f4(it_0129_004683,0).
 typeofoutcome_updated(it_0129_004683,2).
+vaccine(it_0129_004683,0,2).
 patient(it_0129_004683,neg).
 
 %patient: it-0129-004684 index:2212
@@ -47556,6 +49768,7 @@ who_f2(it_0129_004684,0).
 who_f3(it_0129_004684,0).
 who_f4(it_0129_004684,0).
 typeofoutcome_updated(it_0129_004684,2).
+vaccine(it_0129_004684,0,2).
 patient(it_0129_004684,neg).
 
 %patient: it-0129-004746 index:2213
@@ -47577,6 +49790,7 @@ who_f2(it_0129_004746,0).
 who_f3(it_0129_004746,0).
 who_f4(it_0129_004746,0).
 typeofoutcome_updated(it_0129_004746,2).
+vaccine(it_0129_004746,0,2).
 patient(it_0129_004746,neg).
 
 %patient: it-0129-004750 index:2214
@@ -47597,6 +49811,7 @@ who_f2(it_0129_004750,9).
 who_f3(it_0129_004750,0).
 who_f4(it_0129_004750,0).
 typeofoutcome_updated(it_0129_004750,2).
+vaccine(it_0129_004750,0,2).
 patient(it_0129_004750,neg).
 
 %patient: it-0129-004751 index:2215
@@ -47616,6 +49831,7 @@ who_f2(it_0129_004751,9).
 who_f3(it_0129_004751,0).
 who_f4(it_0129_004751,0).
 typeofoutcome_updated(it_0129_004751,2).
+vaccine(it_0129_004751,0,2).
 patient(it_0129_004751,neg).
 
 %patient: it-0129-004752 index:2216
@@ -47633,6 +49849,7 @@ who_f2(it_0129_004752,9).
 who_f3(it_0129_004752,0).
 who_f4(it_0129_004752,0).
 typeofoutcome_updated(it_0129_004752,2).
+vaccine(it_0129_004752,0,2).
 patient(it_0129_004752,neg).
 
 %patient: it-0129-004753 index:2217
@@ -47652,6 +49869,7 @@ who_f2(it_0129_004753,9).
 who_f3(it_0129_004753,0).
 who_f4(it_0129_004753,0).
 typeofoutcome_updated(it_0129_004753,2).
+vaccine(it_0129_004753,0,2).
 patient(it_0129_004753,neg).
 
 %patient: it-0129-004755 index:2218
@@ -47673,6 +49891,7 @@ who_f2(it_0129_004755,9).
 who_f3(it_0129_004755,0).
 who_f4(it_0129_004755,0).
 typeofoutcome_updated(it_0129_004755,2).
+vaccine(it_0129_004755,0,2).
 patient(it_0129_004755,neg).
 
 %patient: it-0129-004758 index:2219
@@ -47696,6 +49915,7 @@ who_f2(it_0129_004758,0).
 who_f3(it_0129_004758,0).
 who_f4(it_0129_004758,0).
 typeofoutcome_updated(it_0129_004758,2).
+vaccine(it_0129_004758,0,2).
 patient(it_0129_004758,neg).
 
 %patient: it-0165-005572 index:2220
@@ -47713,6 +49933,7 @@ who_f2(it_0165_005572,0).
 who_f3(it_0165_005572,0).
 who_f4(it_0165_005572,0).
 typeofoutcome_updated(it_0165_005572,2).
+vaccine(it_0165_005572,0,2).
 patient(it_0165_005572,neg).
 
 %patient: it-0143-004074 index:2221
@@ -47740,6 +49961,7 @@ who_f2(it_0143_004074,0).
 who_f3(it_0143_004074,0).
 who_f4(it_0143_004074,0).
 typeofoutcome_updated(it_0143_004074,2).
+vaccine(it_0143_004074,0,2).
 patient(it_0143_004074,neg).
 
 %patient: it-0143-004076 index:2222
@@ -47766,6 +49988,7 @@ who_f2(it_0143_004076,0).
 who_f3(it_0143_004076,0).
 who_f4(it_0143_004076,0).
 typeofoutcome_updated(it_0143_004076,2).
+vaccine(it_0143_004076,0,2).
 patient(it_0143_004076,neg).
 
 %patient: it-0143-004077 index:2223
@@ -47792,6 +50015,7 @@ who_f2(it_0143_004077,0).
 who_f3(it_0143_004077,0).
 who_f4(it_0143_004077,0).
 typeofoutcome_updated(it_0143_004077,2).
+vaccine(it_0143_004077,0,2).
 patient(it_0143_004077,neg).
 
 %patient: it-0143-004078 index:2224
@@ -47821,6 +50045,7 @@ who_f2(it_0143_004078,0).
 who_f3(it_0143_004078,0).
 who_f4(it_0143_004078,0).
 typeofoutcome_updated(it_0143_004078,2).
+vaccine(it_0143_004078,0,2).
 patient(it_0143_004078,neg).
 
 %patient: it-0143-004079 index:2225
@@ -47850,6 +50075,7 @@ who_f2(it_0143_004079,0).
 who_f3(it_0143_004079,0).
 who_f4(it_0143_004079,0).
 typeofoutcome_updated(it_0143_004079,2).
+vaccine(it_0143_004079,0,2).
 patient(it_0143_004079,neg).
 
 %patient: it-0143-004080 index:2226
@@ -47879,6 +50105,7 @@ who_f2(it_0143_004080,0).
 who_f3(it_0143_004080,0).
 who_f4(it_0143_004080,0).
 typeofoutcome_updated(it_0143_004080,2).
+vaccine(it_0143_004080,0,2).
 patient(it_0143_004080,neg).
 
 %patient: it-0143-004084 index:2227
@@ -47896,6 +50123,7 @@ who_f2(it_0143_004084,0).
 who_f3(it_0143_004084,0).
 who_f4(it_0143_004084,0).
 typeofoutcome_updated(it_0143_004084,2).
+vaccine(it_0143_004084,0,2).
 patient(it_0143_004084,neg).
 
 %patient: it-0143-004085 index:2228
@@ -47923,6 +50151,7 @@ who_f2(it_0143_004085,0).
 who_f3(it_0143_004085,0).
 who_f4(it_0143_004085,0).
 typeofoutcome_updated(it_0143_004085,2).
+vaccine(it_0143_004085,0,2).
 patient(it_0143_004085,neg).
 
 %patient: it-0143-004088 index:2229
@@ -47944,6 +50173,7 @@ who_f2(it_0143_004088,0).
 who_f3(it_0143_004088,0).
 who_f4(it_0143_004088,0).
 typeofoutcome_updated(it_0143_004088,2).
+vaccine(it_0143_004088,0,2).
 patient(it_0143_004088,neg).
 
 %patient: it-0143-004089 index:2230
@@ -47971,6 +50201,7 @@ who_f2(it_0143_004089,0).
 who_f3(it_0143_004089,0).
 who_f4(it_0143_004089,0).
 typeofoutcome_updated(it_0143_004089,2).
+vaccine(it_0143_004089,0,2).
 patient(it_0143_004089,neg).
 
 %patient: it-0143-004091 index:2231
@@ -48000,6 +50231,7 @@ who_f2(it_0143_004091,0).
 who_f3(it_0143_004091,0).
 who_f4(it_0143_004091,0).
 typeofoutcome_updated(it_0143_004091,2).
+vaccine(it_0143_004091,0,2).
 patient(it_0143_004091,neg).
 
 %patient: it-0143-004247 index:2232
@@ -48024,6 +50256,7 @@ who_f2(it_0143_004247,0).
 who_f3(it_0143_004247,0).
 who_f4(it_0143_004247,0).
 typeofoutcome_updated(it_0143_004247,2).
+vaccine(it_0143_004247,0,2).
 patient(it_0143_004247,neg).
 
 %patient: it-0143-004270 index:2233
@@ -48050,6 +50283,7 @@ who_f2(it_0143_004270,0).
 who_f3(it_0143_004270,0).
 who_f4(it_0143_004270,0).
 typeofoutcome_updated(it_0143_004270,2).
+vaccine(it_0143_004270,0,2).
 patient(it_0143_004270,neg).
 
 %patient: it-0143-004273 index:2234
@@ -48079,6 +50313,7 @@ who_f2(it_0143_004273,0).
 who_f3(it_0143_004273,0).
 who_f4(it_0143_004273,0).
 typeofoutcome_updated(it_0143_004273,2).
+vaccine(it_0143_004273,0,3).
 patient(it_0143_004273,neg).
 
 %patient: it-0143-003903 index:2235
@@ -48111,6 +50346,7 @@ who_f2(it_0143_003903,0).
 who_f3(it_0143_003903,0).
 who_f4(it_0143_003903,0).
 typeofoutcome_updated(it_0143_003903,2).
+vaccine(it_0143_003903,0,2).
 patient(it_0143_003903,neg).
 
 %patient: it-0147-004388 index:2236
@@ -48130,6 +50366,7 @@ who_f2(it_0147_004388,9).
 who_f3(it_0147_004388,0).
 who_f4(it_0147_004388,0).
 typeofoutcome_updated(it_0147_004388,2).
+vaccine(it_0147_004388,0,3).
 patient(it_0147_004388,neg).
 
 %patient: it-0147-004394 index:2237
@@ -48151,6 +50388,7 @@ who_f2(it_0147_004394,0).
 who_f3(it_0147_004394,0).
 who_f4(it_0147_004394,0).
 typeofoutcome_updated(it_0147_004394,2).
+vaccine(it_0147_004394,0,3).
 patient(it_0147_004394,neg).
 
 %patient: it-0147-004822 index:2238
@@ -48170,6 +50408,7 @@ who_f2(it_0147_004822,0).
 who_f3(it_0147_004822,0).
 who_f4(it_0147_004822,0).
 typeofoutcome_updated(it_0147_004822,2).
+vaccine(it_0147_004822,0,3).
 patient(it_0147_004822,neg).
 
 %patient: it-0147-004824 index:2239
@@ -48194,6 +50433,7 @@ who_f2(it_0147_004824,0).
 who_f3(it_0147_004824,0).
 who_f4(it_0147_004824,0).
 typeofoutcome_updated(it_0147_004824,2).
+vaccine(it_0147_004824,0,3).
 patient(it_0147_004824,neg).
 
 %patient: it-0061-004149 index:2240
@@ -48217,6 +50457,7 @@ who_f2(it_0061_004149,0).
 who_f3(it_0061_004149,0).
 who_f4(it_0061_004149,0).
 typeofoutcome_updated(it_0061_004149,2).
+vaccine(it_0061_004149,0,2).
 patient(it_0061_004149,neg).
 
 %patient: it-0148-005825 index:2241
@@ -48236,6 +50477,7 @@ who_f2(it_0148_005825,0).
 who_f3(it_0148_005825,0).
 who_f4(it_0148_005825,0).
 typeofoutcome_updated(it_0148_005825,2).
+vaccine(it_0148_005825,0,3).
 patient(it_0148_005825,neg).
 
 %patient: it-0061-004215 index:2242
@@ -48259,6 +50501,7 @@ who_f2(it_0061_004215,0).
 who_f3(it_0061_004215,9).
 who_f4(it_0061_004215,0).
 typeofoutcome_updated(it_0061_004215,2).
+vaccine(it_0061_004215,0,2).
 patient(it_0061_004215,neg).
 
 %patient: it-0149-004274 index:2243
@@ -48279,6 +50522,7 @@ who_f2(it_0149_004274,0).
 who_f3(it_0149_004274,0).
 who_f4(it_0149_004274,0).
 typeofoutcome_updated(it_0149_004274,2).
+vaccine(it_0149_004274,0,2).
 patient(it_0149_004274,neg).
 
 %patient: it-0149-004331 index:2244
@@ -48302,6 +50546,7 @@ who_f2(it_0149_004331,0).
 who_f3(it_0149_004331,0).
 who_f4(it_0149_004331,0).
 typeofoutcome_updated(it_0149_004331,2).
+vaccine(it_0149_004331,0,2).
 patient(it_0149_004331,neg).
 
 %patient: it-0149-004367 index:2245
@@ -48320,6 +50565,7 @@ who_f2(it_0149_004367,0).
 who_f3(it_0149_004367,0).
 who_f4(it_0149_004367,0).
 typeofoutcome_updated(it_0149_004367,2).
+vaccine(it_0149_004367,0,3).
 patient(it_0149_004367,neg).
 
 %patient: it-0148-005580 index:2246
@@ -48339,6 +50585,7 @@ who_f2(it_0148_005580,9).
 who_f3(it_0148_005580,0).
 who_f4(it_0148_005580,0).
 typeofoutcome_updated(it_0148_005580,2).
+vaccine(it_0148_005580,0,3).
 patient(it_0148_005580,neg).
 
 %patient: it-0148-005584 index:2247
@@ -48357,6 +50604,7 @@ who_f2(it_0148_005584,9).
 who_f3(it_0148_005584,0).
 who_f4(it_0148_005584,0).
 typeofoutcome_updated(it_0148_005584,2).
+vaccine(it_0148_005584,0,3).
 patient(it_0148_005584,neg).
 
 %patient: it-0148-005586 index:2248
@@ -48378,6 +50626,7 @@ who_f2(it_0148_005586,0).
 who_f3(it_0148_005586,0).
 who_f4(it_0148_005586,0).
 typeofoutcome_updated(it_0148_005586,2).
+vaccine(it_0148_005586,0,3).
 patient(it_0148_005586,neg).
 
 %patient: it-0148-005820 index:2249
@@ -48398,6 +50647,7 @@ who_f2(it_0148_005820,0).
 who_f3(it_0148_005820,0).
 who_f4(it_0148_005820,0).
 typeofoutcome_updated(it_0148_005820,2).
+vaccine(it_0148_005820,0,3).
 patient(it_0148_005820,neg).
 
 %patient: it-0148-005821 index:2250
@@ -48421,6 +50671,7 @@ who_f2(it_0148_005821,0).
 who_f3(it_0148_005821,0).
 who_f4(it_0148_005821,0).
 typeofoutcome_updated(it_0148_005821,2).
+vaccine(it_0148_005821,0,3).
 patient(it_0148_005821,neg).
 
 %patient: it-0148-005823 index:2251
@@ -48439,6 +50690,7 @@ who_f2(it_0148_005823,0).
 who_f3(it_0148_005823,0).
 who_f4(it_0148_005823,0).
 typeofoutcome_updated(it_0148_005823,2).
+vaccine(it_0148_005823,0,3).
 patient(it_0148_005823,neg).
 
 %patient: it-0148-006010 index:2252
@@ -48458,6 +50710,7 @@ who_f2(it_0148_006010,0).
 who_f3(it_0148_006010,0).
 who_f4(it_0148_006010,0).
 typeofoutcome_updated(it_0148_006010,2).
+vaccine(it_0148_006010,0,3).
 patient(it_0148_006010,neg).
 
 %patient: it-0148-006012 index:2253
@@ -48479,6 +50732,7 @@ who_f2(it_0148_006012,0).
 who_f3(it_0148_006012,0).
 who_f4(it_0148_006012,0).
 typeofoutcome_updated(it_0148_006012,2).
+vaccine(it_0148_006012,0,3).
 patient(it_0148_006012,neg).
 
 %patient: it-0125-004931 index:2254
@@ -48500,6 +50754,7 @@ who_f2(it_0125_004931,1).
 who_f3(it_0125_004931,1).
 who_f4(it_0125_004931,1).
 typeofoutcome_updated(it_0125_004931,2).
+vaccine(it_0125_004931,0,3).
 patient(it_0125_004931,neg).
 
 %patient: it-0125-005965 index:2255
@@ -48526,6 +50781,7 @@ who_f2(it_0125_005965,0).
 who_f3(it_0125_005965,0).
 who_f4(it_0125_005965,1).
 typeofoutcome_updated(it_0125_005965,2).
+vaccine(it_0125_005965,0,3).
 patient(it_0125_005965,neg).
 
 %patient: it-0125-006422 index:2256
@@ -48546,6 +50802,7 @@ who_f2(it_0125_006422,0).
 who_f3(it_0125_006422,0).
 who_f4(it_0125_006422,1).
 typeofoutcome_updated(it_0125_006422,2).
+vaccine(it_0125_006422,0,3).
 patient(it_0125_006422,neg).
 
 %patient: it-0125-006426 index:2257
@@ -48565,6 +50822,7 @@ who_f2(it_0125_006426,0).
 who_f3(it_0125_006426,0).
 who_f4(it_0125_006426,1).
 typeofoutcome_updated(it_0125_006426,2).
+vaccine(it_0125_006426,0,3).
 patient(it_0125_006426,neg).
 
 %patient: it-0125-003792 index:2258
@@ -48593,6 +50851,7 @@ who_f2(it_0125_003792,0).
 who_f3(it_0125_003792,0).
 who_f4(it_0125_003792,1).
 typeofoutcome_updated(it_0125_003792,2).
+vaccine(it_0125_003792,0,3).
 patient(it_0125_003792,neg).
 
 %patient: it-0125-003894 index:2259
@@ -48614,6 +50873,7 @@ who_f2(it_0125_003894,0).
 who_f3(it_0125_003894,0).
 who_f4(it_0125_003894,1).
 typeofoutcome_updated(it_0125_003894,2).
+vaccine(it_0125_003894,0,3).
 patient(it_0125_003894,neg).
 
 %patient: it-0125-003789 index:2260
@@ -48634,6 +50894,7 @@ who_f2(it_0125_003789,0).
 who_f3(it_0125_003789,0).
 who_f4(it_0125_003789,1).
 typeofoutcome_updated(it_0125_003789,2).
+vaccine(it_0125_003789,0,3).
 patient(it_0125_003789,neg).
 
 %patient: it-0125-003794 index:2261
@@ -48658,6 +50919,7 @@ who_f2(it_0125_003794,0).
 who_f3(it_0125_003794,0).
 who_f4(it_0125_003794,1).
 typeofoutcome_updated(it_0125_003794,2).
+vaccine(it_0125_003794,0,3).
 patient(it_0125_003794,neg).
 
 %patient: it-0125-003893 index:2262
@@ -48683,6 +50945,7 @@ who_f2(it_0125_003893,0).
 who_f3(it_0125_003893,0).
 who_f4(it_0125_003893,1).
 typeofoutcome_updated(it_0125_003893,2).
+vaccine(it_0125_003893,0,3).
 patient(it_0125_003893,neg).
 
 %patient: it-0125-003977 index:2263
@@ -48706,6 +50969,7 @@ who_f2(it_0125_003977,0).
 who_f3(it_0125_003977,0).
 who_f4(it_0125_003977,1).
 typeofoutcome_updated(it_0125_003977,2).
+vaccine(it_0125_003977,0,3).
 patient(it_0125_003977,neg).
 
 %patient: it-0167-006776 index:2264
@@ -48724,6 +50988,7 @@ who_f2(it_0167_006776,0).
 who_f3(it_0167_006776,0).
 who_f4(it_0167_006776,0).
 typeofoutcome_updated(it_0167_006776,2).
+vaccine(it_0167_006776,0,3).
 patient(it_0167_006776,neg).
 
 %patient: it-0167-006777 index:2265
@@ -48740,6 +51005,7 @@ who_f2(it_0167_006777,0).
 who_f3(it_0167_006777,0).
 who_f4(it_0167_006777,0).
 typeofoutcome_updated(it_0167_006777,2).
+vaccine(it_0167_006777,0,3).
 patient(it_0167_006777,neg).
 
 %patient: it-0167-006779 index:2266
@@ -48757,6 +51023,7 @@ who_f2(it_0167_006779,0).
 who_f3(it_0167_006779,0).
 who_f4(it_0167_006779,0).
 typeofoutcome_updated(it_0167_006779,2).
+vaccine(it_0167_006779,0,3).
 patient(it_0167_006779,neg).
 
 %patient: it-0167-006780 index:2267
@@ -48773,6 +51040,7 @@ who_f2(it_0167_006780,0).
 who_f3(it_0167_006780,0).
 who_f4(it_0167_006780,0).
 typeofoutcome_updated(it_0167_006780,2).
+vaccine(it_0167_006780,0,3).
 patient(it_0167_006780,neg).
 
 %patient: it-0167-006781 index:2268
@@ -48792,6 +51060,7 @@ who_f2(it_0167_006781,0).
 who_f3(it_0167_006781,0).
 who_f4(it_0167_006781,0).
 typeofoutcome_updated(it_0167_006781,2).
+vaccine(it_0167_006781,0,3).
 patient(it_0167_006781,neg).
 
 %patient: it-0167-006782 index:2269
@@ -48809,6 +51078,7 @@ who_f2(it_0167_006782,0).
 who_f3(it_0167_006782,0).
 who_f4(it_0167_006782,0).
 typeofoutcome_updated(it_0167_006782,2).
+vaccine(it_0167_006782,0,3).
 patient(it_0167_006782,neg).
 
 %patient: it-0167-006783 index:2270
@@ -48827,6 +51097,7 @@ who_f2(it_0167_006783,0).
 who_f3(it_0167_006783,0).
 who_f4(it_0167_006783,0).
 typeofoutcome_updated(it_0167_006783,2).
+vaccine(it_0167_006783,0,3).
 patient(it_0167_006783,neg).
 
 %patient: it-0167-006785 index:2271
@@ -48845,6 +51116,7 @@ who_f2(it_0167_006785,0).
 who_f3(it_0167_006785,0).
 who_f4(it_0167_006785,0).
 typeofoutcome_updated(it_0167_006785,2).
+vaccine(it_0167_006785,0,3).
 patient(it_0167_006785,neg).
 
 %patient: it-0167-006801 index:2272
@@ -48863,6 +51135,7 @@ who_f2(it_0167_006801,0).
 who_f3(it_0167_006801,0).
 who_f4(it_0167_006801,0).
 typeofoutcome_updated(it_0167_006801,2).
+vaccine(it_0167_006801,0,3).
 patient(it_0167_006801,neg).
 
 %patient: it-0167-006816 index:2273
@@ -48887,6 +51160,7 @@ who_f2(it_0167_006816,0).
 who_f3(it_0167_006816,0).
 who_f4(it_0167_006816,0).
 typeofoutcome_updated(it_0167_006816,2).
+vaccine(it_0167_006816,0,3).
 patient(it_0167_006816,neg).
 
 %patient: it-0167-006818 index:2274
@@ -48906,6 +51180,7 @@ who_f2(it_0167_006818,0).
 who_f3(it_0167_006818,0).
 who_f4(it_0167_006818,0).
 typeofoutcome_updated(it_0167_006818,2).
+vaccine(it_0167_006818,0,3).
 patient(it_0167_006818,neg).
 
 %patient: it-0167-006819 index:2275
@@ -48925,6 +51200,7 @@ who_f2(it_0167_006819,0).
 who_f3(it_0167_006819,0).
 who_f4(it_0167_006819,0).
 typeofoutcome_updated(it_0167_006819,2).
+vaccine(it_0167_006819,0,3).
 patient(it_0167_006819,neg).
 
 %patient: it-0167-006821 index:2276
@@ -48946,6 +51222,7 @@ who_f2(it_0167_006821,0).
 who_f3(it_0167_006821,0).
 who_f4(it_0167_006821,0).
 typeofoutcome_updated(it_0167_006821,2).
+vaccine(it_0167_006821,0,3).
 patient(it_0167_006821,neg).
 
 %patient: it-0167-006822 index:2277
@@ -48967,6 +51244,7 @@ who_f2(it_0167_006822,0).
 who_f3(it_0167_006822,0).
 who_f4(it_0167_006822,0).
 typeofoutcome_updated(it_0167_006822,2).
+vaccine(it_0167_006822,0,3).
 patient(it_0167_006822,neg).
 
 %patient: it-0167-006824 index:2278
@@ -48986,6 +51264,7 @@ who_f2(it_0167_006824,0).
 who_f3(it_0167_006824,0).
 who_f4(it_0167_006824,0).
 typeofoutcome_updated(it_0167_006824,2).
+vaccine(it_0167_006824,0,3).
 patient(it_0167_006824,neg).
 
 %patient: it-0167-006826 index:2279
@@ -49006,6 +51285,7 @@ who_f2(it_0167_006826,0).
 who_f3(it_0167_006826,0).
 who_f4(it_0167_006826,0).
 typeofoutcome_updated(it_0167_006826,2).
+vaccine(it_0167_006826,0,2).
 patient(it_0167_006826,neg).
 
 %patient: it-0167-006827 index:2280
@@ -49023,6 +51303,7 @@ who_f2(it_0167_006827,0).
 who_f3(it_0167_006827,0).
 who_f4(it_0167_006827,0).
 typeofoutcome_updated(it_0167_006827,2).
+vaccine(it_0167_006827,0,3).
 patient(it_0167_006827,neg).
 
 %patient: it-0167-006828 index:2281
@@ -49043,6 +51324,7 @@ who_f2(it_0167_006828,0).
 who_f3(it_0167_006828,0).
 who_f4(it_0167_006828,0).
 typeofoutcome_updated(it_0167_006828,2).
+vaccine(it_0167_006828,0,3).
 patient(it_0167_006828,neg).
 
 %patient: it-0167-006831 index:2282
@@ -49060,6 +51342,7 @@ who_f2(it_0167_006831,0).
 who_f3(it_0167_006831,0).
 who_f4(it_0167_006831,0).
 typeofoutcome_updated(it_0167_006831,2).
+vaccine(it_0167_006831,0,3).
 patient(it_0167_006831,neg).
 
 %patient: it-0167-006835 index:2283
@@ -49080,6 +51363,7 @@ who_f2(it_0167_006835,0).
 who_f3(it_0167_006835,0).
 who_f4(it_0167_006835,0).
 typeofoutcome_updated(it_0167_006835,2).
+vaccine(it_0167_006835,0,3).
 patient(it_0167_006835,neg).
 
 %patient: it-0167-006836 index:2284
@@ -49101,6 +51385,7 @@ who_f2(it_0167_006836,0).
 who_f3(it_0167_006836,0).
 who_f4(it_0167_006836,0).
 typeofoutcome_updated(it_0167_006836,2).
+vaccine(it_0167_006836,0,3).
 patient(it_0167_006836,neg).
 
 %patient: it-0167-006837 index:2285
@@ -49119,6 +51404,7 @@ who_f2(it_0167_006837,0).
 who_f3(it_0167_006837,0).
 who_f4(it_0167_006837,0).
 typeofoutcome_updated(it_0167_006837,2).
+vaccine(it_0167_006837,0,3).
 patient(it_0167_006837,neg).
 
 %patient: it-0167-006838 index:2286
@@ -49139,6 +51425,7 @@ who_f2(it_0167_006838,0).
 who_f3(it_0167_006838,0).
 who_f4(it_0167_006838,0).
 typeofoutcome_updated(it_0167_006838,2).
+vaccine(it_0167_006838,0,3).
 patient(it_0167_006838,neg).
 
 %patient: it-0164-006454 index:2287
@@ -49160,6 +51447,7 @@ who_f2(it_0164_006454,0).
 who_f3(it_0164_006454,0).
 who_f4(it_0164_006454,0).
 typeofoutcome_updated(it_0164_006454,2).
+vaccine(it_0164_006454,0,3).
 patient(it_0164_006454,neg).
 
 %patient: it-0106-006732 index:2288
@@ -49177,6 +51465,7 @@ who_f2(it_0106_006732,0).
 who_f3(it_0106_006732,0).
 who_f4(it_0106_006732,0).
 typeofoutcome_updated(it_0106_006732,2).
+vaccine(it_0106_006732,1,3).
 patient(it_0106_006732,neg).
 
 %patient: it-0106-006734 index:2289
@@ -49195,6 +51484,7 @@ who_f2(it_0106_006734,0).
 who_f3(it_0106_006734,0).
 who_f4(it_0106_006734,0).
 typeofoutcome_updated(it_0106_006734,2).
+vaccine(it_0106_006734,0,3).
 patient(it_0106_006734,neg).
 
 %patient: it-0106-006739 index:2290
@@ -49215,6 +51505,7 @@ who_f2(it_0106_006739,0).
 who_f3(it_0106_006739,0).
 who_f4(it_0106_006739,0).
 typeofoutcome_updated(it_0106_006739,2).
+vaccine(it_0106_006739,0,3).
 patient(it_0106_006739,neg).
 
 %patient: it-0106-006743 index:2291
@@ -49231,6 +51522,7 @@ who_f2(it_0106_006743,0).
 who_f3(it_0106_006743,0).
 who_f4(it_0106_006743,0).
 typeofoutcome_updated(it_0106_006743,2).
+vaccine(it_0106_006743,0,3).
 patient(it_0106_006743,neg).
 
 %patient: it-0106-006791 index:2292
@@ -49249,6 +51541,7 @@ who_f2(it_0106_006791,0).
 who_f3(it_0106_006791,0).
 who_f4(it_0106_006791,0).
 typeofoutcome_updated(it_0106_006791,2).
+vaccine(it_0106_006791,0,3).
 patient(it_0106_006791,neg).
 
 %patient: it-0106-006793 index:2293
@@ -49266,6 +51559,7 @@ who_f2(it_0106_006793,0).
 who_f3(it_0106_006793,0).
 who_f4(it_0106_006793,0).
 typeofoutcome_updated(it_0106_006793,2).
+vaccine(it_0106_006793,0,3).
 patient(it_0106_006793,neg).
 
 %patient: it-0106-006794 index:2294
@@ -49283,6 +51577,7 @@ who_f2(it_0106_006794,0).
 who_f3(it_0106_006794,0).
 who_f4(it_0106_006794,0).
 typeofoutcome_updated(it_0106_006794,2).
+vaccine(it_0106_006794,0,2).
 patient(it_0106_006794,neg).
 
 %patient: it-0106-006797 index:2295
@@ -49300,6 +51595,7 @@ who_f2(it_0106_006797,0).
 who_f3(it_0106_006797,0).
 who_f4(it_0106_006797,0).
 typeofoutcome_updated(it_0106_006797,2).
+vaccine(it_0106_006797,0,3).
 patient(it_0106_006797,neg).
 
 %patient: it-0106-006798 index:2296
@@ -49316,6 +51612,7 @@ who_f2(it_0106_006798,0).
 who_f3(it_0106_006798,0).
 who_f4(it_0106_006798,0).
 typeofoutcome_updated(it_0106_006798,2).
+vaccine(it_0106_006798,0,3).
 patient(it_0106_006798,neg).
 
 %patient: it-0106-006802 index:2297
@@ -49337,6 +51634,7 @@ who_f2(it_0106_006802,0).
 who_f3(it_0106_006802,0).
 who_f4(it_0106_006802,0).
 typeofoutcome_updated(it_0106_006802,2).
+vaccine(it_0106_006802,0,3).
 patient(it_0106_006802,neg).
 
 %patient: it-0106-006750 index:2298
@@ -49357,6 +51655,7 @@ who_f2(it_0106_006750,0).
 who_f3(it_0106_006750,0).
 who_f4(it_0106_006750,0).
 typeofoutcome_updated(it_0106_006750,2).
+vaccine(it_0106_006750,0,3).
 patient(it_0106_006750,neg).
 
 %patient: it-0106-006754 index:2299
@@ -49374,6 +51673,7 @@ who_f2(it_0106_006754,1).
 who_f3(it_0106_006754,1).
 who_f4(it_0106_006754,1).
 typeofoutcome_updated(it_0106_006754,2).
+vaccine(it_0106_006754,0,3).
 patient(it_0106_006754,neg).
 
 %patient: it-0106-006758 index:2300
@@ -49401,6 +51701,7 @@ who_f2(it_0106_006758,0).
 who_f3(it_0106_006758,0).
 who_f4(it_0106_006758,0).
 typeofoutcome_updated(it_0106_006758,2).
+vaccine(it_0106_006758,0,3).
 patient(it_0106_006758,neg).
 
 %patient: it-0106-006760 index:2301
@@ -49421,6 +51722,7 @@ who_f2(it_0106_006760,0).
 who_f3(it_0106_006760,0).
 who_f4(it_0106_006760,0).
 typeofoutcome_updated(it_0106_006760,2).
+vaccine(it_0106_006760,0,3).
 patient(it_0106_006760,neg).
 
 %patient: it-0106-006761 index:2302
@@ -49440,6 +51742,7 @@ who_f2(it_0106_006761,0).
 who_f3(it_0106_006761,0).
 who_f4(it_0106_006761,0).
 typeofoutcome_updated(it_0106_006761,2).
+vaccine(it_0106_006761,0,3).
 patient(it_0106_006761,neg).
 
 %patient: it-0106-006762 index:2303
@@ -49458,6 +51761,7 @@ who_f2(it_0106_006762,0).
 who_f3(it_0106_006762,0).
 who_f4(it_0106_006762,0).
 typeofoutcome_updated(it_0106_006762,2).
+vaccine(it_0106_006762,0,3).
 patient(it_0106_006762,neg).
 
 %patient: it-0106-006763 index:2304
@@ -49477,6 +51781,7 @@ who_f2(it_0106_006763,0).
 who_f3(it_0106_006763,0).
 who_f4(it_0106_006763,0).
 typeofoutcome_updated(it_0106_006763,2).
+vaccine(it_0106_006763,0,3).
 patient(it_0106_006763,neg).
 
 %patient: it-0106-006764 index:2305
@@ -49496,6 +51801,7 @@ who_f2(it_0106_006764,0).
 who_f3(it_0106_006764,0).
 who_f4(it_0106_006764,0).
 typeofoutcome_updated(it_0106_006764,2).
+vaccine(it_0106_006764,0,3).
 patient(it_0106_006764,neg).
 
 %patient: it-0106-006765 index:2306
@@ -49513,6 +51819,7 @@ who_f2(it_0106_006765,0).
 who_f3(it_0106_006765,0).
 who_f4(it_0106_006765,0).
 typeofoutcome_updated(it_0106_006765,2).
+vaccine(it_0106_006765,0,3).
 patient(it_0106_006765,neg).
 
 %patient: it-0106-006766 index:2307
@@ -49535,6 +51842,7 @@ who_f2(it_0106_006766,0).
 who_f3(it_0106_006766,0).
 who_f4(it_0106_006766,0).
 typeofoutcome_updated(it_0106_006766,2).
+vaccine(it_0106_006766,0,3).
 patient(it_0106_006766,neg).
 
 %patient: it-0106-006768 index:2308
@@ -49554,6 +51862,7 @@ who_f2(it_0106_006768,0).
 who_f3(it_0106_006768,0).
 who_f4(it_0106_006768,0).
 typeofoutcome_updated(it_0106_006768,2).
+vaccine(it_0106_006768,0,3).
 patient(it_0106_006768,neg).
 
 %patient: it-0106-006770 index:2309
@@ -49578,6 +51887,7 @@ who_f2(it_0106_006770,0).
 who_f3(it_0106_006770,0).
 who_f4(it_0106_006770,0).
 typeofoutcome_updated(it_0106_006770,2).
+vaccine(it_0106_006770,0,3).
 patient(it_0106_006770,neg).
 
 %patient: it-0106-006771 index:2310
@@ -49596,6 +51906,7 @@ who_f2(it_0106_006771,0).
 who_f3(it_0106_006771,0).
 who_f4(it_0106_006771,0).
 typeofoutcome_updated(it_0106_006771,2).
+vaccine(it_0106_006771,0,3).
 patient(it_0106_006771,neg).
 
 %patient: it-0106-006795 index:2311
@@ -49617,6 +51928,7 @@ who_f2(it_0106_006795,0).
 who_f3(it_0106_006795,0).
 who_f4(it_0106_006795,0).
 typeofoutcome_updated(it_0106_006795,2).
+vaccine(it_0106_006795,0,3).
 patient(it_0106_006795,neg).
 
 %patient: it-0106-006796 index:2312
@@ -49633,6 +51945,7 @@ who_f2(it_0106_006796,0).
 who_f3(it_0106_006796,0).
 who_f4(it_0106_006796,0).
 typeofoutcome_updated(it_0106_006796,2).
+vaccine(it_0106_006796,0,3).
 patient(it_0106_006796,neg).
 
 %patient: it-0106-006810 index:2313
@@ -49652,6 +51965,7 @@ who_f2(it_0106_006810,0).
 who_f3(it_0106_006810,0).
 who_f4(it_0106_006810,0).
 typeofoutcome_updated(it_0106_006810,2).
+vaccine(it_0106_006810,0,3).
 patient(it_0106_006810,neg).
 
 %patient: it-0106-006767 index:2314
@@ -49670,6 +51984,7 @@ who_f2(it_0106_006767,0).
 who_f3(it_0106_006767,0).
 who_f4(it_0106_006767,0).
 typeofoutcome_updated(it_0106_006767,2).
+vaccine(it_0106_006767,0,3).
 patient(it_0106_006767,neg).
 
 %patient: it-0143-006251 index:2315
@@ -49693,6 +52008,7 @@ who_f2(it_0143_006251,1).
 who_f3(it_0143_006251,1).
 who_f4(it_0143_006251,1).
 typeofoutcome_updated(it_0143_006251,2).
+vaccine(it_0143_006251,0,3).
 patient(it_0143_006251,neg).
 
 %patient: it-0126-005475 index:2316
@@ -49718,6 +52034,7 @@ who_f2(it_0126_005475,1).
 who_f3(it_0126_005475,1).
 who_f4(it_0126_005475,1).
 typeofoutcome_updated(it_0126_005475,2).
+vaccine(it_0126_005475,0,3).
 patient(it_0126_005475,neg).
 
 %patient: it-0061-004002 index:2317
@@ -49739,6 +52056,7 @@ who_f2(it_0061_004002,1).
 who_f3(it_0061_004002,1).
 who_f4(it_0061_004002,1).
 typeofoutcome_updated(it_0061_004002,2).
+vaccine(it_0061_004002,0,2).
 patient(it_0061_004002,neg).
 
 %patient: it-0143-003905 index:2318
@@ -49768,6 +52086,7 @@ who_f2(it_0143_003905,1).
 who_f3(it_0143_003905,1).
 who_f4(it_0143_003905,1).
 typeofoutcome_updated(it_0143_003905,2).
+vaccine(it_0143_003905,0,1).
 patient(it_0143_003905,neg).
 
 %patient: it-0169-006155 index:2319
@@ -49788,6 +52107,7 @@ who_f2(it_0169_006155,1).
 who_f3(it_0169_006155,1).
 who_f4(it_0169_006155,1).
 typeofoutcome_updated(it_0169_006155,2).
+vaccine(it_0169_006155,0,3).
 patient(it_0169_006155,neg).
 
 %patient: it-0125-006025 index:2320
@@ -49808,6 +52128,7 @@ who_f2(it_0125_006025,1).
 who_f3(it_0125_006025,1).
 who_f4(it_0125_006025,1).
 typeofoutcome_updated(it_0125_006025,2).
+vaccine(it_0125_006025,0,3).
 patient(it_0125_006025,neg).
 
 %patient: it-0018-003764 index:2321
@@ -49835,6 +52156,7 @@ who_f2(it_0018_003764,1).
 who_f3(it_0018_003764,1).
 who_f4(it_0018_003764,1).
 typeofoutcome_updated(it_0018_003764,2).
+vaccine(it_0018_003764,0,3).
 patient(it_0018_003764,neg).
 
 %patient: it-0133-005916 index:2322
@@ -49856,6 +52178,7 @@ who_f2(it_0133_005916,1).
 who_f3(it_0133_005916,1).
 who_f4(it_0133_005916,1).
 typeofoutcome_updated(it_0133_005916,2).
+vaccine(it_0133_005916,0,3).
 patient(it_0133_005916,neg).
 
 %patient: it-0149-004257 index:2323
@@ -49876,6 +52199,7 @@ who_f2(it_0149_004257,1).
 who_f3(it_0149_004257,1).
 who_f4(it_0149_004257,9).
 typeofoutcome_updated(it_0149_004257,2).
+vaccine(it_0149_004257,0,3).
 patient(it_0149_004257,neg).
 
 %patient: it-0169-005939 index:2324
@@ -49896,6 +52220,7 @@ who_f2(it_0169_005939,1).
 who_f3(it_0169_005939,1).
 who_f4(it_0169_005939,1).
 typeofoutcome_updated(it_0169_005939,2).
+vaccine(it_0169_005939,0,3).
 patient(it_0169_005939,neg).
 
 %patient: it-0151-005629 index:2325
@@ -49914,6 +52239,7 @@ who_f2(it_0151_005629,0).
 who_f3(it_0151_005629,1).
 who_f4(it_0151_005629,9).
 typeofoutcome_updated(it_0151_005629,2).
+vaccine(it_0151_005629,0,3).
 patient(it_0151_005629,neg).
 
 %patient: it-0151-005729 index:2326
@@ -49934,6 +52260,7 @@ who_f2(it_0151_005729,1).
 who_f3(it_0151_005729,1).
 who_f4(it_0151_005729,1).
 typeofoutcome_updated(it_0151_005729,2).
+vaccine(it_0151_005729,0,2).
 patient(it_0151_005729,neg).
 
 %patient: it-0151-005587 index:2327
@@ -49951,6 +52278,7 @@ who_f2(it_0151_005587,1).
 who_f3(it_0151_005587,1).
 who_f4(it_0151_005587,1).
 typeofoutcome_updated(it_0151_005587,2).
+vaccine(it_0151_005587,0,2).
 patient(it_0151_005587,neg).
 
 %patient: it-0123-005695 index:2328
@@ -49971,6 +52299,7 @@ who_f2(it_0123_005695,0).
 who_f3(it_0123_005695,1).
 who_f4(it_0123_005695,1).
 typeofoutcome_updated(it_0123_005695,2).
+vaccine(it_0123_005695,0,3).
 patient(it_0123_005695,neg).
 
 %patient: it-0151-005630 index:2329
@@ -49991,6 +52320,7 @@ who_f2(it_0151_005630,0).
 who_f3(it_0151_005630,1).
 who_f4(it_0151_005630,1).
 typeofoutcome_updated(it_0151_005630,2).
+vaccine(it_0151_005630,0,3).
 patient(it_0151_005630,neg).
 
 %patient: it-0126-005286 index:2330
@@ -50012,6 +52342,7 @@ who_f2(it_0126_005286,0).
 who_f3(it_0126_005286,1).
 who_f4(it_0126_005286,1).
 typeofoutcome_updated(it_0126_005286,2).
+vaccine(it_0126_005286,0,3).
 patient(it_0126_005286,neg).
 
 %patient: it-0151-005767 index:2331
@@ -50033,6 +52364,7 @@ who_f2(it_0151_005767,0).
 who_f3(it_0151_005767,1).
 who_f4(it_0151_005767,1).
 typeofoutcome_updated(it_0151_005767,2).
+vaccine(it_0151_005767,0,3).
 patient(it_0151_005767,neg).
 
 %patient: it-0151-005811 index:2332
@@ -50057,6 +52389,7 @@ who_f2(it_0151_005811,0).
 who_f3(it_0151_005811,1).
 who_f4(it_0151_005811,1).
 typeofoutcome_updated(it_0151_005811,2).
+vaccine(it_0151_005811,0,3).
 patient(it_0151_005811,neg).
 
 %patient: it-0151-005812 index:2333
@@ -50079,6 +52412,7 @@ who_f2(it_0151_005812,0).
 who_f3(it_0151_005812,1).
 who_f4(it_0151_005812,1).
 typeofoutcome_updated(it_0151_005812,2).
+vaccine(it_0151_005812,0,3).
 patient(it_0151_005812,neg).
 
 %patient: it-0015-000678 index:2334
@@ -50106,6 +52440,7 @@ who_f2(it_0015_000678,0).
 who_f3(it_0015_000678,0).
 who_f4(it_0015_000678,1).
 typeofoutcome_updated(it_0015_000678,2).
+vaccine(it_0015_000678,0,2).
 patient(it_0015_000678,neg).
 
 %patient: it-0015-003934 index:2335
@@ -50128,6 +52463,7 @@ who_f2(it_0015_003934,0).
 who_f3(it_0015_003934,0).
 who_f4(it_0015_003934,1).
 typeofoutcome_updated(it_0015_003934,2).
+vaccine(it_0015_003934,0,2).
 patient(it_0015_003934,neg).
 
 %patient: it-0015-003862 index:2336
@@ -50152,6 +52488,7 @@ who_f2(it_0015_003862,0).
 who_f3(it_0015_003862,9).
 who_f4(it_0015_003862,1).
 typeofoutcome_updated(it_0015_003862,2).
+vaccine(it_0015_003862,0,2).
 patient(it_0015_003862,neg).
 
 %patient: it-0015-004046 index:2337
@@ -50174,6 +52511,7 @@ who_f2(it_0015_004046,0).
 who_f3(it_0015_004046,0).
 who_f4(it_0015_004046,1).
 typeofoutcome_updated(it_0015_004046,2).
+vaccine(it_0015_004046,0,3).
 patient(it_0015_004046,neg).
 
 %patient: it-0125-006562 index:2338
@@ -50197,6 +52535,7 @@ who_f2(it_0125_006562,0).
 who_f3(it_0125_006562,0).
 who_f4(it_0125_006562,1).
 typeofoutcome_updated(it_0125_006562,2).
+vaccine(it_0125_006562,0,3).
 patient(it_0125_006562,neg).
 
 %patient: it-0125-006561 index:2339
@@ -50219,6 +52558,7 @@ who_f2(it_0125_006561,0).
 who_f3(it_0125_006561,0).
 who_f4(it_0125_006561,1).
 typeofoutcome_updated(it_0125_006561,2).
+vaccine(it_0125_006561,0,2).
 patient(it_0125_006561,neg).
 
 %patient: it-0167-006775 index:2340
@@ -50241,6 +52581,7 @@ who_f2(it_0167_006775,0).
 who_f3(it_0167_006775,0).
 who_f4(it_0167_006775,1).
 typeofoutcome_updated(it_0167_006775,2).
+vaccine(it_0167_006775,1,3).
 patient(it_0167_006775,neg).
 
 %patient: it-0167-006784 index:2341
@@ -50263,6 +52604,7 @@ who_f2(it_0167_006784,0).
 who_f3(it_0167_006784,0).
 who_f4(it_0167_006784,1).
 typeofoutcome_updated(it_0167_006784,2).
+vaccine(it_0167_006784,0,3).
 patient(it_0167_006784,neg).
 
 %patient: it-0167-006792 index:2342
@@ -50283,6 +52625,7 @@ who_f2(it_0167_006792,0).
 who_f3(it_0167_006792,9).
 who_f4(it_0167_006792,1).
 typeofoutcome_updated(it_0167_006792,2).
+vaccine(it_0167_006792,1,3).
 patient(it_0167_006792,neg).
 
 %patient: it-0167-006820 index:2343
@@ -50300,6 +52643,7 @@ who_f2(it_0167_006820,0).
 who_f3(it_0167_006820,0).
 who_f4(it_0167_006820,1).
 typeofoutcome_updated(it_0167_006820,2).
+vaccine(it_0167_006820,1,3).
 patient(it_0167_006820,neg).
 
 %patient: it-0167-006825 index:2344
@@ -50318,6 +52662,7 @@ who_f2(it_0167_006825,0).
 who_f3(it_0167_006825,0).
 who_f4(it_0167_006825,1).
 typeofoutcome_updated(it_0167_006825,2).
+vaccine(it_0167_006825,1,3).
 patient(it_0167_006825,neg).
 
 %patient: it-0167-006829 index:2345
@@ -50336,6 +52681,7 @@ who_f2(it_0167_006829,0).
 who_f3(it_0167_006829,0).
 who_f4(it_0167_006829,1).
 typeofoutcome_updated(it_0167_006829,2).
+vaccine(it_0167_006829,0,3).
 patient(it_0167_006829,neg).
 
 %patient: it-0166-006229 index:2346
@@ -50355,6 +52701,7 @@ who_f2(it_0166_006229,0).
 who_f3(it_0166_006229,0).
 who_f4(it_0166_006229,1).
 typeofoutcome_updated(it_0166_006229,2).
+vaccine(it_0166_006229,1,3).
 patient(it_0166_006229,neg).
 
 %patient: it-0126-006605 index:2347
@@ -50375,6 +52722,7 @@ who_f2(it_0126_006605,0).
 who_f3(it_0126_006605,9).
 who_f4(it_0126_006605,1).
 typeofoutcome_updated(it_0126_006605,2).
+vaccine(it_0126_006605,0,3).
 patient(it_0126_006605,neg).
 
 %patient: it-0167-006833 index:2348
@@ -50396,6 +52744,7 @@ who_f2(it_0167_006833,0).
 who_f3(it_0167_006833,0).
 who_f4(it_0167_006833,1).
 typeofoutcome_updated(it_0167_006833,2).
+vaccine(it_0167_006833,0,3).
 patient(it_0167_006833,neg).
 
 %patient: it-0015-003863 index:2349
@@ -50425,6 +52774,7 @@ who_f2(it_0015_003863,0).
 who_f3(it_0015_003863,0).
 who_f4(it_0015_003863,1).
 typeofoutcome_updated(it_0015_003863,2).
+vaccine(it_0015_003863,0,3).
 patient(it_0015_003863,neg).
 
 %patient: it-0143-004847 index:2350
@@ -50446,6 +52796,7 @@ who_f2(it_0143_004847,0).
 who_f3(it_0143_004847,0).
 who_f4(it_0143_004847,1).
 typeofoutcome_updated(it_0143_004847,2).
+vaccine(it_0143_004847,0,2).
 patient(it_0143_004847,neg).
 
 %patient: it-0130-004754 index:2351
@@ -50465,6 +52816,7 @@ who_f2(it_0130_004754,0).
 who_f3(it_0130_004754,0).
 who_f4(it_0130_004754,1).
 typeofoutcome_updated(it_0130_004754,2).
+vaccine(it_0130_004754,1,3).
 patient(it_0130_004754,neg).
 
 %patient: it-0166-006236 index:2352
@@ -50484,6 +52836,7 @@ who_f2(it_0166_006236,0).
 who_f3(it_0166_006236,0).
 who_f4(it_0166_006236,1).
 typeofoutcome_updated(it_0166_006236,2).
+vaccine(it_0166_006236,0,3).
 patient(it_0166_006236,neg).
 
 %patient: it-0123-005694 index:2353
@@ -50508,6 +52861,7 @@ who_f2(it_0123_005694,0).
 who_f3(it_0123_005694,0).
 who_f4(it_0123_005694,1).
 typeofoutcome_updated(it_0123_005694,2).
+vaccine(it_0123_005694,0,3).
 patient(it_0123_005694,neg).
 
 %patient: it-0166-005015 index:2354
@@ -50536,6 +52890,7 @@ who_f2(it_0166_005015,0).
 who_f3(it_0166_005015,0).
 who_f4(it_0166_005015,1).
 typeofoutcome_updated(it_0166_005015,2).
+vaccine(it_0166_005015,1,3).
 patient(it_0166_005015,neg).
 
 %patient: it-0143-004853 index:2355
@@ -50556,6 +52911,7 @@ who_f2(it_0143_004853,0).
 who_f3(it_0143_004853,1).
 who_f4(it_0143_004853,1).
 typeofoutcome_updated(it_0143_004853,2).
+vaccine(it_0143_004853,0,2).
 patient(it_0143_004853,neg).
 
 %patient: it-0143-004855 index:2356
@@ -50574,6 +52930,7 @@ who_f2(it_0143_004855,0).
 who_f3(it_0143_004855,1).
 who_f4(it_0143_004855,1).
 typeofoutcome_updated(it_0143_004855,2).
+vaccine(it_0143_004855,0,2).
 patient(it_0143_004855,neg).
 
 %patient: it-0143-005256 index:2357
@@ -50595,6 +52952,7 @@ who_f2(it_0143_005256,0).
 who_f3(it_0143_005256,1).
 who_f4(it_0143_005256,1).
 typeofoutcome_updated(it_0143_005256,2).
+vaccine(it_0143_005256,0,2).
 patient(it_0143_005256,neg).
 
 %patient: it-0143-005267 index:2358
@@ -50617,6 +52975,7 @@ who_f2(it_0143_005267,0).
 who_f3(it_0143_005267,1).
 who_f4(it_0143_005267,1).
 typeofoutcome_updated(it_0143_005267,2).
+vaccine(it_0143_005267,0,2).
 patient(it_0143_005267,neg).
 
 %patient: it-0143-005276 index:2359
@@ -50635,6 +52994,7 @@ who_f2(it_0143_005276,0).
 who_f3(it_0143_005276,1).
 who_f4(it_0143_005276,1).
 typeofoutcome_updated(it_0143_005276,2).
+vaccine(it_0143_005276,0,2).
 patient(it_0143_005276,neg).
 
 %patient: it-0143-005278 index:2360
@@ -50654,6 +53014,7 @@ who_f2(it_0143_005278,0).
 who_f3(it_0143_005278,1).
 who_f4(it_0143_005278,1).
 typeofoutcome_updated(it_0143_005278,2).
+vaccine(it_0143_005278,0,2).
 patient(it_0143_005278,neg).
 
 %patient: it-0143-005280 index:2361
@@ -50677,6 +53038,7 @@ who_f2(it_0143_005280,0).
 who_f3(it_0143_005280,1).
 who_f4(it_0143_005280,1).
 typeofoutcome_updated(it_0143_005280,2).
+vaccine(it_0143_005280,0,2).
 patient(it_0143_005280,neg).
 
 %patient: it-0126-004943 index:2362
@@ -50698,6 +53060,7 @@ who_f2(it_0126_004943,0).
 who_f3(it_0126_004943,0).
 who_f4(it_0126_004943,1).
 typeofoutcome_updated(it_0126_004943,2).
+vaccine(it_0126_004943,0,3).
 patient(it_0126_004943,neg).
 
 %patient: it-0143-004840 index:2363
@@ -50721,6 +53084,7 @@ who_f2(it_0143_004840,0).
 who_f3(it_0143_004840,0).
 who_f4(it_0143_004840,1).
 typeofoutcome_updated(it_0143_004840,2).
+vaccine(it_0143_004840,0,2).
 patient(it_0143_004840,neg).
 
 %patient: it-0143-004841 index:2364
@@ -50739,6 +53103,7 @@ who_f2(it_0143_004841,0).
 who_f3(it_0143_004841,0).
 who_f4(it_0143_004841,1).
 typeofoutcome_updated(it_0143_004841,2).
+vaccine(it_0143_004841,0,2).
 patient(it_0143_004841,neg).
 
 %patient: it-0143-005251 index:2365
@@ -50757,6 +53122,7 @@ who_f2(it_0143_005251,0).
 who_f3(it_0143_005251,1).
 who_f4(it_0143_005251,1).
 typeofoutcome_updated(it_0143_005251,2).
+vaccine(it_0143_005251,0,2).
 patient(it_0143_005251,neg).
 
 %patient: it-0143-005259 index:2366
@@ -50777,6 +53143,7 @@ who_f2(it_0143_005259,0).
 who_f3(it_0143_005259,1).
 who_f4(it_0143_005259,1).
 typeofoutcome_updated(it_0143_005259,2).
+vaccine(it_0143_005259,0,2).
 patient(it_0143_005259,neg).
 
 %patient: it-0143-004843 index:2367
@@ -50795,6 +53162,7 @@ who_f2(it_0143_004843,0).
 who_f3(it_0143_004843,0).
 who_f4(it_0143_004843,1).
 typeofoutcome_updated(it_0143_004843,2).
+vaccine(it_0143_004843,0,2).
 patient(it_0143_004843,neg).
 
 %patient: it-0143-004850 index:2368
@@ -50816,6 +53184,7 @@ who_f2(it_0143_004850,0).
 who_f3(it_0143_004850,1).
 who_f4(it_0143_004850,1).
 typeofoutcome_updated(it_0143_004850,2).
+vaccine(it_0143_004850,0,2).
 patient(it_0143_004850,neg).
 
 %patient: it-0143-005252 index:2369
@@ -50840,6 +53209,7 @@ who_f2(it_0143_005252,0).
 who_f3(it_0143_005252,1).
 who_f4(it_0143_005252,1).
 typeofoutcome_updated(it_0143_005252,2).
+vaccine(it_0143_005252,0,2).
 patient(it_0143_005252,neg).
 
 %patient: it-0143-005244 index:2370
@@ -50862,6 +53232,7 @@ who_f2(it_0143_005244,0).
 who_f3(it_0143_005244,1).
 who_f4(it_0143_005244,1).
 typeofoutcome_updated(it_0143_005244,2).
+vaccine(it_0143_005244,0,2).
 patient(it_0143_005244,neg).
 
 %patient: it-0126-005612 index:2371
@@ -50890,6 +53261,7 @@ who_f2(it_0126_005612,0).
 who_f3(it_0126_005612,0).
 who_f4(it_0126_005612,1).
 typeofoutcome_updated(it_0126_005612,2).
+vaccine(it_0126_005612,0,3).
 patient(it_0126_005612,neg).
 
 %patient: it-0151-005730 index:2372
@@ -50912,6 +53284,7 @@ who_f2(it_0151_005730,0).
 who_f3(it_0151_005730,0).
 who_f4(it_0151_005730,1).
 typeofoutcome_updated(it_0151_005730,2).
+vaccine(it_0151_005730,0,2).
 patient(it_0151_005730,neg).
 
 %patient: it-0126-005613 index:2373
@@ -50938,6 +53311,7 @@ who_f2(it_0126_005613,0).
 who_f3(it_0126_005613,0).
 who_f4(it_0126_005613,1).
 typeofoutcome_updated(it_0126_005613,2).
+vaccine(it_0126_005613,0,3).
 patient(it_0126_005613,neg).
 
 %patient: it-0143-005255 index:2374
@@ -50960,6 +53334,7 @@ who_f2(it_0143_005255,0).
 who_f3(it_0143_005255,1).
 who_f4(it_0143_005255,1).
 typeofoutcome_updated(it_0143_005255,2).
+vaccine(it_0143_005255,0,2).
 patient(it_0143_005255,neg).
 
 %patient: it-0143-005264 index:2375
@@ -50982,6 +53357,7 @@ who_f2(it_0143_005264,0).
 who_f3(it_0143_005264,0).
 who_f4(it_0143_005264,1).
 typeofoutcome_updated(it_0143_005264,2).
+vaccine(it_0143_005264,0,2).
 patient(it_0143_005264,neg).
 
 %patient: it-0143-005283 index:2376
@@ -51001,6 +53377,7 @@ who_f2(it_0143_005283,0).
 who_f3(it_0143_005283,1).
 who_f4(it_0143_005283,1).
 typeofoutcome_updated(it_0143_005283,2).
+vaccine(it_0143_005283,0,2).
 patient(it_0143_005283,neg).
 
 %patient: it-0143-005307 index:2377
@@ -51023,6 +53400,7 @@ who_f2(it_0143_005307,0).
 who_f3(it_0143_005307,1).
 who_f4(it_0143_005307,1).
 typeofoutcome_updated(it_0143_005307,2).
+vaccine(it_0143_005307,0,2).
 patient(it_0143_005307,neg).
 
 %patient: it-0143-005311 index:2378
@@ -51042,6 +53420,7 @@ who_f2(it_0143_005311,0).
 who_f3(it_0143_005311,0).
 who_f4(it_0143_005311,1).
 typeofoutcome_updated(it_0143_005311,2).
+vaccine(it_0143_005311,0,2).
 patient(it_0143_005311,neg).
 
 %patient: it-0143-005320 index:2379
@@ -51061,6 +53440,7 @@ who_f2(it_0143_005320,0).
 who_f3(it_0143_005320,0).
 who_f4(it_0143_005320,1).
 typeofoutcome_updated(it_0143_005320,2).
+vaccine(it_0143_005320,0,2).
 patient(it_0143_005320,neg).
 
 %patient: it-0150-006044 index:2380
@@ -51085,6 +53465,7 @@ who_f2(it_0150_006044,0).
 who_f3(it_0150_006044,0).
 who_f4(it_0150_006044,0).
 typeofoutcome_updated(it_0150_006044,2).
+vaccine(it_0150_006044,0,3).
 patient(it_0150_006044,neg).
 
 %patient: it-0123-005656 index:2381
@@ -51107,6 +53488,7 @@ who_f2(it_0123_005656,0).
 who_f3(it_0123_005656,0).
 who_f4(it_0123_005656,1).
 typeofoutcome_updated(it_0123_005656,2).
+vaccine(it_0123_005656,0,3).
 patient(it_0123_005656,neg).
 
 %patient: it-0123-005701 index:2382
@@ -51134,6 +53516,7 @@ who_f2(it_0123_005701,0).
 who_f3(it_0123_005701,0).
 who_f4(it_0123_005701,1).
 typeofoutcome_updated(it_0123_005701,2).
+vaccine(it_0123_005701,0,3).
 patient(it_0123_005701,neg).
 
 %patient: it-0123-005715 index:2383
@@ -51159,6 +53542,7 @@ who_f2(it_0123_005715,0).
 who_f3(it_0123_005715,0).
 who_f4(it_0123_005715,1).
 typeofoutcome_updated(it_0123_005715,2).
+vaccine(it_0123_005715,0,3).
 patient(it_0123_005715,neg).
 
 %patient: it-0130-004656 index:2384
@@ -51181,6 +53565,7 @@ who_f2(it_0130_004656,0).
 who_f3(it_0130_004656,0).
 who_f4(it_0130_004656,1).
 typeofoutcome_updated(it_0130_004656,2).
+vaccine(it_0130_004656,1,3).
 patient(it_0130_004656,neg).
 
 %patient: it-0166-004935 index:2385
@@ -51205,6 +53590,7 @@ who_f2(it_0166_004935,0).
 who_f3(it_0166_004935,0).
 who_f4(it_0166_004935,1).
 typeofoutcome_updated(it_0166_004935,2).
+vaccine(it_0166_004935,1,3).
 patient(it_0166_004935,neg).
 
 %patient: it-0166-005109 index:2386
@@ -51234,6 +53620,7 @@ who_f2(it_0166_005109,0).
 who_f3(it_0166_005109,0).
 who_f4(it_0166_005109,1).
 typeofoutcome_updated(it_0166_005109,2).
+vaccine(it_0166_005109,1,3).
 patient(it_0166_005109,neg).
 
 %patient: it-0166-005119 index:2387
@@ -51261,6 +53648,7 @@ who_f2(it_0166_005119,0).
 who_f3(it_0166_005119,0).
 who_f4(it_0166_005119,1).
 typeofoutcome_updated(it_0166_005119,2).
+vaccine(it_0166_005119,1,3).
 patient(it_0166_005119,neg).
 
 %patient: it-0130-004832 index:2388
@@ -51282,6 +53670,7 @@ who_f2(it_0130_004832,0).
 who_f3(it_0130_004832,0).
 who_f4(it_0130_004832,1).
 typeofoutcome_updated(it_0130_004832,2).
+vaccine(it_0130_004832,1,3).
 patient(it_0130_004832,neg).
 
 %patient: it-0166-005097 index:2389
@@ -51309,6 +53698,7 @@ who_f2(it_0166_005097,0).
 who_f3(it_0166_005097,0).
 who_f4(it_0166_005097,1).
 typeofoutcome_updated(it_0166_005097,2).
+vaccine(it_0166_005097,1,3).
 patient(it_0166_005097,neg).
 
 %patient: it-0166-005116 index:2390
@@ -51337,6 +53727,7 @@ who_f2(it_0166_005116,0).
 who_f3(it_0166_005116,0).
 who_f4(it_0166_005116,1).
 typeofoutcome_updated(it_0166_005116,2).
+vaccine(it_0166_005116,1,3).
 patient(it_0166_005116,neg).
 
 %patient: it-0166-006233 index:2391
@@ -51360,6 +53751,7 @@ who_f2(it_0166_006233,0).
 who_f3(it_0166_006233,0).
 who_f4(it_0166_006233,1).
 typeofoutcome_updated(it_0166_006233,2).
+vaccine(it_0166_006233,1,3).
 patient(it_0166_006233,neg).
 
 %patient: it-0130-004885 index:2392
@@ -51384,6 +53776,7 @@ who_f2(it_0130_004885,0).
 who_f3(it_0130_004885,0).
 who_f4(it_0130_004885,1).
 typeofoutcome_updated(it_0130_004885,2).
+vaccine(it_0130_004885,1,3).
 patient(it_0130_004885,neg).
 
 %patient: it-0130-004657 index:2393
@@ -51408,6 +53801,7 @@ who_f2(it_0130_004657,0).
 who_f3(it_0130_004657,0).
 who_f4(it_0130_004657,1).
 typeofoutcome_updated(it_0130_004657,2).
+vaccine(it_0130_004657,1,3).
 patient(it_0130_004657,neg).
 
 %patient: it-0130-004834 index:2394
@@ -51429,6 +53823,7 @@ who_f2(it_0130_004834,0).
 who_f3(it_0130_004834,0).
 who_f4(it_0130_004834,1).
 typeofoutcome_updated(it_0130_004834,2).
+vaccine(it_0130_004834,1,3).
 patient(it_0130_004834,neg).
 
 %patient: it-0130-004836 index:2395
@@ -51452,6 +53847,7 @@ who_f2(it_0130_004836,0).
 who_f3(it_0130_004836,0).
 who_f4(it_0130_004836,1).
 typeofoutcome_updated(it_0130_004836,2).
+vaccine(it_0130_004836,1,3).
 patient(it_0130_004836,neg).
 
 %patient: it-0130-006268 index:2396
@@ -51471,6 +53867,7 @@ who_f2(it_0130_006268,0).
 who_f3(it_0130_006268,0).
 who_f4(it_0130_006268,1).
 typeofoutcome_updated(it_0130_006268,2).
+vaccine(it_0130_006268,1,3).
 patient(it_0130_006268,neg).
 
 %patient: it-0130-004821 index:2397
@@ -51488,6 +53885,7 @@ who_f2(it_0130_004821,0).
 who_f3(it_0130_004821,0).
 who_f4(it_0130_004821,1).
 typeofoutcome_updated(it_0130_004821,2).
+vaccine(it_0130_004821,1,3).
 patient(it_0130_004821,neg).
 
 %patient: it-0130-004370 index:2398
@@ -51512,6 +53910,7 @@ who_f2(it_0130_004370,0).
 who_f3(it_0130_004370,0).
 who_f4(it_0130_004370,1).
 typeofoutcome_updated(it_0130_004370,2).
+vaccine(it_0130_004370,1,3).
 patient(it_0130_004370,neg).
 
 %patient: it-0130-004427 index:2399
@@ -51534,6 +53933,7 @@ who_f2(it_0130_004427,0).
 who_f3(it_0130_004427,0).
 who_f4(it_0130_004427,1).
 typeofoutcome_updated(it_0130_004427,2).
+vaccine(it_0130_004427,1,3).
 patient(it_0130_004427,neg).
 
 %patient: it-0130-004887 index:2400
@@ -51556,6 +53956,7 @@ who_f2(it_0130_004887,0).
 who_f3(it_0130_004887,9).
 who_f4(it_0130_004887,1).
 typeofoutcome_updated(it_0130_004887,2).
+vaccine(it_0130_004887,1,3).
 patient(it_0130_004887,neg).
 
 %patient: it-0126-004953 index:2401
@@ -51586,6 +53987,7 @@ who_f2(it_0126_004953,0).
 who_f3(it_0126_004953,0).
 who_f4(it_0126_004953,1).
 typeofoutcome_updated(it_0126_004953,2).
+vaccine(it_0126_004953,0,3).
 patient(it_0126_004953,neg).
 
 %patient: it-0130-004666 index:2402
@@ -51609,6 +54011,7 @@ who_f2(it_0130_004666,0).
 who_f3(it_0130_004666,0).
 who_f4(it_0130_004666,1).
 typeofoutcome_updated(it_0130_004666,2).
+vaccine(it_0130_004666,1,3).
 patient(it_0130_004666,neg).
 
 %patient: it-0130-005214 index:2403
@@ -51630,6 +54033,7 @@ who_f2(it_0130_005214,0).
 who_f3(it_0130_005214,0).
 who_f4(it_0130_005214,1).
 typeofoutcome_updated(it_0130_005214,2).
+vaccine(it_0130_005214,1,3).
 patient(it_0130_005214,neg).
 
 %patient: it-0166-005098 index:2404
@@ -51660,6 +54064,7 @@ who_f2(it_0166_005098,0).
 who_f3(it_0166_005098,0).
 who_f4(it_0166_005098,1).
 typeofoutcome_updated(it_0166_005098,2).
+vaccine(it_0166_005098,1,3).
 patient(it_0166_005098,neg).
 
 %patient: it-0143-005260 index:2405
@@ -51680,6 +54085,7 @@ who_f2(it_0143_005260,0).
 who_f3(it_0143_005260,1).
 who_f4(it_0143_005260,1).
 typeofoutcome_updated(it_0143_005260,2).
+vaccine(it_0143_005260,0,2).
 patient(it_0143_005260,neg).
 
 %patient: it-0130-005304 index:2406
@@ -51701,6 +54107,7 @@ who_f2(it_0130_005304,0).
 who_f3(it_0130_005304,0).
 who_f4(it_0130_005304,1).
 typeofoutcome_updated(it_0130_005304,2).
+vaccine(it_0130_005304,1,3).
 patient(it_0130_005304,neg).
 
 %patient: it-0166-006234 index:2407
@@ -51718,6 +54125,7 @@ who_f2(it_0166_006234,0).
 who_f3(it_0166_006234,0).
 who_f4(it_0166_006234,1).
 typeofoutcome_updated(it_0166_006234,2).
+vaccine(it_0166_006234,1,3).
 patient(it_0166_006234,neg).
 
 %patient: it-0123-005655 index:2408
@@ -51738,6 +54146,7 @@ who_f2(it_0123_005655,0).
 who_f3(it_0123_005655,0).
 who_f4(it_0123_005655,1).
 typeofoutcome_updated(it_0123_005655,2).
+vaccine(it_0123_005655,1,3).
 patient(it_0123_005655,neg).
 
 %patient: it-0130-004646 index:2409
@@ -51761,6 +54170,7 @@ who_f2(it_0130_004646,0).
 who_f3(it_0130_004646,0).
 who_f4(it_0130_004646,1).
 typeofoutcome_updated(it_0130_004646,2).
+vaccine(it_0130_004646,0,3).
 patient(it_0130_004646,neg).
 
 %patient: it-0130-004426 index:2410
@@ -51780,6 +54190,7 @@ who_f2(it_0130_004426,0).
 who_f3(it_0130_004426,0).
 who_f4(it_0130_004426,1).
 typeofoutcome_updated(it_0130_004426,2).
+vaccine(it_0130_004426,1,3).
 patient(it_0130_004426,neg).
 
 %patient: it-0021-004873 index:2411
@@ -51811,6 +54222,7 @@ who_f2(it_0021_004873,0).
 who_f3(it_0021_004873,0).
 who_f4(it_0021_004873,1).
 typeofoutcome_updated(it_0021_004873,2).
+vaccine(it_0021_004873,0,3).
 patient(it_0021_004873,neg).
 
 %patient: it-0042-003694 index:2412
@@ -51836,6 +54248,7 @@ who_f2(it_0042_003694,0).
 who_f3(it_0042_003694,0).
 who_f4(it_0042_003694,1).
 typeofoutcome_updated(it_0042_003694,2).
+vaccine(it_0042_003694,0,3).
 patient(it_0042_003694,neg).
 
 %patient: it-0130-005341 index:2413
@@ -51856,6 +54269,7 @@ who_f2(it_0130_005341,1).
 who_f3(it_0130_005341,1).
 who_f4(it_0130_005341,2).
 typeofoutcome_updated(it_0130_005341,2).
+vaccine(it_0130_005341,1,3).
 patient(it_0130_005341,neg).
 
 %patient: it-0130-005356 index:2414
@@ -51878,6 +54292,7 @@ who_f2(it_0130_005356,0).
 who_f3(it_0130_005356,0).
 who_f4(it_0130_005356,1).
 typeofoutcome_updated(it_0130_005356,2).
+vaccine(it_0130_005356,1,3).
 patient(it_0130_005356,neg).
 
 %patient: it-0021-003843 index:2415
@@ -51904,6 +54319,7 @@ who_f2(it_0021_003843,0).
 who_f3(it_0021_003843,0).
 who_f4(it_0021_003843,1).
 typeofoutcome_updated(it_0021_003843,2).
+vaccine(it_0021_003843,0,3).
 patient(it_0021_003843,neg).
 
 %patient: it-0103-006115 index:2416
@@ -51923,6 +54339,7 @@ who_f2(it_0103_006115,0).
 who_f3(it_0103_006115,0).
 who_f4(it_0103_006115,1).
 typeofoutcome_updated(it_0103_006115,2).
+vaccine(it_0103_006115,0,3).
 patient(it_0103_006115,neg).
 
 %patient: it-0130-005385 index:2417
@@ -51946,6 +54363,7 @@ who_f2(it_0130_005385,0).
 who_f3(it_0130_005385,0).
 who_f4(it_0130_005385,1).
 typeofoutcome_updated(it_0130_005385,2).
+vaccine(it_0130_005385,1,3).
 patient(it_0130_005385,neg).
 
 %patient: it-0149-004323 index:2418
@@ -51969,6 +54387,7 @@ who_f2(it_0149_004323,9).
 who_f3(it_0149_004323,9).
 who_f4(it_0149_004323,1).
 typeofoutcome_updated(it_0149_004323,2).
+vaccine(it_0149_004323,0,2).
 patient(it_0149_004323,neg).
 
 %patient: it-0021-004586 index:2419
@@ -52002,6 +54421,7 @@ who_f2(it_0021_004586,0).
 who_f3(it_0021_004586,0).
 who_f4(it_0021_004586,1).
 typeofoutcome_updated(it_0021_004586,2).
+vaccine(it_0021_004586,0,3).
 patient(it_0021_004586,neg).
 
 %patient: it-0042-003636 index:2420
@@ -52030,6 +54450,7 @@ who_f2(it_0042_003636,0).
 who_f3(it_0042_003636,0).
 who_f4(it_0042_003636,1).
 typeofoutcome_updated(it_0042_003636,2).
+vaccine(it_0042_003636,0,3).
 patient(it_0042_003636,neg).
 
 %patient: it-0123-005652 index:2421
@@ -52057,6 +54478,7 @@ who_f2(it_0123_005652,0).
 who_f3(it_0123_005652,0).
 who_f4(it_0123_005652,1).
 typeofoutcome_updated(it_0123_005652,2).
+vaccine(it_0123_005652,0,3).
 patient(it_0123_005652,neg).
 
 %patient: it-0149-004276 index:2422
@@ -52079,6 +54501,7 @@ who_f2(it_0149_004276,0).
 who_f3(it_0149_004276,0).
 who_f4(it_0149_004276,1).
 typeofoutcome_updated(it_0149_004276,2).
+vaccine(it_0149_004276,0,3).
 patient(it_0149_004276,neg).
 
 %patient: it-0149-004277 index:2423
@@ -52099,6 +54522,7 @@ who_f2(it_0149_004277,0).
 who_f3(it_0149_004277,0).
 who_f4(it_0149_004277,1).
 typeofoutcome_updated(it_0149_004277,2).
+vaccine(it_0149_004277,0,2).
 patient(it_0149_004277,neg).
 
 %patient: it-0149-004356 index:2424
@@ -52118,6 +54542,7 @@ who_f2(it_0149_004356,0).
 who_f3(it_0149_004356,0).
 who_f4(it_0149_004356,1).
 typeofoutcome_updated(it_0149_004356,2).
+vaccine(it_0149_004356,0,3).
 patient(it_0149_004356,neg).
 
 %patient: it-0149-004368 index:2425
@@ -52144,6 +54569,7 @@ who_f2(it_0149_004368,9).
 who_f3(it_0149_004368,0).
 who_f4(it_0149_004368,1).
 typeofoutcome_updated(it_0149_004368,2).
+vaccine(it_0149_004368,0,2).
 patient(it_0149_004368,neg).
 
 %patient: it-0149-004366 index:2426
@@ -52169,6 +54595,7 @@ who_f2(it_0149_004366,9).
 who_f3(it_0149_004366,0).
 who_f4(it_0149_004366,1).
 typeofoutcome_updated(it_0149_004366,2).
+vaccine(it_0149_004366,0,3).
 patient(it_0149_004366,neg).
 
 %patient: it-0149-004321 index:2427
@@ -52189,6 +54616,7 @@ who_f2(it_0149_004321,0).
 who_f3(it_0149_004321,0).
 who_f4(it_0149_004321,1).
 typeofoutcome_updated(it_0149_004321,2).
+vaccine(it_0149_004321,0,2).
 patient(it_0149_004321,neg).
 
 %patient: it-0042-003729 index:2428
@@ -52211,6 +54639,7 @@ who_f2(it_0042_003729,0).
 who_f3(it_0042_003729,0).
 who_f4(it_0042_003729,1).
 typeofoutcome_updated(it_0042_003729,2).
+vaccine(it_0042_003729,0,3).
 patient(it_0042_003729,neg).
 
 %patient: it-0062-000202 index:2429
@@ -52232,6 +54661,7 @@ who_f2(it_0062_000202,0).
 who_f3(it_0062_000202,0).
 who_f4(it_0062_000202,1).
 typeofoutcome_updated(it_0062_000202,2).
+vaccine(it_0062_000202,0,3).
 patient(it_0062_000202,neg).
 
 %patient: it-0062-000658 index:2430
@@ -52251,6 +54681,7 @@ who_f2(it_0062_000658,0).
 who_f3(it_0062_000658,0).
 who_f4(it_0062_000658,1).
 typeofoutcome_updated(it_0062_000658,2).
+vaccine(it_0062_000658,0,3).
 patient(it_0062_000658,neg).
 
 %patient: it-0062-000971 index:2431
@@ -52269,6 +54700,7 @@ who_f2(it_0062_000971,0).
 who_f3(it_0062_000971,0).
 who_f4(it_0062_000971,1).
 typeofoutcome_updated(it_0062_000971,2).
+vaccine(it_0062_000971,0,3).
 patient(it_0062_000971,neg).
 
 %patient: it-0062-000972 index:2432
@@ -52286,6 +54718,7 @@ who_f2(it_0062_000972,0).
 who_f3(it_0062_000972,0).
 who_f4(it_0062_000972,1).
 typeofoutcome_updated(it_0062_000972,2).
+vaccine(it_0062_000972,0,3).
 patient(it_0062_000972,neg).
 
 %patient: it-0062-000979 index:2433
@@ -52303,6 +54736,7 @@ who_f2(it_0062_000979,0).
 who_f3(it_0062_000979,0).
 who_f4(it_0062_000979,1).
 typeofoutcome_updated(it_0062_000979,2).
+vaccine(it_0062_000979,0,3).
 patient(it_0062_000979,neg).
 
 %patient: it-0062-001785 index:2434
@@ -52322,6 +54756,7 @@ who_f2(it_0062_001785,0).
 who_f3(it_0062_001785,0).
 who_f4(it_0062_001785,1).
 typeofoutcome_updated(it_0062_001785,2).
+vaccine(it_0062_001785,0,3).
 patient(it_0062_001785,neg).
 
 %patient: it-0062-001807 index:2435
@@ -52339,6 +54774,7 @@ who_f2(it_0062_001807,0).
 who_f3(it_0062_001807,0).
 who_f4(it_0062_001807,1).
 typeofoutcome_updated(it_0062_001807,2).
+vaccine(it_0062_001807,0,3).
 patient(it_0062_001807,neg).
 
 %patient: it-0062-001810 index:2436
@@ -52358,6 +54794,7 @@ who_f2(it_0062_001810,0).
 who_f3(it_0062_001810,0).
 who_f4(it_0062_001810,1).
 typeofoutcome_updated(it_0062_001810,2).
+vaccine(it_0062_001810,0,3).
 patient(it_0062_001810,neg).
 
 %patient: it-0062-001811 index:2437
@@ -52376,6 +54813,7 @@ who_f2(it_0062_001811,0).
 who_f3(it_0062_001811,0).
 who_f4(it_0062_001811,1).
 typeofoutcome_updated(it_0062_001811,2).
+vaccine(it_0062_001811,0,3).
 patient(it_0062_001811,neg).
 
 %patient: it-0062-002172 index:2438
@@ -52395,6 +54833,7 @@ who_f2(it_0062_002172,0).
 who_f3(it_0062_002172,0).
 who_f4(it_0062_002172,1).
 typeofoutcome_updated(it_0062_002172,2).
+vaccine(it_0062_002172,0,3).
 patient(it_0062_002172,neg).
 
 %patient: it-0062-002299 index:2439
@@ -52413,6 +54852,7 @@ who_f2(it_0062_002299,0).
 who_f3(it_0062_002299,0).
 who_f4(it_0062_002299,1).
 typeofoutcome_updated(it_0062_002299,2).
+vaccine(it_0062_002299,0,3).
 patient(it_0062_002299,neg).
 
 %patient: it-0062-002303 index:2440
@@ -52432,6 +54872,7 @@ who_f2(it_0062_002303,0).
 who_f3(it_0062_002303,0).
 who_f4(it_0062_002303,1).
 typeofoutcome_updated(it_0062_002303,2).
+vaccine(it_0062_002303,0,3).
 patient(it_0062_002303,neg).
 
 %patient: it-0021-003829 index:2441
@@ -52454,6 +54895,7 @@ who_f2(it_0021_003829,0).
 who_f3(it_0021_003829,0).
 who_f4(it_0021_003829,1).
 typeofoutcome_updated(it_0021_003829,2).
+vaccine(it_0021_003829,0,3).
 patient(it_0021_003829,neg).
 
 %patient: it-0149-004359 index:2442
@@ -52478,6 +54920,7 @@ who_f2(it_0149_004359,0).
 who_f3(it_0149_004359,0).
 who_f4(it_0149_004359,1).
 typeofoutcome_updated(it_0149_004359,2).
+vaccine(it_0149_004359,0,2).
 patient(it_0149_004359,neg).
 
 %patient: it-0143-004083 index:2443
@@ -52507,6 +54950,7 @@ who_f2(it_0143_004083,0).
 who_f3(it_0143_004083,0).
 who_f4(it_0143_004083,1).
 typeofoutcome_updated(it_0143_004083,2).
+vaccine(it_0143_004083,0,2).
 patient(it_0143_004083,neg).
 
 %patient: it-0151-005628 index:2444
@@ -52528,6 +54972,7 @@ who_f2(it_0151_005628,0).
 who_f3(it_0151_005628,0).
 who_f4(it_0151_005628,1).
 typeofoutcome_updated(it_0151_005628,2).
+vaccine(it_0151_005628,0,3).
 patient(it_0151_005628,neg).
 
 %patient: it-0151-005588 index:2445
@@ -52545,6 +54990,7 @@ who_f2(it_0151_005588,9).
 who_f3(it_0151_005588,0).
 who_f4(it_0151_005588,1).
 typeofoutcome_updated(it_0151_005588,2).
+vaccine(it_0151_005588,0,3).
 patient(it_0151_005588,neg).
 
 %patient: it-0143-004261 index:2446
@@ -52573,6 +55019,7 @@ who_f2(it_0143_004261,0).
 who_f3(it_0143_004261,0).
 who_f4(it_0143_004261,1).
 typeofoutcome_updated(it_0143_004261,2).
+vaccine(it_0143_004261,0,3).
 patient(it_0143_004261,neg).
 
 %patient: it-0150-006031 index:2447
@@ -52593,6 +55040,7 @@ who_f2(it_0150_006031,0).
 who_f3(it_0150_006031,0).
 who_f4(it_0150_006031,0).
 typeofoutcome_updated(it_0150_006031,2).
+vaccine(it_0150_006031,0,3).
 patient(it_0150_006031,neg).
 
 %patient: it-0150-006037 index:2448
@@ -52613,6 +55061,7 @@ who_f2(it_0150_006037,0).
 who_f3(it_0150_006037,0).
 who_f4(it_0150_006037,0).
 typeofoutcome_updated(it_0150_006037,2).
+vaccine(it_0150_006037,0,3).
 patient(it_0150_006037,neg).
 
 %patient: it-0150-006038 index:2449
@@ -52634,6 +55083,7 @@ who_f2(it_0150_006038,0).
 who_f3(it_0150_006038,0).
 who_f4(it_0150_006038,0).
 typeofoutcome_updated(it_0150_006038,2).
+vaccine(it_0150_006038,0,3).
 patient(it_0150_006038,neg).
 
 %patient: it-0150-006036 index:2450
@@ -52650,6 +55100,7 @@ who_f2(it_0150_006036,0).
 who_f3(it_0150_006036,0).
 who_f4(it_0150_006036,0).
 typeofoutcome_updated(it_0150_006036,2).
+vaccine(it_0150_006036,0,3).
 patient(it_0150_006036,neg).
 
 %patient: it-0150-006043 index:2451
@@ -52672,6 +55123,7 @@ who_f2(it_0150_006043,0).
 who_f3(it_0150_006043,0).
 who_f4(it_0150_006043,0).
 typeofoutcome_updated(it_0150_006043,2).
+vaccine(it_0150_006043,0,3).
 patient(it_0150_006043,neg).
 
 %patient: it-0150-006047 index:2452
@@ -52694,6 +55146,7 @@ who_f2(it_0150_006047,0).
 who_f3(it_0150_006047,0).
 who_f4(it_0150_006047,0).
 typeofoutcome_updated(it_0150_006047,2).
+vaccine(it_0150_006047,0,3).
 patient(it_0150_006047,neg).
 
 %patient: it-0150-006040 index:2453
@@ -52718,6 +55171,7 @@ who_f2(it_0150_006040,0).
 who_f3(it_0150_006040,0).
 who_f4(it_0150_006040,0).
 typeofoutcome_updated(it_0150_006040,2).
+vaccine(it_0150_006040,0,3).
 patient(it_0150_006040,neg).
 
 %patient: it-0150-006028 index:2454
@@ -52739,6 +55193,7 @@ who_f2(it_0150_006028,0).
 who_f3(it_0150_006028,0).
 who_f4(it_0150_006028,0).
 typeofoutcome_updated(it_0150_006028,2).
+vaccine(it_0150_006028,0,3).
 patient(it_0150_006028,neg).
 
 %patient: it-0150-006033 index:2455
@@ -52758,6 +55213,7 @@ who_f2(it_0150_006033,0).
 who_f3(it_0150_006033,0).
 who_f4(it_0150_006033,0).
 typeofoutcome_updated(it_0150_006033,2).
+vaccine(it_0150_006033,0,3).
 patient(it_0150_006033,neg).
 
 %patient: it-0150-006042 index:2456
@@ -52776,6 +55232,7 @@ who_f2(it_0150_006042,0).
 who_f3(it_0150_006042,0).
 who_f4(it_0150_006042,0).
 typeofoutcome_updated(it_0150_006042,2).
+vaccine(it_0150_006042,0,3).
 patient(it_0150_006042,neg).
 
 %patient: it-0130-004431 index:2457
@@ -52794,6 +55251,7 @@ who_f2(it_0130_004431,9).
 who_f3(it_0130_004431,0).
 who_f4(it_0130_004431,1).
 typeofoutcome_updated(it_0130_004431,2).
+vaccine(it_0130_004431,1,3).
 patient(it_0130_004431,neg).
 
 %patient: it-0051-006694 index:2458
@@ -52815,6 +55273,7 @@ who_f2(it_0051_006694,0).
 who_f3(it_0051_006694,0).
 who_f4(it_0051_006694,9).
 typeofoutcome_updated(it_0051_006694,2).
+vaccine(it_0051_006694,0,2).
 patient(it_0051_006694,neg).
 
 %patient: it-0164-006384 index:2459
@@ -52835,6 +55294,7 @@ who_f2(it_0164_006384,0).
 who_f3(it_0164_006384,0).
 who_f4(it_0164_006384,0).
 typeofoutcome_updated(it_0164_006384,2).
+vaccine(it_0164_006384,0,3).
 patient(it_0164_006384,neg).
 
 %patient: it-0106-006787 index:2460
@@ -52852,6 +55312,7 @@ who_f2(it_0106_006787,0).
 who_f3(it_0106_006787,0).
 who_f4(it_0106_006787,0).
 typeofoutcome_updated(it_0106_006787,2).
+vaccine(it_0106_006787,0,3).
 patient(it_0106_006787,neg).
 
 %patient: it-0106-006804 index:2461
@@ -52867,6 +55328,7 @@ who_f2(it_0106_006804,0).
 who_f3(it_0106_006804,0).
 who_f4(it_0106_006804,0).
 typeofoutcome_updated(it_0106_006804,2).
+vaccine(it_0106_006804,0,3).
 patient(it_0106_006804,neg).
 
 %patient: it-0106-006809 index:2462
@@ -52883,6 +55345,7 @@ who_f2(it_0106_006809,0).
 who_f3(it_0106_006809,0).
 who_f4(it_0106_006809,0).
 typeofoutcome_updated(it_0106_006809,2).
+vaccine(it_0106_006809,0,3).
 patient(it_0106_006809,neg).
 
 %patient: it-0106-006737 index:2463
@@ -52906,6 +55369,7 @@ who_f2(it_0106_006737,0).
 who_f3(it_0106_006737,0).
 who_f4(it_0106_006737,0).
 typeofoutcome_updated(it_0106_006737,2).
+vaccine(it_0106_006737,0,3).
 patient(it_0106_006737,neg).
 
 %patient: it-0106-006759 index:2464
@@ -52931,6 +55395,7 @@ who_f2(it_0106_006759,0).
 who_f3(it_0106_006759,0).
 who_f4(it_0106_006759,0).
 typeofoutcome_updated(it_0106_006759,2).
+vaccine(it_0106_006759,0,3).
 patient(it_0106_006759,neg).
 
 %patient: it-0106-006772 index:2465
@@ -52954,6 +55419,7 @@ who_f2(it_0106_006772,0).
 who_f3(it_0106_006772,0).
 who_f4(it_0106_006772,0).
 typeofoutcome_updated(it_0106_006772,2).
+vaccine(it_0106_006772,0,3).
 patient(it_0106_006772,neg).
 
 %patient: it-0106-006806 index:2466
@@ -52973,6 +55439,7 @@ who_f2(it_0106_006806,0).
 who_f3(it_0106_006806,0).
 who_f4(it_0106_006806,0).
 typeofoutcome_updated(it_0106_006806,2).
+vaccine(it_0106_006806,0,3).
 patient(it_0106_006806,neg).
 
 %patient: it-0106-006813 index:2467
@@ -52989,6 +55456,7 @@ who_f2(it_0106_006813,0).
 who_f3(it_0106_006813,0).
 who_f4(it_0106_006813,0).
 typeofoutcome_updated(it_0106_006813,2).
+vaccine(it_0106_006813,0,3).
 patient(it_0106_006813,neg).
 
 %patient: it-0116-004371 index:2468
@@ -53011,6 +55479,7 @@ who_f2(it_0116_004371,0).
 who_f3(it_0116_004371,0).
 who_f4(it_0116_004371,0).
 typeofoutcome_updated(it_0116_004371,2).
+vaccine(it_0116_004371,0,3).
 patient(it_0116_004371,neg).
 
 %patient: it-0125-003974 index:2469
@@ -53032,6 +55501,7 @@ who_f2(it_0125_003974,0).
 who_f3(it_0125_003974,0).
 who_f4(it_0125_003974,1).
 typeofoutcome_updated(it_0125_003974,2).
+vaccine(it_0125_003974,0,3).
 patient(it_0125_003974,neg).
 
 %patient: it-0106-006744 index:2470
@@ -53052,6 +55522,7 @@ who_f2(it_0106_006744,0).
 who_f3(it_0106_006744,0).
 who_f4(it_0106_006744,1).
 typeofoutcome_updated(it_0106_006744,2).
+vaccine(it_0106_006744,0,3).
 patient(it_0106_006744,neg).
 
 %patient: it-0106-006745 index:2471
@@ -53070,6 +55541,7 @@ who_f2(it_0106_006745,0).
 who_f3(it_0106_006745,0).
 who_f4(it_0106_006745,1).
 typeofoutcome_updated(it_0106_006745,2).
+vaccine(it_0106_006745,0,3).
 patient(it_0106_006745,neg).
 
 %patient: it-0051-006324 index:2472
@@ -53090,6 +55562,7 @@ who_f2(it_0051_006324,0).
 who_f3(it_0051_006324,9).
 who_f4(it_0051_006324,1).
 typeofoutcome_updated(it_0051_006324,2).
+vaccine(it_0051_006324,0,3).
 patient(it_0051_006324,neg).
 
 %patient: it-0130-005303 index:2473
@@ -53110,6 +55583,7 @@ who_f2(it_0130_005303,0).
 who_f3(it_0130_005303,0).
 who_f4(it_0130_005303,2).
 typeofoutcome_updated(it_0130_005303,2).
+vaccine(it_0130_005303,1,3).
 patient(it_0130_005303,neg).
 
 %patient: it-0150-006034 index:2474
@@ -53131,6 +55605,7 @@ who_f2(it_0150_006034,0).
 who_f3(it_0150_006034,0).
 who_f4(it_0150_006034,0).
 typeofoutcome_updated(it_0150_006034,2).
+vaccine(it_0150_006034,0,3).
 patient(it_0150_006034,neg).
 
 %patient: it-0016-003681 index:2475
@@ -53158,6 +55633,7 @@ who_f2(it_0016_003681,0).
 who_f3(it_0016_003681,9).
 who_f4(it_0016_003681,0).
 typeofoutcome_updated(it_0016_003681,2).
+vaccine(it_0016_003681,0,2).
 patient(it_0016_003681,neg).
 
 %patient: it-0021-004251 index:2476
@@ -53181,6 +55657,7 @@ who_f2(it_0021_004251,0).
 who_f3(it_0021_004251,0).
 who_f4(it_0021_004251,0).
 typeofoutcome_updated(it_0021_004251,2).
+vaccine(it_0021_004251,0,3).
 patient(it_0021_004251,neg).
 
 %patient: it-0016-000555 index:2477
@@ -53210,6 +55687,7 @@ who_f2(it_0016_000555,0).
 who_f3(it_0016_000555,0).
 who_f4(it_0016_000555,0).
 typeofoutcome_updated(it_0016_000555,2).
+vaccine(it_0016_000555,0,3).
 patient(it_0016_000555,neg).
 
 %patient: it-0016-003678 index:2478
@@ -53235,6 +55713,7 @@ who_f2(it_0016_003678,0).
 who_f3(it_0016_003678,0).
 who_f4(it_0016_003678,0).
 typeofoutcome_updated(it_0016_003678,2).
+vaccine(it_0016_003678,0,3).
 patient(it_0016_003678,neg).
 
 %patient: it-0016-003659 index:2479
@@ -53262,6 +55741,7 @@ who_f2(it_0016_003659,0).
 who_f3(it_0016_003659,0).
 who_f4(it_0016_003659,0).
 typeofoutcome_updated(it_0016_003659,2).
+vaccine(it_0016_003659,0,3).
 patient(it_0016_003659,neg).
 
 %patient: it-0016-003670 index:2480
@@ -53289,6 +55769,7 @@ who_f2(it_0016_003670,0).
 who_f3(it_0016_003670,0).
 who_f4(it_0016_003670,0).
 typeofoutcome_updated(it_0016_003670,2).
+vaccine(it_0016_003670,0,3).
 patient(it_0016_003670,neg).
 
 %patient: it-0016-002430 index:2481
@@ -53319,6 +55800,7 @@ who_f2(it_0016_002430,0).
 who_f3(it_0016_002430,0).
 who_f4(it_0016_002430,0).
 typeofoutcome_updated(it_0016_002430,2).
+vaccine(it_0016_002430,0,3).
 patient(it_0016_002430,neg).
 
 %patient: it-0016-003679 index:2482
@@ -53344,6 +55826,7 @@ who_f2(it_0016_003679,0).
 who_f3(it_0016_003679,0).
 who_f4(it_0016_003679,9).
 typeofoutcome_updated(it_0016_003679,2).
+vaccine(it_0016_003679,0,3).
 patient(it_0016_003679,neg).
 
 %patient: it-0016-000366 index:2483
@@ -53373,6 +55856,7 @@ who_f2(it_0016_000366,0).
 who_f3(it_0016_000366,0).
 who_f4(it_0016_000366,0).
 typeofoutcome_updated(it_0016_000366,2).
+vaccine(it_0016_000366,0,3).
 patient(it_0016_000366,neg).
 
 %patient: it-0016-003668 index:2484
@@ -53400,6 +55884,7 @@ who_f2(it_0016_003668,0).
 who_f3(it_0016_003668,0).
 who_f4(it_0016_003668,0).
 typeofoutcome_updated(it_0016_003668,2).
+vaccine(it_0016_003668,0,3).
 patient(it_0016_003668,neg).
 
 %patient: it-0016-003682 index:2485
@@ -53429,6 +55914,7 @@ who_f2(it_0016_003682,0).
 who_f3(it_0016_003682,0).
 who_f4(it_0016_003682,0).
 typeofoutcome_updated(it_0016_003682,2).
+vaccine(it_0016_003682,0,3).
 patient(it_0016_003682,neg).
 
 %patient: it-0016-003658 index:2486
@@ -53458,6 +55944,7 @@ who_f2(it_0016_003658,0).
 who_f3(it_0016_003658,0).
 who_f4(it_0016_003658,0).
 typeofoutcome_updated(it_0016_003658,2).
+vaccine(it_0016_003658,0,3).
 patient(it_0016_003658,neg).
 
 %patient: it-0018-000306 index:2487
@@ -53486,6 +55973,7 @@ who_f2(it_0018_000306,0).
 who_f3(it_0018_000306,0).
 who_f4(it_0018_000306,0).
 typeofoutcome_updated(it_0018_000306,2).
+vaccine(it_0018_000306,0,3).
 patient(it_0018_000306,neg).
 
 %patient: it-0116-004529 index:2488
@@ -53506,6 +55994,7 @@ who_f2(it_0116_004529,9).
 who_f3(it_0116_004529,0).
 who_f4(it_0116_004529,0).
 typeofoutcome_updated(it_0116_004529,2).
+vaccine(it_0116_004529,0,3).
 patient(it_0116_004529,neg).
 
 %patient: it-0116-004560 index:2489
@@ -53526,6 +56015,7 @@ who_f2(it_0116_004560,0).
 who_f3(it_0116_004560,0).
 who_f4(it_0116_004560,0).
 typeofoutcome_updated(it_0116_004560,2).
+vaccine(it_0116_004560,0,3).
 patient(it_0116_004560,neg).
 
 %patient: it-0021-001769 index:2490
@@ -53555,6 +56045,7 @@ who_f2(it_0021_001769,0).
 who_f3(it_0021_001769,0).
 who_f4(it_0021_001769,0).
 typeofoutcome_updated(it_0021_001769,2).
+vaccine(it_0021_001769,0,3).
 patient(it_0021_001769,neg).
 
 %patient: it-0021-003847 index:2491
@@ -53584,6 +56075,7 @@ who_f2(it_0021_003847,0).
 who_f3(it_0021_003847,0).
 who_f4(it_0021_003847,0).
 typeofoutcome_updated(it_0021_003847,2).
+vaccine(it_0021_003847,0,3).
 patient(it_0021_003847,neg).
 
 %patient: it-0021-000287 index:2492
@@ -53614,6 +56106,7 @@ who_f2(it_0021_000287,0).
 who_f3(it_0021_000287,0).
 who_f4(it_0021_000287,0).
 typeofoutcome_updated(it_0021_000287,2).
+vaccine(it_0021_000287,0,3).
 patient(it_0021_000287,neg).
 
 %patient: it-0021-001893 index:2493
@@ -53642,6 +56135,7 @@ who_f2(it_0021_001893,0).
 who_f3(it_0021_001893,0).
 who_f4(it_0021_001893,0).
 typeofoutcome_updated(it_0021_001893,2).
+vaccine(it_0021_001893,0,3).
 patient(it_0021_001893,neg).
 
 %patient: it-0021-003834 index:2494
@@ -53667,6 +56161,7 @@ who_f2(it_0021_003834,0).
 who_f3(it_0021_003834,0).
 who_f4(it_0021_003834,0).
 typeofoutcome_updated(it_0021_003834,2).
+vaccine(it_0021_003834,0,3).
 patient(it_0021_003834,neg).
 
 %patient: it-0021-003835 index:2495
@@ -53695,6 +56190,7 @@ who_f2(it_0021_003835,0).
 who_f3(it_0021_003835,0).
 who_f4(it_0021_003835,9).
 typeofoutcome_updated(it_0021_003835,2).
+vaccine(it_0021_003835,0,3).
 patient(it_0021_003835,neg).
 
 %patient: it-0021-003844 index:2496
@@ -53726,6 +56222,7 @@ who_f2(it_0021_003844,0).
 who_f3(it_0021_003844,0).
 who_f4(it_0021_003844,0).
 typeofoutcome_updated(it_0021_003844,2).
+vaccine(it_0021_003844,0,3).
 patient(it_0021_003844,neg).
 
 %patient: it-0021-003849 index:2497
@@ -53755,6 +56252,7 @@ who_f2(it_0021_003849,0).
 who_f3(it_0021_003849,0).
 who_f4(it_0021_003849,0).
 typeofoutcome_updated(it_0021_003849,2).
+vaccine(it_0021_003849,0,3).
 patient(it_0021_003849,neg).
 
 %patient: it-0116-004880 index:2498
@@ -53776,6 +56274,7 @@ who_f2(it_0116_004880,0).
 who_f3(it_0116_004880,0).
 who_f4(it_0116_004880,0).
 typeofoutcome_updated(it_0116_004880,2).
+vaccine(it_0116_004880,0,3).
 patient(it_0116_004880,neg).
 
 %patient: it-0021-000239 index:2499
@@ -53805,6 +56304,7 @@ who_f2(it_0021_000239,0).
 who_f3(it_0021_000239,0).
 who_f4(it_0021_000239,0).
 typeofoutcome_updated(it_0021_000239,2).
+vaccine(it_0021_000239,0,3).
 patient(it_0021_000239,neg).
 
 %patient: it-0116-004526 index:2500
@@ -53829,6 +56329,7 @@ who_f2(it_0116_004526,0).
 who_f3(it_0116_004526,0).
 who_f4(it_0116_004526,0).
 typeofoutcome_updated(it_0116_004526,2).
+vaccine(it_0116_004526,0,3).
 patient(it_0116_004526,neg).
 
 %patient: it-0116-004571 index:2501
@@ -53849,6 +56350,7 @@ who_f2(it_0116_004571,0).
 who_f3(it_0116_004571,0).
 who_f4(it_0116_004571,0).
 typeofoutcome_updated(it_0116_004571,2).
+vaccine(it_0116_004571,0,3).
 patient(it_0116_004571,neg).
 
 %patient: it-0116-004881 index:2502
@@ -53873,6 +56375,7 @@ who_f2(it_0116_004881,0).
 who_f3(it_0116_004881,0).
 who_f4(it_0116_004881,0).
 typeofoutcome_updated(it_0116_004881,2).
+vaccine(it_0116_004881,0,3).
 patient(it_0116_004881,neg).
 
 %patient: it-0116-005095 index:2503
@@ -53897,6 +56400,7 @@ who_f2(it_0116_005095,0).
 who_f3(it_0116_005095,0).
 who_f4(it_0116_005095,0).
 typeofoutcome_updated(it_0116_005095,2).
+vaccine(it_0116_005095,0,3).
 patient(it_0116_005095,neg).
 
 %patient: it-0116-005346 index:2504
@@ -53920,6 +56424,7 @@ who_f2(it_0116_005346,0).
 who_f3(it_0116_005346,0).
 who_f4(it_0116_005346,0).
 typeofoutcome_updated(it_0116_005346,2).
+vaccine(it_0116_005346,0,3).
 patient(it_0116_005346,neg).
 
 %patient: it-0116-005366 index:2505
@@ -53944,6 +56449,7 @@ who_f2(it_0116_005366,0).
 who_f3(it_0116_005366,0).
 who_f4(it_0116_005366,0).
 typeofoutcome_updated(it_0116_005366,2).
+vaccine(it_0116_005366,0,3).
 patient(it_0116_005366,neg).
 
 %patient: it-0116-004593 index:2506
@@ -53963,6 +56469,7 @@ who_f2(it_0116_004593,0).
 who_f3(it_0116_004593,0).
 who_f4(it_0116_004593,0).
 typeofoutcome_updated(it_0116_004593,2).
+vaccine(it_0116_004593,0,3).
 patient(it_0116_004593,neg).
 
 %patient: it-0116-004650 index:2507
@@ -53986,6 +56493,7 @@ who_f2(it_0116_004650,0).
 who_f3(it_0116_004650,0).
 who_f4(it_0116_004650,0).
 typeofoutcome_updated(it_0116_004650,2).
+vaccine(it_0116_004650,0,3).
 patient(it_0116_004650,neg).
 
 %patient: it-0129-004747 index:2508
@@ -54007,6 +56515,7 @@ who_f2(it_0129_004747,9).
 who_f3(it_0129_004747,0).
 who_f4(it_0129_004747,1).
 typeofoutcome_updated(it_0129_004747,2).
+vaccine(it_0129_004747,0,2).
 patient(it_0129_004747,neg).
 
 %patient: it-0128-004714 index:2509
@@ -54032,6 +56541,7 @@ who_f2(it_0128_004714,9).
 who_f3(it_0128_004714,0).
 who_f4(it_0128_004714,1).
 typeofoutcome_updated(it_0128_004714,2).
+vaccine(it_0128_004714,0,2).
 patient(it_0128_004714,neg).
 
 %patient: it-0125-005725 index:2510
@@ -54054,6 +56564,7 @@ who_f2(it_0125_005725,0).
 who_f3(it_0125_005725,0).
 who_f4(it_0125_005725,0).
 typeofoutcome_updated(it_0125_005725,3).
+vaccine(it_0125_005725,0,3).
 patient(it_0125_005725,neg).
 
 %patient: it-0016-000358 index:2511
@@ -54077,6 +56588,7 @@ who_f2(it_0016_000358,0).
 who_f3(it_0016_000358,0).
 who_f4(it_0016_000358,0).
 typeofoutcome_updated(it_0016_000358,3).
+vaccine(it_0016_000358,0,3).
 patient(it_0016_000358,neg).
 
 %patient: it-0021-000688 index:2512
@@ -54103,6 +56615,7 @@ who_f2(it_0021_000688,0).
 who_f3(it_0021_000688,0).
 who_f4(it_0021_000688,0).
 typeofoutcome_updated(it_0021_000688,3).
+vaccine(it_0021_000688,0,3).
 patient(it_0021_000688,neg).
 
 %patient: it-0022-002416 index:2513
@@ -54123,6 +56636,7 @@ who_f2(it_0022_002416,0).
 who_f3(it_0022_002416,0).
 who_f4(it_0022_002416,0).
 typeofoutcome_updated(it_0022_002416,3).
+vaccine(it_0022_002416,1,3).
 patient(it_0022_002416,neg).
 
 %patient: it-0022-002417 index:2514
@@ -54143,6 +56657,7 @@ who_f2(it_0022_002417,0).
 who_f3(it_0022_002417,0).
 who_f4(it_0022_002417,0).
 typeofoutcome_updated(it_0022_002417,3).
+vaccine(it_0022_002417,0,3).
 patient(it_0022_002417,neg).
 
 %patient: it-0130-004724 index:2515
@@ -54161,6 +56676,7 @@ who_f2(it_0130_004724,0).
 who_f3(it_0130_004724,0).
 who_f4(it_0130_004724,0).
 typeofoutcome_updated(it_0130_004724,3).
+vaccine(it_0130_004724,1,3).
 patient(it_0130_004724,neg).
 
 %patient: it-0130-005397 index:2516
@@ -54183,6 +56699,7 @@ who_f2(it_0130_005397,0).
 who_f3(it_0130_005397,0).
 who_f4(it_0130_005397,0).
 typeofoutcome_updated(it_0130_005397,3).
+vaccine(it_0130_005397,1,3).
 patient(it_0130_005397,neg).
 
 %patient: it-0151-005813 index:2517
@@ -54204,6 +56721,7 @@ who_f2(it_0151_005813,0).
 who_f3(it_0151_005813,1).
 who_f4(it_0151_005813,0).
 typeofoutcome_updated(it_0151_005813,3).
+vaccine(it_0151_005813,0,3).
 patient(it_0151_005813,neg).
 
 %patient: it-0130-006535 index:2518
@@ -54224,6 +56742,7 @@ who_f2(it_0130_006535,0).
 who_f3(it_0130_006535,0).
 who_f4(it_0130_006535,0).
 typeofoutcome_updated(it_0130_006535,3).
+vaccine(it_0130_006535,1,3).
 patient(it_0130_006535,neg).
 
 %patient: it-0125-004265 index:2519
@@ -54246,6 +56765,7 @@ who_f2(it_0125_004265,0).
 who_f3(it_0125_004265,0).
 who_f4(it_0125_004265,0).
 typeofoutcome_updated(it_0125_004265,3).
+vaccine(it_0125_004265,0,3).
 patient(it_0125_004265,neg).
 
 %patient: it-0151-005766 index:2520
@@ -54266,6 +56786,7 @@ who_f2(it_0151_005766,0).
 who_f3(it_0151_005766,0).
 who_f4(it_0151_005766,0).
 typeofoutcome_updated(it_0151_005766,3).
+vaccine(it_0151_005766,0,2).
 patient(it_0151_005766,neg).
 
 %patient: it-0147-004823 index:2521
@@ -54287,6 +56808,7 @@ who_f2(it_0147_004823,0).
 who_f3(it_0147_004823,0).
 who_f4(it_0147_004823,0).
 typeofoutcome_updated(it_0147_004823,3).
+vaccine(it_0147_004823,0,2).
 patient(it_0147_004823,neg).
 
 %patient: it-0149-004354 index:2522
@@ -54307,6 +56829,7 @@ who_f2(it_0149_004354,0).
 who_f3(it_0149_004354,0).
 who_f4(it_0149_004354,0).
 typeofoutcome_updated(it_0149_004354,3).
+vaccine(it_0149_004354,0,2).
 patient(it_0149_004354,neg).
 
 %patient: it-0149-004369 index:2523
@@ -54329,6 +56852,7 @@ who_f2(it_0149_004369,0).
 who_f3(it_0149_004369,0).
 who_f4(it_0149_004369,0).
 typeofoutcome_updated(it_0149_004369,3).
+vaccine(it_0149_004369,0,3).
 patient(it_0149_004369,neg).
 
 %patient: it-0148-005828 index:2524
@@ -54350,6 +56874,7 @@ who_f2(it_0148_005828,0).
 who_f3(it_0148_005828,0).
 who_f4(it_0148_005828,9).
 typeofoutcome_updated(it_0148_005828,3).
+vaccine(it_0148_005828,0,3).
 patient(it_0148_005828,neg).
 
 %patient: it-0148-006009 index:2525
@@ -54371,6 +56896,7 @@ who_f2(it_0148_006009,0).
 who_f3(it_0148_006009,0).
 who_f4(it_0148_006009,0).
 typeofoutcome_updated(it_0148_006009,3).
+vaccine(it_0148_006009,0,2).
 patient(it_0148_006009,neg).
 
 %patient: it-0130-005383 index:2526
@@ -54393,6 +56919,7 @@ who_f2(it_0130_005383,0).
 who_f3(it_0130_005383,0).
 who_f4(it_0130_005383,1).
 typeofoutcome_updated(it_0130_005383,3).
+vaccine(it_0130_005383,1,3).
 patient(it_0130_005383,neg).
 
 %patient: it-0149-004279 index:2527
@@ -54414,6 +56941,7 @@ who_f2(it_0149_004279,0).
 who_f3(it_0149_004279,0).
 who_f4(it_0149_004279,1).
 typeofoutcome_updated(it_0149_004279,3).
+vaccine(it_0149_004279,0,3).
 patient(it_0149_004279,neg).
 
 %patient: it-0125-006130 index:2528
@@ -54439,6 +56967,7 @@ who_f2(it_0125_006130,0).
 who_f3(it_0125_006130,0).
 who_f4(it_0125_006130,1).
 typeofoutcome_updated(it_0125_006130,3).
+vaccine(it_0125_006130,0,3).
 patient(it_0125_006130,neg).
 
 %patient: it-0016-002498 index:2529
@@ -54467,6 +56996,7 @@ who_f2(it_0016_002498,0).
 who_f3(it_0016_002498,0).
 who_f4(it_0016_002498,0).
 typeofoutcome_updated(it_0016_002498,3).
+vaccine(it_0016_002498,0,3).
 patient(it_0016_002498,neg).
 
 %patient: it-0141-005815 index:2530
@@ -54489,6 +57019,7 @@ who_f2(it_0141_005815,0).
 who_f3(it_0141_005815,0).
 who_f4(it_0141_005815,0).
 typeofoutcome_updated(it_0141_005815,3).
+vaccine(it_0141_005815,0,3).
 patient(it_0141_005815,neg).
 
 %patient: it-0016-003669 index:2531
@@ -54519,6 +57050,7 @@ who_f2(it_0016_003669,0).
 who_f3(it_0016_003669,0).
 who_f4(it_0016_003669,0).
 typeofoutcome_updated(it_0016_003669,3).
+vaccine(it_0016_003669,0,3).
 patient(it_0016_003669,neg).
 
 %patient: it-0021-003841 index:2532
@@ -54546,6 +57078,7 @@ who_f2(it_0021_003841,0).
 who_f3(it_0021_003841,0).
 who_f4(it_0021_003841,0).
 typeofoutcome_updated(it_0021_003841,3).
+vaccine(it_0021_003841,0,3).
 patient(it_0021_003841,neg).
 
 %patient: it-0021-003845 index:2533
@@ -54573,6 +57106,7 @@ who_f2(it_0021_003845,0).
 who_f3(it_0021_003845,0).
 who_f4(it_0021_003845,0).
 typeofoutcome_updated(it_0021_003845,3).
+vaccine(it_0021_003845,0,3).
 patient(it_0021_003845,neg).
 
 %patient: it-0155-004177 index:2534
@@ -54587,6 +57121,7 @@ who_f2(it_0155_004177,0).
 who_f3(it_0155_004177,9).
 who_f4(it_0155_004177,9).
 typeofoutcome_updated(it_0155_004177,4).
+vaccine(it_0155_004177,0,2).
 patient(it_0155_004177,neg).
 
 %patient: it-0152-004998 index:2535
@@ -54606,6 +57141,7 @@ who_f2(it_0152_004998,0).
 who_f3(it_0152_004998,0).
 who_f4(it_0152_004998,9).
 typeofoutcome_updated(it_0152_004998,4).
+vaccine(it_0152_004998,0,2).
 patient(it_0152_004998,neg).
 
 %patient: it-0017-003022 index:2536
@@ -54624,6 +57160,7 @@ who_f2(it_0017_003022,0).
 who_f3(it_0017_003022,9).
 who_f4(it_0017_003022,9).
 typeofoutcome_updated(it_0017_003022,4).
+vaccine(it_0017_003022,0,2).
 patient(it_0017_003022,neg).
 
 %patient: it-0016-003680 index:2537
@@ -54648,6 +57185,7 @@ who_f2(it_0016_003680,9).
 who_f3(it_0016_003680,9).
 who_f4(it_0016_003680,9).
 typeofoutcome_updated(it_0016_003680,4).
+vaccine(it_0016_003680,0,1).
 patient(it_0016_003680,neg).
 
 %patient: it-0021-003848 index:2538
@@ -54674,6 +57212,7 @@ who_f2(it_0021_003848,9).
 who_f3(it_0021_003848,9).
 who_f4(it_0021_003848,9).
 typeofoutcome_updated(it_0021_003848,4).
+vaccine(it_0021_003848,0,2).
 patient(it_0021_003848,neg).
 
 %patient: it-0042-003629 index:2539
@@ -54699,6 +57238,7 @@ who_f2(it_0042_003629,9).
 who_f3(it_0042_003629,9).
 who_f4(it_0042_003629,9).
 typeofoutcome_updated(it_0042_003629,4).
+vaccine(it_0042_003629,0,1).
 patient(it_0042_003629,neg).
 
 %patient: it-0042-005207 index:2540
@@ -54718,6 +57258,7 @@ who_f2(it_0042_005207,9).
 who_f3(it_0042_005207,9).
 who_f4(it_0042_005207,9).
 typeofoutcome_updated(it_0042_005207,4).
+vaccine(it_0042_005207,0,1).
 patient(it_0042_005207,neg).
 
 %patient: it-0044-003667 index:2541
@@ -54743,6 +57284,7 @@ who_f2(it_0044_003667,9).
 who_f3(it_0044_003667,9).
 who_f4(it_0044_003667,9).
 typeofoutcome_updated(it_0044_003667,4).
+vaccine(it_0044_003667,0,2).
 patient(it_0044_003667,neg).
 
 %patient: it-0143-006187 index:2542
@@ -54761,6 +57303,7 @@ who_f2(it_0143_006187,9).
 who_f3(it_0143_006187,9).
 who_f4(it_0143_006187,9).
 typeofoutcome_updated(it_0143_006187,4).
+vaccine(it_0143_006187,0,1).
 patient(it_0143_006187,neg).
 
 %patient: it-0147-004391 index:2543
@@ -54782,6 +57325,7 @@ who_f2(it_0147_004391,9).
 who_f3(it_0147_004391,9).
 who_f4(it_0147_004391,9).
 typeofoutcome_updated(it_0147_004391,4).
+vaccine(it_0147_004391,0,2).
 patient(it_0147_004391,neg).
 
 %patient: it-0052-003861 index:2544
@@ -54800,6 +57344,7 @@ who_f2(it_0052_003861,9).
 who_f3(it_0052_003861,9).
 who_f4(it_0052_003861,9).
 typeofoutcome_updated(it_0052_003861,4).
+vaccine(it_0052_003861,0,2).
 patient(it_0052_003861,neg).
 
 %patient: it-0102-002000 index:2545
@@ -54820,6 +57365,7 @@ who_f2(it_0102_002000,9).
 who_f3(it_0102_002000,9).
 who_f4(it_0102_002000,9).
 typeofoutcome_updated(it_0102_002000,4).
+vaccine(it_0102_002000,0,2).
 patient(it_0102_002000,neg).
 
 %patient: it-0127-006847 index:2546
@@ -54840,6 +57386,7 @@ who_f2(it_0127_006847,9).
 who_f3(it_0127_006847,9).
 who_f4(it_0127_006847,9).
 typeofoutcome_updated(it_0127_006847,4).
+vaccine(it_0127_006847,0,2).
 patient(it_0127_006847,neg).
 
 %patient: it-0139-006729 index:2547
@@ -54861,6 +57408,7 @@ who_f2(it_0139_006729,9).
 who_f3(it_0139_006729,9).
 who_f4(it_0139_006729,9).
 typeofoutcome_updated(it_0139_006729,4).
+vaccine(it_0139_006729,0,2).
 patient(it_0139_006729,neg).
 
 %patient: it-0132-005627 index:2548
@@ -54885,6 +57433,7 @@ who_f2(it_0132_005627,9).
 who_f3(it_0132_005627,9).
 who_f4(it_0132_005627,9).
 typeofoutcome_updated(it_0132_005627,4).
+vaccine(it_0132_005627,0,2).
 patient(it_0132_005627,neg).
 
 %patient: it-0132-003858 index:2549
@@ -54907,6 +57456,7 @@ who_f2(it_0132_003858,9).
 who_f3(it_0132_003858,9).
 who_f4(it_0132_003858,9).
 typeofoutcome_updated(it_0132_003858,4).
+vaccine(it_0132_003858,0,2).
 patient(it_0132_003858,neg).
 
 %patient: it-0052-003689 index:2550
@@ -54929,6 +57479,7 @@ who_f2(it_0052_003689,0).
 who_f3(it_0052_003689,9).
 who_f4(it_0052_003689,9).
 typeofoutcome_updated(it_0052_003689,4).
+vaccine(it_0052_003689,0,2).
 patient(it_0052_003689,neg).
 
 %patient: it-0139-006730 index:2551
@@ -54952,6 +57503,7 @@ who_f2(it_0139_006730,0).
 who_f3(it_0139_006730,9).
 who_f4(it_0139_006730,9).
 typeofoutcome_updated(it_0139_006730,4).
+vaccine(it_0139_006730,0,2).
 patient(it_0139_006730,neg).
 
 %patient: it-0139-006731 index:2552
@@ -54972,6 +57524,7 @@ who_f2(it_0139_006731,0).
 who_f3(it_0139_006731,9).
 who_f4(it_0139_006731,9).
 typeofoutcome_updated(it_0139_006731,4).
+vaccine(it_0139_006731,0,2).
 patient(it_0139_006731,neg).
 
 %patient: it-0017-003752 index:2553
@@ -54996,6 +57549,7 @@ who_f2(it_0017_003752,0).
 who_f3(it_0017_003752,9).
 who_f4(it_0017_003752,9).
 typeofoutcome_updated(it_0017_003752,4).
+vaccine(it_0017_003752,0,2).
 patient(it_0017_003752,neg).
 
 %patient: it-0020-003796 index:2554
@@ -55017,6 +57571,7 @@ who_f2(it_0020_003796,0).
 who_f3(it_0020_003796,9).
 who_f4(it_0020_003796,9).
 typeofoutcome_updated(it_0020_003796,4).
+vaccine(it_0020_003796,0,2).
 patient(it_0020_003796,neg).
 
 %patient: it-0043-003739 index:2555
@@ -55036,6 +57591,7 @@ who_f2(it_0043_003739,0).
 who_f3(it_0043_003739,9).
 who_f4(it_0043_003739,9).
 typeofoutcome_updated(it_0043_003739,4).
+vaccine(it_0043_003739,0,2).
 patient(it_0043_003739,neg).
 
 %patient: it-0043-003825 index:2556
@@ -55056,6 +57612,7 @@ who_f2(it_0043_003825,0).
 who_f3(it_0043_003825,9).
 who_f4(it_0043_003825,9).
 typeofoutcome_updated(it_0043_003825,4).
+vaccine(it_0043_003825,0,2).
 patient(it_0043_003825,neg).
 
 %patient: it-0052-003692 index:2557
@@ -55084,6 +57641,7 @@ who_f2(it_0052_003692,0).
 who_f3(it_0052_003692,9).
 who_f4(it_0052_003692,9).
 typeofoutcome_updated(it_0052_003692,4).
+vaccine(it_0052_003692,0,2).
 patient(it_0052_003692,neg).
 
 %patient: it-0143-005332 index:2558
@@ -55104,6 +57662,7 @@ who_f2(it_0143_005332,0).
 who_f3(it_0143_005332,9).
 who_f4(it_0143_005332,9).
 typeofoutcome_updated(it_0143_005332,4).
+vaccine(it_0143_005332,0,1).
 patient(it_0143_005332,neg).
 
 %patient: it-0143-006186 index:2559
@@ -55128,6 +57687,7 @@ who_f2(it_0143_006186,0).
 who_f3(it_0143_006186,9).
 who_f4(it_0143_006186,9).
 typeofoutcome_updated(it_0143_006186,4).
+vaccine(it_0143_006186,0,1).
 patient(it_0143_006186,neg).
 
 %patient: it-0144-006865 index:2560
@@ -55148,6 +57708,7 @@ who_f2(it_0144_006865,0).
 who_f3(it_0144_006865,9).
 who_f4(it_0144_006865,9).
 typeofoutcome_updated(it_0144_006865,4).
+vaccine(it_0144_006865,0,2).
 patient(it_0144_006865,neg).
 
 %patient: it-0050-003686 index:2561
@@ -55175,6 +57736,7 @@ who_f2(it_0050_003686,1).
 who_f3(it_0050_003686,9).
 who_f4(it_0050_003686,9).
 typeofoutcome_updated(it_0050_003686,4).
+vaccine(it_0050_003686,0,1).
 patient(it_0050_003686,neg).
 
 %patient: it-0143-006188 index:2562
@@ -55194,6 +57756,7 @@ who_f2(it_0143_006188,0).
 who_f3(it_0143_006188,9).
 who_f4(it_0143_006188,9).
 typeofoutcome_updated(it_0143_006188,4).
+vaccine(it_0143_006188,0,1).
 patient(it_0143_006188,neg).
 
 %patient: it-0045-003684 index:2563
@@ -55215,6 +57778,7 @@ who_f2(it_0045_003684,0).
 who_f3(it_0045_003684,9).
 who_f4(it_0045_003684,9).
 typeofoutcome_updated(it_0045_003684,4).
+vaccine(it_0045_003684,0,1).
 patient(it_0045_003684,neg).
 
 %patient: it-0045-005296 index:2564
@@ -55236,6 +57800,7 @@ who_f2(it_0045_005296,0).
 who_f3(it_0045_005296,9).
 who_f4(it_0045_005296,9).
 typeofoutcome_updated(it_0045_005296,4).
+vaccine(it_0045_005296,0,2).
 patient(it_0045_005296,neg).
 
 %patient: it-0050-005789 index:2565
@@ -55256,6 +57821,7 @@ who_f2(it_0050_005789,0).
 who_f3(it_0050_005789,9).
 who_f4(it_0050_005789,9).
 typeofoutcome_updated(it_0050_005789,4).
+vaccine(it_0050_005789,0,1).
 patient(it_0050_005789,neg).
 
 %patient: it-0052-005773 index:2566
@@ -55280,6 +57846,7 @@ who_f2(it_0052_005773,1).
 who_f3(it_0052_005773,9).
 who_f4(it_0052_005773,9).
 typeofoutcome_updated(it_0052_005773,4).
+vaccine(it_0052_005773,0,1).
 patient(it_0052_005773,neg).
 
 %patient: it-0143-004068 index:2567
@@ -55306,6 +57873,7 @@ who_f2(it_0143_004068,0).
 who_f3(it_0143_004068,9).
 who_f4(it_0143_004068,9).
 typeofoutcome_updated(it_0143_004068,4).
+vaccine(it_0143_004068,0,1).
 patient(it_0143_004068,neg).
 
 %patient: it-0143-004262 index:2568
@@ -55333,6 +57901,7 @@ who_f2(it_0143_004262,0).
 who_f3(it_0143_004262,9).
 who_f4(it_0143_004262,9).
 typeofoutcome_updated(it_0143_004262,4).
+vaccine(it_0143_004262,0,1).
 patient(it_0143_004262,neg).
 
 %patient: it-0143-004266 index:2569
@@ -55358,6 +57927,7 @@ who_f2(it_0143_004266,0).
 who_f3(it_0143_004266,9).
 who_f4(it_0143_004266,9).
 typeofoutcome_updated(it_0143_004266,4).
+vaccine(it_0143_004266,0,2).
 patient(it_0143_004266,neg).
 
 %patient: it-0143-006205 index:2570
@@ -55375,6 +57945,7 @@ who_f2(it_0143_006205,0).
 who_f3(it_0143_006205,9).
 who_f4(it_0143_006205,9).
 typeofoutcome_updated(it_0143_006205,4).
+vaccine(it_0143_006205,0,1).
 patient(it_0143_006205,neg).
 
 %patient: it-0144-004573 index:2571
@@ -55401,6 +57972,7 @@ who_f2(it_0144_004573,0).
 who_f3(it_0144_004573,9).
 who_f4(it_0144_004573,9).
 typeofoutcome_updated(it_0144_004573,4).
+vaccine(it_0144_004573,0,2).
 patient(it_0144_004573,neg).
 
 %patient: it-0155-004206 index:2572
@@ -55419,6 +57991,7 @@ who_f2(it_0155_004206,0).
 who_f3(it_0155_004206,9).
 who_f4(it_0155_004206,9).
 typeofoutcome_updated(it_0155_004206,4).
+vaccine(it_0155_004206,0,2).
 patient(it_0155_004206,neg).
 
 %patient: it-0052-003854 index:2573
@@ -55439,6 +58012,7 @@ who_f2(it_0052_003854,0).
 who_f3(it_0052_003854,9).
 who_f4(it_0052_003854,9).
 typeofoutcome_updated(it_0052_003854,4).
+vaccine(it_0052_003854,0,2).
 patient(it_0052_003854,neg).
 
 %patient: it-0132-005941 index:2574
@@ -55466,6 +58040,7 @@ who_f2(it_0132_005941,0).
 who_f3(it_0132_005941,9).
 who_f4(it_0132_005941,9).
 typeofoutcome_updated(it_0132_005941,4).
+vaccine(it_0132_005941,0,2).
 patient(it_0132_005941,neg).
 
 %patient: it-0155-004213 index:2575
@@ -55487,6 +58062,7 @@ who_f2(it_0155_004213,0).
 who_f3(it_0155_004213,9).
 who_f4(it_0155_004213,9).
 typeofoutcome_updated(it_0155_004213,4).
+vaccine(it_0155_004213,0,2).
 patient(it_0155_004213,neg).
 
 %patient: it-0132-004280 index:2576
@@ -55511,6 +58087,7 @@ who_f2(it_0132_004280,0).
 who_f3(it_0132_004280,9).
 who_f4(it_0132_004280,9).
 typeofoutcome_updated(it_0132_004280,4).
+vaccine(it_0132_004280,0,2).
 patient(it_0132_004280,neg).
 
 %patient: it-0158-006078 index:2577
@@ -55534,6 +58111,7 @@ who_f2(it_0158_006078,0).
 who_f3(it_0158_006078,9).
 who_f4(it_0158_006078,9).
 typeofoutcome_updated(it_0158_006078,4).
+vaccine(it_0158_006078,0,1).
 patient(it_0158_006078,neg).
 
 %patient: it-0045-003683 index:2578
@@ -55561,6 +58139,7 @@ who_f2(it_0045_003683,0).
 who_f3(it_0045_003683,9).
 who_f4(it_0045_003683,9).
 typeofoutcome_updated(it_0045_003683,4).
+vaccine(it_0045_003683,0,3).
 patient(it_0045_003683,neg).
 
 %patient: it-0139-006728 index:2579
@@ -55581,6 +58160,7 @@ who_f2(it_0139_006728,0).
 who_f3(it_0139_006728,0).
 who_f4(it_0139_006728,9).
 typeofoutcome_updated(it_0139_006728,4).
+vaccine(it_0139_006728,0,2).
 patient(it_0139_006728,neg).
 
 %patient: it-0139-006740 index:2580
@@ -55601,6 +58181,7 @@ who_f2(it_0139_006740,0).
 who_f3(it_0139_006740,0).
 who_f4(it_0139_006740,9).
 typeofoutcome_updated(it_0139_006740,4).
+vaccine(it_0139_006740,0,2).
 patient(it_0139_006740,neg).
 
 %patient: it-0021-003836 index:2581
@@ -55624,6 +58205,7 @@ who_f2(it_0021_003836,0).
 who_f3(it_0021_003836,0).
 who_f4(it_0021_003836,9).
 typeofoutcome_updated(it_0021_003836,4).
+vaccine(it_0021_003836,0,2).
 patient(it_0021_003836,neg).
 
 %patient: it-0144-006864 index:2582
@@ -55646,6 +58228,7 @@ who_f2(it_0144_006864,0).
 who_f3(it_0144_006864,0).
 who_f4(it_0144_006864,9).
 typeofoutcome_updated(it_0144_006864,4).
+vaccine(it_0144_006864,0,2).
 patient(it_0144_006864,neg).
 
 %patient: it-0169-006102 index:2583
@@ -55665,6 +58248,7 @@ who_f2(it_0169_006102,0).
 who_f3(it_0169_006102,0).
 who_f4(it_0169_006102,9).
 typeofoutcome_updated(it_0169_006102,4).
+vaccine(it_0169_006102,0,2).
 patient(it_0169_006102,neg).
 
 %patient: it-0171-006217 index:2584
@@ -55687,6 +58271,7 @@ who_f2(it_0171_006217,0).
 who_f3(it_0171_006217,0).
 who_f4(it_0171_006217,9).
 typeofoutcome_updated(it_0171_006217,4).
+vaccine(it_0171_006217,0,2).
 patient(it_0171_006217,neg).
 
 %patient: it-0021-004587 index:2585
@@ -55715,6 +58300,7 @@ who_f2(it_0021_004587,0).
 who_f3(it_0021_004587,0).
 who_f4(it_0021_004587,9).
 typeofoutcome_updated(it_0021_004587,4).
+vaccine(it_0021_004587,0,1).
 patient(it_0021_004587,neg).
 
 %patient: it-0045-005290 index:2586
@@ -55737,6 +58323,7 @@ who_f2(it_0045_005290,0).
 who_f3(it_0045_005290,0).
 who_f4(it_0045_005290,9).
 typeofoutcome_updated(it_0045_005290,4).
+vaccine(it_0045_005290,0,2).
 patient(it_0045_005290,neg).
 
 %patient: it-0045-005293 index:2587
@@ -55761,6 +58348,7 @@ who_f2(it_0045_005293,9).
 who_f3(it_0045_005293,0).
 who_f4(it_0045_005293,9).
 typeofoutcome_updated(it_0045_005293,4).
+vaccine(it_0045_005293,0,2).
 patient(it_0045_005293,neg).
 
 %patient: it-0053-005302 index:2588
@@ -55785,6 +58373,7 @@ who_f2(it_0053_005302,0).
 who_f3(it_0053_005302,0).
 who_f4(it_0053_005302,9).
 typeofoutcome_updated(it_0053_005302,4).
+vaccine(it_0053_005302,0,2).
 patient(it_0053_005302,neg).
 
 %patient: it-0123-005692 index:2589
@@ -55803,6 +58392,7 @@ who_f2(it_0123_005692,0).
 who_f3(it_0123_005692,0).
 who_f4(it_0123_005692,9).
 typeofoutcome_updated(it_0123_005692,4).
+vaccine(it_0123_005692,0,2).
 patient(it_0123_005692,neg).
 
 %patient: it-0045-005297 index:2590
@@ -55821,6 +58411,7 @@ who_f2(it_0045_005297,9).
 who_f3(it_0045_005297,0).
 who_f4(it_0045_005297,9).
 typeofoutcome_updated(it_0045_005297,4).
+vaccine(it_0045_005297,0,1).
 patient(it_0045_005297,neg).
 
 %patient: it-0143-005319 index:2591
@@ -55843,6 +58434,7 @@ who_f2(it_0143_005319,0).
 who_f3(it_0143_005319,0).
 who_f4(it_0143_005319,9).
 typeofoutcome_updated(it_0143_005319,4).
+vaccine(it_0143_005319,0,1).
 patient(it_0143_005319,neg).
 
 %patient: it-0158-005410 index:2592
@@ -55862,6 +58454,7 @@ who_f2(it_0158_005410,0).
 who_f3(it_0158_005410,0).
 who_f4(it_0158_005410,9).
 typeofoutcome_updated(it_0158_005410,4).
+vaccine(it_0158_005410,0,2).
 patient(it_0158_005410,neg).
 
 %patient: it-0148-005581 index:2593
@@ -55881,6 +58474,7 @@ who_f2(it_0148_005581,9).
 who_f3(it_0148_005581,0).
 who_f4(it_0148_005581,9).
 typeofoutcome_updated(it_0148_005581,4).
+vaccine(it_0148_005581,0,2).
 patient(it_0148_005581,neg).
 
 %patient: it-0143-004057 index:2594
@@ -55911,6 +58505,7 @@ who_f2(it_0143_004057,0).
 who_f3(it_0143_004057,0).
 who_f4(it_0143_004057,9).
 typeofoutcome_updated(it_0143_004057,4).
+vaccine(it_0143_004057,0,2).
 patient(it_0143_004057,neg).
 
 %patient: it-0132-005596 index:2595
@@ -55937,6 +58532,7 @@ who_f2(it_0132_005596,0).
 who_f3(it_0132_005596,0).
 who_f4(it_0132_005596,9).
 typeofoutcome_updated(it_0132_005596,4).
+vaccine(it_0132_005596,0,2).
 patient(it_0132_005596,neg).
 
 %patient: it-0020-003779 index:2596
@@ -55964,6 +58560,7 @@ who_f2(it_0020_003779,0).
 who_f3(it_0020_003779,0).
 who_f4(it_0020_003779,9).
 typeofoutcome_updated(it_0020_003779,4).
+vaccine(it_0020_003779,0,3).
 patient(it_0020_003779,neg).
 
 %patient: it-0018-000286 index:2597
@@ -55989,6 +58586,7 @@ who_f2(it_0018_000286,0).
 who_f3(it_0018_000286,0).
 who_f4(it_0018_000286,9).
 typeofoutcome_updated(it_0018_000286,4).
+vaccine(it_0018_000286,0,3).
 patient(it_0018_000286,neg).
 
 %patient: it-0020-003784 index:2598
@@ -56017,6 +58615,7 @@ who_f2(it_0020_003784,0).
 who_f3(it_0020_003784,0).
 who_f4(it_0020_003784,9).
 typeofoutcome_updated(it_0020_003784,4).
+vaccine(it_0020_003784,0,3).
 patient(it_0020_003784,neg).
 
 %patient: it-0053-004250 index:2599
@@ -56037,6 +58636,7 @@ who_f2(it_0053_004250,0).
 who_f3(it_0053_004250,0).
 who_f4(it_0053_004250,9).
 typeofoutcome_updated(it_0053_004250,4).
+vaccine(it_0053_004250,0,3).
 patient(it_0053_004250,neg).
 
 %patient: it-0164-006323 index:2600
@@ -56060,6 +58660,7 @@ who_f2(it_0164_006323,0).
 who_f3(it_0164_006323,0).
 who_f4(it_0164_006323,9).
 typeofoutcome_updated(it_0164_006323,4).
+vaccine(it_0164_006323,0,3).
 patient(it_0164_006323,neg).
 
 %patient: it-0169-006585 index:2601
@@ -56082,6 +58683,7 @@ who_f2(it_0169_006585,0).
 who_f3(it_0169_006585,0).
 who_f4(it_0169_006585,9).
 typeofoutcome_updated(it_0169_006585,4).
+vaccine(it_0169_006585,0,3).
 patient(it_0169_006585,neg).
 
 %patient: it-0147-004389 index:2602
@@ -56100,6 +58702,7 @@ who_f2(it_0147_004389,0).
 who_f3(it_0147_004389,0).
 who_f4(it_0147_004389,9).
 typeofoutcome_updated(it_0147_004389,4).
+vaccine(it_0147_004389,0,3).
 patient(it_0147_004389,neg).
 
 %patient: it-0061-004221 index:2603
@@ -56120,6 +58723,7 @@ who_f2(it_0061_004221,0).
 who_f3(it_0061_004221,0).
 who_f4(it_0061_004221,0).
 typeofoutcome_updated(it_0061_004221,4).
+vaccine(it_0061_004221,0,2).
 patient(it_0061_004221,neg).
 
 %patient: it-0061-004287 index:2604
@@ -56141,6 +58745,7 @@ who_f2(it_0061_004287,0).
 who_f3(it_0061_004287,0).
 who_f4(it_0061_004287,0).
 typeofoutcome_updated(it_0061_004287,4).
+vaccine(it_0061_004287,0,2).
 patient(it_0061_004287,neg).
 
 %patient: it-0061-004285 index:2605
@@ -56163,6 +58768,7 @@ who_f2(it_0061_004285,0).
 who_f3(it_0061_004285,0).
 who_f4(it_0061_004285,0).
 typeofoutcome_updated(it_0061_004285,4).
+vaccine(it_0061_004285,0,2).
 patient(it_0061_004285,neg).
 
 %patient: it-0021-003837 index:2606
@@ -56187,6 +58793,7 @@ who_f2(it_0021_003837,0).
 who_f3(it_0021_003837,0).
 who_f4(it_0021_003837,0).
 typeofoutcome_updated(it_0021_003837,4).
+vaccine(it_0021_003837,0,3).
 patient(it_0021_003837,neg).
 
 %patient: it-0141-006169 index:2607
@@ -56210,6 +58817,7 @@ who_f2(it_0141_006169,0).
 who_f3(it_0141_006169,0).
 who_f4(it_0141_006169,0).
 typeofoutcome_updated(it_0141_006169,4).
+vaccine(it_0141_006169,0,3).
 patient(it_0141_006169,neg).
 
 %patient: it-0166-005017 index:2608
@@ -56236,6 +58844,7 @@ who_f2(it_0166_005017,0).
 who_f3(it_0166_005017,0).
 who_f4(it_0166_005017,0).
 typeofoutcome_updated(it_0166_005017,4).
+vaccine(it_0166_005017,1,3).
 patient(it_0166_005017,neg).
 
 %patient: it-0116-004704 index:2609
@@ -56257,6 +58866,7 @@ who_f2(it_0116_004704,0).
 who_f3(it_0116_004704,0).
 who_f4(it_0116_004704,0).
 typeofoutcome_updated(it_0116_004704,4).
+vaccine(it_0116_004704,0,3).
 patient(it_0116_004704,neg).
 
 %patient: it-0116-005150 index:2610
@@ -56280,6 +58890,7 @@ who_f2(it_0116_005150,0).
 who_f3(it_0116_005150,0).
 who_f4(it_0116_005150,0).
 typeofoutcome_updated(it_0116_005150,4).
+vaccine(it_0116_005150,0,3).
 patient(it_0116_005150,neg).
 
 %patient: it-0116-005188 index:2611
@@ -56303,6 +58914,7 @@ who_f2(it_0116_005188,0).
 who_f3(it_0116_005188,0).
 who_f4(it_0116_005188,0).
 typeofoutcome_updated(it_0116_005188,4).
+vaccine(it_0116_005188,0,3).
 patient(it_0116_005188,neg).
 
 %patient: it-0052-003860 index:2612
@@ -56322,6 +58934,7 @@ who_f2(it_0052_003860,1).
 who_f3(it_0052_003860,9).
 who_f4(it_0052_003860,9).
 typeofoutcome_updated(it_0052_003860,4).
+vaccine(it_0052_003860,0,2).
 patient(it_0052_003860,neg).
 
 %patient: it-0017-005473 index:2613
@@ -56340,6 +58953,7 @@ who_f2(it_0017_005473,9).
 who_f3(it_0017_005473,9).
 who_f4(it_0017_005473,9).
 typeofoutcome_updated(it_0017_005473,5).
+vaccine(it_0017_005473,0,2).
 patient(it_0017_005473,neg).
 
 %patient: it-0042-003634 index:2614
@@ -56363,6 +58977,7 @@ who_f2(it_0042_003634,9).
 who_f3(it_0042_003634,9).
 who_f4(it_0042_003634,9).
 typeofoutcome_updated(it_0042_003634,5).
+vaccine(it_0042_003634,0,1).
 patient(it_0042_003634,neg).
 
 %patient: it-0042-003635 index:2615
@@ -56388,6 +59003,7 @@ who_f2(it_0042_003635,9).
 who_f3(it_0042_003635,9).
 who_f4(it_0042_003635,9).
 typeofoutcome_updated(it_0042_003635,5).
+vaccine(it_0042_003635,0,1).
 patient(it_0042_003635,neg).
 
 %patient: it-0167-006823 index:2616
@@ -56408,6 +59024,7 @@ who_f2(it_0167_006823,9).
 who_f3(it_0167_006823,9).
 who_f4(it_0167_006823,9).
 typeofoutcome_updated(it_0167_006823,5).
+vaccine(it_0167_006823,1,1).
 patient(it_0167_006823,neg).
 
 %patient: it-0042-003637 index:2617
@@ -56430,6 +59047,7 @@ who_f2(it_0042_003637,9).
 who_f3(it_0042_003637,9).
 who_f4(it_0042_003637,9).
 typeofoutcome_updated(it_0042_003637,5).
+vaccine(it_0042_003637,0,2).
 patient(it_0042_003637,neg).
 
 %patient: it-0017-003892 index:2618
@@ -56451,6 +59069,7 @@ who_f2(it_0017_003892,9).
 who_f3(it_0017_003892,9).
 who_f4(it_0017_003892,9).
 typeofoutcome_updated(it_0017_003892,5).
+vaccine(it_0017_003892,0,2).
 patient(it_0017_003892,neg).
 
 %patient: it-0017-003757 index:2619
@@ -56477,6 +59096,7 @@ who_f2(it_0017_003757,9).
 who_f3(it_0017_003757,9).
 who_f4(it_0017_003757,9).
 typeofoutcome_updated(it_0017_003757,5).
+vaccine(it_0017_003757,0,2).
 patient(it_0017_003757,neg).
 
 %patient: it-0166-005019 index:2620
@@ -56503,6 +59123,7 @@ who_f2(it_0166_005019,9).
 who_f3(it_0166_005019,9).
 who_f4(it_0166_005019,9).
 typeofoutcome_updated(it_0166_005019,5).
+vaccine(it_0166_005019,1,2).
 patient(it_0166_005019,neg).
 
 %patient: it-0171-006349 index:2621
@@ -56521,6 +59142,7 @@ who_f2(it_0171_006349,9).
 who_f3(it_0171_006349,9).
 who_f4(it_0171_006349,9).
 typeofoutcome_updated(it_0171_006349,5).
+vaccine(it_0171_006349,1,2).
 patient(it_0171_006349,neg).
 
 %patient: it-0017-003751 index:2622
@@ -56542,6 +59164,7 @@ who_f2(it_0017_003751,0).
 who_f3(it_0017_003751,9).
 who_f4(it_0017_003751,9).
 typeofoutcome_updated(it_0017_003751,5).
+vaccine(it_0017_003751,0,2).
 patient(it_0017_003751,neg).
 
 %patient: it-0017-003754 index:2623
@@ -56568,6 +59191,7 @@ who_f2(it_0017_003754,0).
 who_f3(it_0017_003754,9).
 who_f4(it_0017_003754,9).
 typeofoutcome_updated(it_0017_003754,5).
+vaccine(it_0017_003754,0,2).
 patient(it_0017_003754,neg).
 
 %patient: it-0042-003630 index:2624
@@ -56594,6 +59218,7 @@ who_f2(it_0042_003630,1).
 who_f3(it_0042_003630,9).
 who_f4(it_0042_003630,9).
 typeofoutcome_updated(it_0042_003630,5).
+vaccine(it_0042_003630,0,1).
 patient(it_0042_003630,neg).
 
 %patient: it-0042-005208 index:2625
@@ -56617,6 +59242,7 @@ who_f2(it_0042_005208,0).
 who_f3(it_0042_005208,9).
 who_f4(it_0042_005208,9).
 typeofoutcome_updated(it_0042_005208,5).
+vaccine(it_0042_005208,0,1).
 patient(it_0042_005208,neg).
 
 %patient: it-0126-005118 index:2626
@@ -56643,6 +59269,7 @@ who_f2(it_0126_005118,0).
 who_f3(it_0126_005118,9).
 who_f4(it_0126_005118,9).
 typeofoutcome_updated(it_0126_005118,5).
+vaccine(it_0126_005118,0,2).
 patient(it_0126_005118,neg).
 
 %patient: it-0166-005114 index:2627
@@ -56663,6 +59290,7 @@ who_f2(it_0166_005114,0).
 who_f3(it_0166_005114,9).
 who_f4(it_0166_005114,9).
 typeofoutcome_updated(it_0166_005114,5).
+vaccine(it_0166_005114,1,2).
 patient(it_0166_005114,neg).
 
 %patient: it-0042-005426 index:2628
@@ -56686,6 +59314,7 @@ who_f2(it_0042_005426,0).
 who_f3(it_0042_005426,9).
 who_f4(it_0042_005426,9).
 typeofoutcome_updated(it_0042_005426,5).
+vaccine(it_0042_005426,0,2).
 patient(it_0042_005426,neg).
 
 %patient: it-0017-004828 index:2629
@@ -56707,6 +59336,7 @@ who_f2(it_0017_004828,0).
 who_f3(it_0017_004828,9).
 who_f4(it_0017_004828,9).
 typeofoutcome_updated(it_0017_004828,5).
+vaccine(it_0017_004828,0,2).
 patient(it_0017_004828,neg).
 
 %patient: it-0109-006019 index:2630
@@ -56731,6 +59361,7 @@ who_f2(it_0109_006019,0).
 who_f3(it_0109_006019,9).
 who_f4(it_0109_006019,9).
 typeofoutcome_updated(it_0109_006019,5).
+vaccine(it_0109_006019,0,2).
 patient(it_0109_006019,neg).
 
 %patient: it-0148-006011 index:2631
@@ -56751,6 +59382,7 @@ who_f2(it_0148_006011,0).
 who_f3(it_0148_006011,0).
 who_f4(it_0148_006011,9).
 typeofoutcome_updated(it_0148_006011,5).
+vaccine(it_0148_006011,0,2).
 patient(it_0148_006011,neg).
 
 %patient: it-0126-006606 index:2632
@@ -56774,6 +59406,7 @@ who_f2(it_0126_006606,9).
 who_f3(it_0126_006606,0).
 who_f4(it_0126_006606,9).
 typeofoutcome_updated(it_0126_006606,5).
+vaccine(it_0126_006606,0,2).
 patient(it_0126_006606,neg).
 
 %patient: it-0051-006660 index:2633
@@ -56796,6 +59429,7 @@ who_f2(it_0051_006660,0).
 who_f3(it_0051_006660,0).
 who_f4(it_0051_006660,9).
 typeofoutcome_updated(it_0051_006660,5).
+vaccine(it_0051_006660,0,2).
 patient(it_0051_006660,neg).
 
 %patient: it-0166-005032 index:2634
@@ -56820,6 +59454,7 @@ who_f2(it_0166_005032,0).
 who_f3(it_0166_005032,0).
 who_f4(it_0166_005032,9).
 typeofoutcome_updated(it_0166_005032,5).
+vaccine(it_0166_005032,1,1).
 patient(it_0166_005032,neg).
 
 %patient: it-0166-005027 index:2635
@@ -56842,6 +59477,7 @@ who_f2(it_0166_005027,0).
 who_f3(it_0166_005027,0).
 who_f4(it_0166_005027,9).
 typeofoutcome_updated(it_0166_005027,5).
+vaccine(it_0166_005027,1,2).
 patient(it_0166_005027,neg).
 
 %patient: it-0166-005039 index:2636
@@ -56866,6 +59502,7 @@ who_f2(it_0166_005039,0).
 who_f3(it_0166_005039,0).
 who_f4(it_0166_005039,9).
 typeofoutcome_updated(it_0166_005039,5).
+vaccine(it_0166_005039,1,2).
 patient(it_0166_005039,neg).
 
 %patient: it-0166-005100 index:2637
@@ -56884,6 +59521,7 @@ who_f2(it_0166_005100,0).
 who_f3(it_0166_005100,0).
 who_f4(it_0166_005100,9).
 typeofoutcome_updated(it_0166_005100,5).
+vaccine(it_0166_005100,1,2).
 patient(it_0166_005100,neg).
 
 %patient: it-0166-005101 index:2638
@@ -56906,6 +59544,7 @@ who_f2(it_0166_005101,0).
 who_f3(it_0166_005101,0).
 who_f4(it_0166_005101,9).
 typeofoutcome_updated(it_0166_005101,5).
+vaccine(it_0166_005101,1,2).
 patient(it_0166_005101,neg).
 
 %patient: it-0166-005104 index:2639
@@ -56932,6 +59571,7 @@ who_f2(it_0166_005104,0).
 who_f3(it_0166_005104,0).
 who_f4(it_0166_005104,9).
 typeofoutcome_updated(it_0166_005104,5).
+vaccine(it_0166_005104,1,2).
 patient(it_0166_005104,neg).
 
 %patient: it-0166-005107 index:2640
@@ -56954,6 +59594,7 @@ who_f2(it_0166_005107,0).
 who_f3(it_0166_005107,0).
 who_f4(it_0166_005107,9).
 typeofoutcome_updated(it_0166_005107,5).
+vaccine(it_0166_005107,1,2).
 patient(it_0166_005107,neg).
 
 %patient: it-0166-005112 index:2641
@@ -56977,6 +59618,7 @@ who_f2(it_0166_005112,0).
 who_f3(it_0166_005112,0).
 who_f4(it_0166_005112,9).
 typeofoutcome_updated(it_0166_005112,5).
+vaccine(it_0166_005112,1,2).
 patient(it_0166_005112,neg).
 
 %patient: it-0148-005827 index:2642
@@ -56995,6 +59637,7 @@ who_f2(it_0148_005827,9).
 who_f3(it_0148_005827,0).
 who_f4(it_0148_005827,9).
 typeofoutcome_updated(it_0148_005827,5).
+vaccine(it_0148_005827,0,2).
 patient(it_0148_005827,neg).
 
 %patient: it-0017-004365 index:2643
@@ -57020,6 +59663,7 @@ who_f2(it_0017_004365,0).
 who_f3(it_0017_004365,0).
 who_f4(it_0017_004365,9).
 typeofoutcome_updated(it_0017_004365,5).
+vaccine(it_0017_004365,0,3).
 patient(it_0017_004365,neg).
 
 %patient: it-0166-004955 index:2644
@@ -57044,6 +59688,7 @@ who_f2(it_0166_004955,0).
 who_f3(it_0166_004955,0).
 who_f4(it_0166_004955,9).
 typeofoutcome_updated(it_0166_004955,5).
+vaccine(it_0166_004955,1,3).
 patient(it_0166_004955,neg).
 
 %patient: it-0166-004934 index:2645
@@ -57072,6 +59717,7 @@ who_f2(it_0166_004934,0).
 who_f3(it_0166_004934,0).
 who_f4(it_0166_004934,9).
 typeofoutcome_updated(it_0166_004934,5).
+vaccine(it_0166_004934,1,3).
 patient(it_0166_004934,neg).
 
 %patient: it-0166-005111 index:2646
@@ -57096,6 +59742,7 @@ who_f2(it_0166_005111,0).
 who_f3(it_0166_005111,0).
 who_f4(it_0166_005111,9).
 typeofoutcome_updated(it_0166_005111,5).
+vaccine(it_0166_005111,1,3).
 patient(it_0166_005111,neg).
 
 %patient: it-0106-006799 index:2647
@@ -57115,6 +59762,7 @@ who_f2(it_0106_006799,0).
 who_f3(it_0106_006799,0).
 who_f4(it_0106_006799,0).
 typeofoutcome_updated(it_0106_006799,5).
+vaccine(it_0106_006799,0,2).
 patient(it_0106_006799,neg).
 
 %patient: it-0111-005876 index:2648
@@ -57128,6 +59776,7 @@ who_f2(it_0111_005876,9).
 who_f3(it_0111_005876,9).
 who_f4(it_0111_005876,9).
 typeofoutcome_updated(it_0111_005876,9).
+vaccine(it_0111_005876,0,2).
 patient(it_0111_005876,neg).
 
 %patient: it-0165-005573 index:2649
@@ -57141,6 +59790,7 @@ who_f2(it_0165_005573,9).
 who_f3(it_0165_005573,9).
 who_f4(it_0165_005573,9).
 typeofoutcome_updated(it_0165_005573,9).
+vaccine(it_0165_005573,0,2).
 patient(it_0165_005573,neg).
 
 %patient: it-0110-006618 index:2650
@@ -57151,6 +59801,7 @@ pa3mcat(it_0110_006618,9).
 numberdoses(it_0110_006618,1).
 who_f1(it_0110_006618,9).
 typeofoutcome_updated(it_0110_006618,9).
+vaccine(it_0110_006618,9,1).
 patient(it_0110_006618,neg).
 
 %patient: it-0110-006619 index:2651
@@ -57161,6 +59812,7 @@ pa3mcat(it_0110_006619,9).
 numberdoses(it_0110_006619,1).
 who_f1(it_0110_006619,9).
 typeofoutcome_updated(it_0110_006619,9).
+vaccine(it_0110_006619,9,1).
 patient(it_0110_006619,neg).
 
 %patient: it-0110-006620 index:2652
@@ -57171,6 +59823,7 @@ pa3mcat(it_0110_006620,2).
 numberdoses(it_0110_006620,1).
 who_f1(it_0110_006620,9).
 typeofoutcome_updated(it_0110_006620,9).
+vaccine(it_0110_006620,9,1).
 patient(it_0110_006620,neg).
 
 %patient: it-0154-004788 index:2653
@@ -57182,6 +59835,7 @@ numberdoses(it_0154_004788,2).
 antis_0(it_0154_004788,4.81).
 who_f1(it_0154_004788,9).
 typeofoutcome_updated(it_0154_004788,9).
+vaccine(it_0154_004788,0,2).
 patient(it_0154_004788,neg).
 
 %patient: it-0155-006572 index:2654
@@ -57191,6 +59845,7 @@ pa3mcat(it_0155_006572,9).
 numberdoses(it_0155_006572,1).
 who_f1(it_0155_006572,9).
 typeofoutcome_updated(it_0155_006572,9).
+vaccine(it_0155_006572,9,1).
 patient(it_0155_006572,neg).
 
 %patient: it-0152-005047 index:2655
@@ -57204,6 +59859,7 @@ who_f2(it_0152_005047,9).
 who_f3(it_0152_005047,9).
 who_f4(it_0152_005047,9).
 typeofoutcome_updated(it_0152_005047,9).
+vaccine(it_0152_005047,0,1).
 patient(it_0152_005047,neg).
 
 %patient: it-0152-005181 index:2656
@@ -57217,6 +59873,7 @@ who_f2(it_0152_005181,9).
 who_f3(it_0152_005181,9).
 who_f4(it_0152_005181,9).
 typeofoutcome_updated(it_0152_005181,9).
+vaccine(it_0152_005181,0,1).
 patient(it_0152_005181,neg).
 
 %patient: it-0152-005455 index:2657
@@ -57230,6 +59887,7 @@ who_f2(it_0152_005455,9).
 who_f3(it_0152_005455,9).
 who_f4(it_0152_005455,9).
 typeofoutcome_updated(it_0152_005455,9).
+vaccine(it_0152_005455,0,1).
 patient(it_0152_005455,neg).
 
 %patient: it-0152-005462 index:2658
@@ -57243,6 +59901,7 @@ who_f2(it_0152_005462,9).
 who_f3(it_0152_005462,9).
 who_f4(it_0152_005462,9).
 typeofoutcome_updated(it_0152_005462,9).
+vaccine(it_0152_005462,0,2).
 patient(it_0152_005462,neg).
 
 %patient: it-0152-005154 index:2659
@@ -57256,6 +59915,7 @@ who_f2(it_0152_005154,9).
 who_f3(it_0152_005154,9).
 who_f4(it_0152_005154,9).
 typeofoutcome_updated(it_0152_005154,9).
+vaccine(it_0152_005154,0,1).
 patient(it_0152_005154,neg).
 
 %patient: it-0152-005540 index:2660
@@ -57269,6 +59929,7 @@ who_f2(it_0152_005540,9).
 who_f3(it_0152_005540,9).
 who_f4(it_0152_005540,9).
 typeofoutcome_updated(it_0152_005540,9).
+vaccine(it_0152_005540,0,1).
 patient(it_0152_005540,neg).
 
 %patient: it-0152-005142 index:2661
@@ -57282,6 +59943,7 @@ who_f2(it_0152_005142,9).
 who_f3(it_0152_005142,9).
 who_f4(it_0152_005142,9).
 typeofoutcome_updated(it_0152_005142,9).
+vaccine(it_0152_005142,0,2).
 patient(it_0152_005142,neg).
 
 %patient: it-0152-005446 index:2662
@@ -57295,6 +59957,7 @@ who_f2(it_0152_005446,9).
 who_f3(it_0152_005446,9).
 who_f4(it_0152_005446,9).
 typeofoutcome_updated(it_0152_005446,9).
+vaccine(it_0152_005446,0,2).
 patient(it_0152_005446,neg).
 
 %patient: it-0152-005478 index:2663
@@ -57308,6 +59971,7 @@ who_f2(it_0152_005478,9).
 who_f3(it_0152_005478,9).
 who_f4(it_0152_005478,9).
 typeofoutcome_updated(it_0152_005478,9).
+vaccine(it_0152_005478,0,2).
 patient(it_0152_005478,neg).
 
 %patient: it-0152-004906 index:2664
@@ -57321,6 +59985,7 @@ who_f2(it_0152_004906,0).
 who_f3(it_0152_004906,9).
 who_f4(it_0152_004906,9).
 typeofoutcome_updated(it_0152_004906,9).
+vaccine(it_0152_004906,0,2).
 patient(it_0152_004906,neg).
 
 %patient: it-0152-005060 index:2665
@@ -57334,6 +59999,7 @@ who_f2(it_0152_005060,0).
 who_f3(it_0152_005060,9).
 who_f4(it_0152_005060,9).
 typeofoutcome_updated(it_0152_005060,9).
+vaccine(it_0152_005060,0,2).
 patient(it_0152_005060,neg).
 
 %patient: it-0152-005071 index:2666
@@ -57347,6 +60013,7 @@ who_f2(it_0152_005071,0).
 who_f3(it_0152_005071,9).
 who_f4(it_0152_005071,9).
 typeofoutcome_updated(it_0152_005071,9).
+vaccine(it_0152_005071,0,2).
 patient(it_0152_005071,neg).
 
 %patient: it-0152-005074 index:2667
@@ -57360,6 +60027,7 @@ who_f2(it_0152_005074,0).
 who_f3(it_0152_005074,9).
 who_f4(it_0152_005074,9).
 typeofoutcome_updated(it_0152_005074,9).
+vaccine(it_0152_005074,0,2).
 patient(it_0152_005074,neg).
 
 %patient: it-0152-005077 index:2668
@@ -57373,6 +60041,7 @@ who_f2(it_0152_005077,0).
 who_f3(it_0152_005077,9).
 who_f4(it_0152_005077,9).
 typeofoutcome_updated(it_0152_005077,9).
+vaccine(it_0152_005077,0,2).
 patient(it_0152_005077,neg).
 
 %patient: it-0152-005143 index:2669
@@ -57386,6 +60055,7 @@ who_f2(it_0152_005143,0).
 who_f3(it_0152_005143,9).
 who_f4(it_0152_005143,9).
 typeofoutcome_updated(it_0152_005143,9).
+vaccine(it_0152_005143,0,2).
 patient(it_0152_005143,neg).
 
 %patient: it-0152-005179 index:2670
@@ -57399,6 +60069,7 @@ who_f2(it_0152_005179,0).
 who_f3(it_0152_005179,9).
 who_f4(it_0152_005179,9).
 typeofoutcome_updated(it_0152_005179,9).
+vaccine(it_0152_005179,0,2).
 patient(it_0152_005179,neg).
 
 %patient: it-0152-005439 index:2671
@@ -57412,6 +60083,7 @@ who_f2(it_0152_005439,0).
 who_f3(it_0152_005439,9).
 who_f4(it_0152_005439,9).
 typeofoutcome_updated(it_0152_005439,9).
+vaccine(it_0152_005439,0,2).
 patient(it_0152_005439,neg).
 
 %patient: it-0152-005451 index:2672
@@ -57425,6 +60097,7 @@ who_f2(it_0152_005451,0).
 who_f3(it_0152_005451,9).
 who_f4(it_0152_005451,9).
 typeofoutcome_updated(it_0152_005451,9).
+vaccine(it_0152_005451,0,2).
 patient(it_0152_005451,neg).
 
 %patient: it-0152-005458 index:2673
@@ -57438,6 +60111,7 @@ who_f2(it_0152_005458,0).
 who_f3(it_0152_005458,9).
 who_f4(it_0152_005458,9).
 typeofoutcome_updated(it_0152_005458,9).
+vaccine(it_0152_005458,0,2).
 patient(it_0152_005458,neg).
 
 %patient: it-0152-005546 index:2674
@@ -57451,6 +60125,7 @@ who_f2(it_0152_005546,0).
 who_f3(it_0152_005546,9).
 who_f4(it_0152_005546,9).
 typeofoutcome_updated(it_0152_005546,9).
+vaccine(it_0152_005546,0,2).
 patient(it_0152_005546,neg).
 
 %patient: it-0152-004892 index:2675
@@ -57465,6 +60140,7 @@ who_f2(it_0152_004892,0).
 who_f3(it_0152_004892,9).
 who_f4(it_0152_004892,9).
 typeofoutcome_updated(it_0152_004892,9).
+vaccine(it_0152_004892,0,1).
 patient(it_0152_004892,neg).
 
 %patient: it-0152-005499 index:2676
@@ -57478,6 +60154,7 @@ who_f2(it_0152_005499,0).
 who_f3(it_0152_005499,0).
 who_f4(it_0152_005499,9).
 typeofoutcome_updated(it_0152_005499,9).
+vaccine(it_0152_005499,0,2).
 patient(it_0152_005499,neg).
 
 %patient: it-0152-005538 index:2677
@@ -57491,6 +60168,7 @@ who_f2(it_0152_005538,0).
 who_f3(it_0152_005538,0).
 who_f4(it_0152_005538,9).
 typeofoutcome_updated(it_0152_005538,9).
+vaccine(it_0152_005538,0,2).
 patient(it_0152_005538,neg).
 
 %patient: it-0155-004175 index:2678
@@ -57505,6 +60183,7 @@ who_f2(it_0155_004175,0).
 who_f3(it_0155_004175,0).
 who_f4(it_0155_004175,9).
 typeofoutcome_updated(it_0155_004175,9).
+vaccine(it_0155_004175,0,2).
 patient(it_0155_004175,neg).
 
 %patient: it-0155-006579 index:2679
@@ -57518,6 +60197,7 @@ who_f2(it_0155_006579,0).
 who_f3(it_0155_006579,0).
 who_f4(it_0155_006579,9).
 typeofoutcome_updated(it_0155_006579,9).
+vaccine(it_0155_006579,0,2).
 patient(it_0155_006579,neg).
 
 %patient: it-0108-006546 index:2680
@@ -57531,6 +60211,7 @@ who_f2(it_0108_006546,0).
 who_f3(it_0108_006546,0).
 who_f4(it_0108_006546,0).
 typeofoutcome_updated(it_0108_006546,9).
+vaccine(it_0108_006546,0,2).
 patient(it_0108_006546,neg).
 
 %patient: it-0155-004166 index:2681
@@ -57544,6 +60225,7 @@ who_f2(it_0155_004166,0).
 who_f3(it_0155_004166,0).
 who_f4(it_0155_004166,0).
 typeofoutcome_updated(it_0155_004166,9).
+vaccine(it_0155_004166,0,2).
 patient(it_0155_004166,neg).
 
 %patient: it-0155-004168 index:2682
@@ -57558,6 +60240,7 @@ who_f2(it_0155_004168,0).
 who_f3(it_0155_004168,0).
 who_f4(it_0155_004168,0).
 typeofoutcome_updated(it_0155_004168,9).
+vaccine(it_0155_004168,0,2).
 patient(it_0155_004168,neg).
 
 %patient: it-0155-004169 index:2683
@@ -57571,6 +60254,7 @@ who_f2(it_0155_004169,0).
 who_f3(it_0155_004169,0).
 who_f4(it_0155_004169,0).
 typeofoutcome_updated(it_0155_004169,9).
+vaccine(it_0155_004169,0,2).
 patient(it_0155_004169,neg).
 
 %patient: it-0155-004171 index:2684
@@ -57585,6 +60269,7 @@ who_f2(it_0155_004171,0).
 who_f3(it_0155_004171,0).
 who_f4(it_0155_004171,0).
 typeofoutcome_updated(it_0155_004171,9).
+vaccine(it_0155_004171,0,2).
 patient(it_0155_004171,neg).
 
 %patient: it-0155-004174 index:2685
@@ -57599,6 +60284,7 @@ who_f2(it_0155_004174,0).
 who_f3(it_0155_004174,0).
 who_f4(it_0155_004174,0).
 typeofoutcome_updated(it_0155_004174,9).
+vaccine(it_0155_004174,0,2).
 patient(it_0155_004174,neg).
 
 %patient: it-0155-004176 index:2686
@@ -57612,6 +60298,7 @@ who_f2(it_0155_004176,0).
 who_f3(it_0155_004176,0).
 who_f4(it_0155_004176,0).
 typeofoutcome_updated(it_0155_004176,9).
+vaccine(it_0155_004176,0,2).
 patient(it_0155_004176,neg).
 
 %patient: it-0155-004178 index:2687
@@ -57625,6 +60312,7 @@ who_f2(it_0155_004178,0).
 who_f3(it_0155_004178,0).
 who_f4(it_0155_004178,0).
 typeofoutcome_updated(it_0155_004178,9).
+vaccine(it_0155_004178,0,2).
 patient(it_0155_004178,neg).
 
 %patient: it-0155-004182 index:2688
@@ -57638,6 +60326,7 @@ who_f2(it_0155_004182,0).
 who_f3(it_0155_004182,0).
 who_f4(it_0155_004182,0).
 typeofoutcome_updated(it_0155_004182,9).
+vaccine(it_0155_004182,0,2).
 patient(it_0155_004182,neg).
 
 %patient: it-0155-004185 index:2689
@@ -57651,6 +60340,7 @@ who_f2(it_0155_004185,0).
 who_f3(it_0155_004185,0).
 who_f4(it_0155_004185,0).
 typeofoutcome_updated(it_0155_004185,9).
+vaccine(it_0155_004185,0,2).
 patient(it_0155_004185,neg).
 
 %patient: it-0155-004189 index:2690
@@ -57664,6 +60354,7 @@ who_f2(it_0155_004189,0).
 who_f3(it_0155_004189,0).
 who_f4(it_0155_004189,0).
 typeofoutcome_updated(it_0155_004189,9).
+vaccine(it_0155_004189,0,2).
 patient(it_0155_004189,neg).
 
 %patient: it-0155-004191 index:2691
@@ -57677,6 +60368,7 @@ who_f2(it_0155_004191,0).
 who_f3(it_0155_004191,0).
 who_f4(it_0155_004191,0).
 typeofoutcome_updated(it_0155_004191,9).
+vaccine(it_0155_004191,0,2).
 patient(it_0155_004191,neg).
 
 %patient: it-0155-004195 index:2692
@@ -57691,6 +60383,7 @@ who_f2(it_0155_004195,0).
 who_f3(it_0155_004195,0).
 who_f4(it_0155_004195,0).
 typeofoutcome_updated(it_0155_004195,9).
+vaccine(it_0155_004195,0,2).
 patient(it_0155_004195,neg).
 
 %patient: it-0155-004197 index:2693
@@ -57704,6 +60397,7 @@ who_f2(it_0155_004197,0).
 who_f3(it_0155_004197,0).
 who_f4(it_0155_004197,0).
 typeofoutcome_updated(it_0155_004197,9).
+vaccine(it_0155_004197,0,2).
 patient(it_0155_004197,neg).
 
 %patient: it-0155-004167 index:2694
@@ -57717,6 +60411,7 @@ who_f2(it_0155_004167,0).
 who_f3(it_0155_004167,0).
 who_f4(it_0155_004167,0).
 typeofoutcome_updated(it_0155_004167,9).
+vaccine(it_0155_004167,0,2).
 patient(it_0155_004167,neg).
 
 %patient: it-0155-004170 index:2695
@@ -57731,6 +60426,7 @@ who_f2(it_0155_004170,0).
 who_f3(it_0155_004170,0).
 who_f4(it_0155_004170,0).
 typeofoutcome_updated(it_0155_004170,9).
+vaccine(it_0155_004170,0,2).
 patient(it_0155_004170,neg).
 
 %patient: it-0155-004173 index:2696
@@ -57744,6 +60440,7 @@ who_f2(it_0155_004173,0).
 who_f3(it_0155_004173,0).
 who_f4(it_0155_004173,0).
 typeofoutcome_updated(it_0155_004173,9).
+vaccine(it_0155_004173,0,2).
 patient(it_0155_004173,neg).
 
 %patient: it-0155-004183 index:2697
@@ -57757,6 +60454,7 @@ who_f2(it_0155_004183,0).
 who_f3(it_0155_004183,0).
 who_f4(it_0155_004183,0).
 typeofoutcome_updated(it_0155_004183,9).
+vaccine(it_0155_004183,0,2).
 patient(it_0155_004183,neg).
 
 %patient: it-0155-004186 index:2698
@@ -57771,6 +60469,7 @@ who_f2(it_0155_004186,0).
 who_f3(it_0155_004186,0).
 who_f4(it_0155_004186,0).
 typeofoutcome_updated(it_0155_004186,9).
+vaccine(it_0155_004186,0,2).
 patient(it_0155_004186,neg).
 
 %patient: it-0155-004192 index:2699
@@ -57784,6 +60483,7 @@ who_f2(it_0155_004192,0).
 who_f3(it_0155_004192,0).
 who_f4(it_0155_004192,0).
 typeofoutcome_updated(it_0155_004192,9).
+vaccine(it_0155_004192,0,2).
 patient(it_0155_004192,neg).
 
 %patient: it-0155-004193 index:2700
@@ -57797,6 +60497,7 @@ who_f2(it_0155_004193,0).
 who_f3(it_0155_004193,0).
 who_f4(it_0155_004193,0).
 typeofoutcome_updated(it_0155_004193,9).
+vaccine(it_0155_004193,0,2).
 patient(it_0155_004193,neg).
 
 %patient: it-0155-004179 index:2701
@@ -57810,6 +60511,7 @@ who_f2(it_0155_004179,0).
 who_f3(it_0155_004179,0).
 who_f4(it_0155_004179,0).
 typeofoutcome_updated(it_0155_004179,9).
+vaccine(it_0155_004179,0,2).
 patient(it_0155_004179,neg).
 
 %patient: it-0155-004180 index:2702
@@ -57823,6 +60525,7 @@ who_f2(it_0155_004180,0).
 who_f3(it_0155_004180,0).
 who_f4(it_0155_004180,0).
 typeofoutcome_updated(it_0155_004180,9).
+vaccine(it_0155_004180,0,2).
 patient(it_0155_004180,neg).
 
 %patient: it-0155-004181 index:2703
@@ -57836,6 +60539,7 @@ who_f2(it_0155_004181,0).
 who_f3(it_0155_004181,0).
 who_f4(it_0155_004181,0).
 typeofoutcome_updated(it_0155_004181,9).
+vaccine(it_0155_004181,0,2).
 patient(it_0155_004181,neg).
 
 %patient: it-0155-004184 index:2704
@@ -57850,6 +60554,7 @@ who_f2(it_0155_004184,0).
 who_f3(it_0155_004184,0).
 who_f4(it_0155_004184,0).
 typeofoutcome_updated(it_0155_004184,9).
+vaccine(it_0155_004184,0,2).
 patient(it_0155_004184,neg).
 
 %patient: it-0155-004187 index:2705
@@ -57863,6 +60568,7 @@ who_f2(it_0155_004187,0).
 who_f3(it_0155_004187,0).
 who_f4(it_0155_004187,0).
 typeofoutcome_updated(it_0155_004187,9).
+vaccine(it_0155_004187,0,2).
 patient(it_0155_004187,neg).
 
 %patient: it-0155-004196 index:2706
@@ -57876,6 +60582,7 @@ who_f2(it_0155_004196,0).
 who_f3(it_0155_004196,0).
 who_f4(it_0155_004196,0).
 typeofoutcome_updated(it_0155_004196,9).
+vaccine(it_0155_004196,0,2).
 patient(it_0155_004196,neg).
 
 %patient: it-0155-004198 index:2707
@@ -57889,6 +60596,7 @@ who_f2(it_0155_004198,0).
 who_f3(it_0155_004198,0).
 who_f4(it_0155_004198,0).
 typeofoutcome_updated(it_0155_004198,9).
+vaccine(it_0155_004198,0,2).
 patient(it_0155_004198,neg).
 
 %patient: it-0155-004188 index:2708
@@ -57902,6 +60610,7 @@ who_f2(it_0155_004188,0).
 who_f3(it_0155_004188,0).
 who_f4(it_0155_004188,0).
 typeofoutcome_updated(it_0155_004188,9).
+vaccine(it_0155_004188,0,2).
 patient(it_0155_004188,neg).
 
 %patient: it-0155-004200 index:2709
@@ -57915,6 +60624,7 @@ who_f2(it_0155_004200,0).
 who_f3(it_0155_004200,0).
 who_f4(it_0155_004200,0).
 typeofoutcome_updated(it_0155_004200,9).
+vaccine(it_0155_004200,0,2).
 patient(it_0155_004200,neg).
 
 %patient: it-0155-004201 index:2710
@@ -57928,6 +60638,7 @@ who_f2(it_0155_004201,0).
 who_f3(it_0155_004201,0).
 who_f4(it_0155_004201,0).
 typeofoutcome_updated(it_0155_004201,9).
+vaccine(it_0155_004201,0,3).
 patient(it_0155_004201,neg).
 
 %patient: it-0155-004202 index:2711
@@ -57940,6 +60651,7 @@ who_f2(it_0155_004202,0).
 who_f3(it_0155_004202,0).
 who_f4(it_0155_004202,0).
 typeofoutcome_updated(it_0155_004202,9).
+vaccine(it_0155_004202,0,2).
 patient(it_0155_004202,neg).
 
 %patient: it-0143-004259 index:2712
@@ -57956,6 +60668,7 @@ urol(it_0143_004259).
 mmsumrev(it_0143_004259,4).
 who_f1(it_0143_004259,9).
 typeofoutcome_updated(it_0143_004259,9).
+vaccine(it_0143_004259,9,1).
 patient(it_0143_004259,neg).
 
 %patient: it-0152-005466 index:2713
@@ -57976,6 +60689,7 @@ deltaantis26(it_0152_005466,-1375.0).
 deltaantis612(it_0152_005466,39675.0).
 who_f1(it_0152_005466,9).
 typeofoutcome_updated(it_0152_005466,9).
+vaccine(it_0152_005466,0,2).
 patient(it_0152_005466,neg).
 
 %patient: it-0128-004706 index:2714
@@ -57992,6 +60706,7 @@ who_f2(it_0128_004706,9).
 who_f3(it_0128_004706,9).
 who_f4(it_0128_004706,9).
 typeofoutcome_updated(it_0128_004706,9).
+vaccine(it_0128_004706,0,2).
 patient(it_0128_004706,neg).
 
 %patient: it-0128-004709 index:2715
@@ -58011,6 +60726,7 @@ who_f2(it_0128_004709,0).
 who_f3(it_0128_004709,9).
 who_f4(it_0128_004709,9).
 typeofoutcome_updated(it_0128_004709,9).
+vaccine(it_0128_004709,0,2).
 patient(it_0128_004709,neg).
 
 %patient: it-0152-005156 index:2716
@@ -58029,6 +60745,7 @@ who_f2(it_0152_005156,0).
 who_f3(it_0152_005156,0).
 who_f4(it_0152_005156,9).
 typeofoutcome_updated(it_0152_005156,9).
+vaccine(it_0152_005156,0,2).
 patient(it_0152_005156,neg).
 
 %patient: it-0152-005441 index:2717
@@ -58047,6 +60764,7 @@ who_f2(it_0152_005441,0).
 who_f3(it_0152_005441,0).
 who_f4(it_0152_005441,9).
 typeofoutcome_updated(it_0152_005441,9).
+vaccine(it_0152_005441,0,2).
 patient(it_0152_005441,neg).
 
 %patient: it-0152-005467 index:2718
@@ -58074,6 +60792,7 @@ who_f2(it_0152_005467,0).
 who_f3(it_0152_005467,0).
 who_f4(it_0152_005467,9).
 typeofoutcome_updated(it_0152_005467,9).
+vaccine(it_0152_005467,0,2).
 patient(it_0152_005467,neg).
 
 %patient: it-0152-005469 index:2719
@@ -58093,6 +60812,7 @@ who_f2(it_0152_005469,0).
 who_f3(it_0152_005469,0).
 who_f4(it_0152_005469,9).
 typeofoutcome_updated(it_0152_005469,9).
+vaccine(it_0152_005469,0,1).
 patient(it_0152_005469,neg).
 
 %patient: it-0152-005471 index:2720
@@ -58117,6 +60837,7 @@ who_f2(it_0152_005471,0).
 who_f3(it_0152_005471,0).
 who_f4(it_0152_005471,9).
 typeofoutcome_updated(it_0152_005471,9).
+vaccine(it_0152_005471,0,2).
 patient(it_0152_005471,neg).
 
 %patient: it-0152-005468 index:2721
@@ -58141,6 +60862,7 @@ who_f2(it_0152_005468,0).
 who_f3(it_0152_005468,0).
 who_f4(it_0152_005468,9).
 typeofoutcome_updated(it_0152_005468,9).
+vaccine(it_0152_005468,0,3).
 patient(it_0152_005468,neg).
 
 %patient: it-0020-003799 index:2722
@@ -58160,6 +60882,7 @@ who_f2(it_0020_003799,9).
 who_f3(it_0020_003799,9).
 who_f4(it_0020_003799,9).
 typeofoutcome_updated(it_0020_003799,9).
+vaccine(it_0020_003799,0,1).
 patient(it_0020_003799,neg).
 
 %patient: it-0039-003788 index:2723
@@ -58177,6 +60900,7 @@ who_f2(it_0039_003788,9).
 who_f3(it_0039_003788,9).
 who_f4(it_0039_003788,9).
 typeofoutcome_updated(it_0039_003788,9).
+vaccine(it_0039_003788,0,1).
 patient(it_0039_003788,neg).
 
 %patient: it-0062-000536 index:2724
@@ -58195,6 +60919,7 @@ who_f2(it_0062_000536,9).
 who_f3(it_0062_000536,9).
 who_f4(it_0062_000536,9).
 typeofoutcome_updated(it_0062_000536,9).
+vaccine(it_0062_000536,0,2).
 patient(it_0062_000536,neg).
 
 %patient: it-0062-002174 index:2725
@@ -58211,6 +60936,7 @@ who_f2(it_0062_002174,9).
 who_f3(it_0062_002174,9).
 who_f4(it_0062_002174,9).
 typeofoutcome_updated(it_0062_002174,9).
+vaccine(it_0062_002174,0,2).
 patient(it_0062_002174,neg).
 
 %patient: it-0062-002217 index:2726
@@ -58231,6 +60957,7 @@ who_f2(it_0062_002217,9).
 who_f3(it_0062_002217,9).
 who_f4(it_0062_002217,9).
 typeofoutcome_updated(it_0062_002217,9).
+vaccine(it_0062_002217,0,2).
 patient(it_0062_002217,neg).
 
 %patient: it-0140-006436 index:2727
@@ -58256,6 +60983,7 @@ who_f2(it_0140_006436,9).
 who_f3(it_0140_006436,9).
 who_f4(it_0140_006436,9).
 typeofoutcome_updated(it_0140_006436,9).
+vaccine(it_0140_006436,1,1).
 patient(it_0140_006436,neg).
 
 %patient: it-0140-006437 index:2728
@@ -58284,6 +61012,7 @@ who_f2(it_0140_006437,9).
 who_f3(it_0140_006437,9).
 who_f4(it_0140_006437,9).
 typeofoutcome_updated(it_0140_006437,9).
+vaccine(it_0140_006437,1,1).
 patient(it_0140_006437,neg).
 
 %patient: it-0140-006439 index:2729
@@ -58306,6 +61035,7 @@ who_f2(it_0140_006439,9).
 who_f3(it_0140_006439,9).
 who_f4(it_0140_006439,9).
 typeofoutcome_updated(it_0140_006439,9).
+vaccine(it_0140_006439,1,2).
 patient(it_0140_006439,neg).
 
 %patient: it-0140-006441 index:2730
@@ -58328,6 +61058,7 @@ who_f2(it_0140_006441,9).
 who_f3(it_0140_006441,9).
 who_f4(it_0140_006441,9).
 typeofoutcome_updated(it_0140_006441,9).
+vaccine(it_0140_006441,0,2).
 patient(it_0140_006441,neg).
 
 %patient: it-0140-006537 index:2731
@@ -58353,6 +61084,7 @@ who_f2(it_0140_006537,9).
 who_f3(it_0140_006537,9).
 who_f4(it_0140_006537,9).
 typeofoutcome_updated(it_0140_006537,9).
+vaccine(it_0140_006537,0,2).
 patient(it_0140_006537,neg).
 
 %patient: it-0140-006582 index:2732
@@ -58376,6 +61108,7 @@ who_f2(it_0140_006582,9).
 who_f3(it_0140_006582,9).
 who_f4(it_0140_006582,9).
 typeofoutcome_updated(it_0140_006582,9).
+vaccine(it_0140_006582,0,2).
 patient(it_0140_006582,neg).
 
 %patient: it-0159-006077 index:2733
@@ -58395,6 +61128,7 @@ who_f2(it_0159_006077,9).
 who_f3(it_0159_006077,9).
 who_f4(it_0159_006077,9).
 typeofoutcome_updated(it_0159_006077,9).
+vaccine(it_0159_006077,0,2).
 patient(it_0159_006077,neg).
 
 %patient: it-0159-006312 index:2734
@@ -58416,6 +61150,7 @@ who_f2(it_0159_006312,9).
 who_f3(it_0159_006312,9).
 who_f4(it_0159_006312,9).
 typeofoutcome_updated(it_0159_006312,9).
+vaccine(it_0159_006312,0,2).
 patient(it_0159_006312,neg).
 
 %patient: it-0159-006313 index:2735
@@ -58436,6 +61171,7 @@ who_f2(it_0159_006313,9).
 who_f3(it_0159_006313,9).
 who_f4(it_0159_006313,9).
 typeofoutcome_updated(it_0159_006313,9).
+vaccine(it_0159_006313,0,2).
 patient(it_0159_006313,neg).
 
 %patient: it-0159-006314 index:2736
@@ -58454,6 +61190,7 @@ who_f2(it_0159_006314,9).
 who_f3(it_0159_006314,9).
 who_f4(it_0159_006314,9).
 typeofoutcome_updated(it_0159_006314,9).
+vaccine(it_0159_006314,0,2).
 patient(it_0159_006314,neg).
 
 %patient: it-0159-006315 index:2737
@@ -58472,6 +61209,7 @@ who_f2(it_0159_006315,9).
 who_f3(it_0159_006315,9).
 who_f4(it_0159_006315,9).
 typeofoutcome_updated(it_0159_006315,9).
+vaccine(it_0159_006315,0,2).
 patient(it_0159_006315,neg).
 
 %patient: it-0159-006316 index:2738
@@ -58491,6 +61229,7 @@ who_f2(it_0159_006316,9).
 who_f3(it_0159_006316,9).
 who_f4(it_0159_006316,9).
 typeofoutcome_updated(it_0159_006316,9).
+vaccine(it_0159_006316,0,2).
 patient(it_0159_006316,neg).
 
 %patient: it-0159-006317 index:2739
@@ -58512,6 +61251,7 @@ who_f2(it_0159_006317,9).
 who_f3(it_0159_006317,9).
 who_f4(it_0159_006317,9).
 typeofoutcome_updated(it_0159_006317,9).
+vaccine(it_0159_006317,0,2).
 patient(it_0159_006317,neg).
 
 %patient: it-0159-006411 index:2740
@@ -58535,6 +61275,7 @@ who_f2(it_0159_006411,9).
 who_f3(it_0159_006411,9).
 who_f4(it_0159_006411,9).
 typeofoutcome_updated(it_0159_006411,9).
+vaccine(it_0159_006411,0,2).
 patient(it_0159_006411,neg).
 
 %patient: it-0159-006412 index:2741
@@ -58554,6 +61295,7 @@ who_f2(it_0159_006412,9).
 who_f3(it_0159_006412,9).
 who_f4(it_0159_006412,9).
 typeofoutcome_updated(it_0159_006412,9).
+vaccine(it_0159_006412,0,2).
 patient(it_0159_006412,neg).
 
 %patient: it-0159-006413 index:2742
@@ -58575,6 +61317,7 @@ who_f2(it_0159_006413,9).
 who_f3(it_0159_006413,9).
 who_f4(it_0159_006413,9).
 typeofoutcome_updated(it_0159_006413,9).
+vaccine(it_0159_006413,0,2).
 patient(it_0159_006413,neg).
 
 %patient: it-0159-006414 index:2743
@@ -58596,6 +61339,7 @@ who_f2(it_0159_006414,9).
 who_f3(it_0159_006414,9).
 who_f4(it_0159_006414,9).
 typeofoutcome_updated(it_0159_006414,9).
+vaccine(it_0159_006414,0,2).
 patient(it_0159_006414,neg).
 
 %patient: it-0159-006415 index:2744
@@ -58619,6 +61363,7 @@ who_f2(it_0159_006415,9).
 who_f3(it_0159_006415,9).
 who_f4(it_0159_006415,9).
 typeofoutcome_updated(it_0159_006415,9).
+vaccine(it_0159_006415,0,2).
 patient(it_0159_006415,neg).
 
 %patient: it-0159-006558 index:2745
@@ -58638,6 +61383,7 @@ who_f2(it_0159_006558,9).
 who_f3(it_0159_006558,9).
 who_f4(it_0159_006558,9).
 typeofoutcome_updated(it_0159_006558,9).
+vaccine(it_0159_006558,0,2).
 patient(it_0159_006558,neg).
 
 %patient: it-0159-006559 index:2746
@@ -58658,6 +61404,7 @@ who_f2(it_0159_006559,9).
 who_f3(it_0159_006559,9).
 who_f4(it_0159_006559,9).
 typeofoutcome_updated(it_0159_006559,9).
+vaccine(it_0159_006559,0,2).
 patient(it_0159_006559,neg).
 
 %patient: it-0159-006563 index:2747
@@ -58678,6 +61425,7 @@ who_f2(it_0159_006563,9).
 who_f3(it_0159_006563,9).
 who_f4(it_0159_006563,9).
 typeofoutcome_updated(it_0159_006563,9).
+vaccine(it_0159_006563,0,2).
 patient(it_0159_006563,neg).
 
 %patient: it-0159-006564 index:2748
@@ -58700,6 +61448,7 @@ who_f2(it_0159_006564,9).
 who_f3(it_0159_006564,9).
 who_f4(it_0159_006564,9).
 typeofoutcome_updated(it_0159_006564,9).
+vaccine(it_0159_006564,0,2).
 patient(it_0159_006564,neg).
 
 %patient: it-0159-006565 index:2749
@@ -58722,6 +61471,7 @@ who_f2(it_0159_006565,9).
 who_f3(it_0159_006565,9).
 who_f4(it_0159_006565,9).
 typeofoutcome_updated(it_0159_006565,9).
+vaccine(it_0159_006565,0,2).
 patient(it_0159_006565,neg).
 
 %patient: it-0159-006567 index:2750
@@ -58742,6 +61492,7 @@ who_f2(it_0159_006567,9).
 who_f3(it_0159_006567,9).
 who_f4(it_0159_006567,9).
 typeofoutcome_updated(it_0159_006567,9).
+vaccine(it_0159_006567,0,2).
 patient(it_0159_006567,neg).
 
 %patient: it-0159-006568 index:2751
@@ -58763,6 +61514,7 @@ who_f2(it_0159_006568,9).
 who_f3(it_0159_006568,9).
 who_f4(it_0159_006568,9).
 typeofoutcome_updated(it_0159_006568,9).
+vaccine(it_0159_006568,0,2).
 patient(it_0159_006568,neg).
 
 %patient: it-0159-006569 index:2752
@@ -58783,6 +61535,7 @@ who_f2(it_0159_006569,9).
 who_f3(it_0159_006569,9).
 who_f4(it_0159_006569,9).
 typeofoutcome_updated(it_0159_006569,9).
+vaccine(it_0159_006569,0,2).
 patient(it_0159_006569,neg).
 
 %patient: it-0159-006570 index:2753
@@ -58809,6 +61562,7 @@ who_f2(it_0159_006570,9).
 who_f3(it_0159_006570,9).
 who_f4(it_0159_006570,9).
 typeofoutcome_updated(it_0159_006570,9).
+vaccine(it_0159_006570,0,2).
 patient(it_0159_006570,neg).
 
 %patient: it-0159-006591 index:2754
@@ -58826,6 +61580,7 @@ who_f2(it_0159_006591,9).
 who_f3(it_0159_006591,9).
 who_f4(it_0159_006591,9).
 typeofoutcome_updated(it_0159_006591,9).
+vaccine(it_0159_006591,0,2).
 patient(it_0159_006591,neg).
 
 %patient: it-0159-006593 index:2755
@@ -58846,6 +61601,7 @@ who_f2(it_0159_006593,9).
 who_f3(it_0159_006593,9).
 who_f4(it_0159_006593,9).
 typeofoutcome_updated(it_0159_006593,9).
+vaccine(it_0159_006593,0,2).
 patient(it_0159_006593,neg).
 
 %patient: it-0159-006595 index:2756
@@ -58864,6 +61620,7 @@ who_f2(it_0159_006595,9).
 who_f3(it_0159_006595,9).
 who_f4(it_0159_006595,9).
 typeofoutcome_updated(it_0159_006595,9).
+vaccine(it_0159_006595,0,2).
 patient(it_0159_006595,neg).
 
 %patient: it-0159-006596 index:2757
@@ -58887,6 +61644,7 @@ who_f2(it_0159_006596,9).
 who_f3(it_0159_006596,9).
 who_f4(it_0159_006596,9).
 typeofoutcome_updated(it_0159_006596,9).
+vaccine(it_0159_006596,0,2).
 patient(it_0159_006596,neg).
 
 %patient: it-0159-006597 index:2758
@@ -58908,6 +61666,7 @@ who_f2(it_0159_006597,9).
 who_f3(it_0159_006597,9).
 who_f4(it_0159_006597,9).
 typeofoutcome_updated(it_0159_006597,9).
+vaccine(it_0159_006597,0,2).
 patient(it_0159_006597,neg).
 
 %patient: it-0159-006599 index:2759
@@ -58930,6 +61689,7 @@ who_f2(it_0159_006599,9).
 who_f3(it_0159_006599,9).
 who_f4(it_0159_006599,9).
 typeofoutcome_updated(it_0159_006599,9).
+vaccine(it_0159_006599,0,2).
 patient(it_0159_006599,neg).
 
 %patient: it-0120-005633 index:2760
@@ -58948,6 +61708,7 @@ mmsumrev(it_0120_005633,5).
 excovidtot(it_0120_005633).
 who_f1(it_0120_005633,9).
 typeofoutcome_updated(it_0120_005633,9).
+vaccine(it_0120_005633,0,2).
 patient(it_0120_005633,neg).
 
 %patient: it-0146-005419 index:2761
@@ -58964,6 +61725,7 @@ mmsumrev(it_0146_005419,2).
 antis_0(it_0146_005419,4.81).
 who_f1(it_0146_005419,9).
 typeofoutcome_updated(it_0146_005419,9).
+vaccine(it_0146_005419,9,1).
 patient(it_0146_005419,neg).
 
 %patient: it-0155-006576 index:2762
@@ -58981,6 +61743,7 @@ cogdis(it_0155_006576).
 mmsumrev(it_0155_006576,3).
 who_f1(it_0155_006576,9).
 typeofoutcome_updated(it_0155_006576,9).
+vaccine(it_0155_006576,2,2).
 patient(it_0155_006576,neg).
 
 %patient: it-0167-006832 index:2763
@@ -58995,6 +61758,7 @@ hta(it_0167_006832).
 mmsumrev(it_0167_006832,3).
 who_f1(it_0167_006832,9).
 typeofoutcome_updated(it_0167_006832,9).
+vaccine(it_0167_006832,1,1).
 patient(it_0167_006832,neg).
 
 %patient: it-0111-002381 index:2764
@@ -59014,6 +61778,7 @@ who_f2(it_0111_002381,9).
 who_f3(it_0111_002381,9).
 who_f4(it_0111_002381,9).
 typeofoutcome_updated(it_0111_002381,9).
+vaccine(it_0111_002381,0,1).
 patient(it_0111_002381,neg).
 
 %patient: it-0111-006098 index:2765
@@ -59032,6 +61797,7 @@ who_f2(it_0111_006098,9).
 who_f3(it_0111_006098,9).
 who_f4(it_0111_006098,9).
 typeofoutcome_updated(it_0111_006098,9).
+vaccine(it_0111_006098,0,1).
 patient(it_0111_006098,neg).
 
 %patient: it-0111-005865 index:2766
@@ -59049,6 +61815,7 @@ who_f2(it_0111_005865,9).
 who_f3(it_0111_005865,9).
 who_f4(it_0111_005865,9).
 typeofoutcome_updated(it_0111_005865,9).
+vaccine(it_0111_005865,0,2).
 patient(it_0111_005865,neg).
 
 %patient: it-0111-002733 index:2767
@@ -59071,6 +61838,7 @@ who_f2(it_0111_002733,9).
 who_f3(it_0111_002733,9).
 who_f4(it_0111_002733,9).
 typeofoutcome_updated(it_0111_002733,9).
+vaccine(it_0111_002733,0,1).
 patient(it_0111_002733,neg).
 
 %patient: it-0111-003222 index:2768
@@ -59093,6 +61861,7 @@ who_f2(it_0111_003222,9).
 who_f3(it_0111_003222,9).
 who_f4(it_0111_003222,9).
 typeofoutcome_updated(it_0111_003222,9).
+vaccine(it_0111_003222,0,1).
 patient(it_0111_003222,neg).
 
 %patient: it-0111-005621 index:2769
@@ -59112,6 +61881,7 @@ who_f2(it_0111_005621,9).
 who_f3(it_0111_005621,9).
 who_f4(it_0111_005621,9).
 typeofoutcome_updated(it_0111_005621,9).
+vaccine(it_0111_005621,0,1).
 patient(it_0111_005621,neg).
 
 %patient: it-0111-006065 index:2770
@@ -59135,6 +61905,7 @@ who_f2(it_0111_006065,9).
 who_f3(it_0111_006065,9).
 who_f4(it_0111_006065,9).
 typeofoutcome_updated(it_0111_006065,9).
+vaccine(it_0111_006065,0,1).
 patient(it_0111_006065,neg).
 
 %patient: it-0111-006070 index:2771
@@ -59157,6 +61928,7 @@ who_f2(it_0111_006070,9).
 who_f3(it_0111_006070,9).
 who_f4(it_0111_006070,9).
 typeofoutcome_updated(it_0111_006070,9).
+vaccine(it_0111_006070,0,1).
 patient(it_0111_006070,neg).
 
 %patient: it-0111-006071 index:2772
@@ -59178,6 +61950,7 @@ who_f2(it_0111_006071,9).
 who_f3(it_0111_006071,9).
 who_f4(it_0111_006071,9).
 typeofoutcome_updated(it_0111_006071,9).
+vaccine(it_0111_006071,0,1).
 patient(it_0111_006071,neg).
 
 %patient: it-0111-006072 index:2773
@@ -59199,6 +61972,7 @@ who_f2(it_0111_006072,9).
 who_f3(it_0111_006072,9).
 who_f4(it_0111_006072,9).
 typeofoutcome_updated(it_0111_006072,9).
+vaccine(it_0111_006072,0,1).
 patient(it_0111_006072,neg).
 
 %patient: it-0111-006073 index:2774
@@ -59224,6 +61998,7 @@ who_f2(it_0111_006073,9).
 who_f3(it_0111_006073,9).
 who_f4(it_0111_006073,9).
 typeofoutcome_updated(it_0111_006073,9).
+vaccine(it_0111_006073,0,1).
 patient(it_0111_006073,neg).
 
 %patient: it-0111-006074 index:2775
@@ -59245,6 +62020,7 @@ who_f2(it_0111_006074,9).
 who_f3(it_0111_006074,9).
 who_f4(it_0111_006074,9).
 typeofoutcome_updated(it_0111_006074,9).
+vaccine(it_0111_006074,0,1).
 patient(it_0111_006074,neg).
 
 %patient: it-0111-006075 index:2776
@@ -59265,6 +62041,7 @@ who_f2(it_0111_006075,9).
 who_f3(it_0111_006075,9).
 who_f4(it_0111_006075,9).
 typeofoutcome_updated(it_0111_006075,9).
+vaccine(it_0111_006075,0,1).
 patient(it_0111_006075,neg).
 
 %patient: it-0111-006076 index:2777
@@ -59285,6 +62062,7 @@ who_f2(it_0111_006076,9).
 who_f3(it_0111_006076,9).
 who_f4(it_0111_006076,9).
 typeofoutcome_updated(it_0111_006076,9).
+vaccine(it_0111_006076,0,1).
 patient(it_0111_006076,neg).
 
 %patient: it-0111-006090 index:2778
@@ -59304,6 +62082,7 @@ who_f2(it_0111_006090,9).
 who_f3(it_0111_006090,9).
 who_f4(it_0111_006090,9).
 typeofoutcome_updated(it_0111_006090,9).
+vaccine(it_0111_006090,0,1).
 patient(it_0111_006090,neg).
 
 %patient: it-0111-006091 index:2779
@@ -59325,6 +62104,7 @@ who_f2(it_0111_006091,9).
 who_f3(it_0111_006091,9).
 who_f4(it_0111_006091,9).
 typeofoutcome_updated(it_0111_006091,9).
+vaccine(it_0111_006091,0,1).
 patient(it_0111_006091,neg).
 
 %patient: it-0111-006092 index:2780
@@ -59349,6 +62129,7 @@ who_f2(it_0111_006092,9).
 who_f3(it_0111_006092,9).
 who_f4(it_0111_006092,9).
 typeofoutcome_updated(it_0111_006092,9).
+vaccine(it_0111_006092,0,1).
 patient(it_0111_006092,neg).
 
 %patient: it-0111-006093 index:2781
@@ -59367,6 +62148,7 @@ who_f2(it_0111_006093,9).
 who_f3(it_0111_006093,9).
 who_f4(it_0111_006093,9).
 typeofoutcome_updated(it_0111_006093,9).
+vaccine(it_0111_006093,0,1).
 patient(it_0111_006093,neg).
 
 %patient: it-0111-006094 index:2782
@@ -59388,6 +62170,7 @@ who_f2(it_0111_006094,9).
 who_f3(it_0111_006094,9).
 who_f4(it_0111_006094,9).
 typeofoutcome_updated(it_0111_006094,9).
+vaccine(it_0111_006094,0,1).
 patient(it_0111_006094,neg).
 
 %patient: it-0111-006095 index:2783
@@ -59409,6 +62192,7 @@ who_f2(it_0111_006095,9).
 who_f3(it_0111_006095,9).
 who_f4(it_0111_006095,9).
 typeofoutcome_updated(it_0111_006095,9).
+vaccine(it_0111_006095,0,1).
 patient(it_0111_006095,neg).
 
 %patient: it-0111-006097 index:2784
@@ -59427,6 +62211,7 @@ who_f2(it_0111_006097,9).
 who_f3(it_0111_006097,9).
 who_f4(it_0111_006097,9).
 typeofoutcome_updated(it_0111_006097,9).
+vaccine(it_0111_006097,0,1).
 patient(it_0111_006097,neg).
 
 %patient: it-0111-006100 index:2785
@@ -59447,6 +62232,7 @@ who_f2(it_0111_006100,9).
 who_f3(it_0111_006100,9).
 who_f4(it_0111_006100,9).
 typeofoutcome_updated(it_0111_006100,9).
+vaccine(it_0111_006100,0,1).
 patient(it_0111_006100,neg).
 
 %patient: it-0111-006172 index:2786
@@ -59468,6 +62254,7 @@ who_f2(it_0111_006172,9).
 who_f3(it_0111_006172,9).
 who_f4(it_0111_006172,9).
 typeofoutcome_updated(it_0111_006172,9).
+vaccine(it_0111_006172,0,1).
 patient(it_0111_006172,neg).
 
 %patient: it-0111-006175 index:2787
@@ -59486,6 +62273,7 @@ who_f2(it_0111_006175,9).
 who_f3(it_0111_006175,9).
 who_f4(it_0111_006175,9).
 typeofoutcome_updated(it_0111_006175,9).
+vaccine(it_0111_006175,0,1).
 patient(it_0111_006175,neg).
 
 %patient: it-0111-006177 index:2788
@@ -59507,6 +62295,7 @@ who_f2(it_0111_006177,9).
 who_f3(it_0111_006177,9).
 who_f4(it_0111_006177,9).
 typeofoutcome_updated(it_0111_006177,9).
+vaccine(it_0111_006177,0,1).
 patient(it_0111_006177,neg).
 
 %patient: it-0111-006179 index:2789
@@ -59530,6 +62319,7 @@ who_f2(it_0111_006179,9).
 who_f3(it_0111_006179,9).
 who_f4(it_0111_006179,9).
 typeofoutcome_updated(it_0111_006179,9).
+vaccine(it_0111_006179,0,1).
 patient(it_0111_006179,neg).
 
 %patient: it-0111-006181 index:2790
@@ -59551,6 +62341,7 @@ who_f2(it_0111_006181,9).
 who_f3(it_0111_006181,9).
 who_f4(it_0111_006181,9).
 typeofoutcome_updated(it_0111_006181,9).
+vaccine(it_0111_006181,0,1).
 patient(it_0111_006181,neg).
 
 %patient: it-0111-006220 index:2791
@@ -59569,6 +62360,7 @@ who_f2(it_0111_006220,9).
 who_f3(it_0111_006220,9).
 who_f4(it_0111_006220,9).
 typeofoutcome_updated(it_0111_006220,9).
+vaccine(it_0111_006220,0,1).
 patient(it_0111_006220,neg).
 
 %patient: it-0111-006269 index:2792
@@ -59589,6 +62381,7 @@ who_f2(it_0111_006269,9).
 who_f3(it_0111_006269,9).
 who_f4(it_0111_006269,9).
 typeofoutcome_updated(it_0111_006269,9).
+vaccine(it_0111_006269,0,1).
 patient(it_0111_006269,neg).
 
 %patient: it-0111-006271 index:2793
@@ -59610,6 +62403,7 @@ who_f2(it_0111_006271,9).
 who_f3(it_0111_006271,9).
 who_f4(it_0111_006271,9).
 typeofoutcome_updated(it_0111_006271,9).
+vaccine(it_0111_006271,0,1).
 patient(it_0111_006271,neg).
 
 %patient: it-0111-006318 index:2794
@@ -59631,6 +62425,7 @@ who_f2(it_0111_006318,9).
 who_f3(it_0111_006318,9).
 who_f4(it_0111_006318,9).
 typeofoutcome_updated(it_0111_006318,9).
+vaccine(it_0111_006318,0,1).
 patient(it_0111_006318,neg).
 
 %patient: it-0111-006319 index:2795
@@ -59651,6 +62446,7 @@ who_f2(it_0111_006319,9).
 who_f3(it_0111_006319,9).
 who_f4(it_0111_006319,9).
 typeofoutcome_updated(it_0111_006319,9).
+vaccine(it_0111_006319,0,1).
 patient(it_0111_006319,neg).
 
 %patient: it-0111-006320 index:2796
@@ -59670,6 +62466,7 @@ who_f2(it_0111_006320,9).
 who_f3(it_0111_006320,9).
 who_f4(it_0111_006320,9).
 typeofoutcome_updated(it_0111_006320,9).
+vaccine(it_0111_006320,0,1).
 patient(it_0111_006320,neg).
 
 %patient: it-0111-006321 index:2797
@@ -59690,6 +62487,7 @@ who_f2(it_0111_006321,9).
 who_f3(it_0111_006321,9).
 who_f4(it_0111_006321,9).
 typeofoutcome_updated(it_0111_006321,9).
+vaccine(it_0111_006321,0,1).
 patient(it_0111_006321,neg).
 
 %patient: it-0111-006322 index:2798
@@ -59711,6 +62509,7 @@ who_f2(it_0111_006322,9).
 who_f3(it_0111_006322,9).
 who_f4(it_0111_006322,9).
 typeofoutcome_updated(it_0111_006322,9).
+vaccine(it_0111_006322,0,1).
 patient(it_0111_006322,neg).
 
 %patient: it-0111-006328 index:2799
@@ -59727,6 +62526,7 @@ who_f2(it_0111_006328,9).
 who_f3(it_0111_006328,9).
 who_f4(it_0111_006328,9).
 typeofoutcome_updated(it_0111_006328,9).
+vaccine(it_0111_006328,0,1).
 patient(it_0111_006328,neg).
 
 %patient: it-0111-006329 index:2800
@@ -59748,6 +62548,7 @@ who_f2(it_0111_006329,9).
 who_f3(it_0111_006329,9).
 who_f4(it_0111_006329,9).
 typeofoutcome_updated(it_0111_006329,9).
+vaccine(it_0111_006329,0,1).
 patient(it_0111_006329,neg).
 
 %patient: it-0111-006330 index:2801
@@ -59763,6 +62564,7 @@ who_f2(it_0111_006330,9).
 who_f3(it_0111_006330,9).
 who_f4(it_0111_006330,9).
 typeofoutcome_updated(it_0111_006330,9).
+vaccine(it_0111_006330,0,1).
 patient(it_0111_006330,neg).
 
 %patient: it-0111-006331 index:2802
@@ -59785,6 +62587,7 @@ who_f2(it_0111_006331,9).
 who_f3(it_0111_006331,9).
 who_f4(it_0111_006331,9).
 typeofoutcome_updated(it_0111_006331,9).
+vaccine(it_0111_006331,0,1).
 patient(it_0111_006331,neg).
 
 %patient: it-0111-006332 index:2803
@@ -59800,6 +62603,7 @@ who_f2(it_0111_006332,9).
 who_f3(it_0111_006332,9).
 who_f4(it_0111_006332,9).
 typeofoutcome_updated(it_0111_006332,9).
+vaccine(it_0111_006332,0,1).
 patient(it_0111_006332,neg).
 
 %patient: it-0111-006333 index:2804
@@ -59821,6 +62625,7 @@ who_f2(it_0111_006333,9).
 who_f3(it_0111_006333,9).
 who_f4(it_0111_006333,9).
 typeofoutcome_updated(it_0111_006333,9).
+vaccine(it_0111_006333,0,1).
 patient(it_0111_006333,neg).
 
 %patient: it-0111-006334 index:2805
@@ -59843,6 +62648,7 @@ who_f2(it_0111_006334,9).
 who_f3(it_0111_006334,9).
 who_f4(it_0111_006334,9).
 typeofoutcome_updated(it_0111_006334,9).
+vaccine(it_0111_006334,0,1).
 patient(it_0111_006334,neg).
 
 %patient: it-0111-006335 index:2806
@@ -59861,6 +62667,7 @@ who_f2(it_0111_006335,9).
 who_f3(it_0111_006335,9).
 who_f4(it_0111_006335,9).
 typeofoutcome_updated(it_0111_006335,9).
+vaccine(it_0111_006335,0,1).
 patient(it_0111_006335,neg).
 
 %patient: it-0111-006336 index:2807
@@ -59882,6 +62689,7 @@ who_f2(it_0111_006336,9).
 who_f3(it_0111_006336,9).
 who_f4(it_0111_006336,9).
 typeofoutcome_updated(it_0111_006336,9).
+vaccine(it_0111_006336,0,1).
 patient(it_0111_006336,neg).
 
 %patient: it-0111-006337 index:2808
@@ -59900,6 +62708,7 @@ who_f2(it_0111_006337,9).
 who_f3(it_0111_006337,9).
 who_f4(it_0111_006337,9).
 typeofoutcome_updated(it_0111_006337,9).
+vaccine(it_0111_006337,0,1).
 patient(it_0111_006337,neg).
 
 %patient: it-0111-006338 index:2809
@@ -59922,6 +62731,7 @@ who_f2(it_0111_006338,9).
 who_f3(it_0111_006338,9).
 who_f4(it_0111_006338,9).
 typeofoutcome_updated(it_0111_006338,9).
+vaccine(it_0111_006338,0,1).
 patient(it_0111_006338,neg).
 
 %patient: it-0111-006339 index:2810
@@ -59942,6 +62752,7 @@ who_f2(it_0111_006339,9).
 who_f3(it_0111_006339,9).
 who_f4(it_0111_006339,9).
 typeofoutcome_updated(it_0111_006339,9).
+vaccine(it_0111_006339,0,1).
 patient(it_0111_006339,neg).
 
 %patient: it-0111-006341 index:2811
@@ -59963,6 +62774,7 @@ who_f2(it_0111_006341,9).
 who_f3(it_0111_006341,9).
 who_f4(it_0111_006341,9).
 typeofoutcome_updated(it_0111_006341,9).
+vaccine(it_0111_006341,0,1).
 patient(it_0111_006341,neg).
 
 %patient: it-0111-006342 index:2812
@@ -59982,6 +62794,7 @@ who_f2(it_0111_006342,9).
 who_f3(it_0111_006342,9).
 who_f4(it_0111_006342,9).
 typeofoutcome_updated(it_0111_006342,9).
+vaccine(it_0111_006342,0,1).
 patient(it_0111_006342,neg).
 
 %patient: it-0111-006345 index:2813
@@ -60001,6 +62814,7 @@ who_f2(it_0111_006345,9).
 who_f3(it_0111_006345,9).
 who_f4(it_0111_006345,9).
 typeofoutcome_updated(it_0111_006345,9).
+vaccine(it_0111_006345,0,1).
 patient(it_0111_006345,neg).
 
 %patient: it-0111-006347 index:2814
@@ -60019,6 +62833,7 @@ who_f2(it_0111_006347,9).
 who_f3(it_0111_006347,9).
 who_f4(it_0111_006347,9).
 typeofoutcome_updated(it_0111_006347,9).
+vaccine(it_0111_006347,0,1).
 patient(it_0111_006347,neg).
 
 %patient: it-0111-006350 index:2815
@@ -60037,6 +62852,7 @@ who_f2(it_0111_006350,9).
 who_f3(it_0111_006350,9).
 who_f4(it_0111_006350,9).
 typeofoutcome_updated(it_0111_006350,9).
+vaccine(it_0111_006350,0,1).
 patient(it_0111_006350,neg).
 
 %patient: it-0111-006351 index:2816
@@ -60056,6 +62872,7 @@ who_f2(it_0111_006351,9).
 who_f3(it_0111_006351,9).
 who_f4(it_0111_006351,9).
 typeofoutcome_updated(it_0111_006351,9).
+vaccine(it_0111_006351,0,1).
 patient(it_0111_006351,neg).
 
 %patient: it-0111-006354 index:2817
@@ -60073,6 +62890,7 @@ who_f2(it_0111_006354,9).
 who_f3(it_0111_006354,9).
 who_f4(it_0111_006354,9).
 typeofoutcome_updated(it_0111_006354,9).
+vaccine(it_0111_006354,0,1).
 patient(it_0111_006354,neg).
 
 %patient: it-0111-006356 index:2818
@@ -60093,6 +62911,7 @@ who_f2(it_0111_006356,9).
 who_f3(it_0111_006356,9).
 who_f4(it_0111_006356,9).
 typeofoutcome_updated(it_0111_006356,9).
+vaccine(it_0111_006356,0,1).
 patient(it_0111_006356,neg).
 
 %patient: it-0111-006362 index:2819
@@ -60114,6 +62933,7 @@ who_f2(it_0111_006362,9).
 who_f3(it_0111_006362,9).
 who_f4(it_0111_006362,9).
 typeofoutcome_updated(it_0111_006362,9).
+vaccine(it_0111_006362,0,1).
 patient(it_0111_006362,neg).
 
 %patient: it-0111-006364 index:2820
@@ -60138,6 +62958,7 @@ who_f2(it_0111_006364,9).
 who_f3(it_0111_006364,9).
 who_f4(it_0111_006364,9).
 typeofoutcome_updated(it_0111_006364,9).
+vaccine(it_0111_006364,0,1).
 patient(it_0111_006364,neg).
 
 %patient: it-0111-006365 index:2821
@@ -60155,6 +62976,7 @@ who_f2(it_0111_006365,9).
 who_f3(it_0111_006365,9).
 who_f4(it_0111_006365,9).
 typeofoutcome_updated(it_0111_006365,9).
+vaccine(it_0111_006365,0,1).
 patient(it_0111_006365,neg).
 
 %patient: it-0111-006366 index:2822
@@ -60177,6 +62999,7 @@ who_f2(it_0111_006366,9).
 who_f3(it_0111_006366,9).
 who_f4(it_0111_006366,9).
 typeofoutcome_updated(it_0111_006366,9).
+vaccine(it_0111_006366,0,1).
 patient(it_0111_006366,neg).
 
 %patient: it-0111-006368 index:2823
@@ -60198,6 +63021,7 @@ who_f2(it_0111_006368,9).
 who_f3(it_0111_006368,9).
 who_f4(it_0111_006368,9).
 typeofoutcome_updated(it_0111_006368,9).
+vaccine(it_0111_006368,0,1).
 patient(it_0111_006368,neg).
 
 %patient: it-0111-006369 index:2824
@@ -60215,6 +63039,7 @@ who_f2(it_0111_006369,9).
 who_f3(it_0111_006369,9).
 who_f4(it_0111_006369,9).
 typeofoutcome_updated(it_0111_006369,9).
+vaccine(it_0111_006369,0,1).
 patient(it_0111_006369,neg).
 
 %patient: it-0111-006513 index:2825
@@ -60231,6 +63056,7 @@ who_f2(it_0111_006513,9).
 who_f3(it_0111_006513,9).
 who_f4(it_0111_006513,9).
 typeofoutcome_updated(it_0111_006513,9).
+vaccine(it_0111_006513,0,1).
 patient(it_0111_006513,neg).
 
 %patient: it-0111-006514 index:2826
@@ -60249,6 +63075,7 @@ who_f2(it_0111_006514,9).
 who_f3(it_0111_006514,9).
 who_f4(it_0111_006514,9).
 typeofoutcome_updated(it_0111_006514,9).
+vaccine(it_0111_006514,0,1).
 patient(it_0111_006514,neg).
 
 %patient: it-0126-004271 index:2827
@@ -60272,6 +63099,7 @@ who_f2(it_0126_004271,9).
 who_f3(it_0126_004271,9).
 who_f4(it_0126_004271,9).
 typeofoutcome_updated(it_0126_004271,9).
+vaccine(it_0126_004271,0,2).
 patient(it_0126_004271,neg).
 
 %patient: it-0126-004999 index:2828
@@ -60299,6 +63127,7 @@ who_f2(it_0126_004999,9).
 who_f3(it_0126_004999,9).
 who_f4(it_0126_004999,9).
 typeofoutcome_updated(it_0126_004999,9).
+vaccine(it_0126_004999,0,2).
 patient(it_0126_004999,neg).
 
 %patient: it-0140-005622 index:2829
@@ -60322,6 +63151,7 @@ who_f2(it_0140_005622,9).
 who_f3(it_0140_005622,9).
 who_f4(it_0140_005622,9).
 typeofoutcome_updated(it_0140_005622,9).
+vaccine(it_0140_005622,1,1).
 patient(it_0140_005622,neg).
 
 %patient: it-0140-005623 index:2830
@@ -60350,6 +63180,7 @@ who_f2(it_0140_005623,9).
 who_f3(it_0140_005623,9).
 who_f4(it_0140_005623,9).
 typeofoutcome_updated(it_0140_005623,9).
+vaccine(it_0140_005623,0,2).
 patient(it_0140_005623,neg).
 
 %patient: it-0143-005310 index:2831
@@ -60371,6 +63202,7 @@ who_f2(it_0143_005310,9).
 who_f3(it_0143_005310,9).
 who_f4(it_0143_005310,9).
 typeofoutcome_updated(it_0143_005310,9).
+vaccine(it_0143_005310,0,2).
 patient(it_0143_005310,neg).
 
 %patient: it-0108-002702 index:2832
@@ -60393,6 +63225,7 @@ who_f2(it_0108_002702,9).
 who_f3(it_0108_002702,9).
 who_f4(it_0108_002702,9).
 typeofoutcome_updated(it_0108_002702,9).
+vaccine(it_0108_002702,0,2).
 patient(it_0108_002702,neg).
 
 %patient: it-0111-006272 index:2833
@@ -60416,6 +63249,7 @@ who_f2(it_0111_006272,9).
 who_f3(it_0111_006272,9).
 who_f4(it_0111_006272,9).
 typeofoutcome_updated(it_0111_006272,9).
+vaccine(it_0111_006272,0,1).
 patient(it_0111_006272,neg).
 
 %patient: it-0111-006275 index:2834
@@ -60434,6 +63268,7 @@ who_f2(it_0111_006275,9).
 who_f3(it_0111_006275,9).
 who_f4(it_0111_006275,9).
 typeofoutcome_updated(it_0111_006275,9).
+vaccine(it_0111_006275,0,1).
 patient(it_0111_006275,neg).
 
 %patient: it-0111-006348 index:2835
@@ -60453,6 +63288,7 @@ who_f2(it_0111_006348,9).
 who_f3(it_0111_006348,9).
 who_f4(it_0111_006348,9).
 typeofoutcome_updated(it_0111_006348,9).
+vaccine(it_0111_006348,0,1).
 patient(it_0111_006348,neg).
 
 %patient: it-0111-006358 index:2836
@@ -60475,6 +63311,7 @@ who_f2(it_0111_006358,9).
 who_f3(it_0111_006358,9).
 who_f4(it_0111_006358,9).
 typeofoutcome_updated(it_0111_006358,9).
+vaccine(it_0111_006358,0,1).
 patient(it_0111_006358,neg).
 
 %patient: it-0102-005199 index:2837
@@ -60499,6 +63336,7 @@ who_f2(it_0102_005199,9).
 who_f3(it_0102_005199,9).
 who_f4(it_0102_005199,9).
 typeofoutcome_updated(it_0102_005199,9).
+vaccine(it_0102_005199,0,2).
 patient(it_0102_005199,neg).
 
 %patient: it-0111-005792 index:2838
@@ -60520,6 +63358,7 @@ who_f2(it_0111_005792,9).
 who_f3(it_0111_005792,9).
 who_f4(it_0111_005792,9).
 typeofoutcome_updated(it_0111_005792,9).
+vaccine(it_0111_005792,0,2).
 patient(it_0111_005792,neg).
 
 %patient: it-0111-005794 index:2839
@@ -60541,6 +63380,7 @@ who_f2(it_0111_005794,9).
 who_f3(it_0111_005794,9).
 who_f4(it_0111_005794,9).
 typeofoutcome_updated(it_0111_005794,9).
+vaccine(it_0111_005794,0,2).
 patient(it_0111_005794,neg).
 
 %patient: it-0111-005796 index:2840
@@ -60557,6 +63397,7 @@ who_f2(it_0111_005796,9).
 who_f3(it_0111_005796,9).
 who_f4(it_0111_005796,9).
 typeofoutcome_updated(it_0111_005796,9).
+vaccine(it_0111_005796,0,2).
 patient(it_0111_005796,neg).
 
 %patient: it-0111-005797 index:2841
@@ -60576,6 +63417,7 @@ who_f2(it_0111_005797,9).
 who_f3(it_0111_005797,9).
 who_f4(it_0111_005797,9).
 typeofoutcome_updated(it_0111_005797,9).
+vaccine(it_0111_005797,0,2).
 patient(it_0111_005797,neg).
 
 %patient: it-0111-005798 index:2842
@@ -60598,6 +63440,7 @@ who_f2(it_0111_005798,9).
 who_f3(it_0111_005798,9).
 who_f4(it_0111_005798,9).
 typeofoutcome_updated(it_0111_005798,9).
+vaccine(it_0111_005798,0,2).
 patient(it_0111_005798,neg).
 
 %patient: it-0111-005799 index:2843
@@ -60617,6 +63460,7 @@ who_f2(it_0111_005799,9).
 who_f3(it_0111_005799,9).
 who_f4(it_0111_005799,9).
 typeofoutcome_updated(it_0111_005799,9).
+vaccine(it_0111_005799,0,2).
 patient(it_0111_005799,neg).
 
 %patient: it-0111-005801 index:2844
@@ -60636,6 +63480,7 @@ who_f2(it_0111_005801,9).
 who_f3(it_0111_005801,9).
 who_f4(it_0111_005801,9).
 typeofoutcome_updated(it_0111_005801,9).
+vaccine(it_0111_005801,0,2).
 patient(it_0111_005801,neg).
 
 %patient: it-0111-005802 index:2845
@@ -60656,6 +63501,7 @@ who_f2(it_0111_005802,9).
 who_f3(it_0111_005802,9).
 who_f4(it_0111_005802,9).
 typeofoutcome_updated(it_0111_005802,9).
+vaccine(it_0111_005802,0,2).
 patient(it_0111_005802,neg).
 
 %patient: it-0111-005804 index:2846
@@ -60675,6 +63521,7 @@ who_f2(it_0111_005804,9).
 who_f3(it_0111_005804,9).
 who_f4(it_0111_005804,9).
 typeofoutcome_updated(it_0111_005804,9).
+vaccine(it_0111_005804,0,2).
 patient(it_0111_005804,neg).
 
 %patient: it-0111-005805 index:2847
@@ -60694,6 +63541,7 @@ who_f2(it_0111_005805,9).
 who_f3(it_0111_005805,9).
 who_f4(it_0111_005805,9).
 typeofoutcome_updated(it_0111_005805,9).
+vaccine(it_0111_005805,0,2).
 patient(it_0111_005805,neg).
 
 %patient: it-0111-005806 index:2848
@@ -60712,6 +63560,7 @@ who_f2(it_0111_005806,9).
 who_f3(it_0111_005806,9).
 who_f4(it_0111_005806,9).
 typeofoutcome_updated(it_0111_005806,9).
+vaccine(it_0111_005806,0,2).
 patient(it_0111_005806,neg).
 
 %patient: it-0111-005808 index:2849
@@ -60734,6 +63583,7 @@ who_f2(it_0111_005808,9).
 who_f3(it_0111_005808,9).
 who_f4(it_0111_005808,9).
 typeofoutcome_updated(it_0111_005808,9).
+vaccine(it_0111_005808,0,2).
 patient(it_0111_005808,neg).
 
 %patient: it-0111-005809 index:2850
@@ -60756,6 +63606,7 @@ who_f2(it_0111_005809,9).
 who_f3(it_0111_005809,9).
 who_f4(it_0111_005809,9).
 typeofoutcome_updated(it_0111_005809,9).
+vaccine(it_0111_005809,0,2).
 patient(it_0111_005809,neg).
 
 %patient: it-0111-005853 index:2851
@@ -60774,6 +63625,7 @@ who_f2(it_0111_005853,9).
 who_f3(it_0111_005853,9).
 who_f4(it_0111_005853,9).
 typeofoutcome_updated(it_0111_005853,9).
+vaccine(it_0111_005853,0,2).
 patient(it_0111_005853,neg).
 
 %patient: it-0111-005854 index:2852
@@ -60797,6 +63649,7 @@ who_f2(it_0111_005854,9).
 who_f3(it_0111_005854,9).
 who_f4(it_0111_005854,9).
 typeofoutcome_updated(it_0111_005854,9).
+vaccine(it_0111_005854,0,2).
 patient(it_0111_005854,neg).
 
 %patient: it-0111-005855 index:2853
@@ -60815,6 +63668,7 @@ who_f2(it_0111_005855,9).
 who_f3(it_0111_005855,9).
 who_f4(it_0111_005855,9).
 typeofoutcome_updated(it_0111_005855,9).
+vaccine(it_0111_005855,0,2).
 patient(it_0111_005855,neg).
 
 %patient: it-0111-005856 index:2854
@@ -60831,6 +63685,7 @@ who_f2(it_0111_005856,9).
 who_f3(it_0111_005856,9).
 who_f4(it_0111_005856,9).
 typeofoutcome_updated(it_0111_005856,9).
+vaccine(it_0111_005856,0,2).
 patient(it_0111_005856,neg).
 
 %patient: it-0111-005857 index:2855
@@ -60851,6 +63706,7 @@ who_f2(it_0111_005857,9).
 who_f3(it_0111_005857,9).
 who_f4(it_0111_005857,9).
 typeofoutcome_updated(it_0111_005857,9).
+vaccine(it_0111_005857,0,2).
 patient(it_0111_005857,neg).
 
 %patient: it-0111-005858 index:2856
@@ -60872,6 +63728,7 @@ who_f2(it_0111_005858,9).
 who_f3(it_0111_005858,9).
 who_f4(it_0111_005858,9).
 typeofoutcome_updated(it_0111_005858,9).
+vaccine(it_0111_005858,0,2).
 patient(it_0111_005858,neg).
 
 %patient: it-0111-005859 index:2857
@@ -60892,6 +63749,7 @@ who_f2(it_0111_005859,9).
 who_f3(it_0111_005859,9).
 who_f4(it_0111_005859,9).
 typeofoutcome_updated(it_0111_005859,9).
+vaccine(it_0111_005859,0,2).
 patient(it_0111_005859,neg).
 
 %patient: it-0111-005860 index:2858
@@ -60911,6 +63769,7 @@ who_f2(it_0111_005860,9).
 who_f3(it_0111_005860,9).
 who_f4(it_0111_005860,9).
 typeofoutcome_updated(it_0111_005860,9).
+vaccine(it_0111_005860,0,2).
 patient(it_0111_005860,neg).
 
 %patient: it-0111-005861 index:2859
@@ -60928,6 +63787,7 @@ who_f2(it_0111_005861,9).
 who_f3(it_0111_005861,9).
 who_f4(it_0111_005861,9).
 typeofoutcome_updated(it_0111_005861,9).
+vaccine(it_0111_005861,0,2).
 patient(it_0111_005861,neg).
 
 %patient: it-0111-005862 index:2860
@@ -60949,6 +63809,7 @@ who_f2(it_0111_005862,9).
 who_f3(it_0111_005862,9).
 who_f4(it_0111_005862,9).
 typeofoutcome_updated(it_0111_005862,9).
+vaccine(it_0111_005862,0,2).
 patient(it_0111_005862,neg).
 
 %patient: it-0111-005863 index:2861
@@ -60967,6 +63828,7 @@ who_f2(it_0111_005863,9).
 who_f3(it_0111_005863,9).
 who_f4(it_0111_005863,9).
 typeofoutcome_updated(it_0111_005863,9).
+vaccine(it_0111_005863,0,2).
 patient(it_0111_005863,neg).
 
 %patient: it-0111-005864 index:2862
@@ -60986,6 +63848,7 @@ who_f2(it_0111_005864,9).
 who_f3(it_0111_005864,9).
 who_f4(it_0111_005864,9).
 typeofoutcome_updated(it_0111_005864,9).
+vaccine(it_0111_005864,0,2).
 patient(it_0111_005864,neg).
 
 %patient: it-0111-005866 index:2863
@@ -61006,6 +63869,7 @@ who_f2(it_0111_005866,9).
 who_f3(it_0111_005866,9).
 who_f4(it_0111_005866,9).
 typeofoutcome_updated(it_0111_005866,9).
+vaccine(it_0111_005866,0,2).
 patient(it_0111_005866,neg).
 
 %patient: it-0111-005868 index:2864
@@ -61024,6 +63888,7 @@ who_f2(it_0111_005868,9).
 who_f3(it_0111_005868,9).
 who_f4(it_0111_005868,9).
 typeofoutcome_updated(it_0111_005868,9).
+vaccine(it_0111_005868,0,2).
 patient(it_0111_005868,neg).
 
 %patient: it-0111-005874 index:2865
@@ -61045,6 +63910,7 @@ who_f2(it_0111_005874,9).
 who_f3(it_0111_005874,9).
 who_f4(it_0111_005874,9).
 typeofoutcome_updated(it_0111_005874,9).
+vaccine(it_0111_005874,0,2).
 patient(it_0111_005874,neg).
 
 %patient: it-0124-005132 index:2866
@@ -61062,6 +63928,7 @@ who_f2(it_0124_005132,9).
 who_f3(it_0124_005132,9).
 who_f4(it_0124_005132,9).
 typeofoutcome_updated(it_0124_005132,9).
+vaccine(it_0124_005132,0,2).
 patient(it_0124_005132,neg).
 
 %patient: it-0102-004163 index:2867
@@ -61086,6 +63953,7 @@ who_f2(it_0102_004163,9).
 who_f3(it_0102_004163,9).
 who_f4(it_0102_004163,9).
 typeofoutcome_updated(it_0102_004163,9).
+vaccine(it_0102_004163,0,2).
 patient(it_0102_004163,neg).
 
 %patient: it-0106-006741 index:2868
@@ -61106,6 +63974,7 @@ who_f2(it_0106_006741,9).
 who_f3(it_0106_006741,9).
 who_f4(it_0106_006741,9).
 typeofoutcome_updated(it_0106_006741,9).
+vaccine(it_0106_006741,0,2).
 patient(it_0106_006741,neg).
 
 %patient: it-0111-005852 index:2869
@@ -61127,6 +63996,7 @@ who_f2(it_0111_005852,9).
 who_f3(it_0111_005852,9).
 who_f4(it_0111_005852,9).
 typeofoutcome_updated(it_0111_005852,9).
+vaccine(it_0111_005852,0,2).
 patient(it_0111_005852,neg).
 
 %patient: it-0111-005873 index:2870
@@ -61148,6 +64018,7 @@ who_f2(it_0111_005873,9).
 who_f3(it_0111_005873,9).
 who_f4(it_0111_005873,9).
 typeofoutcome_updated(it_0111_005873,9).
+vaccine(it_0111_005873,0,2).
 patient(it_0111_005873,neg).
 
 %patient: it-0124-004886 index:2871
@@ -61164,6 +64035,7 @@ who_f2(it_0124_004886,9).
 who_f3(it_0124_004886,9).
 who_f4(it_0124_004886,9).
 typeofoutcome_updated(it_0124_004886,9).
+vaccine(it_0124_004886,0,2).
 patient(it_0124_004886,neg).
 
 %patient: it-0124-005279 index:2872
@@ -61184,6 +64056,7 @@ who_f2(it_0124_005279,9).
 who_f3(it_0124_005279,9).
 who_f4(it_0124_005279,9).
 typeofoutcome_updated(it_0124_005279,9).
+vaccine(it_0124_005279,0,2).
 patient(it_0124_005279,neg).
 
 %patient: it-0146-005228 index:2873
@@ -61205,6 +64078,7 @@ who_f2(it_0146_005228,9).
 who_f3(it_0146_005228,9).
 who_f4(it_0146_005228,9).
 typeofoutcome_updated(it_0146_005228,9).
+vaccine(it_0146_005228,0,2).
 patient(it_0146_005228,neg).
 
 %patient: it-0111-005781 index:2874
@@ -61226,6 +64100,7 @@ who_f2(it_0111_005781,9).
 who_f3(it_0111_005781,9).
 who_f4(it_0111_005781,9).
 typeofoutcome_updated(it_0111_005781,9).
+vaccine(it_0111_005781,0,2).
 patient(it_0111_005781,neg).
 
 %patient: it-0111-005870 index:2875
@@ -61244,6 +64119,7 @@ who_f2(it_0111_005870,9).
 who_f3(it_0111_005870,9).
 who_f4(it_0111_005870,9).
 typeofoutcome_updated(it_0111_005870,9).
+vaccine(it_0111_005870,0,2).
 patient(it_0111_005870,neg).
 
 %patient: it-0111-005871 index:2876
@@ -61263,6 +64139,7 @@ who_f2(it_0111_005871,9).
 who_f3(it_0111_005871,9).
 who_f4(it_0111_005871,9).
 typeofoutcome_updated(it_0111_005871,9).
+vaccine(it_0111_005871,0,2).
 patient(it_0111_005871,neg).
 
 %patient: it-0111-005872 index:2877
@@ -61280,6 +64157,7 @@ who_f2(it_0111_005872,9).
 who_f3(it_0111_005872,9).
 who_f4(it_0111_005872,9).
 typeofoutcome_updated(it_0111_005872,9).
+vaccine(it_0111_005872,0,2).
 patient(it_0111_005872,neg).
 
 %patient: it-0124-004888 index:2878
@@ -61299,6 +64177,7 @@ who_f2(it_0124_004888,9).
 who_f3(it_0124_004888,9).
 who_f4(it_0124_004888,9).
 typeofoutcome_updated(it_0124_004888,9).
+vaccine(it_0124_004888,0,2).
 patient(it_0124_004888,neg).
 
 %patient: it-0124-005130 index:2879
@@ -61317,6 +64196,7 @@ who_f2(it_0124_005130,9).
 who_f3(it_0124_005130,9).
 who_f4(it_0124_005130,9).
 typeofoutcome_updated(it_0124_005130,9).
+vaccine(it_0124_005130,0,2).
 patient(it_0124_005130,neg).
 
 %patient: it-0124-005135 index:2880
@@ -61337,6 +64217,7 @@ who_f2(it_0124_005135,9).
 who_f3(it_0124_005135,9).
 who_f4(it_0124_005135,9).
 typeofoutcome_updated(it_0124_005135,9).
+vaccine(it_0124_005135,0,2).
 patient(it_0124_005135,neg).
 
 %patient: it-0124-005136 index:2881
@@ -61357,6 +64238,7 @@ who_f2(it_0124_005136,9).
 who_f3(it_0124_005136,9).
 who_f4(it_0124_005136,9).
 typeofoutcome_updated(it_0124_005136,9).
+vaccine(it_0124_005136,0,2).
 patient(it_0124_005136,neg).
 
 %patient: it-0124-005137 index:2882
@@ -61381,6 +64263,7 @@ who_f2(it_0124_005137,9).
 who_f3(it_0124_005137,9).
 who_f4(it_0124_005137,9).
 typeofoutcome_updated(it_0124_005137,9).
+vaccine(it_0124_005137,0,2).
 patient(it_0124_005137,neg).
 
 %patient: it-0124-005138 index:2883
@@ -61404,6 +64287,7 @@ who_f2(it_0124_005138,9).
 who_f3(it_0124_005138,9).
 who_f4(it_0124_005138,9).
 typeofoutcome_updated(it_0124_005138,9).
+vaccine(it_0124_005138,0,2).
 patient(it_0124_005138,neg).
 
 %patient: it-0124-005139 index:2884
@@ -61421,6 +64305,7 @@ who_f2(it_0124_005139,9).
 who_f3(it_0124_005139,9).
 who_f4(it_0124_005139,9).
 typeofoutcome_updated(it_0124_005139,9).
+vaccine(it_0124_005139,0,2).
 patient(it_0124_005139,neg).
 
 %patient: it-0124-005140 index:2885
@@ -61444,6 +64329,7 @@ who_f2(it_0124_005140,9).
 who_f3(it_0124_005140,9).
 who_f4(it_0124_005140,9).
 typeofoutcome_updated(it_0124_005140,9).
+vaccine(it_0124_005140,0,2).
 patient(it_0124_005140,neg).
 
 %patient: it-0124-005240 index:2886
@@ -61464,6 +64350,7 @@ who_f2(it_0124_005240,9).
 who_f3(it_0124_005240,9).
 who_f4(it_0124_005240,9).
 typeofoutcome_updated(it_0124_005240,9).
+vaccine(it_0124_005240,0,2).
 patient(it_0124_005240,neg).
 
 %patient: it-0124-005241 index:2887
@@ -61488,6 +64375,7 @@ who_f2(it_0124_005241,9).
 who_f3(it_0124_005241,9).
 who_f4(it_0124_005241,9).
 typeofoutcome_updated(it_0124_005241,9).
+vaccine(it_0124_005241,0,2).
 patient(it_0124_005241,neg).
 
 %patient: it-0124-005253 index:2888
@@ -61507,6 +64395,7 @@ who_f2(it_0124_005253,9).
 who_f3(it_0124_005253,9).
 who_f4(it_0124_005253,9).
 typeofoutcome_updated(it_0124_005253,9).
+vaccine(it_0124_005253,0,2).
 patient(it_0124_005253,neg).
 
 %patient: it-0124-005262 index:2889
@@ -61528,6 +64417,7 @@ who_f2(it_0124_005262,9).
 who_f3(it_0124_005262,9).
 who_f4(it_0124_005262,9).
 typeofoutcome_updated(it_0124_005262,9).
+vaccine(it_0124_005262,0,2).
 patient(it_0124_005262,neg).
 
 %patient: it-0124-004882 index:2890
@@ -61545,6 +64435,7 @@ who_f2(it_0124_004882,9).
 who_f3(it_0124_004882,9).
 who_f4(it_0124_004882,9).
 typeofoutcome_updated(it_0124_004882,9).
+vaccine(it_0124_004882,0,2).
 patient(it_0124_004882,neg).
 
 %patient: it-0137-005430 index:2891
@@ -61564,6 +64455,7 @@ who_f2(it_0137_005430,9).
 who_f3(it_0137_005430,9).
 who_f4(it_0137_005430,9).
 typeofoutcome_updated(it_0137_005430,9).
+vaccine(it_0137_005430,0,2).
 patient(it_0137_005430,neg).
 
 %patient: it-0125-003929 index:2892
@@ -61585,6 +64477,7 @@ who_f2(it_0125_003929,0).
 who_f3(it_0125_003929,9).
 who_f4(it_0125_003929,9).
 typeofoutcome_updated(it_0125_003929,9).
+vaccine(it_0125_003929,0,2).
 patient(it_0125_003929,neg).
 
 %patient: it-0125-006428 index:2893
@@ -61611,6 +64504,7 @@ who_f2(it_0125_006428,0).
 who_f3(it_0125_006428,9).
 who_f4(it_0125_006428,9).
 typeofoutcome_updated(it_0125_006428,9).
+vaccine(it_0125_006428,0,2).
 patient(it_0125_006428,neg).
 
 %patient: it-0125-004883 index:2894
@@ -61637,6 +64531,7 @@ who_f2(it_0125_004883,0).
 who_f3(it_0125_004883,9).
 who_f4(it_0125_004883,9).
 typeofoutcome_updated(it_0125_004883,9).
+vaccine(it_0125_004883,0,2).
 patient(it_0125_004883,neg).
 
 %patient: it-0039-000388 index:2895
@@ -61659,6 +64554,7 @@ who_f2(it_0039_000388,0).
 who_f3(it_0039_000388,9).
 who_f4(it_0039_000388,9).
 typeofoutcome_updated(it_0039_000388,9).
+vaccine(it_0039_000388,9,2).
 patient(it_0039_000388,neg).
 
 %patient: it-0039-003853 index:2896
@@ -61680,6 +64576,7 @@ who_f2(it_0039_003853,0).
 who_f3(it_0039_003853,9).
 who_f4(it_0039_003853,9).
 typeofoutcome_updated(it_0039_003853,9).
+vaccine(it_0039_003853,0,1).
 patient(it_0039_003853,neg).
 
 %patient: it-0042-003625 index:2897
@@ -61701,6 +64598,7 @@ who_f2(it_0042_003625,0).
 who_f3(it_0042_003625,9).
 who_f4(it_0042_003625,9).
 typeofoutcome_updated(it_0042_003625,9).
+vaccine(it_0042_003625,0,2).
 patient(it_0042_003625,neg).
 
 %patient: it-0125-004628 index:2898
@@ -61723,6 +64621,7 @@ who_f2(it_0125_004628,0).
 who_f3(it_0125_004628,9).
 who_f4(it_0125_004628,9).
 typeofoutcome_updated(it_0125_004628,9).
+vaccine(it_0125_004628,0,2).
 patient(it_0125_004628,neg).
 
 %patient: it-0126-005121 index:2899
@@ -61748,6 +64647,7 @@ who_f2(it_0126_005121,0).
 who_f3(it_0126_005121,9).
 who_f4(it_0126_005121,9).
 typeofoutcome_updated(it_0126_005121,9).
+vaccine(it_0126_005121,0,2).
 patient(it_0126_005121,neg).
 
 %patient: it-0126-005194 index:2900
@@ -61770,6 +64670,7 @@ who_f2(it_0126_005194,0).
 who_f3(it_0126_005194,9).
 who_f4(it_0126_005194,9).
 typeofoutcome_updated(it_0126_005194,9).
+vaccine(it_0126_005194,0,2).
 patient(it_0126_005194,neg).
 
 %patient: it-0126-005198 index:2901
@@ -61792,6 +64693,7 @@ who_f2(it_0126_005198,0).
 who_f3(it_0126_005198,9).
 who_f4(it_0126_005198,9).
 typeofoutcome_updated(it_0126_005198,9).
+vaccine(it_0126_005198,0,2).
 patient(it_0126_005198,neg).
 
 %patient: it-0126-005201 index:2902
@@ -61817,6 +64719,7 @@ who_f2(it_0126_005201,1).
 who_f3(it_0126_005201,9).
 who_f4(it_0126_005201,9).
 typeofoutcome_updated(it_0126_005201,9).
+vaccine(it_0126_005201,0,2).
 patient(it_0126_005201,neg).
 
 %patient: it-0126-005345 index:2903
@@ -61842,6 +64745,7 @@ who_f2(it_0126_005345,0).
 who_f3(it_0126_005345,9).
 who_f4(it_0126_005345,9).
 typeofoutcome_updated(it_0126_005345,9).
+vaccine(it_0126_005345,0,2).
 patient(it_0126_005345,neg).
 
 %patient: it-0152-004990 index:2904
@@ -61860,6 +64764,7 @@ who_f2(it_0152_004990,0).
 who_f3(it_0152_004990,9).
 who_f4(it_0152_004990,9).
 typeofoutcome_updated(it_0152_004990,9).
+vaccine(it_0152_004990,0,2).
 patient(it_0152_004990,neg).
 
 %patient: it-0152-005011 index:2905
@@ -61879,6 +64784,7 @@ who_f2(it_0152_005011,0).
 who_f3(it_0152_005011,9).
 who_f4(it_0152_005011,9).
 typeofoutcome_updated(it_0152_005011,9).
+vaccine(it_0152_005011,0,2).
 patient(it_0152_005011,neg).
 
 %patient: it-0152-005493 index:2906
@@ -61898,6 +64804,7 @@ who_f2(it_0152_005493,0).
 who_f3(it_0152_005493,9).
 who_f4(it_0152_005493,9).
 typeofoutcome_updated(it_0152_005493,9).
+vaccine(it_0152_005493,0,1).
 patient(it_0152_005493,neg).
 
 %patient: it-0152-005504 index:2907
@@ -61916,6 +64823,7 @@ who_f2(it_0152_005504,0).
 who_f3(it_0152_005504,9).
 who_f4(it_0152_005504,9).
 typeofoutcome_updated(it_0152_005504,9).
+vaccine(it_0152_005504,0,1).
 patient(it_0152_005504,neg).
 
 %patient: it-0169-006156 index:2908
@@ -61939,6 +64847,7 @@ who_f2(it_0169_006156,0).
 who_f3(it_0169_006156,9).
 who_f4(it_0169_006156,9).
 typeofoutcome_updated(it_0169_006156,9).
+vaccine(it_0169_006156,0,2).
 patient(it_0169_006156,neg).
 
 %patient: it-0171-006260 index:2909
@@ -61959,6 +64868,7 @@ who_f2(it_0171_006260,0).
 who_f3(it_0171_006260,9).
 who_f4(it_0171_006260,9).
 typeofoutcome_updated(it_0171_006260,9).
+vaccine(it_0171_006260,0,2).
 patient(it_0171_006260,neg).
 
 %patient: it-0109-005949 index:2910
@@ -61979,6 +64889,7 @@ who_f2(it_0109_005949,0).
 who_f3(it_0109_005949,9).
 who_f4(it_0109_005949,9).
 typeofoutcome_updated(it_0109_005949,9).
+vaccine(it_0109_005949,0,2).
 patient(it_0109_005949,neg).
 
 %patient: it-0109-006018 index:2911
@@ -62002,6 +64913,7 @@ who_f2(it_0109_006018,0).
 who_f3(it_0109_006018,9).
 who_f4(it_0109_006018,9).
 typeofoutcome_updated(it_0109_006018,9).
+vaccine(it_0109_006018,0,2).
 patient(it_0109_006018,neg).
 
 %patient: it-0129-004237 index:2912
@@ -62019,6 +64931,7 @@ who_f2(it_0129_004237,0).
 who_f3(it_0129_004237,9).
 who_f4(it_0129_004237,9).
 typeofoutcome_updated(it_0129_004237,9).
+vaccine(it_0129_004237,0,2).
 patient(it_0129_004237,neg).
 
 %patient: it-0129-004668 index:2913
@@ -62039,6 +64952,7 @@ who_f2(it_0129_004668,0).
 who_f3(it_0129_004668,9).
 who_f4(it_0129_004668,9).
 typeofoutcome_updated(it_0129_004668,9).
+vaccine(it_0129_004668,0,2).
 patient(it_0129_004668,neg).
 
 %patient: it-0129-004669 index:2914
@@ -62060,6 +64974,7 @@ who_f2(it_0129_004669,0).
 who_f3(it_0129_004669,9).
 who_f4(it_0129_004669,9).
 typeofoutcome_updated(it_0129_004669,9).
+vaccine(it_0129_004669,0,2).
 patient(it_0129_004669,neg).
 
 %patient: it-0129-004670 index:2915
@@ -62077,6 +64992,7 @@ who_f2(it_0129_004670,0).
 who_f3(it_0129_004670,9).
 who_f4(it_0129_004670,9).
 typeofoutcome_updated(it_0129_004670,9).
+vaccine(it_0129_004670,0,2).
 patient(it_0129_004670,neg).
 
 %patient: it-0129-004671 index:2916
@@ -62099,6 +65015,7 @@ who_f2(it_0129_004671,0).
 who_f3(it_0129_004671,9).
 who_f4(it_0129_004671,9).
 typeofoutcome_updated(it_0129_004671,9).
+vaccine(it_0129_004671,0,2).
 patient(it_0129_004671,neg).
 
 %patient: it-0129-004749 index:2917
@@ -62124,6 +65041,7 @@ who_f2(it_0129_004749,9).
 who_f3(it_0129_004749,9).
 who_f4(it_0129_004749,9).
 typeofoutcome_updated(it_0129_004749,9).
+vaccine(it_0129_004749,0,2).
 patient(it_0129_004749,neg).
 
 %patient: it-0129-004756 index:2918
@@ -62143,6 +65061,7 @@ who_f2(it_0129_004756,4).
 who_f3(it_0129_004756,9).
 who_f4(it_0129_004756,9).
 typeofoutcome_updated(it_0129_004756,9).
+vaccine(it_0129_004756,0,2).
 patient(it_0129_004756,neg).
 
 %patient: it-0129-004757 index:2919
@@ -62168,6 +65087,7 @@ who_f2(it_0129_004757,9).
 who_f3(it_0129_004757,9).
 who_f4(it_0129_004757,9).
 typeofoutcome_updated(it_0129_004757,9).
+vaccine(it_0129_004757,0,2).
 patient(it_0129_004757,neg).
 
 %patient: it-0137-005515 index:2920
@@ -62191,6 +65111,7 @@ who_f2(it_0137_005515,0).
 who_f3(it_0137_005515,9).
 who_f4(it_0137_005515,9).
 typeofoutcome_updated(it_0137_005515,9).
+vaccine(it_0137_005515,0,2).
 patient(it_0137_005515,neg).
 
 %patient: it-0138-004464 index:2921
@@ -62209,6 +65130,7 @@ who_f2(it_0138_004464,0).
 who_f3(it_0138_004464,9).
 who_f4(it_0138_004464,9).
 typeofoutcome_updated(it_0138_004464,9).
+vaccine(it_0138_004464,0,2).
 patient(it_0138_004464,neg).
 
 %patient: it-0109-006017 index:2922
@@ -62233,6 +65155,7 @@ who_f2(it_0109_006017,0).
 who_f3(it_0109_006017,9).
 who_f4(it_0109_006017,9).
 typeofoutcome_updated(it_0109_006017,9).
+vaccine(it_0109_006017,0,2).
 patient(it_0109_006017,neg).
 
 %patient: it-0109-006020 index:2923
@@ -62252,6 +65175,7 @@ who_f2(it_0109_006020,0).
 who_f3(it_0109_006020,9).
 who_f4(it_0109_006020,9).
 typeofoutcome_updated(it_0109_006020,9).
+vaccine(it_0109_006020,0,2).
 patient(it_0109_006020,neg).
 
 %patient: it-0125-005722 index:2924
@@ -62275,6 +65199,7 @@ who_f2(it_0125_005722,0).
 who_f3(it_0125_005722,9).
 who_f4(it_0125_005722,9).
 typeofoutcome_updated(it_0125_005722,9).
+vaccine(it_0125_005722,0,2).
 patient(it_0125_005722,neg).
 
 %patient: it-0126-005411 index:2925
@@ -62294,6 +65219,7 @@ who_f2(it_0126_005411,0).
 who_f3(it_0126_005411,9).
 who_f4(it_0126_005411,9).
 typeofoutcome_updated(it_0126_005411,9).
+vaccine(it_0126_005411,0,2).
 patient(it_0126_005411,neg).
 
 %patient: it-0126-005599 index:2926
@@ -62315,6 +65241,7 @@ who_f2(it_0126_005599,1).
 who_f3(it_0126_005599,9).
 who_f4(it_0126_005599,9).
 typeofoutcome_updated(it_0126_005599,9).
+vaccine(it_0126_005599,0,2).
 patient(it_0126_005599,neg).
 
 %patient: it-0126-005604 index:2927
@@ -62337,6 +65264,7 @@ who_f2(it_0126_005604,0).
 who_f3(it_0126_005604,9).
 who_f4(it_0126_005604,9).
 typeofoutcome_updated(it_0126_005604,9).
+vaccine(it_0126_005604,0,2).
 patient(it_0126_005604,neg).
 
 %patient: it-0126-006447 index:2928
@@ -62354,6 +65282,7 @@ who_f2(it_0126_006447,0).
 who_f3(it_0126_006447,9).
 who_f4(it_0126_006447,9).
 typeofoutcome_updated(it_0126_006447,9).
+vaccine(it_0126_006447,0,2).
 patient(it_0126_006447,neg).
 
 %patient: it-0143-004258 index:2929
@@ -62373,6 +65302,7 @@ who_f2(it_0143_004258,0).
 who_f3(it_0143_004258,9).
 who_f4(it_0143_004258,9).
 typeofoutcome_updated(it_0143_004258,9).
+vaccine(it_0143_004258,0,1).
 patient(it_0143_004258,neg).
 
 %patient: it-0152-005479 index:2930
@@ -62390,6 +65320,7 @@ who_f2(it_0152_005479,0).
 who_f3(it_0152_005479,9).
 who_f4(it_0152_005479,9).
 typeofoutcome_updated(it_0152_005479,9).
+vaccine(it_0152_005479,0,1).
 patient(it_0152_005479,neg).
 
 %patient: it-0152-005481 index:2931
@@ -62409,6 +65340,7 @@ who_f2(it_0152_005481,0).
 who_f3(it_0152_005481,9).
 who_f4(it_0152_005481,9).
 typeofoutcome_updated(it_0152_005481,9).
+vaccine(it_0152_005481,0,1).
 patient(it_0152_005481,neg).
 
 %patient: it-0146-004494 index:2932
@@ -62430,6 +65362,7 @@ who_f2(it_0146_004494,0).
 who_f3(it_0146_004494,9).
 who_f4(it_0146_004494,9).
 typeofoutcome_updated(it_0146_004494,9).
+vaccine(it_0146_004494,0,2).
 patient(it_0146_004494,neg).
 
 %patient: it-0132-005595 index:2933
@@ -62452,6 +65385,7 @@ who_f2(it_0132_005595,9).
 who_f3(it_0132_005595,9).
 who_f4(it_0132_005595,9).
 typeofoutcome_updated(it_0132_005595,9).
+vaccine(it_0132_005595,0,2).
 patient(it_0132_005595,neg).
 
 %patient: it-0126-004588 index:2934
@@ -62476,6 +65410,7 @@ who_f2(it_0126_004588,0).
 who_f3(it_0126_004588,9).
 who_f4(it_0126_004588,9).
 typeofoutcome_updated(it_0126_004588,9).
+vaccine(it_0126_004588,0,2).
 patient(it_0126_004588,neg).
 
 %patient: it-0126-004592 index:2935
@@ -62498,6 +65433,7 @@ who_f2(it_0126_004592,0).
 who_f3(it_0126_004592,9).
 who_f4(it_0126_004592,9).
 typeofoutcome_updated(it_0126_004592,9).
+vaccine(it_0126_004592,0,2).
 patient(it_0126_004592,neg).
 
 %patient: it-0126-006609 index:2936
@@ -62516,6 +65452,7 @@ who_f2(it_0126_006609,9).
 who_f3(it_0126_006609,0).
 who_f4(it_0126_006609,9).
 typeofoutcome_updated(it_0126_006609,9).
+vaccine(it_0126_006609,0,2).
 patient(it_0126_006609,neg).
 
 %patient: it-0103-005970 index:2937
@@ -62539,6 +65476,7 @@ who_f2(it_0103_005970,1).
 who_f3(it_0103_005970,1).
 who_f4(it_0103_005970,9).
 typeofoutcome_updated(it_0103_005970,9).
+vaccine(it_0103_005970,0,1).
 patient(it_0103_005970,neg).
 
 %patient: it-0103-006135 index:2938
@@ -62559,6 +65497,7 @@ who_f2(it_0103_006135,0).
 who_f3(it_0103_006135,0).
 who_f4(it_0103_006135,9).
 typeofoutcome_updated(it_0103_006135,9).
+vaccine(it_0103_006135,0,2).
 patient(it_0103_006135,neg).
 
 %patient: it-0103-005966 index:2939
@@ -62583,6 +65522,7 @@ who_f2(it_0103_005966,1).
 who_f3(it_0103_005966,1).
 who_f4(it_0103_005966,9).
 typeofoutcome_updated(it_0103_005966,9).
+vaccine(it_0103_005966,0,1).
 patient(it_0103_005966,neg).
 
 %patient: it-0103-005992 index:2940
@@ -62605,6 +65545,7 @@ who_f2(it_0103_005992,0).
 who_f3(it_0103_005992,1).
 who_f4(it_0103_005992,9).
 typeofoutcome_updated(it_0103_005992,9).
+vaccine(it_0103_005992,0,2).
 patient(it_0103_005992,neg).
 
 %patient: it-0137-005497 index:2941
@@ -62626,6 +65567,7 @@ who_f2(it_0137_005497,0).
 who_f3(it_0137_005497,0).
 who_f4(it_0137_005497,9).
 typeofoutcome_updated(it_0137_005497,9).
+vaccine(it_0137_005497,0,2).
 patient(it_0137_005497,neg).
 
 %patient: it-0039-003856 index:2942
@@ -62648,6 +65590,7 @@ who_f2(it_0039_003856,0).
 who_f3(it_0039_003856,4).
 who_f4(it_0039_003856,9).
 typeofoutcome_updated(it_0039_003856,9).
+vaccine(it_0039_003856,0,2).
 patient(it_0039_003856,neg).
 
 %patient: it-0146-006407 index:2943
@@ -62670,6 +65613,7 @@ who_f2(it_0146_006407,0).
 who_f3(it_0146_006407,0).
 who_f4(it_0146_006407,9).
 typeofoutcome_updated(it_0146_006407,9).
+vaccine(it_0146_006407,0,2).
 patient(it_0146_006407,neg).
 
 %patient: it-0155-006578 index:2944
@@ -62689,6 +65633,7 @@ who_f2(it_0155_006578,0).
 who_f3(it_0155_006578,0).
 who_f4(it_0155_006578,9).
 typeofoutcome_updated(it_0155_006578,9).
+vaccine(it_0155_006578,0,2).
 patient(it_0155_006578,neg).
 
 %patient: it-0121-005679 index:2945
@@ -62713,6 +65658,7 @@ who_f2(it_0121_005679,0).
 who_f3(it_0121_005679,0).
 who_f4(it_0121_005679,9).
 typeofoutcome_updated(it_0121_005679,9).
+vaccine(it_0121_005679,0,2).
 patient(it_0121_005679,neg).
 
 %patient: it-0121-005685 index:2946
@@ -62735,6 +65681,7 @@ who_f2(it_0121_005685,0).
 who_f3(it_0121_005685,0).
 who_f4(it_0121_005685,9).
 typeofoutcome_updated(it_0121_005685,9).
+vaccine(it_0121_005685,0,2).
 patient(it_0121_005685,neg).
 
 %patient: it-0121-005686 index:2947
@@ -62757,6 +65704,7 @@ who_f2(it_0121_005686,0).
 who_f3(it_0121_005686,0).
 who_f4(it_0121_005686,9).
 typeofoutcome_updated(it_0121_005686,9).
+vaccine(it_0121_005686,0,2).
 patient(it_0121_005686,neg).
 
 %patient: it-0103-005968 index:2948
@@ -62779,6 +65727,7 @@ who_f2(it_0103_005968,1).
 who_f3(it_0103_005968,1).
 who_f4(it_0103_005968,9).
 typeofoutcome_updated(it_0103_005968,9).
+vaccine(it_0103_005968,0,1).
 patient(it_0103_005968,neg).
 
 %patient: it-0121-005671 index:2949
@@ -62797,6 +65746,7 @@ who_f2(it_0121_005671,0).
 who_f3(it_0121_005671,0).
 who_f4(it_0121_005671,9).
 typeofoutcome_updated(it_0121_005671,9).
+vaccine(it_0121_005671,0,2).
 patient(it_0121_005671,neg).
 
 %patient: it-0121-005673 index:2950
@@ -62823,6 +65773,7 @@ who_f2(it_0121_005673,0).
 who_f3(it_0121_005673,0).
 who_f4(it_0121_005673,9).
 typeofoutcome_updated(it_0121_005673,9).
+vaccine(it_0121_005673,0,2).
 patient(it_0121_005673,neg).
 
 %patient: it-0121-005674 index:2951
@@ -62844,6 +65795,7 @@ who_f2(it_0121_005674,0).
 who_f3(it_0121_005674,0).
 who_f4(it_0121_005674,9).
 typeofoutcome_updated(it_0121_005674,9).
+vaccine(it_0121_005674,0,2).
 patient(it_0121_005674,neg).
 
 %patient: it-0121-005675 index:2952
@@ -62865,6 +65817,7 @@ who_f2(it_0121_005675,0).
 who_f3(it_0121_005675,0).
 who_f4(it_0121_005675,9).
 typeofoutcome_updated(it_0121_005675,9).
+vaccine(it_0121_005675,0,2).
 patient(it_0121_005675,neg).
 
 %patient: it-0121-005676 index:2953
@@ -62882,6 +65835,7 @@ who_f2(it_0121_005676,0).
 who_f3(it_0121_005676,0).
 who_f4(it_0121_005676,9).
 typeofoutcome_updated(it_0121_005676,9).
+vaccine(it_0121_005676,0,2).
 patient(it_0121_005676,neg).
 
 %patient: it-0121-005677 index:2954
@@ -62904,6 +65858,7 @@ who_f2(it_0121_005677,0).
 who_f3(it_0121_005677,0).
 who_f4(it_0121_005677,9).
 typeofoutcome_updated(it_0121_005677,9).
+vaccine(it_0121_005677,0,2).
 patient(it_0121_005677,neg).
 
 %patient: it-0121-005678 index:2955
@@ -62923,6 +65878,7 @@ who_f2(it_0121_005678,0).
 who_f3(it_0121_005678,0).
 who_f4(it_0121_005678,9).
 typeofoutcome_updated(it_0121_005678,9).
+vaccine(it_0121_005678,0,2).
 patient(it_0121_005678,neg).
 
 %patient: it-0121-005680 index:2956
@@ -62945,6 +65901,7 @@ who_f2(it_0121_005680,0).
 who_f3(it_0121_005680,0).
 who_f4(it_0121_005680,9).
 typeofoutcome_updated(it_0121_005680,9).
+vaccine(it_0121_005680,0,2).
 patient(it_0121_005680,neg).
 
 %patient: it-0121-005681 index:2957
@@ -62965,6 +65922,7 @@ who_f2(it_0121_005681,0).
 who_f3(it_0121_005681,0).
 who_f4(it_0121_005681,9).
 typeofoutcome_updated(it_0121_005681,9).
+vaccine(it_0121_005681,0,2).
 patient(it_0121_005681,neg).
 
 %patient: it-0121-005682 index:2958
@@ -62987,6 +65945,7 @@ who_f2(it_0121_005682,0).
 who_f3(it_0121_005682,0).
 who_f4(it_0121_005682,9).
 typeofoutcome_updated(it_0121_005682,9).
+vaccine(it_0121_005682,0,2).
 patient(it_0121_005682,neg).
 
 %patient: it-0121-005683 index:2959
@@ -63008,6 +65967,7 @@ who_f2(it_0121_005683,0).
 who_f3(it_0121_005683,0).
 who_f4(it_0121_005683,9).
 typeofoutcome_updated(it_0121_005683,9).
+vaccine(it_0121_005683,0,2).
 patient(it_0121_005683,neg).
 
 %patient: it-0121-005684 index:2960
@@ -63030,6 +65990,7 @@ who_f2(it_0121_005684,0).
 who_f3(it_0121_005684,0).
 who_f4(it_0121_005684,9).
 typeofoutcome_updated(it_0121_005684,9).
+vaccine(it_0121_005684,0,2).
 patient(it_0121_005684,neg).
 
 %patient: it-0121-005687 index:2961
@@ -63051,6 +66012,7 @@ who_f2(it_0121_005687,0).
 who_f3(it_0121_005687,0).
 who_f4(it_0121_005687,9).
 typeofoutcome_updated(it_0121_005687,9).
+vaccine(it_0121_005687,0,2).
 patient(it_0121_005687,neg).
 
 %patient: it-0121-005688 index:2962
@@ -63074,6 +66036,7 @@ who_f2(it_0121_005688,0).
 who_f3(it_0121_005688,0).
 who_f4(it_0121_005688,9).
 typeofoutcome_updated(it_0121_005688,9).
+vaccine(it_0121_005688,0,2).
 patient(it_0121_005688,neg).
 
 %patient: it-0121-005689 index:2963
@@ -63100,6 +66063,7 @@ who_f2(it_0121_005689,0).
 who_f3(it_0121_005689,0).
 who_f4(it_0121_005689,9).
 typeofoutcome_updated(it_0121_005689,9).
+vaccine(it_0121_005689,0,2).
 patient(it_0121_005689,neg).
 
 %patient: it-0121-005690 index:2964
@@ -63122,6 +66086,7 @@ who_f2(it_0121_005690,0).
 who_f3(it_0121_005690,0).
 who_f4(it_0121_005690,9).
 typeofoutcome_updated(it_0121_005690,9).
+vaccine(it_0121_005690,0,2).
 patient(it_0121_005690,neg).
 
 %patient: it-0126-005594 index:2965
@@ -63147,6 +66112,7 @@ who_f2(it_0126_005594,0).
 who_f3(it_0126_005594,0).
 who_f4(it_0126_005594,9).
 typeofoutcome_updated(it_0126_005594,9).
+vaccine(it_0126_005594,0,2).
 patient(it_0126_005594,neg).
 
 %patient: it-0128-004736 index:2966
@@ -63169,6 +66135,7 @@ who_f2(it_0128_004736,0).
 who_f3(it_0128_004736,0).
 who_f4(it_0128_004736,4).
 typeofoutcome_updated(it_0128_004736,9).
+vaccine(it_0128_004736,0,2).
 patient(it_0128_004736,neg).
 
 %patient: it-0031-005603 index:2967
@@ -63188,6 +66155,7 @@ who_f2(it_0031_005603,0).
 who_f3(it_0031_005603,0).
 who_f4(it_0031_005603,9).
 typeofoutcome_updated(it_0031_005603,9).
+vaccine(it_0031_005603,0,2).
 patient(it_0031_005603,neg).
 
 %patient: it-0039-003923 index:2968
@@ -63211,6 +66179,7 @@ who_f2(it_0039_003923,0).
 who_f3(it_0039_003923,0).
 who_f4(it_0039_003923,9).
 typeofoutcome_updated(it_0039_003923,9).
+vaccine(it_0039_003923,0,2).
 patient(it_0039_003923,neg).
 
 %patient: it-0120-005631 index:2969
@@ -63233,6 +66202,7 @@ who_f2(it_0120_005631,0).
 who_f3(it_0120_005631,0).
 who_f4(it_0120_005631,9).
 typeofoutcome_updated(it_0120_005631,9).
+vaccine(it_0120_005631,0,2).
 patient(it_0120_005631,neg).
 
 %patient: it-0120-005632 index:2970
@@ -63254,6 +66224,7 @@ who_f2(it_0120_005632,0).
 who_f3(it_0120_005632,0).
 who_f4(it_0120_005632,9).
 typeofoutcome_updated(it_0120_005632,9).
+vaccine(it_0120_005632,0,2).
 patient(it_0120_005632,neg).
 
 %patient: it-0120-005633 index:2971
@@ -63276,6 +66247,7 @@ who_f2(it_0120_005633,0).
 who_f3(it_0120_005633,0).
 who_f4(it_0120_005633,9).
 typeofoutcome_updated(it_0120_005633,9).
+vaccine(it_0120_005633,0,2).
 patient(it_0120_005633,neg).
 
 %patient: it-0120-005634 index:2972
@@ -63297,6 +66269,7 @@ who_f2(it_0120_005634,0).
 who_f3(it_0120_005634,0).
 who_f4(it_0120_005634,9).
 typeofoutcome_updated(it_0120_005634,9).
+vaccine(it_0120_005634,0,2).
 patient(it_0120_005634,neg).
 
 %patient: it-0120-005635 index:2973
@@ -63317,6 +66290,7 @@ who_f2(it_0120_005635,0).
 who_f3(it_0120_005635,0).
 who_f4(it_0120_005635,9).
 typeofoutcome_updated(it_0120_005635,9).
+vaccine(it_0120_005635,0,2).
 patient(it_0120_005635,neg).
 
 %patient: it-0120-005636 index:2974
@@ -63336,6 +66310,7 @@ who_f2(it_0120_005636,0).
 who_f3(it_0120_005636,0).
 who_f4(it_0120_005636,9).
 typeofoutcome_updated(it_0120_005636,9).
+vaccine(it_0120_005636,0,2).
 patient(it_0120_005636,neg).
 
 %patient: it-0120-005637 index:2975
@@ -63358,6 +66333,7 @@ who_f2(it_0120_005637,0).
 who_f3(it_0120_005637,0).
 who_f4(it_0120_005637,9).
 typeofoutcome_updated(it_0120_005637,9).
+vaccine(it_0120_005637,0,2).
 patient(it_0120_005637,neg).
 
 %patient: it-0120-005638 index:2976
@@ -63377,6 +66353,7 @@ who_f2(it_0120_005638,0).
 who_f3(it_0120_005638,0).
 who_f4(it_0120_005638,9).
 typeofoutcome_updated(it_0120_005638,9).
+vaccine(it_0120_005638,0,2).
 patient(it_0120_005638,neg).
 
 %patient: it-0120-005639 index:2977
@@ -63397,6 +66374,7 @@ who_f2(it_0120_005639,0).
 who_f3(it_0120_005639,0).
 who_f4(it_0120_005639,9).
 typeofoutcome_updated(it_0120_005639,9).
+vaccine(it_0120_005639,0,2).
 patient(it_0120_005639,neg).
 
 %patient: it-0120-005640 index:2978
@@ -63417,6 +66395,7 @@ who_f2(it_0120_005640,0).
 who_f3(it_0120_005640,0).
 who_f4(it_0120_005640,9).
 typeofoutcome_updated(it_0120_005640,9).
+vaccine(it_0120_005640,0,2).
 patient(it_0120_005640,neg).
 
 %patient: it-0120-005641 index:2979
@@ -63435,6 +66414,7 @@ who_f2(it_0120_005641,0).
 who_f3(it_0120_005641,0).
 who_f4(it_0120_005641,9).
 typeofoutcome_updated(it_0120_005641,9).
+vaccine(it_0120_005641,0,2).
 patient(it_0120_005641,neg).
 
 %patient: it-0120-005642 index:2980
@@ -63459,6 +66439,7 @@ who_f2(it_0120_005642,0).
 who_f3(it_0120_005642,0).
 who_f4(it_0120_005642,9).
 typeofoutcome_updated(it_0120_005642,9).
+vaccine(it_0120_005642,0,2).
 patient(it_0120_005642,neg).
 
 %patient: it-0120-005643 index:2981
@@ -63482,6 +66463,7 @@ who_f2(it_0120_005643,0).
 who_f3(it_0120_005643,0).
 who_f4(it_0120_005643,9).
 typeofoutcome_updated(it_0120_005643,9).
+vaccine(it_0120_005643,0,2).
 patient(it_0120_005643,neg).
 
 %patient: it-0120-005644 index:2982
@@ -63503,6 +66485,7 @@ who_f2(it_0120_005644,0).
 who_f3(it_0120_005644,0).
 who_f4(it_0120_005644,9).
 typeofoutcome_updated(it_0120_005644,9).
+vaccine(it_0120_005644,0,2).
 patient(it_0120_005644,neg).
 
 %patient: it-0120-005645 index:2983
@@ -63521,6 +66504,7 @@ who_f2(it_0120_005645,0).
 who_f3(it_0120_005645,0).
 who_f4(it_0120_005645,9).
 typeofoutcome_updated(it_0120_005645,9).
+vaccine(it_0120_005645,0,2).
 patient(it_0120_005645,neg).
 
 %patient: it-0120-005646 index:2984
@@ -63541,6 +66525,7 @@ who_f2(it_0120_005646,0).
 who_f3(it_0120_005646,0).
 who_f4(it_0120_005646,9).
 typeofoutcome_updated(it_0120_005646,9).
+vaccine(it_0120_005646,0,2).
 patient(it_0120_005646,neg).
 
 %patient: it-0120-005647 index:2985
@@ -63561,6 +66546,7 @@ who_f2(it_0120_005647,0).
 who_f3(it_0120_005647,0).
 who_f4(it_0120_005647,9).
 typeofoutcome_updated(it_0120_005647,9).
+vaccine(it_0120_005647,0,2).
 patient(it_0120_005647,neg).
 
 %patient: it-0120-005648 index:2986
@@ -63581,6 +66567,7 @@ who_f2(it_0120_005648,0).
 who_f3(it_0120_005648,0).
 who_f4(it_0120_005648,9).
 typeofoutcome_updated(it_0120_005648,9).
+vaccine(it_0120_005648,0,2).
 patient(it_0120_005648,neg).
 
 %patient: it-0120-005649 index:2987
@@ -63604,6 +66591,7 @@ who_f2(it_0120_005649,0).
 who_f3(it_0120_005649,0).
 who_f4(it_0120_005649,9).
 typeofoutcome_updated(it_0120_005649,9).
+vaccine(it_0120_005649,0,2).
 patient(it_0120_005649,neg).
 
 %patient: it-0121-005672 index:2988
@@ -63627,6 +66615,7 @@ who_f2(it_0121_005672,0).
 who_f3(it_0121_005672,0).
 who_f4(it_0121_005672,9).
 typeofoutcome_updated(it_0121_005672,9).
+vaccine(it_0121_005672,0,2).
 patient(it_0121_005672,neg).
 
 %patient: it-0125-006425 index:2989
@@ -63651,6 +66640,7 @@ who_f2(it_0125_006425,0).
 who_f3(it_0125_006425,0).
 who_f4(it_0125_006425,9).
 typeofoutcome_updated(it_0125_006425,9).
+vaccine(it_0125_006425,0,2).
 patient(it_0125_006425,neg).
 
 %patient: it-0138-004457 index:2990
@@ -63669,6 +66659,7 @@ who_f2(it_0138_004457,0).
 who_f3(it_0138_004457,0).
 who_f4(it_0138_004457,9).
 typeofoutcome_updated(it_0138_004457,9).
+vaccine(it_0138_004457,0,2).
 patient(it_0138_004457,neg).
 
 %patient: it-0142-006367 index:2991
@@ -63691,6 +66682,7 @@ who_f2(it_0142_006367,0).
 who_f3(it_0142_006367,0).
 who_f4(it_0142_006367,9).
 typeofoutcome_updated(it_0142_006367,9).
+vaccine(it_0142_006367,0,2).
 patient(it_0142_006367,neg).
 
 %patient: it-0142-006370 index:2992
@@ -63715,6 +66707,7 @@ who_f2(it_0142_006370,0).
 who_f3(it_0142_006370,0).
 who_f4(it_0142_006370,9).
 typeofoutcome_updated(it_0142_006370,9).
+vaccine(it_0142_006370,0,2).
 patient(it_0142_006370,neg).
 
 %patient: it-0142-006372 index:2993
@@ -63738,6 +66731,7 @@ who_f2(it_0142_006372,0).
 who_f3(it_0142_006372,0).
 who_f4(it_0142_006372,9).
 typeofoutcome_updated(it_0142_006372,9).
+vaccine(it_0142_006372,0,2).
 patient(it_0142_006372,neg).
 
 %patient: it-0142-006373 index:2994
@@ -63762,6 +66756,7 @@ who_f2(it_0142_006373,0).
 who_f3(it_0142_006373,0).
 who_f4(it_0142_006373,9).
 typeofoutcome_updated(it_0142_006373,9).
+vaccine(it_0142_006373,0,2).
 patient(it_0142_006373,neg).
 
 %patient: it-0142-006377 index:2995
@@ -63783,6 +66778,7 @@ who_f2(it_0142_006377,0).
 who_f3(it_0142_006377,0).
 who_f4(it_0142_006377,9).
 typeofoutcome_updated(it_0142_006377,9).
+vaccine(it_0142_006377,0,2).
 patient(it_0142_006377,neg).
 
 %patient: it-0142-006379 index:2996
@@ -63802,6 +66798,7 @@ who_f2(it_0142_006379,0).
 who_f3(it_0142_006379,0).
 who_f4(it_0142_006379,9).
 typeofoutcome_updated(it_0142_006379,9).
+vaccine(it_0142_006379,0,2).
 patient(it_0142_006379,neg).
 
 %patient: it-0142-006381 index:2997
@@ -63827,6 +66824,7 @@ who_f2(it_0142_006381,0).
 who_f3(it_0142_006381,0).
 who_f4(it_0142_006381,9).
 typeofoutcome_updated(it_0142_006381,9).
+vaccine(it_0142_006381,0,2).
 patient(it_0142_006381,neg).
 
 %patient: it-0142-006383 index:2998
@@ -63855,6 +66853,7 @@ who_f2(it_0142_006383,0).
 who_f3(it_0142_006383,0).
 who_f4(it_0142_006383,9).
 typeofoutcome_updated(it_0142_006383,9).
+vaccine(it_0142_006383,0,2).
 patient(it_0142_006383,neg).
 
 %patient: it-0142-006385 index:2999
@@ -63876,6 +66875,7 @@ who_f2(it_0142_006385,0).
 who_f3(it_0142_006385,0).
 who_f4(it_0142_006385,9).
 typeofoutcome_updated(it_0142_006385,9).
+vaccine(it_0142_006385,0,2).
 patient(it_0142_006385,neg).
 
 %patient: it-0142-006386 index:3000
@@ -63898,6 +66898,7 @@ who_f2(it_0142_006386,0).
 who_f3(it_0142_006386,0).
 who_f4(it_0142_006386,9).
 typeofoutcome_updated(it_0142_006386,9).
+vaccine(it_0142_006386,0,2).
 patient(it_0142_006386,neg).
 
 %patient: it-0142-006387 index:3001
@@ -63925,6 +66926,7 @@ who_f2(it_0142_006387,0).
 who_f3(it_0142_006387,0).
 who_f4(it_0142_006387,9).
 typeofoutcome_updated(it_0142_006387,9).
+vaccine(it_0142_006387,0,2).
 patient(it_0142_006387,neg).
 
 %patient: it-0142-006389 index:3002
@@ -63943,6 +66945,7 @@ who_f2(it_0142_006389,0).
 who_f3(it_0142_006389,0).
 who_f4(it_0142_006389,9).
 typeofoutcome_updated(it_0142_006389,9).
+vaccine(it_0142_006389,0,2).
 patient(it_0142_006389,neg).
 
 %patient: it-0142-006391 index:3003
@@ -63964,6 +66967,7 @@ who_f2(it_0142_006391,0).
 who_f3(it_0142_006391,0).
 who_f4(it_0142_006391,9).
 typeofoutcome_updated(it_0142_006391,9).
+vaccine(it_0142_006391,0,2).
 patient(it_0142_006391,neg).
 
 %patient: it-0142-006392 index:3004
@@ -63991,6 +66995,7 @@ who_f2(it_0142_006392,0).
 who_f3(it_0142_006392,0).
 who_f4(it_0142_006392,9).
 typeofoutcome_updated(it_0142_006392,9).
+vaccine(it_0142_006392,0,2).
 patient(it_0142_006392,neg).
 
 %patient: it-0142-006587 index:3005
@@ -64015,6 +67020,7 @@ who_f2(it_0142_006587,0).
 who_f3(it_0142_006587,0).
 who_f4(it_0142_006587,9).
 typeofoutcome_updated(it_0142_006587,9).
+vaccine(it_0142_006587,0,2).
 patient(it_0142_006587,neg).
 
 %patient: it-0142-006594 index:3006
@@ -64040,6 +67046,7 @@ who_f2(it_0142_006594,0).
 who_f3(it_0142_006594,0).
 who_f4(it_0142_006594,9).
 typeofoutcome_updated(it_0142_006594,9).
+vaccine(it_0142_006594,0,2).
 patient(it_0142_006594,neg).
 
 %patient: it-0146-004516 index:3007
@@ -64061,6 +67068,7 @@ who_f2(it_0146_004516,0).
 who_f3(it_0146_004516,0).
 who_f4(it_0146_004516,9).
 typeofoutcome_updated(it_0146_004516,9).
+vaccine(it_0146_004516,0,2).
 patient(it_0146_004516,neg).
 
 %patient: it-0146-004517 index:3008
@@ -64078,6 +67086,7 @@ who_f2(it_0146_004517,0).
 who_f3(it_0146_004517,0).
 who_f4(it_0146_004517,9).
 typeofoutcome_updated(it_0146_004517,9).
+vaccine(it_0146_004517,0,2).
 patient(it_0146_004517,neg).
 
 %patient: it-0146-004518 index:3009
@@ -64100,6 +67109,7 @@ who_f2(it_0146_004518,0).
 who_f3(it_0146_004518,0).
 who_f4(it_0146_004518,9).
 typeofoutcome_updated(it_0146_004518,9).
+vaccine(it_0146_004518,0,2).
 patient(it_0146_004518,neg).
 
 %patient: it-0146-004519 index:3010
@@ -64121,6 +67131,7 @@ who_f2(it_0146_004519,0).
 who_f3(it_0146_004519,0).
 who_f4(it_0146_004519,9).
 typeofoutcome_updated(it_0146_004519,9).
+vaccine(it_0146_004519,0,2).
 patient(it_0146_004519,neg).
 
 %patient: it-0146-004520 index:3011
@@ -64145,6 +67156,7 @@ who_f2(it_0146_004520,0).
 who_f3(it_0146_004520,0).
 who_f4(it_0146_004520,9).
 typeofoutcome_updated(it_0146_004520,9).
+vaccine(it_0146_004520,0,2).
 patient(it_0146_004520,neg).
 
 %patient: it-0146-004521 index:3012
@@ -64162,6 +67174,7 @@ who_f2(it_0146_004521,0).
 who_f3(it_0146_004521,0).
 who_f4(it_0146_004521,9).
 typeofoutcome_updated(it_0146_004521,9).
+vaccine(it_0146_004521,0,2).
 patient(it_0146_004521,neg).
 
 %patient: it-0146-004522 index:3013
@@ -64180,6 +67193,7 @@ who_f2(it_0146_004522,0).
 who_f3(it_0146_004522,0).
 who_f4(it_0146_004522,9).
 typeofoutcome_updated(it_0146_004522,9).
+vaccine(it_0146_004522,0,2).
 patient(it_0146_004522,neg).
 
 %patient: it-0146-004523 index:3014
@@ -64197,6 +67211,7 @@ who_f2(it_0146_004523,0).
 who_f3(it_0146_004523,0).
 who_f4(it_0146_004523,9).
 typeofoutcome_updated(it_0146_004523,9).
+vaccine(it_0146_004523,0,2).
 patient(it_0146_004523,neg).
 
 %patient: it-0146-004524 index:3015
@@ -64218,6 +67233,7 @@ who_f2(it_0146_004524,0).
 who_f3(it_0146_004524,0).
 who_f4(it_0146_004524,9).
 typeofoutcome_updated(it_0146_004524,9).
+vaccine(it_0146_004524,0,2).
 patient(it_0146_004524,neg).
 
 %patient: it-0146-005231 index:3016
@@ -64242,6 +67258,7 @@ who_f2(it_0146_005231,0).
 who_f3(it_0146_005231,0).
 who_f4(it_0146_005231,9).
 typeofoutcome_updated(it_0146_005231,9).
+vaccine(it_0146_005231,0,2).
 patient(it_0146_005231,neg).
 
 %patient: it-0146-005232 index:3017
@@ -64263,6 +67280,7 @@ who_f2(it_0146_005232,0).
 who_f3(it_0146_005232,0).
 who_f4(it_0146_005232,9).
 typeofoutcome_updated(it_0146_005232,9).
+vaccine(it_0146_005232,0,2).
 patient(it_0146_005232,neg).
 
 %patient: it-0146-005233 index:3018
@@ -64284,6 +67302,7 @@ who_f2(it_0146_005233,0).
 who_f3(it_0146_005233,0).
 who_f4(it_0146_005233,9).
 typeofoutcome_updated(it_0146_005233,9).
+vaccine(it_0146_005233,0,2).
 patient(it_0146_005233,neg).
 
 %patient: it-0146-005234 index:3019
@@ -64309,6 +67328,7 @@ who_f2(it_0146_005234,0).
 who_f3(it_0146_005234,0).
 who_f4(it_0146_005234,9).
 typeofoutcome_updated(it_0146_005234,9).
+vaccine(it_0146_005234,0,2).
 patient(it_0146_005234,neg).
 
 %patient: it-0152-005007 index:3020
@@ -64329,6 +67349,7 @@ who_f2(it_0152_005007,9).
 who_f3(it_0152_005007,0).
 who_f4(it_0152_005007,9).
 typeofoutcome_updated(it_0152_005007,9).
+vaccine(it_0152_005007,0,2).
 patient(it_0152_005007,neg).
 
 %patient: it-0152-005148 index:3021
@@ -64350,6 +67371,7 @@ who_f2(it_0152_005148,0).
 who_f3(it_0152_005148,0).
 who_f4(it_0152_005148,9).
 typeofoutcome_updated(it_0152_005148,9).
+vaccine(it_0152_005148,0,2).
 patient(it_0152_005148,neg).
 
 %patient: it-0152-005185 index:3022
@@ -64373,6 +67395,7 @@ who_f2(it_0152_005185,0).
 who_f3(it_0152_005185,0).
 who_f4(it_0152_005185,9).
 typeofoutcome_updated(it_0152_005185,9).
+vaccine(it_0152_005185,0,2).
 patient(it_0152_005185,neg).
 
 %patient: it-0152-005192 index:3023
@@ -64394,6 +67417,7 @@ who_f2(it_0152_005192,0).
 who_f3(it_0152_005192,0).
 who_f4(it_0152_005192,9).
 typeofoutcome_updated(it_0152_005192,9).
+vaccine(it_0152_005192,0,2).
 patient(it_0152_005192,neg).
 
 %patient: it-0152-005436 index:3024
@@ -64413,6 +67437,7 @@ who_f2(it_0152_005436,0).
 who_f3(it_0152_005436,0).
 who_f4(it_0152_005436,9).
 typeofoutcome_updated(it_0152_005436,9).
+vaccine(it_0152_005436,0,2).
 patient(it_0152_005436,neg).
 
 %patient: it-0152-005438 index:3025
@@ -64435,6 +67460,7 @@ who_f2(it_0152_005438,0).
 who_f3(it_0152_005438,0).
 who_f4(it_0152_005438,9).
 typeofoutcome_updated(it_0152_005438,9).
+vaccine(it_0152_005438,0,2).
 patient(it_0152_005438,neg).
 
 %patient: it-0152-005453 index:3026
@@ -64458,6 +67484,7 @@ who_f2(it_0152_005453,0).
 who_f3(it_0152_005453,0).
 who_f4(it_0152_005453,9).
 typeofoutcome_updated(it_0152_005453,9).
+vaccine(it_0152_005453,0,2).
 patient(it_0152_005453,neg).
 
 %patient: it-0152-005551 index:3027
@@ -64479,6 +67506,7 @@ who_f2(it_0152_005551,0).
 who_f3(it_0152_005551,0).
 who_f4(it_0152_005551,9).
 typeofoutcome_updated(it_0152_005551,9).
+vaccine(it_0152_005551,0,2).
 patient(it_0152_005551,neg).
 
 %patient: it-0031-003928 index:3028
@@ -64497,6 +67525,7 @@ who_f2(it_0031_003928,0).
 who_f3(it_0031_003928,0).
 who_f4(it_0031_003928,9).
 typeofoutcome_updated(it_0031_003928,9).
+vaccine(it_0031_003928,0,2).
 patient(it_0031_003928,neg).
 
 %patient: it-0031-003989 index:3029
@@ -64517,6 +67546,7 @@ who_f2(it_0031_003989,0).
 who_f3(it_0031_003989,0).
 who_f4(it_0031_003989,9).
 typeofoutcome_updated(it_0031_003989,9).
+vaccine(it_0031_003989,0,2).
 patient(it_0031_003989,neg).
 
 %patient: it-0031-004123 index:3030
@@ -64540,6 +67570,7 @@ who_f2(it_0031_004123,0).
 who_f3(it_0031_004123,0).
 who_f4(it_0031_004123,9).
 typeofoutcome_updated(it_0031_004123,9).
+vaccine(it_0031_004123,0,2).
 patient(it_0031_004123,neg).
 
 %patient: it-0031-004135 index:3031
@@ -64560,6 +67591,7 @@ who_f2(it_0031_004135,0).
 who_f3(it_0031_004135,0).
 who_f4(it_0031_004135,9).
 typeofoutcome_updated(it_0031_004135,9).
+vaccine(it_0031_004135,0,2).
 patient(it_0031_004135,neg).
 
 %patient: it-0031-004137 index:3032
@@ -64576,6 +67608,7 @@ who_f2(it_0031_004137,0).
 who_f3(it_0031_004137,0).
 who_f4(it_0031_004137,9).
 typeofoutcome_updated(it_0031_004137,9).
+vaccine(it_0031_004137,0,2).
 patient(it_0031_004137,neg).
 
 %patient: it-0031-004140 index:3033
@@ -64596,6 +67629,7 @@ who_f2(it_0031_004140,0).
 who_f3(it_0031_004140,0).
 who_f4(it_0031_004140,9).
 typeofoutcome_updated(it_0031_004140,9).
+vaccine(it_0031_004140,0,2).
 patient(it_0031_004140,neg).
 
 %patient: it-0031-004141 index:3034
@@ -64615,6 +67649,7 @@ who_f2(it_0031_004141,0).
 who_f3(it_0031_004141,0).
 who_f4(it_0031_004141,9).
 typeofoutcome_updated(it_0031_004141,9).
+vaccine(it_0031_004141,0,2).
 patient(it_0031_004141,neg).
 
 %patient: it-0031-004142 index:3035
@@ -64634,6 +67669,7 @@ who_f2(it_0031_004142,0).
 who_f3(it_0031_004142,0).
 who_f4(it_0031_004142,9).
 typeofoutcome_updated(it_0031_004142,9).
+vaccine(it_0031_004142,0,2).
 patient(it_0031_004142,neg).
 
 %patient: it-0031-004143 index:3036
@@ -64653,6 +67689,7 @@ who_f2(it_0031_004143,0).
 who_f3(it_0031_004143,0).
 who_f4(it_0031_004143,9).
 typeofoutcome_updated(it_0031_004143,9).
+vaccine(it_0031_004143,0,2).
 patient(it_0031_004143,neg).
 
 %patient: it-0031-004144 index:3037
@@ -64672,6 +67709,7 @@ who_f2(it_0031_004144,0).
 who_f3(it_0031_004144,0).
 who_f4(it_0031_004144,9).
 typeofoutcome_updated(it_0031_004144,9).
+vaccine(it_0031_004144,0,2).
 patient(it_0031_004144,neg).
 
 %patient: it-0031-004145 index:3038
@@ -64692,6 +67730,7 @@ who_f2(it_0031_004145,0).
 who_f3(it_0031_004145,0).
 who_f4(it_0031_004145,9).
 typeofoutcome_updated(it_0031_004145,9).
+vaccine(it_0031_004145,0,2).
 patient(it_0031_004145,neg).
 
 %patient: it-0031-005718 index:3039
@@ -64709,6 +67748,7 @@ who_f2(it_0031_005718,0).
 who_f3(it_0031_005718,0).
 who_f4(it_0031_005718,9).
 typeofoutcome_updated(it_0031_005718,9).
+vaccine(it_0031_005718,0,2).
 patient(it_0031_005718,neg).
 
 %patient: it-0146-004490 index:3040
@@ -64727,6 +67767,7 @@ who_f2(it_0146_004490,0).
 who_f3(it_0146_004490,0).
 who_f4(it_0146_004490,9).
 typeofoutcome_updated(it_0146_004490,9).
+vaccine(it_0146_004490,0,2).
 patient(it_0146_004490,neg).
 
 %patient: it-0146-004491 index:3041
@@ -64746,6 +67787,7 @@ who_f2(it_0146_004491,0).
 who_f3(it_0146_004491,0).
 who_f4(it_0146_004491,9).
 typeofoutcome_updated(it_0146_004491,9).
+vaccine(it_0146_004491,0,2).
 patient(it_0146_004491,neg).
 
 %patient: it-0146-004499 index:3042
@@ -64766,6 +67808,7 @@ who_f2(it_0146_004499,0).
 who_f3(it_0146_004499,0).
 who_f4(it_0146_004499,9).
 typeofoutcome_updated(it_0146_004499,9).
+vaccine(it_0146_004499,0,2).
 patient(it_0146_004499,neg).
 
 %patient: it-0146-004500 index:3043
@@ -64787,6 +67830,7 @@ who_f2(it_0146_004500,0).
 who_f3(it_0146_004500,0).
 who_f4(it_0146_004500,9).
 typeofoutcome_updated(it_0146_004500,9).
+vaccine(it_0146_004500,0,2).
 patient(it_0146_004500,neg).
 
 %patient: it-0146-004501 index:3044
@@ -64808,6 +67852,7 @@ who_f2(it_0146_004501,0).
 who_f3(it_0146_004501,0).
 who_f4(it_0146_004501,9).
 typeofoutcome_updated(it_0146_004501,9).
+vaccine(it_0146_004501,0,2).
 patient(it_0146_004501,neg).
 
 %patient: it-0146-004502 index:3045
@@ -64824,6 +67869,7 @@ who_f2(it_0146_004502,0).
 who_f3(it_0146_004502,0).
 who_f4(it_0146_004502,9).
 typeofoutcome_updated(it_0146_004502,9).
+vaccine(it_0146_004502,0,2).
 patient(it_0146_004502,neg).
 
 %patient: it-0146-004503 index:3046
@@ -64846,6 +67892,7 @@ who_f2(it_0146_004503,0).
 who_f3(it_0146_004503,0).
 who_f4(it_0146_004503,9).
 typeofoutcome_updated(it_0146_004503,9).
+vaccine(it_0146_004503,0,2).
 patient(it_0146_004503,neg).
 
 %patient: it-0146-004504 index:3047
@@ -64865,6 +67912,7 @@ who_f2(it_0146_004504,0).
 who_f3(it_0146_004504,0).
 who_f4(it_0146_004504,9).
 typeofoutcome_updated(it_0146_004504,9).
+vaccine(it_0146_004504,0,2).
 patient(it_0146_004504,neg).
 
 %patient: it-0146-004505 index:3048
@@ -64882,6 +67930,7 @@ who_f2(it_0146_004505,0).
 who_f3(it_0146_004505,0).
 who_f4(it_0146_004505,9).
 typeofoutcome_updated(it_0146_004505,9).
+vaccine(it_0146_004505,0,2).
 patient(it_0146_004505,neg).
 
 %patient: it-0146-006554 index:3049
@@ -64898,6 +67947,7 @@ who_f2(it_0146_006554,0).
 who_f3(it_0146_006554,0).
 who_f4(it_0146_006554,9).
 typeofoutcome_updated(it_0146_006554,9).
+vaccine(it_0146_006554,0,2).
 patient(it_0146_006554,neg).
 
 %patient: it-0166-005033 index:3050
@@ -64921,6 +67971,7 @@ who_f2(it_0166_005033,0).
 who_f3(it_0166_005033,0).
 who_f4(it_0166_005033,9).
 typeofoutcome_updated(it_0166_005033,9).
+vaccine(it_0166_005033,1,2).
 patient(it_0166_005033,neg).
 
 %patient: it-0152-005470 index:3051
@@ -64946,6 +67997,7 @@ who_f2(it_0152_005470,0).
 who_f3(it_0152_005470,0).
 who_f4(it_0152_005470,9).
 typeofoutcome_updated(it_0152_005470,9).
+vaccine(it_0152_005470,0,2).
 patient(it_0152_005470,neg).
 
 %patient: it-0155-004165 index:3052
@@ -64965,6 +68017,7 @@ who_f2(it_0155_004165,0).
 who_f3(it_0155_004165,0).
 who_f4(it_0155_004165,9).
 typeofoutcome_updated(it_0155_004165,9).
+vaccine(it_0155_004165,0,2).
 patient(it_0155_004165,neg).
 
 %patient: it-0155-006571 index:3053
@@ -64985,6 +68038,7 @@ who_f2(it_0155_006571,0).
 who_f3(it_0155_006571,0).
 who_f4(it_0155_006571,9).
 typeofoutcome_updated(it_0155_006571,9).
+vaccine(it_0155_006571,0,2).
 patient(it_0155_006571,neg).
 
 %patient: it-0155-006577 index:3054
@@ -65003,6 +68057,7 @@ who_f2(it_0155_006577,0).
 who_f3(it_0155_006577,0).
 who_f4(it_0155_006577,9).
 typeofoutcome_updated(it_0155_006577,9).
+vaccine(it_0155_006577,0,2).
 patient(it_0155_006577,neg).
 
 %patient: it-0125-006376 index:3055
@@ -65028,6 +68083,7 @@ who_f2(it_0125_006376,0).
 who_f3(it_0125_006376,0).
 who_f4(it_0125_006376,9).
 typeofoutcome_updated(it_0125_006376,9).
+vaccine(it_0125_006376,0,2).
 patient(it_0125_006376,neg).
 
 %patient: it-0146-005238 index:3056
@@ -65045,6 +68101,7 @@ who_f2(it_0146_005238,0).
 who_f3(it_0146_005238,0).
 who_f4(it_0146_005238,9).
 typeofoutcome_updated(it_0146_005238,9).
+vaccine(it_0146_005238,0,2).
 patient(it_0146_005238,neg).
 
 %patient: it-0146-005239 index:3057
@@ -65062,6 +68119,7 @@ who_f2(it_0146_005239,0).
 who_f3(it_0146_005239,0).
 who_f4(it_0146_005239,9).
 typeofoutcome_updated(it_0146_005239,9).
+vaccine(it_0146_005239,0,2).
 patient(it_0146_005239,neg).
 
 %patient: it-0146-006406 index:3058
@@ -65080,6 +68138,7 @@ who_f2(it_0146_006406,0).
 who_f3(it_0146_006406,0).
 who_f4(it_0146_006406,9).
 typeofoutcome_updated(it_0146_006406,9).
+vaccine(it_0146_006406,0,2).
 patient(it_0146_006406,neg).
 
 %patient: it-0146-006409 index:3059
@@ -65098,6 +68157,7 @@ who_f2(it_0146_006409,0).
 who_f3(it_0146_006409,0).
 who_f4(it_0146_006409,9).
 typeofoutcome_updated(it_0146_006409,9).
+vaccine(it_0146_006409,0,1).
 patient(it_0146_006409,neg).
 
 %patient: it-0155-004209 index:3060
@@ -65118,6 +68178,7 @@ who_f2(it_0155_004209,0).
 who_f3(it_0155_004209,0).
 who_f4(it_0155_004209,9).
 typeofoutcome_updated(it_0155_004209,9).
+vaccine(it_0155_004209,0,2).
 patient(it_0155_004209,neg).
 
 %patient: it-0155-004211 index:3061
@@ -65138,6 +68199,7 @@ who_f2(it_0155_004211,0).
 who_f3(it_0155_004211,0).
 who_f4(it_0155_004211,9).
 typeofoutcome_updated(it_0155_004211,9).
+vaccine(it_0155_004211,0,2).
 patient(it_0155_004211,neg).
 
 %patient: it-0155-004212 index:3062
@@ -65156,6 +68218,7 @@ who_f2(it_0155_004212,0).
 who_f3(it_0155_004212,0).
 who_f4(it_0155_004212,9).
 typeofoutcome_updated(it_0155_004212,9).
+vaccine(it_0155_004212,0,2).
 patient(it_0155_004212,neg).
 
 %patient: it-0125-005958 index:3063
@@ -65181,6 +68244,7 @@ who_f2(it_0125_005958,0).
 who_f3(it_0125_005958,0).
 who_f4(it_0125_005958,9).
 typeofoutcome_updated(it_0125_005958,9).
+vaccine(it_0125_005958,0,2).
 patient(it_0125_005958,neg).
 
 %patient: it-0137-005513 index:3064
@@ -65203,6 +68267,7 @@ who_f2(it_0137_005513,0).
 who_f3(it_0137_005513,0).
 who_f4(it_0137_005513,9).
 typeofoutcome_updated(it_0137_005513,9).
+vaccine(it_0137_005513,0,2).
 patient(it_0137_005513,neg).
 
 %patient: it-0146-004492 index:3065
@@ -65220,6 +68285,7 @@ who_f2(it_0146_004492,0).
 who_f3(it_0146_004492,0).
 who_f4(it_0146_004492,9).
 typeofoutcome_updated(it_0146_004492,9).
+vaccine(it_0146_004492,0,2).
 patient(it_0146_004492,neg).
 
 %patient: it-0138-004455 index:3066
@@ -65240,6 +68306,7 @@ who_f2(it_0138_004455,0).
 who_f3(it_0138_004455,0).
 who_f4(it_0138_004455,9).
 typeofoutcome_updated(it_0138_004455,9).
+vaccine(it_0138_004455,0,2).
 patient(it_0138_004455,neg).
 
 %patient: it-0146-005422 index:3067
@@ -65261,6 +68328,7 @@ who_f2(it_0146_005422,0).
 who_f3(it_0146_005422,0).
 who_f4(it_0146_005422,9).
 typeofoutcome_updated(it_0146_005422,9).
+vaccine(it_0146_005422,0,3).
 patient(it_0146_005422,neg).
 
 %patient: it-0146-005417 index:3068
@@ -65283,6 +68351,7 @@ who_f2(it_0146_005417,0).
 who_f3(it_0146_005417,0).
 who_f4(it_0146_005417,9).
 typeofoutcome_updated(it_0146_005417,9).
+vaccine(it_0146_005417,0,3).
 patient(it_0146_005417,neg).
 
 %patient: it-0146-005418 index:3069
@@ -65305,6 +68374,7 @@ who_f2(it_0146_005418,0).
 who_f3(it_0146_005418,0).
 who_f4(it_0146_005418,9).
 typeofoutcome_updated(it_0146_005418,9).
+vaccine(it_0146_005418,0,3).
 patient(it_0146_005418,neg).
 
 %patient: it-0146-005421 index:3070
@@ -65330,6 +68400,7 @@ who_f2(it_0146_005421,0).
 who_f3(it_0146_005421,0).
 who_f4(it_0146_005421,9).
 typeofoutcome_updated(it_0146_005421,9).
+vaccine(it_0146_005421,0,3).
 patient(it_0146_005421,neg).
 
 %patient: it-0146-005424 index:3071
@@ -65348,6 +68419,7 @@ who_f2(it_0146_005424,0).
 who_f3(it_0146_005424,0).
 who_f4(it_0146_005424,9).
 typeofoutcome_updated(it_0146_005424,9).
+vaccine(it_0146_005424,0,3).
 patient(it_0146_005424,neg).
 
 %patient: it-0146-005425 index:3072
@@ -65373,6 +68445,7 @@ who_f2(it_0146_005425,0).
 who_f3(it_0146_005425,0).
 who_f4(it_0146_005425,9).
 typeofoutcome_updated(it_0146_005425,9).
+vaccine(it_0146_005425,0,3).
 patient(it_0146_005425,neg).
 
 %patient: it-0146-005428 index:3073
@@ -65396,6 +68469,7 @@ who_f2(it_0146_005428,0).
 who_f3(it_0146_005428,0).
 who_f4(it_0146_005428,9).
 typeofoutcome_updated(it_0146_005428,9).
+vaccine(it_0146_005428,0,3).
 patient(it_0146_005428,neg).
 
 %patient: it-0146-005429 index:3074
@@ -65424,6 +68498,7 @@ who_f2(it_0146_005429,0).
 who_f3(it_0146_005429,0).
 who_f4(it_0146_005429,9).
 typeofoutcome_updated(it_0146_005429,9).
+vaccine(it_0146_005429,0,3).
 patient(it_0146_005429,neg).
 
 %patient: it-0146-006405 index:3075
@@ -65442,6 +68517,7 @@ who_f2(it_0146_006405,0).
 who_f3(it_0146_006405,0).
 who_f4(it_0146_006405,9).
 typeofoutcome_updated(it_0146_006405,9).
+vaccine(it_0146_006405,0,3).
 patient(it_0146_006405,neg).
 
 %patient: it-0147-004387 index:3076
@@ -65464,6 +68540,7 @@ who_f2(it_0147_004387,9).
 who_f3(it_0147_004387,0).
 who_f4(it_0147_004387,9).
 typeofoutcome_updated(it_0147_004387,9).
+vaccine(it_0147_004387,0,2).
 patient(it_0147_004387,neg).
 
 %patient: it-0146-005416 index:3077
@@ -65486,6 +68563,7 @@ who_f2(it_0146_005416,0).
 who_f3(it_0146_005416,0).
 who_f4(it_0146_005416,9).
 typeofoutcome_updated(it_0146_005416,9).
+vaccine(it_0146_005416,0,3).
 patient(it_0146_005416,neg).
 
 %patient: it-0146-005423 index:3078
@@ -65508,6 +68586,7 @@ who_f2(it_0146_005423,0).
 who_f3(it_0146_005423,0).
 who_f4(it_0146_005423,9).
 typeofoutcome_updated(it_0146_005423,9).
+vaccine(it_0146_005423,0,3).
 patient(it_0146_005423,neg).
 
 %patient: it-0168-005716 index:3079
@@ -65530,6 +68609,7 @@ who_f2(it_0168_005716,0).
 who_f3(it_0168_005716,0).
 who_f4(it_0168_005716,9).
 typeofoutcome_updated(it_0168_005716,9).
+vaccine(it_0168_005716,0,2).
 patient(it_0168_005716,neg).
 
 %patient: it-0146-005415 index:3080
@@ -65553,6 +68633,7 @@ who_f2(it_0146_005415,0).
 who_f3(it_0146_005415,0).
 who_f4(it_0146_005415,9).
 typeofoutcome_updated(it_0146_005415,9).
+vaccine(it_0146_005415,0,3).
 patient(it_0146_005415,neg).
 
 %patient: it-0146-005235 index:3081
@@ -65572,6 +68653,7 @@ who_f2(it_0146_005235,0).
 who_f3(it_0146_005235,0).
 who_f4(it_0146_005235,9).
 typeofoutcome_updated(it_0146_005235,9).
+vaccine(it_0146_005235,0,3).
 patient(it_0146_005235,neg).
 
 %patient: it-0146-005236 index:3082
@@ -65593,6 +68675,7 @@ who_f2(it_0146_005236,0).
 who_f3(it_0146_005236,0).
 who_f4(it_0146_005236,9).
 typeofoutcome_updated(it_0146_005236,9).
+vaccine(it_0146_005236,0,2).
 patient(it_0146_005236,neg).
 
 %patient: it-0146-005237 index:3083
@@ -65611,6 +68694,7 @@ who_f2(it_0146_005237,0).
 who_f3(it_0146_005237,0).
 who_f4(it_0146_005237,9).
 typeofoutcome_updated(it_0146_005237,9).
+vaccine(it_0146_005237,0,3).
 patient(it_0146_005237,neg).
 
 %patient: it-0020-005472 index:3084
@@ -65639,6 +68723,7 @@ who_f2(it_0020_005472,0).
 who_f3(it_0020_005472,0).
 who_f4(it_0020_005472,9).
 typeofoutcome_updated(it_0020_005472,9).
+vaccine(it_0020_005472,0,3).
 patient(it_0020_005472,neg).
 
 %patient: it-0146-006402 index:3085
@@ -65659,6 +68744,7 @@ who_f2(it_0146_006402,0).
 who_f3(it_0146_006402,0).
 who_f4(it_0146_006402,9).
 typeofoutcome_updated(it_0146_006402,9).
+vaccine(it_0146_006402,0,3).
 patient(it_0146_006402,neg).
 
 %patient: it-0143-004269 index:3086
@@ -65687,6 +68773,7 @@ who_f2(it_0143_004269,0).
 who_f3(it_0143_004269,0).
 who_f4(it_0143_004269,9).
 typeofoutcome_updated(it_0143_004269,9).
+vaccine(it_0143_004269,0,3).
 patient(it_0143_004269,neg).
 
 %patient: it-0146-006400 index:3087
@@ -65704,6 +68791,7 @@ who_f2(it_0146_006400,0).
 who_f3(it_0146_006400,0).
 who_f4(it_0146_006400,9).
 typeofoutcome_updated(it_0146_006400,9).
+vaccine(it_0146_006400,0,3).
 patient(it_0146_006400,neg).
 
 %patient: it-0061-004147 index:3088
@@ -65731,6 +68819,7 @@ who_f2(it_0061_004147,0).
 who_f3(it_0061_004147,0).
 who_f4(it_0061_004147,9).
 typeofoutcome_updated(it_0061_004147,9).
+vaccine(it_0061_004147,0,2).
 patient(it_0061_004147,neg).
 
 %patient: it-0020-000288 index:3089
@@ -65758,6 +68847,7 @@ who_f2(it_0020_000288,0).
 who_f3(it_0020_000288,0).
 who_f4(it_0020_000288,9).
 typeofoutcome_updated(it_0020_000288,9).
+vaccine(it_0020_000288,0,3).
 patient(it_0020_000288,neg).
 
 %patient: it-0146-005221 index:3090
@@ -65777,6 +68867,7 @@ who_f2(it_0146_005221,0).
 who_f3(it_0146_005221,0).
 who_f4(it_0146_005221,9).
 typeofoutcome_updated(it_0146_005221,9).
+vaccine(it_0146_005221,0,3).
 patient(it_0146_005221,neg).
 
 %patient: it-0146-005222 index:3091
@@ -65801,6 +68892,7 @@ who_f2(it_0146_005222,0).
 who_f3(it_0146_005222,0).
 who_f4(it_0146_005222,9).
 typeofoutcome_updated(it_0146_005222,9).
+vaccine(it_0146_005222,0,3).
 patient(it_0146_005222,neg).
 
 %patient: it-0146-005225 index:3092
@@ -65820,6 +68912,7 @@ who_f2(it_0146_005225,0).
 who_f3(it_0146_005225,0).
 who_f4(it_0146_005225,9).
 typeofoutcome_updated(it_0146_005225,9).
+vaccine(it_0146_005225,0,3).
 patient(it_0146_005225,neg).
 
 %patient: it-0146-005226 index:3093
@@ -65839,6 +68932,7 @@ who_f2(it_0146_005226,0).
 who_f3(it_0146_005226,0).
 who_f4(it_0146_005226,9).
 typeofoutcome_updated(it_0146_005226,9).
+vaccine(it_0146_005226,0,3).
 patient(it_0146_005226,neg).
 
 %patient: it-0146-005227 index:3094
@@ -65863,6 +68957,7 @@ who_f2(it_0146_005227,0).
 who_f3(it_0146_005227,0).
 who_f4(it_0146_005227,9).
 typeofoutcome_updated(it_0146_005227,9).
+vaccine(it_0146_005227,0,3).
 patient(it_0146_005227,neg).
 
 %patient: it-0146-005223 index:3095
@@ -65886,6 +68981,7 @@ who_f2(it_0146_005223,0).
 who_f3(it_0146_005223,0).
 who_f4(it_0146_005223,9).
 typeofoutcome_updated(it_0146_005223,9).
+vaccine(it_0146_005223,0,3).
 patient(it_0146_005223,neg).
 
 %patient: it-0146-005224 index:3096
@@ -65905,6 +69001,7 @@ who_f2(it_0146_005224,0).
 who_f3(it_0146_005224,0).
 who_f4(it_0146_005224,9).
 typeofoutcome_updated(it_0146_005224,9).
+vaccine(it_0146_005224,0,3).
 patient(it_0146_005224,neg).
 
 %patient: it-0146-005229 index:3097
@@ -65924,6 +69021,7 @@ who_f2(it_0146_005229,0).
 who_f3(it_0146_005229,0).
 who_f4(it_0146_005229,9).
 typeofoutcome_updated(it_0146_005229,9).
+vaccine(it_0146_005229,0,3).
 patient(it_0146_005229,neg).
 
 %patient: it-0146-005230 index:3098
@@ -65948,6 +69046,7 @@ who_f2(it_0146_005230,0).
 who_f3(it_0146_005230,0).
 who_f4(it_0146_005230,9).
 typeofoutcome_updated(it_0146_005230,9).
+vaccine(it_0146_005230,0,2).
 patient(it_0146_005230,neg).
 
 %patient: it-0166-006226 index:3099
@@ -65967,6 +69066,7 @@ who_f2(it_0166_006226,0).
 who_f3(it_0166_006226,0).
 who_f4(it_0166_006226,9).
 typeofoutcome_updated(it_0166_006226,9).
+vaccine(it_0166_006226,1,3).
 patient(it_0166_006226,neg).
 
 %patient: it-0039-003983 index:3100
@@ -65990,6 +69090,7 @@ who_f2(it_0039_003983,0).
 who_f3(it_0039_003983,0).
 who_f4(it_0039_003983,9).
 typeofoutcome_updated(it_0039_003983,9).
+vaccine(it_0039_003983,0,3).
 patient(it_0039_003983,neg).
 
 %patient: it-0039-000389 index:3101
@@ -66014,6 +69115,7 @@ who_f2(it_0039_000389,9).
 who_f3(it_0039_000389,0).
 who_f4(it_0039_000389,9).
 typeofoutcome_updated(it_0039_000389,9).
+vaccine(it_0039_000389,9,3).
 patient(it_0039_000389,neg).
 
 %patient: it-0039-000390 index:3102
@@ -66037,6 +69139,7 @@ who_f2(it_0039_000390,9).
 who_f3(it_0039_000390,0).
 who_f4(it_0039_000390,9).
 typeofoutcome_updated(it_0039_000390,9).
+vaccine(it_0039_000390,9,3).
 patient(it_0039_000390,neg).
 
 %patient: it-0039-000391 index:3103
@@ -66065,6 +69168,7 @@ who_f2(it_0039_000391,9).
 who_f3(it_0039_000391,0).
 who_f4(it_0039_000391,9).
 typeofoutcome_updated(it_0039_000391,9).
+vaccine(it_0039_000391,9,3).
 patient(it_0039_000391,neg).
 
 %patient: it-0039-000392 index:3104
@@ -66088,6 +69192,7 @@ who_f2(it_0039_000392,0).
 who_f3(it_0039_000392,0).
 who_f4(it_0039_000392,9).
 typeofoutcome_updated(it_0039_000392,9).
+vaccine(it_0039_000392,9,3).
 patient(it_0039_000392,neg).
 
 %patient: it-0039-003747 index:3105
@@ -66117,6 +69222,7 @@ who_f2(it_0039_003747,0).
 who_f3(it_0039_003747,0).
 who_f4(it_0039_003747,9).
 typeofoutcome_updated(it_0039_003747,9).
+vaccine(it_0039_003747,0,3).
 patient(it_0039_003747,neg).
 
 %patient: it-0039-003818 index:3106
@@ -66144,6 +69250,7 @@ who_f2(it_0039_003818,0).
 who_f3(it_0039_003818,0).
 who_f4(it_0039_003818,9).
 typeofoutcome_updated(it_0039_003818,9).
+vaccine(it_0039_003818,0,3).
 patient(it_0039_003818,neg).
 
 %patient: it-0039-003931 index:3107
@@ -66171,6 +69278,7 @@ who_f2(it_0039_003931,0).
 who_f3(it_0039_003931,0).
 who_f4(it_0039_003931,9).
 typeofoutcome_updated(it_0039_003931,9).
+vaccine(it_0039_003931,0,3).
 patient(it_0039_003931,neg).
 
 %patient: it-0039-003935 index:3108
@@ -66196,6 +69304,7 @@ who_f2(it_0039_003935,0).
 who_f3(it_0039_003935,0).
 who_f4(it_0039_003935,9).
 typeofoutcome_updated(it_0039_003935,9).
+vaccine(it_0039_003935,0,3).
 patient(it_0039_003935,neg).
 
 %patient: it-0039-003973 index:3109
@@ -66221,6 +69330,7 @@ who_f2(it_0039_003973,0).
 who_f3(it_0039_003973,0).
 who_f4(it_0039_003973,9).
 typeofoutcome_updated(it_0039_003973,9).
+vaccine(it_0039_003973,0,3).
 patient(it_0039_003973,neg).
 
 %patient: it-0039-003979 index:3110
@@ -66246,6 +69356,7 @@ who_f2(it_0039_003979,0).
 who_f3(it_0039_003979,0).
 who_f4(it_0039_003979,9).
 typeofoutcome_updated(it_0039_003979,9).
+vaccine(it_0039_003979,0,3).
 patient(it_0039_003979,neg).
 
 %patient: it-0039-003855 index:3111
@@ -66272,6 +69383,7 @@ who_f2(it_0039_003855,9).
 who_f3(it_0039_003855,0).
 who_f4(it_0039_003855,9).
 typeofoutcome_updated(it_0039_003855,9).
+vaccine(it_0039_003855,0,3).
 patient(it_0039_003855,neg).
 
 %patient: it-0019-002666 index:3112
@@ -66293,6 +69405,7 @@ who_f2(it_0019_002666,0).
 who_f3(it_0019_002666,0).
 who_f4(it_0019_002666,9).
 typeofoutcome_updated(it_0019_002666,9).
+vaccine(it_0019_002666,0,3).
 patient(it_0019_002666,neg).
 
 %patient: it-0016-003677 index:3113
@@ -66317,6 +69430,7 @@ who_f2(it_0016_003677,0).
 who_f3(it_0016_003677,0).
 who_f4(it_0016_003677,9).
 typeofoutcome_updated(it_0016_003677,9).
+vaccine(it_0016_003677,0,3).
 patient(it_0016_003677,neg).
 
 %patient: it-0103-006117 index:3114
@@ -66336,6 +69450,7 @@ who_f2(it_0103_006117,0).
 who_f3(it_0103_006117,0).
 who_f4(it_0103_006117,9).
 typeofoutcome_updated(it_0103_006117,9).
+vaccine(it_0103_006117,0,3).
 patient(it_0103_006117,neg).
 
 %patient: it-0138-004479 index:3115
@@ -66354,6 +69469,7 @@ who_f2(it_0138_004479,0).
 who_f3(it_0138_004479,0).
 who_f4(it_0138_004479,9).
 typeofoutcome_updated(it_0138_004479,9).
+vaccine(it_0138_004479,0,3).
 patient(it_0138_004479,neg).
 
 %patient: it-0168-005365 index:3116
@@ -66374,6 +69490,7 @@ who_f2(it_0168_005365,0).
 who_f3(it_0168_005365,0).
 who_f4(it_0168_005365,9).
 typeofoutcome_updated(it_0168_005365,9).
+vaccine(it_0168_005365,0,3).
 patient(it_0168_005365,neg).
 
 %patient: it-0168-005463 index:3117
@@ -66394,6 +69511,7 @@ who_f2(it_0168_005463,0).
 who_f3(it_0168_005463,0).
 who_f4(it_0168_005463,9).
 typeofoutcome_updated(it_0168_005463,9).
+vaccine(it_0168_005463,0,3).
 patient(it_0168_005463,neg).
 
 %patient: it-0168-005661 index:3118
@@ -66414,6 +69532,7 @@ who_f2(it_0168_005661,0).
 who_f3(it_0168_005661,0).
 who_f4(it_0168_005661,9).
 typeofoutcome_updated(it_0168_005661,9).
+vaccine(it_0168_005661,0,3).
 patient(it_0168_005661,neg).
 
 %patient: it-0168-005663 index:3119
@@ -66436,6 +69555,7 @@ who_f2(it_0168_005663,0).
 who_f3(it_0168_005663,0).
 who_f4(it_0168_005663,9).
 typeofoutcome_updated(it_0168_005663,9).
+vaccine(it_0168_005663,0,3).
 patient(it_0168_005663,neg).
 
 %patient: it-0168-005664 index:3120
@@ -66456,6 +69576,7 @@ who_f2(it_0168_005664,0).
 who_f3(it_0168_005664,0).
 who_f4(it_0168_005664,9).
 typeofoutcome_updated(it_0168_005664,9).
+vaccine(it_0168_005664,0,3).
 patient(it_0168_005664,neg).
 
 %patient: it-0168-005665 index:3121
@@ -66475,6 +69596,7 @@ who_f2(it_0168_005665,0).
 who_f3(it_0168_005665,0).
 who_f4(it_0168_005665,9).
 typeofoutcome_updated(it_0168_005665,9).
+vaccine(it_0168_005665,0,3).
 patient(it_0168_005665,neg).
 
 %patient: it-0168-005667 index:3122
@@ -66497,6 +69619,7 @@ who_f2(it_0168_005667,0).
 who_f3(it_0168_005667,0).
 who_f4(it_0168_005667,9).
 typeofoutcome_updated(it_0168_005667,9).
+vaccine(it_0168_005667,0,3).
 patient(it_0168_005667,neg).
 
 %patient: it-0168-005668 index:3123
@@ -66520,6 +69643,7 @@ who_f2(it_0168_005668,0).
 who_f3(it_0168_005668,0).
 who_f4(it_0168_005668,9).
 typeofoutcome_updated(it_0168_005668,9).
+vaccine(it_0168_005668,0,3).
 patient(it_0168_005668,neg).
 
 %patient: it-0168-005669 index:3124
@@ -66543,6 +69667,7 @@ who_f2(it_0168_005669,0).
 who_f3(it_0168_005669,0).
 who_f4(it_0168_005669,9).
 typeofoutcome_updated(it_0168_005669,9).
+vaccine(it_0168_005669,0,3).
 patient(it_0168_005669,neg).
 
 %patient: it-0168-005670 index:3125
@@ -66564,6 +69689,7 @@ who_f2(it_0168_005670,0).
 who_f3(it_0168_005670,0).
 who_f4(it_0168_005670,9).
 typeofoutcome_updated(it_0168_005670,9).
+vaccine(it_0168_005670,0,3).
 patient(it_0168_005670,neg).
 
 %patient: it-0168-005717 index:3126
@@ -66587,6 +69713,7 @@ who_f2(it_0168_005717,0).
 who_f3(it_0168_005717,0).
 who_f4(it_0168_005717,9).
 typeofoutcome_updated(it_0168_005717,9).
+vaccine(it_0168_005717,0,3).
 patient(it_0168_005717,neg).
 
 %patient: it-0168-005731 index:3127
@@ -66611,6 +69738,7 @@ who_f2(it_0168_005731,0).
 who_f3(it_0168_005731,0).
 who_f4(it_0168_005731,9).
 typeofoutcome_updated(it_0168_005731,9).
+vaccine(it_0168_005731,0,3).
 patient(it_0168_005731,neg).
 
 %patient: it-0168-005737 index:3128
@@ -66632,6 +69760,7 @@ who_f2(it_0168_005737,0).
 who_f3(it_0168_005737,0).
 who_f4(it_0168_005737,9).
 typeofoutcome_updated(it_0168_005737,9).
+vaccine(it_0168_005737,0,3).
 patient(it_0168_005737,neg).
 
 %patient: it-0168-005753 index:3129
@@ -66652,6 +69781,7 @@ who_f2(it_0168_005753,0).
 who_f3(it_0168_005753,0).
 who_f4(it_0168_005753,9).
 typeofoutcome_updated(it_0168_005753,9).
+vaccine(it_0168_005753,0,3).
 patient(it_0168_005753,neg).
 
 %patient: it-0168-005754 index:3130
@@ -66672,6 +69802,7 @@ who_f2(it_0168_005754,0).
 who_f3(it_0168_005754,0).
 who_f4(it_0168_005754,9).
 typeofoutcome_updated(it_0168_005754,9).
+vaccine(it_0168_005754,0,3).
 patient(it_0168_005754,neg).
 
 %patient: it-0168-005757 index:3131
@@ -66693,6 +69824,7 @@ who_f2(it_0168_005757,0).
 who_f3(it_0168_005757,0).
 who_f4(it_0168_005757,9).
 typeofoutcome_updated(it_0168_005757,9).
+vaccine(it_0168_005757,0,3).
 patient(it_0168_005757,neg).
 
 %patient: it-0168-005760 index:3132
@@ -66712,6 +69844,7 @@ who_f2(it_0168_005760,0).
 who_f3(it_0168_005760,0).
 who_f4(it_0168_005760,9).
 typeofoutcome_updated(it_0168_005760,9).
+vaccine(it_0168_005760,0,3).
 patient(it_0168_005760,neg).
 
 %patient: it-0168-005763 index:3133
@@ -66736,6 +69869,7 @@ who_f2(it_0168_005763,0).
 who_f3(it_0168_005763,0).
 who_f4(it_0168_005763,9).
 typeofoutcome_updated(it_0168_005763,9).
+vaccine(it_0168_005763,0,3).
 patient(it_0168_005763,neg).
 
 %patient: it-0123-005691 index:3134
@@ -66761,6 +69895,7 @@ who_f2(it_0123_005691,0).
 who_f3(it_0123_005691,0).
 who_f4(it_0123_005691,9).
 typeofoutcome_updated(it_0123_005691,9).
+vaccine(it_0123_005691,0,3).
 patient(it_0123_005691,neg).
 
 %patient: it-0123-005703 index:3135
@@ -66783,6 +69918,7 @@ who_f2(it_0123_005703,0).
 who_f3(it_0123_005703,0).
 who_f4(it_0123_005703,9).
 typeofoutcome_updated(it_0123_005703,9).
+vaccine(it_0123_005703,0,3).
 patient(it_0123_005703,neg).
 
 %patient: it-0146-004514 index:3136
@@ -66801,6 +69937,7 @@ who_f2(it_0146_004514,0).
 who_f3(it_0146_004514,0).
 who_f4(it_0146_004514,9).
 typeofoutcome_updated(it_0146_004514,9).
+vaccine(it_0146_004514,0,3).
 patient(it_0146_004514,neg).
 
 %patient: it-0103-005978 index:3137
@@ -66820,6 +69957,7 @@ who_f2(it_0103_005978,1).
 who_f3(it_0103_005978,1).
 who_f4(it_0103_005978,1).
 typeofoutcome_updated(it_0103_005978,9).
+vaccine(it_0103_005978,0,2).
 patient(it_0103_005978,neg).
 
 %patient: it-0103-005979 index:3138
@@ -66842,6 +69980,7 @@ who_f2(it_0103_005979,1).
 who_f3(it_0103_005979,1).
 who_f4(it_0103_005979,1).
 typeofoutcome_updated(it_0103_005979,9).
+vaccine(it_0103_005979,0,2).
 patient(it_0103_005979,neg).
 
 %patient: it-0031-004146 index:3139
@@ -66863,6 +70002,7 @@ who_f2(it_0031_004146,0).
 who_f3(it_0031_004146,0).
 who_f4(it_0031_004146,0).
 typeofoutcome_updated(it_0031_004146,9).
+vaccine(it_0031_004146,0,2).
 patient(it_0031_004146,neg).
 
 %patient: it-0031-004157 index:3140
@@ -66885,6 +70025,7 @@ who_f2(it_0031_004157,0).
 who_f3(it_0031_004157,0).
 who_f4(it_0031_004157,9).
 typeofoutcome_updated(it_0031_004157,9).
+vaccine(it_0031_004157,0,2).
 patient(it_0031_004157,neg).
 
 %patient: it-0031-004158 index:3141
@@ -66904,6 +70045,7 @@ who_f2(it_0031_004158,0).
 who_f3(it_0031_004158,0).
 who_f4(it_0031_004158,9).
 typeofoutcome_updated(it_0031_004158,9).
+vaccine(it_0031_004158,0,2).
 patient(it_0031_004158,neg).
 
 %patient: it-0031-005524 index:3142
@@ -66927,6 +70069,7 @@ who_f2(it_0031_005524,0).
 who_f3(it_0031_005524,0).
 who_f4(it_0031_005524,9).
 typeofoutcome_updated(it_0031_005524,9).
+vaccine(it_0031_005524,0,2).
 patient(it_0031_005524,neg).
 
 %patient: it-0051-006691 index:3143
@@ -66948,6 +70091,7 @@ who_f2(it_0051_006691,0).
 who_f3(it_0051_006691,0).
 who_f4(it_0051_006691,0).
 typeofoutcome_updated(it_0051_006691,9).
+vaccine(it_0051_006691,0,2).
 patient(it_0051_006691,neg).
 
 %patient: it-0051-006696 index:3144
@@ -66969,6 +70113,7 @@ who_f2(it_0051_006696,0).
 who_f3(it_0051_006696,0).
 who_f4(it_0051_006696,0).
 typeofoutcome_updated(it_0051_006696,9).
+vaccine(it_0051_006696,0,2).
 patient(it_0051_006696,neg).
 
 %patient: it-0061-004217 index:3145
@@ -66988,6 +70133,7 @@ who_f2(it_0061_004217,0).
 who_f3(it_0061_004217,0).
 who_f4(it_0061_004217,0).
 typeofoutcome_updated(it_0061_004217,9).
+vaccine(it_0061_004217,0,3).
 patient(it_0061_004217,neg).
 
 %patient: it-0061-006486 index:3146
@@ -67014,6 +70160,7 @@ who_f2(it_0061_006486,0).
 who_f3(it_0061_006486,1).
 who_f4(it_0061_006486,1).
 typeofoutcome_updated(it_0061_006486,9).
+vaccine(it_0061_006486,0,2).
 patient(it_0061_006486,neg).
 
 %patient: it-0106-006757 index:3147
@@ -67037,6 +70184,7 @@ who_f2(it_0106_006757,0).
 who_f3(it_0106_006757,0).
 who_f4(it_0106_006757,0).
 typeofoutcome_updated(it_0106_006757,9).
+vaccine(it_0106_006757,0,3).
 patient(it_0106_006757,neg).
 
 %patient: it-0125-004156 index:3148
@@ -67058,6 +70206,7 @@ who_f2(it_0125_004156,0).
 who_f3(it_0125_004156,0).
 who_f4(it_0125_004156,0).
 typeofoutcome_updated(it_0125_004156,9).
+vaccine(it_0125_004156,0,3).
 patient(it_0125_004156,neg).
 
 %patient: it-0138-004478 index:3149
@@ -67079,6 +70228,7 @@ who_f2(it_0138_004478,0).
 who_f3(it_0138_004478,0).
 who_f4(it_0138_004478,9).
 typeofoutcome_updated(it_0138_004478,9).
+vaccine(it_0138_004478,0,3).
 patient(it_0138_004478,neg).
 
 %patient: it-0146-004486 index:3150
@@ -67099,6 +70249,7 @@ who_f2(it_0146_004486,0).
 who_f3(it_0146_004486,0).
 who_f4(it_0146_004486,0).
 typeofoutcome_updated(it_0146_004486,9).
+vaccine(it_0146_004486,0,3).
 patient(it_0146_004486,neg).
 
 %patient: it-0146-004487 index:3151
@@ -67118,6 +70269,7 @@ who_f2(it_0146_004487,0).
 who_f3(it_0146_004487,0).
 who_f4(it_0146_004487,0).
 typeofoutcome_updated(it_0146_004487,9).
+vaccine(it_0146_004487,0,3).
 patient(it_0146_004487,neg).
 
 %patient: it-0146-004488 index:3152
@@ -67139,6 +70291,7 @@ who_f2(it_0146_004488,0).
 who_f3(it_0146_004488,0).
 who_f4(it_0146_004488,0).
 typeofoutcome_updated(it_0146_004488,9).
+vaccine(it_0146_004488,0,3).
 patient(it_0146_004488,neg).
 
 %patient: it-0146-004489 index:3153
@@ -67158,6 +70311,7 @@ who_f2(it_0146_004489,0).
 who_f3(it_0146_004489,0).
 who_f4(it_0146_004489,0).
 typeofoutcome_updated(it_0146_004489,9).
+vaccine(it_0146_004489,0,3).
 patient(it_0146_004489,neg).
 
 %patient: it-0146-004493 index:3154
@@ -67181,6 +70335,7 @@ who_f2(it_0146_004493,0).
 who_f3(it_0146_004493,0).
 who_f4(it_0146_004493,0).
 typeofoutcome_updated(it_0146_004493,9).
+vaccine(it_0146_004493,0,3).
 patient(it_0146_004493,neg).
 
 %patient: it-0146-004495 index:3155
@@ -67204,6 +70359,7 @@ who_f2(it_0146_004495,0).
 who_f3(it_0146_004495,0).
 who_f4(it_0146_004495,0).
 typeofoutcome_updated(it_0146_004495,9).
+vaccine(it_0146_004495,0,3).
 patient(it_0146_004495,neg).
 
 %patient: it-0146-004496 index:3156
@@ -67226,6 +70382,7 @@ who_f2(it_0146_004496,0).
 who_f3(it_0146_004496,0).
 who_f4(it_0146_004496,0).
 typeofoutcome_updated(it_0146_004496,9).
+vaccine(it_0146_004496,0,3).
 patient(it_0146_004496,neg).
 
 %patient: it-0146-004497 index:3157
@@ -67245,6 +70402,7 @@ who_f2(it_0146_004497,0).
 who_f3(it_0146_004497,0).
 who_f4(it_0146_004497,0).
 typeofoutcome_updated(it_0146_004497,9).
+vaccine(it_0146_004497,0,3).
 patient(it_0146_004497,neg).
 
 %patient: it-0146-004498 index:3158
@@ -67262,6 +70420,7 @@ who_f2(it_0146_004498,0).
 who_f3(it_0146_004498,0).
 who_f4(it_0146_004498,0).
 typeofoutcome_updated(it_0146_004498,9).
+vaccine(it_0146_004498,0,3).
 patient(it_0146_004498,neg).
 
 %patient: it-0146-004506 index:3159
@@ -67280,6 +70439,7 @@ who_f2(it_0146_004506,0).
 who_f3(it_0146_004506,0).
 who_f4(it_0146_004506,0).
 typeofoutcome_updated(it_0146_004506,9).
+vaccine(it_0146_004506,0,3).
 patient(it_0146_004506,neg).
 
 %patient: it-0146-004507 index:3160
@@ -67298,6 +70458,7 @@ who_f2(it_0146_004507,0).
 who_f3(it_0146_004507,0).
 who_f4(it_0146_004507,0).
 typeofoutcome_updated(it_0146_004507,9).
+vaccine(it_0146_004507,0,3).
 patient(it_0146_004507,neg).
 
 %patient: it-0146-004508 index:3161
@@ -67316,6 +70477,7 @@ who_f2(it_0146_004508,0).
 who_f3(it_0146_004508,0).
 who_f4(it_0146_004508,0).
 typeofoutcome_updated(it_0146_004508,9).
+vaccine(it_0146_004508,0,3).
 patient(it_0146_004508,neg).
 
 %patient: it-0146-004509 index:3162
@@ -67332,6 +70494,7 @@ who_f2(it_0146_004509,0).
 who_f3(it_0146_004509,0).
 who_f4(it_0146_004509,0).
 typeofoutcome_updated(it_0146_004509,9).
+vaccine(it_0146_004509,0,3).
 patient(it_0146_004509,neg).
 
 %patient: it-0146-004510 index:3163
@@ -67352,6 +70515,7 @@ who_f2(it_0146_004510,0).
 who_f3(it_0146_004510,0).
 who_f4(it_0146_004510,0).
 typeofoutcome_updated(it_0146_004510,9).
+vaccine(it_0146_004510,0,3).
 patient(it_0146_004510,neg).
 
 %patient: it-0146-004511 index:3164
@@ -67371,6 +70535,7 @@ who_f2(it_0146_004511,0).
 who_f3(it_0146_004511,0).
 who_f4(it_0146_004511,0).
 typeofoutcome_updated(it_0146_004511,9).
+vaccine(it_0146_004511,0,3).
 patient(it_0146_004511,neg).
 
 %patient: it-0146-004512 index:3165
@@ -67392,6 +70557,7 @@ who_f2(it_0146_004512,0).
 who_f3(it_0146_004512,0).
 who_f4(it_0146_004512,0).
 typeofoutcome_updated(it_0146_004512,9).
+vaccine(it_0146_004512,0,3).
 patient(it_0146_004512,neg).
 
 %patient: it-0146-004513 index:3166
@@ -67415,6 +70581,7 @@ who_f2(it_0146_004513,0).
 who_f3(it_0146_004513,0).
 who_f4(it_0146_004513,0).
 typeofoutcome_updated(it_0146_004513,9).
+vaccine(it_0146_004513,0,3).
 patient(it_0146_004513,neg).
 
 %patient: it-0146-006401 index:3167
@@ -67435,6 +70602,7 @@ who_f2(it_0146_006401,0).
 who_f3(it_0146_006401,0).
 who_f4(it_0146_006401,0).
 typeofoutcome_updated(it_0146_006401,9).
+vaccine(it_0146_006401,0,3).
 patient(it_0146_006401,neg).
 
 %patient: it-0155-004207 index:3168
@@ -67457,6 +70625,7 @@ who_f2(it_0155_004207,0).
 who_f3(it_0155_004207,0).
 who_f4(it_0155_004207,0).
 typeofoutcome_updated(it_0155_004207,9).
+vaccine(it_0155_004207,0,2).
 patient(it_0155_004207,neg).
 
 %patient: it-0155-004208 index:3169
@@ -67474,6 +70643,7 @@ who_f2(it_0155_004208,0).
 who_f3(it_0155_004208,0).
 who_f4(it_0155_004208,0).
 typeofoutcome_updated(it_0155_004208,9).
+vaccine(it_0155_004208,0,2).
 patient(it_0155_004208,neg).
 
 %patient: it-0155-004210 index:3170
@@ -67494,6 +70664,7 @@ who_f2(it_0155_004210,0).
 who_f3(it_0155_004210,0).
 who_f4(it_0155_004210,0).
 typeofoutcome_updated(it_0155_004210,9).
+vaccine(it_0155_004210,0,2).
 patient(it_0155_004210,neg).
 
 %patient: it-0169-006440 index:3171
@@ -67515,6 +70686,7 @@ who_f2(it_0169_006440,0).
 who_f3(it_0169_006440,0).
 who_f4(it_0169_006440,0).
 typeofoutcome_updated(it_0169_006440,9).
+vaccine(it_0169_006440,0,3).
 patient(it_0169_006440,neg).
 
 %patient: it-0169-006590 index:3172
@@ -67536,6 +70708,7 @@ who_f2(it_0169_006590,0).
 who_f3(it_0169_006590,0).
 who_f4(it_0169_006590,0).
 typeofoutcome_updated(it_0169_006590,9).
+vaccine(it_0169_006590,0,2).
 patient(it_0169_006590,neg).
 
 %patient: it-0171-006261 index:3173
@@ -67555,6 +70728,7 @@ who_f2(it_0171_006261,0).
 who_f3(it_0171_006261,0).
 who_f4(it_0171_006261,0).
 typeofoutcome_updated(it_0171_006261,9).
+vaccine(it_0171_006261,0,2).
 patient(it_0171_006261,neg).
 
 %patient: it-0061-004216 index:3174
@@ -67573,6 +70747,7 @@ who_f2(it_0061_004216,9).
 who_f3(it_0061_004216,0).
 who_f4(it_0061_004216,0).
 typeofoutcome_updated(it_0061_004216,9).
+vaccine(it_0061_004216,0,3).
 patient(it_0061_004216,neg).
 
 %patient: it-0103-006129 index:3175
@@ -67596,6 +70771,7 @@ who_f2(it_0103_006129,1).
 who_f3(it_0103_006129,1).
 who_f4(it_0103_006129,1).
 typeofoutcome_updated(it_0103_006129,9).
+vaccine(it_0103_006129,0,2).
 patient(it_0103_006129,neg).
 
 %patient: it-0103-006133 index:3176
@@ -67617,6 +70793,7 @@ who_f2(it_0103_006133,0).
 who_f3(it_0103_006133,0).
 who_f4(it_0103_006133,0).
 typeofoutcome_updated(it_0103_006133,9).
+vaccine(it_0103_006133,0,2).
 patient(it_0103_006133,neg).
 
 %patient: it-0108-002684 index:3177
@@ -67638,6 +70815,7 @@ who_f2(it_0108_002684,0).
 who_f3(it_0108_002684,0).
 who_f4(it_0108_002684,0).
 typeofoutcome_updated(it_0108_002684,9).
+vaccine(it_0108_002684,0,3).
 patient(it_0108_002684,neg).
 
 %patient: it-0125-006431 index:3178
@@ -67663,6 +70841,7 @@ who_f2(it_0125_006431,0).
 who_f3(it_0125_006431,0).
 who_f4(it_0125_006431,0).
 typeofoutcome_updated(it_0125_006431,9).
+vaccine(it_0125_006431,0,3).
 patient(it_0125_006431,neg).
 
 %patient: it-0061-004214 index:3179
@@ -67681,6 +70860,7 @@ who_f2(it_0061_004214,0).
 who_f3(it_0061_004214,0).
 who_f4(it_0061_004214,0).
 typeofoutcome_updated(it_0061_004214,9).
+vaccine(it_0061_004214,0,3).
 patient(it_0061_004214,neg).
 
 %patient: it-0103-005959 index:3180
@@ -67702,6 +70882,7 @@ who_f2(it_0103_005959,1).
 who_f3(it_0103_005959,1).
 who_f4(it_0103_005959,9).
 typeofoutcome_updated(it_0103_005959,9).
+vaccine(it_0103_005959,0,3).
 patient(it_0103_005959,neg).
 
 %patient: it-0103-006128 index:3181
@@ -67728,6 +70909,7 @@ who_f2(it_0103_006128,1).
 who_f3(it_0103_006128,1).
 who_f4(it_0103_006128,0).
 typeofoutcome_updated(it_0103_006128,9).
+vaccine(it_0103_006128,0,2).
 patient(it_0103_006128,neg).
 
 %patient: it-0103-006136 index:3182
@@ -67752,6 +70934,7 @@ who_f2(it_0103_006136,0).
 who_f3(it_0103_006136,0).
 who_f4(it_0103_006136,0).
 typeofoutcome_updated(it_0103_006136,9).
+vaccine(it_0103_006136,0,2).
 patient(it_0103_006136,neg).
 
 %patient: it-0108-002693 index:3183
@@ -67772,6 +70955,7 @@ who_f2(it_0108_002693,0).
 who_f3(it_0108_002693,0).
 who_f4(it_0108_002693,0).
 typeofoutcome_updated(it_0108_002693,9).
+vaccine(it_0108_002693,0,3).
 patient(it_0108_002693,neg).
 
 %patient: it-0125-004630 index:3184
@@ -67795,6 +70979,7 @@ who_f2(it_0125_004630,0).
 who_f3(it_0125_004630,0).
 who_f4(it_0125_004630,0).
 typeofoutcome_updated(it_0125_004630,9).
+vaccine(it_0125_004630,0,3).
 patient(it_0125_004630,neg).
 
 %patient: it-0125-005952 index:3185
@@ -67818,6 +71003,7 @@ who_f2(it_0125_005952,0).
 who_f3(it_0125_005952,0).
 who_f4(it_0125_005952,0).
 typeofoutcome_updated(it_0125_005952,9).
+vaccine(it_0125_005952,0,3).
 patient(it_0125_005952,neg).
 
 %patient: it-0020-000230 index:3186
@@ -67844,6 +71030,7 @@ who_f2(it_0020_000230,0).
 who_f3(it_0020_000230,0).
 who_f4(it_0020_000230,0).
 typeofoutcome_updated(it_0020_000230,9).
+vaccine(it_0020_000230,0,3).
 patient(it_0020_000230,neg).
 
 %patient: it-0020-003769 index:3187
@@ -67868,6 +71055,7 @@ who_f2(it_0020_003769,0).
 who_f3(it_0020_003769,0).
 who_f4(it_0020_003769,0).
 typeofoutcome_updated(it_0020_003769,9).
+vaccine(it_0020_003769,0,3).
 patient(it_0020_003769,neg).
 
 %patient: it-0108-002696 index:3188
@@ -67891,6 +71079,7 @@ who_f2(it_0108_002696,0).
 who_f3(it_0108_002696,0).
 who_f4(it_0108_002696,0).
 typeofoutcome_updated(it_0108_002696,9).
+vaccine(it_0108_002696,0,2).
 patient(it_0108_002696,neg).
 
 %patient: it-0155-004164 index:3189
@@ -67913,6 +71102,7 @@ who_f2(it_0155_004164,0).
 who_f3(it_0155_004164,0).
 who_f4(it_0155_004164,0).
 typeofoutcome_updated(it_0155_004164,9).
+vaccine(it_0155_004164,0,2).
 patient(it_0155_004164,neg).
 
 %patient: it-0155-004199 index:3190
@@ -67931,6 +71121,7 @@ who_f2(it_0155_004199,0).
 who_f3(it_0155_004199,0).
 who_f4(it_0155_004199,0).
 typeofoutcome_updated(it_0155_004199,9).
+vaccine(it_0155_004199,0,2).
 patient(it_0155_004199,neg).
 
 %patient: it-0155-004203 index:3191
@@ -67951,6 +71142,7 @@ who_f2(it_0155_004203,0).
 who_f3(it_0155_004203,0).
 who_f4(it_0155_004203,0).
 typeofoutcome_updated(it_0155_004203,9).
+vaccine(it_0155_004203,0,2).
 patient(it_0155_004203,neg).
 
 %patient: it-0155-004204 index:3192
@@ -67972,6 +71164,7 @@ who_f2(it_0155_004204,0).
 who_f3(it_0155_004204,0).
 who_f4(it_0155_004204,0).
 typeofoutcome_updated(it_0155_004204,9).
+vaccine(it_0155_004204,0,2).
 patient(it_0155_004204,neg).
 
 %patient: it-0155-004205 index:3193
@@ -67989,6 +71182,7 @@ who_f2(it_0155_004205,0).
 who_f3(it_0155_004205,0).
 who_f4(it_0155_004205,0).
 typeofoutcome_updated(it_0155_004205,9).
+vaccine(it_0155_004205,0,2).
 patient(it_0155_004205,neg).
 
 %patient: it-0051-006698 index:3194
@@ -68010,6 +71204,7 @@ who_f2(it_0051_006698,0).
 who_f3(it_0051_006698,0).
 who_f4(it_0051_006698,0).
 typeofoutcome_updated(it_0051_006698,9).
+vaccine(it_0051_006698,0,2).
 patient(it_0051_006698,neg).
 
 %patient: it-0051-006697 index:3195
@@ -68031,6 +71226,7 @@ who_f2(it_0051_006697,0).
 who_f3(it_0051_006697,0).
 who_f4(it_0051_006697,0).
 typeofoutcome_updated(it_0051_006697,9).
+vaccine(it_0051_006697,0,2).
 patient(it_0051_006697,neg).
 
 %patient: it-0146-004515 index:3196
@@ -68052,6 +71248,7 @@ who_f2(it_0146_004515,0).
 who_f3(it_0146_004515,0).
 who_f4(it_0146_004515,0).
 typeofoutcome_updated(it_0146_004515,9).
+vaccine(it_0146_004515,0,3).
 patient(it_0146_004515,neg).
 
 %patient: it-0129-004672 index:3197
@@ -68074,6 +71271,7 @@ who_f2(it_0129_004672,0).
 who_f3(it_0129_004672,0).
 who_f4(it_0129_004672,0).
 typeofoutcome_updated(it_0129_004672,9).
+vaccine(it_0129_004672,0,2).
 patient(it_0129_004672,neg).
 
 %patient: it-0129-004682 index:3198
@@ -68093,6 +71291,7 @@ who_f2(it_0129_004682,0).
 who_f3(it_0129_004682,0).
 who_f4(it_0129_004682,0).
 typeofoutcome_updated(it_0129_004682,9).
+vaccine(it_0129_004682,0,2).
 patient(it_0129_004682,neg).
 
 %patient: it-0143-003924 index:3199
@@ -68113,6 +71312,7 @@ who_f2(it_0143_003924,0).
 who_f3(it_0143_003924,0).
 who_f4(it_0143_003924,0).
 typeofoutcome_updated(it_0143_003924,9).
+vaccine(it_0143_003924,0,2).
 patient(it_0143_003924,neg).
 
 %patient: it-0152-005550 index:3200
@@ -68132,6 +71332,7 @@ who_f2(it_0152_005550,0).
 who_f3(it_0152_005550,0).
 who_f4(it_0152_005550,9).
 typeofoutcome_updated(it_0152_005550,9).
+vaccine(it_0152_005550,0,3).
 patient(it_0152_005550,neg).
 
 %patient: it-0051-006644 index:3201
@@ -68152,6 +71353,7 @@ who_f2(it_0051_006644,0).
 who_f3(it_0051_006644,0).
 who_f4(it_0051_006644,1).
 typeofoutcome_updated(it_0051_006644,9).
+vaccine(it_0051_006644,0,3).
 patient(it_0051_006644,neg).
 
 %patient: it-0051-006687 index:3202
@@ -68175,6 +71377,7 @@ who_f2(it_0051_006687,0).
 who_f3(it_0051_006687,0).
 who_f4(it_0051_006687,1).
 typeofoutcome_updated(it_0051_006687,9).
+vaccine(it_0051_006687,0,2).
 patient(it_0051_006687,neg).
 
 %patient: it-0051-006672 index:3203
@@ -68194,6 +71397,7 @@ who_f2(it_0051_006672,0).
 who_f3(it_0051_006672,0).
 who_f4(it_0051_006672,1).
 typeofoutcome_updated(it_0051_006672,9).
+vaccine(it_0051_006672,0,3).
 patient(it_0051_006672,neg).
 
 %patient: it-0051-006653 index:3204
@@ -68215,6 +71419,7 @@ who_f2(it_0051_006653,0).
 who_f3(it_0051_006653,0).
 who_f4(it_0051_006653,1).
 typeofoutcome_updated(it_0051_006653,9).
+vaccine(it_0051_006653,0,3).
 patient(it_0051_006653,neg).
 
 %patient: it-0051-006652 index:3205
@@ -68237,6 +71442,7 @@ who_f2(it_0051_006652,0).
 who_f3(it_0051_006652,0).
 who_f4(it_0051_006652,1).
 typeofoutcome_updated(it_0051_006652,9).
+vaccine(it_0051_006652,0,3).
 patient(it_0051_006652,neg).
 
 %patient: it-0051-006665 index:3206
@@ -68256,6 +71462,7 @@ who_f2(it_0051_006665,0).
 who_f3(it_0051_006665,0).
 who_f4(it_0051_006665,1).
 typeofoutcome_updated(it_0051_006665,9).
+vaccine(it_0051_006665,0,3).
 patient(it_0051_006665,neg).
 
 %patient: it-0051-006664 index:3207
@@ -68277,6 +71484,7 @@ who_f2(it_0051_006664,0).
 who_f3(it_0051_006664,0).
 who_f4(it_0051_006664,1).
 typeofoutcome_updated(it_0051_006664,9).
+vaccine(it_0051_006664,0,3).
 patient(it_0051_006664,neg).
 
 %patient: it-0051-006654 index:3208
@@ -68295,6 +71503,7 @@ who_f2(it_0051_006654,0).
 who_f3(it_0051_006654,0).
 who_f4(it_0051_006654,1).
 typeofoutcome_updated(it_0051_006654,9).
+vaccine(it_0051_006654,0,3).
 patient(it_0051_006654,neg).
 
 %patient: it-0051-006676 index:3209
@@ -68317,6 +71526,7 @@ who_f2(it_0051_006676,0).
 who_f3(it_0051_006676,0).
 who_f4(it_0051_006676,1).
 typeofoutcome_updated(it_0051_006676,9).
+vaccine(it_0051_006676,0,2).
 patient(it_0051_006676,neg).
 
 %patient: it-0051-006693 index:3210
@@ -68336,6 +71546,7 @@ who_f2(it_0051_006693,0).
 who_f3(it_0051_006693,0).
 who_f4(it_0051_006693,1).
 typeofoutcome_updated(it_0051_006693,9).
+vaccine(it_0051_006693,0,2).
 patient(it_0051_006693,neg).
 
 %patient: it-0126-005521 index:3211
@@ -68355,6 +71566,7 @@ who_f2(it_0126_005521,1).
 who_f3(it_0126_005521,9).
 who_f4(it_0126_005521,9).
 typeofoutcome_updated(it_0126_005521,9).
+vaccine(it_0126_005521,0,2).
 patient(it_0126_005521,neg).
 
 %patient: it-0168-005609 index:3212
@@ -68376,6 +71588,7 @@ who_f2(it_0168_005609,1).
 who_f3(it_0168_005609,1).
 who_f4(it_0168_005609,9).
 typeofoutcome_updated(it_0168_005609,9).
+vaccine(it_0168_005609,0,3).
 patient(it_0168_005609,neg).
 
 %patient: it-0168-005662 index:3213
@@ -68397,6 +71610,7 @@ who_f2(it_0168_005662,1).
 who_f3(it_0168_005662,1).
 who_f4(it_0168_005662,9).
 typeofoutcome_updated(it_0168_005662,9).
+vaccine(it_0168_005662,0,3).
 patient(it_0168_005662,neg).
 
 %patient: it-0168-005666 index:3214
@@ -68417,6 +71631,7 @@ who_f2(it_0168_005666,1).
 who_f3(it_0168_005666,1).
 who_f4(it_0168_005666,9).
 typeofoutcome_updated(it_0168_005666,9).
+vaccine(it_0168_005666,0,3).
 patient(it_0168_005666,neg).
 
 %patient: it-0168-005728 index:3215
@@ -68436,6 +71651,7 @@ who_f2(it_0168_005728,1).
 who_f3(it_0168_005728,1).
 who_f4(it_0168_005728,9).
 typeofoutcome_updated(it_0168_005728,9).
+vaccine(it_0168_005728,0,3).
 patient(it_0168_005728,neg).
 
 %patient: it-0168-005733 index:3216
@@ -68459,6 +71675,7 @@ who_f2(it_0168_005733,1).
 who_f3(it_0168_005733,1).
 who_f4(it_0168_005733,9).
 typeofoutcome_updated(it_0168_005733,9).
+vaccine(it_0168_005733,0,3).
 patient(it_0168_005733,neg).
 
 %patient: it-0168-005735 index:3217
@@ -68484,6 +71701,7 @@ who_f2(it_0168_005735,1).
 who_f3(it_0168_005735,1).
 who_f4(it_0168_005735,9).
 typeofoutcome_updated(it_0168_005735,9).
+vaccine(it_0168_005735,0,3).
 patient(it_0168_005735,neg).
 
 %patient: it-0168-005736 index:3218
@@ -68506,6 +71724,7 @@ who_f2(it_0168_005736,1).
 who_f3(it_0168_005736,1).
 who_f4(it_0168_005736,9).
 typeofoutcome_updated(it_0168_005736,9).
+vaccine(it_0168_005736,0,3).
 patient(it_0168_005736,neg).
 
 %patient: it-0168-005755 index:3219
@@ -68529,6 +71748,7 @@ who_f2(it_0168_005755,1).
 who_f3(it_0168_005755,1).
 who_f4(it_0168_005755,9).
 typeofoutcome_updated(it_0168_005755,9).
+vaccine(it_0168_005755,0,3).
 patient(it_0168_005755,neg).
 
 %patient: it-0168-005756 index:3220
@@ -68550,6 +71770,7 @@ who_f2(it_0168_005756,1).
 who_f3(it_0168_005756,1).
 who_f4(it_0168_005756,9).
 typeofoutcome_updated(it_0168_005756,9).
+vaccine(it_0168_005756,0,3).
 patient(it_0168_005756,neg).
 
 %patient: it-0168-005758 index:3221
@@ -68572,6 +71793,7 @@ who_f2(it_0168_005758,1).
 who_f3(it_0168_005758,1).
 who_f4(it_0168_005758,9).
 typeofoutcome_updated(it_0168_005758,9).
+vaccine(it_0168_005758,0,2).
 patient(it_0168_005758,neg).
 
 %patient: it-0168-005759 index:3222
@@ -68595,6 +71817,7 @@ who_f2(it_0168_005759,1).
 who_f3(it_0168_005759,1).
 who_f4(it_0168_005759,9).
 typeofoutcome_updated(it_0168_005759,9).
+vaccine(it_0168_005759,0,3).
 patient(it_0168_005759,neg).
 
 %patient: it-0168-005762 index:3223
@@ -68617,6 +71840,7 @@ who_f2(it_0168_005762,1).
 who_f3(it_0168_005762,1).
 who_f4(it_0168_005762,9).
 typeofoutcome_updated(it_0168_005762,9).
+vaccine(it_0168_005762,0,3).
 patient(it_0168_005762,neg).
 
 %patient: it-0168-005764 index:3224
@@ -68638,6 +71862,7 @@ who_f2(it_0168_005764,1).
 who_f3(it_0168_005764,1).
 who_f4(it_0168_005764,9).
 typeofoutcome_updated(it_0168_005764,9).
+vaccine(it_0168_005764,0,3).
 patient(it_0168_005764,neg).
 
 %patient: it-0168-005765 index:3225
@@ -68660,6 +71885,7 @@ who_f2(it_0168_005765,1).
 who_f3(it_0168_005765,1).
 who_f4(it_0168_005765,9).
 typeofoutcome_updated(it_0168_005765,9).
+vaccine(it_0168_005765,0,3).
 patient(it_0168_005765,neg).
 
 %patient: it-0168-005474 index:3226
@@ -68683,6 +71909,7 @@ who_f2(it_0168_005474,0).
 who_f3(it_0168_005474,1).
 who_f4(it_0168_005474,9).
 typeofoutcome_updated(it_0168_005474,9).
+vaccine(it_0168_005474,0,3).
 patient(it_0168_005474,neg).
 
 %patient: it-0151-005769 index:3227
@@ -68700,6 +71927,7 @@ who_f2(it_0151_005769,9).
 who_f3(it_0151_005769,1).
 who_f4(it_0151_005769,9).
 typeofoutcome_updated(it_0151_005769,9).
+vaccine(it_0151_005769,0,2).
 patient(it_0151_005769,neg).
 
 %patient: it-0168-005761 index:3228
@@ -68725,6 +71953,7 @@ who_f2(it_0168_005761,0).
 who_f3(it_0168_005761,1).
 who_f4(it_0168_005761,9).
 typeofoutcome_updated(it_0168_005761,9).
+vaccine(it_0168_005761,0,2).
 patient(it_0168_005761,neg).
 
 %patient: it-0123-005696 index:3229
@@ -68745,6 +71974,7 @@ who_f2(it_0123_005696,0).
 who_f3(it_0123_005696,0).
 who_f4(it_0123_005696,1).
 typeofoutcome_updated(it_0123_005696,9).
+vaccine(it_0123_005696,0,3).
 patient(it_0123_005696,neg).
 
 %patient: it-0143-005261 index:3230
@@ -68769,6 +71999,7 @@ who_f2(it_0143_005261,0).
 who_f3(it_0143_005261,1).
 who_f4(it_0143_005261,1).
 typeofoutcome_updated(it_0143_005261,9).
+vaccine(it_0143_005261,0,2).
 patient(it_0143_005261,neg).
 
 %patient: it-0143-005243 index:3231
@@ -68792,6 +72023,7 @@ who_f2(it_0143_005243,0).
 who_f3(it_0143_005243,1).
 who_f4(it_0143_005243,1).
 typeofoutcome_updated(it_0143_005243,9).
+vaccine(it_0143_005243,0,2).
 patient(it_0143_005243,neg).
 
 %patient: it-0166-005096 index:3232
@@ -68817,6 +72049,7 @@ who_f2(it_0166_005096,0).
 who_f3(it_0166_005096,0).
 who_f4(it_0166_005096,9).
 typeofoutcome_updated(it_0166_005096,9).
+vaccine(it_0166_005096,1,3).
 patient(it_0166_005096,neg).
 
 %patient: it-0125-003895 index:3233
@@ -68841,6 +72074,7 @@ who_f2(it_0125_003895,0).
 who_f3(it_0125_003895,0).
 who_f4(it_0125_003895,1).
 typeofoutcome_updated(it_0125_003895,9).
+vaccine(it_0125_003895,0,3).
 patient(it_0125_003895,neg).
 
 %patient: it-0125-003991 index:3234
@@ -68864,6 +72098,7 @@ who_f2(it_0125_003991,0).
 who_f3(it_0125_003991,0).
 who_f4(it_0125_003991,1).
 typeofoutcome_updated(it_0125_003991,9).
+vaccine(it_0125_003991,0,3).
 patient(it_0125_003991,neg).
 
 %patient: it-0051-006778 index:3235
@@ -68886,6 +72121,7 @@ who_f2(it_0051_006778,0).
 who_f3(it_0051_006778,0).
 who_f4(it_0051_006778,1).
 typeofoutcome_updated(it_0051_006778,9).
+vaccine(it_0051_006778,0,2).
 patient(it_0051_006778,neg).
 
 %patient: it-0051-006663 index:3236
@@ -68908,6 +72144,7 @@ who_f2(it_0051_006663,0).
 who_f3(it_0051_006663,0).
 who_f4(it_0051_006663,1).
 typeofoutcome_updated(it_0051_006663,9).
+vaccine(it_0051_006663,0,3).
 patient(it_0051_006663,neg).
 
 %patient: it-0051-006452 index:3237
@@ -68927,6 +72164,7 @@ who_f2(it_0051_006452,0).
 who_f3(it_0051_006452,0).
 who_f4(it_0051_006452,1).
 typeofoutcome_updated(it_0051_006452,9).
+vaccine(it_0051_006452,0,3).
 patient(it_0051_006452,neg).
 
 %patient: it-0051-006420 index:3238
@@ -68945,6 +72183,7 @@ who_f2(it_0051_006420,0).
 who_f3(it_0051_006420,0).
 who_f4(it_0051_006420,1).
 typeofoutcome_updated(it_0051_006420,9).
+vaccine(it_0051_006420,0,3).
 patient(it_0051_006420,neg).
 
 %patient: it-0051-006656 index:3239
@@ -68966,6 +72205,7 @@ who_f2(it_0051_006656,0).
 who_f3(it_0051_006656,0).
 who_f4(it_0051_006656,1).
 typeofoutcome_updated(it_0051_006656,9).
+vaccine(it_0051_006656,0,3).
 patient(it_0051_006656,neg).
 
 %patient: it-0051-006647 index:3240
@@ -68988,6 +72228,7 @@ who_f2(it_0051_006647,0).
 who_f3(it_0051_006647,0).
 who_f4(it_0051_006647,1).
 typeofoutcome_updated(it_0051_006647,9).
+vaccine(it_0051_006647,0,3).
 patient(it_0051_006647,neg).
 
 %patient: it-0051-006650 index:3241
@@ -69010,6 +72251,7 @@ who_f2(it_0051_006650,0).
 who_f3(it_0051_006650,0).
 who_f4(it_0051_006650,1).
 typeofoutcome_updated(it_0051_006650,9).
+vaccine(it_0051_006650,0,2).
 patient(it_0051_006650,neg).
 
 %patient: it-0051-006673 index:3242
@@ -69028,6 +72270,7 @@ who_f2(it_0051_006673,0).
 who_f3(it_0051_006673,0).
 who_f4(it_0051_006673,1).
 typeofoutcome_updated(it_0051_006673,9).
+vaccine(it_0051_006673,0,3).
 patient(it_0051_006673,neg).
 
 %patient: it-0051-006667 index:3243
@@ -69052,6 +72295,7 @@ who_f2(it_0051_006667,0).
 who_f3(it_0051_006667,0).
 who_f4(it_0051_006667,1).
 typeofoutcome_updated(it_0051_006667,9).
+vaccine(it_0051_006667,0,3).
 patient(it_0051_006667,neg).
 
 %patient: it-0106-006692 index:3244
@@ -69075,6 +72319,7 @@ who_f2(it_0106_006692,0).
 who_f3(it_0106_006692,0).
 who_f4(it_0106_006692,1).
 typeofoutcome_updated(it_0106_006692,9).
+vaccine(it_0106_006692,0,2).
 patient(it_0106_006692,neg).
 
 %patient: it-0051-006643 index:3245
@@ -69096,6 +72341,7 @@ who_f2(it_0051_006643,0).
 who_f3(it_0051_006643,0).
 who_f4(it_0051_006643,1).
 typeofoutcome_updated(it_0051_006643,9).
+vaccine(it_0051_006643,0,3).
 patient(it_0051_006643,neg).
 
 %patient: it-0051-006688 index:3246
@@ -69117,6 +72363,7 @@ who_f2(it_0051_006688,0).
 who_f3(it_0051_006688,0).
 who_f4(it_0051_006688,1).
 typeofoutcome_updated(it_0051_006688,9).
+vaccine(it_0051_006688,0,2).
 patient(it_0051_006688,neg).
 
 %patient: it-0051-006649 index:3247
@@ -69138,6 +72385,7 @@ who_f2(it_0051_006649,0).
 who_f3(it_0051_006649,0).
 who_f4(it_0051_006649,1).
 typeofoutcome_updated(it_0051_006649,9).
+vaccine(it_0051_006649,0,3).
 patient(it_0051_006649,neg).
 
 %patient: it-0051-006662 index:3248
@@ -69158,6 +72406,7 @@ who_f2(it_0051_006662,9).
 who_f3(it_0051_006662,0).
 who_f4(it_0051_006662,1).
 typeofoutcome_updated(it_0051_006662,9).
+vaccine(it_0051_006662,0,3).
 patient(it_0051_006662,neg).
 
 %patient: it-0051-006453 index:3249
@@ -69182,6 +72431,7 @@ who_f2(it_0051_006453,0).
 who_f3(it_0051_006453,0).
 who_f4(it_0051_006453,1).
 typeofoutcome_updated(it_0051_006453,9).
+vaccine(it_0051_006453,0,3).
 patient(it_0051_006453,neg).
 
 %patient: it-0051-006645 index:3250
@@ -69203,6 +72453,7 @@ who_f2(it_0051_006645,0).
 who_f3(it_0051_006645,0).
 who_f4(it_0051_006645,1).
 typeofoutcome_updated(it_0051_006645,9).
+vaccine(it_0051_006645,0,2).
 patient(it_0051_006645,neg).
 
 %patient: it-0051-006661 index:3251
@@ -69223,6 +72474,7 @@ who_f2(it_0051_006661,0).
 who_f3(it_0051_006661,0).
 who_f4(it_0051_006661,1).
 typeofoutcome_updated(it_0051_006661,9).
+vaccine(it_0051_006661,0,3).
 patient(it_0051_006661,neg).
 
 %patient: it-0051-006675 index:3252
@@ -69244,6 +72496,7 @@ who_f2(it_0051_006675,0).
 who_f3(it_0051_006675,0).
 who_f4(it_0051_006675,1).
 typeofoutcome_updated(it_0051_006675,9).
+vaccine(it_0051_006675,0,2).
 patient(it_0051_006675,neg).
 
 %patient: it-0051-006651 index:3253
@@ -69265,6 +72518,7 @@ who_f2(it_0051_006651,0).
 who_f3(it_0051_006651,0).
 who_f4(it_0051_006651,1).
 typeofoutcome_updated(it_0051_006651,9).
+vaccine(it_0051_006651,0,3).
 patient(it_0051_006651,neg).
 
 %patient: it-0051-006449 index:3254
@@ -69287,6 +72541,7 @@ who_f2(it_0051_006449,0).
 who_f3(it_0051_006449,0).
 who_f4(it_0051_006449,1).
 typeofoutcome_updated(it_0051_006449,9).
+vaccine(it_0051_006449,0,3).
 patient(it_0051_006449,neg).
 
 %patient: it-0051-006646 index:3255
@@ -69309,6 +72564,7 @@ who_f2(it_0051_006646,0).
 who_f3(it_0051_006646,0).
 who_f4(it_0051_006646,1).
 typeofoutcome_updated(it_0051_006646,9).
+vaccine(it_0051_006646,0,3).
 patient(it_0051_006646,neg).
 
 %patient: it-0051-006648 index:3256
@@ -69328,6 +72584,7 @@ who_f2(it_0051_006648,0).
 who_f3(it_0051_006648,0).
 who_f4(it_0051_006648,1).
 typeofoutcome_updated(it_0051_006648,9).
+vaccine(it_0051_006648,0,3).
 patient(it_0051_006648,neg).
 
 %patient: it-0051-006325 index:3257
@@ -69349,6 +72606,7 @@ who_f2(it_0051_006325,0).
 who_f3(it_0051_006325,0).
 who_f4(it_0051_006325,1).
 typeofoutcome_updated(it_0051_006325,9).
+vaccine(it_0051_006325,0,3).
 patient(it_0051_006325,neg).
 
 %patient: it-0051-006451 index:3258
@@ -69369,6 +72627,7 @@ who_f2(it_0051_006451,0).
 who_f3(it_0051_006451,0).
 who_f4(it_0051_006451,1).
 typeofoutcome_updated(it_0051_006451,9).
+vaccine(it_0051_006451,0,3).
 patient(it_0051_006451,neg).
 
 %patient: it-0051-006690 index:3259
@@ -69392,6 +72651,7 @@ who_f2(it_0051_006690,0).
 who_f3(it_0051_006690,0).
 who_f4(it_0051_006690,1).
 typeofoutcome_updated(it_0051_006690,9).
+vaccine(it_0051_006690,0,2).
 patient(it_0051_006690,neg).
 
 %patient: it-0051-006655 index:3260
@@ -69415,6 +72675,7 @@ who_f2(it_0051_006655,0).
 who_f3(it_0051_006655,0).
 who_f4(it_0051_006655,1).
 typeofoutcome_updated(it_0051_006655,9).
+vaccine(it_0051_006655,0,3).
 patient(it_0051_006655,neg).
 
 %patient: it-0051-006699 index:3261
@@ -69436,6 +72697,7 @@ who_f2(it_0051_006699,0).
 who_f3(it_0051_006699,0).
 who_f4(it_0051_006699,1).
 typeofoutcome_updated(it_0051_006699,9).
+vaccine(it_0051_006699,0,2).
 patient(it_0051_006699,neg).
 
 %patient: it-0128-004726 index:3262
@@ -69454,6 +72716,7 @@ who_f2(it_0128_004726,9).
 who_f3(it_0128_004726,0).
 who_f4(it_0128_004726,1).
 typeofoutcome_updated(it_0128_004726,9).
+vaccine(it_0128_004726,0,2).
 patient(it_0128_004726,neg).
 
 %patient: it-0111-006512 index:3263
@@ -69473,6 +72736,7 @@ who_f2(it_0111_006512,9).
 who_f3(it_0111_006512,9).
 who_f4(it_0111_006512,9).
 typeofoutcome_updated(it_0111_006512,9).
+vaccine(it_0111_006512,0,1).
 patient(it_0111_006512,neg).
 
 %patient: it-0124-005134 index:3264
@@ -69493,6 +72757,7 @@ who_f2(it_0124_005134,9).
 who_f3(it_0124_005134,9).
 who_f4(it_0124_005134,9).
 typeofoutcome_updated(it_0124_005134,9).
+vaccine(it_0124_005134,0,2).
 patient(it_0124_005134,neg).
 
 %patient: it-0124-005249 index:3265
@@ -69515,6 +72780,7 @@ who_f2(it_0124_005249,9).
 who_f3(it_0124_005249,9).
 who_f4(it_0124_005249,9).
 typeofoutcome_updated(it_0124_005249,9).
+vaccine(it_0124_005249,0,2).
 patient(it_0124_005249,neg).
 
 %patient: it-0124-005254 index:3266
@@ -69534,6 +72800,7 @@ who_f2(it_0124_005254,9).
 who_f3(it_0124_005254,9).
 who_f4(it_0124_005254,9).
 typeofoutcome_updated(it_0124_005254,9).
+vaccine(it_0124_005254,0,2).
 patient(it_0124_005254,neg).
 
 %patient: it-0124-005284 index:3267
@@ -69557,6 +72824,7 @@ who_f2(it_0124_005284,9).
 who_f3(it_0124_005284,9).
 who_f4(it_0124_005284,9).
 typeofoutcome_updated(it_0124_005284,9).
+vaccine(it_0124_005284,0,2).
 patient(it_0124_005284,neg).
 
 %patient: it-0111-005869 index:3268
@@ -69575,6 +72843,7 @@ who_f2(it_0111_005869,9).
 who_f3(it_0111_005869,9).
 who_f4(it_0111_005869,9).
 typeofoutcome_updated(it_0111_005869,9).
+vaccine(it_0111_005869,0,2).
 patient(it_0111_005869,neg).
 
 %patient: it-0124-005133 index:3269
@@ -69599,6 +72868,7 @@ who_f2(it_0124_005133,9).
 who_f3(it_0124_005133,9).
 who_f4(it_0124_005133,9).
 typeofoutcome_updated(it_0124_005133,9).
+vaccine(it_0124_005133,0,2).
 patient(it_0124_005133,neg).
 
 %patient: it-0124-005269 index:3270
@@ -69619,6 +72889,7 @@ who_f2(it_0124_005269,9).
 who_f3(it_0124_005269,9).
 who_f4(it_0124_005269,9).
 typeofoutcome_updated(it_0124_005269,9).
+vaccine(it_0124_005269,0,2).
 patient(it_0124_005269,neg).
 
 %patient: it-0111-006069 index:3271
@@ -69637,6 +72908,7 @@ who_f2(it_0111_006069,9).
 who_f3(it_0111_006069,9).
 who_f4(it_0111_006069,9).
 typeofoutcome_updated(it_0111_006069,9).
+vaccine(it_0111_006069,0,1).
 patient(it_0111_006069,neg).
 
 %patient: it-0111-006274 index:3272
@@ -69660,6 +72932,7 @@ who_f2(it_0111_006274,9).
 who_f3(it_0111_006274,9).
 who_f4(it_0111_006274,9).
 typeofoutcome_updated(it_0111_006274,9).
+vaccine(it_0111_006274,0,1).
 patient(it_0111_006274,neg).
 
 %patient: it-0111-006352 index:3273
@@ -69678,6 +72951,7 @@ who_f2(it_0111_006352,9).
 who_f3(it_0111_006352,9).
 who_f4(it_0111_006352,9).
 typeofoutcome_updated(it_0111_006352,9).
+vaccine(it_0111_006352,0,1).
 patient(it_0111_006352,neg).
 
 %patient: it-0111-006270 index:3274
@@ -69701,5 +72975,6 @@ who_f2(it_0111_006270,9).
 who_f3(it_0111_006270,9).
 who_f4(it_0111_006270,9).
 typeofoutcome_updated(it_0111_006270,9).
+vaccine(it_0111_006270,0,2).
 patient(it_0111_006270,neg).
 
